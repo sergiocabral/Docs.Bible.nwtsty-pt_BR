@@ -1,0 +1,206 @@
+include::./index.adoc[]
+
+[[v44-26-0]]
+=== Atos dos Apóstolos, 26
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* N. Paulo fica preso em Cesareia (24:1–26:32)
+* Os judeus apresentam acusações contra Paulo (24:1-9)
+* Defesa de Paulo diante de Félix (24:10-21)
+* O caso de Paulo é adiado por dois anos (24:22-27)
+* Julgamento de Paulo diante de Festo; “Apelo para César!” (25:1-12)
+* Festo consulta o rei Agripa sobre o caso de Paulo (25:13-22)
+* Paulo faz sua defesa diante de Agripa (25:23–26:11)
+* Em seu discurso diante de Agripa, Paulo descreve como ele se converteu (26:12-23)
+* Reações de Festo e Agripa (26:24-32)
+****
+
+[[v44-26-1]]
+
+^<<v44-26-1,1>>^ Agripa disse a Paulo: “Você tem permissão de falar em seu favor.” Então Paulo estendeu a mão e começou a sua defesa:
+
+[[v44-26-2]]
+
+^<<v44-26-2,2>>^ “No que se refere a todas as coisas de que sou acusado pelos judeus, rei Agripa, eu me considero feliz por ser diante de Vossa Majestade que hoje devo fazer minha defesa,
+
+[[v44-26-3]]
+
+^<<v44-26-3,3>>^ especialmente porque é conhecedor de todos os costumes e das controvérsias que há entre os judeus. Portanto, peço-lhe que me ouça com paciência.
+
+[[v44-26-4]]
+
+^<<v44-26-4,4>>^ “Realmente, quanto à vida que levei desde a juventude, entre o meu povo^&#42;1^ e em Jerusalém, todos os judeus
+
+[NOTE]
+====
+. Ou: “a minha nação”.
+====
+
+[[v44-26-5]]
+
+^<<v44-26-5,5>>^ que me conhecem há muito tempo bem sabem que vivi como fariseu, segundo a seita mais rigorosa da nossa religião; eles, se quiserem, podem dar testemunho disso.
+
+[TIP]
+====
+- *seita mais rigorosa da nossa religião*: Ou: “seita mais rigorosa da nossa forma de adoração”. — Veja a nota de estudo em At 24:5.
+====
+
+[[v44-26-6]]
+
+^<<v44-26-6,6>>^ Mas, por causa da minha esperança na promessa que Deus fez aos nossos antepassados, agora estou sendo julgado;
+
+[[v44-26-7]]
+
+^<<v44-26-7,7>>^ é o cumprimento dessa mesma promessa que as nossas 12 tribos esperam ver, prestando a ele serviço sagrado intensamente, dia e noite. É por causa dessa esperança que estou sendo acusado pelos judeus, ó rei.
+
+[TIP]
+====
+- *prestando a ele serviço sagrado*: O verbo grego usado aqui, latreúo, tem o sentido básico de “servir”. Na Bíblia, ele geralmente se refere a prestar serviço a Deus ou a trabalhar em serviços relacionados com a adoração dele (Mt 4:10; Lu 2:37; 4:8; At 7:7; Ro 1:9; Fil 3:3; 2Ti 1:3; He 9:14; 12:28; Ap 7:15; 22:3), como, por exemplo, os serviços que eram feitos no santuário ou no templo (He 8:5; 9:9; 10:2; 13:10). Por isso, em certos contextos latreúo pode ser traduzido como “adorar”. Em alguns poucos casos, esse verbo é usado com relação à adoração falsa, ou seja, a servir ou adorar coisas criadas. (At 7:42; Ro 1:25) Algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J14-17 no Apêndice C4) dizem “servindo (adorando) a Jeová”.
+====
+
+[[v44-26-8]]
+
+^<<v44-26-8,8>>^ “Por que os senhores acham^&#42;1^ impossível crer que Deus levante os mortos?
+
+[NOTE]
+====
+. Ou: “julgam”.
+====
+
+[[v44-26-9]]
+
+^<<v44-26-9,9>>^ Eu mesmo estava convencido de que devia combater de todas as formas o nome de Jesus, o Nazareno.
+
+[TIP]
+====
+- *o Nazareno*: Veja a nota de estudo em Mr 10:47.
+====
+
+[[v44-26-10]]
+
+^<<v44-26-10,10>>^ Foi exatamente isso que fiz em Jerusalém. Coloquei muitos santos na prisão, pois eu tinha recebido dos principais sacerdotes autoridade para isso; e, quando eles deviam ser executados, eu votava contra eles.
+
+[TIP]
+====
+- *votava*: Ou: “lançava o meu voto”. Lit.: “lançava para baixo uma pedra”. Ou seja, uma pedra usada para votar. A palavra grega pséfos, que pode ser traduzida como “voto”, se refere a uma “pequena pedra”. (Ap 2:17) Nos tribunais, as pessoas usavam pequenas pedras para expressar sua opinião sobre se alguém era inocente ou culpado. As pedras brancas indicavam inocência, absolvição. As pedras pretas indicavam culpa, condenação.
+====
+
+[[v44-26-11]]
+
+^<<v44-26-11,11>>^ Em todas as sinagogas, muitas vezes eu os puni para tentar obrigá-los a renunciar à sua fé. Como eu estava extremamente furioso com eles, cheguei a persegui-los até mesmo em cidades afastadas.
+
+[[v44-26-12]]
+
+^<<v44-26-12,12>>^ “Com esse objetivo eu estava viajando para Damasco, com plenos poderes e autoridade concedidos pelos principais sacerdotes.
+
+[[v44-26-13]]
+
+^<<v44-26-13,13>>^ E na estrada, ó rei, ao meio-dia, vi uma luz do céu, mais resplandecente que o sol, brilhar em volta de mim e em volta dos que viajavam comigo.
+
+[[v44-26-14]]
+
+^<<v44-26-14,14>>^ Todos nós caímos no chão, e então ouvi uma voz me dizer em hebraico: ‘Saulo, Saulo, por que você me persegue? Ao resistir às aguilhadas, você só faz mal a si mesmo.’
+
+[TIP]
+====
+- *em hebraico*: Veja a nota de estudo em Jo 5:2.
+- *resistir às aguilhadas*: Ou: “dar pontapés contra as aguilhadas”. Uma aguilhada é uma vara pontuda usada para fazer um animal se mover. (Jz 3:31) A expressão “dar pontapés contra as aguilhadas” era um provérbio usado na literatura grega que fazia referência a um touro teimoso que resiste aos toques de uma aguilhada dando coices contra ela e machucando a si mesmo. Saulo agia da mesma forma antes de se tornar cristão. Por lutar contra os seguidores de Jesus, que tinham o apoio de Jeová Deus, ele correu o risco de se prejudicar seriamente. (Compare com At 5:38, 39 e 1Ti 1:13, 14.) Em Ec 12:11, as “aguilhadas” se referem, em sentido figurado, às palavras de um sábio que motivam a pessoa a seguir um conselho.
+====
+
+[[v44-26-15]]
+
+^<<v44-26-15,15>>^ E eu perguntei: ‘Quem é o senhor?’ E o Senhor respondeu: ‘Eu sou Jesus, a quem você persegue.
+
+[[v44-26-16]]
+
+^<<v44-26-16,16>>^ Mas levante-se e fique de pé. Eu apareci a você para o escolher como servo e testemunha tanto das coisas que você viu como das coisas que lhe farei ver a meu respeito.
+
+[[v44-26-17]]
+
+^<<v44-26-17,17>>^ E eu o livrarei deste povo e das nações, a quem o envio
+
+[[v44-26-18]]
+
+^<<v44-26-18,18>>^ para lhes abrir os olhos, para convertê-los da escuridão para a luz e da autoridade de Satanás para Deus, de modo que recebam perdão de pecados e uma herança entre os santificados pela fé em mim.’
+
+[[v44-26-19]]
+
+^<<v44-26-19,19>>^ “Portanto, rei Agripa, não desobedeci à visão celestial,
+
+[[v44-26-20]]
+
+^<<v44-26-20,20>>^ mas, primeiro aos de Damasco, depois aos de Jerusalém e de toda a região da Judeia, e também às nações, levei a mensagem de que deviam se arrepender e se converter a Deus, praticando obras próprias do arrependimento.
+
+[TIP]
+====
+- *se arrepender*: A palavra grega usada aqui pode ser traduzida literalmente como “mudar de ideia”. Ela passa a ideia de mudar o modo de pensar, as atitudes ou os objetivos na vida. Neste contexto, a expressão “se arrepender” está ligada com a expressão se converter a Deus, indicando que a pessoa deve fazer mudanças na vida para poder agradar a Deus e ter a amizade dele. A pessoa mostra que está arrependida de verdade quando pratica obras próprias do arrependimento. Em outras palavras, as ações da pessoa vão mostrar que ela realmente mudou seu modo de pensar e suas atitudes. — Veja as notas de estudo em Mt 3:2, 8; Lu 3:8 e o Glossário, “Arrependimento”.
+====
+
+[[v44-26-21]]
+
+^<<v44-26-21,21>>^ É por isso que os judeus me agarraram no templo e tentaram me matar.
+
+[[v44-26-22]]
+
+^<<v44-26-22,22>>^ No entanto, visto que Deus tem me ajudado, continuo até hoje a dar testemunho tanto a pequenos como a grandes, e não digo nada além do que os Profetas e Moisés declararam que ia acontecer:
+
+[[v44-26-23]]
+
+^<<v44-26-23,23>>^ que o Cristo haveria de sofrer e, como primeiro a ser ressuscitado dentre os mortos,^&#42;1^ proclamaria a luz tanto a este povo como às nações.”
+
+[NOTE]
+====
+. Lit.: “primeiro dentre a ressurreição”.
+====
+
+[[v44-26-24]]
+
+^<<v44-26-24,24>>^ Enquanto Paulo falava em sua defesa, Festo disse bem alto: “Você está ficando louco, Paulo! Seu grande saber o está levando à loucura!”
+
+[[v44-26-25]]
+
+^<<v44-26-25,25>>^ Mas Paulo respondeu: “Não estou ficando louco, Excelentíssimo Festo, mas estou dizendo palavras de verdade e de bom senso.
+
+[[v44-26-26]]
+
+^<<v44-26-26,26>>^ Na realidade, o rei a quem estou falando com franqueza conhece muito bem tudo isso; estou convencido de que nem uma única dessas coisas lhe passou despercebida, porque nada disso foi feito em segredo.
+
+[[v44-26-27]]
+
+^<<v44-26-27,27>>^ Crê nos Profetas, rei Agripa? Sei que crê.”
+
+[[v44-26-28]]
+
+^<<v44-26-28,28>>^ Mas Agripa disse a Paulo: “Em pouco tempo você me persuadiria a me tornar cristão.”
+
+[TIP]
+====
+- *cristão*: Veja a nota de estudo em At 11:26.
+====
+
+[[v44-26-29]]
+
+^<<v44-26-29,29>>^ Então, Paulo respondeu: “Eu peço a Deus que, quer em pouco quer em muito tempo, não somente Vossa Majestade, mas também todos os que hoje me ouvem, se tornem como eu, mas sem estas correntes que me prendem.”
+
+[[v44-26-30]]
+
+^<<v44-26-30,30>>^ Assim o rei se levantou, bem como o governador, Berenice e os homens sentados com eles.
+
+[[v44-26-31]]
+
+^<<v44-26-31,31>>^ E, ao saírem, comentavam entre si: “Esse homem não faz nada que mereça a morte ou a prisão.”
+
+[[v44-26-32]]
+
+^<<v44-26-32,32>>^ Então Agripa disse a Festo: “Esse homem poderia ter sido solto se não tivesse apelado para César.”
+
+[TIP]
+====
+- *César*: Ou: “o Imperador”. Nessa época, o imperador romano era Nero. O governo dele começou em 54 d.C. e terminou em 68 d.C., quando Nero, que tinha uns 31 anos, cometeu suicídio. Nos capítulos 25 a 28 de Atos, o título César sempre se refere a Nero. — Veja as notas de estudo em Mt 22:17; At 17:7 e o Glossário.
+====
+
+'''
+
+xref:044-atos/044-atos-025.adoc#v44-25-0[&#60; Capítulo Anterior] | <<v44-26-0,Topo>> | xref:044-atos/044-atos-027.adoc#v44-27-0[Próximo Capítulo &#62;]

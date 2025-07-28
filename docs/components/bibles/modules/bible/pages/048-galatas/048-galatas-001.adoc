@@ -1,0 +1,212 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== Aos Gálatas, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* A Carta aos Gálatas: Títulos de livros bíblicos, como este, pelo visto não faziam parte do texto original. Os manuscritos mais antigos, como um códice em papiro conhecido como P46, indicam que esses títulos foram acrescentados mais tarde, provavelmente para ajudar a identificar os livros. (Veja a mídia “A carta de Paulo aos gálatas”.) Outros manuscritos muito antigos, como o Códice Vaticano e o Códice Sinaítico (do século 4 d.C.), contêm o mesmo título que aparece no códice P46.
+****
+
+.Notas do capítulo
+****
+* A. INTRODUÇÃO (1:1-9)
+* Saudações iniciais de Paulo (1:1-5)
+* Alerta sobre uma forma distorcida de boas novas (1:6-9)
+* B. PAULO DEFENDE SUAS QUALIFICAÇÕES COMO APÓSTOLO (1:10–2:14)
+* Deus escolhe Paulo para ser apóstolo; início das atividades de Paulo (1:10-24)
+* Paulo se encontra com os apóstolos em Jerusalém (2:1-10)
+* Paulo conta como corrigiu Cefas (Pedro) em Antioquia da Síria (2:11-14)
+****
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ Paulo, apóstolo não da parte de homens nem por homem algum, mas por Jesus Cristo e por Deus, o Pai, que o levantou dentre os mortos,
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ e todos os irmãos comigo, às congregações da Galácia:
+
+[TIP]
+====
+- *às congregações da Galácia*: Durante a primeira viagem missionária de Paulo, que aconteceu por volta de 47-48 d.C., ele e Barnabé passaram pela Galácia (veja a nota de estudo em Galácia neste versículo). Eles visitaram cidades na parte sul dessa região, como Antioquia da Pisídia, Icônio, Listra e Derbe. (At 13:14, 51; 14:1, 5, 6) Nessas cidades, Paulo e Barnabé encontraram muitas pessoas ansiosas para aprender sobre as boas novas e, por isso, formaram congregações ali. (At 14:19-23) Parece que as sementes do cristianismo que eles plantaram entre os gálatas deram ótimos frutos. Timóteo, por exemplo, era da Galácia. (At 16:1) As “congregações da Galácia” a quem Paulo escreveu eram formadas por uma mistura de judeus e não judeus. Entre os não judeus, havia tanto homens que tinham sido circuncidados (prosélitos) como homens que não tinham sido. (At 13:14, 43; 16:1; Gál 5:2) É muito provável que alguns desses cristãos fossem de origem celta. As congregações da Galácia também são mencionadas em outras cartas das Escrituras Gregas Cristãs. Por exemplo, por volta de 55 d.C., quando Paulo escreveu aos coríntios, ele mencionou as orientações que tinha dado “às congregações da Galácia” sobre pôr algo à parte para dar aos pobres. (1Co 16:1, 2; Gál 2:10) Alguns anos mais tarde (cerca de 62-64 d.C.), Pedro escreveu sua primeira carta para, entre outros, os “residentes temporários espalhados [pela] . . . Galácia”. — 1Pe 1:1; veja a nota de estudo em Gál 3:1.
+- *Galácia*: No século 1 d.C., o nome Galácia era usado para se referir tanto à província romana que ocupava a parte central do que hoje é a Ásia Menor como a uma das regiões que ficava dentro dessa província. — Veja o Glossário.
+====
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ Que vocês tenham bondade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[TIP]
+====
+- *Que vocês tenham bondade imerecida e paz*: Veja a nota de estudo em Ro 1:7.
+====
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ Ele se entregou pelos nossos pecados a fim de nos livrar deste mundo mau, segundo a vontade do nosso Deus e Pai;
+
+[TIP]
+====
+- *mundo*: Ou: “sistema de coisas”. A palavra grega usada aqui, aión, tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. (2Ti 4:10; veja o Glossário, “Sistema(s) de coisas”.) Quando Paulo usou a expressão “deste mundo mau” (lit.: “da atual época má”), ele pelo visto estava se referindo ao sistema de coisas que teve início algum tempo depois do Dilúvio. Os humanos começaram a desenvolver um estilo de vida injusto, marcado pelo pecado e pela rebeldia contra Deus e sua vontade. Apesar de os cristãos do século 1 d.C. terem de conviver com o “mundo mau” que os cercava, eles não faziam parte dele. Eles tinham sido libertados do mundo pelo sacrifício de resgate de Jesus Cristo. — Veja a nota de estudo em 2Co 4:4.
+====
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ a Ele seja dada a glória para todo o sempre. Amém.
+
+[TIP]
+====
+- *Amém*: Veja a nota de estudo em Ro 1:25.
+====
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ Estou admirado de que vocês estejam se afastando tão depressa Daquele que os chamou com a bondade imerecida de Cristo, para seguirem outro tipo de boas novas.
+
+[TIP]
+====
+- *que vocês estejam se afastando tão depressa*: Estas palavras mostram um motivo importante para Paulo ter escrito esta carta. Fazia relativamente pouco tempo que Paulo tinha visitado a Galácia, mas alguns nas congregações daquela região já estavam se afastando dos ensinos cristãos. Mais à frente em sua carta, Paulo fala de uma “má influência” (Gál 3:1), que incluía “falsos irmãos” que tinham ‘se infiltrado’ (Gál 2:4) nas congregações. (Veja as notas de estudo em Gál 2:4; 3:1.) Entre esses falsos irmãos, estavam os judaizantes, que diziam que os cristãos precisavam seguir a Lei mosaica. (Veja a nota de estudo em Gál 1:13.) Os judaizantes continuaram insistindo nessa opinião, mesmo depois de os apóstolos e anciãos em Jerusalém terem dito que os não judeus não eram obrigados a obedecer a Lei. (At 15:1, 2, 23-29; Gál 5:2-4) Paulo dá a entender que os judaizantes faziam isso para tentar agradar os opositores judeus e, assim, fugir da perseguição. (Gál 6:12, 13) Pode ser que esses falsos irmãos dissessem que Paulo não era realmente um apóstolo, já que queriam que as congregações se afastassem dele. (Gál 1:11, 12; 4:17) Além dessa má influência, pode ser também que alguns dos gálatas tivessem a tendência de ser imorais, briguentos ou egoístas. Essas características carnais, que Paulo cita na última parte de sua carta, poderiam levá-los a se afastar de Deus. — Gál 5:13–6:10.
+- *outro tipo de boas novas*: Alguns “falsos irmãos” (Gál 2:4) estavam pregando um ensino diferente, “algo além” daquilo que os cristãos da Galácia tinham aprendido. As boas novas que Paulo tinha declarado a eles incluíam “as boas novas a respeito do Cristo”. (Gál 1:7, 8) Elas falavam da liberdade que Cristo era capaz de dar: liberdade da escravidão à Lei mosaica e liberdade da escravidão ao pecado herdado de Adão. (Gál 3:13; 5:1, 13 e a nota de estudo) Essas boas novas não eram “de origem humana”. — Gál 1:8, 9, 11, 12; 2Co 11:4; veja a nota de estudo em Gál 1:8.
+====
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ Não que haja outras boas novas, mas há alguns que estão perturbando vocês e querendo distorcer as boas novas a respeito do Cristo.
+
+[TIP]
+====
+- *estão perturbando vocês*: De acordo com um léxico, o verbo grego traduzido aqui como “estão perturbando” passa a ideia de “agitar; perturbar; desestabilizar; lançar em confusão”. Aqui e em outros contextos, esse verbo é usado para se referir a causar perturbação mental ou espiritual. (At 15:24; Gál 5:10) Esse mesmo verbo foi usado em At 17:13, que fala sobre judeus que foram a Bereia para “agitar as multidões”.
+====
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ No entanto, mesmo que um de nós ou um anjo do céu lhes declare como boas novas algo além das boas novas que lhes declaramos, que ele seja amaldiçoado.
+
+[TIP]
+====
+- *que ele seja amaldiçoado*: Aqui, Paulo alerta os cristãos da Galácia sobre “alguns” que estavam “querendo distorcer as boas novas a respeito do Cristo”. (Gál 1:7) Pelo visto, ele estava se referindo a homens que defendiam as tradições judaicas em vez das boas novas. Paulo explica que os cristãos deveriam considerar “amaldiçoado” qualquer um (até mesmo um anjo) que declarasse a eles boas novas além daquelas que eles tinham recebido. Ele repete esse alerta no versículo 9. A palavra grega traduzida aqui como “amaldiçoado” (anáthema) se refere literalmente a algo “guardado”. Originalmente, ela era usada para se referir a algo que era entregue em um templo para cumprir um voto e que era guardado, ou colocado à parte, como sagrado. Aqui, ela foi usada em sentido negativo e se refere a alguém colocado à parte para ser declarado mau ou perverso. (1Co 12:3; 16:22; veja a nota de estudo em Ro 9:3.) Na Septuaginta, essa é a palavra geralmente usada para traduzir a palavra hebraica hhérem, que se refere a alguém ou a algo “condenado à destruição” ou “separado para a destruição”. — De 7:26; 13:17.
+====
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ Como acabamos de dizer, digo agora novamente: Quem quer que esteja lhes declarando como boas novas algo além daquilo que vocês aceitaram, seja amaldiçoado.
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ É, de fato, a homens que estou buscando persuadir agora, ou é a Deus? Ou estou tentando agradar a homens? Se eu ainda estivesse agradando a homens, não seria escravo de Cristo.
+
+[TIP]
+====
+- *É, de fato, a homens que estou buscando persuadir agora, ou é a Deus?*: Aqui, Paulo está se defendendo de alguns “falsos irmãos” da Galácia que, pelo visto, estavam dizendo que ele tinha mudado sua mensagem para convencer os cristãos daquela região a ficarem do lado dele. (Gál 2:4) Por exemplo, parece que eles acusavam Paulo de defender a circuncisão quando isso era conveniente para ele. (Gál 5:11) A palavra grega traduzida aqui como “persuadir”, peítho, também passa a ideia de “apelar para; conquistar; ganhar a aprovação de”. Em outras palavras, Paulo estava perguntando: “Estou querendo ganhar a aprovação de homens, ou de Deus?” Sem dúvida, o importante para Paulo era ter a aprovação de Deus. É verdade que, para tocar o coração de diferentes grupos de pessoas, Paulo adaptava sua maneira de apresentar as boas novas. (Veja a nota de estudo em 1Co 9:22.) Mas ele nunca mudava o conteúdo delas. (Veja a nota de estudo em Ou estou tentando agradar a homens? neste versículo.) Nos versículos anteriores, Paulo deixou claro que só existia uma mensagem verdadeira: “as boas novas a respeito do Cristo”. — Gál 1:6-9.
+- *Ou estou tentando agradar a homens?*: Algumas pessoas acusavam Paulo de bajular outros para ser aceito por eles. A resposta óbvia para a pergunta de Paulo era: “É claro que não!” Se estivesse tentando agradar a homens, Paulo estaria indo contra sua afirmação de que era um escravo de Cristo. — 1Te 2:4.
+====
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ Pois quero que saibam, irmãos, que as boas novas que eu declarei a vocês não são de origem humana;
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ porque não as recebi de um homem, e ninguém as ensinou a mim, mas elas me foram reveladas por Jesus Cristo.
+
+[TIP]
+====
+- *elas me foram reveladas por Jesus Cristo*: Ou: “as recebi de Jesus Cristo por meio de uma revelação”. A palavra grega apokálypsis, traduzida aqui como “reveladas”, significa literalmente “exposição; exibição”. Nas Escrituras Gregas Cristãs, ela muitas vezes se refere a uma revelação recebida de Deus ou de Jesus sobre assuntos espirituais. Neste versículo, Paulo mostra que as boas novas que ele pregava não tinham sido reveladas a ele por um humano, mas pelo próprio Jesus Cristo. Essa era mais uma prova de que Paulo era realmente um apóstolo. Assim como os outros apóstolos, Paulo aprendeu as boas novas e recebeu sua designação diretamente de Jesus. (1Co 9:1; Ef 3:3) Mais à frente nesta carta, Paulo fala de uma revelação específica que ele recebeu de Cristo, orientando que ele levasse o assunto da circuncisão aos apóstolos e anciãos em Jerusalém. — Veja a nota de estudo em Gál 2:2.
+====
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Vocês, naturalmente, ouviram falar da minha conduta anterior no judaísmo, que eu perseguia intensamente a congregação de Deus e a devastava,
+
+[TIP]
+====
+- *judaísmo*: O judaísmo era o sistema religioso seguido pela grande maioria dos judeus nos dias de Paulo. Nas Escrituras Gregas Cristãs, a palavra “judaísmo” aparece apenas aqui e no versículo 14. Os membros dessa religião afirmavam seguir as Escrituras Hebraicas de perto, mas davam muita importância às “tradições [dos] pais”. (Veja a nota de estudo em Gál 1:14.) Jesus condenou os que davam mais valor a essas tradições do que aos mandamentos de Deus e, assim, invalidavam a Palavra de Deus. — Mr 7:8, 13.
+- *intensamente*: A palavra grega que aparece aqui, hyperbolé, poderia ser traduzida literalmente como “até o excesso”. Paulo usa essa palavra para mostrar que perseguia a congregação cristã num grau extremo, extraordinário. (At 8:1, 3; 9:1, 2; 26:10, 11; Fil 3:6) A palavra hyperbolé aparece oito vezes nas Escrituras Gregas Cristãs. — Veja as notas de estudo em 2Co 4:7; 12:7.
+====
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ e que eu fazia mais progresso no judaísmo do que muitos da minha nação que tinham a minha idade, visto que eu era muito mais zeloso das tradições de meus pais.
+
+[TIP]
+====
+- *tradições de meus pais*: A palavra grega para “tradição” (parádosis) se refere a algo que é passado adiante, como, por exemplo, informações, instruções ou práticas. Aqui, Paulo está se referindo ao conjunto de tradições religiosas que era seguido pelos líderes religiosos judaicos, especialmente os fariseus e os escribas. A religião deles se baseava nas Escrituras Hebraicas, mas também incluía muitas tradições humanas que eles tinham acrescentado. (Mt 15:2, 3; Mr 7:3, 5, 13; veja a nota de estudo em Gál 1:13.) Visto que Paulo era “filho de fariseus”, ele recebeu sua educação de líderes religiosos judaicos, como Gamaliel, que era um instrutor muito respeitado da tradição farisaica. (At 22:3; 23:6; Fil 3:5; veja a nota de estudo em At 5:34.) Mas Paulo explica que isso, na verdade, teve um efeito negativo sobre ele. O zelo dele pelas tradições de seus antepassados o levou a ‘perseguir intensamente a congregação de Deus e a devastá-la’. — Gál 1:13; Jo 16:2, 3.
+====
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ Mas, quando Deus, que causou o meu nascimento^&#42;1^ e me chamou por meio da Sua bondade imerecida, achou bom
+
+[NOTE]
+====
+. Ou: “que me pôs à parte desde o nascimento”.
+====
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ revelar o seu Filho por meu intermédio, para que eu declarasse às nações as boas novas a respeito dele, não fui imediatamente consultar homem algum;
+
+[TIP]
+====
+- *homem algum*: Em grego, Paulo usa aqui uma expressão idiomática que era comum entre os judeus e que poderia ser traduzida literalmente como “carne e sangue”. Neste versículo, ela se refere a um ser humano. — 1Co 15:50; Ef 6:12; veja a nota de estudo em Mt 16:17.
+====
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ nem fui a Jerusalém, aos que eram apóstolos antes de mim, mas fui para a Arábia e depois voltei a Damasco.
+
+[TIP]
+====
+- *fui para a Arábia e depois voltei a Damasco*: Esta viagem não foi incluída no breve relato de Atos sobre as atividades de Paulo (na época conhecido como Saulo) logo depois de ele ter se convertido em Damasco. (At 9:18-20, 23-25) Assim, as palavras de Paulo aqui complementam o que Lucas escreveu em Atos. Uma possibilidade é que Paulo primeiro tenha pregado sobre sua nova fé em Damasco, para só depois partir para a Arábia, possivelmente para os desertos da Síria. (Veja o Glossário, “Arábia”.) Daí, ele pode ter voltado a Damasco e continuado a pregar ali por “muitos dias, [até que] os judeus tramaram matá-lo”. (At 9:23) A Bíblia não explica o motivo de Paulo ter ido para a Arábia, mas pode ser que ele quisesse passar algum tempo a sós meditando nas Escrituras logo depois de sua conversão. — Compare com Mr 1:12.
+====
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Então, três anos depois, subi a Jerusalém para visitar Cefas e fiquei com ele 15 dias.
+
+[TIP]
+====
+- *Então, três anos depois*: É possível que aqui Paulo esteja se referindo a três anos incompletos, não inteiros. Ele talvez tenha chegado em Jerusalém em 36 d.C. Essa foi provavelmente a primeira vez que Paulo foi a Jerusalém depois de ter se tornado cristão.
+- *para visitar*: Alguns estudiosos sugerem que o verbo grego traduzido aqui como “para visitar” pode incluir a ideia de fazer uma visita com o objetivo de obter informações. É provável que Paulo tivesse muitas coisas para perguntar para Pedro e Tiago, e que eles também tivessem muitas perguntas a fazer para Paulo sobre a visão que ele teve e a designação que ele recebeu.
+- *Cefas*: Este era um dos nomes do apóstolo Pedro. — Veja a nota de estudo em 1Co 1:12.
+====
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ Mas não vi nenhum dos outros apóstolos, a não ser Tiago, o irmão do Senhor.
+
+[TIP]
+====
+- *nenhum dos outros apóstolos, a não ser Tiago*: A palavra grega para “apóstolo” tem o sentido básico de “alguém enviado” e é usada na maioria das vezes para se referir aos 12 apóstolos de Jesus. (Lu 8:1; veja a nota de estudo em Jo 13:16 e o Glossário, “Apóstolo”.) Mas ela também pode ser usada com um sentido mais amplo, como acontece aqui em Gálatas, onde ela se refere não apenas a Pedro (“Cefas”, Gál 1:18; 2:9), que era um dos 12, mas também a Tiago, o irmão do Senhor, ou seja, o meio-irmão de Jesus. (Veja as notas de estudo em Mt 13:55; At 1:14; 12:17.) Pelo visto, Tiago era considerado um apóstolo no sentido de que era alguém enviado como representante da congregação de Jerusalém. Esse uso mais amplo da palavra ajudaria a explicar por que, ao falar desse mesmo acontecimento, At 9:26, 27 também usa o plural e diz que Paulo foi levado “aos apóstolos”.
+====
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ Quanto às coisas que estou escrevendo a vocês, eu lhes garanto, perante Deus, que não estou mentindo.
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ Depois disso, fui para as regiões da Síria e da Cilícia.
+
+[TIP]
+====
+- *regiões da Síria e da Cilícia*: Pelo visto, neste versículo Paulo usa a palavra “regiões” em um sentido genérico. Pode ser que aqui a ‘região da Síria’ seja simplesmente a área ao redor de Antioquia, e a ‘região da Cilícia’, a área ao redor de Tarso, onde Paulo cresceu. (Veja o Apêndice B13.) Depois que Paulo visitou Jerusalém por volta de 36 d.C., ele foi enviado de volta a Tarso. Uns oito anos mais tarde (por volta de 45 d.C.), Barnabé o levou para Antioquia, onde os dois passaram um ano inteiro pregando. (At 9:28-30; 11:22-26) A Bíblia não dá detalhes sobre o que Paulo fez nesse intervalo de cerca de oito anos, mas ele pelo visto estava tão ocupado pregando as boas novas que as notícias sobre suas atividades chegaram até a distante Judeia. (Gál 1:21-24) Quando Paulo alista em 2Co 11:23-27 as dificuldades que enfrentou em seu ministério, ele menciona vários acontecimentos que não foram registrados no livro de Atos. Pode ser que alguns desses acontecimentos tenham ocorrido durante esse período. (Veja a nota de estudo em 2Co 11:25.) Parece também que, em algum momento durante esse período, Paulo recebeu uma visão sobrenatural que teve um grande impacto em seu ensino. — 2Co 12:1-4; veja as notas de estudo em 2Co 12:2, 4.
+====
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ Mas as congregações da Judeia, que estavam em união com Cristo, não me conheciam pessoalmente.
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ Apenas ouviam dizer: “O homem que antes nos perseguia está agora declarando as boas novas a respeito da fé que antes devastava.”
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ De modo que começaram a glorificar a Deus por minha causa.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-galatas/048-galatas-002.adoc#v48-2-0[Próximo Capítulo &#62;]

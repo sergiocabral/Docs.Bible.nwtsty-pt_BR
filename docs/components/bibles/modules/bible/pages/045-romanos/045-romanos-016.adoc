@@ -1,0 +1,210 @@
+include::./index.adoc[]
+
+[[v45-16-0]]
+=== A Carta aos Romanos, 16
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. PEDIDO FINAL E SAUDAÇÕES (15:30–16:27)
+* Paulo exorta os cristãos em Roma a orarem por ele (15:30-33)
+* Paulo apresenta Febe, uma ministra da congregação em Cencreia (16:1, 2)
+* Saudações de Paulo a irmãos específicos de Roma (16:3-16)
+* Alerta contra divisões (16:17-19)
+* Deus esmagará em breve a Satanás (16:20)
+* Saudações dos colaboradores de Paulo (16:21-24)
+* Glória a Deus, que é o único sábio, por meio de Jesus Cristo (16:25-27)
+****
+
+[[v45-16-1]]
+
+^<<v45-16-1,1>>^ Apresento-lhes a nossa irmã Febe, que é ministra da congregação em Cencreia,
+
+[TIP]
+====
+- *Apresento-lhes*: Ou: “Recomendo-lhes”. Pelo visto, as palavras que Paulo escreveu sobre Febe tinham o objetivo de incentivar os cristãos em Roma a recebê-la bem e a terem por ela a mesma consideração que ele tinha. (Ro 16:2) A palavra grega que aparece aqui está relacionada com uma palavra que Paulo usou em 2Co 3:1 na expressão “cartas de recomendação”. Nos tempos bíblicos, era comum usar esse tipo de carta para apresentar uma pessoa a alguém que ela não conhecia. Pode ser que a própria Febe, chamada neste versículo de “ministra da congregação em Cencreia”, tenha levado a carta de Paulo aos cristãos em Roma.
+- *ministra*: Ou: “serva”. A palavra grega que aparece aqui, diákonos, é bem abrangente. Quando Paulo chamou Febe de “ministra da congregação”, ele pelo visto estava se referindo ao trabalho que ela fazia pregando as boas novas, ou seja, ao ministério cristão. Esse ministério é uma responsabilidade de todos os cristãos. (Compare At 2:17, 18 com a nota de estudo em Ro 11:13.) Em Lu 8:3, o verbo relacionado diakonéo foi usado para se referir a mulheres que ministravam, ou ajudavam, a Jesus e seus seguidores, providenciando alimento e outras coisas que eles precisavam. Visto que a palavra diákonos é às vezes usada para se referir aos que foram designados para servir na função de “servos ministeriais” na congregação (Fil 1:1; 1Ti 3:8, 12), alguns tradutores usam aqui em Ro 16:1 a tradução “diaconisa”. Mas a Bíblia não indica que essa função possa ser exercida por mulheres. Pelo contrário, quando a Bíblia fala sobre as qualificações dos que servem como “servos ministeriais”, ela diz que eles devem ser “maridos de uma só esposa”. (1Ti 3:8-13) Por isso, muitos tradutores entendem que a palavra diákonos foi usada aqui em sentido mais genérico e a traduzem simplesmente como “serva”.
+- *Cencreia*: Este era o nome de um dos portos que serviam à cidade de Corinto. Ele ficava uns 11 quilômetros ao leste da cidade. Foi desse porto que Paulo viajou para Éfeso por volta de 52 d.C., depois de ter passado mais de um ano e meio em Corinto. (Veja a nota de estudo em At 18:18.) As Escrituras não dizem quando a congregação de Cencreia foi formada. Alguns sugerem que isso aconteceu como resultado do longo período que Paulo ficou em Corinto. O que se sabe com certeza é que a congregação foi formada antes de 56 d.C., quando Paulo escreveu sua carta aos romanos.
+====
+
+[[v45-16-2]]
+
+^<<v45-16-2,2>>^ para que vocês a acolham no Senhor de um modo digno dos santos e lhe deem toda a ajuda necessária, pois ela mesma também se mostrou defensora de muitos, de mim inclusive.
+
+[TIP]
+====
+- *defensora*: A palavra grega que aparece aqui, prostátis, tem o sentido básico de “alguém que protege”. Isso indica que Febe realizava boas ações e ajudava os que estavam em necessidade. Febe tinha liberdade para viajar e para prestar serviço na congregação, o que pode indicar que ela era viúva e, possivelmente, rica. Se isso for verdade, ela pode ter usado sua influência na comunidade para agir em favor de cristãos que eram acusados falsamente ou para protegê-los em situações de perigo.
+====
+
+[[v45-16-3]]
+
+^<<v45-16-3,3>>^ Transmitam minhas saudações a Prisca e Áquila, meus colaboradores em Cristo Jesus,
+
+[TIP]
+====
+- *Transmitam minhas saudações*: Do versículo 3 até o versículo 15, Paulo envia saudações aos cristãos de Roma. Além de citar 26 deles por nome, ele menciona muitos outros individualmente ou como grupo. Paulo dava valor às mulheres cristãs, suas irmãs em sentido espiritual. Isso fica claro nessa passagem, onde ele menciona de forma específica oito delas: Prisca, Maria, Trifena, Trifosa, Pérside, Júlia, a mãe de Rufo e a irmã de Nereu. Nessa época, já fazia muitos anos que Paulo era um apóstolo de destaque. (At 9:15; Ro 1:1; 11:13) Mas, como indicam esses versículos, ele nunca deixou de mostrar interesse pessoal em seus companheiros de adoração.
+- *Prisca e Áquila*: Este casal de cristãos fiéis tinha sido expulso de Roma no ano 49 ou no início do ano 50 d.C., quando o imperador Cláudio emitiu um decreto expulsando os judeus dali. Cláudio morreu em 54 d.C. e, quando Paulo escreveu aos cristãos romanos por volta de 56 d.C., Prisca e Áquila já tinham voltado para Roma. (Veja a nota de estudo em At 18:2.) Paulo chama Prisca e Áquila de seus colaboradores. A palavra grega para “colaborador”, synergós, ocorre 12 vezes nas Escrituras Gregas Cristãs, a maioria delas nas cartas de Paulo. (Ro 16:9, 21; Fil 2:25; 4:3; Col 4:11; Flm 1, 24) Entre essas ocorrências, se destaca a de 1Co 3:9, onde Paulo diz: “Somos colaboradores de Deus.”
+====
+
+[[v45-16-4]]
+
+^<<v45-16-4,4>>^ que arriscaram o próprio pescoço por mim e a quem não somente eu, mas também todas as congregações das nações, somos gratos.
+
+[TIP]
+====
+- *arriscaram o próprio pescoço*: A expressão grega que aparece aqui significa literalmente “colocaram o pescoço debaixo”. Alguns sugerem que ela seja uma figura de linguagem ligada à decapitação, que era uma forma de execução usada nos tempos romanos. A expressão criava uma imagem forte, passando a ideia de morte iminente e violenta. Aqui, Paulo indica que Áquila e Prisca (Priscila) tinham arriscado suas vidas para salvá-lo. Alguns sugerem que isso aconteceu durante o tumulto criado pelos prateiros em Éfeso. (At 19:28-31) Pode ter sido nessa situação perigosa que Paulo chegou a pensar que iria morrer (2Co 1:8) e que Áquila e Prisca arriscaram suas vidas para salvá-lo. Mas a Bíblia não deixa claro de que ocasião Paulo está falando aqui.
+- *mim*: Ou: “minha vida (alma)”. Neste versículo, a palavra grega psykhé se refere a uma pessoa ou à vida de uma pessoa. — Veja o Glossário, “Alma”.
+====
+
+[[v45-16-5]]
+
+^<<v45-16-5,5>>^ Saudações também à congregação que se reúne na casa deles. Saudações ao meu amado Epêneto, que é um dos primeiros frutos da Ásia para Cristo.
+
+[[v45-16-6]]
+
+^<<v45-16-6,6>>^ Saudações a Maria, que trabalhou arduamente a favor de vocês.
+
+[TIP]
+====
+- *Maria*: As Escrituras Gregas Cristãs mencionam seis mulheres que se chamavam Maria. Aqui, Paulo elogia a Maria que morava em Roma por ter trabalhado arduamente a favor da congregação dessa cidade. Essa Maria não é mencionada em nenhum outro lugar da Bíblia, e não há outras informações sobre ela. — Veja a nota de estudo em Lu 1:27.
+====
+
+[[v45-16-7]]
+
+^<<v45-16-7,7>>^ Saudações a Andrônico e a Júnias, meus parentes e companheiros de prisão, que são homens bem conhecidos pelos apóstolos e estão em união com Cristo há mais tempo do que eu.
+
+[[v45-16-8]]
+
+^<<v45-16-8,8>>^ Transmitam minhas saudações a Amplíato, meu amado no Senhor.
+
+[[v45-16-9]]
+
+^<<v45-16-9,9>>^ Saudações a Urbano, nosso colaborador em Cristo, e também ao meu amado Estáquis.
+
+[[v45-16-10]]
+
+^<<v45-16-10,10>>^ Saudações a Apeles, o aprovado em Cristo. Saudações aos da casa de Aristóbulo.
+
+[[v45-16-11]]
+
+^<<v45-16-11,11>>^ Saudações a Herodião, meu parente. Saudações aos da casa de Narciso que estão no Senhor.
+
+[[v45-16-12]]
+
+^<<v45-16-12,12>>^ Saudações a Trifena e Trifosa, mulheres que trabalham arduamente no Senhor. Saudações à nossa amada Pérside, pois ela tem trabalhado arduamente no Senhor.
+
+[[v45-16-13]]
+
+^<<v45-16-13,13>>^ Saudações a Rufo, o escolhido no Senhor, e à mãe dele, que é também minha.
+
+[[v45-16-14]]
+
+^<<v45-16-14,14>>^ Saudações a Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e aos irmãos que estão com eles.
+
+[[v45-16-15]]
+
+^<<v45-16-15,15>>^ Saudações a Filólogo e Júlia, Nereu e sua irmã, e Olimpas, e a todos os santos que estão com eles.
+
+[[v45-16-16]]
+
+^<<v45-16-16,16>>^ Cumprimentem uns aos outros com beijo santo. Todas as congregações do Cristo mandam saudações a vocês.
+
+[TIP]
+====
+- *com beijo santo*: Em quatro de suas cartas (aqui e em 1Co 16:20; 2Co 13:12; 1Te 5:26), Paulo pede para os cristãos se cumprimentarem “com beijo santo”. Em 1Pe 5:14, o apóstolo Pedro também disse: “Cumprimentem uns aos outros com beijo fraterno.” Nos tempos bíblicos, beijar alguém era um sinal de afeição, respeito e paz. Também era costume beijar ao cumprimentar uma pessoa ou ao se despedir dela. (Ru 1:14; Lu 7:45) Era comum beijar os parentes; além de beijar as mulheres (Gên 29:11; 31:28), os homens também beijavam uns aos outros (Gên 27:26, 27; 45:15; Êx 18:7; 2Sa 14:33). Também era comum beijar amigos achegados. (1Sa 20:41, 42; 2Sa 19:39; veja a nota de estudo em At 20:37). Para os cristãos, o ato de beijar refletia a união espiritual que havia entre eles. Os que tinham sido atraídos à adoração verdadeira viam uns aos outros como verdadeiros irmãos. Entre eles, o beijo não era uma simples formalidade ou um ritual e não envolvia sentimentos românticos ou eróticos. — Jo 13:34, 35.
+====
+
+[[v45-16-17]]
+
+^<<v45-16-17,17>>^ Eu os exorto agora, irmãos, a ficar atentos àqueles que causam divisões e dão motivos para tropeço contrariando os ensinamentos que vocês aprenderam; afastem-se deles.
+
+[[v45-16-18]]
+
+^<<v45-16-18,18>>^ Porque homens como esses não são escravos de Cristo, nosso Senhor, mas dos seus próprios desejos, e, com conversa suave e bajulação, seduzem o coração dos ingênuos.
+
+[TIP]
+====
+- *dos seus próprios desejos*: Ou: “do seu próprio ventre”. A palavra grega koilía, traduzida aqui como “desejos”, se refere literalmente ao “estômago” ou às entranhas de uma pessoa. Neste versículo e em Fil 3:19, ela é usada em sentido figurado para se referir ao apetite, ou desejo, carnal. Aqui, Paulo explica que aqueles que se tornam escravos “dos seus próprios desejos” não podem ser “escravos de Cristo, nosso Senhor”. O texto de Fil 3:19 fala de pessoas que tinham o seu “ventre”, ou seja, seus desejos carnais, como seu deus.
+====
+
+[[v45-16-19]]
+
+^<<v45-16-19,19>>^ A obediência de vocês se tornou conhecida por todos, e eu me alegro por sua causa. Mas quero que vocês sejam sábios quanto ao que é bom, porém inocentes quanto ao que é mau.
+
+[[v45-16-20]]
+
+^<<v45-16-20,20>>^ O Deus que dá paz esmagará em breve a Satanás debaixo dos pés de vocês. Que a bondade imerecida do nosso Senhor Jesus esteja com vocês.
+
+[TIP]
+====
+- *esmagará . . . a Satanás*: Estas palavras lembram a primeira profecia bíblica, registrada em Gên 3:15. Ela fala sobre o “descendente” de uma mulher figurativa e diz que ele ‘esmagaria a cabeça’ da serpente. Isso se refere à destruição de Satanás, “a serpente original”. (Ap 12:9) Aqui, Paulo fala desse mesmo acontecimento usando uma palavra grega que os léxicos definem como “destruir; quebrar em pedaços esmagando; derrotar completamente”. Essa mesma palavra grega aparece em Ap 2:27, que diz que as nações “serão despedaçadas como vasos de barro”. Os cristãos para quem Paulo estava escrevendo eram “co-herdeiros com Cristo”. (Ro 8:17) Ao usar a expressão debaixo dos pés de vocês, Paulo estava indicando que esses co-herdeiros participariam em esmagar a Satanás. — Compare com Mal 4:3.
+====
+
+[[v45-16-21]]
+
+^<<v45-16-21,21>>^ Timóteo, meu colaborador, manda-lhes saudações, e também Lúcio, Jasão e Sosípatro, meus parentes.
+
+[[v45-16-22]]
+
+^<<v45-16-22,22>>^ Eu, Tércio, que escrevi esta carta, mando-lhes saudações no Senhor.
+
+[TIP]
+====
+- *Tércio*: Paulo usou Tércio para escrever ou transcrever sua carta aos romanos. Tércio é o único dos secretários de Paulo que foi identificado por nome. O fato de ele usar as palavras no Senhor indica que ele era um cristão fiel. É possível que Tércio fizesse parte da congregação de Corinto. Pode ser que ele conhecesse muitos cristãos em Roma e que, por isso, tenha incluído suas próprias saudações aqui.
+====
+
+[[v45-16-23]]
+
+^<<v45-16-23,23>>^ Gaio, que hospeda a mim e a toda a congregação, envia saudações a vocês. Erasto, o tesoureiro da cidade, envia-lhes saudações, e também Quarto, irmão dele.
+
+[TIP]
+====
+- *que hospeda a mim*: Ou seja, a Paulo. Aqui, Tércio volta a escrever em nome de Paulo. As palavras pessoais de Tércio se limitam ao versículo anterior.
+- *o tesoureiro da cidade*: Ou: “o administrador da cidade; o mordomo da cidade”. A palavra grega traduzida aqui como “tesoureiro” é oikonómos. Ela tem o sentido básico de “administrador de uma casa” e geralmente é traduzida como “administrador”. Neste versículo, onde a palavra oikonómos aparece junto com a palavra grega para “cidade”, ela pelo visto se refere ao responsável pelos assuntos financeiros da cidade de Corinto. Em 1929, arqueólogos encontraram em uma escavação em Corinto uma pedra de calçamento com uma inscrição que diz que aquele calçamento foi financiado por alguém chamado Erasto. Não é possível saber se o Erasto mencionado na inscrição é o mesmo que foi mencionado por Paulo, mas acredita-se que o calçamento seja do século 1 d.C.
+- *irmão dele*: Aqui, o texto grego diz literalmente “o irmão”, o que poderia ser entendido de duas formas. Pode ser que Quarto fosse o irmão biológico de Erasto. Mas Paulo também pode ter chamado Quarto de “irmão” em sentido espiritual. Nesse caso, a tradução seria “nosso irmão”.
+====
+
+[[v45-16-24]]
+
+^<<v45-16-24,24>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos gregos e algumas traduções antigas da Bíblia para outros idiomas acrescentam aqui*: “Que a bondade imerecida de nosso Senhor Jesus Cristo esteja com todos vocês. Amém.” Outros manuscritos acrescentam essas mesmas palavras depois do versículo 27. Mas, nos manuscritos mais antigos e confiáveis, apenas o versículo 20 tem palavras parecidas com essas. Isso dá fortes motivos para acreditar que, no texto original, essas palavras não apareciam nem aqui, no versículo 24, nem depois do versículo 27. — Veja o Apêndice A3.
+====
+
+[[v45-16-25]]
+
+^<<v45-16-25,25>>^ Àquele que pode fazê-los firmes, de acordo com as boas novas que eu declaro e com^&#42;1^ a pregação sobre Jesus Cristo, segundo a revelação do segredo sagrado que foi mantido em silêncio por tempos de longa duração
+
+[NOTE]
+====
+. Ou, possivelmente: “declaro, isto é,”.
+====
+
+[TIP]
+====
+- *revelação*: Lit.: “exposição; exibição”. A palavra grega que aparece aqui é apokálypsis. Assim como acontece neste versículo, ela muitas vezes é usada para se referir à revelação de assuntos espirituais ou dos propósitos e da vontade de Deus. (Ef 3:3; Ap 1:1) Ele é a verdadeira Fonte desse tipo de revelação. — Compare com a nota de estudo em Lu 2:32.
+====
+
+[[v45-16-26]]
+
+^<<v45-16-26,26>>^ — mas que agora foi revelado^&#42;1^ e dado a conhecer entre todas as nações por meio das Escrituras proféticas, de acordo com a ordem do Deus eterno, para promover a obediência pela fé —,
+
+[NOTE]
+====
+. Ou: “manifestado”.
+====
+
+[[v45-16-27]]
+
+^<<v45-16-27,27>>^ a Deus, que é o único sábio, seja dada a glória por meio de Jesus Cristo para sempre. Amém.
+
+[TIP]
+====
+- *Amém*: Veja a nota de estudo em Ro 1:25.
+====
+
+'''
+
+xref:045-romanos/045-romanos-015.adoc#v45-15-0[&#60; Capítulo Anterior] | <<v45-16-0,Topo>> | xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[Próximo Capítulo &#62;]

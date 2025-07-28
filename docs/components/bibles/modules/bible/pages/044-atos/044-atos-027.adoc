@@ -1,0 +1,275 @@
+include::./index.adoc[]
+
+[[v44-27-0]]
+=== Atos dos Apóstolos, 27
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* O. Viagem de Paulo para Roma (27:1–28:16)
+* Paulo sai de Cesareia e vai para Roma em um navio de Adramítio (27:1-12)
+* Uma tempestade atinge o navio (27:13-38)
+* O navio naufraga (27:39-44)
+* Paulo chega à ilha de Malta; ele sobrevive à picada de uma víbora (28:1-6)
+* Paulo cura o pai de Públio e outros (28:7-10)
+* A caminho de Roma, Paulo passa por Siracusa, Régio e Putéoli (28:11-16)
+****
+
+[[v44-27-1]]
+
+^<<v44-27-1,1>>^ Como foi decidido que navegaríamos para a Itália, Paulo e alguns outros prisioneiros foram entregues a um oficial do exército chamado Júlio, do regimento de Augusto.
+
+[TIP]
+====
+- *navegaríamos*: Conforme explicado nas notas de estudo em At 16:10 e 20:5, em algumas partes do livro de Atos, Lucas narra os acontecimentos na primeira pessoa, às vezes usando o pronome “nós”. (At 27:20) Isso indica que Lucas acompanhou Paulo em alguns trechos de suas muitas viagens. Deste versículo até At 28:16, Lucas narra os acontecimentos dessa forma, mostrando que ele estava com Paulo na viagem para Roma.
+- *um oficial do exército*: Ou: “um centurião”. Um oficial que comandava cerca de 100 soldados do exército romano.
+====
+
+[[v44-27-2]]
+
+^<<v44-27-2,2>>^ Embarcamos em um navio de Adramítio, que estava prestes a partir para portos ao longo da costa da província da Ásia, e começamos a viagem; Aristarco, um macedônio de Tessalônica, estava conosco.
+
+[[v44-27-3]]
+
+^<<v44-27-3,3>>^ No dia seguinte, fizemos escala em Sídon; e Júlio tratou Paulo com bondade, permitindo que ele visitasse seus amigos e recebesse o cuidado deles.
+
+[TIP]
+====
+- *com bondade*: Ou: “com humanidade”. Lit.: “com afeição pela humanidade”. A palavra grega filanthrópos e a palavra relacionada filanthropía passam a ideia de “mostrar interesse ou preocupação amorosa por outros seres humanos”. Depois de passar um dia no mar e viajar cerca de 110 quilômetros para o norte, o navio atracou em Sídon, na costa da Síria. Pelo visto, Júlio, o oficial do exército, tratou Paulo melhor do que trataria um criminoso comum, possivelmente porque Paulo era um cidadão romano e ainda não tinha sido condenado. — At 22:27, 28; 26:31, 32.
+====
+
+[[v44-27-4]]
+
+^<<v44-27-4,4>>^ Partindo dali, navegamos sob o abrigo de Chipre, porque os ventos eram contrários.
+
+[[v44-27-5]]
+
+^<<v44-27-5,5>>^ Então atravessamos o mar aberto ao longo da Cilícia e da Panfília, e aportamos em Mirra, na Lícia.
+
+[[v44-27-6]]
+
+^<<v44-27-6,6>>^ Ali o oficial do exército encontrou um navio de Alexandria que estava indo para a Itália, e nos fez embarcar nele.
+
+[TIP]
+====
+- *um navio*: Ou seja, um navio usado para transportar cereais. (At 27:37, 38) Naquela época, o Egito era o principal fornecedor de cereais para Roma. Navios egípcios costumavam atracar no porto de Mirra, uma cidade importante que ficava no sudoeste da Ásia Menor, próximo à costa. Depois de encontrar um desses navios, Júlio, o oficial do exército, fez os soldados e os prisioneiros embarcarem nele. Esse navio deve ter sido bem maior do que o navio que eles tinham usado na primeira parte da viagem. (At 27:1-3) Além de transportar uma valiosa carga de trigo, o navio estava levando 276 pessoas, o que incluía a tripulação, os soldados, os prisioneiros e, provavelmente, outras pessoas que estavam indo para Roma. Pode ser que Mirra fizesse parte da rota regular dos navios que saíam da cidade egípcia de Alexandria, já que Mirra ficava do outro lado do Mediterrâneo, em linha reta na direção norte. Ou pode ser que ventos contrários (At 27:4, 7) tenham forçado o navio de Alexandria a mudar o seu curso e atracar em Mirra. — Veja o Apêndice B13.
+====
+
+[[v44-27-7]]
+
+^<<v44-27-7,7>>^ Depois de navegarmos vagarosamente por muitos dias, chegamos com dificuldade a Cnido. Visto que o vento não nos permitia continuar naquela direção, navegamos sob o abrigo de Creta, à altura de Salmone.
+
+[[v44-27-8]]
+
+^<<v44-27-8,8>>^ E, costeando com dificuldade, chegamos a um lugar chamado Bons Portos, que ficava perto da cidade de Laseia.
+
+[[v44-27-9]]
+
+^<<v44-27-9,9>>^ Havia passado bastante tempo e agora era perigoso navegar, porque até mesmo o dia do jejum já tinha passado. Então Paulo os advertiu:
+
+[TIP]
+====
+- *o dia do jejum*: Ou: “o jejum do Dia da Expiação; o jejum do outono”. Lit.: “o jejum”. A palavra grega traduzida como “jejum” se refere ao único jejum que a Lei mosaica ordenava: o jejum relacionado ao Dia da Expiação, que ocorria uma vez por ano. Esse dia também era chamado de Yom Kippur (do hebraico yohm hakkippurím, “dia das coberturas”). (Le 16:29-31; 23:26-32; Núm 29:7; veja o Glossário, “Dia da Expiação”.) A expressão “afligir a si mesmos” é usada no contexto do Dia da Expiação e parece se referir a vários tipos de restrições que as pessoas estabeleciam para si mesmas, incluindo o jejum. (Le 16:29, nota de rodapé) O fato de Lucas, aqui neste versículo, ter chamado esse dia de “o jejum” apoia a ideia de que jejuar era uma das principais restrições praticadas no Dia da Expiação. Esse dia caía no fim de setembro ou início de outubro, que era quando começava a época de chuvas e mares agitados.
+====
+
+[[v44-27-10]]
+
+^<<v44-27-10,10>>^ “Homens, vejo que esta viagem vai resultar em danos e em grandes perdas, não só da carga e do navio, mas também de nossas vidas.”
+
+[TIP]
+====
+- *vidas*: Ou: “almas”. A palavra grega psykhé, que aparece aqui no plural, pode se referir a pessoas ou à vida delas. — Veja o Glossário, “Alma”, e o Apêndice A2.
+====
+
+[[v44-27-11]]
+
+^<<v44-27-11,11>>^ Mas o oficial do exército, em vez de ouvir o que Paulo dizia, ouviu o piloto e o dono do navio.
+
+[[v44-27-12]]
+
+^<<v44-27-12,12>>^ Visto que o porto não era adequado para passar o inverno, a maioria foi da opinião de que partissem dali para ver se de algum modo conseguiam chegar a Fênix, um porto de Creta que dá para o nordeste e para o sudeste; ali poderiam passar o inverno.
+
+[[v44-27-13]]
+
+^<<v44-27-13,13>>^ Quando o vento sul soprou suavemente, acharam que seu objetivo já estava alcançado; então levantaram âncora e foram navegando ao longo de Creta, próximo ao litoral.
+
+[[v44-27-14]]
+
+^<<v44-27-14,14>>^ Porém, pouco tempo depois, veio do lado da ilha um vento violento, conhecido como euraquilão,
+
+[TIP]
+====
+- *euraquilão*: Em grego, Eurakýlon. Em latim, euroaquilo. Este termo se refere a um vento do nordeste que os marinheiros de Malta chamam de “gregal” e que é o vento mais violento do Mediterrâneo. Navegar nessas condições era extremamente perigoso para um navio com velas grandes, já que ele poderia virar facilmente.
+====
+
+[[v44-27-15]]
+
+^<<v44-27-15,15>>^ que arrastou o navio com violência, de modo que não era possível manter a proa contra o vento; assim, desistimos e deixamos que o vento nos levasse.
+
+[[v44-27-16]]
+
+^<<v44-27-16,16>>^ Passamos então sob o abrigo de uma pequena ilha chamada Cauda; mesmo assim, mal conseguimos controlar o bote que trazíamos a reboque.
+
+[TIP]
+====
+- *o bote*: A palavra grega que aparece aqui, skáfe, se refere a um pequeno bote auxiliar que era rebocado pelo navio ou que, no caso de navios maiores, podia ser mantido a bordo. Ele podia ser usado para chegar à costa quando o navio estava ancorado, para descarregar o navio ou para puxar o navio quando era necessário manobrar. Em uma emergência, ele também podia ser usado como bote salva-vidas. Nas tempestades, o bote era içado e preso ao navio para que não afundasse ou fosse esmagado.
+====
+
+[[v44-27-17]]
+
+^<<v44-27-17,17>>^ Depois de o içarem a bordo, começaram a reforçar o casco do navio, amarrando-o; então, com medo de encalhar em Sirte, arriaram o aparelho, e assim o navio foi levado pelo vento.
+
+[TIP]
+====
+- *Sirte*: O nome grego Sýrtis vem de uma raiz que significa “arrastar” e era o nome de dois golfos que ficam na grande reentrância da costa norte da África, no que hoje é a Líbia. O golfo oeste (entre Túnis e Trípoli) era chamado de Sirte Menor (hoje conhecido como golfo de Gabes). O outro golfo, logo ao leste, era chamado de Sirte Maior (hoje conhecido como golfo de Sidra). Os marinheiros temiam os dois golfos por causa dos bancos de areia que constantemente mudavam de lugar com as marés. Falando sobre os barcos que ficavam presos nesses bancos de areia, o geógrafo grego Estrabão, do século 1 d.C., disse: “É raro um barco conseguir escapar em segurança”. (Geography, 17, III, 20) E o historiador Josefo (The Jewish War, 2.16.4 [2.381]) disse que apenas ouvir o nome Sirte já causava medo nas pessoas. — Veja o Apêndice B13.
+- *o aparelho*: Pelo visto, se refere aos cabos e às vergas usados para levantar e sustentar as velas.
+====
+
+[[v44-27-18]]
+
+^<<v44-27-18,18>>^ Como estávamos sendo violentamente sacudidos pela tempestade, no dia seguinte começaram a jogar a carga no mar.
+
+[[v44-27-19]]
+
+^<<v44-27-19,19>>^ E, no terceiro dia, com as próprias mãos lançaram ao mar a armação do navio.
+
+[[v44-27-20]]
+
+^<<v44-27-20,20>>^ Por muitos dias, o sol e as estrelas não apareceram, e uma violenta tempestade se abatia sobre nós. Então, por fim começou a desaparecer toda a esperança de sermos salvos.
+
+[TIP]
+====
+- *uma violenta tempestade*: Lit.: “não pequena tempestade”. A expressão grega que aparece aqui se refere a uma forte tempestade. Nos dias de Paulo, os marinheiros usavam o sol e as estrelas como pontos de referência e, por isso, o céu nublado tornava a navegação muito difícil.
+====
+
+[[v44-27-21]]
+
+^<<v44-27-21,21>>^ Depois de passarem muito tempo sem comer nada, Paulo se levantou no meio deles e disse: “Homens, certamente vocês deviam ter aceitado o meu conselho e não ter partido de Creta; assim não teriam sofrido esses danos e perdas.
+
+[[v44-27-22]]
+
+^<<v44-27-22,22>>^ Ainda assim, eu os incentivo agora a ter coragem, pois nenhum de vocês morrerá, apenas o navio se perderá.
+
+[TIP]
+====
+- *pois nenhum de vocês morrerá*: Ou: “pois nem uma única vida (alma) se perderá”. Aqui, a palavra grega psykhé se refere a uma pessoa ou à vida dela. — Veja o Glossário, “Alma”, e o Apêndice A2.
+====
+
+[[v44-27-23]]
+
+^<<v44-27-23,23>>^ Na noite passada apareceu ao meu lado um anjo do Deus a quem pertenço e a quem presto serviço sagrado;
+
+[TIP]
+====
+- *a quem presto serviço sagrado*: Ou: “a quem sirvo (adoro)”. — Veja a nota de estudo em At 26:7.
+====
+
+[[v44-27-24]]
+
+^<<v44-27-24,24>>^ ele disse: ‘Não tenha medo, Paulo. Você tem de comparecer perante César; além disso, Deus lhe concedeu a vida de todos os que navegam com você.’
+
+[[v44-27-25]]
+
+^<<v44-27-25,25>>^ Portanto, homens, tenham coragem, pois eu acredito em Deus que acontecerá exatamente assim como me foi dito.
+
+[[v44-27-26]]
+
+^<<v44-27-26,26>>^ No entanto, devemos ser lançados em uma ilha.”
+
+[[v44-27-27]]
+
+^<<v44-27-27,27>>^ Era a décima quarta noite, e nós estávamos sendo jogados de um lado para o outro no mar de Ádria, quando, à meia-noite, os marinheiros começaram a suspeitar que estávamos chegando perto de terra.
+
+[TIP]
+====
+- *no mar de Ádria*: Nos dias de Paulo, o “mar de Ádria” abrangia uma área maior que a do atual mar Adriático. O geógrafo grego Estrabão explica que esse nome veio da cidade de Átria, que ficava junto à foz do rio Pó, no local conhecido hoje como golfo de Veneza. (Geography, 5, I, 8) A cidade moderna de Ádria fica a uma certa distância da costa. Parece que inicialmente o nome Ádria era usado para se referir à parte do mar mais próxima da cidade antiga e, com o tempo, passou a incluir as águas dos mares conhecidos hoje como Adriático e Jônico, além das águas do Mediterrâneo entre o leste da Sicília (e Malta) e o oeste de Creta. — Veja o Apêndice B13.
+====
+
+[[v44-27-28]]
+
+^<<v44-27-28,28>>^ Sondaram a profundidade e descobriram que era de 20 braças. Assim, prosseguiram por uma curta distância, sondaram-na de novo e viram que era de 15 braças.
+
+[TIP]
+====
+- *20 braças*: Cerca de 36 metros. A braça era uma unidade de medida usada para indicar a profundidade da água. Em geral, entende-se que 1 braça equivale a 4 côvados (cerca de 1,8 metro) e corresponde aproximadamente à distância entre as pontas dos dedos de um homem com os braços estendidos para lados opostos. A palavra grega para “braça” (orguiá) vem de uma palavra que significa “esticar; alcançar”. — Veja o Apêndice B14-A.
+- *15 braças*: Cerca de 27 metros. — Veja a nota de estudo em 20 braças neste versículo e o Apêndice B14-A.
+====
+
+[[v44-27-29]]
+
+^<<v44-27-29,29>>^ Como estavam com medo de encalharmos nos rochedos, lançaram quatro âncoras da popa, ansiosos para que o dia amanhecesse.
+
+[[v44-27-30]]
+
+^<<v44-27-30,30>>^ Mas, quando os marinheiros, tentando escapar do navio, baixaram o bote ao mar com o pretexto de lançar âncoras da proa,
+
+[[v44-27-31]]
+
+^<<v44-27-31,31>>^ Paulo disse ao oficial do exército e aos soldados: “A menos que esses homens permaneçam no navio, vocês não poderão ser salvos.”
+
+[[v44-27-32]]
+
+^<<v44-27-32,32>>^ Os soldados cortaram então os cabos do bote e o deixaram cair.
+
+[[v44-27-33]]
+
+^<<v44-27-33,33>>^ Perto do amanhecer, Paulo encorajou todos a se alimentar, dizendo: “Hoje é o décimo quarto dia que vocês estão esperando ansiosamente, e ainda não comeram nada.
+
+[[v44-27-34]]
+
+^<<v44-27-34,34>>^ Assim, aconselho que se alimentem; isso é para o seu próprio bem, pois não se perderá nem um único fio de cabelo de vocês.”
+
+[[v44-27-35]]
+
+^<<v44-27-35,35>>^ Depois de dizer isso, ele pegou um pão, deu graças a Deus diante de todos eles, partiu-o e começou a comer.
+
+[[v44-27-36]]
+
+^<<v44-27-36,36>>^ Assim, todos tomaram coragem e também começaram a se alimentar.
+
+[[v44-27-37]]
+
+^<<v44-27-37,37>>^ Ao todo, éramos 276 pessoas no navio.
+
+[TIP]
+====
+- *276*: Alguns poucos manuscritos registram números diferentes. Mas o número 276 aparece em grande parte dos manuscritos mais antigos e confiáveis, e é aceito pela maioria dos estudiosos. Naquela época, já existiam navios com capacidade para levar essa quantidade de passageiros. O historiador Josefo, por exemplo, fala de um navio com cerca de 600 pessoas que naufragou a caminho de Roma.
+- *pessoas*: Ou: “almas”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, aparece aqui no plural e se refere a pessoas. — Veja o Glossário, “Alma”, e o Apêndice A2.
+====
+
+[[v44-27-38]]
+
+^<<v44-27-38,38>>^ Depois de comerem o suficiente, aliviaram o navio, lançando o trigo ao mar.
+
+[[v44-27-39]]
+
+^<<v44-27-39,39>>^ Quando o dia amanheceu, não reconheceram aquela terra, mas viram uma baía com uma praia e decidiram que, se possível, encalhariam o navio ali.
+
+[[v44-27-40]]
+
+^<<v44-27-40,40>>^ Assim, cortaram os cabos das âncoras, deixaram-nas cair no mar e, ao mesmo tempo, soltaram as amarras dos lemes;^&#42;1^ depois de içarem ao vento a vela da frente, seguiram em direção à praia.
+
+[NOTE]
+====
+. Ou: “remos que serviam de leme”.
+====
+
+[[v44-27-41]]
+
+^<<v44-27-41,41>>^ Então bateram em um banco de areia que era banhado pelo mar em ambos os lados, e o navio encalhou; a proa se prendeu e ficou imóvel, mas a popa começou a ser despedaçada pelas ondas.
+
+[[v44-27-42]]
+
+^<<v44-27-42,42>>^ Com isso, os soldados decidiram matar os prisioneiros para que ninguém fugisse nadando.
+
+[[v44-27-43]]
+
+^<<v44-27-43,43>>^ Mas o oficial do exército estava determinado a salvar Paulo e os impediu de executar o plano. Ele mandou que os que sabiam nadar saltassem primeiro ao mar para alcançarem a terra
+
+[[v44-27-44]]
+
+^<<v44-27-44,44>>^ e que os demais fossem atrás: alguns em tábuas e outros em pedaços do navio. Assim, todos chegaram a terra sãos e salvos.
+
+'''
+
+xref:044-atos/044-atos-026.adoc#v44-26-0[&#60; Capítulo Anterior] | <<v44-27-0,Topo>> | xref:044-atos/044-atos-028.adoc#v44-28-0[Próximo Capítulo &#62;]

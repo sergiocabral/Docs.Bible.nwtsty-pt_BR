@@ -1,0 +1,246 @@
+include::./index.adoc[]
+
+[[v45-6-0]]
+=== A Carta aos Romanos, 6
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-6-1]]
+
+^<<v45-6-1,1>>^ O que diremos então? Continuaremos no pecado para que a bondade imerecida aumente?
+
+[[v45-6-2]]
+
+^<<v45-6-2,2>>^ Certamente que não! Visto que morremos com relação ao pecado, como podemos ainda continuar vivendo nele?
+
+[[v45-6-3]]
+
+^<<v45-6-3,3>>^ Ou vocês não sabem que todos nós, que fomos batizados em Cristo Jesus, fomos batizados na sua morte?
+
+[TIP]
+====
+- *batizados em Cristo Jesus*: Quando Jesus foi batizado em água, Deus o ungiu com espírito santo. Com isso, Jesus se tornou o Cristo, ou o Ungido. (At 10:38) Naquele momento, Jesus também foi gerado como um filho de Deus em sentido espiritual. (Veja a nota de estudo em Mt 3:17.) Depois que Deus batizou Jesus com espírito santo, o caminho estava aberto para que os seguidores de Jesus também fossem batizados com espírito santo. (Mt 3:11; At 1:5) Quando um discípulo de Jesus é ungido por Jeová e se torna um filho de Deus gerado por espírito, ele também é ‘batizado em Cristo Jesus’, ou seja, no ungido Jesus. Com isso, ele é unido a Cristo e se torna um membro do corpo dele, ou seja, da congregação de cristãos ungidos da qual Jesus é o cabeça. (1Co 12:12, 13, 27; Col 1:18) Os seguidores ungidos de Cristo também são “batizados na sua morte”. — Veja a nota de estudo em batizados na sua morte neste versículo.
+- *batizados na sua morte*: Ou: “imersos na sua morte”. Paulo usa aqui a palavra grega baptízo (“mergulhar; imergir”). Depois de Jesus ter sido batizado em água em 29 d.C., ele começou a passar pelo batismo mencionado em Mr 10:38. (Veja a nota de estudo.) Esse batismo, que estava em andamento durante todo o ministério de Jesus, se completou quando ele foi executado em 14 de nisã de 33 d.C. e ressuscitado três dias depois. Em Mr 10:39, Jesus disse a seus seguidores que eles seriam batizados “com o batismo com que [ele estava] sendo batizado”. Os cristãos ungidos, como membros do corpo de Cristo, são ‘batizados na morte’ de Jesus no sentido de que, assim como Jesus, eles passam a viver uma vida de sacrifícios, que inclui abrir mão da esperança de viver para sempre na Terra. Esse batismo continua durante toda a sua vida, enquanto eles mantêm a integridade ao passar por provações, e se completa quando eles morrem e são ressuscitados como criaturas espirituais. — Ro 6:4, 5.
+====
+
+[[v45-6-4]]
+
+^<<v45-6-4,4>>^ Portanto, fomos sepultados com ele por meio do nosso batismo na sua morte, a fim de que, assim como Cristo foi levantado dentre os mortos por meio do poder glorioso^&#42;1^ do Pai, assim também nós vivamos uma vida nova.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “da glória”.
+. Ou: “andemos em novidade de vida”.
+====
+
+[[v45-6-5]]
+
+^<<v45-6-5,5>>^ Se fomos unidos a ele na semelhança da sua morte, certamente seremos também unidos a ele na semelhança da sua ressurreição.
+
+[TIP]
+====
+- *unidos a ele*: Lit.: “plantados juntos”. A palavra grega que aparece aqui é sýmfytos. Neste versículo, ela passa a ideia de estar ligado a outra pessoa por uma experiência em comum ou parecida. Alguns consideram que a imagem mental criada pela palavra seja a de um galho que é enxertado em uma árvore e cresce junto com ela.
+====
+
+[[v45-6-6]]
+
+^<<v45-6-6,6>>^ Pois sabemos que a nossa velha personalidade foi pregada na estaca junto com ele a fim de que o nosso corpo pecaminoso^&#42;1^ perdesse seu poder, de modo que não fôssemos mais escravos do pecado.
+
+[NOTE]
+====
+. Ou: “que pertence ao pecado”.
+====
+
+[TIP]
+====
+- *a nossa velha personalidade*: Ou: “o nosso velho eu; a pessoa que éramos antes”. Lit.: “o nosso velho homem”. A palavra grega traduzida aqui como “personalidade” é ánthropos. Ela tem o sentido básico de “um ser humano” e pode se referir tanto a um homem como a uma mulher.
+- *foi pregada na estaca junto com ele*: Paulo usa aqui o verbo grego synstauróo, que também foi usado nos Evangelhos ao falar dos que foram literalmente pregados em estacas ao lado de Jesus. (Mt 27:44; Mr 15:32; Jo 19:32) Nas suas cartas, Paulo fala muitas vezes de Jesus ter sido pregado numa estaca. (1Co 1:13, 23; 2:2; 2Co 13:4) Mas, aqui, ele usa a ideia de ser pregado numa estaca em sentido figurado para mostrar que os cristãos tinham eliminado sua velha personalidade por meio da fé no sacrifício de Cristo. Na sua carta aos gálatas, Paulo já tinha usado esse verbo em sentido figurado quando disse: “Estou agora pregado na estaca com Cristo.” — Gál 2:20.
+====
+
+[[v45-6-7]]
+
+^<<v45-6-7,7>>^ Pois quem morreu foi absolvido do seu pecado.
+
+[TIP]
+====
+- *foi absolvido*: Ou: “foi livrado (perdoado)”. Lit.: “foi justificado”. A palavra grega que aparece aqui, dikaióo, muitas vezes é traduzida como “declarar justo”. O contexto mostra que Paulo estava falando sobre os cristãos ungidos de sua época. Eles tinham sido batizados em Cristo Jesus e recebido a esperança de viver no céu. Para serem ungidos com o espirito santo e aceitos como filhos de Deus gerados por espírito, eles tiveram que passar por uma espécie de “morte”, que envolveu abandonarem completamente o modo de vida que eles tinham. Além disso, eles precisaram ter seus pecados perdoados por Deus. Depois de terem passado por isso, do ponto de vista de Deus, era como se eles fossem humanos perfeitos. Ao falar desse assunto relacionado aos ungidos, Paulo usa uma verdade básica como parte de seu argumento. Paulo sabia que a pena que Adão recebeu pelo pecado foi a morte. (Gên 2:17) Então, ele raciocina que a pessoa que morreu foi absolvida do pecado, já que cumpriu sua pena ao morrer. Em Ro 6:23, Paulo diz: “O salário pago pelo pecado é a morte.” Assim, depois que uma pessoa morre, seus pecados não são mais usados contra ela. É verdade que, se não fosse pelo sacrifício de Jesus e pela promessa de Deus de ressuscitar os mortos, a pessoa nunca voltaria a viver. Mas o fato é que ela continuaria absolvida. Deus não a julgaria novamente para lhe dar uma punição adicional.
+====
+
+[[v45-6-8]]
+
+^<<v45-6-8,8>>^ Além do mais, se morremos com Cristo, cremos que também viveremos com ele.
+
+[[v45-6-9]]
+
+^<<v45-6-9,9>>^ Pois sabemos que, agora que foi levantado dentre os mortos, Cristo não morre mais; a morte não domina mais sobre ele.
+
+[[v45-6-10]]
+
+^<<v45-6-10,10>>^ Pois a morte que ele morreu, ele morreu de uma vez para sempre com relação ao pecado, mas a vida que ele vive, ele vive com relação a Deus.
+
+[TIP]
+====
+- *com relação ao pecado*: Ou seja, para acabar com o pecado.
+====
+
+[[v45-6-11]]
+
+^<<v45-6-11,11>>^ Assim também vocês, considerem-se mortos com relação ao pecado, mas vivos com relação a Deus, por meio de Cristo Jesus.
+
+[[v45-6-12]]
+
+^<<v45-6-12,12>>^ Portanto, não deixem que o pecado continue a reinar em seus corpos mortais, fazendo com que vocês obedeçam aos seus desejos.
+
+[TIP]
+====
+- *aos seus desejos*: Ou seja, aos desejos do corpo.
+====
+
+[[v45-6-13]]
+
+^<<v45-6-13,13>>^ Nem continuem a apresentar os seus corpos ao pecado como armas da injustiça, mas apresentem-se a Deus como pessoas que passaram da morte para a vida; apresentem também os seus corpos a Deus como armas da justiça.
+
+[TIP]
+====
+- *os seus corpos*: Ou: “qualquer parte do seu corpo”. Lit.: “os seus membros”. Aqui, a palavra grega mélos (“uma parte do corpo humano”) está no plural e foi usada para se referir ao corpo inteiro. Paulo usa mélos de maneira parecida em outras partes dos capítulos 6 e 7 de Romanos. (Ro 6:19; 7:5, 23) Em Ro 12:4, ele usa essa mesma palavra ao dizer “assim como temos muitos membros em um só corpo”.
+====
+
+[[v45-6-14]]
+
+^<<v45-6-14,14>>^ Pois o pecado não deve dominar^&#42;1^ sobre vocês, visto que vocês não estão debaixo de lei, mas debaixo de bondade imerecida.
+
+[NOTE]
+====
+. Ou: “não dominará”.
+====
+
+[[v45-6-15]]
+
+^<<v45-6-15,15>>^ O que concluímos então? Cometeremos pecado, já que não estamos debaixo de lei, mas debaixo de bondade imerecida? Certamente que não!
+
+[[v45-6-16]]
+
+^<<v45-6-16,16>>^ Não sabem que, se vocês se apresentam a alguém como escravos, para lhe obedecer, são escravos daquele a quem obedecem — quer do pecado, que leva à morte, quer da obediência, que leva à justiça?
+
+[TIP]
+====
+- *escravos*: Em Ro 1:1, Paulo usa a palavra “escravo” para se referir a si mesmo. Mas, aqui em Ro 6:16-20, ele usa a palavra para falar de alguém que se apresenta como escravo ou para o pecado, que leva à morte, ou para a justiça, que leva à santidade. Os termos que Paulo usa ao fazer essa comparação com a escravidão eram bem conhecidos pelos cristãos em Roma. É provável que alguns desses cristãos até mesmo fossem escravos. Todos os cristãos em Roma sabiam que o escravo tem a obrigação de obedecer às ordens de seu senhor. Essa ilustração simples sobre um assunto conhecido, que lembra uma ilustração que Jesus fez no Sermão do Monte, com certeza motivaria os cristãos em Roma a tomar uma decisão definitiva sobre a que senhor eles serviriam. — Mt 6:24; Ro 6:17-20.
+====
+
+[[v45-6-17]]
+
+^<<v45-6-17,17>>^ Mas graças sejam dadas a Deus, pois, embora no passado vocês tenham sido escravos do pecado, tornaram-se obedientes de coração ao padrão de ensinamento a que foram entregues.
+
+[[v45-6-18]]
+
+^<<v45-6-18,18>>^ Sim, uma vez que foram libertados do pecado, vocês se tornaram escravos da justiça.
+
+[[v45-6-19]]
+
+^<<v45-6-19,19>>^ Estou falando em termos humanos por causa da fraqueza da sua carne; pois, assim como vocês apresentaram os seus membros como escravos à impureza e ao que é contra a lei, resultando no que é contra a lei, apresentem agora os seus membros como escravos à justiça, o que levará à santidade.
+
+[TIP]
+====
+- *os seus membros*: Ou seja, as partes do seu corpo. — Veja a nota de estudo em Ro 6:13.
+- *ao que é contra a lei, resultando no que é contra a lei*: O substantivo grego anomía, traduzido aqui como ‘o que é contra a lei’, não inclui apenas a ideia de violação das leis, mas também de desprezo por elas; de as pessoas agirem como se não existissem leis. Na Bíblia, anomía passa a ideia de desrespeito pelas leis de Deus. (Veja a nota de estudo em Mt 24:12; Mt 7:23; 2Co 6:14; 2Te 2:3-7; 1Jo 3:4) Neste versículo, essa palavra aparece duas vezes. Na primeira vez, ela se refere a estar inclinado a fazer o que é contra a lei. Na segunda vez, ela se refere ao resultado de ter essa inclinação, ou seja, a uma ação contra a lei. Essa mesma palavra aparece no plural em Ro 4:7, onde foi traduzida como “atos contra a lei”, e em He 10:17, onde foi traduzida como “ações contra a lei”.
+====
+
+[[v45-6-20]]
+
+^<<v45-6-20,20>>^ Pois, quando vocês eram escravos do pecado, estavam livres com respeito à justiça.
+
+[[v45-6-21]]
+
+^<<v45-6-21,21>>^ Quais eram então os frutos que vocês produziam naquele tempo? Coisas das quais se envergonham agora. Pois o fim dessas coisas é a morte.
+
+[[v45-6-22]]
+
+^<<v45-6-22,22>>^ No entanto, agora que foram libertados do pecado e se tornaram escravos de Deus, o fruto que estão produzindo é a santidade,^&#42;1^ e o fim será a vida eterna.
+
+[NOTE]
+====
+. Ou: “vocês estão produzindo fruto no modo da santidade”.
+====
+
+[[v45-6-23]]
+
+^<<v45-6-23,23>>^ Pois o salário pago pelo pecado é a morte, mas a dádiva que Deus dá é a vida eterna por Cristo Jesus, nosso Senhor.
+
+[TIP]
+====
+- *o salário pago pelo pecado*: Ou: “o salário que o pecado paga; o salário do pecado”. A palavra grega opsónion significa literalmente “pagamento; salário”. Em Lu 3:14 (veja a nota de estudo), essa palavra foi usada para se referir ao salário ou à ajuda para despesas que os soldados recebiam. Aqui, o pecado é comparado a um senhor, ou amo, que paga um salário. A pessoa que peca “recebe” a morte como “salário”, ou pagamento. Depois que ela recebe seu “salário”, seus pecados não são mais usados contra ela. Por outro lado, ela não teria nenhuma chance de voltar a viver se não fosse pelo sacrifício de Jesus e pela promessa de Deus de ressuscitar os mortos.
+- *a dádiva*: Ou: “o presente imerecido”. Lit.: “a graça”. A palavra grega que aparece aqui, khárisma, passa a ideia de um presente que a pessoa recebe sem ter feito nada para merecer. Essa palavra está relacionada com a palavra kháris, muitas vezes traduzida como “bondade imerecida”. (Veja o Glossário, “Bondade imerecida”.) A bondade de Jeová ao enviar seu Filho como sacrifício de resgate é um presente de valor incalculável. Por causa desse presente, todos os que exercem fé no sacrifício de Jesus podem receber “a dádiva”, ou presente, da vida eterna. — Jo 3:16; veja Ro 5:15, 16, onde a palavra khárisma aparece duas vezes e foi traduzida como “dádiva”.
+====
+
+'''
+
+xref:045-romanos/045-romanos-005.adoc#v45-5-0[&#60; Capítulo Anterior] | <<v45-6-0,Topo>> | xref:045-romanos/045-romanos-007.adoc#v45-7-0[Próximo Capítulo &#62;]

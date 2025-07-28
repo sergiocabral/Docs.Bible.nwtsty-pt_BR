@@ -1,0 +1,372 @@
+include::./index.adoc[]
+
+[[v43-19-0]]
+=== As Boas Novas Segundo João, 19
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Jesus é traído, preso, julgado e executado (18:1–19:42)
+* Judas Iscariotes trai Jesus (18:1-9)
+* Pedro corta a orelha de Malco com a espada (18:10, 11)
+* Jesus é levado a Anás, o principal sacerdote (18:12-14)
+* Pedro nega Jesus pela primeira vez (18:15-18)
+* Jesus é interrogado por Anás (18:19-24)
+* Pedro nega Jesus pela segunda e pela terceira vez (18:25-27)
+* Jesus é interrogado por Pilatos sobre ser um rei (18:28-40)
+* Açoitam Jesus e zombam dele (19:1-7)
+* Pilatos tenta soltar Jesus, mas faz a vontade dos judeus (19:8-16a)
+* Jesus é pregado numa estaca em Gólgota (19:16b-22)
+* Soldados cumprem profecia a respeito da roupa de Jesus (19:23, 24)
+* Jesus providencia que cuidem de sua mãe (19:25-27)
+* Jesus cumpre profecia e então morre (19:28-30)
+* Soldados cumprem profecias a respeito da morte de Jesus (19:31-37)
+* Jesus é sepultado (19:38-42)
+****
+
+[[v43-19-1]]
+
+^<<v43-19-1,1>>^ Então Pilatos levou Jesus e mandou açoitá-lo.
+
+[TIP]
+====
+- *mandou açoitá-lo*: Geralmente, antes de uma pessoa ser executada na estaca, ela era açoitada. Foi isso o que aconteceu com Jesus. Depois que Pilatos cedeu aos pedidos insistentes dos judeus que queriam que ele executasse Jesus e libertasse Barrabás, ele levou Jesus e “mandou açoitá-lo”. (Mt 20:19; 27:26) O instrumento mais terrível usado para açoitar era chamado em latim de flagellum. Era um tipo de chicote com vários cordões ou tiras de couro amarradas a um cabo. Muitas vezes, pedaços pontiagudos de osso ou de metal eram presos nas tiras para que os golpes machucassem mais.
+====
+
+[[v43-19-2]]
+
+^<<v43-19-2,2>>^ Os soldados trançaram uma coroa de espinhos e a puseram na cabeça dele, e o vestiram com um manto púrpura.
+
+[TIP]
+====
+- *coroa*: Veja a nota de estudo em Mr 15:17.
+- *o vestiram com um manto púrpura*: Veja a nota de estudo em Mr 15:17.
+====
+
+[[v43-19-3]]
+
+^<<v43-19-3,3>>^ Eles se aproximavam dele e diziam: “Salve, Rei dos judeus!” Também lhe davam bofetadas.
+
+[TIP]
+====
+- *Salve*: Veja a nota de estudo em Mt 27:29.
+====
+
+[[v43-19-4]]
+
+^<<v43-19-4,4>>^ Pilatos saiu novamente e disse ao povo: “Escutem! Vou trazê-lo para fora a vocês, para que saibam que não vejo motivo para acusá-lo.”
+
+[[v43-19-5]]
+
+^<<v43-19-5,5>>^ Então Jesus saiu, usando a coroa de espinhos e o manto púrpura. Pilatos lhes disse: “Eis o homem!”
+
+[TIP]
+====
+- *Eis o homem!*: Jesus tinha sido espancado e estava ferido, mas continuou sereno e manteve sua dignidade. Até mesmo Pilatos percebeu isso; suas palavras parecem refletir uma mistura de pena e respeito. Na Vulgata, as palavras de Pilatos foram traduzidas como ecce homo, e serviram de tema para muitas obras de arte. As pessoas que ouviram Pilatos e que conheciam as Escrituras Hebraicas podem ter se lembrado da profecia de Za 6:12, que dizia sobre o Messias: “Eis o homem cujo nome é Renovo.”
+====
+
+[[v43-19-6]]
+
+^<<v43-19-6,6>>^ No entanto, quando os principais sacerdotes e os guardas^&#42;1^ o viram, gritaram: “Para a estaca com ele! Para a estaca com ele!”^&#42;2^ Pilatos lhes disse: “Levem-no vocês mesmos e executem-no,^&#42;3^ pois eu não vejo nenhum motivo para acusá-lo.”
+
+[NOTE]
+====
+. Ou: “guardas do templo”.
+. Ou: “Execute-o na estaca! Execute-o na estaca!”
+. Ou: “e executem-no na estaca”.
+====
+
+[[v43-19-7]]
+
+^<<v43-19-7,7>>^ Os judeus lhe responderam: “Nós temos uma lei, e é segundo a lei que ele deve morrer, porque se fez filho de Deus.”
+
+[TIP]
+====
+- *Nós temos uma lei*: Os judeus acusaram Jesus de ter cometido um crime contra o governo, mas isso não teve efeito. Então, eles o acusaram de blasfemar, mostrando que na verdade tinham motivos religiosos. Algumas horas antes, no Sinédrio, Jesus já tinha sido acusado de blasfemar. Mas, para Pilatos, essa acusação era nova.
+====
+
+[[v43-19-8]]
+
+^<<v43-19-8,8>>^ Quando Pilatos ouviu o que estavam dizendo, ficou com mais medo ainda;
+
+[[v43-19-9]]
+
+^<<v43-19-9,9>>^ entrou novamente na residência do governador e disse a Jesus: “De onde você é?” Mas Jesus não lhe deu nenhuma resposta.
+
+[[v43-19-10]]
+
+^<<v43-19-10,10>>^ Por isso, Pilatos lhe disse: “Você está se recusando a falar comigo? Não sabe que tenho autoridade para libertá-lo e que tenho autoridade para executá-lo?”^&#42;1^
+
+[NOTE]
+====
+. Ou: “executá-lo na estaca”.
+====
+
+[[v43-19-11]]
+
+^<<v43-19-11,11>>^ Jesus lhe respondeu: “O senhor não teria absolutamente nenhuma autoridade sobre mim se não lhe tivesse sido concedida de cima. É por isso que o homem que me entregou ao senhor tem maior pecado.”
+
+[TIP]
+====
+- *de cima*: Ou: “do céu”. A palavra grega ánothen foi traduzida como “de cima” neste versículo e em Tg 1:17 e 3:15, 17. A mesma palavra grega aparece em Jo 3:3, 7, onde foi traduzida como “de novo”, mas também poderia ter sido traduzida como “de cima; do alto”. — Veja a nota de estudo em Jo 3:3.
+- *o homem*: Parece que Jesus não estava se referindo a Judas Iscariotes ou a outro homem específico. Em vez disso, é provável que ele estivesse pensando em todos os que tiveram participação em sua morte. Isso incluía Judas, “os principais sacerdotes e todo o Sinédrio” e até mesmo “as multidões” que foram convencidas a pedir que Barrabás fosse libertado em vez de Jesus. — Mt 26:59-65; 27:1, 2, 20-22; Jo 18:30, 35.
+====
+
+[[v43-19-12]]
+
+^<<v43-19-12,12>>^ Por isso, Pilatos procurava um meio de libertá-lo, mas os judeus gritavam: “Se o senhor libertar esse homem, não é amigo de César. Todo aquele que se faz rei fala contra^&#42;1^ César.”
+
+[NOTE]
+====
+. Ou: “se faz rei se opõe a”.
+====
+
+[TIP]
+====
+- *amigo de César*: Esta expressão era usada como um título de honra, dado com frequência aos governadores das províncias do Império Romano. Mas, nesta ocasião, em vez de usar a expressão como um título, parece que os judeus estavam dando a entender que Pilatos poderia ser acusado de tolerar traição contra César. Naquela época, o César que estava governando era Tibério, que tinha a reputação de executar qualquer pessoa que ele considerasse desleal, incluindo autoridades importantes. Foi isso o que aconteceu, por exemplo, com o comandante da Guarda Pretoriana, Lúcio Élio Sejano, que tinha sido declarado oficialmente “amigo de César”. O cargo de Sejano o tornava a segunda pessoa mais importante no governo, atrás apenas do imperador Tibério. Ele era muito influente e, enquanto esteve no poder, protegeu e apoiou Pilatos. Mas, em 31 d.C., Tibério se voltou contra Sejano, o acusou de sedição e ordenou que ele e muitos de seus apoiadores fossem executados. Esse acontecimento ainda era recente quando Jesus foi levado a Pilatos. Por isso, Pilatos sabia que, se os saduceus reclamassem dele ao imperador e o acusassem de ‘não ser amigo de César’, sua vida estaria em perigo. Ele já tinha irritado os judeus e não queria correr o risco de fazer nada que causasse mais problemas, muito menos algo que desse motivo para ser acusado de deslealdade. Assim, parece que foi o medo que Pilatos sentia do imperador, um homem conhecido por suspeitar de todos, que o levou a condenar Jesus à morte, mesmo sabendo que ele era inocente.
+- *César*: Veja a nota de estudo em Mt 22:17.
+====
+
+[[v43-19-13]]
+
+^<<v43-19-13,13>>^ Então, depois de ouvir essas palavras, Pilatos levou Jesus para fora e se sentou num tribunal, num lugar chamado Pavimento de Pedra, que em hebraico é Gabatá.
+
+[TIP]
+====
+- *tribunal*: Veja a nota de estudo em Mt 27:19.
+- *Pavimento de Pedra*: O nome deste local em hebraico era Gabbatha, traduzido aqui como Gabatá. Não se sabe ao certo de onde surgiu essa palavra que possivelmente significa “colina”, “altura” ou “espaço aberto”. O nome grego do local, Lithóstroton (Pavimento de Pedra), pode indicar um piso de pedra liso ou decorado. Alguns estudiosos acham que as pedras talvez formassem um mosaico. Hoje, não se sabe exatamente o local onde ficava esse pavimento. Pode ser que ficasse em uma área aberta em frente ao palácio de Herodes, o Grande, mas alguns estudiosos defendem outros locais.
+- *hebraico*: Veja a nota de estudo em Jo 5:2.
+====
+
+[[v43-19-14]]
+
+^<<v43-19-14,14>>^ Era o dia da Preparação da Páscoa, por volta da sexta hora. Ele disse aos judeus: “Eis o seu rei!”
+
+[TIP]
+====
+- *o dia da Preparação*: Este era o nome dado ao dia que vinha antes do sábado semanal. Nesse dia, os judeus faziam os preparativos necessários para poder guardar o sábado. (Veja a nota de estudo em Mr 15:42.) João acrescenta aqui que era a preparação da Páscoa. Os acontecimentos mencionados nos versículos anteriores ocorreram na manhã de 14 de nisã, o dia em que Jesus foi julgado e executado. A Páscoa tinha começado na noite anterior, depois do pôr do sol que marcou o início de 14 de nisã, e os outros Evangelhos mostram que naquela noite Jesus comeu a refeição pascoal junto com seus apóstolos. (Mt 26:18-20; Mr 14:14-17; Lu 22:15) Jesus Cristo cumpriu tudo aquilo que a Lei exigia, incluindo a ordem de celebrar a Páscoa em 14 de nisã. (Êx 12:6; Le 23:5) Mesmo já sendo Páscoa, João chama aqui esse dia de Preparação da Páscoa. Ele podia dizer isso porque os judeus às vezes chamavam de “Páscoa”, não apenas o dia 14 de nisã, mas também os sete dias da Festividade dos Pães sem Fermento, que começava no dia 15 de nisã. (Lu 22:1) As duas festividades estavam tão ligadas que, nos dias de Jesus, eram muitas vezes consideradas como uma única festividade. O dia seguinte ao 14 de nisã era sempre considerado um sábado, não importava o dia da semana em que caísse. Mas, em 33 d.C., ele caiu no sábado e, por isso, foi considerado “um grande sábado”, ou seja, um sábado duplo. — Veja a nota de estudo em Jo 19:31.
+- *por volta da sexta hora*: Ou seja, por volta do meio-dia. — Para uma explicação sobre a aparente contradição entre este relato e o relato feito por Marcos, que diz que Jesus foi pregado na estaca na “terceira hora”, veja a nota de estudo em Mr 15:25.
+====
+
+[[v43-19-15]]
+
+^<<v43-19-15,15>>^ No entanto, eles gritaram: “Mate-o! Mate-o! Para a estaca com ele!”^&#42;1^ Pilatos lhes perguntou: “Devo executar o seu rei?” Os principais sacerdotes responderam: “Não temos rei senão César.”
+
+[NOTE]
+====
+. Ou: “Execute-o na estaca!”
+====
+
+[[v43-19-16]]
+
+^<<v43-19-16,16>>^ Em vista disso, Pilatos o entregou a eles para ser morto na estaca.
+Então eles se encarregaram de Jesus.
+
+[[v43-19-17]]
+
+^<<v43-19-17,17>>^ Carregando ele mesmo a estaca, saiu para o chamado Lugar da Caveira, que em hebraico é chamado Gólgota.
+
+[TIP]
+====
+- *Carregando ele mesmo a estaca*: O Evangelho de João diz que o próprio Jesus carregou a estaca de tortura. Mas os relatos dos outros Evangelhos (Mt 27:32; Mr 15:21; Lu 23:26) mostram que um homem de Cirene chamado Simão foi obrigado a levar a estaca até o local onde Jesus foi executado. O relato de João às vezes resume os acontecimentos e com frequência não repete informações que já estão nos outros Evangelhos. Por isso, não é de surpreender que João tenha omitido o detalhe de que Simão também teve que levar a estaca.
+- *estaca*: Veja a nota de estudo em Mt 27:32.
+- *Lugar da Caveira*: A expressão grega usada aqui, Kraníou Tópon, é uma tradução do nome hebraico Golgotha. (Veja a nota de estudo em Gólgota neste versículo. Para uma explicação sobre o significado de hebraico nas Escrituras Gregas Cristãs, veja a nota de estudo em Jo 5:2.) No relato paralelo em Lu 23:33, várias Bíblias em português usam a palavra “Calvário”. Ela vem da palavra latina calvaria (“caveira; crânio”), que é usada na Vulgata.
+- *Gólgota*: Nome que vem da palavra hebraica gulgóleth, que significa “caveira; crânio”. (Veja Jz 9:53 e 2Rs 9:35, onde essa palavra hebraica é traduzida como “crânio”.) Nos dias de Jesus, esse local ficava fora das muralhas de Jerusalém. Apesar de não ser possível identificar a localização exata de Gólgota, alguns estudiosos acham que talvez ficasse nos arredores de onde hoje está a Igreja do Santo Sepulcro, considerada por muitos como o local da execução de Jesus. (Veja o Apêndice B12-A.) A Bíblia não diz que Gólgota ficava em um monte, mas ela menciona que alguns conseguiram ver a execução de Jesus à distância. — Mr 15:40; Lu 23:49.
+====
+
+[[v43-19-18]]
+
+^<<v43-19-18,18>>^ Ali eles o pregaram na estaca ao lado de dois homens, um de cada lado, e Jesus no meio.
+
+[[v43-19-19]]
+
+^<<v43-19-19,19>>^ Pilatos redigiu também uma inscrição e a colocou na estaca. Estava escrito: “Jesus, o Nazareno, Rei dos judeus”.
+
+[TIP]
+====
+- *estaca*: Ou: “estaca de tortura; estaca de execução”. — Veja o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.
+====
+
+[[v43-19-20]]
+
+^<<v43-19-20,20>>^ Muitos judeus leram essa inscrição, porque o lugar onde Jesus estava pregado na estaca era perto da cidade. E a inscrição foi feita em hebraico, em latim e em grego.
+
+[TIP]
+====
+- *hebraico*: Veja a nota de estudo em Jo 5:2.
+- *latim*: Esta é a única vez que o latim é mencionado de forma direta no texto inspirado da Bíblia. Quando Jesus esteve na Terra, o latim era a língua usada pelas autoridades romanas em Israel. E, mesmo não sendo a língua comum do povo, o latim era usado nas inscrições oficiais. O versículo anterior mostra que Pilatos decidiu que a inscrição com a acusação contra Jesus fosse escrita em latim (o idioma oficial), hebraico e grego (ou seja, grego coiné). É provável que ele tenha feito isso por causa das várias línguas faladas ali. As Escrituras Gregas Cristãs contêm várias palavras e expressões que vêm do latim. — Veja o Glossário e a “Introdução a Marcos”.
+====
+
+[[v43-19-21]]
+
+^<<v43-19-21,21>>^ Mas os principais sacerdotes dos judeus disseram a Pilatos: “Não escreva: ‘O Rei dos judeus’, mas sim que ele disse: ‘Eu sou o Rei dos judeus.’”
+
+[[v43-19-22]]
+
+^<<v43-19-22,22>>^ Pilatos respondeu: “O que escrevi, escrevi.”
+
+[[v43-19-23]]
+
+^<<v43-19-23,23>>^ Então, depois de pregar Jesus na estaca, os soldados pegaram as roupas dele e as dividiram em quatro partes, uma para cada soldado, e pegaram também a túnica. Mas a túnica não tinha costura, pois era tecida de alto a baixo.
+
+[TIP]
+====
+- *pegaram as roupas dele e as dividiram*: Veja a nota de estudo em Mt 27:35.
+====
+
+[[v43-19-24]]
+
+^<<v43-19-24,24>>^ Por isso, disseram uns aos outros: “Não vamos rasgá-la, mas vamos lançar sortes para decidir de quem será.” Isso aconteceu para que se cumprisse a passagem das Escrituras: “Repartiram entre si as minhas roupas e lançaram sortes sobre a minha vestimenta.” E foi realmente isso que os soldados fizeram.
+
+[[v43-19-25]]
+
+^<<v43-19-25,25>>^ Junto à estaca de Jesus estavam sua mãe e a irmã da sua mãe; também Maria, esposa de Clopas, e Maria Madalena.
+
+[TIP]
+====
+- *estaca*: Ou: “estaca de tortura”. — Veja o Glossário, “Estaca de tortura”.
+- *a irmã da sua mãe*: Veja a nota de estudo em Mr 15:40.
+- *Clopas*: Esta é a única vez que o nome Clopas aparece na Bíblia. Muitos estudiosos acreditam que Clopas seja a mesma pessoa que o Alfeu mencionado em Mt 10:3; Mr 3:18; Lu 6:15 e At 1:13. Outros exemplos da Bíblia mostram que era comum uma pessoa ser conhecida por dois nomes diferentes. — Compare com Mt 9:9; 10:2, 3; Mr 2:14.
+====
+
+[[v43-19-26]]
+
+^<<v43-19-26,26>>^ Assim, ao ver que a sua mãe e o discípulo a quem amava estavam ali perto, Jesus disse à sua mãe: “Este é o seu filho!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Mulher, este é o seu filho!”
+====
+
+[TIP]
+====
+- *o discípulo a quem amava*: Ou seja, o discípulo a quem Jesus amava especialmente. Esta é a segunda das cinco vezes que este Evangelho menciona um discípulo “a quem Jesus amava”. (Jo 13:23; 19:26; 20:2; 21:7, 20) Acredita-se que esse discípulo seja o apóstolo João. — Veja a nota de estudo em Jo 13:23.
+====
+
+[[v43-19-27]]
+
+^<<v43-19-27,27>>^ A seguir disse ao discípulo: “Esta é a sua mãe!” E, dali em diante, o discípulo a levou para a casa dele.
+
+[TIP]
+====
+- *disse ao discípulo*: “Esta é a sua mãe!”: Jesus amava Maria e se preocupava com ela, que pelo visto tinha ficado viúva. Por isso, ele a deixou aos cuidados de seu amado apóstolo João. (Veja a nota de estudo em Jo 13:23.) Jesus com certeza não estava preocupado apenas com as necessidades físicas e materiais de Maria, mas também com o bem-estar espiritual dela. A Bíblia não deixa claro se os irmãos de Jesus já tinham se tornado discípulos. João, por outro lado, já tinha dado muitas provas de sua fé. — Mt 12:46-50; Jo 7:5.
+====
+
+[[v43-19-28]]
+
+^<<v43-19-28,28>>^ Depois disso, sabendo que todas as coisas já tinham se realizado, e para que se cumprisse uma passagem das Escrituras, Jesus disse: “Estou com sede.”
+
+[[v43-19-29]]
+
+^<<v43-19-29,29>>^ Havia ali um jarro cheio de vinho acre. Então puseram uma esponja cheia de vinho acre numa haste de hissopo e a ergueram à sua boca.
+
+[TIP]
+====
+- *vinho acre*: Veja a nota de estudo em Mt 27:48.
+- *numa haste de hissopo*: A palavra grega hýssopos, geralmente traduzida nas Bíblias em português como “hissopo”, aparece apenas duas vezes nas Escrituras Gregas Cristãs (neste versículo e em He 9:19). Os estudiosos têm opiniões diferentes sobre qual é a planta mencionada aqui. Alguns deles acham que ela seja a mesma planta chamada de “hissopo” nas Escrituras Hebraicas, que muitos acreditam ser uma variedade de manjerona conhecida como Origanum maru; Origanum syriacum. (Le 14:2-7; Núm 19:6, 18; Sal 51:7) Essa foi a planta usada pelos israelitas no Egito quando marcaram a viga superior e as duas laterais da entrada de suas casas com o sangue do sacrifício pascoal. (Êx 12:21, 22) Por isso, alguns acreditam que a manjerona fazia parte da celebração da Páscoa e, assim, estaria disponível quando Jesus foi executado. Outros dizem que foi outra planta porque acham que a haste da manjerona não suportaria o peso de uma esponja cheia de vinho e que ela seria curta demais para ter chegado à boca de Jesus. Ainda outros acham que um maço de manjerona foi amarrado a uma cana para chegar até a boca de Jesus. Isso estaria de acordo com os relatos paralelos em Mt 27:48 e Mr 15:36, que dizem que uma esponja ensopada em vinho acre foi colocada “numa cana”.
+====
+
+[[v43-19-30]]
+
+^<<v43-19-30,30>>^ Depois de receber o vinho acre, Jesus disse: “Está consumado!” e, inclinando a cabeça, entregou o espírito.
+
+[TIP]
+====
+- *entregou o espírito*: Ou: “expirou; deu seu último suspiro; parou de respirar”. A palavra “espírito” (em grego, pneúma) pode se referir aqui à “força de vida” ou ao “fôlego”. Os relatos paralelos em Mr 15:37 e Lu 23:46 apoiam isso. Neles, o verbo traduzido como “morreu” é ekpnéo (lit.: “expirar; soltar o ar”). Como mostram as notas de estudo nesses dois versículos, o verbo ekpnéo também poderia ter sido traduzido como “deu seu último suspiro”. Alguns sugerem que o uso da palavra grega traduzida aqui como “entregou” significa que Jesus decidiu parar de lutar pela vida, visto que tudo já estava consumado, ou terminado. Ele voluntariamente “derramou a sua vida até a morte”. — Is 53:12; Jo 10:11.
+====
+
+[[v43-19-31]]
+
+^<<v43-19-31,31>>^ Visto que era o dia da Preparação, para evitar que os corpos permanecessem nas estacas^&#42;1^ no sábado (pois aquele sábado seria um grande sábado), os judeus pediram que Pilatos mandasse quebrar as pernas dos homens e retirar os corpos.
+
+[NOTE]
+====
+. Ou: “estacas de tortura”. Veja o Glossário.
+====
+
+[TIP]
+====
+- *o dia da Preparação*: Este era o dia que vinha antes do sábado semanal. Nele, os judeus se preparavam deixando prontas refeições para o sábado e finalizando qualquer trabalho que não pudesse esperar até depois do sábado. Nessa ocasião, o dia da Preparação caiu em 14 de nisã. (Mr 15:42; veja o Glossário, “Preparação”.) De acordo com a Lei mosaica, os corpos dos mortos ‘não deviam ficar a noite toda no madeiro’. Em vez disso, deviam ser enterrados “naquele [mesmo] dia”. — De 21:22, 23; compare com Jos 8:29; 10:26, 27.
+- *estacas*: Ou: “estacas de tortura”. — Veja o Glossário, “Estaca de tortura”.
+- *aquele sábado seria um grande sábado*: O dia 15 de nisã, o dia depois da Páscoa, sempre era considerado um sábado, não importava em que dia da semana ele caísse. (Le 23:5-7) Quando esse sábado especial coincidia com o sábado semanal, ele era considerado “um grande” sábado. (O sábado semanal era o sétimo dia da semana judaica. Ele começava no pôr do sol da sexta-feira e ia até o pôr do sol do sábado.) O fato de o dia seguinte ao da morte de Jesus ser um grande sábado mostra que Jesus morreu numa sexta-feira. No período entre 31 e 33 d.C., o único ano em que o dia 14 de nisã caiu numa sexta-feira foi 33 d.C. Isso apoia a conclusão de que Jesus morreu no dia 14 de nisã de 33 d.C.
+- *mandasse quebrar as pernas dos homens*: Em latim, essa prática brutal era chamada de crurifragium. É provável que isso fosse feito para acelerar a morte da pessoa. Quando uma pessoa estava pendurada em uma estaca, era difícil respirar. Depois que suas pernas eram quebradas, ela não conseguia mais levantar o corpo para aliviar a pressão nos pulmões e morria sufocada.
+====
+
+[[v43-19-32]]
+
+^<<v43-19-32,32>>^ Portanto, os soldados foram e quebraram as pernas do primeiro homem e as do outro homem que estava numa estaca ao lado dele.
+
+[[v43-19-33]]
+
+^<<v43-19-33,33>>^ Mas, ao chegarem a Jesus, viram que ele já estava morto; por isso, não quebraram as pernas dele.
+
+[[v43-19-34]]
+
+^<<v43-19-34,34>>^ No entanto, um dos soldados lhe furou o lado com uma lança, e imediatamente saiu sangue e água.
+
+[[v43-19-35]]
+
+^<<v43-19-35,35>>^ E aquele que viu isso dá testemunho, e o seu testemunho é verdadeiro, e ele sabe que diz a verdade, para que vocês também acreditem.
+
+[[v43-19-36]]
+
+^<<v43-19-36,36>>^ De fato, essas coisas ocorreram a fim de que se cumprisse a passagem das Escrituras: “Nenhum osso seu será quebrado.”
+
+[TIP]
+====
+- *Nenhum osso seu será quebrado*: Esta é uma citação do Sal 34:20. Quando Jeová deu as instruções para a celebração da Páscoa, ele disse o seguinte sobre o cordeiro (ou cabrito) que devia ser sacrificado: “Não . . . quebrem nenhum dos [seus] ossos.” (Êx 12:46; Núm 9:12) Em 1Co 5:7, Paulo chamou Jesus de “nosso cordeiro pascoal”. Jesus, como cordeiro pascoal, não teve nenhum osso quebrado, exatamente como predito no Sal 34:20. (Veja a nota de estudo em Jo 1:29.) Pelo visto, os soldados romanos costumavam quebrar as pernas dos executados na estaca, provavelmente para acelerar a morte. Mas isso não impediu que a profecia se cumprisse. (Veja a nota de estudo em Jo 19:31.) Os soldados quebraram as pernas dos dois criminosos que estavam ao lado de Jesus, mas viram que ele já estava morto. Assim, em vez de quebrar as pernas de Jesus, um dos soldados “lhe furou o lado com uma lança”. — Jo 19:33, 34.
+====
+
+[[v43-19-37]]
+
+^<<v43-19-37,37>>^ E, também, outra passagem das Escrituras diz: “Olharão para aquele que traspassaram.”
+
+[[v43-19-38]]
+
+^<<v43-19-38,38>>^ Depois dessas coisas, José de Arimateia (que era discípulo de Jesus, mas secretamente, pois tinha medo dos judeus) perguntou a Pilatos se podia retirar o corpo de Jesus, e Pilatos lhe deu permissão. Portanto, ele foi e retirou o corpo.
+
+[TIP]
+====
+- *José*: Veja a nota de estudo em Mr 15:43.
+- *Arimateia*: Veja a nota de estudo em Mt 27:57.
+- *dos judeus*: Aqui, a palavra “judeus” pelo visto se refere às autoridades judaicas, os líderes religiosos dos judeus. — Veja a nota de estudo em Jo 7:1.
+====
+
+[[v43-19-39]]
+
+^<<v43-19-39,39>>^ Nicodemos, o homem que tinha ido ao encontro dele pela primeira vez de noite, também foi, levando uma mistura de mirra e aloés, que pesava cerca de 33 quilos.
+
+[TIP]
+====
+- *Nicodemos*: João é o único escritor dos Evangelhos que diz que Nicodemos ajudou José de Arimateia a preparar o corpo de Jesus para o sepultamento. — Veja a nota de estudo em Jo 3:1.
+- *uma mistura*: Alguns manuscritos dizem “um rolo”. Mas a opção usada aqui no texto principal aparece em vários dos manuscritos mais antigos e mais confiáveis.
+- *mirra*: Veja o Glossário.
+- *aloés*: Nas Escrituras Hebraicas, o nome aloés se refere a um tipo de árvore que continha uma substância aromática que era usada como perfume. (Sal 45:8; Pr 7:17; Cân 4:14) É provável que o aloés que Nicodemos levou tenha sido extraído desse mesmo tipo de árvore. O pó de aloés era usado junto com mirra na preparação de corpos para o sepultamento, possivelmente para disfarçar o mau cheiro resultante da decomposição. A maioria dos estudiosos acredita que essa árvore seja a Aquilaria agallocha, às vezes chamada de agáloco ou calambuco, encontrada hoje principalmente na Índia e em regiões vizinhas. Ela pode chegar a 30 metros de altura. A resina e o óleo perfumado ficam concentrados na parte mais interna do tronco e dos galhos, e é dali que se extrai o seu valorizado perfume. A madeira dessa árvore, pelo visto, atinge o estado mais aromático quando está em decomposição. Por isso, ela é às vezes enterrada para se decompor mais rapidamente. No passado, ela era moída até virar um pó bem fino e depois vendida com o nome “aloés”. Outros estudiosos têm uma opinião diferente e acham que neste versículo o nome “aloés” se refere a uma planta da família das liliáceas que hoje leva o nome botânico de Aloe vera. Essa planta é usada para fins medicinais, e não por causa de seu perfume.
+- *cerca de 33 quilos*: Ou: “cerca de 100 libras”. Em geral, acredita-se que a palavra grega usada aqui, lítra, se refira à libra romana (em latim, libra), que equivale a uns 327 gramas. — Veja o Apêndice B14-B.
+====
+
+[[v43-19-40]]
+
+^<<v43-19-40,40>>^ Eles pegaram o corpo de Jesus e o envolveram em panos de linho, junto com os aromas, da maneira como os judeus costumam preparar o corpo para o sepultamento.
+
+[[v43-19-41]]
+
+^<<v43-19-41,41>>^ A propósito, havia um jardim no lugar onde ele tinha sido executado^&#42;1^ e, no jardim, havia um túmulo novo, no qual ninguém ainda tinha sido colocado.
+
+[NOTE]
+====
+. Ou: “executado na estaca”.
+====
+
+[TIP]
+====
+- *túmulo*: Veja a nota de estudo em Mt 27:60.
+====
+
+[[v43-19-42]]
+
+^<<v43-19-42,42>>^ Visto que era o dia da Preparação dos judeus e o túmulo ficava perto, colocaram Jesus ali.
+
+'''
+
+xref:043-joao/043-joao-018.adoc#v43-18-0[&#60; Capítulo Anterior] | <<v43-19-0,Topo>> | xref:043-joao/043-joao-020.adoc#v43-20-0[Próximo Capítulo &#62;]

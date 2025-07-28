@@ -1,0 +1,332 @@
+include::./index.adoc[]
+
+[[v40-10-0]]
+=== As Boas Novas Segundo Mateus, 10
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* F. Jesus diz que obra de pregação será grande e treina seus discípulos (9:35–11:1)
+* Colheita é grande, mas trabalhadores são poucos (9:35-38)
+* Os 12 apóstolos (10:1-4)
+* Instruções para a pregação (10:5-15)
+* Discípulos serão perseguidos (10:16-25)
+* Temam a Deus, não a homens (10:26-31)
+* Jesus não veio trazer a paz, mas a espada (10:32-39)
+* Quem receber bem os discípulos será recompensado (10:40-42)
+* Jesus parte para ensinar e pregar (11:1)
+****
+
+[[v40-10-1]]
+
+^<<v40-10-1,1>>^ Então ele convocou os seus 12 discípulos e lhes deu autoridade sobre espíritos impuros, para os expulsarem e para curarem todo tipo de doenças e todo tipo de enfermidades.
+
+[[v40-10-2]]
+
+^<<v40-10-2,2>>^ Os nomes dos 12 apóstolos são estes: primeiro, Simão, o chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;
+
+[TIP]
+====
+- *apóstolos*: Ou: “enviados”. A palavra grega apóstolos vem do verbo apostéllo, que significa “enviar”. (Mt 10:5; Lu 11:49; 14:32) O sentido básico dessa palavra pode ser visto claramente em Jo 13:16, onde ela é traduzida como “o enviado”.
+- *Simão, o chamado Pedro*: As Escrituras Gregas usam cinco nomes diferentes para Pedro: (1) “Simeão”; (2) “Simão” (tanto “Simeão” como “Simão” vêm de um verbo hebraico que significa “ouvir; escutar”); (3) “Pedro”, nome de origem grega que significa “pedra; um pedaço de rocha” (só esse apóstolo é identificado por esse nome na Bíblia); (4) “Cefas”, que é o equivalente semítico do nome grego Pedro e talvez esteja relacionado com a palavra hebraica kefím (rochas), que aparece em Jó 30:6 e Je 4:29; e (5) a combinação “Simão Pedro”. — At 15:14; Jo 1:42; Mt 16:16.
+====
+
+[[v40-10-3]]
+
+^<<v40-10-3,3>>^ Filipe e Bartolomeu; Tomé e Mateus, o cobrador de impostos; Tiago, filho de Alfeu; Tadeu;
+
+[TIP]
+====
+- *Bartolomeu*: Significa “filho de Tolmai”. Os Evangelhos de Mateus e de Lucas mencionam os apóstolos Bartolomeu e Filipe juntos do mesmo modo que o Evangelho de João menciona Natanael e Filipe juntos. (Mt 10:3; Lu 6:14; Jo 1:45, 46) Por isso, acredita-se que Bartolomeu seja a mesma pessoa que João chama de Natanael.
+- *Mateus*: Também chamado de Levi. — Veja as notas de estudo em Mr 2:14; Lu 5:27.
+- *o cobrador de impostos*: Mateus, escritor deste Evangelho, foi cobrador de impostos. Talvez seja por isso que ele faz muitas referências a valores e números (Mt 17:27; 26:15; 27:3), às vezes de forma mais específica do que os outros escritores dos Evangelhos. Ele dividiu a genealogia de Jesus em três grupos de 14 gerações. (Mt 1:1-17) Além disso, ele alistou sete pedidos na oração do Pai-Nosso (Mt 6:9-13), sete ilustrações em Mt 13 e sete “ais” em Mt 23:13-36. — Para uma explicação da expressão “cobrador de impostos”, veja a nota de estudo em Mt 5:46.
+- *Tiago, filho de Alfeu*: Veja a nota de estudo em Mr 3:​18.
+- *Tadeu*: O nome Tadeu não aparece nas listas com os nomes dos apóstolos em Lu 6:16 e At 1:13. No lugar de Tadeu, aparece “Judas, filho de Tiago”. Pelo visto, Tadeu é outro nome do apóstolo que João chama de “Judas, não o Iscariotes”. (Jo 14:22) Talvez Mateus e Marcos tenham usado o nome Tadeu para que ele não fosse confundido com Judas Iscariotes, o traidor.
+====
+
+[[v40-10-4]]
+
+^<<v40-10-4,4>>^ Simão, o Cananita; e Judas Iscariotes, que mais tarde o traiu.
+
+[TIP]
+====
+- *o Cananita*: Uma descrição usada para que o apóstolo Simão não fosse confundido com o apóstolo Simão Pedro. (Mr 3:18) Acredita-se que a palavra “Cananita” venha de uma palavra hebraica ou aramaica que significa “zeloso; entusiasta”. Lucas se refere a esse Simão usando a palavra grega zelotés, que também significa “zeloso; entusiasta”. (Lu 6:15; At 1:13) É possível que antes Simão fosse um dos zelotes, um partido judaico que lutava contra os romanos. Mas também é possível que ele tenha sido descrito assim por causa de seu zelo e entusiasmo.
+- *Iscariotes*: É possível que essa palavra signifique “homem de Queriote”. O pai de Judas, Simão, também é chamado de “Iscariotes”. (Jo 6:71) Muitos estudiosos acham que essa palavra indica que Simão e Judas eram de Queriote-Esrom, uma cidade da Judeia. (Jos 15:25) Se isso for verdade, Judas era o único dos 12 apóstolos que era da Judeia. Os outros 11 eram da Galileia.
+====
+
+[[v40-10-5]]
+
+^<<v40-10-5,5>>^ Jesus enviou esses 12, dando-lhes as seguintes instruções: “Não se desviem para a estrada das nações e não entrem em cidade samaritana;
+
+[[v40-10-6]]
+
+^<<v40-10-6,6>>^ mas, em vez disso, vão somente às ovelhas perdidas da casa de Israel.
+
+[[v40-10-7]]
+
+^<<v40-10-7,7>>^ Ao irem, preguem, dizendo: ‘O Reino dos céus está próximo.’
+
+[TIP]
+====
+- *preguem*: Ou seja, façam uma declaração pública, para todos ouvirem. — Veja a nota de estudo em Mt 3:1.
+- *O Reino dos céus está próximo*: Veja a nota de estudo em Mt 4:17.
+====
+
+[[v40-10-8]]
+
+^<<v40-10-8,8>>^ Curem os doentes, ressuscitem os mortos, purifiquem os leprosos, expulsem os demônios. Vocês receberam de graça, portanto deem de graça.
+
+[TIP]
+====
+- *leprosos*: Veja a nota de estudo em Mt 8:2 e o Glossário.
+====
+
+[[v40-10-9]]
+
+^<<v40-10-9,9>>^ Não adquiram ouro, nem prata, nem cobre para o seu cinto,
+
+[TIP]
+====
+- *cinto*: Ou seja, um cinto que tinha um lugar para colocar dinheiro.
+====
+
+[[v40-10-10]]
+
+^<<v40-10-10,10>>^ nem bolsa de provisões para a viagem, nem roupa extra,^&#42;1^ nem sandálias, nem bastão, pois o trabalhador merece o seu alimento.
+
+[NOTE]
+====
+. Lit.: “duas túnicas”.
+====
+
+[[v40-10-11]]
+
+^<<v40-10-11,11>>^ “Em qualquer cidade ou aldeia em que entrarem, procurem nela quem é merecedor e fiquem ali até partirem.
+
+[TIP]
+====
+- *fiquem ali*: Veja a nota de estudo em Mr 6:10.
+====
+
+[[v40-10-12]]
+
+^<<v40-10-12,12>>^ Ao entrarem na casa, cumprimentem a família.
+
+[TIP]
+====
+- *cumprimentem*: Um cumprimento comum entre os judeus era: “Que a paz esteja com você!” — Jz 19:20; Mt 10:13; Lu 10:5.
+====
+
+[[v40-10-13]]
+
+^<<v40-10-13,13>>^ Se a casa for merecedora, venha sobre ela a paz que lhe desejam; mas, se ela não for merecedora, que a paz volte a vocês.
+
+[[v40-10-14]]
+
+^<<v40-10-14,14>>^ Onde quer que alguém não os receber nem ouvir as suas palavras, ao saírem daquela casa ou daquela cidade, sacudam o pó dos seus pés.
+
+[TIP]
+====
+- *sacudam o pó dos seus pés*: É possível que os discípulos já conhecessem esse tipo de gesto. Quando judeus devotos viajavam por outros países, eles sacudiam o pó supostamente impuro de suas sandálias antes de entrar de novo no território dos judeus. Mas o significado da instrução de Jesus era diferente. Ao sacudir o pó de seus pés, os discípulos mostrariam que não eram responsáveis pelo que aconteceria com aquelas pessoas quando fossem julgadas por Deus. Uma expressão parecida é usada em Mr 6:11 e em Lu 9:5. Marcos e Lucas acrescentam as palavras “em testemunho para [ou: “contra”] eles”. Paulo e Barnabé seguiram essa instrução em Antioquia da Pisídia (At 13:51), e Paulo fez algo parecido em Corinto, quando sacudiu sua roupa. Nessa ocasião, Paulo explicou seu gesto dizendo: “Que o sangue de vocês recaia sobre a sua própria cabeça. Eu estou limpo.” — At 18:6.
+====
+
+[[v40-10-15]]
+
+^<<v40-10-15,15>>^ Digo-lhes a verdade: No Dia do Julgamento será mais suportável para a terra de Sodoma e Gomorra do que para aquela cidade.
+
+[TIP]
+====
+- *Digo-lhes a verdade*: Veja a nota de estudo em Mt 5:18.
+- *será mais suportável para*: Veja a nota de estudo em Lu 10:12.
+====
+
+[[v40-10-16]]
+
+^<<v40-10-16,16>>^ “Eu os envio como ovelhas no meio de lobos. Portanto, sejam cautelosos como as serpentes, mas inocentes como as pombas.
+
+[TIP]
+====
+- *cautelosos como as serpentes*: Ser cauteloso significa ser prudente, ser inteligente, ter bom senso. Os zoólogos dizem que a maioria das cobras é arisca. Elas preferem fugir em vez de atacar. Os discípulos de Jesus devem ser cautelosos como as serpentes ao lidar com opositores, evitando situações perigosas ao fazer seu trabalho de pregação.
+- *mas inocentes como as pombas*: As duas partes do conselho de Jesus (ser cautelosos e ser inocentes) se complementam. (Veja a nota de estudo em cautelosos como as serpentes neste versículo.) A palavra grega traduzida aqui como “inocentes” (lit.: “sem mistura”, ou seja, “puros”) também é usada em Ro 16:19 (“inocentes quanto ao que é mau”) e em Fil 2:15 (“irrepreensíveis e inocentes, filhos de Deus”). Aqui em Mt 10:16, a palavra parece incluir a ideia de ser autêntico, honesto, livre de engano e com motivação pura. A pomba é, às vezes, usada em poesias e figuras de linguagem hebraicas para representar essas e outras qualidades relacionadas. (Cân 2:14; 5:2; veja a nota de estudo em Mt 3:16.) O ponto era que, ao serem perseguidos como ovelhas no meio de lobos, os discípulos de Jesus deviam ter bom senso e ser cautelosos e, ao mesmo tempo, ser puros de coração, inocentes e irrepreensíveis, unindo assim qualidades representadas pelas serpentes e pelas pombas. — Lu 10:3.
+====
+
+[[v40-10-17]]
+
+^<<v40-10-17,17>>^ Tenham cuidado com os homens, pois eles os entregarão aos tribunais locais e os açoitarão nas sinagogas deles.
+
+[TIP]
+====
+- *tribunais locais*: No idioma original, este versículo usa o plural da palavra synédrion. Nas Escrituras Gregas Cristãs, essa palavra geralmente se refere ao Sinédrio, o supremo tribunal judaico em Jerusalém. (Veja o Glossário, “Sinédrio”, e as notas de estudo em Mt 5:22; 26:59.) Mas synédrion também era uma palavra genérica para uma assembleia ou reunião. Aqui ela se refere aos tribunais locais que funcionavam nas sinagogas. Esses tribunais tinham a autoridade de aplicar punições como açoitamento e excomunhão (expulsar da comunidade religiosa). — Mt 23:34; Mr 13:9; Lu 21:12; Jo 9:22; 12:42; 16:2.
+====
+
+[[v40-10-18]]
+
+^<<v40-10-18,18>>^ E vocês serão levados diante de governadores e reis, por minha causa, para darem testemunho a eles e às nações.
+
+[[v40-10-19]]
+
+^<<v40-10-19,19>>^ No entanto, quando entregarem vocês, não fiquem preocupados^&#42;1^ com o que falar ou como falar, porque naquela hora lhes será dado o que falar.
+
+[NOTE]
+====
+. Ou: “ansiosos”.
+====
+
+[[v40-10-20]]
+
+^<<v40-10-20,20>>^ Pois quem fala não são apenas vocês, mas é o espírito do seu Pai que fala por meio de vocês.
+
+[[v40-10-21]]
+
+^<<v40-10-21,21>>^ Além disso, irmão entregará irmão à morte, e o pai ao seu filho, e os filhos se levantarão contra os pais e farão com que sejam mortos.
+
+[[v40-10-22]]
+
+^<<v40-10-22,22>>^ E vocês serão odiados por todos, por causa do meu nome. Mas quem perseverar até o fim será salvo.
+
+[TIP]
+====
+- *por causa do meu nome*: Veja a nota de estudo em Mt 24:9.
+- *perseverar*:  Veja a nota de estudo em Mt 24:13.
+====
+
+[[v40-10-23]]
+
+^<<v40-10-23,23>>^ Quando os perseguirem numa cidade, fujam para outra; pois eu lhes digo a verdade: Vocês de modo algum percorrerão todas as^&#42;1^ cidades de Israel antes de chegar o Filho do Homem.
+
+[NOTE]
+====
+. Ou: “completarão o circuito das”.
+====
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v40-10-24]]
+
+^<<v40-10-24,24>>^ “O aluno não está acima do seu instrutor, nem o escravo acima do seu senhor.
+
+[[v40-10-25]]
+
+^<<v40-10-25,25>>^ Basta que o aluno se torne como o seu instrutor, e o escravo como o seu senhor. Se chamaram de Belzebu ao dono da casa, quanto mais aos da sua casa!
+
+[TIP]
+====
+- *Belzebu*: Possivelmente é uma variação do nome Baal-Zebube, que significa “dono (senhor) das moscas”. Esse era o Baal adorado pelos filisteus em Ecrom. (2Rs 1:3) Alguns manuscritos gregos usam as variações Beelzeboúl e Beezeboúl, que talvez signifiquem “dono (senhor) da morada (habitação) elevada”. Outra possibilidade é que essas variações sejam um jogo de palavras com o termo hebraico zével (esterco), que não aparece na Bíblia. Se esse for o caso, Beelzeboúl e Beezeboúl significam “dono (senhor) do esterco”. Como Mt 12:24 mostra, Belzebu é usado para se referir a Satanás — o príncipe, ou governante, dos demônios.
+- *quanto mais*: Veja a nota de estudo em Mt 7:11.
+====
+
+[[v40-10-26]]
+
+^<<v40-10-26,26>>^ Portanto, não tenham medo deles, pois não há nada encoberto que não venha a ser descoberto, e não há nada secreto que não se torne conhecido.
+
+[[v40-10-27]]
+
+^<<v40-10-27,27>>^ O que eu lhes digo na escuridão, digam na luz; e o que é sussurrado em seus ouvidos, preguem dos terraços das casas.
+
+[TIP]
+====
+- *na luz*: Ou seja, publicamente, para que todos saibam.
+- *preguem dos terraços das casas*: Expressão idiomática que significa “proclamar publicamente”. Nos tempos bíblicos, as casas tinham terraços abertos que podiam ser usados para dar anúncios, e o que acontecia ali podia se tornar público. — 2Sa 16:22.
+====
+
+[[v40-10-28]]
+
+^<<v40-10-28,28>>^ E não fiquem com medo dos que matam o corpo, mas não podem matar a alma; em vez disso, temam aquele que pode destruir na Geena tanto a alma como o corpo.
+
+[TIP]
+====
+- *alma*: Ou: “vida”. Neste contexto, se refere à vida que uma pessoa vai ter no futuro quando for ressuscitada. A palavra grega psykhé e a palavra hebraica correspondente néfesh (que foram traduzidas como “alma” nas edições anteriores da Tradução do Novo Mundo) têm três sentidos básicos: (1) uma pessoa, (2) um animal e (3) a vida de uma pessoa ou de um animal. (Veja as notas de rodapé em Gê 1:20; 2:7; Núm 31:28; 1Pe 3:20.) Alguns textos que usam a palavra grega psykhé no sentido de “vida de uma pessoa” são Mt 6:25; 10:39; 16:25, 26; Mr 8:35-37; Lu 12:20; Jo 10:11, 15; 12:25; 13:37, 38; 15:13 e At 20:10. Esses e outros textos nos ajudam a entender o que Jesus realmente queria dizer aqui. — Veja o Glossário, “Alma”.
+- *aquele que pode destruir . . . tanto a alma como o corpo*: O único que pode destruir ou preservar a “alma” de uma pessoa é Deus. Neste contexto, ‘destruir a alma’ significa eliminar a possibilidade de a pessoa viver novamente no futuro. Este é um dos exemplos em que a palavra grega para “alma” se refere a algo que não é imortal, que pode ser destruído. Outros exemplos estão em Mr 3:4; Lu 17:33; Jo 12:25 e At 3:23.
+- *Geena*: Simboliza a destruição eterna. — Veja a nota de estudo em Mt 5:22 e o Glossário.
+====
+
+[[v40-10-29]]
+
+^<<v40-10-29,29>>^ Não se vendem dois pardais por uma moeda de pequeno valor? Contudo, nem mesmo um deles cairá no chão sem o conhecimento do Pai de vocês.
+
+[TIP]
+====
+- *pardais*: O substantivo grego usado aqui, strouthíon, está no diminutivo. Refere-se a qualquer ave pequena, mas muitas vezes era usado para se referir a pardais. De todas as aves vendidas como alimento, os pardais eram as mais baratas.
+- *por uma moeda de pequeno valor*: Lit.: “por um assário”. O assário era o valor equivalente a 45 minutos de trabalho. (Veja o Apêndice B14-B.) Nessa ocasião, enquanto Jesus estava fazendo sua terceira viagem pela Galileia, ele disse que dois pardais custavam um assário. Em outra ocasião, provavelmente um ano depois, quando estava pregando na Judeia, Jesus disse que cinco pardais podiam ser comprados por dois assários. (Lu 12:6) Comparando os dois relatos, parece que os pardais valiam tão pouco que, se alguém comprasse quatro pardais, podia levar mais um de graça.
+====
+
+[[v40-10-30]]
+
+^<<v40-10-30,30>>^ Mas até mesmo os cabelos da cabeça de vocês estão todos contados.
+
+[TIP]
+====
+- *até mesmo os cabelos da cabeça de vocês estão todos contados*: Calcula-se que cada pessoa tenha em média mais de 100.000 fios de cabelo. O fato de Jeová conhecer os discípulos de Jesus até nos mínimos detalhes mostra o quanto Jeová se importa com eles.
+====
+
+[[v40-10-31]]
+
+^<<v40-10-31,31>>^ Portanto, não tenham medo; vocês valem mais do que muitos pardais.
+
+[[v40-10-32]]
+
+^<<v40-10-32,32>>^ “Então, todo aquele que declarar diante dos homens que está em união comigo, eu também declararei diante do meu Pai, que está nos céus, estar em união com ele.
+
+[[v40-10-33]]
+
+^<<v40-10-33,33>>^ Mas quem me negar diante dos homens, eu também o negarei diante do meu Pai, que está nos céus.
+
+[[v40-10-34]]
+
+^<<v40-10-34,34>>^ Não pensem que vim trazer paz à terra; vim trazer não a paz, mas a espada.
+
+[[v40-10-35]]
+
+^<<v40-10-35,35>>^ Pois vim causar divisão: o homem contra o pai, a filha contra a mãe, e a nora contra a sogra.
+
+[[v40-10-36]]
+
+^<<v40-10-36,36>>^ Realmente, os inimigos do homem serão os da sua própria casa.
+
+[[v40-10-37]]
+
+^<<v40-10-37,37>>^ Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim.
+
+[[v40-10-38]]
+
+^<<v40-10-38,38>>^ E quem não aceita a sua estaca de tortura e não me segue não é digno de mim.
+
+[TIP]
+====
+- *aceita*: Lit.: “pega; segura”. Em sentido figurado, se refere a “pegar”, ou aceitar, as responsabilidades e as consequências de se tornar um discípulo de Jesus.
+- *estaca de tortura*: Ou: “estaca de execução”. Esta é a primeira vez que a palavra grega staurós aparece nas Escrituras Gregas Cristãs. No grego clássico, staurós se refere principalmente a uma estaca ou um poste. Quando essa palavra é usada em sentido figurado, pode significar o que uma pessoa enfrenta por ser um discípulo de Cristo: sofrimento, vergonha, tortura ou até mesmo a morte. — Veja o Glossário.
+====
+
+[[v40-10-39]]
+
+^<<v40-10-39,39>>^ Quem achar a sua vida a perderá, e quem perder a sua vida por minha causa a achará.
+
+[TIP]
+====
+- *vida*: Ou: “alma”. Veja o Glossário, “Alma”.
+====
+
+[[v40-10-40]]
+
+^<<v40-10-40,40>>^ “Quem recebe vocês, recebe também a mim, e quem me recebe, recebe também Aquele que me enviou.
+
+[[v40-10-41]]
+
+^<<v40-10-41,41>>^ Quem receber um profeta porque ele é profeta receberá a recompensa de um profeta, e quem receber um homem justo porque ele é homem justo receberá a recompensa de um homem justo.
+
+[TIP]
+====
+- *porque ele é profeta*: Lit.: “em nome de profeta”. Neste contexto, a expressão idiomática grega “em nome de” indica que aquele que recebe o profeta reconhece a autoridade e a posição dele como profeta. — Veja também a nota de estudo em Mt 28:19.
+- *a recompensa de um profeta*: Aqueles que aceitam a mensagem dos verdadeiros profetas de Deus e que dão apoio a eles vão receber muitas recompensas. O relato da viúva em 1Rs 17 é um exemplo disso.
+====
+
+[[v40-10-42]]
+
+^<<v40-10-42,42>>^ E quem der a um destes pequenos ainda que seja um copo de água fria para beber, porque ele é discípulo, garanto a vocês que de modo algum perderá a sua recompensa.”
+
+'''
+
+xref:040-mateus/040-mateus-009.adoc#v40-9-0[&#60; Capítulo Anterior] | <<v40-10-0,Topo>> | xref:040-mateus/040-mateus-011.adoc#v40-11-0[Próximo Capítulo &#62;]

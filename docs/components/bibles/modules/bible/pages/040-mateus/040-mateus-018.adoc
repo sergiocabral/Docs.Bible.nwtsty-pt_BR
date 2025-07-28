@@ -1,0 +1,295 @@
+include::./index.adoc[]
+
+[[v40-18-0]]
+=== As Boas Novas Segundo Mateus, 18
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Jesus termina sua pregação na Galileia e nas regiões próximas (14:1–18:35)
+* Morte de João Batista (14:1-12)
+* Jesus alimenta 5.000 homens, além de mulheres e crianças (14:13-21)
+* Jesus anda sobre a água (14:22-33)
+* Curas em Genesaré (14:34-36)
+* Fariseus e escribas questionam Jesus sobre o ritual de lavar as mãos (15:1-9)
+* Impureza vem do coração (15:10-20)
+* Mulher fenícia mostra grande fé (15:21-28)
+* Jesus cura muitas doenças (15:29-31)
+* Jesus alimenta 4.000 homens, além de mulheres e crianças (15:32-39)
+* Fariseus e saduceus pedem um sinal do céu (16:1-4)
+* “Cuidado com o fermento dos fariseus e dos saduceus” (16:5-12)
+* Pedro diz que Jesus é o Cristo (16:13-17)
+* Jesus diz que vai dar as chaves do Reino para Pedro (16:18-20)
+* Jesus prediz sua morte e ressurreição (16:21-23)
+* Requisitos para ser um verdadeiro discípulo (16:24-28)
+* Transfiguração de Jesus (17:1-13)
+* Jesus cura menino possuído por demônio (17:14-18)
+* Fé do tamanho de um grão de mostarda (17:19, 20)
+* Jesus fala outra vez sobre sua morte e ressurreição (17:22, 23)
+* Imposto pago com moeda tirada da boca do peixe (17:24-27)
+* Quem é o maior no Reino? (18:1-6)
+* Pedras de tropeço (18:7-10)
+* Ilustração da ovelha perdida (18:12-14)
+* Como resolver problemas e ganhar seu irmão (18:15-20)
+* Ilustração do escravo que não perdoou (18:21-35)
+****
+
+[[v40-18-1]]
+
+^<<v40-18-1,1>>^ Naquela hora, os discípulos se aproximaram de Jesus e perguntaram: “Quem é realmente o maior no Reino dos céus?”
+
+[[v40-18-2]]
+
+^<<v40-18-2,2>>^ Então, ele chamou uma criancinha, colocou-a no meio deles
+
+[[v40-18-3]]
+
+^<<v40-18-3,3>>^ e disse: “Digo-lhes a verdade: A menos que vocês deem meia-volta^&#42;1^ e se tornem como criancinhas, de modo algum entrarão no Reino dos céus.
+
+[NOTE]
+====
+. Ou: “mudem”.
+====
+
+[TIP]
+====
+- *Digo-lhes a verdade*: Veja a nota de estudo em Mt 5:18.
+====
+
+[[v40-18-4]]
+
+^<<v40-18-4,4>>^ Por isso, quem se humilha, como esta criancinha, é aquele que é o maior no Reino dos céus;
+
+[[v40-18-5]]
+
+^<<v40-18-5,5>>^ e quem recebe em meu nome uma criancinha como esta, recebe também a mim.
+
+[[v40-18-6]]
+
+^<<v40-18-6,6>>^ Mas quem fizer tropeçar um destes pequenos que têm fé em mim, seria melhor para ele que pendurassem no seu pescoço uma pedra de moinho daquelas que o jumento faz girar, e que fosse afundado no alto-mar.
+
+[TIP]
+====
+- *uma pedra de moinho daquelas que o jumento faz girar*: Ou: “uma enorme pedra de moinho”. Lit.: “uma pedra de moinho de jumento”. Esse tipo de pedra de moinho podia ter de 1,2 a 1,5 metro de diâmetro, e era tão pesada que era necessário um jumento para girá-la.
+====
+
+[[v40-18-7]]
+
+^<<v40-18-7,7>>^ “Ai do mundo por causa das suas pedras de tropeço! Claro, é inevitável que venham as pedras de tropeço, mas ai do homem por meio de quem vem a pedra de tropeço!
+
+[TIP]
+====
+- *pedras de tropeço*: Estudiosos acreditam que a palavra grega skándalon, traduzida como “pedra de tropeço”, se referia originalmente a uma armadilha. Alguns acham que se referia mais especificamente à parte da armadilha em que a isca fica presa. Com o tempo, essa palavra grega começou a ser usada para se referir a qualquer obstáculo que fizesse alguém tropeçar ou cair em sentido literal. Em sentido figurado, skándalon se refere a uma ação ou situação que leva uma pessoa a fazer algo inapropriado, tropeçar em sentido moral ou até mesmo cair no pecado. O texto de Mt 18:8, 9 usa um verbo relacionado (skandalízo), que é traduzido como “fazer tropeçar”. Ele poderia ser traduzido também como “se tornar uma armadilha; levar ao pecado”.
+====
+
+[[v40-18-8]]
+
+^<<v40-18-8,8>>^ Então, se a sua mão ou o seu pé faz você tropeçar, corte-o e lance-o para longe. É melhor para você entrar na vida aleijado ou manco do que ser lançado com as duas mãos ou os dois pés no fogo eterno.
+
+[TIP]
+====
+- *corte-o*: É claro que Jesus não estava incentivando a automutilação nem dando a entender que partes do corpo, como as mãos, os pés ou os olhos, teriam controle sobre as ações da pessoa. Na verdade, Jesus usou aqui uma hipérbole. Ele estava dizendo que um cristão devia estar disposto a cortar de sua vida qualquer coisa que poderia fazê-lo tropeçar e se tornar infiel, mesmo que fosse algo tão importante como uma mão, um pé ou um olho. (Mt 18:9) Seria melhor um cristão ‘fazer morrer um membro do corpo’, ou tratá-lo como se tivesse sido cortado do corpo, do que usá-lo para cometer um pecado. (Veja Col 3:5.) O cristão não deve permitir que nada o impeça de ganhar o prêmio da vida.
+====
+
+[[v40-18-9]]
+
+^<<v40-18-9,9>>^ Também, se o seu olho o faz tropeçar, arranque-o e lance-o para longe de você. É melhor para você entrar na vida com um olho só do que ser lançado com os dois olhos na Geena ardente.
+
+[TIP]
+====
+- *Geena*: Veja a nota de estudo em Mt 5:22 e o Glossário.
+====
+
+[[v40-18-10]]
+
+^<<v40-18-10,10>>^ Tomem cuidado para não desprezar um destes pequenos, pois eu lhes digo que os anjos deles no céu estão sempre vendo a face do meu Pai, que está no céu.
+
+[TIP]
+====
+- *os anjos deles*: Tanto as Escrituras Hebraicas como as Escrituras Gregas Cristãs mostram que os servos de Jeová podem sempre contar com a proteção de um exército invisível de anjos. (2Rs 6:15-17; Sal 34:7; 91:11; At 5:19; He 1:14) Em hebraico e em grego, o sentido básico da palavra para anjo é “mensageiro”. (Veja a nota de estudo em Jo 1:51.) Neste versículo, as palavras de Jesus sobre os pequenos (seus discípulos) e os “anjos deles” não significam necessariamente que cada cristão fiel tenha um anjo da guarda, designado especialmente para protegê-lo. Mas os anjos tomam conta do bem-estar espiritual dos cristãos verdadeiros como grupo e têm muito interesse em cada um deles. — Veja a nota de estudo em At 12:15.
+- *estão sempre vendo a face do meu Pai*: Ou: “sempre têm acesso ao meu Pai”. Visto que apenas as criaturas espirituais têm acesso à presença de Deus no céu, apenas elas podem ver a face dele. — Êx 33:20.
+====
+
+[[v40-18-11]]
+
+^<<v40-18-11,11>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos incluem aqui as seguintes palavras*: “Porque o Filho do Homem veio para salvar o que estava perdido.” Mas esse trecho não aparece nos manuscritos mais antigos e mais confiáveis de Mateus. Uma frase semelhante aparece no relato inspirado por Deus em Lu 19:10. Estudiosos acham que, em algum momento depois do século 4 d.C., um copista inseriu em Mateus a ideia encontrada no relato de Lucas. — Veja o Apêndice A3.
+====
+
+[[v40-18-12]]
+
+^<<v40-18-12,12>>^ “O que vocês acham? Se um homem tem 100 ovelhas e uma delas se perde, não deixará ele as 99 nos montes e irá à procura daquela que se perdeu?
+
+[[v40-18-13]]
+
+^<<v40-18-13,13>>^ E, se a encontrar, certamente lhes digo que se alegrará mais com ela do que com as 99 que não se perderam.
+
+[[v40-18-14]]
+
+^<<v40-18-14,14>>^ Do mesmo modo, não é o desejo do meu Pai, que está no céu, que se perca nem mesmo um destes pequenos.
+
+[TIP]
+====
+- *do meu Pai*: Alguns manuscritos bem antigos dizem “do Pai de vocês”.
+====
+
+[[v40-18-15]]
+
+^<<v40-18-15,15>>^ “Além disso, se o seu irmão cometer um pecado, vá mostrar-lhe o seu erro,^&#42;1^ somente você e ele. Se ele o escutar, você ganhou o seu irmão.
+
+[NOTE]
+====
+. Lit.: “vá repreendê-lo”.
+====
+
+[TIP]
+====
+- *seu irmão*: Veja a nota de estudo em Mt 5:23.
+====
+
+[[v40-18-16]]
+
+^<<v40-18-16,16>>^ Mas, se não o escutar, leve com você mais um ou dois, para que, com base no depoimento^&#42;1^ de duas ou três testemunhas, toda questão^&#42;2^ seja estabelecida.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “na boca”.
+. Ou: “tudo o que é dito”.
+. Lit.: “fique de pé”.
+====
+
+[[v40-18-17]]
+
+^<<v40-18-17,17>>^ Se ele não os escutar,^&#42;1^ fale à congregação. Se não escutar nem mesmo a^&#42;2^ congregação, seja ele para você apenas como homem das nações e como cobrador de impostos.
+
+[NOTE]
+====
+. Ou: “Se ele se recusar a escutá-los; Se ele não lhes der atenção”.
+. Ou: “Se ele se recusar a escutar até mesmo a; Se não der atenção nem mesmo à”.
+====
+
+[TIP]
+====
+- *à congregação*: De acordo com a Lei mosaica, a congregação de Israel era representada por “juízes e oficiais”, que tinham autoridade para fazer julgamentos. (De 16:18) Na época de Jesus, os casos eram julgados por tribunais locais formados por anciãos dos judeus. (Mt 5:22) Mais tarde, homens responsáveis designados por espírito santo serviriam como juízes em cada congregação cristã. — At 20:28; 1Co 5:1-5, 12, 13; para o significado da palavra “congregação”, veja a nota de estudo em Mt 16:18 e o Glossário, “Congregação”.
+- *como homem das nações e como cobrador de impostos*: Ou seja, como as pessoas com quem os judeus não tinham nenhum contato desnecessário. — Compare com At 10:28.
+====
+
+[[v40-18-18]]
+
+^<<v40-18-18,18>>^ “Digo-lhes a verdade: Tudo o que vocês amarrarem na terra já terá sido amarrado no céu, e tudo o que soltarem na terra já terá sido solto no céu.
+
+[TIP]
+====
+- *Tudo o que vocês amarrarem . . . soltarem*: Pelo visto, ‘amarrar’ significa aqui “considerar culpado; condenar”, e ‘soltar’ significa aqui “considerar inocente; absolver”. O pronome “vocês”, no plural, mostra que outros além de Pedro estariam envolvidos em tomar essas decisões. — Veja também a nota de estudo em Mt 16:19.
+- *já terá sido amarrado . . . já terá sido solto*: A construção verbal grega usada aqui é incomum (futuro do verbo grego para “ser” usado junto com o particípio perfeito passivo dos verbos gregos para “amarrar” e “soltar”). Essa construção verbal indica que os discípulos só tomariam uma decisão (‘amarrar’ ou ‘soltar’) depois que essa decisão já tivesse sido tomada “no céu”. Não indica que o céu confirmaria ou aprovaria uma decisão tomada na terra. Os discípulos tomariam decisões baseadas em princípios já estabelecidos no céu. Eles receberiam do céu a orientação necessária para que suas decisões “na terra” estivessem realmente de acordo com a decisão já tomada “no céu”. — Veja também a nota de estudo em Mt 16:19.
+====
+
+[[v40-18-19]]
+
+^<<v40-18-19,19>>^ Também lhes digo esta verdade: Se dois de vocês, na terra, concordarem em qualquer coisa importante que pedirem, ela lhes será concedida pelo meu Pai, que está no céu.
+
+[[v40-18-20]]
+
+^<<v40-18-20,20>>^ Pois, onde há dois ou três reunidos em meu nome, ali estou eu no meio deles.”
+
+[[v40-18-21]]
+
+^<<v40-18-21,21>>^ Pedro se aproximou então e lhe perguntou: “Senhor, quantas vezes devo perdoar o meu irmão se ele pecar contra mim? Até sete vezes?”
+
+[[v40-18-22]]
+
+^<<v40-18-22,22>>^ Jesus respondeu: “Eu não lhe digo até sete vezes, mas até 77 vezes.
+
+[TIP]
+====
+- *77 vezes*: Lit.: “setenta vezes sete”. Essa expressão grega pode ser entendida de dois modos: pode significar “70 mais 7” (77 vezes) ou pode significar “70 vezes 7” (490 vezes). A Septuaginta usou a mesma expressão grega para traduzir a expressão hebraica “setenta e sete vezes” que aparece em Gên 4:24. Isso favorece a tradução “77 vezes” usada aqui em Mt 18:22. Seja como for, a repetição do número sete era usada no sentido de “infinitas vezes” ou “sem limite”. Quando Jesus aumentou as 7 vezes de Pedro para 77, ele quis ensinar que seus discípulos não devem fixar um limite de quantas vezes vão perdoar alguém. Isso era bem diferente do que os líderes religiosos judaicos ensinavam. O Talmude Babilônico (Yoma 86b) diz: “Se um homem comete um erro, ele é perdoado na primeira, na segunda e na terceira vez. Mas, na quarta vez, ele não é perdoado.”
+====
+
+[[v40-18-23]]
+
+^<<v40-18-23,23>>^ “É por isso que o Reino dos céus pode ser comparado a um rei que queria ajustar contas com os seus escravos.
+
+[[v40-18-24]]
+
+^<<v40-18-24,24>>^ Quando começou a ajustá-las, trouxeram-lhe um homem que lhe devia 10.000 talentos.
+
+[TIP]
+====
+- *10.000 talentos*: Para conseguir apenas um talento, um trabalhador comum teria que juntar todo o seu salário de uns 20 anos. Ou seja, para pagar uma dívida desse tamanho, ele teria que trabalhar uns 200.000 anos. Jesus usou essa hipérbole para destacar que o escravo jamais conseguiria pagar a dívida. Os 10.000 talentos de prata equivaliam a 60.000.000 de denários. — Veja a nota de estudo em Mt 18:28; o Glossário, “Talento”; e o Apêndice B14-B.
+====
+
+[[v40-18-25]]
+
+^<<v40-18-25,25>>^ Mas, visto que este não tinha meios para pagar, seu senhor mandou que ele, a esposa dele, os filhos dele e tudo o que tivesse fossem vendidos e fosse feito o pagamento.
+
+[[v40-18-26]]
+
+^<<v40-18-26,26>>^ Então o escravo se prostrou e lhe prestou homenagem, dizendo: ‘Tenha paciência comigo, e eu lhe pagarei tudo.’
+
+[TIP]
+====
+- *lhe prestou homenagem*: Ou: “se curvou diante dele”. Quando o verbo grego proskynéo é usado em relação a um deus, ele é traduzido como “adorar”. Mas, no contexto deste versículo, o escravo “se curvou diante” do rei para mostrar respeito e submissão. Ele fez isso porque reconhecia que o rei tinha autoridade sobre ele, e não porque achava que o rei era um deus. — Veja as notas de estudo em Mt 2:2; 8:2.
+====
+
+[[v40-18-27]]
+
+^<<v40-18-27,27>>^ Com pena dele, o senhor daquele escravo o deixou ir e cancelou a sua dívida.
+
+[TIP]
+====
+- *cancelou a sua dívida*: Ou: “perdoou sua dívida (seu empréstimo)”. Em sentido figurado, dívidas podem se referir a pecados. — Veja a nota de estudo em Mt 6:12.
+====
+
+[[v40-18-28]]
+
+^<<v40-18-28,28>>^ Mas aquele escravo saiu e encontrou um dos seus coescravos, que lhe devia 100 denários. Ele o agarrou e começou a estrangulá-lo, dizendo: ‘Pague o que você deve.’
+
+[TIP]
+====
+- *100 denários*: É verdade que 100 denários era um valor bem pequeno perto dos 10.000 talentos (60.000.000 de denários). Mesmo assim, 100 denários era um valor relativamente alto, pois um trabalhador comum levaria 100 dias para ganhar esse valor. — Veja o Apêndice B14-B.
+====
+
+[[v40-18-29]]
+
+^<<v40-18-29,29>>^ Então seu coescravo se prostrou e lhe suplicou: ‘Tenha paciência comigo, e eu lhe pagarei.’
+
+[[v40-18-30]]
+
+^<<v40-18-30,30>>^ No entanto, ele não quis. Em vez disso, mandou lançá-lo na prisão, até que pagasse o que devia.
+
+[[v40-18-31]]
+
+^<<v40-18-31,31>>^ Quando seus coescravos viram o que tinha acontecido, ficaram muito tristes e foram contar ao seu senhor tudo o que tinha acontecido.
+
+[[v40-18-32]]
+
+^<<v40-18-32,32>>^ O senhor dele o convocou então e lhe disse: ‘Escravo mau, eu lhe cancelei toda aquela dívida quando você me suplicou.
+
+[TIP]
+====
+- *lhe cancelei toda aquela dívida*: Ou: “lhe perdoei toda aquela dívida”. — Veja a nota de estudo em Mt 6:12.
+====
+
+[[v40-18-33]]
+
+^<<v40-18-33,33>>^ Não devia você também ter tido misericórdia do seu coescravo, como eu tive misericórdia de você?’
+
+[[v40-18-34]]
+
+^<<v40-18-34,34>>^ Com isso, seu senhor, furioso, entregou-o aos carcereiros, até que pagasse tudo o que devia.
+
+[TIP]
+====
+- *carcereiros*: A palavra grega basanistés, traduzida aqui como “carcereiros”, tem o sentido básico de “atormentadores; torturadores”. É provável que ela fosse usada para se referir a carcereiros porque muitos deles costumavam torturar cruelmente os prisioneiros. Mas a palavra basanistés passou a ser usada para se referir aos carcereiros em geral, pelo visto porque manter uma pessoa presa — com ou sem tortura — era uma forma de atormentá-la. — Veja a nota de estudo em Mt 8:29.
+====
+
+[[v40-18-35]]
+
+^<<v40-18-35,35>>^ Meu Pai celestial tratará vocês da mesma forma, se cada um de vocês não perdoar de coração ao seu irmão.”
+
+'''
+
+xref:040-mateus/040-mateus-017.adoc#v40-17-0[&#60; Capítulo Anterior] | <<v40-18-0,Topo>> | xref:040-mateus/040-mateus-019.adoc#v40-19-0[Próximo Capítulo &#62;]

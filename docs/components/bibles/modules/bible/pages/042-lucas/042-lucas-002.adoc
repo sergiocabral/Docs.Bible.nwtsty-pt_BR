@@ -1,0 +1,411 @@
+include::./index.adoc[]
+
+[[v42-2-0]]
+=== As Boas Novas Segundo Lucas, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* C. Nascimento e infância de Jesus (2:1-52)
+* José e Maria viajam para Belém; Jesus nasce (2:1-7)
+* Anjos aparecem a pastores nos campos (2:8-20)
+* Jesus é circuncidado e apresentado a Jeová no templo (2:21-24)
+* Simeão tem o privilégio de ver o Cristo (2:25-35)
+* Ana fala sobre a criança (2:36-38)
+* José e Maria voltam para Nazaré levando Jesus (2:39, 40)
+* Jesus no templo aos 12 anos (2:41-50)
+* Jesus volta para Nazaré com seus pais (2:51, 52)
+****
+
+[[v42-2-1]]
+
+^<<v42-2-1,1>>^ Naqueles dias César Augusto emitiu um decreto para que toda a população se registrasse.
+
+[TIP]
+====
+- *César*: Ou: “o Imperador”. A palavra grega Kaísar corresponde à palavra Caesar, em latim. (Veja o Glossário.) O nome Augusto em latim significa “o Augusto; o Magnífico”. Esse nome foi usado como título dos imperadores romanos a partir do primeiro imperador, Caio Otávio. O senado romano deu esse título para ele em 27 a.C., e ele passou a ser conhecido como César Augusto. Foi por causa do decreto dele que se cumpriu a profecia de que Jesus nasceria em Belém. — Da 11:20; Miq 5:2.
+- *a população*: Lit.: “a terra habitada”. Em sentido amplo, a palavra grega traduzida como “população” (oikouméne) se refere à Terra como o lar da humanidade. (Lu 4:5; At 17:31; Ro 10:18; Ap 12:9; 16:14) Aqui, o foco da palavra está mais nos humanos que vivem na Terra do que no planeta em si. No século 1 d.C., essa palavra também era usada para se referir ao enorme território do Império Romano, por onde os judeus haviam sido espalhados. — At 24:5.
+- *se registrasse*: Augusto decretou que a população deveria se registrar provavelmente porque isso o ajudaria a cobrar impostos e a recrutar homens para o exército. Tudo indica que, ao fazer isso, ele estava cumprindo a profecia de Daniel que falava sobre um governante que faria um “exator passar pelo reino esplêndido”. A profecia também dizia que no lugar desse governante se ‘levantaria um desprezado’ e que, durante o governo desse sucessor, aconteceria algo muito importante: “o Líder do pacto”, o Messias, seria “destroçado”, ou seja, seria morto. (Da 11:20-22) Jesus foi executado durante o reinado de Tibério, o sucessor de Augusto.
+====
+
+[[v42-2-2]]
+
+^<<v42-2-2,2>>^ (Esse primeiro recenseamento ocorreu quando Quirino era governador da Síria.)
+
+[TIP]
+====
+- *Quirino . . . governador da Síria*: Esta é a única vez que a Bíblia menciona Públio Sulpício Quirino, um senador romano de destaque. Inicialmente, os estudiosos diziam que Quirino só governou a província romana da Síria por um mandato (em 6 ou 7 d.C.), quando ocorreu uma rebelião por causa de um censo. Como Jesus nasceu antes disso, eles diziam que as informações deste versículo estavam incorretas e questionavam o relato de Lucas como um todo. Mas em 1764 foi encontrada uma inscrição que indica fortemente que Quirino governou a Síria duas vezes. Existem também outras inscrições que levaram alguns historiadores a reconhecer que um dos mandatos de Quirino foi no período antes de Cristo. Tudo indica que foi durante esse primeiro mandato que ocorreu o primeiro recenseamento, mencionado neste versículo. Além disso, os críticos do relato de Lucas deixam de levar em conta três fatores muito importantes: 1) Ao dizer neste versículo que esse era o “primeiro recenseamento”, Lucas reconhece que houve um segundo. Isso mostra que ele sabia do recenseamento que ocorreu mais tarde, por volta de 6 d.C. Esse segundo recenseamento é mencionado pelo próprio Lucas, no livro de Atos (5:37), e pelo historiador Josefo. 2) A cronologia bíblica não dá margem para o nascimento de Jesus ter ocorrido durante o segundo mandato de Quirino, mas se harmoniza perfeitamente com Jesus ter nascido durante o primeiro mandato dele, que ocorreu em algum período entre os anos 4 a 1 a.C. 3) Lucas é conhecido por ser um historiador cuidadoso e viveu na época em que ocorreram muitos dos acontecimentos descritos por ele. (Lu 1:3) Além disso, Lucas foi inspirado pelo espírito santo. — 2Ti 3:​16.
+====
+
+[[v42-2-3]]
+
+^<<v42-2-3,3>>^ E todos foram se registrar, cada um na sua própria cidade.
+
+[[v42-2-4]]
+
+^<<v42-2-4,4>>^ Naturalmente, José também subiu da Galileia, da cidade de Nazaré, para a Judeia, à cidade de Davi, que se chama Belém, visto que era membro da casa e família de Davi.
+
+[TIP]
+====
+- *subiu da Galileia*: Existia uma cidade chamada Belém que ficava a apenas 11 quilômetros de Nazaré, na Galileia. Mas, de acordo com a profecia de Miq 5:2, o Messias viria de “Belém Efrata”. Essa Belém, também conhecida como cidade de Davi, ficava no sul, na Judeia. (1Sa 16:​1, 11, 13) A distância em linha reta entre Nazaré e Belém Efrata é de cerca de 110 quilômetros. Mas a distância real de uma viagem entre as duas cidades, passando por Samaria, talvez chegasse a 150 quilômetros (considerando o trajeto das estradas que existem hoje). O caminho passava por uma região montanhosa e a viagem era muito cansativa, levando vários dias.
+====
+
+[[v42-2-5]]
+
+^<<v42-2-5,5>>^ Foi se registrar com Maria, que lhe havia sido dada em casamento, conforme prometido, e que já estava perto de dar à luz.
+
+[[v42-2-6]]
+
+^<<v42-2-6,6>>^ Enquanto estavam lá, chegou o tempo de ela dar à luz.
+
+[[v42-2-7]]
+
+^<<v42-2-7,7>>^ E ela deu à luz seu filho primogênito, enrolou-o em panos e o deitou numa manjedoura, porque não havia lugar para eles no alojamento.
+
+[TIP]
+====
+- *primogênito*: Isso indica que Maria depois teve outros filhos. — Mt 13:55, 56; Mr 6:3.
+- *manjedoura*: A palavra grega fátne, traduzida aqui como “manjedoura”, significa “lugar de alimentação”. Talvez fosse um tipo de cocho usado para alimentar animais, mas fátne também pode se referir à baia onde os animais ficam. (Compare com Lu 13:15, onde fátne é traduzida como “baia”.) Neste contexto, a palavra parece se referir a um cocho, mas a Bíblia não deixa claro se ele ficava ao ar livre, em um local coberto, ou se fazia parte de uma baia.
+- *alojamento*: A palavra grega usada aqui também poderia ser traduzida como “sala dos hóspedes”, como foi feito em Mr 14:14 e Lu 22:11.
+====
+
+[[v42-2-8]]
+
+^<<v42-2-8,8>>^ Havia também na mesma região pastores vivendo ao ar livre e vigiando seus rebanhos à noite.
+
+[TIP]
+====
+- *pastores*: Visto que uma grande quantidade de ovelhas era sacrificada regularmente no templo, é bem possível que algumas das ovelhas ao redor de Belém fossem criadas para atender a essa necessidade.
+- *vivendo ao ar livre*: A palavra grega usada aqui vem de um verbo que combina agrós (“campo”) e aulé (“lugar ao ar livre”). Assim, ela significa “viver nos campos; viver a céu aberto” e transmite a ideia de passar a noite ao ar livre. Em qualquer época do ano era possível levar ovelhas para pastar durante o dia, mas os pastores estavam passando as noites ao ar livre com seus rebanhos. Isso ajuda a saber a época em que Jesus nasceu. Em Israel, a estação das chuvas começa por volta do meio de outubro e dura vários meses. Em dezembro é comum ocorrerem geadas tanto em Belém como em Jerusalém. O fato de pastores estarem nos campos à noite indica que Jesus nasceu antes da estação das chuvas. — Veja o Apêndice B15.
+====
+
+[[v42-2-9]]
+
+^<<v42-2-9,9>>^ De repente o anjo de Jeová apareceu diante deles, e a glória de Jeová brilhou em volta deles, e eles ficaram com muito medo.
+
+[TIP]
+====
+- *o anjo de Jeová*: Veja a nota de estudo em Lu 1:11 e o Apêndice C3 (introdução e Lu 2:9).
+- *a glória de Jeová*: Os dois primeiros capítulos de Lucas contêm muitas referências diretas e indiretas a expressões e passagens das Escrituras Hebraicas que usam o nome de Deus. Nas Escrituras Hebraicas a expressão para “glória” ocorre junto com o Tetragrama mais de 30 vezes. Algumas dessas ocorrências estão em Êx 16:7; 40:34; Le 9:6, 23; Núm 14:10; 16:19; 20:6; 1Rs 8:11; 2Cr 5:14; 7:1; Sal 104:31; 138:5; Is 35:2; 40:5; 60:1; Ez 1:28; 3:12; 10:4; 43:4 e Hab 2:14. — Veja as notas de estudo em Lu 1:6, 9 e o Apêndice C3 (introdução e Lu 2:9).
+====
+
+[[v42-2-10]]
+
+^<<v42-2-10,10>>^ Mas o anjo lhes disse: “Não tenham medo, pois estou aqui para lhes declarar boas novas de uma grande alegria que todo o povo terá.
+
+[[v42-2-11]]
+
+^<<v42-2-11,11>>^ Pois hoje lhes nasceu na cidade de Davi um salvador, que é Cristo, o Senhor.
+
+[TIP]
+====
+- *que é Cristo*: Pelo visto, o anjo usou o título “Cristo” de modo profético, já que Jesus só se tornou realmente o Messias, ou Cristo, quando o espírito santo desceu sobre ele em seu batismo. — Mt 3:16, 17; Mr 1:9-11; Lu 3:21, 22.
+- *Cristo, o Senhor*: Esta é a única vez que a expressão grega traduzida aqui como “Cristo, o Senhor” (khristós kýrios, lit.: “Cristo Senhor”) aparece nas Escrituras Gregas Cristãs. Pelo visto, o anjo usou esses títulos de modo profético. Assim, suas palavras poderiam ser traduzidas como “que será Cristo, o Senhor”. (Veja a nota de estudo em que é Cristo neste versículo.) Pedro foi inspirado a explicar que Deus fez de Jesus “Senhor e Cristo”. (At 2:36) Mas a expressão khristós kýrios também é entendida de outras maneiras. Alguns estudiosos sugerem que a tradução seja “o ungido Senhor”. Outros acham que a combinação dos dois títulos na verdade significa “o Cristo do Senhor”, assim como aparece em algumas poucas traduções de Lu 2:11 em latim e em siríaco. Algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J5-8, 10 no Apêndice C4) seguem esse mesmo princípio e traduzem essa expressão como mashíahh Yehowáh, ou seja, “o Cristo de Jeová”. Por esses e outros motivos, alguns estudiosos entendem que aqui a expressão khristós kýrios tem o mesmo significado da expressão grega que aparece em Lu 2:26 e que foi traduzida como “o Cristo de Jeová”.
+====
+
+[[v42-2-12]]
+
+^<<v42-2-12,12>>^ E este será o sinal para vocês: acharão um bebê enrolado em panos e deitado numa manjedoura.”
+
+[[v42-2-13]]
+
+^<<v42-2-13,13>>^ De repente, apareceu junto ao anjo uma multidão do exército celestial, louvando a Deus e dizendo:
+
+[[v42-2-14]]
+
+^<<v42-2-14,14>>^ “Glória a Deus nas maiores alturas, e na terra paz entre os homens a quem ele concede o seu favor.”
+
+[TIP]
+====
+- *e na terra paz entre os homens a quem ele concede o seu favor*: O texto grego de alguns manuscritos pode ser traduzido “paz na terra, boa vontade para com os homens”, e algumas traduções da Bíblia seguem essa opção. Mas a opção usada na Tradução do Novo Mundo se baseia em manuscritos mais antigos e mais confiáveis. O anúncio dos anjos não indicava que Deus expressaria sua boa vontade a todos os humanos, não importando suas atitudes e ações. Em vez disso, indicava que Deus mostraria sua boa vontade aos que demonstrassem verdadeira fé nele e se tornassem seguidores de seu Filho. — Veja a nota de estudo em os homens a quem ele concede seu favor neste versículo.
+- *os homens a quem ele concede seu favor*: Ou: “os homens de boa vontade”. Em grego, anthrópois eudokías. A palavra grega eudokía também pode ser traduzida como “boa vontade; agrado; aprovação”. O verbo relacionado, eudokéo, é usado em Mt 3:17; Mr 1:11 e Lu 3:22, onde Deus fala com Jesus logo depois de seu batismo. (Veja as notas de estudo em Mt 3:​17; Mr 1:​11.) Esse verbo tem o sentido básico de “aprovar; agradar-se de; olhar com favor para; alegrar-se com”. Assim, a expressão grega anthrópois eudokías se refere a pessoas que têm a aprovação e o favor de Deus, e também poderia ser traduzida como “pessoas que ele aprova; pessoas que lhe agradam”. Os anjos não estavam dizendo que Deus concederia seu favor aos homens em geral. Ele concederia seu favor apenas aos que lhe agradassem, demonstrando verdadeira fé nele e se tornando seguidores de Jesus. Embora em alguns casos eudokía possa se referir à boa motivação de humanos (Ro 10:1; Fil 1:15), ela é usada com frequência para se referir ao que é aprovado por Deus ou ao que ele sente quando algo lhe agrada. (Mt 11:26; Lu 10:21; Ef 1:5, 9; Fil 2:13; 2Te 1:11) A Septuaginta também usa essa palavra no Sal 51:18 (50:20, LXX) para se referir à “boa vontade” de Deus.
+====
+
+[[v42-2-15]]
+
+^<<v42-2-15,15>>^ Assim, depois que os anjos se afastaram deles para o céu, os pastores começaram a dizer uns aos outros: “Vamos sem falta a Belém e vejamos o que ocorreu, aquilo que Jeová nos fez saber.”
+
+[TIP]
+====
+- *aquilo que Jeová nos fez saber*: A mensagem foi transmitida por anjos, mas os pastores reconheceram que a fonte dela era Jeová Deus. O verbo grego traduzido aqui como “fez saber” é usado em algumas passagens da Septuaginta para traduzir um verbo hebraico em contextos em que Jeová revela sua vontade para humanos ou em que humanos desejam saber qual é a vontade dele. O texto hebraico original dessas passagens muitas vezes usa o Tetragrama. (Sal 25:4; 39:4; 98:2; 103:6, 7) Assim, seria natural que as palavras desses pastores judeus incluíssem o nome de Deus. — Veja a nota de estudo em Lu 1:6, o Apêndice C1 e o Apêndice C3 (introdução e Lu 2:15).
+====
+
+[[v42-2-16]]
+
+^<<v42-2-16,16>>^ E foram depressa e acharam Maria, bem como José, e o bebê deitado na manjedoura.
+
+[[v42-2-17]]
+
+^<<v42-2-17,17>>^ Quando viram isso, contaram o que lhes havia sido dito a respeito da criancinha.
+
+[[v42-2-18]]
+
+^<<v42-2-18,18>>^ E todos os que ouviram ficaram muito admirados com as coisas que os pastores lhes contaram.
+
+[[v42-2-19]]
+
+^<<v42-2-19,19>>^ Maria, porém, começou a guardar todas essas declarações, tirando conclusões no coração.
+
+[[v42-2-20]]
+
+^<<v42-2-20,20>>^ Os pastores voltaram então, glorificando e louvando a Deus por tudo que tinham ouvido e visto, exatamente como lhes havia sido dito.
+
+[[v42-2-21]]
+
+^<<v42-2-21,21>>^ Depois de oito dias, quando chegou a ocasião de circuncidá-lo, deram-lhe o nome de Jesus, nome dado pelo anjo antes de ele ser concebido.
+
+[TIP]
+====
+- *Jesus*: Veja a nota de estudo em Mt 1:21.
+====
+
+[[v42-2-22]]
+
+^<<v42-2-22,22>>^ Também, quando chegou o tempo para a purificação deles, segundo a Lei de Moisés, eles o levaram a Jerusalém para apresentá-lo a Jeová,
+
+[TIP]
+====
+- *o tempo para a purificação deles*: Ou seja, o tempo de serem purificados de acordo com a Lei. A Lei mosaica exigia que, depois de dar à luz um menino, a mulher se purificasse por 40 dias. (Le 12:1-4) Essa lei não tinha o objetivo de fazer com que as mulheres ou o parto fossem encarados de forma negativa. Em vez disso, ela pelo visto ensinava uma verdade muito importante: sempre que uma criança nascia, o pecado de Adão estava sendo transmitido de uma geração para a outra. Ao contrário do que dizem alguns religiosos, Maria também tinha herdado o pecado. (Ro 5:12) Mas Lucas sabia que o espírito santo tinha protegido Jesus contra o pecado e a imperfeição de sua mãe, Maria, e que, por isso, Jesus não precisava ser purificado. (Lu 1:34, 35) Assim, quando Lucas usou o pronome “deles” neste versículo, ele não estava incluindo Jesus. Pode ser que ele estivesse incluindo José, o pai adotivo de Jesus, já que, como chefe de família, José cuidou dos assuntos relacionados com a viagem e tinha a responsabilidade de providenciar que o sacrifício fosse feito.
+- *para apresentá-lo a Jeová*: O versículo 23 mostra que os pais de Jesus o levaram ao templo em obediência às palavras de Jeová a Moisés em Êx 13:1, 2, 12, onde se ordenava que os pais ‘devotassem a Jeová todo primogênito do sexo masculino’. Além disso, a expressão “para apresentá-lo a Jeová” lembra o que é descrito em 1Sa 1:22-28, que diz que Samuel foi levado “perante Jeová” e dedicado ao seu serviço. — Veja as notas de estudo em Lu 1:6; 2:23 e o Apêndice C3 (introdução e Lu 2:22).
+====
+
+[[v42-2-23]]
+
+^<<v42-2-23,23>>^ assim como está escrito na Lei de Jeová: “Todo primogênito do sexo masculino^&#42;1^ tem de ser chamado santo para Jeová.”
+
+[NOTE]
+====
+. Lit.: “Todo macho que abre o ventre”.
+====
+
+[TIP]
+====
+- *na Lei de Jeová*: A expressão “Lei de Jeová” ocorre muitas vezes nas Escrituras Hebraicas e é formada pela palavra hebraica para “lei” e o Tetragrama. (Por exemplo: Êx 13:9; 2Rs 10:31; 1Cr 22:12; 2Cr 17:9; 31:3; Ne 9:3; Sal 1:2; 119:1; Is 5:24; Je 8:8; Am 2:4.) A expressão assim como está escrito é usada muitas vezes antes de se citar uma passagem das Escrituras Hebraicas nas Escrituras Gregas Cristãs. — Mr 1:2; At 7:42; 15:15; Ro 1:17; 10:15; veja a nota de estudo em Lu 1:6 e o Apêndice C3 (introdução e Lu 2:23).
+- *Todo primogênito do sexo masculino*: A passagem de Lu 2:22-24 não menciona apenas a oferta feita para a purificação de Maria (veja as notas de estudo em Lu 2:22, 24), mas também faz referência à lei que exigia um pagamento de cinco siclos de prata quando um casal tivesse seu primeiro filho homem. Por ser o filho primogênito, Jesus era considerado santificado (posto à parte) para Deus e pertencia a ele. Por isso, a Lei exigia que ele fosse remido, ou resgatado, por seus pais, José e Maria. (Êx 13:1, 2; Núm 18:15, 16) Segundo a Lei, o pagamento devia ser feito quando a criança tivesse “um mês de idade ou mais”. Assim, José poderia pagar os cinco siclos na mesma ocasião da oferta de purificação de Maria, ou seja, 40 dias após o nascimento de Jesus.
+- *Jeová*: Esta citação se baseia em Êx 13:2, 12. No texto hebraico original de Êxodo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v42-2-24]]
+
+^<<v42-2-24,24>>^ E ofereceram um sacrifício segundo o que se diz na Lei de Jeová: “Um par de rolas ou dois pombos novos.”
+
+[TIP]
+====
+- *ofereceram um sacrifício*: De acordo com a Lei mosaica, depois do parto a mulher ficava impura por um período de tempo. Quando esse período acabava, era necessário fazer uma oferta queimada e uma oferta pelo pecado para que ela fosse purificada. — Le 12:1-8.
+- *na Lei de Jeová*: Veja a nota de estudo em Lu 2:23 e o Apêndice C3 (introdução e Lu 2:24).
+- *Um par de rolas ou dois pombos novos*: A Lei permitia que as mulheres pobres oferecessem duas aves, em vez de uma ave e um carneirinho (o que seria bem mais caro). (Le 12:6, 8) O fato de José e Maria terem oferecido aves nessa ocasião mostra que eles eram pobres. Isso prova que os astrólogos não visitaram Jesus quando ele era um recém-nascido, mas quando ele já era mais velho. (Mt 2:9-11) Se José e Maria já tivessem recebido os presentes caros dos astrólogos, eles não teriam nenhuma dificuldade em comprar um carneirinho para o sacrifício.
+====
+
+[[v42-2-25]]
+
+^<<v42-2-25,25>>^ Havia em Jerusalém um homem chamado Simeão; esse homem era justo e devoto, e esperava o consolo de Israel, e o espírito santo estava sobre ele.
+
+[TIP]
+====
+- *Simeão*: Nome que vem de um verbo hebraico que significa “ouvir; escutar”. Assim como Zacarias e Elisabete, Simeão é chamado de justo. (Lu 1:5, 6) Ele também é chamado de devoto (em grego, eulabés), uma palavra usada nas Escrituras Gregas Cristãs para se referir a alguém cuidadoso e esforçado em assuntos relacionados à adoração. — At 2:5; 8:2; 22:12.
+====
+
+[[v42-2-26]]
+
+^<<v42-2-26,26>>^ Além disso, ele havia recebido a revelação divina, pelo espírito santo, que ele não veria a morte antes de ver o Cristo de Jeová.
+
+[TIP]
+====
+- *o Cristo*: Ou: “o Ungido; o Messias”. O título “Cristo” vem da palavra grega Khristós e corresponde ao título “Messias” (do hebraico Mashíahh). Tanto a palavra grega como a hebraica significam “ungido”. — Veja a nota de estudo em Mt 1:1 e a nota de estudo em o Cristo de Jeová neste versículo.
+- *o Cristo de Jeová*: Embora os manuscritos gregos disponíveis usem aqui a expressão ton khristón Kyríou (lit.: “o Cristo de Senhor”), há bons motivos para se usar o nome de Deus no texto principal. Nas cópias disponíveis da Septuaginta, essa expressão é usada para traduzir a expressão hebraica mashíahh YHWH, que significa “(o) ungido de Jeová” e aparece 11 vezes nas Escrituras Hebraicas. — 1Sa 24:6 (duas vezes), 10; 26:9, 11, 16, 23; 2Sa 1:14, 16; 19:21; La 4:20; veja o Apêndice C3 (introdução e Lu 2:26).
+====
+
+[[v42-2-27]]
+
+^<<v42-2-27,27>>^ Assim, sob o poder do espírito, ele foi ao templo; e quando os pais levaram o menino Jesus para dentro, a fim de lhe fazer o que era o costume segundo a Lei,
+
+[[v42-2-28]]
+
+^<<v42-2-28,28>>^ ele pegou a criança nos braços, louvou a Deus e disse:
+
+[[v42-2-29]]
+
+^<<v42-2-29,29>>^ “Agora, Soberano Senhor, estás deixando o teu escravo ir em paz, segundo a tua declaração,
+
+[TIP]
+====
+- *Soberano Senhor*: A palavra grega usada aqui, despótes, tem o sentido básico de “amo; senhor; dono”. (1Ti 6:1; Tit 2:9; 1Pe 2:18) Quando ela é usada para se dirigir diretamente a Deus, como acontece aqui e em At 4:24 e Ap 6:10, ela é traduzida como “Soberano Senhor”, para transmitir a ideia de que Jeová é muito superior a qualquer outro “senhor”. Outras traduções usam expressões como “Senhor”, “Amo”, “Soberano” e “Governante de todos”. Muitas traduções das Escrituras Gregas Cristãs para o hebraico traduzem despótes como ʼAdhonaí (Soberano Senhor), mas pelo menos duas dessas traduções (chamadas de J9, 18 no Apêndice C4) usam aqui o nome de Deus, Jeová.
+- *deixando o teu escravo ir*: A palavra grega para “deixar ir” significa literalmente “libertar; soltar; dispensar”. Ela foi usada neste versículo como um eufemismo (uma forma mais suave de falar algo) e na verdade significa “deixar morrer”. Morrer em paz podia significar morrer tranquilamente depois de uma vida plena ou depois de acontecer algo muito desejado. (Compare com Gên 15:15; 1Rs 2:6.) A promessa que Jeová tinha feito a Simeão tinha se cumprido; ele tinha visto o prometido “Cristo de Jeová”, o meio de Deus dar salvação. Agora Simeão podia se sentir tranquilo e em paz, e estava pronto para descansar na morte até ser ressuscitado. — Lu 2:26.
+====
+
+[[v42-2-30]]
+
+^<<v42-2-30,30>>^ porque meus olhos viram teu meio de salvação,^&#42;1^
+
+[NOTE]
+====
+. Ou: “o modo em que tu salvarás; a tua salvação”.
+====
+
+[[v42-2-31]]
+
+^<<v42-2-31,31>>^ que preparaste à vista de todos os povos,
+
+[[v42-2-32]]
+
+^<<v42-2-32,32>>^ uma luz para remover o véu das nações e uma glória para o teu povo, Israel.”
+
+[TIP]
+====
+- *para remover o véu das nações*: Ou: “para revelação às nações”. A palavra grega apokálypsis, traduzida aqui como “remover o véu”, passa a ideia de algo revelado ou desvendado, e é usada com frequência para se referir à revelação de assuntos espirituais ou dos propósitos e da vontade de Deus. (Ro 16:25; Ef 3:3; Ap 1:1) O idoso Simeão se referiu a Jesus como uma luz e indicou que o esclarecimento espiritual que Jesus traria beneficiaria as nações em geral, e não apenas os judeus e prosélitos. As palavras proféticas de Simeão estão de acordo com profecias das Escrituras Hebraicas como as de Is 42:6 e 49:6.
+====
+
+[[v42-2-33]]
+
+^<<v42-2-33,33>>^ E o pai e a mãe do menino se admiravam das coisas que se falavam dele.
+
+[[v42-2-34]]
+
+^<<v42-2-34,34>>^ Também, Simeão os abençoou e disse a Maria, a mãe do menino: “Escute, este menino será motivo para a queda e para o levantamento de muitos em Israel, e será um sinal contra o qual falar
+
+[TIP]
+====
+- *o levantamento*: A palavra grega usada aqui, anástasis, normalmente é traduzida nas Escrituras Gregas Cristãs como “ressurreição”. (Veja a  nota de estudo em Mt 22:23.) As palavras de Simeão neste versículo indicam que as pessoas reagiriam à pregação de Jesus de maneiras diferentes, revelando o que elas tinham no coração. (Lu 2:35) Para as pessoas que não acreditassem em Jesus, ele seria um sinal contra o qual falar, um objeto de desprezo. Essas pessoas sem fé o rejeitariam, tropeçariam por causa dele e cairiam. E isso realmente aconteceu. Conforme predito em Is 8:14, Jesus foi uma pedra de tropeço para muitos judeus. Mas outras pessoas exerceriam fé em Jesus. (Is 28:16) Elas seriam ‘levantadas’ (ressuscitadas de uma condição em que estavam ‘mortas por causa das suas falhas e pecados’) e passariam a ser consideradas por Deus como justas. — Ef 2:1.
+====
+
+[[v42-2-35]]
+
+^<<v42-2-35,35>>^ — e, quanto a você, uma longa espada a atravessará —, a fim de que os raciocínios de muitos corações sejam revelados.”
+
+[TIP]
+====
+- *uma longa espada*: Não há nada na Bíblia que indique que alguém tenha literalmente ferido Maria com uma espada. Assim, tudo indica que essa expressão se refira à dor, ao sofrimento e à tristeza que Maria sentiria quando seu filho fosse morto em uma estaca. — Jo 19:25.
+- *a atravessará*: Ou: “atravessará a sua própria alma; atravessará a sua vida”. — Veja o Glossário, “Alma”.
+====
+
+[[v42-2-36]]
+
+^<<v42-2-36,36>>^ Havia também uma profetisa, Ana, filha de Fanuel, da tribo de Aser. Essa mulher era de idade bem avançada e tinha vivido com seu marido por sete anos, desde o seu casamento.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “desde a sua virgindade”.
+====
+
+[TIP]
+====
+- *Ana*: Em hebraico, esse nome significa “favor; graça”. Quando Ana falou sobre Jesus a todos os que estavam aguardando o livramento de Jerusalém, ela agiu como profetisa. “Profetizar” tem o sentido básico de declarar uma mensagem que Deus transmitiu, revelar a vontade de Deus. — Veja a nota de estudo em At 2:17.
+====
+
+[[v42-2-37]]
+
+^<<v42-2-37,37>>^ Ela era viúva e já tinha 84 anos de idade. Nunca estava ausente do templo, prestando serviço sagrado noite e dia, fazendo jejum e súplicas.
+
+[TIP]
+====
+- *Nunca estava ausente do templo*: Ana estava sempre no templo. Ela talvez chegasse quando os portões eram abertos pela manhã e ficasse ali até a hora em que os portões eram fechados, no início da noite. O serviço sagrado que ela prestava incluía jejum e súplicas, mostrando que ela lamentava a situação que existia em sua época, assim como outros servos fiéis de Jeová tinham feito. (Esd 10:1; Ne 1:4; La 1:16) Fazia séculos que os judeus estavam debaixo do governo de outros povos, e a situação religiosa estava piorando cada vez mais, afetando até mesmo os sacerdotes e o templo. Essa situação pode ajudar a entender porque Ana e outros estavam ansiosamente “aguardando o livramento de Jerusalém”. — Lu 2:38.
+- *prestando serviço sagrado*: Ou: “adorando”. — Veja a nota de estudo em Lu 1:74.
+====
+
+[[v42-2-38]]
+
+^<<v42-2-38,38>>^ Ela se aproximou naquela mesma hora e começou a dar graças a Deus e a falar sobre a criança a todos os que estavam aguardando o livramento de Jerusalém.
+
+[TIP]
+====
+- *Deus*: Os manuscritos gregos mais antigos usam aqui a palavra Theós (Deus). Mas outros manuscritos gregos e traduções para o latim e para o siríaco usam uma expressão que significa “o Senhor”. Várias traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J5, 7-17, 28 no Apêndice C4) usam aqui o nome de Deus. Assim, a frase também poderia ser traduzida como “dar graças a Jeová”.
+====
+
+[[v42-2-39]]
+
+^<<v42-2-39,39>>^ Assim, quando eles haviam cumprido todas as coisas segundo a Lei de Jeová, voltaram para a Galileia, para sua cidade, Nazaré.
+
+[TIP]
+====
+- *a Lei de Jeová*: A expressão “Lei de Jeová” ocorre muitas vezes nas Escrituras Hebraicas e é formada pela palavra hebraica para “lei” e o Tetragrama. — Êx 13:9; 2Rs 10:31; 1Cr 22:12; 2Cr 17:9; 31:3; Ne 9:3; Sal 1:2; 119:1; Is 5:24; Je 8:8; Am 2:4; veja as notas de estudo em Lu 1:6; 2:23 e o Apêndice C3 (introdução e Lu 2:39).
+- *voltaram para a Galileia*: À primeira vista, essa declaração parece indicar que José e Maria foram diretamente para Nazaré depois de apresentar Jesus no templo. Mas Lucas relatou esses acontecimentos de forma bem resumida. O Evangelho de Mateus conta em mais detalhes o que aconteceu (2:1-23) e menciona a visita dos astrólogos, a fuga de José e Maria para o Egito para escapar de Herodes, a morte de Herodes e a volta da família de Jesus para Nazaré.
+====
+
+[[v42-2-40]]
+
+^<<v42-2-40,40>>^ E o menino continuou a crescer, ficando forte e cheio de sabedoria; e o favor de Deus continuou sobre ele.
+
+[[v42-2-41]]
+
+^<<v42-2-41,41>>^ De ano em ano, seus pais costumavam ir a Jerusalém para a Festividade da Páscoa.
+
+[TIP]
+====
+- *seus pais costumavam*: A Lei não exigia que as mulheres comparecessem à celebração da Páscoa em Jerusalém. Mas Maria tinha o costume de acompanhar José na viagem até Jerusalém para essa festividade. (Êx 23:17; 34:23) Mesmo com sua família crescendo, José e Maria continuavam fazendo a viagem todo ano. O caminho passava por uma região montanhosa e o trajeto de ida e volta talvez fosse de quase 300 quilômetros.
+====
+
+[[v42-2-42]]
+
+^<<v42-2-42,42>>^ E, quando ele tinha 12 anos de idade, subiram segundo o costume da festividade.
+
+[TIP]
+====
+- *subiram*: Ou seja, subiram para Jerusalém. A subida até Jerusalém envolvia passar por muitos morros e montanhas. — Veja a nota de estudo em Lu 2:4.
+====
+
+[[v42-2-43]]
+
+^<<v42-2-43,43>>^ Quando a festividade terminou e eles começaram a viagem de volta, o menino Jesus ficou em Jerusalém, mas seus pais não perceberam.
+
+[[v42-2-44]]
+
+^<<v42-2-44,44>>^ Pensando que ele estivesse no grupo que viajava junto, percorreram a distância de um dia e então começaram a procurá-lo entre os parentes e conhecidos.
+
+[[v42-2-45]]
+
+^<<v42-2-45,45>>^ Mas, visto que não o acharam, voltaram a Jerusalém e o procuraram cuidadosamente.
+
+[[v42-2-46]]
+
+^<<v42-2-46,46>>^ Pois bem, depois de três dias, eles o acharam no templo, sentado no meio dos instrutores, escutando-os e fazendo-lhes perguntas.
+
+[TIP]
+====
+- *fazendo-lhes perguntas*: A reação das pessoas que escutavam Jesus mostrou que as perguntas dele não eram apenas perguntas de um menino curioso. (Lu 2:​47) A palavra grega traduzida como ‘fazendo perguntas’ pode se referir, em alguns contextos, ao tipo de perguntas e questionamentos usados numa investigação judicial. (Mt 27:11; Mr 14:60, 61; 15:​2, 4; At 5:​27) Historiadores dizem que alguns dos líderes religiosos mais importantes costumavam permanecer no templo depois das festividades e ensinar num dos pórticos espaçosos que havia ali. As pessoas podiam se sentar aos pés daqueles homens para escutá-los e fazer perguntas.
+====
+
+[[v42-2-47]]
+
+^<<v42-2-47,47>>^ Mas todos os que o escutavam ficavam admirados com o seu entendimento e suas respostas.
+
+[TIP]
+====
+- *ficavam admirados*: No grego, o tempo verbal usado aqui pode indicar que eles ficaram espantados vez após vez ou que ficaram espantados o tempo inteiro.
+====
+
+[[v42-2-48]]
+
+^<<v42-2-48,48>>^ Assim, seus pais ficaram espantados quando o viram, e sua mãe lhe disse: “Filho, por que você fez isso conosco? Olhe, seu pai e eu estávamos desesperados procurando você.”
+
+[[v42-2-49]]
+
+^<<v42-2-49,49>>^ Mas ele lhes disse: “Por que estavam procurando por mim? Não sabiam que eu devia estar na casa do meu Pai?”
+
+[TIP]
+====
+- *ele lhes disse*: As palavras que Jesus disse em resposta a seus pais são as primeiras palavras dele registradas na Bíblia. Tudo indica que, nessa idade, Jesus não estava completamente a par da vida que tinha tido no céu. (Veja as notas de estudo em Mt 3:16; Lu 3:21.) Mas é razoável acreditar que o pai adotivo e a mãe de Jesus tivessem contado para ele o que os anjos tinham falado e o que Simeão e Ana tinham profetizado quando a família foi para Jerusalém, 40 dias depois do nascimento dele. (Mt 1:20-25; 2:13, 14, 19-21; Lu 1:26-38; 2:8-38) A resposta de Jesus indica que ele sabia, pelo menos até certo ponto, que seu nascimento tinha sido milagroso e que a relação que ele tinha com seu Pai celestial, Jeová, era especial.
+- *eu devia estar na casa do meu Pai*: A expressão grega traduzida aqui como “na casa do meu Pai” significa literalmente “nas [coisas] do meu Pai”. O contexto mostra que José e Maria estavam preocupados porque não sabiam onde Jesus estava. Assim, parece mais lógico que Jesus estivesse falando de um lugar, ou seja, “a casa [morada; pátios]” do Pai dele. (Lu 2:44-46) Mais tarde, durante seu ministério, Jesus se referiu especificamente ao templo como a “casa do meu Pai”. (Jo 2:16) Mas, de acordo com alguns estudiosos, essa expressão poderia ser entendida de maneira mais ampla e significar “eu preciso estar ocupado com as coisas do meu Pai”.
+====
+
+[[v42-2-50]]
+
+^<<v42-2-50,50>>^ No entanto, não compreenderam o que ele estava lhes dizendo.
+
+[[v42-2-51]]
+
+^<<v42-2-51,51>>^ Então ele desceu com eles e voltou a Nazaré, e continuou a estar sujeito a eles. Também, sua mãe guardava cuidadosamente todas essas declarações no coração.
+
+[TIP]
+====
+- *ele desceu*: Jerusalém ficava cerca de 750 metros acima do nível do mar. A expressão “ele desceu” é usada aqui para indicar que ele saiu de Jerusalém. — Lu 10:30, 31; At 24:1; 25:7; compare com as notas de estudo em Mt 20:17; Lu 2:4, 42.
+- *continuou a estar sujeito*: Ou: “continuou submisso; continuou obediente”. No grego, o tempo verbal usado aqui indica uma ação contínua. Assim, depois de ter deixado os instrutores do templo impressionados com o seu conhecimento da Palavra de Deus, Jesus foi para casa e continuou humildemente sujeito a seus pais. Essa obediência era mais importante do que a de qualquer outra criança, pois Jesus tinha que obedecer aos pais para cumprir plenamente a Lei mosaica. — Êx 20:12; Gál 4:4.
+- *declarações*: Ou: “coisas”. — Veja a nota de estudo em Lu 1:37.
+====
+
+[[v42-2-52]]
+
+^<<v42-2-52,52>>^ E Jesus progredia em sabedoria e em desenvolvimento físico, e no favor de Deus e dos homens.
+
+'''
+
+xref:042-lucas/042-lucas-001.adoc#v42-1-0[&#60; Capítulo Anterior] | <<v42-2-0,Topo>> | xref:042-lucas/042-lucas-003.adoc#v42-3-0[Próximo Capítulo &#62;]

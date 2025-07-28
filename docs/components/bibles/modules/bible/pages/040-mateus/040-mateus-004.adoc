@@ -1,0 +1,249 @@
+include::./index.adoc[]
+
+[[v40-4-0]]
+=== As Boas Novas Segundo Mateus, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* C. Diabo tenta Jesus; Jesus começa sua pregação na Galileia (4:1-25)
+* Jesus rejeita as tentações do Diabo (4:1-11)
+* Jesus começa a pregar sobre o Reino dos céus (4:12-17)
+* Jesus convida seus primeiros quatro discípulos para serem “pescadores de homens” (4:18-22)
+* Jesus prega, ensina e faz curas (4:23-25)
+****
+
+[[v40-4-1]]
+
+^<<v40-4-1,1>>^ Jesus foi então conduzido pelo espírito ao deserto, para ser tentado pelo Diabo.
+
+[TIP]
+====
+- *conduzido pelo espírito*: Ou: “conduzido pela força ativa”. A palavra grega pneúma se refere aqui ao espírito de Deus, que pode atuar como uma força que impele ou motiva a pessoa a fazer as coisas de acordo com a vontade de Deus. — Veja o Glossário, “Espírito”.
+- *Diabo*: Vem da palavra grega diábolos, que significa “caluniador”. (Jo 6:70; 2Ti 3:3) O verbo relacionado diabállo significa “acusar; incriminar”, e foi traduzido em Lu 16:1 como “foi acusado”.
+====
+
+[[v40-4-2]]
+
+^<<v40-4-2,2>>^ Depois de ter jejuado por 40 dias e 40 noites, ele sentiu fome.
+
+[[v40-4-3]]
+
+^<<v40-4-3,3>>^ E o Tentador se aproximou e lhe disse: “Se você é filho de Deus, diga a estas pedras que se transformem em pães.”
+
+[[v40-4-4]]
+
+^<<v40-4-4,4>>^ Mas ele respondeu: “Está escrito: ‘O homem não deve viver somente de pão, mas de toda palavra que vem da boca de Jeová.’”
+
+[TIP]
+====
+- *Está escrito*: Jesus usou essa expressão para responder ao Diabo nas três tentações. Em cada uma delas, Jesus citou um versículo das Escrituras Hebraicas. — Mt 4:7, 10.
+- *Jeová*: Esta é uma citação direta de De 8:3. No texto hebraico original de De 8:3, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v40-4-5]]
+
+^<<v40-4-5,5>>^ O Diabo o levou então à cidade santa, colocou-o sobre o parapeito do templo
+
+[TIP]
+====
+- *cidade santa*: Refere-se à Jerusalém. Ela é muitas vezes chamada de santa porque o templo de Jeová ficava ali. — Ne 11:1; Is 52:1.
+- *parapeito do templo*: Ou: “ponto mais alto do templo”. Lit.: “asa do templo”. A palavra grega usada para “templo” pode se referir ao santuário do templo (onde ficavam o Santo e o Santíssimo) ou ao conjunto inteiro de prédios do templo. Assim, quando o versículo diz que Jesus estava “sobre o parapeito”, pode significar que ele estava sobre o muro que ficava em volta dos prédios do templo.
+====
+
+[[v40-4-6]]
+
+^<<v40-4-6,6>>^ e lhe disse: “Se você é filho de Deus, jogue-se para baixo, pois está escrito: ‘Ele dará aos seus anjos uma ordem referente a você’ e ‘Eles o carregarão nas mãos, para que não bata com o pé numa pedra’.”
+
+[[v40-4-7]]
+
+^<<v40-4-7,7>>^ Jesus lhe disse: “Também está escrito: ‘Não ponha Jeová, seu Deus, à prova.’”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de De 6:16. No texto hebraico original de De 6:16, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v40-4-8]]
+
+^<<v40-4-8,8>>^ A seguir, o Diabo o levou a uma montanha extraordinariamente alta e lhe mostrou todos os reinos do mundo e a glória deles.
+
+[TIP]
+====
+- *lhe mostrou*: Pelo visto, o Diabo fez Jesus ter uma visão que parecia bem real.
+- *reinos*: Essa palavra se refere aos governos humanos em geral.
+- *mundo*: Traduz a palavra grega kósmos. Neste versículo, é usada para se referir a todos os humanos que não adoram a Jeová.
+====
+
+[[v40-4-9]]
+
+^<<v40-4-9,9>>^ E lhe disse: “Eu lhe darei tudo isto se você se prostrar e me fizer um ato de adoração.”
+
+[TIP]
+====
+- *fizer um ato de adoração*: O verbo grego que pode ser traduzido como “adorar” aparece aqui conjugado no aoristo, um tempo verbal que indica uma ação momentânea, que dura pouco tempo. A tradução ‘fazer um ato de adoração’ mostra que o Diabo não pediu para Jesus se tornar um adorador dele; ele pediu apenas um “ato de adoração”.
+====
+
+[[v40-4-10]]
+
+^<<v40-4-10,10>>^ Jesus lhe disse então: “Vá embora, Satanás! Pois está escrito: ‘Adore a Jeová, seu Deus, e preste serviço sagrado apenas a ele.’”
+
+[TIP]
+====
+- *Satanás*: Vem da palavra hebraica satán, que significa “opositor; adversário”.
+- *Jeová*: Esta é uma citação direta de De 6:13. No texto hebraico original de Deuteronômio, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *e preste serviço sagrado apenas a ele*: Ou: “e sirva apenas a ele”. A palavra grega usada aqui, latreúo, significa basicamente “servir”, mas é usada nas Escrituras Gregas Cristãs de maneira mais específica para se referir a servir ou adorar a Deus. Assim, ela pode ser corretamente traduzida como “prestar serviço sagrado” (Lu 1:74; 2:37; 4:8; At 7:7; Ro 1:9; Fil 3:3; 2Ti 1:3; He 9:14; 12:28; Ap 7:15; 22:3) ou como “servir a Deus; adorar”. No versículo que Jesus estava citando (De 6:13), a palavra hebraica que aparece é ʽavádh. Assim como latreúo, ela tem o sentido básico de “servir”, mas pode ser traduzida como “adorar”. (Veja as notas de rodapé em Êx 3:12 e 2Sa 15:8.) Jesus estava decidido a dar devoção exclusiva a Jeová.
+====
+
+[[v40-4-11]]
+
+^<<v40-4-11,11>>^ Assim, o Diabo o deixou, e então vieram anjos e começaram a servi-lo.
+
+[[v40-4-12]]
+
+^<<v40-4-12,12>>^ Quando ele soube que João tinha sido preso, partiu para a Galileia.
+
+[TIP]
+====
+- *Quando ele soube*: Do versículo 11 para este versículo, o relato de Mateus pula cerca de um ano. Nesse período, aconteceram os eventos registrados em Jo 1:29 a 4:3. O relato de João também acrescenta que, quando Jesus viajou da Judeia para a Galileia, ele passou por Samaria, onde conversou com uma mulher samaritana ao lado de um poço perto de Sicar. — Jo 4:4-43; veja a tabela “O começo do ministério de Jesus” e o Mapa 2 no Apêndice A7-B.
+====
+
+[[v40-4-13]]
+
+^<<v40-4-13,13>>^ Além disso, depois de deixar Nazaré, foi morar em Cafarnaum, à beira do mar, nas regiões de Zebulão e Naftali,
+
+[TIP]
+====
+- *Cafarnaum*: Vem de um nome hebraico que significa “aldeia de Naum” ou “aldeia de consolo”. (Na 1:1, nota de rodapé) Cafarnaum ficava na margem noroeste do mar da Galileia. Muitos acontecimentos importantes do ministério de Jesus ocorreram ali, e em Mt 9:1 Cafarnaum é chamada de “sua própria cidade”.
+- *nas regiões de Zebulão e Naftali*: Refere-se às regiões que ficam ao oeste e ao norte do mar da Galileia. Ficam bem no norte de Israel e incluem a região da Galileia. (Jos 19:10-16, 32-39) O território de Naftali abrangia toda a margem oeste do mar da Galileia.
+====
+
+[[v40-4-14]]
+
+^<<v40-4-14,14>>^ para que se cumprissem as palavras de Isaías, o profeta:
+
+[TIP]
+====
+- *para que se cumprissem as palavras de Isaías, o profeta*: Veja a nota de estudo em Mt 1:22.
+====
+
+[[v40-4-15]]
+
+^<<v40-4-15,15>>^ “Ó terra de Zebulão e terra de Naftali, ao longo da estrada do mar, do outro lado do Jordão, Galileia das nações!
+
+[TIP]
+====
+- *estrada do mar*: Possivelmente se refere a uma antiga estrada que contornava o mar da Galileia e depois seguia para o mar Mediterrâneo.
+- *do outro lado do Jordão*: Tudo indica que, neste contexto, se refere ao lado oeste do rio Jordão.
+- *Galileia das nações*: É possível que Isaías tenha usado essa expressão porque a Galileia ficava na fronteira entre Israel e outras nações. A localização da Galileia e as suas várias estradas tornavam fácil que não israelitas invadissem a região e começassem a morar lá. No século 1 d.C., a Galileia era habitada por muitos não judeus, tornando a expressão usada por Isaías ainda mais apropriada.
+====
+
+[[v40-4-16]]
+
+^<<v40-4-16,16>>^ As pessoas sentadas nas trevas viram uma grande luz, e quanto aos sentados numa região de escuridão mortífera, levantou-se sobre eles uma luz.”
+
+[TIP]
+====
+- *uma grande luz*: Assim como Isaías havia profetizado sobre o Messias, grande parte da pregação de Jesus foi na Galileia, nas regiões de Zebulão e Naftali. (Mt 4:13, 15) Os habitantes daquela região, embora fossem judeus, eram desprezados pelos judeus da Judeia e eram encarados como vivendo em escuridão espiritual. (Jo 7:52) Mas Jesus trouxe a luz da verdade para essas pessoas.
+- *escuridão mortífera*: Ou: “sombra da morte”. Pelo visto, essa expressão em linguagem figurada descreve a morte como lançando sua sombra sobre as pessoas ao passo que se aproxima delas. Mas Jesus trouxe a luz que poderia afastar essa sombra e salvar as pessoas da morte.
+====
+
+[[v40-4-17]]
+
+^<<v40-4-17,17>>^ Daquele tempo em diante, Jesus começou a pregar e a dizer: “Arrependam-se, pois o Reino dos céus está próximo.”
+
+[TIP]
+====
+- *pregar*: Ou seja, proclamar publicamente. — Veja a nota de estudo em Mt 3:1.
+- *o Reino dos céus está próximo*: Essa mensagem de um novo governo mundial era o tema da pregação de Jesus. (Mt 10:7; Mr 1:15) Uns seis meses antes do batismo de Jesus, João Batista também pregava a mesma mensagem. (Mt 3:1, 2) Mas Jesus era o futuro Rei ungido por Deus e já estava ali presente. Por isso ele podia dizer, mais do que ninguém, que o Reino estava “próximo”. Depois da morte de Jesus, não há nenhum registro de que os discípulos dele continuaram pregando que o Reino estava “próximo”.
+====
+
+[[v40-4-18]]
+
+^<<v40-4-18,18>>^ Andando à beira do mar da Galileia, ele viu dois irmãos: Simão, que é chamado Pedro, e seu irmão André. Eles estavam lançando uma rede no mar, pois eram pescadores.
+
+[TIP]
+====
+- *mar da Galileia*: Lago de água doce no norte de Israel. (A palavra grega traduzida como “mar” também pode significar “lago”.) Ele já foi chamado de mar de Quinerete (Núm 34:11), de lago de Genesaré (Lu 5:1) e de mar de Tiberíades (Jo 6:1). Fica uns 210 metros abaixo do nível do mar. Ele tem 21 quilômetros de comprimento (de norte a sul) e 12 quilômetros de largura (de leste a oeste). Seu ponto mais fundo fica uns 48 metros abaixo da superfície. — Veja “Acontecimentos no mar da Galileia” no Mapa 3B do Apêndice A7-D.
+- *Simão, que é chamado Pedro*: O nome desse apóstolo era Simão. Jesus deu a ele o nome semítico Cefas (Kefás), que em grego é Pedro (Pétros). — Mr 3:16; Jo 1:42; veja a nota de estudo em Mt 10:2.
+- *lançando uma rede*: Essa era uma rede redonda que talvez medisse entre 6 e 8 metros de diâmetro e que tinha pesos em sua borda. O pescador geralmente ficava dentro de um barco ou de pé na água rasa e, com muita habilidade, jogava a rede para que ela caísse toda aberta na superfície da água. Por causa dos pesos, a rede afundava e prendia os peixes.
+- *pescadores*: A pesca era uma profissão comum na Galileia. Pedro e seu irmão André não trabalhavam sozinhos. Eles eram sócios de outros pescadores, como Tiago e João, filhos de Zebedeu. — Mr 1:16-21; Lu 5:7, 10.
+====
+
+[[v40-4-19]]
+
+^<<v40-4-19,19>>^ Ele lhes disse: “Sigam-me, e eu farei de vocês pescadores de homens.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “pessoas”.
+====
+
+[TIP]
+====
+- *pescadores de homens*: Jogo de palavras com a profissão de Simão e André. Jesus estava dizendo que eles ‘apanhariam pessoas’ para o Reino. (Lu 5:10, nota de rodapé) Esse jogo de palavras talvez indicasse também que, assim como a pescaria, fazer discípulos exigiria muito esforço e perseverança, e às vezes daria poucos resultados.
+====
+
+[[v40-4-20]]
+
+^<<v40-4-20,20>>^ Eles abandonaram imediatamente as redes e o seguiram.
+
+[TIP]
+====
+- *o seguiram*: Já fazia algum tempo que Pedro e André eram discípulos de Jesus — talvez de seis meses a um ano. (Jo 1:35-42) Agora, eles foram convidados a abandonar seu trabalho como pescadores e a seguir a Jesus por tempo integral. — Lu 5:1-11; veja a nota de estudo em Mt 4:22.
+====
+
+[[v40-4-21]]
+
+^<<v40-4-21,21>>^ Indo adiante, viu outros dois que eram irmãos: Tiago, filho de Zebedeu, e seu irmão João. Eles estavam no barco com seu pai, Zebedeu, consertando as suas redes, e ele os chamou.
+
+[TIP]
+====
+- *Tiago . . . e seu irmão João*: A Bíblia sempre menciona Tiago junto com seu irmão João e, na maioria das vezes, Tiago é mencionado primeiro. Isso talvez indique que Tiago era mais velho que João. — Mt 4:21; 10:2; 17:1; Mr 1:29; 3:17; 5:37; 9:2; 10:35, 41; 13:3; 14:33; Lu 5:10; 6:14; 8:51; 9:28, 54; At 1:13.
+- *Zebedeu*: É possível que Zebedeu fosse marido de Salomé, a mãe de Tiago e João, e que Salomé fosse irmã de Maria, a mãe de Jesus. Se isso for verdade, Zebedeu era tio de Jesus, e Tiago e João eram primos de Jesus. — Veja a nota de estudo em Mr 15:40.
+====
+
+[[v40-4-22]]
+
+^<<v40-4-22,22>>^ Deixaram imediatamente o barco e seu pai, e o seguiram.
+
+[TIP]
+====
+- *Deixaram imediatamente*: A palavra grega euthéos, traduzida como “imediatamente”, aparece aqui e no versículo 20. Tiago e João aceitaram na hora o convite de Jesus para segui-lo por tempo integral, assim como Pedro e André tinham feito.
+====
+
+[[v40-4-23]]
+
+^<<v40-4-23,23>>^ Ele percorreu então toda a Galileia, ensinando nas sinagogas deles, pregando as boas novas do Reino e curando todo tipo de doenças e todo tipo de enfermidades do povo.
+
+[TIP]
+====
+- *percorreu então toda a Galileia*: Jesus estava começando sua primeira viagem de pregação pela Galileia com os quatro discípulos que tinha acabado de escolher: Pedro, André, Tiago e João. — Mt 4:​18-​22; veja o Apêndice A7-C.
+- *ensinando . . . pregando*: Ensinar e pregar são coisas diferentes. A pessoa que ensina faz mais do que proclamar: ela instrui, explica, dá argumentos convincentes e prova o que está dizendo. — Veja as notas de estudo em Mt 3:1; 28:20.
+- *sinagogas*: Veja o Glossário.
+- *as boas novas*: Primeira vez que a palavra grega euaggélion aparece. Em algumas Bíblias, ela é traduzida como “evangelho”. Uma palavra grega relacionada, euaggelistés, que é traduzida como “evangelizador”, significa “proclamador de boas novas (boas notícias)”. — At 21:8; notas de rodapé em Ef 4:11 e 2Ti 4:5.
+====
+
+[[v40-4-24]]
+
+^<<v40-4-24,24>>^ E as notícias sobre ele se espalharam por toda a Síria, e as pessoas levaram-lhe todos os que sofriam de várias doenças e fortes dores, os possessos de demônios, os epiléticos e os paralíticos, e ele os curou.
+
+[TIP]
+====
+- *Síria*: Aqui se refere à província romana da Síria. Era uma região habitada por não judeus que ficava ao norte da Galileia, entre Damasco e o mar Mediterrâneo.
+- *epiléticos*: A palavra grega significa literalmente “afetados pela Lua”. (Algumas traduções usam “lunáticos”.) Mateus usa esse termo apenas para se referir à doença, e não por acreditar que a doença era causada pelas fases da lua. Não há dúvida de que os sintomas descritos por Mateus, Marcos e João são os associados com a epilepsia.
+====
+
+[[v40-4-25]]
+
+^<<v40-4-25,25>>^ Assim grandes multidões o seguiam, vindas da Galileia, de Decápolis, de Jerusalém, da Judeia e do outro lado do Jordão.
+
+[TIP]
+====
+- *Decápolis*: Veja o Glossário e o Apêndice B10.
+- *do outro lado do Jordão*: Pelo visto, neste contexto se refere à região ao leste do rio Jordão, também chamada de Pereia (da palavra grega péran, que significa “o outro lado; além”).
+====
+
+'''
+
+xref:040-mateus/040-mateus-003.adoc#v40-3-0[&#60; Capítulo Anterior] | <<v40-4-0,Topo>> | xref:040-mateus/040-mateus-005.adoc#v40-5-0[Próximo Capítulo &#62;]

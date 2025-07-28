@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v43-15-0]]
+=== As Boas Novas Segundo João, 15
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* J. Última Páscoa de Jesus e últimos conselhos para seus discípulos (13:1–17:26)
+* Jesus lava os pés dos discípulos (13:1-20)
+* Jesus identifica seu traidor: Judas Iscariotes (13:21-30)
+* Jesus dá um novo mandamento (13:31-35)
+* Jesus prediz que Pedro vai negá-lo três vezes (13:36-38)
+* Jesus é o único caminho para se chegar ao Pai (14:1-14)
+* Jesus promete que o espírito santo virá como ajudador (14:15-31)
+* Ilustração da verdadeira videira (15:1-10)
+* Mandamento para amar como Cristo amou (15:11-17)
+* Mundo odeia Jesus e seus discípulos (15:18-27)
+* Alguns discípulos de Jesus serão mortos (16:1-4a)
+* Jesus enviará o espírito santo (16:4b-16)
+* Tristeza dos discípulos será transformada em alegria (16:17-24)
+* Jesus vence o mundo (16:25-33)
+* Jesus ora em favor de todos os seus discípulos, presentes e futuros (17:1-26)
+****
+
+[[v43-15-1]]
+
+^<<v43-15-1,1>>^ “Eu sou a verdadeira videira, e o meu Pai é o lavrador.
+
+[TIP]
+====
+- *Eu sou a verdadeira videira*: Esta metáfora usada por Jesus lembra algumas figuras de linguagem das Escrituras Hebraicas. Por exemplo, em Is 5:1-7, “a casa de Israel” é chamada de “o vinhedo de Jeová dos exércitos”. Em Je 2:21, Jeová falou que a nação de Israel se “degenerou . . . transformando-se em ramos de uma videira brava”. E em Os 10:1, 2, ele a chamou de “uma videira degenerada”. Jesus é bem diferente daquela nação desleal. Ele é “a verdadeira videira”, e seu Pai é o lavrador. Depois de Jesus comparar seus discípulos com os “ramos” da videira, ele falou a eles sobre a importância de permanecerem em união com ele. Assim como os ramos de uma videira precisam estar ligados a ela para continuar vivos e dar frutos, os discípulos de Jesus precisam permanecer unidos a ele para se manter vivos e produtivos em sentido espiritual. Além disso, assim como um lavrador espera que uma videira dê frutos, Jeová espera que os que estão unidos a Cristo deem frutos em sentido espiritual. Essa ilustração destaca, não apenas a união que existe entre Jesus e seus verdadeiros seguidores, mas também entre esses seguidores e o Pai de Jesus. — Jo 15:2-8.
+====
+
+[[v43-15-2]]
+
+^<<v43-15-2,2>>^ Ele tira todo ramo em mim que não dá fruto, e limpa todo ramo que dá fruto, para que dê mais fruto.
+
+[TIP]
+====
+- *limpa*: Ou: “poda”. O verbo grego traduzido aqui como “limpa” está relacionado com a palavra grega traduzida como “limpos” em Jo 15:3.
+====
+
+[[v43-15-3]]
+
+^<<v43-15-3,3>>^ Vocês já estão limpos, por causa da palavra que lhes falei.
+
+[[v43-15-4]]
+
+^<<v43-15-4,4>>^ Permaneçam em união comigo, e eu permanecerei em união com vocês. Assim como um ramo não pode dar fruto por si mesmo a menos que permaneça na videira, vocês também não podem dar fruto a menos que permaneçam em união comigo.
+
+[[v43-15-5]]
+
+^<<v43-15-5,5>>^ Eu sou a videira; vocês são os ramos. Quem permanece em união comigo, e eu em união com ele, esse dá muito fruto, pois separados de mim vocês não podem fazer^&#42;1^ nada.
+
+[NOTE]
+====
+. Ou: “não podem produzir”.
+====
+
+[[v43-15-6]]
+
+^<<v43-15-6,6>>^ Se alguém não permanece em união comigo, ele é lançado fora como um ramo, e seca. Esses ramos são ajuntados, jogados no fogo e queimados.
+
+[[v43-15-7]]
+
+^<<v43-15-7,7>>^ Se vocês permanecerem em união comigo e as minhas declarações permanecerem em vocês, peçam o que quiserem e assim lhes acontecerá.
+
+[[v43-15-8]]
+
+^<<v43-15-8,8>>^ Isto glorifica o meu Pai: que vocês persistam em dar muito fruto e mostrem que são meus discípulos.
+
+[[v43-15-9]]
+
+^<<v43-15-9,9>>^ Assim como o Pai me ama, eu amo vocês; permaneçam no meu amor.
+
+[[v43-15-10]]
+
+^<<v43-15-10,10>>^ Se vocês obedecerem aos meus mandamentos, permanecerão no meu amor, assim como eu obedeço aos mandamentos do Pai e permaneço no amor dele.
+
+[[v43-15-11]]
+
+^<<v43-15-11,11>>^ “Eu lhes disse essas coisas para que vocês sintam a mesma alegria que eu,^&#42;1^ e a sua alegria se torne plena.
+
+[NOTE]
+====
+. Ou: “para que a minha alegria esteja em vocês”.
+====
+
+[[v43-15-12]]
+
+^<<v43-15-12,12>>^ Este é o meu mandamento: Amem uns aos outros, assim como eu amei vocês.
+
+[[v43-15-13]]
+
+^<<v43-15-13,13>>^ Ninguém tem maior amor do que aquele que dá a sua vida pelos seus amigos.
+
+[TIP]
+====
+- *vida*: Ou: “alma”. O significado da palavra grega psykhé, traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, varia de acordo com o contexto. Aqui, a palavra se refere à vida da pessoa. — Veja o Glossário, “Alma”.
+====
+
+[[v43-15-14]]
+
+^<<v43-15-14,14>>^ Vocês são meus amigos, se fizerem o que lhes mando.
+
+[[v43-15-15]]
+
+^<<v43-15-15,15>>^ Não os chamo mais de escravos, porque o escravo não sabe o que o seu senhor faz. Mas eu os chamo de amigos, porque lhes revelei tudo que ouvi do meu Pai.
+
+[TIP]
+====
+- *Não os chamo mais de escravos*: A palavra grega para “escravo”, doúlos, é geralmente usada para se referir a uma pessoa que é propriedade de alguém. (Mt 8:9; 10:24, 25; 13:27) A palavra também é usada em sentido figurado para se referir a servos de Deus e de seu Filho, Jesus Cristo, quer sejam humanos (At 2:18; 4:29; Ro 1:1; Gál 1:10) quer sejam anjos (veja Ap 19:10, onde aparece a palavra sýndoulos [coescravo]). Além disso, a Bíblia usa a palavra doúlos para falar dos que são escravos do pecado (Jo 8:34; Ro 6:16-20) ou da corrupção (2Pe 2:19). Quando Jesus sacrificou sua vida perfeita, ele usou o valor de seu sangue para comprar a vida de todos os seus seguidores. Por isso, eles não pertencem mais a si mesmos; eles são “escravos de Cristo”. (Ef 6:6; 1Co 6:19, 20; 7:23; Gál 3:13) Jesus chamou seus apóstolos de amigos, mas eles também se tornaram seus escravos, porque ele os resgatou do pecado. Em algumas ocasiões, Jesus se referiu a seus seguidores como escravos. — Jo 15:20.
+====
+
+[[v43-15-16]]
+
+^<<v43-15-16,16>>^ Vocês não me escolheram, mas eu escolhi vocês, e eu os designei para irem e continuarem dando fruto, fruto que permaneça, para que, não importa o que pedirem ao Pai em meu nome, ele dê a vocês.
+
+[[v43-15-17]]
+
+^<<v43-15-17,17>>^ “Eu lhes ordeno essas coisas para que amem uns aos outros.
+
+[[v43-15-18]]
+
+^<<v43-15-18,18>>^ Se o mundo os odeia, vocês sabem^&#42;1^ que odiou a mim antes de odiar vocês.
+
+[NOTE]
+====
+. Ou: “odeia, saibam”.
+====
+
+[[v43-15-19]]
+
+^<<v43-15-19,19>>^ Se vocês fizessem parte do mundo, o mundo os amaria por pertencerem a ele. Agora, visto que vocês não fazem parte do mundo, mas eu os escolhi do mundo, por isso o mundo os odeia.
+
+[TIP]
+====
+- *mundo*: A palavra grega usada aqui é kósmos. Neste contexto, ela se refere à sociedade humana injusta afastada de Deus, ou seja, a todas as pessoas que não servem a Deus. João é o único escritor dos Evangelhos que registra que Jesus falou sobre seus seguidores não fazerem parte do mundo ou não pertencerem ao mundo. Na última oração de Jesus com seus apóstolos fiéis, Jesus falou isso mais duas vezes. — Jo 17:14, 16.
+====
+
+[[v43-15-20]]
+
+^<<v43-15-20,20>>^ Lembrem-se do que eu lhes disse: O escravo não é maior do que o seu senhor. Se perseguiram a mim, perseguirão também a vocês; se obedeceram às minhas palavras, obedecerão também às suas.
+
+[[v43-15-21]]
+
+^<<v43-15-21,21>>^ Mas farão todas essas coisas contra vocês por causa do meu nome, porque não conhecem Aquele que me enviou.
+
+[TIP]
+====
+- *por causa do meu nome*: Na Bíblia, a palavra “nome” pode se referir à própria pessoa, à sua reputação e a tudo o que ela representa. (Veja a nota de estudo em Mt 6:9.) No caso de Jesus, o nome também envolve a autoridade que ele recebeu de Jeová e a posição que ele ocupa. (Mt 28:18; Fil 2:9, 10; He 1:3, 4) Jesus explicou que as pessoas do mundo fariam coisas contra seus seguidores por não conhecerem Aquele que o enviou. Conhecer a Deus ajudaria essas pessoas a entender e aceitar o que o nome de Jesus representa. (At 4:12) Isso inclui a posição de Jesus como o Rei dos reis, o Governante escolhido por Deus, a quem todas as pessoas devem se sujeitar para ganhar a vida. — Jo 17:3; Ap 19:11-16; compare com o Sal 2:7-12.
+====
+
+[[v43-15-22]]
+
+^<<v43-15-22,22>>^ Se eu não tivesse vindo e falado com eles, não seriam culpados de pecado. Mas agora eles não têm desculpa para o seu pecado.
+
+[[v43-15-23]]
+
+^<<v43-15-23,23>>^ Quem me odeia, também odeia o meu Pai.
+
+[[v43-15-24]]
+
+^<<v43-15-24,24>>^ Se eu não tivesse feito entre eles as obras que ninguém mais fez, não seriam culpados de pecado; mas agora eles me viram e odiaram a mim e ao meu Pai.
+
+[[v43-15-25]]
+
+^<<v43-15-25,25>>^ Mas isso aconteceu para que se cumprissem as palavras escritas na Lei deles: ‘Odiaram-me sem motivo.’
+
+[TIP]
+====
+- *na Lei deles*: Aqui, a palavra “Lei” se refere às Escrituras Hebraicas como um todo, e não apenas à Lei mosaica. A citação que aparece neste versículo é do Sal 35:19 e 69:4. A palavra “Lei” é usada com esse mesmo sentido em Jo 10:34 e 12:34.
+====
+
+[[v43-15-26]]
+
+^<<v43-15-26,26>>^ Quando vier o ajudador que eu lhes enviarei da parte do Pai, o espírito da verdade, que vem do Pai, esse dará testemunho de mim;
+
+[TIP]
+====
+- *ajudador*: Veja a nota de estudo em Jo 14:16.
+- *esse*: O pronome grego que aparece aqui, ekeínos, é do gênero masculino e se refere à palavra grega para ajudador, que também é do gênero masculino. — Veja as notas de estudo em Jo 14:16; 16:13.
+====
+
+[[v43-15-27]]
+
+^<<v43-15-27,27>>^ e vocês, por sua vez, darão testemunho, porque estiveram comigo desde o começo.
+
+[TIP]
+====
+- *desde o começo*: Ou: “desde que comecei”. Ou seja, desde o tempo em que Jesus começou seu ministério.
+====
+
+'''
+
+xref:043-joao/043-joao-014.adoc#v43-14-0[&#60; Capítulo Anterior] | <<v43-15-0,Topo>> | xref:043-joao/043-joao-016.adoc#v43-16-0[Próximo Capítulo &#62;]

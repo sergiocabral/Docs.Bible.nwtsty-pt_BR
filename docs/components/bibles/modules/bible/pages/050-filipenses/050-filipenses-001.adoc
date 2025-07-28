@@ -1,0 +1,244 @@
+include::./index.adoc[]
+
+[[v50-1-0]]
+=== Aos Filipenses, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* A Carta aos Filipenses: Pelo visto, títulos como este não estavam no texto original. Manuscritos bem antigos mostram que eles foram acrescentados depois, sem dúvida para que fosse mais fácil identificar os livros. — Veja a nota de estudo em 1Co Título e a mídia “A carta de Paulo aos filipenses”.
+****
+
+.Notas do capítulo
+****
+* A. INTRODUÇÃO (1:1-11)
+* Saudações iniciais de Paulo (1:1, 2)
+* Paulo sempre agradece a Deus pela fidelidade da congregação (1:3-7)
+* Paulo ora para que o amor dos filipenses se torne abundante, com conhecimento e discernimento (1:8-11)
+* B. SITUAÇÃO DE PAULO E O QUE ELE ESPERA PARA O FUTURO (1:12-26)
+* As correntes de Paulo incentivam outros a falar com coragem (1:12-14)
+* Quer a pregação seja feita com a motivação pura, quer por rivalidade, Cristo está sendo proclamado (1:15-20)
+* Paulo tem diante de si duas opções: a morte ou a vida; Paulo deseja ser de ajuda para os filipenses (1:21-26)
+* C. CONSELHOS SOBRE O MODO DE VIDA CRISTÃO (1:27–2:18)
+* Comportem-se de uma maneira digna das boas novas; mantenham-se firmes (1:27-30)
+* Conselho para serem unidos e humildes (2:1-4)
+* Grande exemplo de Cristo em servir de modo humilde (2:5-11)
+* Persistam em produzir a sua própria salvação; Deus está agindo em vocês (2:12, 13)
+* Brilhando como iluminadores no mundo e se mantendo firmemente agarrados à palavra da vida (2:14-18)
+****
+
+[[v50-1-1]]
+
+^<<v50-1-1,1>>^ Paulo e Timóteo, escravos de Cristo Jesus, a todos os santos em união com Cristo Jesus que estão em Filipos, junto com superintendentes e servos ministeriais:
+
+[TIP]
+====
+- *Paulo e Timóteo*: Ou: “De Paulo e Timóteo”. Apesar de Paulo ser o escritor da carta aos filipenses, ele cita Timóteo nos cumprimentos iniciais. Timóteo estava com Paulo em Roma na primeira vez em que o apóstolo ficou preso ali. Ele também é mencionado em outras duas cartas que Paulo escreveu em Roma naquela mesma época: a carta aos colossenses e a carta a Filêmon. (Col 1:1, 2; Flm 1) Parece que Timóteo também ficou preso em Roma em algum momento entre a escrita da carta aos filipenses e a escrita da carta aos hebreus. — Fil 2:19; He 13:23.
+- *escravos de Cristo Jesus*: Veja a nota de estudo em Ro 1:1.
+- *os santos*: Veja a nota de estudo em Ro 1:7.
+- *Filipos*: Veja a nota de estudo em At 16:12.
+- *superintendentes*: Paulo usou aqui o plural da palavra grega para “superintendente” (epískopos) para se referir aos que tomavam a liderança na congregação em Filipos. (Veja também At 20:28.) Em outra ocasião, ele disse que um “corpo de anciãos” tinha dado a Timóteo uma designação especial. (1Ti 4:14) É interessante que Paulo não se referiu a nenhuma pessoa como sendo o superintendente, o que deixa claro que havia mais de um superintendente naquelas congregações. Isso nos ajuda a entender melhor como as congregações do século 1 d.C. estavam organizadas. Nas Escrituras Gregas Cristãs, os termos “superintendentes” e “anciãos” são usados como sinônimos, mostrando que se referem à mesma posição. (At 20:17, 28; Tit 1:5, 7; veja também 1Pe 5:1, 2.) O número dos que serviam como superintendentes numa congregação dependia de quantos homens estavam qualificados, ou tinham a madureza espiritual necessária, para servir como “anciãos”. — At 14:23; veja as notas de estudo em At 20:17, 28.
+- *servos ministeriais*: Ou: “assistentes”. A palavra grega diákonos significa literalmente “servo”. Ela é usada aqui num sentido mais específico, se referindo aos “servos ministeriais” designados na congregação cristã. Essa palavra é usada em 1Ti 3:8, 12 com um sentido similar. Aqui, Paulo usou o termo no plural, o que mostra que havia vários servos ministeriais nas congregações ajudando os superintendentes em diferentes designações. Algumas Bíblias usam títulos como “bispos e diáconos” neste versículo em vez de os termos “superintendentes e servos ministeriais”. Esses títulos são usados pela cristandade para dar a impressão de que havia uma hierarquia entre os primeiros cristãos. Mas traduções que transmitem claramente o sentido original desses termos mostram que as posições de responsabilidade na congregação cristã não colocam uns acima de outros. A tradução “servos ministeriais” destaca o serviço que esses homens trabalhadores prestam à congregação.
+====
+
+[[v50-1-2]]
+
+^<<v50-1-2,2>>^ Que vocês tenham bondade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[TIP]
+====
+- *Que vocês tenham bondade imerecida e paz*: Veja a nota de estudo em Ro 1:7.
+====
+
+[[v50-1-3]]
+
+^<<v50-1-3,3>>^ Eu sempre agradeço a meu Deus quando me lembro de vocês,
+
+[[v50-1-4]]
+
+^<<v50-1-4,4>>^ em todas as minhas súplicas a favor de todos vocês. Eu faço cada súplica com alegria,
+
+[TIP]
+====
+- *súplicas*: Veja as notas de estudo em At 4:31; Fil 4:6.
+====
+
+[[v50-1-5]]
+
+^<<v50-1-5,5>>^ por causa da sua contribuição para as boas novas desde o primeiro dia até este momento.
+
+[TIP]
+====
+- *por causa da sua contribuição para*: Ou: “por causa da sua participação em promover”. Uma das coisas que Paulo talvez tivesse em mente era a hospitalidade que Lídia tinha mostrado a ele e a seus companheiros de pregação. Quando ela e os da casa dela foram batizados, Lídia insistiu para que Paulo e seus companheiros de pregação ficassem na casa dela. — At 16:14, 15.
+====
+
+[[v50-1-6]]
+
+^<<v50-1-6,6>>^ Pois estou confiante no seguinte: aquele que começou uma boa obra em vocês a completará até o dia de Cristo Jesus.
+
+[[v50-1-7]]
+
+^<<v50-1-7,7>>^ É justo que eu pense assim a respeito de todos vocês, pois os tenho no meu coração, sim, vocês que participam comigo na bondade imerecida, tanto nas correntes que me prendem como em defender e estabelecer legalmente as boas novas.
+
+[TIP]
+====
+- *nas correntes que me prendem*: Paulo talvez tenha ficado preso mais vezes do que qualquer um dos outros apóstolos. (Veja também 2Co 11:23.) Enquanto esteve em Filipos, mais ou menos uns dez anos antes de escrever a carta aos filipenses, Paulo ficou um curto período na prisão. (At 16:22-24) E agora ele estava em prisão domiciliar em Roma. Ali ele era constantemente vigiado por um soldado, enquanto aguardava o julgamento diante de César. (At 25:11, 12; 28:30, 31) Os filipenses perceberam que Paulo precisava de ajuda enquanto estava preso e, por isso, enviaram ajuda material por meio de Epafrodito. Durante o tempo em que ficou com Paulo em Roma, Epafrodito foi de grande ajuda, chegando a colocar sua vida em risco. — Fil 2:25, 30; 4:18.
+- *defender*: A palavra grega traduzida como “defender” (apología) geralmente é usada para se referir a uma defesa num tribunal. (At 22:1; 25:16) Jesus tinha predito que seus seguidores seriam entregues “aos tribunais locais” e levados ‘diante de governadores e reis, por causa dele, para darem testemunho a eles e às nações’. (Mt 10:17, 18) Quando Paulo foi preso por causa da oposição dos judeus em Jerusalém, ele foi levado ao governador romano em Cesareia. (At 23:23-35) Enquanto estava em Cesareia, Paulo ‘apelou para César’, e isso abriu o caminho para que ele defendesse sua fé diante do mais alto tribunal do Império Romano. (At 25:11, 12) A Bíblia não diz se Paulo realmente compareceu diante de César Nero ou se foi diante de algum representante de César. Quando Paulo escreveu sua carta aos filipenses, ele ainda estava em Roma aguardando seu julgamento por causa da apelação que tinha feito. — At 28:17-20.
+- *estabelecer legalmente as boas novas*: O termo que Paulo usou aqui tem sentido jurídico e se refere à ação de promover ativamente as boas novas por meios legais. Quando Paulo esteve em Filipos uns dez anos antes, ele recorreu ao sistema jurídico romano para estabelecer o direito de pregar as boas novas. (At 16:35-40) Ele estava lutando para estabelecer o direito de pregar as boas novas do Reino de Deus livremente no Império Romano. Uma obra de referência diz: “Paulo era uma testemunha não apenas no calabouço, mas também no tribunal.”
+====
+
+[[v50-1-8]]
+
+^<<v50-1-8,8>>^ Pois Deus é minha testemunha de que tenho muita saudade de todos vocês, com terno amor, como o de Cristo Jesus.
+
+[[v50-1-9]]
+
+^<<v50-1-9,9>>^ E isto é o que continuo a pedir em oração: que o seu amor se torne cada vez mais abundante, com conhecimento exato e pleno discernimento;
+
+[TIP]
+====
+- *conhecimento exato*: Aqui, Paulo relaciona o amor a Deus e aos irmãos com ter conhecimento exato de Deus e discernir, ou perceber, qual é a vontade dele. Na Bíblia, os termos gregos para “conhecer” e “conhecimento” muitas vezes têm o sentido de “conhecer por meio de experiência pessoal”. — Para uma explicação sobre o termo grego traduzido aqui como “conhecimento exato”, veja as notas de estudo em Ro 10:2; Ef 4:13.
+- *pleno discernimento*: A palavra grega traduzida aqui como “discernimento” (lit.: “percepção sensorial”) aparece apenas neste versículo. Uma palavra relacionada é usada em He 5:14 na frase “aqueles que pelo uso têm sua capacidade de discernimento [ou: “capacidade perceptiva”; lit.: “órgãos sensoriais”] treinada para saber distinguir tanto o certo como o errado”. Na Bíblia, esses termos se referem ao discernimento sobre assuntos morais e espirituais. Paulo orou para que o amor dos cristãos em Filipos se tornasse abundante junto com esse tipo de discernimento. Assim, eles poderiam saber a diferença entre o mais importante e o menos importante do ponto de vista de Deus. (Fil 1:10) O cristão tem o senso moral bem ajustado, ou seja, ele percebe a diferença entre o que é certo e errado não apenas em questões claramente definidas, mas também em situações complexas, em que o modo certo de agir não é tão evidente. Dessa forma, ele consegue tomar boas decisões que o ajudam a proteger sua amizade com Jeová.
+====
+
+[[v50-1-10]]
+
+^<<v50-1-10,10>>^ que vocês se certifiquem de quais são as coisas mais importantes, para que sejam sem defeito e não façam outros tropeçar, até o dia de Cristo;
+
+[[v50-1-11]]
+
+^<<v50-1-11,11>>^ e que fiquem cheios de fruto justo, que vem por meio de Jesus Cristo, para a glória e o louvor de Deus.
+
+[[v50-1-12]]
+
+^<<v50-1-12,12>>^ Quero que vocês saibam, irmãos, que a minha situação tem, na verdade, resultado no progresso das boas novas,
+
+[[v50-1-13]]
+
+^<<v50-1-13,13>>^ de modo que as correntes que me prendem por causa de Cristo se tornaram de conhecimento público entre toda a Guarda Pretoriana e todos os demais.
+
+[TIP]
+====
+- *a Guarda Pretoriana*: Quando Paulo ficou preso em Roma pela primeira vez (cerca de 59-61 d.C.), foi permitido que ele “morasse sozinho, com um soldado para vigiá-lo”. (At 28:16) Enquanto esteve em prisão domiciliar, Paulo escreveu que “as correntes que [o prendiam] por causa de Cristo [tinham se tornado] de conhecimento público entre toda a Guarda Pretoriana”. Essa guarda era um grupo de elite de milhares de soldados romanos. A palavra grega usada aqui vem do latim praetorium, que originalmente se referia ao lugar (uma tenda ou uma construção) em que um comandante do exército romano morava. A partir do reinado de César Augusto, a Guarda Pretoriana passou a servir como guarda pessoal do imperador romano. É por isso que, em algumas Bíblias, a palavra grega usada em Fil 1:13 é traduzida como “a guarda imperial” ou “a guarda do palácio”. A função dessa guarda exigia que os soldados ficassem servindo perto do imperador e da família dele.
+====
+
+[[v50-1-14]]
+
+^<<v50-1-14,14>>^ Agora, a maioria dos irmãos no Senhor ganhou confiança por causa das minhas correntes e está mostrando ainda mais coragem para falar destemidamente a palavra de Deus.
+
+[[v50-1-15]]
+
+^<<v50-1-15,15>>^ É verdade que alguns estão pregando o Cristo por inveja e rivalidade, mas outros com boa motivação.
+
+[TIP]
+====
+- *alguns estão pregando o Cristo por inveja e rivalidade*: Alguns estavam servindo a Deus com a motivação errada. Entre esses provavelmente estavam alguns judeus que tinham se tornado cristãos, mas que se afastaram do ensinamento correto de Jeová, que tinha sido transmitido pelo apóstolo Paulo. Em vez de glorificar a Deus, a principal preocupação deles era promover a si mesmos e as suas ideias. (Gál 6:12, 13) Eles ficaram com inveja da reputação, autoridade e influência de Paulo. Por isso, tentaram fazer as pessoas perder a confiança que tinham nele. (Fil 1:17) Mesmo assim, Paulo continuou a se alegrar porque via que Cristo estava sendo proclamado. — Fil 1:18.
+- *mas outros com boa motivação*: Cristãos de coração sincero estavam pregando a mensagem a respeito de Cristo com boa motivação, motivação pura. Eles também agiam com boa motivação (ou agrado, boa vontade) para com os representantes de Cristo, incluindo Paulo. Em resultado disso, eles recebiam a aprovação, ou a boa vontade, de Deus. — Sal 106:4, nota de rodapé; Pr 8:35.
+====
+
+[[v50-1-16]]
+
+^<<v50-1-16,16>>^ Estes últimos estão proclamando o Cristo por amor, pois sabem que fui designado para defender as boas novas;
+
+[[v50-1-17]]
+
+^<<v50-1-17,17>>^ mas os primeiros fazem isso por rivalidade, não com uma motivação pura, pois querem causar problemas para mim enquanto estou preso.
+
+[[v50-1-18]]
+
+^<<v50-1-18,18>>^ Com que resultado? De qualquer maneira, quer em fingimento, quer em verdade, Cristo está sendo proclamado, e disso me alegro. De fato, continuarei a me alegrar,
+
+[[v50-1-19]]
+
+^<<v50-1-19,19>>^ porque sei que o resultado será a minha salvação, por meio das suas súplicas e com a ajuda do espírito de Jesus Cristo.
+
+[TIP]
+====
+- *a minha salvação*: Ou: “eu ser libertado”. Paulo escreveu sua carta aos filipenses quando estava preso pela primeira vez em Roma (cerca de 59-61 d.C.). O termo que Paulo usou aqui pode passar a ideia de que ele confiava que seria libertado por causa das intensas orações dos cristãos em Filipos. Isso está de acordo com o desejo que ele tinha de visitar novamente os cristãos filipenses. (Fil 2:24) Se Paulo fosse libertado da prisão, ele poderia fazer essa visita. (Veja a mídia “Viagens de Paulo depois de c. 61 d.C.”) Outra possibilidade é que Paulo estivesse se referindo à salvação eterna dele, já que neste versículo ele usou a palavra grega sotería, que muitas vezes é traduzida como “salvação”.
+- *do espírito de Jesus Cristo*: Pelo visto, estas palavras se referem ao uso que Jesus faz do espírito santo, ou força ativa, de Deus. O texto de At 2:33 diz que Jesus “recebeu do Pai o prometido espírito santo”. Em Fil 1:11, Paulo orou para que os cristãos ficassem “cheios de fruto justo, que vem por meio de Jesus Cristo, para a glória e o louvor de Deus”. Desde que Jesus foi ressuscitado e foi para o céu, Deus tem usado seu Filho para cuidar das necessidades dos cristãos na Terra. Em Jo 14:26, Jesus disse: “O Pai enviará [o espírito santo] em meu nome.” E em Jo 15:26, ele disse: “Quando vier o ajudador que eu lhes enviarei da parte do Pai, o espírito da verdade, . . . esse dará testemunho de mim.” — Veja a nota de estudo em At 16:7.
+====
+
+[[v50-1-20]]
+
+^<<v50-1-20,20>>^ Isso está em harmonia com a minha viva expectativa e esperança de que não me envergonharei em nenhum sentido; mas de que, por eu falar com toda a coragem, Cristo será magnificado agora, como sempre foi, por meio do meu corpo, quer pela vida, quer pela morte.
+
+[TIP]
+====
+- *falar com toda a coragem*: Veja a nota de estudo em 2Co 7:4.
+====
+
+[[v50-1-21]]
+
+^<<v50-1-21,21>>^ Pois, no meu caso, viver é Cristo e morrer é ganho.
+
+[TIP]
+====
+- *viver é Cristo e morrer é ganho*: Parece que aqui Paulo fala sobre a diferença entre sua vida e sua morte. Enquanto estivesse vivo, Paulo poderia aproveitar bem a sua vida para servir a Deus e a seus irmãos. Mas, se morresse fiel, ele ganharia vida imortal no céu. — 2Ti 4:6-8.
+====
+
+[[v50-1-22]]
+
+^<<v50-1-22,22>>^ Mas, se for para continuar a viver na carne, isso é fruto da minha obra; contudo, eu não dou a conhecer^&#42;1^ qual seria a minha escolha.
+
+[NOTE]
+====
+. Ou, possivelmente: “eu não sei”.
+====
+
+[TIP]
+====
+- *isso*: Ou seja, a magnificação de Cristo.
+====
+
+[[v50-1-23]]
+
+^<<v50-1-23,23>>^ Estou num dilema entre essas duas coisas, pois desejo ser livrado e estar com Cristo, o que, certamente, é muito melhor.
+
+[TIP]
+====
+- *Estou num dilema entre essas duas coisas*: Enquanto estava em prisão domiciliar, aguardando o julgamento diante de César, Paulo ficou num dilema, dividido entre duas possibilidades. A primeira era continuar vivo para servir a seus irmãos; a segunda era morrer como um servo fiel de Deus. (2Ti 4:7, 8) Paulo não disse qual seria sua escolha. (Fil 1:22) Mas ele reconheceu que “ser livrado e estar com Cristo” era a melhor opção. Ele sabia que permanecer fiel até a morte era a única maneira de ter a garantia da sua recompensa celestial durante a presença de Jesus. — Ap 2:10.
+- *ser livrado*: Pelo visto, aqui Paulo está se referindo à sua morte. Em sua segunda carta a Timóteo, escrita em cerca de 65 d.C., Paulo usou uma palavra grega relacionada quando disse o seguinte a respeito de sua morte: “A hora do meu livramento está próxima.” (2Ti 4:6) Parece que as palavras usadas aqui em Fil 1:23 (“ser livrado e estar com Cristo”) são paralelas às usadas em 2Co 5:8 (“preferimos estar longe do corpo e morar com o Senhor”). Para Paulo, morrer como um servo fiel e ungido de Deus era como um “livramento”, que abriria o caminho para ele ser ressuscitado mais tarde para viver no “Reino celestial” de Cristo. (2Ti 4:18) Como Paulo explicou em 1Co 15:23, “os que pertencem a Cristo” seriam ressuscitados para a vida no céu “durante a [futura] presença” de Jesus. Portanto, Paulo aqui está falando do seu desejo de terminar fielmente sua vida na Terra para, mais tarde, poder ser ressuscitado para a vida celestial. Paulo não foi o único que usou a expressão “ser livrado” com esse sentido. Outros escritores gregos também usaram essa ideia como um eufemismo, ou uma forma mais suave, para se referir à morte.
+====
+
+[[v50-1-24]]
+
+^<<v50-1-24,24>>^ No entanto, é mais necessário que eu permaneça na carne, por causa de vocês.
+
+[[v50-1-25]]
+
+^<<v50-1-25,25>>^ Então, convencido disso, sei que permanecerei e continuarei com todos vocês para seu progresso e sua alegria na fé.
+
+[[v50-1-26]]
+
+^<<v50-1-26,26>>^ Assim, a sua alegria transbordará em Cristo Jesus por minha causa, quando eu estiver de novo presente entre vocês.
+
+[TIP]
+====
+- *quando eu estiver de novo presente entre vocês*: Ou: “quando eu estiver com vocês novamente”. A frase grega usada aqui contém o substantivo parousía, que significa literalmente “estar ao lado”. Muitas vezes, parousía é traduzida como “presença”, especialmente quando se refere à presença invisível de Jesus Cristo. (Mt 24:37; 1Co 15:23) Aqui, Paulo usou esse termo ao falar do seu desejo de visitar novamente os cristãos em Filipos. Algo que apoia traduzir parousía como “presença” e “presente” é que em Fil 2:12 (veja a nota de estudo) Paulo usou esse termo para fazer diferença entre a sua “presença” e a sua “ausência”. — Veja as notas de estudo em Mt 24:3; 1Co 16:17.
+====
+
+[[v50-1-27]]
+
+^<<v50-1-27,27>>^ Somente comportem-se de uma maneira digna das boas novas a respeito do Cristo, a fim de que, quer eu vá visitá-los, quer esteja ausente, eu ouça notícias suas e saiba que vocês se mantêm firmes em um só espírito, com uma só alma, esforçando-se lado a lado pela fé das boas novas,
+
+[TIP]
+====
+- *comportem-se*: Ou: “procedam como cidadãos”. O verbo grego que Paulo usou aqui está relacionado com as palavras gregas para “cidadania” (Fil 3:20) e “cidadão” (At 21:39). Os cidadãos romanos costumavam participar ativamente nas questões do Estado, já que a cidadania romana era muito valorizada e trazia tanto responsabilidades como privilégios. (At 22:25-30) Sendo assim, ao associar uma forma desse verbo (traduzido aqui como “comportem-se”) com a expressão de uma maneira digna das boas novas a respeito do Cristo, Paulo passou a ideia de participar em atividades cristãs, especialmente na pregação das boas novas. Como os habitantes de Filipos tinham recebido um tipo de cidadania romana, é bem provável que eles estivessem familiarizados com essa ideia de participação ativa. — Veja as notas de estudo em At 23:1; Fil 3:20.
+- *com uma só alma*: Ou: “de comum acordo; como um só homem”. — Veja a nota de estudo em At 4:32.
+====
+
+[[v50-1-28]]
+
+^<<v50-1-28,28>>^ sem se deixar intimidar em nada por seus oponentes. Isso, em si, é para eles prova de destruição; mas, para vocês, de salvação. E isso vem de Deus.
+
+[[v50-1-29]]
+
+^<<v50-1-29,29>>^ Porque vocês receberam o privilégio, pela causa de Cristo, não somente de depositar nele a sua fé, mas também de sofrer por ele.
+
+[[v50-1-30]]
+
+^<<v50-1-30,30>>^ Pois vocês estão enfrentando a mesma luta que me viram enfrentar e, como agora sabem, ainda enfrento.
+
+'''
+
+xref:049-efesios/049-efesios-006.adoc#v49-6-0[&#60; Capítulo Anterior] | <<v50-1-0,Topo>> | xref:050-filipenses/050-filipenses-002.adoc#v50-2-0[Próximo Capítulo &#62;]

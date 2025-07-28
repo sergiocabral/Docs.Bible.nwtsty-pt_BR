@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v46-2-0]]
+=== A Primeira aos Coríntios, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A IMPORTÂNCIA DA UNIÃO NA CONGREGAÇÃO CRISTÃ (1:10–4:21)
+* 1. Coisas que contribuem para a união ou a desunião (1:10–2:16)
+* Seguir humanos causa divisões (1:10-17)
+* Reconhecer a Cristo, que é o poder e a sabedoria de Deus (1:18-25)
+* Orgulhar-se somente em Jeová, não em humanos (1:26-31)
+* Pregar como Paulo, sem usar linguagem ou sabedoria extravagantes (2:1-5)
+* Reconhecer a superioridade da sabedoria de Deus (2:6-10)
+* Receber o espírito que vem de Deus; ser um homem espiritual (2:11-16)
+* 2. Cooperar com Deus para que a congregação cresça e seja unida (3:1-23)
+* Pensamento carnal gera ciúme e brigas (3:1-4)
+* Humanos são ministros, mas é Deus quem faz crescer (3:5-9)
+* Construir com materiais resistentes ao fogo (3:10-15)
+* “Vocês . . . são templo de Deus” (3:16, 17)
+* A sabedoria do mundo é tolice perante Deus (3:18-23)
+* 3. Conselhos adicionais que contribuem para a união (4:1-21)
+* O que importa é o julgamento de Jeová (4:1-5)
+* Cristãos que são humildes não se acham melhores do que os seus irmãos (4:6-13)
+* Paulo aconselha seus filhos espirituais a não serem orgulhosos (4:14-21)
+****
+
+[[v46-2-1]]
+
+^<<v46-2-1,1>>^ Assim, quando estive com vocês, irmãos, não fui lhes declarar o segredo sagrado de Deus com linguagem ou sabedoria extravagantes.^&#42;1^
+
+[NOTE]
+====
+. Ou: “com superioridade de linguagem e de sabedoria”.
+====
+
+[[v46-2-2]]
+
+^<<v46-2-2,2>>^ Pois decidi não saber nada entre vocês, a não ser Jesus Cristo, e este morto na estaca.
+
+[[v46-2-3]]
+
+^<<v46-2-3,3>>^ E eu estive com vocês em fraqueza, em temor e com muito tremor;
+
+[[v46-2-4]]
+
+^<<v46-2-4,4>>^ e a minha linguagem e aquilo que preguei não foram palavras persuasivas de sabedoria, mas uma demonstração de espírito e de poder,
+
+[[v46-2-5]]
+
+^<<v46-2-5,5>>^ para que a sua fé não se baseasse na sabedoria de homens, mas no poder de Deus.
+
+[[v46-2-6]]
+
+^<<v46-2-6,6>>^ Ora, falamos de sabedoria entre os que são maduros,^&#42;1^ mas não da sabedoria deste sistema de coisas nem da sabedoria dos governantes deste sistema de coisas, os quais ficarão reduzidos a nada.
+
+[NOTE]
+====
+. Ou: “os plenamente desenvolvidos”. Lit.: “os perfeitos”.
+====
+
+[TIP]
+====
+- *deste sistema de coisas*: Ou: “desta época”. — Veja a nota de estudo em 1Co 1:20.
+====
+
+[[v46-2-7]]
+
+^<<v46-2-7,7>>^ Mas falamos da sabedoria de Deus expressa em segredo sagrado, a sabedoria escondida, que Deus predeterminou antes dos sistemas de coisas, para a nossa glória.
+
+[TIP]
+====
+- *sabedoria de Deus expressa em segredo sagrado*: Ou seja, o conjunto de decisões sábias que Deus tomou para acabar com a rebelião iniciada no Éden e para trazer paz e união universais. (Veja o Glossário, “Segredo sagrado”.) Jeová começou a declarar o “segredo sagrado” (em grego, mystérion; veja a nota de estudo em Mt 13:11) com sua profecia registrada em Gên 3:15. O “segredo sagrado” de Jeová gira em torno de Jesus Cristo. (Ef 1:9, 10; Col 2:2) Esse segredo inclui: o fato de Jesus ser o descendente prometido, ou Messias, e o papel dele dentro do Reino de Deus (Mt 13:11); a escolha dos ungidos (que seriam selecionados entre judeus e não judeus) para serem herdeiros junto com Cristo e reinarem com ele (Lu 22:29, 30; Ro 11:25; Ef 3:3-6; Col 1:26, 27); e a natureza especial desse grupo de 144.000, que são “comprados dentre a humanidade como primícias para Deus e para o Cordeiro” (Ap 14:1, 4). Esses aspectos do segredo sagrado só podem ser entendidos pelos que estudam cuidadosamente as Escrituras.
+- *a sabedoria escondida*: Aqui, Paulo chama o segredo sagrado de “a sabedoria escondida”, ou seja, escondida “dos governantes deste sistema de coisas”. (1Co 2:8) Por meio do seu espírito, Deus revela esse segredo aos cristãos para que eles possam torná-lo público.
+- *dos sistemas de coisas*: A palavra grega aión tem o sentido básico de “época”. Ela também pode se referir a uma situação existente ou a características marcantes de certo período. Aqui, a palavra se refere aos vários sistemas humanos que surgiram a partir da rebelião no Éden. — Veja o Glossário, “Sistema(s) de coisas”, e a nota de estudo em 1Co 10:11.
+====
+
+[[v46-2-8]]
+
+^<<v46-2-8,8>>^ Essa é a sabedoria que nenhum dos governantes deste sistema de coisas^&#42;1^ veio a conhecer, pois, se a tivessem conhecido, não teriam executado o glorioso Senhor.
+
+[NOTE]
+====
+. Ou: “desta época”.
+====
+
+[TIP]
+====
+- *executado*: Ou: “executado (prendido) numa estaca”. — Veja a nota de estudo em Mt 20:19 e o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.
+====
+
+[[v46-2-9]]
+
+^<<v46-2-9,9>>^ Mas, como está escrito: “O olho não viu e o ouvido não ouviu, nem foram concebidas no coração do homem as coisas que Deus preparou para os que o amam.”
+
+[TIP]
+====
+- *O olho não viu e o ouvido não ouviu*: A citação que Paulo faz neste versículo não aparece exatamente com essas mesmas palavras em nenhum lugar das Escrituras Hebraicas. Tudo indica que Paulo juntou as ideias de Is 52:15 e 64:4. Nem Paulo nem Isaías estavam se referindo às bênçãos futuras que Jeová prometeu para seu povo. Na verdade, aqui Paulo está aplicando as palavras de Isaías às bênçãos que os cristãos do século 1 d.C. já tinham, que incluíam receber esclarecimento espiritual e entender “as coisas profundas de Deus”. (1Co 2:10) Pessoas que não têm espiritualidade não valorizam essas bênçãos. Os olhos delas não conseguem ver (ou discernir) verdades espirituais, e seus ouvidos não conseguem ouvir (ou entender) essas verdades. O conhecimento das “coisas que Deus preparou para os que o amam” não chega ao coração dessas pessoas. Mas Deus usa seu espírito para revelar essas verdades preciosas para homens e mulheres que são dedicados a ele, assim como Paulo era.
+====
+
+[[v46-2-10]]
+
+^<<v46-2-10,10>>^ Porque é a nós que Deus as revelou por meio do seu espírito, pois o espírito investiga todas as coisas, até mesmo as coisas profundas de Deus.
+
+[[v46-2-11]]
+
+^<<v46-2-11,11>>^ Pois quem entre os homens sabe as coisas de um homem, a não ser o espírito do homem que está dentro dele? Assim, também, ninguém sabe as coisas de Deus, a não ser o espírito de Deus.
+
+[[v46-2-12]]
+
+^<<v46-2-12,12>>^ E nós não recebemos o espírito do mundo, mas o espírito que vem de Deus, para que soubéssemos as coisas que nos foram dadas bondosamente por Deus.
+
+[TIP]
+====
+- *o espírito do mundo*: Aqui, Paulo está se referindo às tendências e ao modo de pensar da humanidade em geral, afastada de Jeová Deus. Por causa da forte influência de Satanás, o espírito do mundo é caracterizado por egoísmo, imoralidade e desrespeito por Jeová e por seus padrões de moral. (Ef 2:1-3; 1Jo 5:19) O espírito do mundo age em oposição direta ao espírito que vem de Deus, ou seja, o espírito santo. — Para uma explicação sobre o significado da palavra “espírito” na Bíblia, veja o Glossário, “Espírito”.
+====
+
+[[v46-2-13]]
+
+^<<v46-2-13,13>>^ Dessas coisas também falamos, não com palavras ensinadas pela sabedoria humana, mas com as ensinadas pelo espírito, ao explicarmos^&#42;1^ assuntos espirituais com palavras espirituais.^&#42;2^
+
+[NOTE]
+====
+. Ou: “combinarmos”.
+. Ou, possivelmente: “ao explicarmos assuntos espirituais a pessoas espirituais”.
+====
+
+[[v46-2-14]]
+
+^<<v46-2-14,14>>^ Mas o homem físico não aceita^&#42;1^ as coisas do espírito de Deus, pois para ele são tolice; e ele não pode conhecê-las, porque elas são examinadas espiritualmente.
+
+[NOTE]
+====
+. Ou: “não recebe”.
+====
+
+[TIP]
+====
+- *o homem físico*: Neste contexto, a expressão “homem físico” não se refere simplesmente a um ser humano de carne e osso. O fato de ela ter sido usada em contraste com a expressão “homem espiritual” (versículo 15) mostra que aqui ela se refere a uma pessoa que não dá valor para assuntos espirituais nem se interessa por eles. A palavra grega psykhikós, traduzida aqui como “físico”, vem da palavra psykhé, às vezes traduzida como “alma” na Tradução do Novo Mundo. Na Bíblia, a palavra psykhé geralmente se refere ao que é material, tangível, visível e mortal. (Veja o Glossário, “Alma”.) Assim, “o homem físico” se preocupa com desejos ligados a vida física ou material, deixando de lado as coisas espirituais. — Veja a nota de estudo em 1Co 2:15.
+====
+
+[[v46-2-15]]
+
+^<<v46-2-15,15>>^ No entanto, o homem espiritual examina todas as coisas, mas ele mesmo não é examinado por nenhum homem.
+
+[TIP]
+====
+- *o homem espiritual*: Lit.: “o espiritual”. Aqui, Paulo contrasta o homem espiritual com o “homem físico” mencionado no versículo anterior. (Veja a nota de estudo em 1Co 2:14.) Quem é espiritual dá valor para assuntos espirituais e é guiado pelo espírito de Deus. Além disso, por ter mentalidade espiritual, ele vê a Deus como uma pessoa real e quer ‘se tornar imitador’ dele. (Ef 5:1) Ele se esforça para saber o que Deus pensa sobre as coisas e para viver de um modo que ele aprova. A pessoa espiritual examina, ou vê claramente, o comportamento errado do homem físico.
+====
+
+[[v46-2-16]]
+
+^<<v46-2-16,16>>^ Pois “quem chegou a conhecer a mente de Jeová, para poder instruí-lo”? Mas nós temos a mente de Cristo.
+
+[TIP]
+====
+- *quem chegou a conhecer a mente de Jeová . . . ?*: A resposta para esta pergunta retórica é: “Com certeza, ninguém.” (Compare com Ro 11:33, 34, onde Paulo cita o mesmo versículo que ele está citando aqui, Is 40:13.) Em seguida, Paulo diz: “Mas nós temos a mente de Cristo.” Os humanos nunca vão ser capazes de entender completamente todos os pensamentos de Jeová. Mas, visto que Cristo é “a imagem do Deus invisível”, quando os cristãos estudam “a mente de Cristo” e se esforçam para pensar assim como ele pensa, eles podem conhecer melhor a Deus. (Col 1:15; veja a nota de estudo em nós temos a mente de Cristo neste versículo.) Quanto mais uma pessoa entende a mente de Cristo, mais ela consegue entender a mente de Deus.
+- *a mente de Jeová*: Aqui, Paulo está citando Is 40:13, onde o texto hebraico diz “o espírito de Jeová”. Mas Paulo pelo visto citou as palavras de Isaías conforme elas aparecem na Septuaginta, que usa “mente” (em grego, nous) em vez de “espírito”. Apesar de os manuscritos disponíveis hoje da Septuaginta e das Escrituras Gregas Cristãs dizerem “mente de Senhor”, existem fortes motivos para acreditar que o nome de Deus aparecia nos manuscritos que existiam no século 1 d.C. — Veja os Apêndices A5, C1 e C2.
+- *Jeová*: Esta é uma citação de Is 40:13. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja os Apêndices C1 e C2.
+- *nós temos a mente de Cristo*: Para que um cristão possa ter “a mente de Cristo”, ele precisa entender o modo de Jesus pensar. Ele precisa meditar em todos os aspectos da personalidade de Cristo, passar a pensar como ele e imitar o exemplo de humildade e obediência que ele deixou. (1Pe 2:21) Assim, a “maneira de pensar” desse cristão vai refletir a “mente de Cristo” que, por sua vez, reflete a maneira de pensar de Jeová. — Ef 4:23; Jo 14:9.
+====
+
+'''
+
+xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[&#60; Capítulo Anterior] | <<v46-2-0,Topo>> | xref:046-1-corintios/046-1-corintios-003.adoc#v46-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,327 @@
+include::./index.adoc[]
+
+[[v42-20-0]]
+=== As Boas Novas Segundo Lucas, 20
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Começo da última semana do ministério de Jesus em Jerusalém e perto dali (19:28–21:4)
+* Entrada triunfal de Jesus em Jerusalém (19:28-40)
+* Jesus chora por Jerusalém (19:41-44)
+* Jesus purifica o templo (19:45-48)
+* Autoridade de Jesus é questionada (20:1-8)
+* Ilustração dos lavradores maus (20:9-19)
+* Deus e César (20:20-26)
+* Pergunta sobre a ressurreição (20:27-40)
+* O Cristo é filho de Davi? (20:41-44)
+* Alerta contra os escribas (20:45-47)
+* Duas pequenas moedas da viúva necessitada (21:1-4)
+****
+
+[[v42-20-1]]
+
+^<<v42-20-1,1>>^ Num daqueles dias, enquanto ele ensinava o povo no templo e declarava as boas novas, os principais sacerdotes e os escribas, com os anciãos, vieram
+
+[TIP]
+====
+- *principais sacerdotes*: Veja a nota de estudo em Mt 2:4.
+- *escribas*: Veja a nota de estudo em Mt 2:4.
+- *anciãos*: Veja a nota de estudo em Mt 16:21.
+====
+
+[[v42-20-2]]
+
+^<<v42-20-2,2>>^ e lhe disseram: “Diga-nos, com que autoridade você faz essas coisas? E quem lhe deu essa autoridade?”
+
+[[v42-20-3]]
+
+^<<v42-20-3,3>>^ Ele lhes respondeu: “Eu também lhes farei uma pergunta, e vocês, respondam-me:
+
+[[v42-20-4]]
+
+^<<v42-20-4,4>>^ O batismo^&#42;1^ de João era do céu ou dos homens?”^&#42;2^
+
+[NOTE]
+====
+. Ou: “A imersão; O mergulho”.
+. Ou: “de origem humana”.
+====
+
+[[v42-20-5]]
+
+^<<v42-20-5,5>>^ Tiraram então conclusões entre si, dizendo: “Se dissermos: ‘Do céu’, ele dirá: ‘Por que vocês não acreditaram nele?’
+
+[[v42-20-6]]
+
+^<<v42-20-6,6>>^ Mas, se dissermos: ‘Dos homens’, o povo todo nos apedrejará, pois estão convencidos de que João era profeta.”
+
+[[v42-20-7]]
+
+^<<v42-20-7,7>>^ De modo que responderam que não sabiam de onde se originou.
+
+[[v42-20-8]]
+
+^<<v42-20-8,8>>^ Jesus lhes disse: “Então eu também não lhes digo com que autoridade faço essas coisas.”
+
+[[v42-20-9]]
+
+^<<v42-20-9,9>>^ Então, ele começou a contar ao povo a seguinte ilustração: “Um homem plantou um vinhedo e o arrendou a lavradores, e viajou para fora, por bastante tempo.
+
+[TIP]
+====
+- *ilustração*: Ou: “parábola”. — Veja a nota de estudo em Mt 13:3.
+- *arrendou*: Veja a nota de estudo em Mt 21:33.
+- *por bastante tempo*: Apenas Lucas inclui esse detalhe na ilustração sobre os lavradores maus. — Compare com os relatos paralelos em Mt 21:33 e Mr 12:1.
+====
+
+[[v42-20-10]]
+
+^<<v42-20-10,10>>^ Na época devida, enviou um escravo aos lavradores, para que lhe dessem alguns dos frutos do vinhedo. Os lavradores, porém, depois de espancá-lo, mandaram-no embora de mãos vazias.
+
+[[v42-20-11]]
+
+^<<v42-20-11,11>>^ Mas ele lhes enviou outro escravo. A esse também espancaram, humilharam^&#42;1^ e mandaram embora de mãos vazias.
+
+[NOTE]
+====
+. Ou: “desonraram; trataram de modo vergonhoso”.
+====
+
+[[v42-20-12]]
+
+^<<v42-20-12,12>>^ Ele ainda mandou um terceiro; a esse também feriram e expulsaram.
+
+[[v42-20-13]]
+
+^<<v42-20-13,13>>^ Em vista disso, o dono do vinhedo disse: ‘O que farei? Enviarei o meu filho, o amado. Provavelmente respeitarão a ele.’
+
+[[v42-20-14]]
+
+^<<v42-20-14,14>>^ Quando os lavradores o viram, raciocinaram entre si, dizendo: ‘Este é o herdeiro. Vamos matá-lo, para que a herança se torne nossa.’
+
+[[v42-20-15]]
+
+^<<v42-20-15,15>>^ Assim, eles o lançaram para fora do vinhedo e o mataram. O que lhes fará então o dono do vinhedo?
+
+[[v42-20-16]]
+
+^<<v42-20-16,16>>^ Voltará e matará esses lavradores, e dará o vinhedo a outros.”
+Ao ouvirem isso, eles disseram: “Que isso nunca aconteça!”
+
+[[v42-20-17]]
+
+^<<v42-20-17,17>>^ Mas ele olhou fixamente para eles e disse: “O que então significa isto que está escrito: ‘A pedra que os construtores rejeitaram, essa se tornou a principal pedra angular’?
+
+[TIP]
+====
+- *a principal pedra angular*: Veja a nota de estudo em Mt 21:42.
+====
+
+[[v42-20-18]]
+
+^<<v42-20-18,18>>^ Todo aquele que cair sobre essa pedra será despedaçado. Quanto àquele sobre quem ela cair, será esmagado.”
+
+[[v42-20-19]]
+
+^<<v42-20-19,19>>^ Os escribas e os principais sacerdotes procuraram então agarrá-lo naquela mesma hora, porque perceberam que ele havia contado essa ilustração pensando neles. Mas tinham medo do povo.
+
+[[v42-20-20]]
+
+^<<v42-20-20,20>>^ E, depois de observá-lo com atenção, eles enviaram homens que haviam contratado secretamente para fingir ser justos, a fim de apanhá-lo nas suas palavras, e assim entregá-lo ao governo e à autoridade do governador.
+
+[[v42-20-21]]
+
+^<<v42-20-21,21>>^ E eles lhe perguntaram: “Instrutor, sabemos que o senhor fala e ensina corretamente, e não mostra parcialidade, mas ensina o caminho de Deus em harmonia com a verdade:
+
+[[v42-20-22]]
+
+^<<v42-20-22,22>>^ É permitido^&#42;1^ ou não pagarmos impostos a César?”
+
+[NOTE]
+====
+. Ou: “lícito; certo”.
+====
+
+[TIP]
+====
+- *César*: Veja a nota de estudo em Mt 22:17.
+====
+
+[[v42-20-23]]
+
+^<<v42-20-23,23>>^ Mas ele percebeu a astúcia deles, e lhes disse:
+
+[[v42-20-24]]
+
+^<<v42-20-24,24>>^ “Mostrem-me um denário. A imagem e inscrição de quem está nele?” Responderam: “De César.”
+
+[TIP]
+====
+- *denário*: O denário era uma moeda romana de prata que tinha uma inscrição com o nome de César. Era “a moeda do imposto” que os romanos cobravam dos judeus. (Mt 22:17, 19; Lu 20:22) Nos dias de Jesus, os trabalhadores rurais geralmente ganhavam um denário por dia de trabalho (12 horas). As Escrituras Gregas Cristãs muitas vezes usam o denário como base para calcular outros valores em dinheiro. (Mt 20:2; Mr 6:37; 14:5; Ap 6:6) Em Israel, as pessoas usavam várias moedas de cobre e de prata no seu dia a dia. Moedas de prata produzidas em Tiro eram usadas para pagar o imposto do templo. Mas, para pagar os impostos que Roma cobrava, as pessoas pelo visto usavam o denário, que trazia o nome e a imagem de César. — Veja o Glossário e o Apêndice B14-B.
+- *A imagem e inscrição*: Veja a nota de estudo em Mt 22:20.
+====
+
+[[v42-20-25]]
+
+^<<v42-20-25,25>>^ Ele lhes disse: “Sem falta, então, paguem a César o que é de César, mas a Deus o que é de Deus.”
+
+[TIP]
+====
+- *paguem*: Veja a nota de estudo em Mt 22:21.
+- *a César o que é de César*: Esta resposta de Jesus também aparece nos relatos paralelos em Mt 22:21 e Mr 12:17. Essa é a única ocasião registrada na Bíblia em que Jesus fez referência ao imperador romano. ‘Pagar a César o que é de César’ inclui pagar por serviços prestados pelo governo, e mostrar respeito e obedecer às autoridades em tudo o que não contraria as leis de Deus. — Ro 13:1-7.
+- *a Deus o que é de Deus*: Veja a nota de estudo em Mt 22:21.
+====
+
+[[v42-20-26]]
+
+^<<v42-20-26,26>>^ Pois bem, não foram capazes de apanhá-lo no que ele disse perante o povo, mas, espantados com a resposta dele, ficaram calados.
+
+[[v42-20-27]]
+
+^<<v42-20-27,27>>^ No entanto, alguns dos saduceus, os quais dizem não haver ressurreição, aproximaram-se e perguntaram-lhe:
+
+[TIP]
+====
+- *saduceus*: Esta é a única vez que o Evangelho de Lucas menciona os saduceus. (Veja o Glossário.) Esse nome (em grego, Saddoukaíos) provavelmente vem do nome de Zadoque (que muitas vezes é escrito Saddoúk na Septuaginta). Zadoque recebeu o cargo de sumo sacerdote nos dias de Salomão, e seus descendentes pelo visto serviram como sacerdotes por centenas de anos. — 1Rs 2:35.
+- *ressurreição*: A palavra grega usada aqui, anástasis, significa literalmente “levantar; ficar de pé”. Ela aparece umas 40 vezes nas Escrituras Gregas Cristãs para se referir à ressurreição dos mortos. (Mt 22:23, 31; Lu 20:33; At 4:2; 24:15; 1Co 15:12, 13) Em Is 26:19, a Septuaginta usa um verbo derivado de anástasis para traduzir o verbo hebraico que significa “viver” na expressão: “Os seus mortos viverão.” — Veja o Glossário.
+====
+
+[[v42-20-28]]
+
+^<<v42-20-28,28>>^ “Instrutor, Moisés nos escreveu: ‘Se um homem morre e deixa esposa, mas não deixa filhos, o irmão dele deve tomar a viúva em casamento para dar descendência ao seu irmão.’
+
+[[v42-20-29]]
+
+^<<v42-20-29,29>>^ Acontece que havia sete irmãos. O primeiro tomou uma esposa, mas morreu sem filhos,
+
+[[v42-20-30]]
+
+^<<v42-20-30,30>>^ de modo que o segundo
+
+[[v42-20-31]]
+
+^<<v42-20-31,31>>^ e o terceiro se casaram com ela. O mesmo aconteceu com todos os sete; eles morreram sem deixar filhos.
+
+[TIP]
+====
+- *se casaram com ela*: Veja a nota de estudo em Mr 12:21.
+====
+
+[[v42-20-32]]
+
+^<<v42-20-32,32>>^ Por fim, morreu também a mulher.
+
+[[v42-20-33]]
+
+^<<v42-20-33,33>>^ Assim, na ressurreição, de qual deles ela se tornará esposa? Pois os sete a tiveram como esposa.”
+
+[[v42-20-34]]
+
+^<<v42-20-34,34>>^ Jesus lhes disse: “Os filhos deste sistema de coisas se casam e são dados em casamento,
+
+[TIP]
+====
+- *os filhos*: Ou: “as pessoas”. A palavra grega traduzida aqui como “filhos” é masculina. Mas, neste versículo, ela é usada em sentido mais amplo e também se refere às mulheres. Isso fica claro porque a palavra grega para dados em casamento era usada com respeito a mulheres. Neste versículo, a expressão completa “filhos deste sistema de coisas”, ao que tudo indica, é uma expressão idiomática, e se refere tanto a homens como a mulheres que têm um estilo de vida ou atitudes que refletem as características do mundo.
+- *deste sistema de coisas*: A palavra grega aión tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. Neste versículo, ela se refere ao sistema de coisas governado pelo Diabo. — Veja as notas de estudo em Mt 12:32; Mr 10:30 e o Glossário, “Sistema(s) de coisas”.
+====
+
+[[v42-20-35]]
+
+^<<v42-20-35,35>>^ mas os que são considerados dignos de ganhar aquele sistema de coisas e a ressurreição dentre os mortos não se casam nem são dados em casamento.
+
+[TIP]
+====
+- *aquele sistema de coisas*: A palavra grega aión tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. Neste versículo, ela se refere à época futura em que o Reino de Deus assumirá o controle da Terra e ocorrerá a ressurreição dentre os mortos. — Veja as notas de estudo em Mt 12:32; Mr 10:30 e o Glossário, “Sistema(s) de coisas”.
+====
+
+[[v42-20-36]]
+
+^<<v42-20-36,36>>^ De fato, eles nem podem mais morrer, porque são como os anjos, e são filhos de Deus por serem filhos da ressurreição.
+
+[TIP]
+====
+- *filhos*: A palavra grega para “filhos” é masculina, e aparece duas vezes neste versículo. Em alguns casos, ela é usada em sentido mais amplo e também pode se referir às mulheres. — Veja a nota de estudo em Lu 20:34.
+====
+
+[[v42-20-37]]
+
+^<<v42-20-37,37>>^ Mas, que os mortos são levantados, até mesmo Moisés revelou no relato sobre o espinheiro, quando ele chama Jeová de ‘o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’.
+
+[TIP]
+====
+- *até mesmo Moisés revelou*: Veja a nota de estudo em Mr 12:26.
+- *quando ele chama Jeová de ‘o Deus de Abraão’*: Ou: “quando ele diz: ‘Jeová, o Deus de Abraão’”. Conforme explicado por Jesus, o relato de Moisés mostrou que Jeová continuava sendo o Deus de Abraão, Isaque e Jacó mesmo muito tempo depois de eles terem morrido. Jesus citou Êx 3:6, e o contexto (Êx 3:4, 5) mostra que era “Jeová” quem estava falando. Em Êx 3:6, Jeová diz a Moisés: “Eu sou o Deus do seu pai, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.” Naquela época, Abraão já tinha morrido fazia 329 anos; Isaque, fazia 224; e Jacó, fazia 197. Mesmo assim, Jeová não disse: ‘Eu era o Deus deles.’ Ele disse: ‘Eu sou o Deus deles.’ O fato de as Escrituras Hebraicas mostrarem que era Jeová quem estava falando com Moisés é um dos motivos de a Tradução do Novo Mundo usar o nome de Deus aqui no texto principal. — Veja o Apêndice C1 e o Apêndice C3 (introdução e Lu 20:37).
+====
+
+[[v42-20-38]]
+
+^<<v42-20-38,38>>^ Ele é Deus, não de mortos, mas de vivos, pois, para ele, todos eles vivem.”
+
+[TIP]
+====
+- *pois, para ele, todos eles vivem*: Ou: “pois, do ponto de vista dele, todos eles vivem”. A Bíblia mostra que para Deus as pessoas que não o servem estão como que mortas, mesmo que ainda vivam. (Ef 2:1; 1Ti 5:6) Por outro lado, Deus tem tanta certeza de que vai cumprir seu objetivo de ressuscitar seus servos fiéis que, do seu ponto de vista, eles continuam vivos. — Ro 4:16, 17.
+====
+
+[[v42-20-39]]
+
+^<<v42-20-39,39>>^ Em resposta, alguns dos escribas disseram: “Instrutor, o senhor falou bem.”
+
+[[v42-20-40]]
+
+^<<v42-20-40,40>>^ Pois eles não tinham mais coragem de lhe fazer uma única pergunta.
+
+[[v42-20-41]]
+
+^<<v42-20-41,41>>^ Então ele lhes perguntou: “Como é que dizem que o Cristo é filho de Davi?
+
+[[v42-20-42]]
+
+^<<v42-20-42,42>>^ Porque o próprio Davi diz no livro dos Salmos: ‘Jeová disse ao meu Senhor: “Sente-se à minha direita,
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta do Sal 110:1. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Mas a maioria das traduções da Bíblia não usa o nome de Deus nas Escrituras Gregas Cristãs (conhecidas como Novo Testamento) nem mesmo em citações das Escrituras Hebraicas. (Veja o Apêndice A5.) Em vez disso, elas usam simplesmente o título “Senhor”. Mas, como mostra o Apêndice C, traduções da Bíblia em diversos idiomas usam no texto principal das Escrituras Gregas Cristãs o nome de Deus em formas como Jeová, Iavé, יהוה (YHWH, o Tetragrama), ou as palavras SENHOR ou ADONAI (em letras maiúsculas, mostrando que substituem o nome de Deus). Algumas edições do século 17 da King James Version usam a tradução “o SENHOR” neste e em outros três versículos das Escrituras Gregas Cristãs que citam o Sal 110:1. (Mt 22:44; Mr 12:36; At 2:34) Outras edições lançadas mais tarde fizeram o mesmo. Já que os tradutores da King James Version usaram “o SENHOR” para indicar onde o nome de Deus aparece no texto original das Escrituras Hebraicas, é lógico concluir que eles tenham usado “o SENHOR” nas Escrituras Gregas Cristãs porque entenderam que o texto grego original se refere a Jeová. Também é interessante notar que a New King James Version, publicada pela primeira vez em 1979, passou a usar “o SENHOR” nas Escrituras Gregas Cristãs para substituir o nome de Deus em todas as citações das Escrituras Hebraicas.
+====
+
+[[v42-20-43]]
+
+^<<v42-20-43,43>>^ até que eu ponha os seus inimigos debaixo dos seus pés.”’^&#42;1^
+
+[NOTE]
+====
+. Ou: “como escabelo para os seus pés”.
+====
+
+[[v42-20-44]]
+
+^<<v42-20-44,44>>^ Portanto, Davi o chama de Senhor. Então, como é que ele é seu filho?”
+
+[[v42-20-45]]
+
+^<<v42-20-45,45>>^ E, enquanto todo o povo estava escutando, ele disse aos seus discípulos:
+
+[[v42-20-46]]
+
+^<<v42-20-46,46>>^ “Cuidado com os escribas, que gostam de andar de vestes compridas e gostam muito dos cumprimentos nas praças públicas, dos primeiros assentos nas sinagogas e dos lugares mais destacados nos banquetes,
+
+[TIP]
+====
+- *praças públicas*: Veja a nota de estudo em Mt 23:7.
+- *primeiros assentos*: Veja a nota de estudo em Mt 23:6.
+====
+
+[[v42-20-47]]
+
+^<<v42-20-47,47>>^ que devoram as casas^&#42;1^ das viúvas e, para impressionar,^&#42;2^ fazem longas orações. Eles receberão um julgamento mais severo.”^&#42;3^
+
+[NOTE]
+====
+. Ou: “os bens”.
+. Ou: “e, como pretexto”.
+. Ou: “pesado”.
+====
+
+'''
+
+xref:042-lucas/042-lucas-019.adoc#v42-19-0[&#60; Capítulo Anterior] | <<v42-20-0,Topo>> | xref:042-lucas/042-lucas-021.adoc#v42-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,273 @@
+include::./index.adoc[]
+
+[[v45-2-0]]
+=== A Carta aos Romanos, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-2-1]]
+
+^<<v45-2-1,1>>^ Por isso, ó homem, seja você quem for, se julga a outros você não tem desculpa; pois, ao julgar, condena a si mesmo, porque você, que julga, pratica as mesmas coisas.
+
+[[v45-2-2]]
+
+^<<v45-2-2,2>>^ Ora, sabemos que o julgamento de Deus está de acordo com a verdade e é contra os que praticam essas coisas.
+
+[[v45-2-3]]
+
+^<<v45-2-3,3>>^ Mas será que você, ó homem, que julga os que praticam essas coisas, mas faz as mesmas coisas, pensa que escapará do julgamento de Deus?
+
+[[v45-2-4]]
+
+^<<v45-2-4,4>>^ Ou você despreza as riquezas da Sua bondade, tolerância e paciência, por não saber que Deus, na sua bondade, está tentando levá-lo ao arrependimento?
+
+[TIP]
+====
+- *tolerância*: Ou: “indulgência”. Nas Escrituras Gregas Cristãs, o substantivo grego anokhé aparece apenas duas vezes (aqui e em Ro 3:25). Ele significa literalmente “contenção; retenção” e também poderia ser traduzido aqui como “autocontrole”. Um verbo grego relacionado é usado em vários versículos para passar a ideia de “suportar” ou “suportar com paciência” circunstâncias difíceis. (Mt 17:17; 1Co 4:12; Ef 4:2) Esse verbo também foi usado na Septuaginta em passagens que falam de ocasiões em que Jeová se conteve. (Is 42:14; 64:12; LXX) Ao longo da história, Deus tem suportado muitas coisas, como ver seu Filho ser torturado e executado, ver seu nome ser blasfemado e ver seus servos leais serem maltratados. Isso exige que ele mostre bondade, tolerância e paciência num grau extraordinário. Deus faz isso porque “está tentando [levar as pessoas] ao arrependimento”. O apóstolo Pedro destacou esse mesmo ponto. — 2Pe 3:9.
+- *arrependimento*: Lit.: “mudança de ideia”. Na Bíblia, a palavra grega que aparece aqui se refere a uma mudança na forma de pensar, acompanhada de profunda tristeza por causa de um modo de vida anterior, de erros cometidos ou de coisas que deviam ter sido feitas e não foram. Aqui, o arrependimento envolve o desejo de ter uma amizade com Deus ou de recuperar a amizade dele. O verdadeiro arrependimento leva a pessoa a produzir “fruto”, ou seja, a mudar seu modo de agir. — Veja as notas de estudo em Mt 3:2, 8; At 3:19; 26:20 e o Glossário.
+====
+
+[[v45-2-5]]
+
+^<<v45-2-5,5>>^ Mas, segundo a sua teimosia e o seu coração que não se arrepende, você está acumulando para si mesmo ira para o dia da ira e da revelação do justo julgamento de Deus.
+
+[[v45-2-6]]
+
+^<<v45-2-6,6>>^ E ele retribuirá a cada um segundo as suas obras:
+
+[[v45-2-7]]
+
+^<<v45-2-7,7>>^ dará vida eterna aos que, perseverando em fazer o bem, buscam glória, honra e vida imperecível;^&#42;1^
+
+[NOTE]
+====
+. Ou: “e imperecibilidade”.
+====
+
+[[v45-2-8]]
+
+^<<v45-2-8,8>>^ no entanto, para os que criam conflitos e desobedecem à verdade, mas obedecem à injustiça, haverá indignação e ira.
+
+[[v45-2-9]]
+
+^<<v45-2-9,9>>^ Haverá tribulação e aflição para toda pessoa que faz o mal, primeiro para o judeu, e também para o grego;
+
+[TIP]
+====
+- *toda pessoa*: Ou: “a alma de todo humano”. — Veja o Glossário, “Alma”.
+====
+
+[[v45-2-10]]
+
+^<<v45-2-10,10>>^ mas glória, honra e paz para todo aquele que faz o bem, primeiro para o judeu, e também para o grego.
+
+[TIP]
+====
+- *o grego*: Aqui, a palavra “grego” se refere a não judeus em geral. — Veja a nota de estudo em Ro 1:16.
+====
+
+[[v45-2-11]]
+
+^<<v45-2-11,11>>^ Pois com Deus não há parcialidade.
+
+[TIP]
+====
+- *com Deus não há parcialidade*: A palavra grega prosopolempsía, traduzida aqui como “parcialidade”, também poderia ser traduzida literalmente como “aceitação de faces”. (Para uma explicação sobre uma palavra grega relacionada, veja a nota de estudo em At 10:34.) Essa palavra tem origem na expressão hebraica nasáʼ paním (lit.: “levantar a face”), que foi traduzida em Le 19:15 como “mostrar parcialidade”. Entre os povos orientais, era comum cumprimentar uma pessoa superior por se curvar humildemente com o rosto voltado para o chão. Em resposta, a pessoa mostrava que aceitava a reverência e que aprovava aquele que tinha se curvado por levantar a face dele, ou seja, erguer a cabeça dele. Mas, depois que pessoas corruptas começaram a usar esse gesto para mostrar favoritismo, a expressão passou a ser usada em sentido negativo para se referir à parcialidade. Assim, Paulo está dizendo que Deus não “levanta a face” apenas de alguns, mas de outros não. Ele não tem preferidos. Ele aceita tanto judeus como gregos, ou seja, não judeus. Esse é um assunto mencionado várias vezes nas cartas de Paulo. — Ef 6:9.
+====
+
+[[v45-2-12]]
+
+^<<v45-2-12,12>>^ Pois todos os que pecaram sem lei, sem lei também morrerão; mas todos os que pecaram debaixo de lei, por lei serão julgados.
+
+[TIP]
+====
+- *debaixo de lei, por lei*: Estas são as duas primeiras vezes que a palavra grega para “lei”, nómos, aparece na carta de Paulo aos romanos. A expressão sem lei, que também aparece neste versículo, é uma tradução de outra palavra grega, anómos. Aqui e na maioria das outras ocorrências da palavra “lei” no livro de Romanos, nómos se refere à Lei mosaica. Nas Escrituras Gregas Cristãs, a palavra “lei” pode se referir (1) a uma lei específica, (2) à Lei que Deus deu por meio de Moisés, (3) às Escrituras Hebraicas como um todo ou a parte delas, ou (4) a um princípio que guia as ações de uma pessoa. — Veja as notas de estudo em Mt 5:17; Jo 10:34; Ro 8:2.
+====
+
+[[v45-2-13]]
+
+^<<v45-2-13,13>>^ Pois não são os que ouvem a Lei que são justos diante de Deus, mas os que cumprem a Lei é que serão declarados justos.
+
+[[v45-2-14]]
+
+^<<v45-2-14,14>>^ Pois, quando pessoas das nações, que não têm lei, fazem por natureza as coisas exigidas por lei, essas pessoas, embora não tenham lei, são uma lei para si mesmas.
+
+[[v45-2-15]]
+
+^<<v45-2-15,15>>^ Elas mesmas demonstram que têm a essência da lei escrita no coração, ao passo que a consciência delas também dá testemunho, e, pelos^&#42;1^ seus pensamentos, elas são acusadas ou até mesmo desculpadas.
+
+[NOTE]
+====
+. Lit.: “entre”.
+====
+
+[TIP]
+====
+- *consciência*: A palavra grega syneídesis é formada pelas palavras syn (“com”) e eídesis (“conhecimento”). Assim, ela significa literalmente “conhecimento consigo mesmo”. Neste versículo, Paulo explica que mesmo alguém que não sabe nada a respeito das leis de Deus tem uma consciência, ou seja, a capacidade de examinar a si mesmo e julgar suas próprias ações. Mas, para que a consciência possa julgar corretamente as coisas, ela precisa ser treinada pela Palavra de Deus e guiada pela vontade dele. As Escrituras mostram que nem toda consciência funciona como deveria. A pessoa pode ter uma consciência fraca (1Co 8:12), insensível (1Ti 4:2) ou contaminada (Tit 1:15). Paulo disse o seguinte sobre o funcionamento da consciência dele: “A minha consciência dá testemunho comigo, em espírito santo.” (Ro 9:1) O objetivo de Paulo era “manter uma consciência limpa diante de Deus e dos homens”. — At 24:16.
+====
+
+[[v45-2-16]]
+
+^<<v45-2-16,16>>^ Isso acontecerá no dia em que Deus, por meio de Cristo Jesus, julgar as coisas secretas dos homens, segundo as boas novas que eu declaro.
+
+[[v45-2-17]]
+
+^<<v45-2-17,17>>^ Mas, se você leva o nome de judeu, e confia na Lei e se orgulha de Deus;
+
+[[v45-2-18]]
+
+^<<v45-2-18,18>>^ se conhece a Sua vontade e sabe discernir as coisas excelentes^&#42;1^ porque é instruído à base da Lei;
+
+[NOTE]
+====
+. Ou: “e aprova as coisas excelentes; e sabe discernir as coisas importantes”. Ou, possivelmente: “e sabe testar as coisas diferentes”.
+====
+
+[TIP]
+====
+- *instruído*: Ou: “instruído oralmente”. O verbo grego katekhéo significa literalmente “fazer ressoar” e pode incluir a ideia de instruir oralmente. — Veja a nota de estudo em At 18:25.
+====
+
+[[v45-2-19]]
+
+^<<v45-2-19,19>>^ se está convencido de que é guia de cegos, luz para os que estão na escuridão,
+
+[[v45-2-20]]
+
+^<<v45-2-20,20>>^ educador de insensatos, instrutor de criancinhas, e tem a estrutura do conhecimento e da verdade que se encontram na Lei;
+
+[TIP]
+====
+- *criancinhas*: Neste contexto, a palavra grega traduzida como “criancinhas” pode se referir a pessoas que precisam crescer em conhecimento, entendimento e maturidade.
+- *estrutura*: A palavra grega traduzida aqui como “estrutura” é mórfosis. Ela passa a ideia de uma forma, um rascunho ou um esboço. Aqui, a palavra pelo visto se refere aos aspectos básicos, ou mais importantes, do conhecimento e da verdade que podiam ser encontrados na Lei mosaica. A Lei era apenas uma estrutura, ou esboço, porque não tinha todas as informações necessárias sobre Deus, sua vontade e seu propósito. Mais tarde, muito mais foi acrescentado por meio de Jesus. (Jo 1:17) Mesmo assim, os judeus fiéis podiam aprender sobre Jeová e seus caminhos justos por estudar os princípios encontrados na Lei. Durante muitos séculos, isso deu a eles uma vantagem sobre todos os outros povos. (De 4:8; Sal 147:19, 20) Apesar de a Lei mosaica ter sido apenas uma “estrutura”, ela foi importante para que se pudesse entender completamente a Jeová e seus propósitos.
+====
+
+[[v45-2-21]]
+
+^<<v45-2-21,21>>^ então você, que ensina a outros, não ensina a si mesmo? Você, que prega: “Não furte”, furta?
+
+[[v45-2-22]]
+
+^<<v45-2-22,22>>^ Você, que diz: “Não cometa adultério”, comete adultério? Você, que abomina os ídolos, rouba templos?
+
+[TIP]
+====
+- *Não cometa adultério*: Ou seja, não traia o marido ou a esposa. De acordo com a Bíblia, adultério se refere a qualquer ato intencional de “imoralidade sexual” (em grego, porneía) que uma pessoa casada comete com alguém que não é seu marido ou sua esposa. — Para uma explicação sobre o que é “imoralidade sexual”, veja a nota de estudo em Mt 5:32; veja também a nota de estudo em Mr 10:11.
+====
+
+[[v45-2-23]]
+
+^<<v45-2-23,23>>^ Você, que se orgulha de ter lei, desonra a Deus pela sua transgressão da Lei?
+
+[[v45-2-24]]
+
+^<<v45-2-24,24>>^ Pois “o nome de Deus está sendo blasfemado entre as nações por causa de vocês”, assim como está escrito.
+
+[[v45-2-25]]
+
+^<<v45-2-25,25>>^ De fato, a circuncisão só tem valor se você guarda a Lei; mas, se você é transgressor da Lei, a sua circuncisão se tornou incircuncisão.
+
+[TIP]
+====
+- *a circuncisão*: A Lei mosaica dizia que todos os homens que adoravam a Jeová deviam ser circuncidados. (Le 12:2, 3; veja o Glossário.) Até mesmo os estrangeiros precisavam ser circuncidados para poder comer da refeição pascoal. (Êx 12:43-49) Mas no ano 49 d.C. (apenas sete anos antes de Paulo escrever sua carta aos romanos) o corpo governante em Jerusalém chegou à conclusão de que os não judeus que aceitavam as boas novas não precisavam ser circuncidados nem seguir os mandamentos da Lei. (At 15:1, 2, 28, 29) Em sua carta aos romanos, Paulo mostrou que apoiava a decisão do corpo governante, que foi guiada pelo espírito santo. Além disso, neste versículo e nos versículos seguintes, Paulo foi inspirado a dar mais detalhes sobre o assunto. Mesmo enquanto o pacto da Lei ainda estava em vigor, a circuncisão por si só não bastava; era necessário obedecer à Lei. — Le 18:5; De 30:16; Je 9:25; veja a nota de estudo em Ro 2:29.
+====
+
+[[v45-2-26]]
+
+^<<v45-2-26,26>>^ Portanto, se um incircunciso guardar as justas exigências da Lei, não será a incircuncisão dele considerada como circuncisão?
+
+[[v45-2-27]]
+
+^<<v45-2-27,27>>^ E aquele que é fisicamente incircunciso, ao cumprir a Lei, julgará a você, que é transgressor da Lei apesar de ter o código escrito e a circuncisão.
+
+[[v45-2-28]]
+
+^<<v45-2-28,28>>^ Porque não é judeu quem o é por fora, nem é a circuncisão algo feito por fora, na carne.
+
+[TIP]
+====
+- *judeu . . . a circuncisão*: Aqui, Paulo usa estas palavras em sentido figurado para mostrar que a nacionalidade e a origem da pessoa não têm nenhuma importância dentro da congregação cristã. — Veja o Glossário, “Judeu”; “Circuncisão”.
+====
+
+[[v45-2-29]]
+
+^<<v45-2-29,29>>^ Mas judeu é quem o é no íntimo, e a sua circuncisão é a do coração, por espírito, e não por um código escrito. O louvor dessa pessoa vem de Deus, não de homens.
+
+[TIP]
+====
+- *judeu*: A palavra grega Ioudaíos corresponde à palavra hebraica Yehudhí, que significa “de [que pertence a] Judá” e que, nas Escrituras Hebraicas, costuma ser traduzida como “judeu(s)”. Especialmente depois do exílio em Babilônia, a palavra passou a ser usada para se referir a qualquer membro da nação de Israel. (Veja o Glossário, “Judeu”.) Acredita-se que o nome “Judá” signifique “elogiado (louvado); objeto de elogio (louvor)”, já que em Gên 29:35 ele foi relacionado com o verbo hebraico para “louvar”. Alguns acreditam que aqui Paulo está fazendo um jogo de palavras baseado no significado do nome Judá. Ele pode ter feito isso para mostrar que o verdadeiro “judeu” é aquele que recebe louvor de Deus por ter circuncidado seu coração e por servir a ele com uma motivação pura e sincera. (Veja a nota de estudo em circuncisão . . . do coração neste versículo.) O maior louvor que um humano pode receber é ter a aprovação de Deus. Neste versículo, Paulo está dizendo que Deus dá sua aprovação de modo imparcial, independentemente da nacionalidade ou origem da pessoa. No século 1 d.C., todos os cristãos que tinham a aprovação de Deus faziam parte do “Israel de Deus”, ou seja, eram judeus em sentido espiritual. — Gál 6:16.
+- *circuncisão . . . do coração*: Tanto as Escrituras Hebraicas como as Escrituras Gregas Cristãs às vezes usam a palavra “circuncisão” em sentido figurado. (Veja o Glossário, “Circuncisão”.) Todos os homens israelitas eram circuncidados em sentido literal. Mesmo assim, Deus exigia que eles também fossem circuncidados no coração. Uma tradução literal das palavras de Moisés para a nação de Israel em De 10:16 e 30:6 (veja as notas de rodapé) seria: “Circuncidem o prepúcio do seu coração” e “Jeová, seu Deus, circuncidará o seu coração e o coração da sua descendência”. Mais tarde, Jeremias também aconselhou aquela nação desobediente a fazer o mesmo. (Je 4:4) Para “circuncidar” o coração, a pessoa precisa purificá-lo, eliminando qualquer pensamento, apego ou motivação que desagrade a Jeová ou que ele considere impuro. Ao fazer isso, a pessoa evita que seu coração se torne insensível. Na Bíblia, o ouvido que não reage às orientações de Deus também é chamado de “incircunciso”. — Je 6:10, nota de rodapé; veja a nota de estudo em At 7:51.
+====
+
+'''
+
+xref:045-romanos/045-romanos-001.adoc#v45-1-0[&#60; Capítulo Anterior] | <<v45-2-0,Topo>> | xref:045-romanos/045-romanos-003.adoc#v45-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,377 @@
+include::./index.adoc[]
+
+[[v43-12-0]]
+=== As Boas Novas Segundo João, 12
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Da época da Festividade da Dedicação de 32 d.C. a 10 de nisã de 33 d.C. (10:1–12:50)
+* Ilustração do pastor e dos apriscos (10:1-18)
+* Muitos judeus se recusam a acreditar (10:19-26)
+* Jesus e seu Pai estão unidos em cuidar das ovelhas (10:27-30)
+* Judeus tentam prender Jesus (10:31-39)
+* Muitas pessoas do outro lado do Jordão depositam fé em Jesus (10:40-42)
+* Morte de Lázaro (11:1-16)
+* Jesus consola Marta e Maria (11:17-37)
+* Jesus ressuscita Lázaro (11:38-44)
+* Líderes religiosos planejam matar Jesus (11:45-57)
+* Maria derrama óleo perfumado nos pés de Jesus (12:1-11)
+* Entrada triunfal de Jesus em Jerusalém (12:12-19)
+* Jesus prediz que sua morte está próxima (12:20-27)
+* Uma voz do céu (12:28)
+* Falta de fé dos judeus cumpre profecia (12:29-43)
+* Jesus veio salvar o mundo (12:44-50)
+****
+
+[[v43-12-1]]
+
+^<<v43-12-1,1>>^ Seis dias antes da Páscoa, Jesus chegou a Betânia, onde estava Lázaro, a quem Jesus havia levantado dentre os mortos.
+
+[TIP]
+====
+- *Seis dias antes da Páscoa*: Jesus deve ter chegado por volta da hora do pôr do sol que marcou o começo do sábado, 8 de nisã. Depois que o sábado acabou (ou seja, no início de 9 de nisã), Jesus jantou na casa de Simão, o leproso, junto com Marta, Maria e Lázaro. — Jo 12:2-11; veja a nota de estudo em Mt 26:6 e os Apêndices A7-G e B12-A.
+- *Betânia*: Veja a nota de estudo em Mt 21:17.
+- *Lázaro*: Veja a nota de estudo em Lu 16:20.
+====
+
+[[v43-12-2]]
+
+^<<v43-12-2,2>>^ Ofereceram-lhe ali um jantar; Marta servia, e Lázaro era um dos que comiam^&#42;1^ com ele.
+
+[NOTE]
+====
+. Ou: “se recostavam à mesa”.
+====
+
+[TIP]
+====
+- *jantar*: Esta refeição foi realizada na casa de Simão, o leproso, depois do pôr do sol que marcou o começo do dia 9 de nisã. — Mt 26:6; Mr 14:3.
+====
+
+[[v43-12-3]]
+
+^<<v43-12-3,3>>^ Então, Maria pegou quase meio quilo de óleo perfumado, nardo genuíno, muito caro, derramou-o nos pés de Jesus e os enxugou com seu cabelo. A casa se encheu com a fragrância do óleo perfumado.
+
+[TIP]
+====
+- *Maria*: Ou seja, a irmã de Marta e de Lázaro. (Jo 11:1, 2) Nos relatos paralelos de Mt 26:7 e Mr 14:3, ela é chamada simplesmente de “uma mulher”.
+- *quase meio quilo*: Ou: “uma libra”. Em geral, acredita-se que a palavra grega usada aqui, lítra, se refira à libra romana (em latim, libra), que equivale a uns 327 gramas. — Veja o Apêndice B14-B.
+- *óleo perfumado . . . muito caro*: João especifica que Judas Iscariotes disse que o óleo poderia ser vendido por “300 denários”. (Jo 12:5) Um trabalhador comum teria que juntar o salário de um ano inteiro para conseguir esse valor. Acredita-se que esse óleo vinha de uma planta aromática (Nardostachys jatamansi) encontrada nas montanhas do Himalaia. Por ser muito caro, o nardo era muitas vezes adulterado e até mesmo falsificado, mas tanto Marcos como João dizem que esse óleo era nardo genuíno. — Mr 14:3; veja o Glossário, “Nardo”.
+- *derramou-o nos pés de Jesus*: Veja a nota de estudo em Mr 14:3.
+====
+
+[[v43-12-4]]
+
+^<<v43-12-4,4>>^ Mas Judas Iscariotes, um dos seus discípulos, que estava para traí-lo, disse:
+
+[TIP]
+====
+- *que estava para traí-lo*: Em grego, os dois verbos usados aqui (um traduzido como “estava para” e o outro traduzido como “traí-lo”) estão no tempo presente. A combinação desses verbos pode indicar que a traição de Judas não foi feita por impulso, mas foi planejada. A afirmação de João em Jo 6:64 apoia esse entendimento. — Veja a nota de estudo em Jo 6:64.
+====
+
+[[v43-12-5]]
+
+^<<v43-12-5,5>>^ “Por que esse óleo perfumado não foi vendido por 300 denários, e o dinheiro dado aos pobres?”
+
+[TIP]
+====
+- *300 denários*: Veja a nota de estudo em Mr 14:5.
+====
+
+[[v43-12-6]]
+
+^<<v43-12-6,6>>^ Na verdade, ele disse isso não porque estivesse preocupado com os pobres, mas porque era ladrão; ele cuidava da caixa de dinheiro e roubava o dinheiro que era colocado nela.
+
+[[v43-12-7]]
+
+^<<v43-12-7,7>>^ Então Jesus disse: “Deixem-na em paz, para que ela faça isso em vista do dia do meu sepultamento.
+
+[TIP]
+====
+- *faça isso em vista do . . . meu sepultamento*: Veja a nota de estudo em Mt 26:12.
+====
+
+[[v43-12-8]]
+
+^<<v43-12-8,8>>^ Porque vocês sempre têm consigo os pobres, mas nem sempre terão a mim.”
+
+[[v43-12-9]]
+
+^<<v43-12-9,9>>^ Nesse meio-tempo, uma grande multidão de judeus ficou sabendo que ele estava em Betânia, e eles foram para lá, não somente por causa de Jesus, mas também para ver Lázaro, a quem ele havia levantado dentre os mortos.
+
+[[v43-12-10]]
+
+^<<v43-12-10,10>>^ Os principais sacerdotes fizeram planos para matar Lázaro também,
+
+[[v43-12-11]]
+
+^<<v43-12-11,11>>^ visto que era por causa dele que muitos judeus iam para lá e depositavam fé em Jesus.
+
+[[v43-12-12]]
+
+^<<v43-12-12,12>>^ No dia seguinte, a grande multidão que tinha ido à festividade soube que Jesus estava chegando a Jerusalém.
+
+[TIP]
+====
+- *No dia seguinte*: Ou seja, na manhã do dia 9 de nisã de 33 d.C. O dia 9 de nisã tinha começado quando o sol se pôs no dia anterior. Naquela noite, Jesus tinha jantado na casa de Simão, o leproso. — Veja a nota de estudo em Jo 12:1 e o Apêndice B12-A.
+- *à festividade*: O contexto mostra que a festividade mencionada aqui era a Páscoa. (Jo 11:55; 12:1; 13:1) Na época de Jesus, a Páscoa, celebrada no dia 14 de nisã, e a Festividade dos Pães sem Fermento, celebrada de 15 a 21 de nisã (Le 23:5, 6; Núm 28:16, 17; veja o Apêndice B15), já estavam tão relacionadas que os oito dias (14 a 21 de nisã) eram considerados uma única festividade. (Lu 22:1) Em seus escritos, Josefo menciona “uma festa de oito dias, que é chamada de festa dos pães não fermentados”. — Veja o Apêndice B12-B.
+====
+
+[[v43-12-13]]
+
+^<<v43-12-13,13>>^ Então, pegaram folhas de palmeiras e saíram ao encontro dele, e começaram a gritar: “Salva, rogamos-te! Bendito é aquele que vem em nome de Jeová! Bendito é o Rei de Israel!”
+
+[TIP]
+====
+- *Salva, rogamos-te*: Veja a nota de estudo em Mt 21:9.
+- *Jeová*: Esta é uma citação do Sal 118:25, 26. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja os Apêndices A5 e C1.
+====
+
+[[v43-12-14]]
+
+^<<v43-12-14,14>>^ Jesus achou um jumentinho e montou nele, assim como está escrito:
+
+[TIP]
+====
+- *assim como está escrito*: A citação que aparece no próximo versículo é de Za 9:9.
+====
+
+[[v43-12-15]]
+
+^<<v43-12-15,15>>^ “Não tema, filha de Sião. Veja! Seu rei está vindo, montado num jumentinho.”
+
+[TIP]
+====
+- *filha de Sião*: Veja a nota de estudo em Mt 21:5.
+- *num jumentinho*: Os Evangelhos de Marcos (11:2), Lucas (19:35) e João falam apenas do jumentinho ao relatar esse acontecimento. Mateus (21:2-7) acrescenta o detalhe de que o jumentinho estava com a mãe. — Veja as notas de estudo em Mt 21:2, 5.
+====
+
+[[v43-12-16]]
+
+^<<v43-12-16,16>>^ De início, os discípulos não entenderam aquilo, mas, quando Jesus foi glorificado, eles se lembraram de que essas coisas estavam escritas a respeito dele e que tinham feito isso a ele.
+
+[[v43-12-17]]
+
+^<<v43-12-17,17>>^ As pessoas que estavam com ele quando chamou Lázaro para fora do túmulo e o levantou dentre os mortos davam testemunho.
+
+[TIP]
+====
+- *túmulo*: Ou: “túmulo memorial”. — Veja o Glossário, “Túmulo memorial”.
+====
+
+[[v43-12-18]]
+
+^<<v43-12-18,18>>^ Foi também por isso que a multidão foi ao encontro dele, porque ouviu que ele havia realizado esse sinal.
+
+[[v43-12-19]]
+
+^<<v43-12-19,19>>^ Portanto, os fariseus disseram entre si: “Vejam, não estamos conseguindo nada. Olhem como o mundo inteiro foi atrás dele!”
+
+[[v43-12-20]]
+
+^<<v43-12-20,20>>^ Havia alguns gregos entre os que tinham ido adorar na festividade.
+
+[TIP]
+====
+- *gregos*: No século 1 d.C., havia muitas comunidades de gregos em Israel. Mas aqui a palavra “gregos” pelo visto se refere especificamente aos gregos que eram prosélitos, ou seja, os gregos que tinham se convertido ao judaísmo. Em Jo 12:32, Jesus profetizou: “Atrairei a mim todo tipo de pessoas.”
+====
+
+[[v43-12-21]]
+
+^<<v43-12-21,21>>^ Eles se aproximaram de Filipe, que era de Betsaida da Galileia, e lhe pediram: “Senhor, queremos ver Jesus.”
+
+[[v43-12-22]]
+
+^<<v43-12-22,22>>^ Filipe foi dizer isso a André. Então André e Filipe falaram com Jesus.
+
+[[v43-12-23]]
+
+^<<v43-12-23,23>>^ Mas Jesus lhes respondeu: “Chegou a hora para o Filho do Homem ser glorificado.
+
+[[v43-12-24]]
+
+^<<v43-12-24,24>>^ Digo-lhes com toda a certeza: Se o grão de trigo não cai no solo e não morre, continua sendo apenas um grão; mas, se morre, ele dá muito fruto.
+
+[[v43-12-25]]
+
+^<<v43-12-25,25>>^ Quem ama a sua vida a perderá,^&#42;1^ mas quem odeia a sua vida neste mundo a preservará para a vida eterna.
+
+[NOTE]
+====
+. Lit.: “destrói”.
+====
+
+[TIP]
+====
+- *a sua vida*: Ou: “a sua alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v43-12-26]]
+
+^<<v43-12-26,26>>^ Se alguém quiser me servir, siga-me; e, onde eu estiver, ali estará também o meu servo. Se alguém quiser me servir, o Pai o honrará.
+
+[TIP]
+====
+- *servir*: Ou: “ministrar”. O verbo grego usado aqui é diakonéo. Ele está relacionado com o substantivo diákonos, traduzido neste versículo como servo. A Bíblia muitas vezes usa a palavra diákonos para se referir a alguém que presta serviço a outros de modo humilde e perseverante. — Veja a nota de estudo em Mt 20:26.
+====
+
+[[v43-12-27]]
+
+^<<v43-12-27,27>>^ Agora eu estou aflito, e o que direi? Pai, salva-me desta hora. Contudo, foi para isto que eu vim, para esta hora.
+
+[TIP]
+====
+- *eu estou aflito*: Ou: “minha alma está aflita”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, se refere aqui à pessoa como um todo. Assim, neste versículo, a expressão grega para “minha alma” também pode ser traduzida como “todo o meu ser” ou simplesmente como “eu”. — Veja o Glossário, “Alma”.
+====
+
+[[v43-12-28]]
+
+^<<v43-12-28,28>>^ Pai, glorifica o teu nome.” Então veio uma voz do céu: “Eu já o glorifiquei e o glorificarei de novo.”
+
+[TIP]
+====
+- *uma voz*: Os Evangelhos falam de três ocasiões em que Jeová falou diretamente com humanos; esta é a terceira delas. A primeira vez que Jeová fez isso foi no batismo de Jesus em 29 d.C. (Mt 3:16, 17; Mr 1:11; Lu 3:22) A segunda vez foi na ocasião da transfiguração em 32 d.C. (Mt 17:5; Mr 9:7; Lu 9:35) E a terceira, mencionada apenas aqui no Evangelho de João, aconteceu em 33 d.C., pouco antes da última Páscoa de Jesus. As palavras de Jeová foram uma resposta ao pedido de Jesus: “Pai, glorifica o teu nome.”
+====
+
+[[v43-12-29]]
+
+^<<v43-12-29,29>>^ A multidão que estava ali ouviu isso e começou a dizer que tinha trovejado. Outros disseram: “Um anjo falou com ele.”
+
+[[v43-12-30]]
+
+^<<v43-12-30,30>>^ Jesus respondeu: “Essa voz não veio por minha causa, mas por causa de vocês.
+
+[[v43-12-31]]
+
+^<<v43-12-31,31>>^ Agora este mundo está sendo julgado; agora será expulso o governante deste mundo.
+
+[TIP]
+====
+- *será expulso*: Jesus estava falando profeticamente do tempo em que Satanás será retirado de sua posição de governante deste mundo.
+- *o governante deste mundo*: Uma expressão parecida é usada em Jo 14:30 e 16:11 e se refere a Satanás, o Diabo. Aqui, a palavra grega traduzida como “mundo” (kósmos) se refere a todos os humanos que não servem a Deus e que agem de uma forma que não está de acordo com a vontade dele. Esse “mundo” não se origina de Deus. Em vez disso, ele “está no poder do Maligno”. (1Jo 5:19) Satanás e suas “forças espirituais malignas nos lugares celestiais” atuam de modo invisível como “governantes mundiais [uma forma da palavra grega kosmokrátor] desta escuridão”. — Ef 6:11, 12.
+====
+
+[[v43-12-32]]
+
+^<<v43-12-32,32>>^ Mas, quando eu for erguido da terra, atrairei a mim todo tipo de pessoas.”
+
+[TIP]
+====
+- *quando eu for erguido da terra*: Ao que tudo indica, Jesus estava se referindo à sua morte na estaca de tortura, como sugere o próximo versículo.
+- *todo tipo de pessoas*: Jesus estava dizendo que atrairia a si todo tipo de pessoas, sem levar em conta a nacionalidade, a raça ou a classe social delas. (At 10:34, 35; Ap 7:9, 10; veja a nota de estudo em Jo 6:44.) É interessante que, nesta ocasião, havia “alguns gregos” no templo que queriam ver Jesus. (Veja a nota de estudo em Jo 12:20.) Muitas Bíblias traduzem aqui a palavra grega pas (“todos; todas [as pessoas]”) de uma forma que dá a entender que cedo ou tarde todos os humanos serão atraídos a Jesus. Mas isso não está de acordo com o restante das Escrituras inspiradas. (Sal 145:20; Mt 7:13; Lu 2:34; 2Te 1:9) Apesar de o significado literal da palavra pas ser “todos” (Ro 5:12), os textos de Mt 5:11 e At 10:12 mostram claramente que ela também pode significar “todo tipo” ou “todos os tipos”. Nesses dois textos, muitas traduções da Bíblia traduzem pas como “todo tipo” ou “toda espécie”. — Jo 1:7; 1Ti 2:4.
+====
+
+[[v43-12-33]]
+
+^<<v43-12-33,33>>^ Na verdade, ele dizia isso para indicar o tipo de morte que estava para sofrer.
+
+[[v43-12-34]]
+
+^<<v43-12-34,34>>^ Então a multidão lhe respondeu: “Ouvimos da Lei que o Cristo permanece para sempre. Como é que você diz que o Filho do Homem tem de ser erguido? Quem é esse Filho do Homem?”
+
+[[v43-12-35]]
+
+^<<v43-12-35,35>>^ Jesus lhes disse, então: “A luz estará entre vocês por mais um pouco de tempo. Andem enquanto vocês ainda têm a luz, para que a escuridão não os vença; quem anda na escuridão não sabe para onde vai.
+
+[[v43-12-36]]
+
+^<<v43-12-36,36>>^ Enquanto vocês têm a luz, exerçam fé na luz, para que possam se tornar filhos da luz.”
+Depois de dizer essas coisas, Jesus foi embora e se escondeu deles.
+
+[[v43-12-37]]
+
+^<<v43-12-37,37>>^ Embora ele tivesse realizado tantos sinais na frente deles, não depositavam fé nele,
+
+[[v43-12-38]]
+
+^<<v43-12-38,38>>^ para que se cumprissem as palavras de Isaías, o profeta, que disse: “Jeová, quem depositou fé no que falamos?^&#42;1^ E a quem foi revelado o braço de Jeová?”
+
+[NOTE]
+====
+. Ou: “no nosso relato; na nossa mensagem”. Lit.: “na coisa ouvida de nós”.
+====
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Is 53:1. No texto hebraico original desse versículo de Isaías, o nome de Deus aparece apenas uma vez, na expressão “o braço de Jeová”. Mas João, pelo visto, citou a profecia de Isaías conforme ela aparecia na Septuaginta. Nas cópias da Septuaginta disponíveis hoje, o texto grego usa a palavra Kýrios (Senhor) duas vezes. Na primeira ocorrência, ela está no vocativo, uma forma usada para chamar uma pessoa ou dirigir a palavra a ela. (Veja Ro 10:16, que também cita Is 53:1.) É possível que os tradutores da Septuaginta tivessem originalmente inserido o Tetragrama nesta primeira ocorrência para deixar claro que o profeta Isaías estava se dirigindo a Deus e que, depois, outras pessoas tenham substituído o nome de Deus por Kýrios. Isso estaria de acordo com o fato mencionado no Apêndice C3 de que nas cópias mais recentes da Septuaginta a palavra Kýrios muitas vezes foi usada para substituir o Tetragrama quando ele aparecia no texto hebraico original (assim como acontece na segunda ocorrência de Kýrios nesta citação de Isaías). Por isso, o nome de Deus foi usado duas vezes aqui neste versículo. Algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J12, 14, 16-18, 22, 23 no Apêndice C4) usam o nome de Deus nesta primeira ocorrência de Kýrios em Jo 12:38.
+- *braço de Jeová*: Esta é uma citação de Is 53:1. No texto hebraico original desse versículo de Isaías, as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH) aparecem apenas uma vez. (Veja a nota de estudo em Jeová neste versículo e os Apêndices A5 e C1.) Na Bíblia, a palavra braço (tanto em hebraico como em grego) muitas vezes é usada para representar a capacidade de exercer força ou poder. Por meio dos sinais e milagres que Jesus realizou, Jeová revelou seu “braço”, ou seja, sua capacidade de exercer poder.
+====
+
+[[v43-12-39]]
+
+^<<v43-12-39,39>>^ Isaías também disse a razão pela qual eles não podiam acreditar:
+
+[[v43-12-40]]
+
+^<<v43-12-40,40>>^ “Ele lhes cegou os olhos e lhes endureceu o coração, para que não vissem com os olhos, nem entendessem com o coração, e dessem meia-volta, e eu os curasse.”
+
+[[v43-12-41]]
+
+^<<v43-12-41,41>>^ Isaías disse isso porque viu a glória dele e falou sobre ele.
+
+[TIP]
+====
+- *Isaías . . . viu a glória dele*: Na visão que Isaías teve de Jeová sentado num trono enaltecido e elevado, Jeová perguntou a Isaías: “A quem enviarei e quem irá por nós?” (Is 6:1, 8-10) O fato de o pronome “nós” ter sido usado indica que havia pelo menos mais uma pessoa junto com Deus na visão. Assim, parece razoável concluir que, quando João disse que Isaías “viu a glória dele”, João estava falando da glória que Jesus tinha enquanto estava ao lado de Jeová antes de vir à Terra. (Jo 1:14) Isso está de acordo com passagens da Bíblia como Gên 1:26, onde Deus disse: “Façamos o homem à nossa imagem.” (Veja também Pr 8:30, 31; Jo 1:1-3; Col 1:15, 16.) João acrescenta que Isaías falou sobre ele, ou seja, sobre o Cristo, porque grande parte do que Isaías escreveu tinha a ver com o prometido Messias.
+====
+
+[[v43-12-42]]
+
+^<<v43-12-42,42>>^ De qualquer modo, até mesmo muitos líderes dos judeus realmente depositavam fé nele, mas, por causa dos fariseus, não declaravam isso publicamente, para não serem expulsos da sinagoga,
+
+[TIP]
+====
+- *líderes dos judeus*: A palavra grega que aparece aqui pelo visto se refere aos membros do Sinédrio, o supremo tribunal judaico. A mesma palavra é usada em Jo 3:1 para se referir a Nicodemos, que era membro do Sinédrio. — Veja a nota de estudo em Jo 3:1.
+- *expulsos da sinagoga*: Veja a nota de estudo em Jo 9:22.
+====
+
+[[v43-12-43]]
+
+^<<v43-12-43,43>>^ pois amavam mais a glória dos homens do que a glória de Deus.^&#42;1^
+
+[NOTE]
+====
+. Ou: “amavam mais os elogios (a aprovação) de humanos do que os elogios (a aprovação) de Deus”.
+====
+
+[[v43-12-44]]
+
+^<<v43-12-44,44>>^ No entanto, Jesus disse bem alto: “Quem deposita fé em mim deposita fé não somente em mim, mas também naquele que me enviou;
+
+[[v43-12-45]]
+
+^<<v43-12-45,45>>^ e quem me vê, vê também Aquele que me enviou.
+
+[[v43-12-46]]
+
+^<<v43-12-46,46>>^ Eu vim como luz ao mundo, para que todo aquele que deposita fé em mim não permaneça na escuridão.
+
+[[v43-12-47]]
+
+^<<v43-12-47,47>>^ Mas, se alguém ouve as minhas declarações e não as cumpre, eu não o julgo; pois não vim julgar o mundo, mas salvar o mundo.
+
+[TIP]
+====
+- *julgo*: Ou: “condeno”. — Veja a nota de estudo em Jo 3:17.
+====
+
+[[v43-12-48]]
+
+^<<v43-12-48,48>>^ Quem me desconsidera e não aceita as minhas declarações tem quem o julgue. As palavras que eu falei é que o julgarão no último dia.
+
+[[v43-12-49]]
+
+^<<v43-12-49,49>>^ Pois não falei de minha própria iniciativa, mas o Pai, que me enviou, ele mesmo me deu um mandamento sobre o que dizer e o que falar.
+
+[[v43-12-50]]
+
+^<<v43-12-50,50>>^ E eu sei que o seu mandamento significa^&#42;1^ vida eterna. Portanto, tudo o que eu falo, falo assim como o Pai me disse.”
+
+[NOTE]
+====
+. Ou: “é”.
+====
+
+'''
+
+xref:043-joao/043-joao-011.adoc#v43-11-0[&#60; Capítulo Anterior] | <<v43-12-0,Topo>> | xref:043-joao/043-joao-013.adoc#v43-13-0[Próximo Capítulo &#62;]

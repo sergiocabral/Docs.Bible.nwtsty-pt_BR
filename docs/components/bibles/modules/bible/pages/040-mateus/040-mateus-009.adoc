@@ -1,0 +1,303 @@
+include::./index.adoc[]
+
+[[v40-9-0]]
+=== As Boas Novas Segundo Mateus, 9
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Jesus faz vários milagres na Galileia (8:1–9:34)
+* Jesus cura um leproso (8:1-4)
+* Oficial do exército mostra muita fé (8:5-13)
+* Jesus cura muitas pessoas em Cafarnaum (8:14-17)
+* Requisitos para seguir a Jesus (8:18-22)
+* Jesus acalma tempestade no mar da Galileia (8:23-27)
+* Jesus manda demônios para os porcos (8:28-34)
+* Jesus cura um paralítico (9:1-8)
+* Jesus chama Mateus (9:9-13)
+* Pergunta sobre o jejum (9:14-17)
+* Jesus ressuscita filha de Jairo; mulher toca na roupa de Jesus (9:18-26)
+* Jesus cura cegos e um mudo (9:27-34)
+* F. Jesus diz que obra de pregação será grande e treina seus discípulos (9:35–11:1)
+* Colheita é grande, mas trabalhadores são poucos (9:35-38)
+* Os 12 apóstolos (10:1-4)
+* Instruções para a pregação (10:5-15)
+* Discípulos serão perseguidos (10:16-25)
+* Temam a Deus, não a homens (10:26-31)
+* Jesus não veio trazer a paz, mas a espada (10:32-39)
+* Quem receber bem os discípulos será recompensado (10:40-42)
+* Jesus parte para ensinar e pregar (11:1)
+****
+
+[[v40-9-1]]
+
+^<<v40-9-1,1>>^ Assim, ele subiu no barco, atravessou para a outra margem e entrou na sua própria cidade.
+
+[TIP]
+====
+- *sua própria cidade*: Ou seja, Cafarnaum, a cidade em que Jesus morava entre uma viagem e outra. (Mt 4:13; Mr 2:1) Cafarnaum era relativamente perto de Nazaré, onde Jesus cresceu; de Caná, onde ele transformou água em vinho; de Naim, onde ele ressuscitou o filho de uma viúva; e da região de Betsaida, onde ele fez o milagre de alimentar uns 5.000 homens e curou um homem cego.
+====
+
+[[v40-9-2]]
+
+^<<v40-9-2,2>>^ E logo lhe trouxeram um homem paralítico, deitado numa maca. Ao ver a fé que tinham, Jesus disse ao paralítico: “Coragem, filho! Seus pecados estão perdoados.”
+
+[TIP]
+====
+- *ver a fé que tinham*: O verbo “tinham” está no plural. Isso indica que Jesus notou que todos naquele grupo tinham fé, não apenas o paralítico.
+- *filho*: Palavra carinhosa que Jesus usou para se dirigir ao homem paralítico. — 2Ti 1:2; Tit 1:4; Flm 10.
+====
+
+[[v40-9-3]]
+
+^<<v40-9-3,3>>^ Diante disso, alguns escribas disseram para si mesmos: “Este homem blasfema.”
+
+[[v40-9-4]]
+
+^<<v40-9-4,4>>^ Jesus, conhecendo os pensamentos deles, disse: “Por que vocês pensam coisas más no coração?
+
+[[v40-9-5]]
+
+^<<v40-9-5,5>>^ Por exemplo, o que é mais fácil dizer: ‘Seus pecados estão perdoados’, ou: ‘Levante-se e ande’?
+
+[TIP]
+====
+- *o que é mais fácil*: Seria mais fácil alguém dizer “seus pecados estão perdoados” porque a pessoa não precisaria dar uma prova visível de que podia mesmo perdoar pecados. Mas dizer “levante-se e ande” seria mais difícil porque exigiria que a pessoa fizesse um milagre. Quando Jesus fez esse milagre, ele mostrou claramente que tinha autoridade para perdoar pecados. Este relato e a profecia de Is 33:24 mostram que existe uma ligação entre as doenças e o pecado que herdamos de Adão.
+====
+
+[[v40-9-6]]
+
+^<<v40-9-6,6>>^ No entanto, a fim de que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados . . .”, ele disse então ao paralítico: “Levante-se, apanhe a sua maca e vá para casa.”
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *para perdoar pecados . . .*: As reticências indicam que Jesus parou de falar no meio da frase e concluiu seu raciocínio de maneira poderosa por curar o homem na frente de todos.
+====
+
+[[v40-9-7]]
+
+^<<v40-9-7,7>>^ E ele se levantou e foi para casa.
+
+[[v40-9-8]]
+
+^<<v40-9-8,8>>^ Ao verem isso, as multidões ficaram com medo e glorificaram a Deus, que tinha dado tal autoridade a homens.
+
+[[v40-9-9]]
+
+^<<v40-9-9,9>>^ Depois, indo adiante, Jesus viu um homem chamado Mateus sentado na coletoria, e lhe disse: “Seja meu seguidor.” Então ele se levantou e o seguiu.
+
+[TIP]
+====
+- *Mateus*: Veja as notas de estudo em Mt Título e 10:3.
+- *coletoria*: Ou: “posto de coleta de impostos”. Talvez fosse uma pequena construção ou uma tenda onde o cobrador de impostos ficava. Ele recolhia os impostos sobre produtos importados, exportados ou transportados pelo país. A coletoria de Mateus ficava em Cafarnaum ou perto dali.
+- *Seja meu seguidor*: Veja a nota de estudo em Mr 2:​14.
+====
+
+[[v40-9-10]]
+
+^<<v40-9-10,10>>^ Mais tarde, enquanto estava comendo^&#42;1^ na casa, chegaram muitos cobradores de impostos e pecadores, e começaram a comer^&#42;2^ com Jesus e seus discípulos.
+
+[NOTE]
+====
+. Ou: “recostado à mesa”.
+. Ou: “se recostar à mesa”.
+====
+
+[TIP]
+====
+- *comendo*: Veja a nota de estudo em Mr 2:​15.
+- *na casa*: Refere-se à casa de Mateus. — Mr 2:14, 15; Lu 5:29.
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:46.
+- *pecadores*: A Bíblia diz que todos os humanos são pecadores. (Ro 3:​23; 5:​12) Por isso, a palavra “pecadores” é usada aqui em um sentido mais específico. Parece se referir a pessoas conhecidas por praticarem o pecado, talvez por cometerem crimes ou por terem uma vida imoral. (Lu 7:​37-​39; 19:​7, 8) A palavra também era usada pelos judeus para se referir aos que não eram de sua religião. Além disso, os fariseus chamavam de “pecadores” os judeus que não seguiam as tradições criadas pelos rabinos. — Jo 9:16, 24, 25.
+====
+
+[[v40-9-11]]
+
+^<<v40-9-11,11>>^ Mas, ao verem isso, os fariseus perguntaram aos discípulos dele: “Por que o seu instrutor come com cobradores de impostos e pecadores?”
+
+[[v40-9-12]]
+
+^<<v40-9-12,12>>^ Ele os ouviu e disse: “As pessoas saudáveis não precisam de médico, mas sim os doentes.
+
+[[v40-9-13]]
+
+^<<v40-9-13,13>>^ Portanto, vão e aprendam o que significa: ‘Quero misericórdia, e não sacrifício.’ Pois eu não vim chamar os justos, mas os pecadores.”
+
+[TIP]
+====
+- *misericórdia, e não sacrifício*: Jesus citou duas vezes (aqui e em Mt 12:7) essas palavras de Os 6:6. Entre os escritores dos Evangelhos, Mateus (um cobrador de impostos desprezado pelo povo que se tornou um amigo próximo de Jesus) é o único que registra essas citações e a ilustração do escravo que não perdoou. (Mt 18:21-35) O Evangelho de Mateus mostra que Jesus enfatizou repetidas vezes que Deus não quer apenas sacrifícios, mas também misericórdia.
+====
+
+[[v40-9-14]]
+
+^<<v40-9-14,14>>^ Então, os discípulos de João se aproximaram dele e lhe perguntaram: “Por que nós e os fariseus praticamos o jejum, mas os seus discípulos não jejuam?”
+
+[TIP]
+====
+- *praticamos o jejum*: Veja a nota de estudo em Mt 6:16.
+====
+
+[[v40-9-15]]
+
+^<<v40-9-15,15>>^ Jesus lhes disse: “Será que os amigos do noivo têm motivo para ficar de luto enquanto o noivo está com eles? Mas virão dias em que o noivo será tirado deles, e então jejuarão.
+
+[TIP]
+====
+- *amigos do noivo*: Lit.: “filhos da câmara nupcial”, uma expressão idiomática que se refere aos convidados de um casamento, principalmente os amigos do noivo.
+====
+
+[[v40-9-16]]
+
+^<<v40-9-16,16>>^ Ninguém costura um remendo de pano novo numa roupa velha, pois o remendo de pano novo repuxará a roupa, e o rasgão ficará pior.
+
+[[v40-9-17]]
+
+^<<v40-9-17,17>>^ Também não se põe vinho novo em odres velhos. Caso se faça isso, os odres arrebentarão, o vinho se derramará e os odres ficarão arruinados. Mas põe-se vinho novo em odres novos, e ambos são preservados.”
+
+[TIP]
+====
+- *vinho . . . em odres*: Nos tempos bíblicos, era comum as pessoas guardarem vinho em odres. (1Sa 16:20) Os odres eram recipientes feitos com a pele inteira de animais domésticos como ovelhas e cabras. Quando um odre ficava velho, ele endurecia e perdia a elasticidade. Por outro lado, um odre novo podia esticar e aguentar a pressão causada pela fermentação do vinho novo. — Veja o Glossário, “Odre”.
+====
+
+[[v40-9-18]]
+
+^<<v40-9-18,18>>^ Enquanto lhes dizia isso, certo líder, que havia se aproximado, curvou-se diante dele, dizendo: “Minha filha já deve estar morta, mas venha e ponha a sua mão sobre ela, e ela voltará a viver.”
+
+[TIP]
+====
+- *certo líder*: O nome desse “líder” (em grego, árkhon) aparece nos relatos paralelos de Marcos e de Lucas. Ali, ele é chamado de Jairo e identificado como presidente da sinagoga. — Mr 5:22; Lu 8:41.
+- *curvou-se diante dele*: Ou: “prestou-lhe homenagem; honrou-o”. — Veja a nota de estudo em Mt 8:2.
+====
+
+[[v40-9-19]]
+
+^<<v40-9-19,19>>^ Então Jesus se levantou e, com seus discípulos, o seguiu.
+
+[[v40-9-20]]
+
+^<<v40-9-20,20>>^ Nisto, uma mulher, que por 12 anos sofria de um fluxo de sangue, se aproximou dele por trás e tocou na borda^&#42;1^ da sua roupa,
+
+[NOTE]
+====
+. Ou: “extremidade; franja; borla”.
+====
+
+[TIP]
+====
+- *fluxo de sangue*: Provavelmente uma menstruação contínua. De acordo com a Lei mosaica, esse fluxo de sangue tornava a mulher impura e, por causa disso, ela não devia tocar em ninguém. — Le 15:19-27.
+====
+
+[[v40-9-21]]
+
+^<<v40-9-21,21>>^ pois dizia a si mesma: “Se eu apenas tocar na sua roupa, ficarei boa.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “serei salva”.
+====
+
+[[v40-9-22]]
+
+^<<v40-9-22,22>>^ Jesus se virou e, ao vê-la, disse: “Coragem, filha! A sua fé fez você ficar boa.”^&#42;1^ E, a partir daquele momento, a mulher ficou curada.
+
+[NOTE]
+====
+. Ou: “salvou você”.
+====
+
+[TIP]
+====
+- *filha*: Essa é a única ocasião registrada na Bíblia em que Jesus se dirigiu a uma mulher chamando-a de “filha”. Ele talvez tenha feito isso porque a situação era constrangedora e a mulher estava “trêmula”. (Lu 8:47) Essa palavra carinhosa mostra que Jesus se preocupava com a mulher, e não necessariamente quer dizer que ela era jovem.
+====
+
+[[v40-9-23]]
+
+^<<v40-9-23,23>>^ Quando chegou à casa do líder da sinagoga e viu os flautistas e a multidão em alvoroço,
+
+[[v40-9-24]]
+
+^<<v40-9-24,24>>^ Jesus disse: “Retirem-se daqui, pois a menina não morreu; ela está dormindo.” Em vista disso, começaram a rir dele com desprezo.
+
+[TIP]
+====
+- *não morreu; ela está dormindo*: Veja a nota de estudo em Mr 5:39.
+====
+
+[[v40-9-25]]
+
+^<<v40-9-25,25>>^ Assim que a multidão foi mandada para fora, ele entrou e pegou na mão da menina, e ela se levantou.
+
+[[v40-9-26]]
+
+^<<v40-9-26,26>>^ Naturalmente, a notícia sobre isso se espalhou por toda aquela região.
+
+[[v40-9-27]]
+
+^<<v40-9-27,27>>^ Enquanto Jesus ia adiante, dois cegos o seguiam, gritando: “Tenha misericórdia de nós, Filho de Davi.”
+
+[TIP]
+====
+- *Filho de Davi*: Por usarem essa expressão, os cegos mostraram que tinham fé que Jesus era o Messias, o herdeiro do trono de Davi. — Veja as notas de estudo em Mt 1:1, 6.
+====
+
+[[v40-9-28]]
+
+^<<v40-9-28,28>>^ Depois de ele entrar na casa, os cegos se dirigiram a ele, e Jesus lhes perguntou: “Vocês têm fé em que eu posso fazer isso?” Responderam-lhe: “Sim, Senhor.”
+
+[[v40-9-29]]
+
+^<<v40-9-29,29>>^ Então tocou nos olhos deles, dizendo: “Que lhes aconteça segundo a sua fé.”
+
+[[v40-9-30]]
+
+^<<v40-9-30,30>>^ E os olhos deles receberam visão. Além disso, Jesus os advertiu com firmeza, dizendo: “Tomem cuidado para que ninguém saiba disso.”
+
+[[v40-9-31]]
+
+^<<v40-9-31,31>>^ Mas, depois de saírem, eles espalharam as notícias sobre ele em toda aquela região.
+
+[[v40-9-32]]
+
+^<<v40-9-32,32>>^ Quando estavam indo embora, apareceram algumas pessoas trazendo a ele um homem mudo, possesso de um demônio;
+
+[[v40-9-33]]
+
+^<<v40-9-33,33>>^ e, depois que o demônio foi expulso, o mudo falou. As multidões ficaram admiradas e disseram: “Nunca se viu nada igual em Israel.”
+
+[[v40-9-34]]
+
+^<<v40-9-34,34>>^ Mas os fariseus diziam: “É pelo governante dos demônios que ele expulsa os demônios.”
+
+[[v40-9-35]]
+
+^<<v40-9-35,35>>^ E Jesus começou uma viagem por todas as cidades e aldeias, ensinando nas sinagogas deles, pregando as boas novas do Reino e curando todo tipo de doenças e todo tipo de enfermidades.
+
+[TIP]
+====
+- *ensinando . . . pregando*: Veja a nota de estudo em Mt 4:23.
+- *as boas novas*: Veja a nota de estudo em Mt 4:23.
+====
+
+[[v40-9-36]]
+
+^<<v40-9-36,36>>^ Vendo as multidões, sentia pena delas, porque eram esfoladas e jogadas de um lado para outro como ovelhas sem pastor.
+
+[TIP]
+====
+- *sentia pena*: O verbo grego splagkhnízomai, usado nessa expressão, está relacionado com a palavra splágkhna, que significa “intestinos”. Por isso, esse verbo indica um sentimento bem profundo, uma emoção intensa. É uma das palavras mais fortes do idioma grego para o sentimento de compaixão.
+- *esfoladas*: A palavra grega usada aqui significa originalmente “que tiveram a pele tirada”. Passa a ideia de ovelhas com cortes na pele causados por animais selvagens ou por andarem perdidas entre espinheiros ou rochas afiadas. Com o tempo, essa palavra passou a ser usada em sentido figurado, significando “maltratadas, afligidas, feridas”.
+- *jogadas de um lado para outro*: A imagem criada aqui é de ovelhas abandonadas, indefesas e exaustas. Representa as multidões que se sentiam infelizes, abandonadas e oprimidas.
+====
+
+[[v40-9-37]]
+
+^<<v40-9-37,37>>^ Ele disse então aos seus discípulos: “A colheita, realmente, é grande, mas os trabalhadores são poucos.
+
+[[v40-9-38]]
+
+^<<v40-9-38,38>>^ Por isso, peçam ao Senhor da colheita que mande trabalhadores para a Sua colheita.”
+
+'''
+
+xref:040-mateus/040-mateus-008.adoc#v40-8-0[&#60; Capítulo Anterior] | <<v40-9-0,Topo>> | xref:040-mateus/040-mateus-010.adoc#v40-10-0[Próximo Capítulo &#62;]

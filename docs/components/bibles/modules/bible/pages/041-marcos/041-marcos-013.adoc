@@ -1,0 +1,323 @@
+include::./index.adoc[]
+
+[[v41-13-0]]
+=== As Boas Novas Segundo Marcos, 13
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Últimos dias da pregação de Jesus em Jerusalém (11:1–14:16)
+* Entrada triunfal de Jesus em Jerusalém (11:1-11)
+* Jesus amaldiçoa uma figueira no caminho para Jerusalém (11:12-14)
+* Jesus purifica o templo (11:15-18)
+* Lição da figueira que secou (11:19-25)
+* Autoridade de Jesus é questionada (11:27-33)
+* Ilustração dos lavradores maus (12:1-12)
+* Deus e César (12:13-17)
+* Pergunta sobre a ressurreição (12:18-27)
+* Dois maiores mandamentos (12:28-34)
+* O Cristo é filho de Davi? (12:35-37a)
+* Alerta contra os escribas (12:37b-40)
+* Duas moedas da viúva pobre (12:41-44)
+* Pergunta sobre “o sinal de que todas essas coisas” vão “chegar a um final” (13:1-4)
+* Acontecimentos que fazem parte do sinal; tribulação sem precedentes (13:5-20)
+* Perigo de ser desencaminhado por falsos Cristos (13:21-23)
+* Vinda do Filho do Homem (13:24-27)
+* Ilustração da figueira (13:28, 29)
+* Esta geração não passará (13:30, 31)
+* Ninguém sabe o dia e a hora, nem os anjos (13:32)
+* Mantenham-se vigilantes (13:33-37)
+* Sacerdotes tramam matar Jesus (14:1, 2)
+* Mulher derrama óleo perfumado em Jesus (14:3-9)
+* Judas planeja traição de Jesus (14:10, 11)
+* Preparativos para a última Páscoa (14:12-16)
+****
+
+[[v41-13-1]]
+
+^<<v41-13-1,1>>^ Quando ele estava saindo do templo, um dos seus discípulos lhe disse: “Instrutor, veja que pedras e que edifícios maravilhosos!”
+
+[[v41-13-2]]
+
+^<<v41-13-2,2>>^ No entanto, Jesus lhe disse: “Está vendo estes grandes edifícios? De modo algum ficará aqui pedra sobre pedra sem ser derrubada.”
+
+[TIP]
+====
+- *De modo algum ficará aqui pedra sobre pedra*: Veja a nota de estudo em Mt 24:2.
+====
+
+[[v41-13-3]]
+
+^<<v41-13-3,3>>^ Quando ele estava sentado no monte das Oliveiras, com o templo à vista, Pedro, Tiago, João e André lhe perguntaram em particular:
+
+[TIP]
+====
+- *com o templo à vista*: Ou: “de frente para o templo”. Marcos explica que do monte das Oliveiras era possível ver o templo, uma informação que para a maioria dos judeus seria desnecessária. — Veja a “Introdução a Marcos”.
+====
+
+[[v41-13-4]]
+
+^<<v41-13-4,4>>^ “Diga-nos: Quando acontecerão essas coisas e qual será o sinal de que todas essas coisas estão prestes a chegar a um final?”
+
+[TIP]
+====
+- *chegar a um final*: Essa expressão traduz o verbo grego synteléo. O substantivo grego relacionado, syntéleia, significa “fim conjunto; fim combinado; término simultâneo” e é usado no relato paralelo de Mt 24:3. (A palavra grega syntéleia também aparece em Mt 13:39, 40, 49; 28:20 e He 9:​26.) Esse “final” se refere a um período de tempo em que uma combinação de acontecimentos levaria ao “fim” completo (em grego, télos) mencionado em Mr 13:​7, 13. — Veja as notas de estudo em Mr 13:​7, 13 e o Glossário, “Final do sistema de coisas”.
+====
+
+[[v41-13-5]]
+
+^<<v41-13-5,5>>^ Assim, Jesus começou a lhes dizer: “Cuidado para que ninguém os engane.
+
+[[v41-13-6]]
+
+^<<v41-13-6,6>>^ Muitos virão em meu nome, dizendo: ‘Sou eu’, e enganarão a muitos.
+
+[TIP]
+====
+- *Sou eu*: Ou seja, sou o Cristo, ou Messias. — Compare com o relato paralelo em Mt 24:5.
+====
+
+[[v41-13-7]]
+
+^<<v41-13-7,7>>^ Além disso, quando ouvirem falar de guerras e notícias de guerras, não fiquem apavorados. Essas coisas têm de acontecer, mas ainda não é o fim.
+
+[TIP]
+====
+- *fim*: Ou: “fim completo”. A palavra grega usada aqui (télos) é diferente do substantivo grego syntéleia, traduzido como “final” em Mt 24:3, e do verbo grego synteléo, traduzido como “chegar a um final” em Mr 13:4. — Veja as notas de estudo em Mt 24:3; Mr 13:4 e o Glossário, “Final do sistema de coisas”.
+====
+
+[[v41-13-8]]
+
+^<<v41-13-8,8>>^ “Porque nação se levantará contra nação e reino contra reino; haverá terremotos num lugar após outro; também haverá falta de alimentos. Essas coisas são um começo das dores de aflição.
+
+[TIP]
+====
+- *nação*: A palavra grega usada aqui, éthnos, é bem abrangente. Ela pode se referir a pessoas que vivem numa região com limites políticos ou geográficos definidos, como um país, mas também pode se referir a um grupo étnico. — Veja a nota de estudo em Mr 13:10.
+- *se levantará*: Veja a nota de estudo em Mt 24:7.
+- *dores de aflição*: A palavra grega usada aqui se refere literalmente às fortes dores que a mulher sente quando está em trabalho de parto. Neste versículo, ela é usada de modo mais abrangente para se referir a sofrimento, dor e aflição em sentido geral. Mas o uso dessa palavra aqui talvez indique que, assim como acontece com as dores do parto, os problemas e o sofrimento vão aumentar em frequência, intensidade e duração antes dos “dias de tribulação” mencionados em Mr 13:19.
+====
+
+[[v41-13-9]]
+
+^<<v41-13-9,9>>^ “Quanto a vocês, tomem cuidado. As pessoas os entregarão aos tribunais locais, e vocês serão espancados nas sinagogas, e serão postos diante de governadores e reis, por minha causa, para darem testemunho a eles.
+
+[TIP]
+====
+- *tribunais locais*: No idioma original, este versículo usa o plural da palavra synédrion. Nas Escrituras Gregas Cristãs, essa palavra geralmente se refere ao Sinédrio, o supremo tribunal judaico em Jerusalém. (Veja o Glossário, “Sinédrio”, e as notas de estudo em Mt 5:​22; 26:59.) Mas synédrion também era uma palavra genérica para uma assembleia ou reunião. Aqui ela se refere aos tribunais locais que funcionavam nas sinagogas. Esses tribunais tinham a autoridade de aplicar punições como açoitamento e excomunhão (expulsar alguém de uma comunidade religiosa). — Mt 10:17; 23:34; Lu 21:12; Jo 9:​22; 12:42; 16:2.
+====
+
+[[v41-13-10]]
+
+^<<v41-13-10,10>>^ Também, em todas as nações, as boas novas têm de ser pregadas primeiro.
+
+[TIP]
+====
+- *todas as nações*: Essa expressão, que mostra o alcance que a obra de pregação teria, deixou claro para os discípulos que eles pregariam a outros além dos judeus. Em sentido geral, a palavra grega para “nação” (éthnos) se refere a um grupo de pessoas que têm algum parentesco de sangue e que falam o mesmo idioma. As pessoas que formam uma nação ou grupo étnico geralmente moram em um território geográfico definido.
+- *as boas novas*: Veja a nota de estudo em Mt 24:14.
+====
+
+[[v41-13-11]]
+
+^<<v41-13-11,11>>^ E, quando levarem vocês para entregá-los, não fiquem preocupados^&#42;1^ com o que dizer, mas digam o que lhes for dado naquela hora. Pois quem fala não são vocês, mas é o espírito santo.
+
+[NOTE]
+====
+. Ou: “ansiosos antecipadamente”.
+====
+
+[TIP]
+====
+- *levarem vocês*: O verbo grego ágo é usado aqui como termo jurídico com o sentido de “prender; deter” e pode indicar o uso de força.
+====
+
+[[v41-13-12]]
+
+^<<v41-13-12,12>>^ Além disso, irmão entregará irmão à morte, e o pai ao filho, e os filhos se levantarão contra os pais e farão com que sejam mortos.
+
+[[v41-13-13]]
+
+^<<v41-13-13,13>>^ E vocês serão odiados por todos, por causa do meu nome. Mas quem perseverar até o fim será salvo.
+
+[TIP]
+====
+- *perseverar*: Ou: “persevera”. O verbo grego traduzido como “perseverar” (hypoméno) significa literalmente “permanecer (ficar) embaixo”. Ele muitas vezes é usado no sentido de “ficar em vez de fugir; manter-se firme; resistir; continuar decidido”. (Mt 10:22; Ro 12:12; He 10:32; Tg 5:11) Neste contexto, “perseverar” significa continuar agindo como discípulo de Cristo apesar de oposição ou dificuldades. — Mr 13:11-​13.
+- *fim*: Ou: “fim completo; fim definitivo”. — Veja a nota de estudo em Mr 13:7.
+====
+
+[[v41-13-14]]
+
+^<<v41-13-14,14>>^ “No entanto, quando vocês virem a coisa repugnante que causa desolação estar^&#42;1^ num lugar onde não devia (que o leitor use de discernimento), então, os que estiverem na Judeia fujam para os montes.
+
+[NOTE]
+====
+. Ou: “estar de pé”.
+====
+
+[TIP]
+====
+- *Judeia*: Veja a nota de estudo em Mt 24:16.
+- *para os montes*: Veja a nota de estudo em Mt 24:16.
+====
+
+[[v41-13-15]]
+
+^<<v41-13-15,15>>^ O homem que estiver no terraço não desça, nem entre para tirar algo da sua casa,
+
+[TIP]
+====
+- *no terraço*: Veja a nota de estudo em Mt 24:17.
+====
+
+[[v41-13-16]]
+
+^<<v41-13-16,16>>^ e o homem que estiver no campo não volte ao que deixou atrás, para apanhar sua capa.
+
+[[v41-13-17]]
+
+^<<v41-13-17,17>>^ Ai das mulheres grávidas e das que amamentarem naqueles dias!
+
+[[v41-13-18]]
+
+^<<v41-13-18,18>>^ Persistam em orar para que isso não ocorra no inverno;
+
+[TIP]
+====
+- *no inverno*: Veja a nota de estudo em Mt 24:20.
+====
+
+[[v41-13-19]]
+
+^<<v41-13-19,19>>^ pois aqueles dias serão dias de tribulação, como nunca ocorreu desde o princípio da criação, que Deus criou, até agora,^&#42;1^ nem ocorrerá de novo.
+
+[NOTE]
+====
+. Ou: “até aquele tempo”.
+====
+
+[[v41-13-20]]
+
+^<<v41-13-20,20>>^ De fato, se Jeová não tivesse abreviado os dias, ninguém seria salvo. Mas, por causa dos escolhidos, que ele escolheu, ele abreviou os dias.
+
+[TIP]
+====
+- *se Jeová não tivesse abreviado os dias*: Jesus estava explicando a seus discípulos o que seu Pai faria durante a grande tribulação. Essa profecia de Jesus é parecida com profecias das Escrituras Hebraicas em que o nome de Deus aparece. (Is 1:9; 65:8; Je 46:28 [26:28, Septuaginta]; Am 9:8) A maioria dos manuscritos gregos usa aqui a palavra Kýrios (Senhor), mas há bons motivos para acreditar que o nome de Deus aparecia no texto original e foi mais tarde substituído pelo título “Senhor”. Assim, o nome “Jeová” é usado aqui no texto principal. — Veja o Apêndice C1 e o Apêndice C3 (introdução e Mr 13:20).
+====
+
+[[v41-13-21]]
+
+^<<v41-13-21,21>>^ “Então, também, se alguém lhes disser: ‘Vejam! Aqui está o Cristo!’ ou ‘Vejam! Ali está ele!’, não acreditem.
+
+[[v41-13-22]]
+
+^<<v41-13-22,22>>^ Porque surgirão falsos cristos e falsos profetas, e farão sinais e milagres a fim de desencaminhar, se possível, os escolhidos.
+
+[TIP]
+====
+- *falsos cristos*: Ou: “falsos messias”. A palavra grega pseudókhristos só aparece aqui e no relato paralelo em Mt 24:24. Ela se refere a qualquer pessoa que diz ser o Cristo, ou o Messias (lit.: “ungido”), mas na verdade não é. — Veja as notas de estudo em Mt 24:5; Mr 13:6.
+====
+
+[[v41-13-23]]
+
+^<<v41-13-23,23>>^ Vocês, portanto, sejam vigilantes. Eu lhes disse tudo antecipadamente.
+
+[[v41-13-24]]
+
+^<<v41-13-24,24>>^ “Mas naqueles dias, depois daquela tribulação, o sol escurecerá, a lua não dará a sua luz,
+
+[[v41-13-25]]
+
+^<<v41-13-25,25>>^ as estrelas cairão do céu, e os poderes que estão nos céus serão abalados.
+
+[[v41-13-26]]
+
+^<<v41-13-26,26>>^ E então verão o Filho do Homem vir nas nuvens, com grande poder e glória.
+
+[TIP]
+====
+- *verão*: Veja a nota de estudo em Mt 24:30.
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *nas nuvens*: As nuvens geralmente dificultam a visão em vez de facilitar, mas os observadores ‘veriam’ em sentido figurado, ou seja, entenderiam o significado dos acontecimentos. — At 1:9.
+====
+
+[[v41-13-27]]
+
+^<<v41-13-27,27>>^ E então ele enviará os anjos e reunirá os seus escolhidos desde os quatro ventos, desde a extremidade da terra até a extremidade do céu.
+
+[TIP]
+====
+- *os quatro ventos*: Veja a nota de estudo em Mt 24:31.
+====
+
+[[v41-13-28]]
+
+^<<v41-13-28,28>>^ “Aprendam desta ilustração sobre a figueira: assim que os ramos novos ficam tenros e brotam folhas, vocês sabem que o verão está próximo.
+
+[TIP]
+====
+- *ilustração*: Veja a nota de estudo em Mt 24:32.
+====
+
+[[v41-13-29]]
+
+^<<v41-13-29,29>>^ Do mesmo modo, quando virem essas coisas acontecer, saibam que ele está próximo, às portas.
+
+[TIP]
+====
+- *ele*: Ou seja, o Filho do Homem.
+====
+
+[[v41-13-30]]
+
+^<<v41-13-30,30>>^ Eu lhes garanto que esta geração de modo algum passará até que todas essas coisas aconteçam.
+
+[[v41-13-31]]
+
+^<<v41-13-31,31>>^ Céu e terra passarão, mas as minhas palavras de modo algum passarão.
+
+[TIP]
+====
+- *Céu e terra passarão*: Outros textos bíblicos mostram que o céu e a terra literais vão durar para sempre. (Gên 9:16; Sal 104:5; Ec 1:4) Assim, essas palavras de Jesus podem ser entendidas como uma hipérbole. Mesmo se acontecesse o impossível (se o céu e a terra realmente passassem, ou deixassem de existir), ainda assim as palavras dele se cumpririam. (Compare com Mt 5:18.) Mas é bem possível que o céu e a terra mencionados aqui se refiram ao céu e à terra simbólicos, chamados de “o céu anterior e a terra anterior” em Ap 21:1.
+- *as minhas palavras de modo algum passarão*: Ou: “as minhas palavras com certeza não passarão”. Aqui, o texto grego usa junto com o verbo duas palavras que significam “não”. Isso é feito para negar algo de modo enfático. Essa construção deixa bem claro que as palavras de Jesus se cumpririam com certeza. Alguns manuscritos gregos usam apenas uma das palavras que significam “não”, mas a maioria dos manuscritos mais antigos e mais confiáveis apoia a opção mais enfática.
+====
+
+[[v41-13-32]]
+
+^<<v41-13-32,32>>^ “A respeito daquele dia ou daquela hora ninguém sabe, nem os anjos no céu, nem o Filho, mas somente o Pai.
+
+[[v41-13-33]]
+
+^<<v41-13-33,33>>^ Sejam vigilantes, mantenham-se despertos, pois vocês não sabem quando é o tempo determinado.
+
+[[v41-13-34]]
+
+^<<v41-13-34,34>>^ É semelhante a um homem que, ao viajar para fora, deixou sua casa e deu autoridade aos seus escravos, a cada um o seu trabalho, e ordenou ao porteiro que se mantivesse vigilante.
+
+[TIP]
+====
+- *porteiro*: Nos tempos antigos, porteiros tomavam conta das entradas das cidades, dos templos e de algumas casas. Além de se certificar de que as portas e os portões estivessem fechados à noite, eles também trabalhavam como vigias. (2Sa 18:24, 26; 2Rs 7:​10, 11; Est 2:​21-​23; 6:2; Jo 18:16) Jesus comparou o cristão ao porteiro de uma casa para mostrar que os cristãos precisam ficar alertas e se manter vigilantes, aguardando a vinda dele como Juiz. — Mr 13:26.
+====
+
+[[v41-13-35]]
+
+^<<v41-13-35,35>>^ Portanto, mantenham-se vigilantes, pois vocês não sabem quando virá o senhor da casa, quer tarde no dia, quer à meia-noite, quer antes do amanhecer, quer de manhã cedo,
+
+[TIP]
+====
+- *mantenham-se vigilantes*: A palavra grega usada aqui tem o sentido básico de “ficar (continuar) acordado”, mas em muitos contextos quer dizer “ficar alerta; estar atento”. Marcos também usa essa palavra em Mr 13:34, 37 e 14:34, 37, 38. — Veja as notas de estudo em Mt 24:42; 26:38; Mr 14:34.
+- *tarde no dia*: Este versículo faz referência às quatro vigílias, ou turnos, em que a noite era dividida pelos gregos e romanos. Eles dividiam o período que ia das 6 horas da tarde até às 6 horas da manhã em quatro vigílias, cada uma com cerca de três horas. (Veja também as próximas notas de estudo neste versículo.) Antes, os israelitas dividiam a noite em três vigílias de cerca de quatro horas (Êx 14:24; Jz 7:​19), mas na época de Jesus eles já usavam o sistema romano. A expressão “tarde no dia” se refere à primeira das quatro vigílias da noite, ou seja, do pôr do sol até cerca das 9 horas da noite. — Veja a nota de estudo em Mt 14:25.
+- *à meia-noite*: Essa expressão se refere à segunda vigília da noite (de acordo com o sistema de vigílias dos gregos e dos romanos), ou seja, de cerca das 9 horas da noite até à meia-noite. — Veja a nota de estudo em tarde no dia neste versículo.
+- *antes do amanhecer*: Lit.: “quando o galo canta”. De acordo com o sistema de vigílias dos gregos e dos romanos, esse era o nome da terceira vigília da noite. Ela se refere ao período da meia-noite até cerca das 3 horas da madrugada. (Veja as notas de estudo anteriores neste versículo.) Provavelmente foi nessa vigília da noite que “um galo cantou”. (Mr 14:72) Em geral se concorda que o canto do galo há muito tempo é usado nas terras ao leste do mar Mediterrâneo como referência de tempo. — Veja as notas de estudo em Mt 26:34; Mr 14:30, 72.
+- *de manhã cedo*: Essa expressão se refere à quarta vigília da noite (de acordo com o sistema de vigílias dos gregos e dos romanos), ou seja, de cerca das 3 horas da madrugada até o nascer do sol. — Veja as outras notas de estudo neste versículo.
+====
+
+[[v41-13-36]]
+
+^<<v41-13-36,36>>^ a fim de que, quando ele vier de repente, não os encontre dormindo.
+
+[[v41-13-37]]
+
+^<<v41-13-37,37>>^ Mas o que eu digo a vocês, digo a todos: Mantenham-se vigilantes.”
+
+'''
+
+xref:041-marcos/041-marcos-012.adoc#v41-12-0[&#60; Capítulo Anterior] | <<v41-13-0,Topo>> | xref:041-marcos/041-marcos-014.adoc#v41-14-0[Próximo Capítulo &#62;]

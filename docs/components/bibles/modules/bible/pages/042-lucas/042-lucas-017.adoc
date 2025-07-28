@@ -1,0 +1,314 @@
+include::./index.adoc[]
+
+[[v42-17-0]]
+=== As Boas Novas Segundo Lucas, 17
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Jesus se dirige para Jerusalém; Jesus continua seu ministério, principalmente na Judeia e na Pereia (9:51–19:27)
+* Aldeia samaritana rejeita Jesus (9:51-56)
+* Requisitos para seguir Jesus (9:57-62)
+* Jesus envia os 70 (10:1-12)
+* Corazim, Betsaida e Cafarnaum são repreendidas por não se arrependerem (10:13-16)
+* Os 70 voltam (10:17-20)
+* Jesus louva seu Pai por favorecer os humildes (10:21-24)
+* Ilustração do bom samaritano (10:25-37)
+* Jesus visita Marta e Maria (10:38-42)
+* Jesus ensina a oração-modelo (11:1-4)
+* Ilustração do amigo persistente (11:5-13)
+* Jesus explica que os demônios são expulsos “por meio do dedo de Deus” (11:14-23)
+* Jesus fala da volta de um espírito impuro (11:24-26)
+* Explicação sobre a verdadeira felicidade (11:27, 28)
+* Sinal de Jonas (11:29-32)
+* Olho é a lâmpada do corpo (11:33-36)
+* Jesus come com um fariseu; ai dos religiosos hipócritas (11:37-54)
+* “Tomem cuidado com o fermento dos fariseus” (12:1-3)
+* Temer a Deus, não a homens (12:4-7)
+* Declarar que está em união com Cristo (12:8-12)
+* Ilustração do rico insensato (12:13-21)
+* “Parem de se preocupar tanto com a sua vida” (12:22-31)
+* “Não tema, pequeno rebanho” (12:32-34)
+* Manter a vigilância (12:35-40)
+* Identificação do administrador fiel e características de um escravo infiel (12:41-48)
+* Não paz, mas divisão (12:49-53)
+* Necessidade de examinar os tempos (12:54-56)
+* Resolver disputas (12:57-59)
+* Arrepender-se ou ser destruído (13:1-5)
+* Ilustração da figueira infrutífera (13:6-9)
+* Jesus cura no sábado uma mulher encurvada (13:10-17)
+* Ilustrações do grão de mostarda e do fermento (13:18-21)
+* É preciso esforço para entrar pela porta estreita (13:22-30)
+* Jesus chama Herodes de ‘aquela raposa’ (13:31-33)
+* Jesus lamenta por Jerusalém (13:34, 35)
+* Jesus cura no sábado um homem com hidropisia (14:1-6)
+* Ser um convidado humilde (14:7-11)
+* Convidar os que não podem recompensar (14:12-14)
+* Ilustração dos convidados que recusam o convite (14:15-24)
+* Custo de ser discípulo (14:25-33)
+* Sal que perde a força (14:34, 35)
+* Ilustração da ovelha perdida (15:1-7)
+* Ilustração da moeda perdida (15:8-10)
+* Ilustração do filho pródigo (15:11-32)
+* Ilustração do administrador injusto (16:1-13)
+* A Lei e o Reino de Deus (16:14-18)
+* Ilustração do rico e Lázaro (16:19-31)
+* Jesus ensina sobre tropeços, perdão e fé (17:1-6)
+* Ilustração do escravo que serve primeiro seu senhor (17:7-10)
+* Jesus cura dez leprosos (17:11-19)
+* Vinda do Reino de Deus (17:20-37)
+* Ilustração da viúva persistente (18:1-8)
+* Ilustração do fariseu e do cobrador de impostos (18:9-14)
+* Jesus e as criancinhas (18:15-17)
+* Líder rico pergunta sobre a vida eterna (18:18-30)
+* Jesus prediz novamente sua morte e ressurreição (18:31-34)
+* Jesus cura um mendigo cego perto de Jericó (18:35-43)
+* Jesus visita o cobrador de impostos Zaqueu (19:1-10)
+* Ilustração das dez minas (19:11-27)
+****
+
+[[v42-17-1]]
+
+^<<v42-17-1,1>>^ Então ele disse aos seus discípulos: “É inevitável que surjam motivos para tropeço. Contudo, ai daquele por meio de quem eles surgem!
+
+[TIP]
+====
+- *motivos para tropeço*: Ou: “pedras de tropeço”. Estudiosos acreditam que a palavra grega usada aqui, skándalon, se referia originalmente a uma armadilha. Alguns acham que se referia mais especificamente à parte da armadilha em que a isca fica presa. Com o tempo, essa palavra grega começou a ser usada para se referir a qualquer obstáculo que fizesse alguém tropeçar ou cair em sentido literal. Em sentido figurado, skándalon se refere a uma ação ou situação que leva uma pessoa a fazer algo inapropriado, tropeçar em sentido moral ou até mesmo cair no pecado. O texto de Lu 17:2 usa um verbo relacionado (skandalízo), que é traduzido como “fazer tropeçar”. Ele também poderia ser traduzido como “se tornar uma armadilha; fazer pecar”.
+====
+
+[[v42-17-2]]
+
+^<<v42-17-2,2>>^ Seria melhor para ele que pendurassem no seu pescoço uma pedra de moinho e que fosse lançado no mar, do que ele fazer tropeçar um destes pequenos.
+
+[[v42-17-3]]
+
+^<<v42-17-3,3>>^ Prestem atenção a si mesmos. Se o seu irmão cometer um pecado, censure-o e, se ele se arrepender, perdoe-lhe.
+
+[[v42-17-4]]
+
+^<<v42-17-4,4>>^ Mesmo que ele peque contra você sete vezes por dia e volte a você sete vezes, dizendo: ‘Eu me arrependo’, você tem de lhe perdoar.”
+
+[TIP]
+====
+- *sete vezes por dia*: Essas palavras de Jesus devem ter lembrado a Pedro o que Jesus lhe disse em uma ocasião anterior. Pedro tinha perguntado para Jesus quantas vezes ele deveria perdoar um irmão, e Jesus respondeu: “Até 77 vezes.” (Veja a nota de estudo em Mt 18:22.) As palavras de Jesus, tanto em Mateus como aqui, não foram em sentido literal. Neste versículo, “sete vezes” transmite a ideia de um número indefinido de vezes. (Compare com o Sal 119:164, onde a expressão “sete vezes por dia” passa a ideia de “repetidamente; constantemente; sempre”.) Mesmo que um cristão chegue a pecar sete vezes no mesmo dia contra seu irmão, é possível que ele se arrependa todas as vezes. Se, ao ser repreendido, ele mostrar que se arrependeu, ele deve ser perdoado. Na verdade, uma pessoa nessas circunstâncias deve ser perdoada por um número indefinido de vezes, sem limites. — Lu 17:3.
+====
+
+[[v42-17-5]]
+
+^<<v42-17-5,5>>^ Os apóstolos disseram então ao Senhor: “Dê-nos mais fé.”
+
+[[v42-17-6]]
+
+^<<v42-17-6,6>>^ O Senhor disse então: “Se vocês tivessem fé do tamanho de um grão de mostarda, diriam a esta amoreira-preta: ‘Arranque-se daí e plante-se no mar!’ e ela lhes obedeceria.
+
+[TIP]
+====
+- *do tamanho de um grão de mostarda*: Ou: “tão pequena quanto um grão de mostarda”. — Veja a nota de estudo em Lu 13:19.
+- *amoreira-preta*: Esta é a única vez que essa árvore é mencionada na Bíblia. A palavra grega usada aqui, sykáminos, se referia com frequência à amoreira. Uma espécie de amoreira, a amoreira-preta (Morus nigra), é muito cultivada em Israel. Ela é uma árvore robusta que chega a ter 6 metros de altura. Seus frutos são vermelho-escuros ou pretos, e suas folhas são grandes e têm formato de coração. Ela é conhecida por suas longas raízes, que a tornam uma árvore muito difícil de arrancar.
+====
+
+[[v42-17-7]]
+
+^<<v42-17-7,7>>^ “Quem de vocês, caso tenha um escravo que esteja arando ou cuidando do rebanho, lhe dirá quando ele chegar do campo: ‘Venha imediatamente à mesa para comer’?
+
+[[v42-17-8]]
+
+^<<v42-17-8,8>>^ Em vez disso, não lhe dirá: ‘Prepare algo para o meu jantar, ponha o avental e sirva-me até eu acabar de comer e beber; depois você pode comer e beber’?
+
+[TIP]
+====
+- *ponha o avental*: A palavra grega, perizónnymai, traduzida aqui como “ponha o avental”, significa literalmente “cingir-se”, ou seja, amarrar um avental ou prender a roupa (normalmente com um cinto) para se aprontar para o serviço. Aqui, perizónnymai também poderia ser traduzida como “vista-se e fique pronto para servir”. A mesma palavra grega é usada em Lu 12:35, 37 e Ef 6:14. — Veja as notas de estudo em Lu 12:35, 37.
+====
+
+[[v42-17-9]]
+
+^<<v42-17-9,9>>^ Será que ele sentirá gratidão pelo escravo porque este fez o que lhe foi designado?
+
+[[v42-17-10]]
+
+^<<v42-17-10,10>>^ Da mesma forma, quando vocês tiverem feito todas as coisas que lhes foram designadas, digam: ‘Somos escravos imprestáveis. O que fizemos é o que devíamos fazer.’”
+
+[TIP]
+====
+- *imprestáveis*: Lit.: “inúteis; sem valor”. Quando contou essa ilustração, Jesus não queria dizer que os escravos (seus discípulos) deviam se considerar pessoas inúteis ou sem valor. O contexto mostra em que sentido eles deviam se considerar “imprestáveis”. Eles deviam ter um ponto de vista modesto sobre si mesmos, sem achar que mereciam reconhecimento especial ou elogios. Alguns estudiosos entendem que essa palavra é usada aqui como uma hipérbole, e o sentido seria: “Somos apenas escravos que não merecem nenhum destaque.”
+====
+
+[[v42-17-11]]
+
+^<<v42-17-11,11>>^ A caminho de Jerusalém, ele passou entre Samaria e a Galileia.
+
+[TIP]
+====
+- *A caminho de Jerusalém . . . passou entre Samaria e a Galileia*: Jesus estava saindo de Efraim com destino a Jerusalém, mas viajou primeiro para o norte. Em seu caminho, ele passou por Samaria, pela Galileia (provavelmente a parte sul) e pela Pereia. Foi nessa viagem, quando Jesus estava entrando em uma aldeia em Samaria ou na Galileia, que dez homens com lepra foram ao encontro dele. (Lu 17:12) Essa foi a última vez que Jesus visitou a Galileia antes de sua morte. — Jo 11:54; veja o Apêndice A7-F.
+====
+
+[[v42-17-12]]
+
+^<<v42-17-12,12>>^ Ao entrar numa aldeia, dez homens com lepra foram ao encontro dele, mas ficaram à distância.
+
+[TIP]
+====
+- *dez homens com lepra*: Tudo indica que, nos tempos bíblicos, os leprosos viviam em grupos ou costumavam se reunir, e assim podiam ajudar uns aos outros. (2Rs 7:3-5) A Lei de Deus exigia que os leprosos vivessem isolados da sociedade. Ao avistar outras pessoas, o leproso devia avisar: “Impuro, impuro!” (Le 13:45, 46) Os dez leprosos obedeceram à Lei e, quando foram ao encontro de Jesus, ficaram à distância. — Veja a nota de estudo em Mt 8:2 e o Glossário, “Lepra; Leproso”.
+====
+
+[[v42-17-13]]
+
+^<<v42-17-13,13>>^ E levantaram a voz, dizendo: “Jesus, Instrutor, tenha misericórdia de nós!”
+
+[[v42-17-14]]
+
+^<<v42-17-14,14>>^ Quando os viu, disse-lhes: “Vão se mostrar aos sacerdotes.” Então, enquanto se afastavam, eles foram purificados.
+
+[TIP]
+====
+- *se mostrar aos sacerdotes*: Enquanto viveu na Terra, Jesus Cristo estava debaixo da Lei e reconhecia que o sacerdócio judaico estava em vigor. Por isso, Jesus orientava os leprosos que ele curava a ir até o sacerdote. (Mt 8:4; Mr 1:44) De acordo com a Lei mosaica, quando um leproso achava que estava curado, um sacerdote precisava examiná-lo para confirmar isso. O leproso tinha que ir até o templo e levar, como oferta, “duas aves puras, vivas, madeira de cedro, tecido escarlate e hissopo”. — Le 14:2-32.
+- *eles foram purificados*: Apenas Lucas relata que Jesus curou esses dez leprosos.
+====
+
+[[v42-17-15]]
+
+^<<v42-17-15,15>>^ Um deles, quando viu que estava curado, voltou, glorificando a Deus em alta voz.
+
+[[v42-17-16]]
+
+^<<v42-17-16,16>>^ E se prostrou com o rosto por terra aos pés de Jesus, agradecendo-lhe. E ele era samaritano.
+
+[[v42-17-17]]
+
+^<<v42-17-17,17>>^ Jesus disse em resposta: “Todos os dez foram purificados, não foram? Então, onde estão os outros nove?
+
+[[v42-17-18]]
+
+^<<v42-17-18,18>>^ Nenhum deles voltou para dar glória a Deus, a não ser este homem de outra nação?”
+
+[[v42-17-19]]
+
+^<<v42-17-19,19>>^ Então ele lhe disse: “Levante-se e vá. A sua fé fez você ficar bom.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “salvou você”.
+====
+
+[[v42-17-20]]
+
+^<<v42-17-20,20>>^ Os fariseus lhe perguntaram quando viria o Reino de Deus, e ele lhes respondeu: “O Reino de Deus não vem de modo claramente observável,
+
+[TIP]
+====
+- *de modo claramente observável*: Esta é a única vez que a expressão grega usada aqui aparece nas Escrituras Gregas Cristãs. Ela vem de um verbo que significa “olhar atentamente; observar”. De acordo com alguns estudiosos, essa expressão era usada por escritores médicos para se referir a observar os sintomas de uma doença. A forma como ela foi usada aqui parece transmitir a ideia de que a vinda do Reino de Deus não seria percebida claramente por todos.
+====
+
+[[v42-17-21]]
+
+^<<v42-17-21,21>>^ nem as pessoas dirão: ‘Vejam, está aqui!’ ou: ‘Está ali!’ Pois saibam que o Reino de Deus está no meio de vocês.”
+
+[TIP]
+====
+- *está no meio de vocês*: Ou: “está entre vocês”. A palavra grega traduzida aqui como “vocês” está no plural e evidentemente se refere aos fariseus com quem Jesus estava falando. (Lu 17:20; compare com Mt 23:13.) Jesus era o representante ungido de Deus, aquele que Deus tinha escolhido para ser o Rei do seu Reino. Além disso, ele tinha recebido autorização para realizar milagres que mostravam o poder que tinha recebido e para preparar candidatos para assumirem cargos em seu Reino. (Lu 22:29, 30) Como Jesus estava ali entre eles, ele podia corretamente dizer “o Reino de Deus está no meio de vocês”.
+====
+
+[[v42-17-22]]
+
+^<<v42-17-22,22>>^ Ele disse então aos discípulos: “Virá o tempo em que vocês desejarão ver um dos dias do Filho do Homem, mas não verão.
+
+[[v42-17-23]]
+
+^<<v42-17-23,23>>^ E as pessoas lhes dirão: ‘Vejam, está ali!’ ou: ‘Vejam, está aqui!’ Não saiam nem corram atrás delas.
+
+[[v42-17-24]]
+
+^<<v42-17-24,24>>^ Pois, assim como o relâmpago ilumina o céu de um lado a outro, assim será o Filho do Homem no seu dia.
+
+[TIP]
+====
+- *assim como o relâmpago ilumina*: A presença de Jesus como Rei do Reino de Deus foi comparada a um relâmpago porque os sinais dela seriam claramente vistos por todos os que estivessem atentos.
+- *assim será o Filho do Homem no seu dia*: Ou, possivelmente: “assim será o Filho do Homem”. Alguns manuscritos bem antigos não usam as palavras “no seu dia”, mas a opção usada aqui no texto principal aparece em outros manuscritos bem antigos e em muitas traduções da Bíblia.
+====
+
+[[v42-17-25]]
+
+^<<v42-17-25,25>>^ Primeiro, porém, ele tem de sofrer muitas coisas e ser rejeitado por esta geração.
+
+[[v42-17-26]]
+
+^<<v42-17-26,26>>^ Além disso, assim como ocorreu nos dias de Noé, assim será nos dias do Filho do Homem:
+
+[TIP]
+====
+- *nos dias de Noé*: A Bíblia às vezes usa a expressão “nos dias de” para se referir à época em que uma determinada pessoa viveu. (Is 1:1; Je 1:2, 3; Lu 17:28) Aqui, Jesus comparou os “dias de Noé” com os dias do Filho do Homem. Ao falar do mesmo assunto em outra ocasião, ele usou a expressão “a presença do Filho do Homem”. (Mt 24:37) Jesus comparou sua presença com os “dias de Noé”, que duraram anos, e não apenas com o Dilúvio. Assim, faz sentido acreditar que ‘os dias [ou, ‘a presença’] do Filho do Homem’ também envolvam um período de anos. Mas, da mesma forma que os dias de Noé tiveram um clímax quando chegou o Dilúvio, os “dias” de Jesus (sua “presença”) também terão um clímax quando todos os que não tiverem buscado a salvação forem destruídos. — Veja a nota de estudo em Mt 24:3.
+====
+
+[[v42-17-27]]
+
+^<<v42-17-27,27>>^ as pessoas comiam, bebiam, os homens se casavam, as mulheres eram dadas em casamento, até aquele dia em que Noé entrou na arca, e veio o dilúvio e destruiu a todos.
+
+[TIP]
+====
+- *arca*: Veja a nota de estudo em Mt 24:38.
+- *dilúvio*: Ou: “grande inundação; cataclismo”. A palavra grega kataklysmós passa a ideia de uma grande enchente que causa muita destruição. A Bíblia usa essa palavra para se referir ao Dilúvio dos dias de Noé. — Gên 6:17, Septuaginta; Mt 24:38, 39; 2Pe 2:5.
+====
+
+[[v42-17-28]]
+
+^<<v42-17-28,28>>^ Do mesmo modo, será como ocorreu nos dias de Ló: as pessoas comiam, bebiam, compravam, vendiam, plantavam, construíam.
+
+[[v42-17-29]]
+
+^<<v42-17-29,29>>^ Mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre, e destruiu a todos.
+
+[[v42-17-30]]
+
+^<<v42-17-30,30>>^ Acontecerá o mesmo naquele dia em que o Filho do Homem for revelado.
+
+[[v42-17-31]]
+
+^<<v42-17-31,31>>^ “Naquele dia, quem estiver no terraço, mas cujas coisas estiverem na casa, não desça para apanhá-las, e, do mesmo modo, quem estiver no campo não deve voltar para as coisas deixadas atrás.
+
+[TIP]
+====
+- *no terraço*: As casas tinham um terraço que podia ser usado para várias coisas, como por exemplo, estocar materiais (Jos 2:6), descansar ou relaxar (2Sa 11:2), dormir (1Sa 9:26) e celebrar as festividades religiosas (Ne 8:16-18). É por isso que a Lei mosaica exigia que os terraços tivessem um parapeito. (De 22:8) Geralmente, os terraços tinham uma escada externa que permitia descer direto para a rua, sem precisar passar por dentro da casa. Isso ajuda a entender como alguém poderia seguir as instruções de Jesus, e mostra a urgência da situação.
+====
+
+[[v42-17-32]]
+
+^<<v42-17-32,32>>^ Lembrem-se da mulher de Ló.
+
+[[v42-17-33]]
+
+^<<v42-17-33,33>>^ Quem procurar salvar a sua vida a perderá, mas quem perder a sua vida a preservará.
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v42-17-34]]
+
+^<<v42-17-34,34>>^ Eu lhes digo: Naquela noite, duas pessoas estarão numa cama; uma será levada, mas a outra será abandonada.
+
+[TIP]
+====
+- *será levada*: A palavra grega traduzida aqui como “será levada” é usada em diversos contextos, muitas vezes em sentido positivo. Ela já foi traduzida como “levar para casa” (Mt 1:20), “levou” (Mt 17:1) e “levarei comigo” (Jo 14:3). Aqui, ela pelo visto se refere a receber a aprovação de Jesus, o “Senhor”, e ser salvo. (Lu 17:37) Além disso, ela também pode ter ligação com o que aconteceu com Noé, que foi levado para dentro da arca no dia do Dilúvio, e com Ló, que foi levado pela mão para fora de Sodoma. (Lu 17:26-29) Nesse caso, dizer que a pessoa foi abandonada significaria que ela foi julgada e condenada à destruição.
+====
+
+[[v42-17-35]]
+
+^<<v42-17-35,35>>^ Haverá duas mulheres moendo no mesmo moinho: uma será levada, mas a outra será abandonada.”
+
+[[v42-17-36]]
+
+^<<v42-17-36,36>>^ ——
+
+[TIP]
+====
+- *Alguns poucos manuscritos bem antigos contêm aqui as palavras*: “Dois homens estarão no campo; um será levado e o outro será abandonado.” Mas essas palavras não aparecem nos manuscritos mais antigos e mais confiáveis, e tudo indica que não faziam parte do texto original de Lucas. No entanto, palavras muito parecidas fazem parte do relato inspirado de Mt 24:40. Alguns estudiosos acreditam que um copista inseriu aqui em Lucas as palavras de Mateus. — Veja o Apêndice A3.
+====
+
+[[v42-17-37]]
+
+^<<v42-17-37,37>>^ Em vista disso, disseram-lhe: “Onde, Senhor?” Ele lhes disse: “Onde estiver o corpo, ali também se ajuntarão as águias.”
+
+'''
+
+xref:042-lucas/042-lucas-016.adoc#v42-16-0[&#60; Capítulo Anterior] | <<v42-17-0,Topo>> | xref:042-lucas/042-lucas-018.adoc#v42-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,222 @@
+include::./index.adoc[]
+
+[[v40-17-0]]
+=== As Boas Novas Segundo Mateus, 17
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Jesus termina sua pregação na Galileia e nas regiões próximas (14:1–18:35)
+* Morte de João Batista (14:1-12)
+* Jesus alimenta 5.000 homens, além de mulheres e crianças (14:13-21)
+* Jesus anda sobre a água (14:22-33)
+* Curas em Genesaré (14:34-36)
+* Fariseus e escribas questionam Jesus sobre o ritual de lavar as mãos (15:1-9)
+* Impureza vem do coração (15:10-20)
+* Mulher fenícia mostra grande fé (15:21-28)
+* Jesus cura muitas doenças (15:29-31)
+* Jesus alimenta 4.000 homens, além de mulheres e crianças (15:32-39)
+* Fariseus e saduceus pedem um sinal do céu (16:1-4)
+* “Cuidado com o fermento dos fariseus e dos saduceus” (16:5-12)
+* Pedro diz que Jesus é o Cristo (16:13-17)
+* Jesus diz que vai dar as chaves do Reino para Pedro (16:18-20)
+* Jesus prediz sua morte e ressurreição (16:21-23)
+* Requisitos para ser um verdadeiro discípulo (16:24-28)
+* Transfiguração de Jesus (17:1-13)
+* Jesus cura menino possuído por demônio (17:14-18)
+* Fé do tamanho de um grão de mostarda (17:19, 20)
+* Jesus fala outra vez sobre sua morte e ressurreição (17:22, 23)
+* Imposto pago com moeda tirada da boca do peixe (17:24-27)
+* Quem é o maior no Reino? (18:1-6)
+* Pedras de tropeço (18:7-10)
+* Ilustração da ovelha perdida (18:12-14)
+* Como resolver problemas e ganhar seu irmão (18:15-20)
+* Ilustração do escravo que não perdoou (18:21-35)
+****
+
+[[v40-17-1]]
+
+^<<v40-17-1,1>>^ Seis dias depois, Jesus chamou Pedro e os irmãos Tiago e João, e os levou a sós a um alto monte.
+
+[TIP]
+====
+- *um alto monte*: Possivelmente o monte Hermom, que fica perto de Cesareia de Filipe. (Veja a nota de estudo em Mt 16:13.) O pico do monte Hermom fica a 2.814 metros de altitude. Mas é possível que a transfiguração não tenha acontecido no ponto mais alto do monte, e sim num de seus contrafortes, ou encostas. — Veja o Apêndice B10.
+====
+
+[[v40-17-2]]
+
+^<<v40-17-2,2>>^ E ele foi transfigurado diante deles; seu rosto brilhava como o sol, e suas roupas se tornaram brilhantes^&#42;1^ como a luz.
+
+[NOTE]
+====
+. Ou: “brancas”.
+====
+
+[TIP]
+====
+- *ele foi transfigurado*: Ou: “ele foi transformado; sua aparência mudou”. O mesmo verbo grego usado aqui (metamorfóo) aparece em Ro 12:2.
+====
+
+[[v40-17-3]]
+
+^<<v40-17-3,3>>^ Nisto, apareceram-lhes Moisés e Elias, conversando com ele.
+
+[[v40-17-4]]
+
+^<<v40-17-4,4>>^ Então Pedro disse a Jesus: “Senhor, é bom que estejamos aqui. Se desejar, armarei aqui três tendas: uma para o senhor, uma para Moisés e uma para Elias.”
+
+[[v40-17-5]]
+
+^<<v40-17-5,5>>^ Ele ainda estava falando, quando uma nuvem luminosa os encobriu, e de repente uma voz vinda da nuvem disse: “Este é meu Filho, o amado, a quem eu aprovo. Escutem-no.”
+
+[TIP]
+====
+- *uma voz*: Esta é a segunda das três vezes em que os Evangelhos relatam que humanos ouviram o próprio Jeová falar. — Veja as notas de estudo em Mt 3:17; Jo 12:28.
+- *a quem eu aprovo*: Ou: “que me agrada muito”. — Veja as notas de estudo em Mt 3:17; 12:18.
+====
+
+[[v40-17-6]]
+
+^<<v40-17-6,6>>^ Ao ouvirem isso, os discípulos se prostraram com o rosto por terra e ficaram com muito medo.
+
+[[v40-17-7]]
+
+^<<v40-17-7,7>>^ Jesus se aproximou, então, tocou neles e disse: “Levantem-se. Não tenham medo.”
+
+[[v40-17-8]]
+
+^<<v40-17-8,8>>^ Ao levantarem os olhos, não viram mais ninguém, mas apenas Jesus.
+
+[[v40-17-9]]
+
+^<<v40-17-9,9>>^ Enquanto desciam do monte, Jesus lhes ordenou: “Não contem essa visão a ninguém, até que o Filho do Homem seja levantado dentre os mortos.”
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v40-17-10]]
+
+^<<v40-17-10,10>>^ No entanto, os discípulos lhe perguntaram: “Por que então os escribas dizem que Elias tem de vir primeiro?”
+
+[[v40-17-11]]
+
+^<<v40-17-11,11>>^ Em resposta, ele disse: “Elias, realmente, vem e restabelecerá todas as coisas.
+
+[[v40-17-12]]
+
+^<<v40-17-12,12>>^ No entanto, eu lhes digo que Elias já veio e eles não o reconheceram, mas fizeram com ele o que quiseram. Do mesmo modo também o Filho do Homem sofrerá às mãos deles.”
+
+[[v40-17-13]]
+
+^<<v40-17-13,13>>^ Os discípulos perceberam então que lhes falava de João Batista.
+
+[[v40-17-14]]
+
+^<<v40-17-14,14>>^ Quando eles chegaram onde estava a multidão, um homem se aproximou dele, se ajoelhou diante dele e disse:
+
+[TIP]
+====
+- *se ajoelhou*: No Antigo Oriente Próximo, as pessoas se ajoelhavam para mostrar respeito, principalmente se estivessem fazendo um pedido a alguém com mais autoridade.
+====
+
+[[v40-17-15]]
+
+^<<v40-17-15,15>>^ “Senhor, tenha misericórdia do meu filho, porque ele é epilético e está doente. Ele cai muitas vezes no fogo e muitas vezes na água.
+
+[TIP]
+====
+- *epilético*: Veja a nota de estudo em Mt 4:24.
+====
+
+[[v40-17-16]]
+
+^<<v40-17-16,16>>^ Eu o trouxe aos seus discípulos, mas eles não conseguiram curá-lo.”
+
+[[v40-17-17]]
+
+^<<v40-17-17,17>>^ Jesus disse, em resposta: “Ó geração sem fé e pervertida,^&#42;1^ até quando terei de continuar com vocês? Até quando terei de suportá-los? Tragam-no aqui.”
+
+[NOTE]
+====
+. Ou: “corrompida; perversa”.
+====
+
+[[v40-17-18]]
+
+^<<v40-17-18,18>>^ Jesus censurou então o demônio, e este saiu dele; e o menino ficou curado daquele momento em diante.
+
+[[v40-17-19]]
+
+^<<v40-17-19,19>>^ Então os discípulos se aproximaram de Jesus em particular e perguntaram: “Por que nós não conseguimos expulsá-lo?”
+
+[[v40-17-20]]
+
+^<<v40-17-20,20>>^ Ele lhes respondeu: “Por terem pouca fé. Pois, eu lhes digo a verdade: Se tiverem fé do tamanho de um grão de mostarda, vocês dirão a este monte: ‘Mova-se daqui para lá’, e ele se moverá, e nada lhes será impossível.”
+
+[TIP]
+====
+- *terem pouca fé*: A palavra grega traduzida aqui como “pouca fé” está relacionada com a palavra traduzida como “homens [ou: “homem”] de pouca fé” em Mt 6:30; 8:26; 14:31; 16:8 e Lu 12:28. Jesus não quis dizer que os discípulos não tinham nenhuma fé, mas que precisavam ter mais fé. — Veja as notas de estudo em Mt 6:30; 8:26.
+- *eu lhes digo a verdade*: Veja a nota de estudo em Mt 5:18.
+- *do tamanho de um grão de mostarda*: Ou: “tão pequena quanto uma semente de mostarda”. — Veja as notas de estudo em Mt 13:31, 32.
+====
+
+[[v40-17-21]]
+
+^<<v40-17-21,21>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos bem antigos dizem neste versículo*: “Mas essa espécie só sai por oração e jejum.” (Veja a nota de estudo em Mr 9:29.) Mas essa frase não aparece nos manuscritos mais antigos e mais confiáveis, e pelo visto não faz parte do relato inspirado de Mateus. — Veja o Apêndice A3.
+====
+
+[[v40-17-22]]
+
+^<<v40-17-22,22>>^ Foi quando estavam reunidos na Galileia que Jesus lhes disse: “O Filho do Homem será entregue^&#42;1^ às mãos dos homens,
+
+[NOTE]
+====
+. Ou: “traído”.
+====
+
+[[v40-17-23]]
+
+^<<v40-17-23,23>>^ e eles o matarão, e no terceiro dia ele será levantado.” E eles ficaram muito tristes.
+
+[[v40-17-24]]
+
+^<<v40-17-24,24>>^ Depois de eles chegarem a Cafarnaum, os homens que cobravam o imposto de duas dracmas se aproximaram de Pedro e perguntaram: “O seu instrutor não paga as duas dracmas de imposto?”
+
+[TIP]
+====
+- *Cafarnaum*: Veja a nota de estudo em Mt 4:13.
+- *o imposto de duas dracmas*: Lit.: “as dracmas duplas”. (Veja o Apêndice B14-B.) As despesas de vários serviços realizados no templo eram cobertas por meio de um imposto. (Êx 30:12-16) Pelo visto, na época de Jesus, todos os homens judeus adultos pagavam um valor fixo uma vez por ano para os serviços do templo.
+====
+
+[[v40-17-25]]
+
+^<<v40-17-25,25>>^ Pedro disse: “Sim, ele paga.” No entanto, quando ele entrou na casa, Jesus falou primeiro que ele: “O que acha, Simão? De quem os reis da terra recebem tributos ou imposto por cabeça? Dos seus filhos ou dos estranhos?”
+
+[[v40-17-26]]
+
+^<<v40-17-26,26>>^ Quando ele disse: “Dos estranhos”, Jesus lhe disse: “Realmente, então, os filhos estão isentos de impostos.
+
+[TIP]
+====
+- *os filhos estão isentos de impostos*: Nos dias de Jesus, as pessoas sabiam que os membros da família do rei não precisavam pagar impostos.
+====
+
+[[v40-17-27]]
+
+^<<v40-17-27,27>>^ Mas, para que não os façamos tropeçar, vá ao mar, lance o anzol e pegue o primeiro peixe que você pescar; quando abrir a boca dele, você achará uma moeda de prata. Pegue-a e entregue-a a eles por mim e por você.”
+
+[TIP]
+====
+- *anzol*: Esta é a única vez em que a palavra grega traduzida como “anzol” aparece nas Escrituras Gregas Cristãs. Provavelmente se refere a um anzol com isca que o pescador amarrava numa linha e jogava na água. Em todas as outras vezes que as Escrituras Gregas Cristãs mencionam algum instrumento de pesca, elas se referem a redes.
+- *uma moeda de prata*: Lit.: “um estáter”. Acredita-se que essa moeda seja a tetradracma. (Veja o Apêndice B14-B.) Ela valia quatro dracmas, o equivalente ao siclo das Escrituras Hebraicas. Assim, a moeda achada na boca do peixe era exatamente o valor que duas pessoas pagavam como imposto do templo. — Êx 30:13.
+====
+
+'''
+
+xref:040-mateus/040-mateus-016.adoc#v40-16-0[&#60; Capítulo Anterior] | <<v40-17-0,Topo>> | xref:040-mateus/040-mateus-018.adoc#v40-18-0[Próximo Capítulo &#62;]

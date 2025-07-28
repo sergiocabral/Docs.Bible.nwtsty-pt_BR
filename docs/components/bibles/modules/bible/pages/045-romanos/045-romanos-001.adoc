@@ -1,0 +1,369 @@
+include::./index.adoc[]
+
+[[v45-1-0]]
+=== A Carta aos Romanos, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* A Carta aos Romanos: Títulos de livros bíblicos, como este, pelo visto não faziam parte do texto original e foram acrescentados mais tarde para ajudar a identificar os livros. Alguns dos manuscritos em que este título aparece são o Códice Vaticano e o Códice Sinaítico, do século 4 d.C., e o Códice Alexandrino e o Códice Ephraemi Syri rescriptus, do século 5 d.C. A coleção mais antiga disponível hoje de cartas de Paulo é um códice em papiro que contém nove de suas cartas e é conhecido como P46. Apesar de esse códice não ter o começo da carta aos romanos, os outros oito livros têm títulos, o que indica que o livro de Romanos provavelmente também tinha. Esse códice, que é datado de cerca de 200 d.C. por muitos estudiosos, é uma evidência de que logo no início os copistas já usavam títulos para identificar os livros bíblicos. — Veja a mídia “A primeira carta de Paulo aos coríntios”.
+****
+
+.Notas do capítulo
+****
+* A. INTRODUÇÃO (1:1-15)
+* Saudações iniciais de Paulo; seu apostolado (1:1-7)
+* Desejo de Paulo de visitar os irmãos em Roma (1:8-15)
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-1-1]]
+
+^<<v45-1-1,1>>^ Paulo, escravo de Cristo Jesus e chamado para ser apóstolo, separado para proclamar as boas novas de Deus,
+
+[TIP]
+====
+- *Paulo*: Ou: “De Paulo”. A introdução desta carta de Paulo, que continua até o versículo 7, segue um estilo que era bem comum nas cartas dos tempos antigos. Geralmente, se identificava o autor da carta, depois para quem era a carta e então se incluía um cumprimento. (Ro 1:7) Paulo também conta que foi escolhido como apóstolo e explica qual era a sua mensagem. Essa introdução é mais longa do que o normal (em grego, os versículos 1 a 7 são uma única frase). Alguns sugerem que Paulo tenha feito isso porque, apesar de muitos cristãos da congregação de Roma já o conhecerem, ele ainda não tinha visitado aquela congregação. (Compare com as notas de estudo em At 15:23; 23:26.) Nas primeiras vezes que a Bíblia fala de Paulo, ela usa o nome hebraico Saulo. Mas, a partir de At 13:9, ele é sempre chamado pelo seu nome romano (Paúlos, a forma grega de Paulus, um nome em latim comum na época). Ele mesmo se identifica como Paulo em todas as suas cartas, com exceção da carta aos hebreus, onde o seu nome não aparece. Ao usar o seu nome Paulo, ele talvez estivesse pensando em ajudar os não judeus a aceitarem sua mensagem, já que ele tinha recebido a missão de declarar as boas novas como “apóstolo para as nações”. — Ro 11:13; At 9:15; Gál 2:7, 8; veja as notas de estudo em At 7:58; 13:9.
+- *escravo de Cristo Jesus*: A palavra grega para “escravo”, doúlos, é geralmente usada para se referir a alguém que é propriedade de uma pessoa, muitas vezes a um escravo que foi comprado. (Mt 8:9; 10:24, 25; 13:27) A palavra também é usada em sentido figurado para se referir a servos leais de Deus e de Jesus Cristo. (At 2:18; 4:29; Gál 1:10; Ap 19:10) Quando Jesus deu sua vida como resgate, ele comprou a vida de todos os cristãos. Por isso, eles não pertencem mais a si mesmos e se consideram “escravos de Cristo”. (Ef 6:6; 1Co 6:19, 20; 7:23; Gál 3:13) Todos os escritores das Escrituras Gregas Cristãs que foram inspirados a dar conselhos às congregações chamaram a si mesmos de ‘escravos de Cristo’ pelo menos uma vez em seus escritos, mostrando sua submissão a Cristo, o seu Amo e Senhor. — Ro 1:1; Gál 1:10; Tg 1:1; 2Pe 1:1; Ju 1; Ap 1:1.
+- *apóstolo*: O substantivo grego apóstolos vem do verbo apostéllo, que significa “enviar”. (Mt 10:5; Lu 11:49; 14:32) O sentido básico desse substantivo pode ser visto claramente em Jo 13:16, onde ele é traduzido como “o enviado”. Paulo foi chamado para ser apóstolo para as nações, ou seja, para os não judeus, e foi escolhido diretamente pelo ressuscitado Jesus Cristo. (At 9:1-22; 22:6-21; 26:12-23) Como prova de que era realmente um apóstolo, Paulo mencionou que tinha visto o ressuscitado Senhor Jesus Cristo (1Co 9:1, 2) e que tinha realizado milagres (2Co 12:12). Além disso, Paulo foi usado para que cristãos batizados recebessem espírito santo, o que também era uma prova de que ele era um apóstolo verdadeiro. (At 19:5, 6) Apesar de Paulo muitas vezes mencionar que era um apóstolo, ele nunca disse que era um dos “Doze”. — 1Co 15:5, 8-10; Ro 11:13; Gál 2:6-9; 2Ti 1:1, 11.
+- *separado*: A palavra grega aforízo (“separar”) é usada aqui com o sentido de escolher ou designar uma pessoa para um objetivo específico. Aqui, Paulo está se referindo à designação que ele recebeu de declarar as boas novas de Deus, ou seja, a mensagem sobre o Reino de Deus e a salvação por meio da fé em Jesus Cristo. (Lu 4:18, 43; At 5:42; Ap 14:6) No livro de Romanos, Paulo também usa as expressões “as boas novas a respeito do seu Filho” (Ro 1:9) e “as boas novas a respeito do Cristo” (Ro 15:19).
+====
+
+[[v45-1-2]]
+
+^<<v45-1-2,2>>^ que ele havia prometido por meio de seus profetas nas Escrituras sagradas,
+
+[TIP]
+====
+- *Escrituras sagradas*: Aqui, esta expressão se refere às Escrituras Hebraicas. No restante das Escrituras Gregas Cristãs, esse grupo de escritos inspirados é chamado de “as Escrituras” e “os escritos sagrados”. (Mt 21:42; Mr 14:49; Lu 24:32; Jo 5:39; At 18:24; Ro 15:4; 2Ti 3:15, 16) Além disso, às vezes as expressões “Lei” (Jo 10:34; 12:34; 15:25; 1Co 14:21) e “a Lei e os Profetas” (Mt 7:12; Lu 16:16) são usadas em sentido abrangente para se referir às Escrituras Hebraicas como um todo. — Mt 22:40; veja as notas de estudo em Mt 5:17; Jo 10:34.
+====
+
+[[v45-1-3]]
+
+^<<v45-1-3,3>>^ a respeito do seu Filho, que veio da descendência^&#42;1^ de Davi segundo a carne,
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[TIP]
+====
+- *segundo a carne*: Aqui, a palavra grega para “carne” (sarx) passa a ideia de parentesco físico, humano. Maria era da tribo de Judá e era descendente de Davi. Por isso, podia-se dizer que o filho dela, Jesus, veio da descendência de Davi segundo a carne. Por meio de sua mãe, Jesus era “a raiz e o descendente de Davi”. (Ap 22:16) Como descendente biológico dele, Jesus tinha direito ao “trono de Davi, seu pai”. (Lu 1:32) Jesus também tinha direito legal ao trono, já que seu pai adotivo, José, também era descendente de Davi. — Mt 1:1-16; At 13:22, 23; 2Ti 2:8; Ap 5:5.
+====
+
+[[v45-1-4]]
+
+^<<v45-1-4,4>>^ mas que, com poder, foi declarado Filho de Deus segundo o espírito de santidade, por meio da ressurreição dentre os mortos (sim, Jesus Cristo, nosso Senhor,
+
+[TIP]
+====
+- *declarado*: Ou: “estabelecido como”. Neste versículo, Paulo diz que Jesus foi declarado Filho de Deus por meio da ressurreição dentre os mortos. Em At 13:33, Paulo explicou que a ressurreição de Jesus cumpriu o que estava escrito no Sal 2:7. Esse salmo também se cumpriu na ocasião do batismo de Jesus, quando seu Pai declarou: “Este é meu Filho.” — Veja a nota de estudo em Mt 3:17.
+- *o espírito de santidade*: Ou seja, o espírito santo de Deus. A expressão grega traduzida aqui como “espírito de santidade” é parecida com a expressão hebraica usada no Sal 51:11 (“teu espírito santo”, lit.: “espírito de tua santidade”) e em Is 63:10, 11 (“seu espírito santo”, lit.: “espírito de sua santidade”). Jeová tem pleno controle sobre seu espírito (sua força ativa), e esse espírito realiza tudo o que Jeová deseja. Ele é limpo, puro e sagrado, separado para o uso de Deus.
+====
+
+[[v45-1-5]]
+
+^<<v45-1-5,5>>^ por intermédio de quem recebemos bondade imerecida e um apostolado, para que haja obediência pela fé entre todas as nações com respeito ao seu nome,
+
+[TIP]
+====
+- *recebemos*: Ou: “recebi”. Pelo visto, aqui Paulo está se referindo a si mesmo e usa o plural “recebemos” apenas como um recurso linguístico. Quando menciona seu apostolado, Paulo está falando de uma designação que somente ele recebeu, a de ser apóstolo para as nações. Além disso, no versículo 1, Paulo não menciona nenhuma pessoa além dele como remetente da carta e, nos versículos 8 a 16, ele usa a primeira pessoa do singular. Assim, apesar de Paulo ter usado o plural neste versículo, parece razoável concluir que ele estava falando sobre si mesmo, sem incluir os outros apóstolos.
+====
+
+[[v45-1-6]]
+
+^<<v45-1-6,6>>^ nações entre as quais vocês também foram chamados para pertencer a Jesus Cristo),
+
+[[v45-1-7]]
+
+^<<v45-1-7,7>>^ a todos os que estão em Roma como amados de Deus, chamados para ser santos:
+Que vocês tenham bondade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[TIP]
+====
+- *todos os que estão em Roma*: Ou seja, todos os cristãos na cidade de Roma. O relato em At 2:1, 10 mostra que “visitantes vindos de Roma, tanto judeus como prosélitos” estavam presentes no Pentecostes de 33 d.C. e viram o que aconteceu depois que o espírito santo foi derramado sobre os discípulos. Alguns desses visitantes sem dúvida estavam entre os 3.000 que foram batizados naquela ocasião. (At 2:41) É provável que, ao retornarem para Roma, eles tenham formado uma congregação zelosa. Em Ro 1:8, o apóstolo Paulo diz que se falava da fé dos cristãos daquela congregação “no mundo inteiro”. Até mesmo os historiadores romanos Tácito (The Annals, XV, XLIV) e Suetônio (The Lives of the Caesars, Nero, XVI, 2), que nasceram no século 1 d.C., falaram sobre os cristãos em Roma.
+- *santos*: As Escrituras Gregas Cristãs muitas vezes chamam de “santos” os irmãos espirituais de Cristo nas congregações. (At 9:13; 26:10; Ro 12:13; 2Co 1:1; 13:13) Esses irmãos de Cristo entram em um relacionamento especial com Deus. Isso acontece por meio do novo pacto feito com base no sangue derramado de Jesus, que a Bíblia também chama de “o sangue de um pacto eterno”. (He 10:29; 13:20) Eles são santificados, purificados e declarados “santos” por Deus. Ele os considera santos desde o momento em que os escolhe para fazerem parte do novo pacto, quando eles ainda estão na Terra, não depois de sua morte. Assim, a Bíblia não dá nenhuma base para que uma pessoa ou uma organização declare que alguém é santo. Pedro disse que os escolhidos por Deus devem ‘ser santos’ porque Deus é santo. (1Pe 1:15, 16; Le 20:7, 26) Esses “santos” também entram em um relacionamento especial de união com Cristo e são co-herdeiros com ele. Mais de 500 anos antes de os seguidores de Cristo serem chamados de “santos”, Deus já tinha revelado que um grupo de pessoas, que ele chamou de “os santos do Supremo”, iria reinar com Cristo no Reino dele. — Da 7:13, 14, 18, 27.
+- *Que vocês tenham bondade imerecida e paz*: Paulo usa essa saudação em 11 de suas cartas. (1Co 1:3; 2Co 1:2; Gál 1:3; Ef 1:2; Fil 1:2; Col 1:2; 1Te 1:1; 2Te 1:2; Tit 1:4; Flm 3) Ele também usa uma saudação muito parecida em suas cartas a Timóteo, mas acrescenta a qualidade da “misericórdia”. (1Ti 1:2; 2Ti 1:2) Estudiosos perceberam que, em vez de usar o cumprimento comum khaírein (“Saudações!”), Paulo muitas vezes usa uma palavra grega que tem um som parecido, kháris (“bondade imerecida”). Dessa maneira, ele expressa o seu desejo de que as congregações recebam “bondade imerecida” de forma plena. (Veja a nota de estudo em At 15:23.) Paulo também inclui a palavra “paz”, que reflete uma saudação comum em hebraico, shalóhm. (Veja a nota de estudo em Mr 5:34.) Ao usar a expressão “bondade imerecida e paz”, Paulo pelo visto está destacando o tipo de relacionamento que os cristãos podem ter com Jeová Deus graças ao resgate. Quando Paulo menciona de onde a bondade imerecida e a paz vêm, ele faz uma separação entre Deus, nosso Pai, e o Senhor Jesus Cristo.
+- *bondade imerecida*: Ou: “bondade generosa”. (Veja o Glossário.) Em suas 14 cartas, Paulo menciona a “bondade imerecida” (em grego, kháris) umas 90 vezes, bem mais do que qualquer outro escritor bíblico. Por exemplo, Paulo fala da bondade imerecida de Deus ou de Jesus nas saudações iniciais de todas as suas cartas, menos na carta aos hebreus, e usa essa expressão nas observações finais de todas elas. Outros escritores bíblicos também se referem à “bondade imerecida” na introdução ou na conclusão de seus escritos. — 1Pe 1:2; 2Pe 1:2; 3:18; 2Jo 3; Ap 1:4; 22:21; veja a nota de estudo em At 13:43.
+====
+
+[[v45-1-8]]
+
+^<<v45-1-8,8>>^ Em primeiro lugar, por meio de Jesus Cristo, agradeço ao meu Deus por todos vocês, porque se fala da sua fé no mundo inteiro.
+
+[[v45-1-9]]
+
+^<<v45-1-9,9>>^ Pois Deus, a quem presto serviço sagrado com o meu espírito, proclamando as boas novas a respeito do seu Filho, é minha testemunha de que eu menciono vocês sem cessar nas minhas orações,
+
+[TIP]
+====
+- *a quem presto serviço sagrado*: Ou: “a quem sirvo (adoro)”. A palavra grega usada aqui, latreúo, tem o sentido básico de “servir”. Na Bíblia, ela se refere a servir a Deus ou a trabalhar em coisas ligadas com a adoração dele. (Mt 4:10; Lu 2:37; 4:8; At 7:7; Fil 3:3; 2Ti 1:3; He 9:14; 12:28; Ap 7:15; 22:3) Neste versículo, Paulo relaciona seu serviço sagrado a Deus com as boas novas a respeito do Filho. Assim, quando os discípulos de Jesus pregam essas boas novas, eles estão prestando serviço sagrado, ou seja, estão adorando a Jeová Deus.
+- *com o meu espírito*: Neste contexto, a palavra grega para “espírito” (pneúma) pelo visto se refere à força que vem do coração figurativo da pessoa e que a motiva a falar e a fazer as coisas de um certo modo. (Veja o Glossário, “Espírito”.) Aqui, Paulo usa essa expressão para passar a ideia de servir com todo o seu ser. Ela também poderia ser traduzida como “de todo o coração”.
+====
+
+[[v45-1-10]]
+
+^<<v45-1-10,10>>^ rogando que, se de todo possível, eu agora consiga finalmente ir visitá-los, se essa for a vontade de Deus.
+
+[[v45-1-11]]
+
+^<<v45-1-11,11>>^ Pois desejo muito vê-los, para lhes transmitir algum dom espiritual a fim de que vocês sejam firmados;
+
+[TIP]
+====
+- *dom espiritual*: A palavra grega traduzida aqui como “dom”, khárisma, está relacionada com a palavra kháris, que muitas vezes é traduzida como “bondade imerecida”. A palavra khárisma aparece 17 vezes nas Escrituras Gregas Cristãs. Ela passa a ideia de um presente, um favor ou uma bênção que a pessoa recebe de Deus sem ter feito nada para merecer. É algo que ela recebe graças apenas à bondade generosa, ou imerecida, dele. Às vezes, khárisma é usada para se referir aos dons sobrenaturais do espírito. (1Co 12:4, 9, 28-31) Mas tanto o contexto quanto o uso do adjetivo “espiritual” (em grego, pneumatikós) indicam que o “dom” de que Paulo estava falando era uma ajuda em sentido espiritual. Paulo desejava que seus irmãos fossem firmados. Ele queria ajudá-los a fortalecer sua fé e sua amizade com Deus. Assim, a habilidade que os cristãos têm de fortalecer a fé uns dos outros pode ser considerada como um dom espiritual dado por Deus. — Compare com 1Pe 4:10, 11.
+====
+
+[[v45-1-12]]
+
+^<<v45-1-12,12>>^ ou melhor, para nos encorajarmos mutuamente por meio da nossa fé, tanto a sua como a minha.
+
+[TIP]
+====
+- *nos encorajarmos mutuamente*: Lit.: “ser encorajados (consolados) juntos”. Esta é a única vez que o verbo synparakaléomai aparece nas Escrituras Gregas Cristãs. Mas Paulo muitas vezes usa o verbo relacionado parakaléo (lit.: “chamar para o seu lado”) para passar a ideia de “encorajar; consolar”. (Ro 12:8; 2Co 1:4; 2:7; 7:6; 1Te 3:2, 7; 4:18; 5:11; He 3:13; 10:25) Paulo destaca aqui que não seriam apenas os cristãos em Roma que se beneficiariam da visita que ele planejava fazer. Tanto aqueles cristãos como o próprio Paulo seriam encorajados pela fé uns dos outros.
+====
+
+[[v45-1-13]]
+
+^<<v45-1-13,13>>^ Mas não quero que vocês fiquem sem saber, irmãos, que muitas vezes quis visitá-los para conseguir alguns frutos também entre vocês, assim como entre as demais nações; no entanto, fui impedido até agora.
+
+[TIP]
+====
+- *irmãos*: Em alguns contextos, as Escrituras usam a palavra “irmão” para falar de um cristão e a palavra “irmã” para falar de uma cristã. (1Co 7:14, 15) Em outros contextos, como acontece aqui, elas usam o plural masculino “irmãos” para falar de um grupo formado por homens e mulheres. Era costume usar o termo “irmãos” ao se dirigir a um grupo de cristãos, mesmo que ele incluísse mulheres. (At 1:15; 1Te 1:4) É nesse sentido mais abrangente que a palavra “irmãos” é usada na maioria das cartas inspiradas. Na carta aos romanos, Paulo usa várias vezes a palavra “irmãos” para se dirigir a todos na congregação. — Ro 7:1, 4; 8:12; 10:1; 11:25; 12:1; 15:14, 30; 16:17.
+- *para conseguir alguns frutos também entre vocês*: Em outras palavras, Paulo estava dizendo “para que meu trabalho (minha pregação) tivesse bons resultados também entre vocês”. Paulo usa aqui o termo agrícola karpós (“fruto”), que aparece muitas vezes nas Escrituras. Quando esse termo é usado em sentido figurado, ele se refere a crescimento ou prosperidade espiritual. (Mt 3:8; 13:8; Jo 15:8, 16; Fil 1:11, 22) Talvez Paulo desejasse ver os irmãos em Roma desenvolverem “o fruto do espírito” de forma mais completa. (Gál 5:22, 23; Ro 1:11, 12) Mas parece que aqui ele tinha em mente algo mais. A continuação da frase, assim como entre as demais nações, indica que Paulo desejava ajudar outras pessoas a se tornar discípulos de Jesus Cristo em Roma e, possivelmente, em lugares ainda mais distantes. — Ro 15:23, 24.
+====
+
+[[v45-1-14]]
+
+^<<v45-1-14,14>>^ Sou devedor tanto a gregos como a estrangeiros, tanto aos instruídos como aos sem instrução;
+
+[TIP]
+====
+- *Sou devedor tanto a . . . como a*: Ou: “Tenho uma dívida tanto com . . . como com; Tenho uma obrigação tanto para com . . . como para com”. Nas Escrituras, a palavra grega para “devedor” e outras palavras relacionadas com dívidas podem se referir tanto a dívidas financeiras como a obrigações e deveres em geral. O verbo grego traduzido como “devem” em Jo 13:14 (veja a nota de estudo) tem o sentido básico de “estar em dívida com alguém; ter uma obrigação para com alguém”. Paulo indica aqui que se sentia em dívida com cada pessoa que conhecia, uma dívida que ele só conseguiria pagar compartilhando as boas novas. (Ro 1:15) Ele era tão grato pela misericórdia que tinha recebido que se sentia obrigado a ajudar outros a se beneficiarem da bondade imerecida de Deus. (1Ti 1:12-16) Era como se Paulo dissesse: ‘Quando penso em tudo o que Deus fez pela humanidade e por mim, pessoalmente, me sinto na obrigação de pregar as boas novas com zelo a todas as pessoas.’
+- *gregos*: Aqui, a palavra “gregos” foi usada em contraste com a palavra “estrangeiros”. Neste contexto, ela não se refere necessariamente a alguém que tinha nascido na Grécia ou que tinha origem grega. Às vezes, ela era usada para se referir a alguém que falava grego ou que tinha sido influenciado pela cultura grega, mesmo que fosse de outra nacionalidade. Pelo visto, Paulo usa a expressão “tanto a gregos como a estrangeiros” para incluir todas as pessoas. — Veja a nota de estudo em estrangeiros neste versículo.
+- *estrangeiros*: Ou: “não gregos”. A palavra grega que aparece aqui é bárbaros. Em algumas traduções mais antigas da Bíblia, ela foi traduzida como “bárbaros”. A repetição “bar bar” no início da palavra grega passava a ideia de gaguejar, balbuciar ou falar de modo incompreensível. Por isso, a palavra era originalmente usada pelos gregos para se referir a um estrangeiro que falava outra língua. Naquela época, ela não passava a ideia de falta de refinamento ou de boas maneiras nem tinha um sentido negativo. Em vez disso, ela era usada simplesmente para diferenciar os gregos dos não gregos. Alguns escritores judeus, como Josefo, usaram o termo bárbaros para se referir a eles mesmos. Na verdade, até os romanos, antes de terem adotado a cultura grega, chamavam a si mesmos de bárbaros. É com esse sentido neutro que Paulo usa bárbaros na expressão “tanto a gregos como a estrangeiros”, incluindo assim todas as pessoas.
+====
+
+[[v45-1-15]]
+
+^<<v45-1-15,15>>^ assim, estou ansioso para declarar as boas novas também a vocês que estão em Roma.
+
+[[v45-1-16]]
+
+^<<v45-1-16,16>>^ Pois eu não me envergonho das boas novas. Elas são, de fato, o poder de Deus para a salvação de todo aquele que tem fé, primeiro do judeu, e também do grego.
+
+[TIP]
+====
+- *grego*: No século 1 d.C., a palavra grega Héllen (“grego”) não se referia necessariamente a alguém que tinha nascido na Grécia ou que tinha origem grega. Ao falar sobre todo aquele que tem fé, Paulo menciona o “grego” e o “judeu”. Neste contexto, tudo indica que Paulo está usando a palavra “grego” com um sentido amplo para se referir a todos os povos não judeus. (Ro 2:9, 10; 3:9; 10:12; 1Co 10:32; 12:13) Sem dúvida, ele fez isso por causa do destaque e da influência que a língua e a cultura grega tinham em todo o Império Romano.
+====
+
+[[v45-1-17]]
+
+^<<v45-1-17,17>>^ Pois nelas a justiça de Deus é revelada pela fé e para a fé, assim como está escrito: “Mas o justo viverá em razão da fé.”
+
+[TIP]
+====
+- *justiça*: Veja o Glossário.
+- *assim como está escrito*: Paulo muitas vezes usa estas palavras (em grego, kathós gégraptai, uma forma de gráfo, “escrever”) antes de citações das Escrituras Hebraicas. (Ro 2:24; 3:10; 4:17; 8:36; 9:13, 33; 10:15; 11:26; 15:3, 9, 21; 1Co 1:31; 2:9; 2Co 8:15) Em sua carta aos romanos, Paulo cita mais de 50 passagens das Escrituras Hebraicas e faz muitas outras referências diretas e indiretas a elas.
+- *Mas o justo viverá em razão da fé*: Alguns consideram Ro 1:16, 17 como o texto temático do livro de Romanos, já que ele expressa a ideia central do livro: Deus é imparcial e dá a “todo aquele que tem fé” a oportunidade de ser salvo. (Ro 1:16) Em todo o livro, Paulo destaca a importância da fé, usando a palavra grega para “fé” e outras palavras relacionadas umas 60 vezes. (Alguns exemplos são: Ro 3:30; 4:5, 11, 16; 5:1; 9:30; 10:17; 11:20; 12:3 e 16:26.) Aqui em Ro 1:17, Paulo está citando Hab 2:4. Ele usa esse mesmo versículo de Habacuque em outras duas cartas para incentivar os cristãos a mostrarem fé. — Gál 3:11; He 10:38; veja a nota de estudo em em razão da fé neste versículo.
+- *em razão da fé*: Aqui, Paulo está citando Hab 2:4, que diz “pela sua fidelidade”. Em muitas línguas, as ideias de ser fiel e de ter fé estão fortemente ligadas. A palavra hebraica traduzida como “fidelidade” (ʼemunáh) está relacionada com a palavra hebraica ʼamán, que significa “ser fiel; ser digno de confiança”, mas que também pode passar a ideia de “ter fé”. (Gên 15:6; Êx 14:31; Is 28:16) Assim, essa parte de Hab 2:4 também poderia ser traduzida como “pela sua fé” (nota de rodapé). Paulo talvez estivesse citando essa passagem conforme ela foi traduzida na Septuaginta, onde a palavra grega pístis foi usada. A ideia principal que essa palavra passa é a de “convicção; confiança; firme persuasão” e, por isso, ela geralmente é traduzida como “fé”. (Mt 8:10; 17:20; Ro 1:8; 4:5) Mas, dependendo do contexto, ela também pode passar a ideia de ser fiel ou digno de confiança. (Mt 23:23, nota de rodapé; Ro 3:3) Em He 11:1, Paulo, sob inspiração, explica o significado de “fé” (pístis). — Veja a nota de estudo em Mas o justo viverá em razão da fé neste versículo.
+====
+
+[[v45-1-18]]
+
+^<<v45-1-18,18>>^ Pois a ira de Deus se revela desde o céu contra toda a impiedade e injustiça dos homens que suprimem a verdade de modo injusto,
+
+[TIP]
+====
+- *toda a impiedade*: Ou: “todo o desrespeito”. A palavra grega traduzida aqui como “impiedade” é asébeia. As Escrituras usam asébeia e outras palavras relacionadas para se referir a uma atitude de desrespeito a Deus ou, até mesmo, de oposição a ele. (Ju 14, 15) Ela é um antônimo da palavra eusébeia, que é traduzida como “devoção a Deus; piedade” e se refere a um tipo específico de respeito que fica evidente quando uma pessoa serve e adora a Deus com devoção. — At 3:12; 1Ti 2:2; 4:7, 8; 2Ti 3:5, 12.
+====
+
+[[v45-1-19]]
+
+^<<v45-1-19,19>>^ porque o que se pode saber sobre Deus é bem claro entre eles, visto que Deus o tornou claro a eles.
+
+[[v45-1-20]]
+
+^<<v45-1-20,20>>^ Pois as suas qualidades invisíveis — isto é, seu poder eterno e Divindade — são claramente vistas desde a criação do mundo, porque são percebidas por meio das coisas feitas, de modo que eles não têm desculpa.
+
+[TIP]
+====
+- *Divindade*: Ou: “natureza divina”. A palavra grega theiótes está relacionada com a palavra grega Theós (“Deus”). O contexto mostra que Paulo está falando de coisas na criação visível que comprovam a existência de Deus. É verdade que sem as Escrituras não seria possível saber sobre o propósito de Deus, o nome dele e muitos aspectos da sua personalidade. Mas, pela criação, é possível perceber suas qualidades invisíveis (lit.: “as coisas não visíveis dele”), incluindo seu poder eterno, que foi usado por ele para criar e depois manter o Universo. A criação física é uma prova de sua “Divindade”, ou seja, do fato de que o Criador realmente é Deus e merece ser adorado. — Ap 4:11.
+- *criação do mundo*: Nas Escrituras Gregas Cristãs, a palavra grega kósmos (“mundo”) geralmente se refere à humanidade como um todo ou a uma parte dela. Aqui, neste versículo, Paulo pelo visto está se referindo à criação da humanidade. Foi somente quando os seres humanos foram criados que a Terra passou a ter criaturas com mentes capazes de perceber as qualidades invisíveis de Deus por observar a criação. Na literatura grega, kósmos também é usada para se referir ao Universo ou à criação em geral. É possível que, em At 17:24, Paulo tenha usado a palavra nesse último sentido, já que naquela ocasião ele estava falando com gregos. — Veja a nota de estudo em At 17:24.
+- *não têm desculpa*: Ou: “são indesculpáveis”. Lit.: “são sem defesa”. A palavra grega anapológetos era um termo jurídico usado para se referir a uma pessoa que não conseguia apresentar nenhuma prova convincente em sua defesa. Aqui, a palavra é usada para se referir aos que não reconhecem a autoridade de Deus. As provas de que Deus existe estão evidentes “desde a criação do mundo”. As qualidades dele são claramente vistas. Assim, aqueles que se negam a aceitar a verdade sobre Deus não têm argumentos válidos para defender sua causa. Paulo também diz que as qualidades de Deus são percebidas por meio das coisas feitas. A palavra grega traduzida aqui como “percebidas” está relacionada com a palavra para “mente” (em grego, nous), que pode passar a ideia de compreender algo usando o raciocínio. Uma Bíblia traduz essa parte do versículo dizendo que as qualidades de Deus são “reconhecíveis com a consideração da mente humana”. Os humanos podem descobrir muitas qualidades de Deus por observar as coisas que ele criou e meditar nelas. Quando uma pessoa une essa compreensão com o conhecimento detalhado que o estudo das Escrituras dá sobre o propósito e a maneira de pensar do Criador, ela é capaz de desenvolver uma forte fé.
+====
+
+[[v45-1-21]]
+
+^<<v45-1-21,21>>^ Porque, embora conhecessem a Deus, não o glorificaram como Deus, nem lhe agradeceram, mas os seus raciocínios se tornaram fúteis, e o seu coração insensato ficou obscurecido.
+
+[[v45-1-22]]
+
+^<<v45-1-22,22>>^ Embora afirmassem ser sábios, tornaram-se tolos
+
+[[v45-1-23]]
+
+^<<v45-1-23,23>>^ e transformaram a glória do Deus imortal^&#42;1^ em algo semelhante à imagem do homem perecível, bem como de aves, de quadrúpedes e de répteis.^&#42;2^
+
+[NOTE]
+====
+. Ou: “imperecível”.
+. Ou: “animais rasteiros”.
+====
+
+[[v45-1-24]]
+
+^<<v45-1-24,24>>^ Portanto Deus, em harmonia com os desejos do coração deles, os entregou à impureza, para que desonrassem o seu próprio corpo.
+
+[TIP]
+====
+- *Deus . . . os entregou à impureza*: Quando Paulo disse essas palavras, ele talvez estivesse se referindo aos israelitas apóstatas. Eles conheciam a verdade sobre Deus e seus decretos justos, mas por séculos não agiram de acordo com esse conhecimento. Eles “trocaram a verdade de Deus pela mentira”. (Ro 1:16, 21, 25, 28, 32) Apesar de Deus ter dito especificamente aos israelitas para não praticarem idolatria e imoralidade sexual (Le 18:5-23; 19:29; De 4:15-19; 5:8, 9; 31:16-18), eles se envolveram vez após vez com a adoração de deuses e deusas pagãos, usando imagens de animais ou humanos (Núm 25:1-3; 1Rs 11:5, 33; 12:26-28; 2Rs 10:28, 29; compare com Ap 2:14). Por isso, Deus “os entregou à impureza”, ou seja, os abandonou, deixando-os seguir seus desejos e práticas impuros. As palavras de Paulo (Ro 1:24-32) também se aplicavam às pessoas das nações. Essas pessoas deveriam ter percebido que adorar animais, ou até mesmo humanos, não faz nenhum sentido e que isso traz a ira de Deus. — Ro 1:22.
+====
+
+[[v45-1-25]]
+
+^<<v45-1-25,25>>^ Eles trocaram a verdade de Deus pela mentira, e veneraram^&#42;1^ e prestaram serviço sagrado à criação em vez de ao Criador, que é louvado para sempre. Amém.
+
+[NOTE]
+====
+. Ou: “adoraram”.
+====
+
+[TIP]
+====
+- *mentira*: Aqui, Paulo está se referindo à idolatria. Os ídolos, ou imagens, são uma mentira, uma falsidade. (Je 10:14) As coisas que Deus criou provam que Deus existe. Mas algumas pessoas que ‘conheciam a Deus’ esconderam a verdade sobre ele. (Ro 1:18, 21, 25) Apesar de saberem a verdade sobre o poder eterno e a Divindade de Deus, essas pessoas fizeram imagens e as adoraram. O fato de elas terem escolhido acreditar na falsidade da idolatria as levou a praticar todo tipo de ato vergonhoso. — Ro 1:18-31.
+- *Amém*: Ou: “Assim seja”. A palavra grega que aparece aqui é amén. Ela é uma transliteração de uma palavra hebraica que vem da raiz ’amán, que significa “ser fiel; ser digno de confiança”. (Veja o Glossário.) A palavra “amém” era usada para concordar com um juramento, com uma oração ou com uma declaração. Por exemplo, os escritores das Escrituras Gregas Cristãs muitas vezes usavam essa palavra logo depois de uma expressão de louvor, assim como Paulo faz aqui. (Ro 16:27; Ef 3:21; 1Pe 4:11) Em outros casos, eles usavam “amém” depois de pedir que Deus abençoasse as pessoas para quem eles estavam escrevendo, reforçando assim o seu pedido. (Ro 15:33; He 13:20, 21) A palavra também era usada para indicar que o escritor concordava de coração com o que tinha sido dito. — Ap 1:7; 22:20.
+====
+
+[[v45-1-26]]
+
+^<<v45-1-26,26>>^ É por isso que Deus os entregou à paixão vergonhosa, pois tanto as mulheres entre eles trocaram o uso natural de si mesmas por outro contrário à natureza,
+
+[TIP]
+====
+- *à paixão vergonhosa*: Ou: “ao apetite sexual vergonhoso”. A palavra grega traduzida aqui como “paixão” é páthos e se refere a um forte desejo, uma paixão descontrolada. O contexto mostra claramente que neste versículo ela se refere a desejos de natureza sexual. Aqui, esse tipo de paixão descontrolada é chamado de ‘vergonhoso’ (em grego, atimía, “desonra; vergonha”), já que traz desonra ou vergonha para a pessoa.
+- *o uso natural de si mesmas*: Ou seja, as relações sexuais naturais. A palavra grega traduzida aqui como “natural”, fysikós, se refere àquilo que está de acordo com a ordem estabelecida das coisas na natureza ou com a função básica que cada coisa tem. Como parte de seu argumento em Ro 1:26, 27, Paulo talvez estivesse fazendo uma referência indireta ao relato da criação em Gên 1:27. Em vez de usar as palavras gregas mais comuns para “homem” e “mulher”, ele usou palavras gregas mais específicas, que poderiam ser traduzidas como “macho” e “fêmea”. Essas mesmas palavras gregas específicas foram usadas na tradução de Gên 1:27 na Septuaginta. Além disso, elas também aparecem em Mt 19:4 e Mr 10:6, que citam esse versículo de Gênesis. O relato de Gênesis mostra que Deus abençoou o primeiro casal humano e disse que eles deveriam se multiplicar e ‘encher a terra’. (Gên 1:28) As relações homossexuais são contrárias à natureza, já que esse tipo de atividade sexual não faz parte do propósito do Criador para os humanos e não é capaz de gerar filhos. A Bíblia compara as relações sexuais entre pessoas do mesmo sexo com as relações sexuais que os anjos rebeldes (que mais tarde ficaram conhecidos como demônios) tiveram com mulheres antes do Dilúvio dos dias de Noé. (Gên 6:4; 19:4, 5; Ju 6, 7) Deus encara esse tipo de relação como desnatural. — Veja a nota de estudo em Ro 1:27.
+====
+
+[[v45-1-27]]
+
+^<<v45-1-27,27>>^ como também os homens abandonaram o uso natural da mulher e ficaram violentamente inflamados de paixão uns pelos outros, homens com homens, praticando o que é obsceno e recebendo em si mesmos a plena punição pelo seu erro.
+
+[TIP]
+====
+- *o uso natural da*: Ou: “as relações sexuais naturais com a”. A palavra grega traduzida aqui como “natural”, fysikós, se refere àquilo que está de acordo com a ordem estabelecida das coisas na natureza ou com a função básica que cada coisa tem. Este versículo e o anterior mostram que as relações sexuais entre pessoas do mesmo sexo (tanto entre homens como entre mulheres) não fazem parte do propósito de Deus para os humanos. (Gên 1:27; veja a nota de estudo em Ro 1:26.) As Escrituras Hebraicas deixam claro o ponto de vista de Deus sobre as relações homossexuais. Entre as muitas leis de moral que Deus deu à nação de Israel havia uma lei proibindo esse tipo de relação. (Le 18:22) As pessoas das nações ao redor, por outro lado, consideravam normal que alguém tivesse relações sexuais com uma pessoa do mesmo sexo ou com um animal, praticasse incesto ou fizesse outras coisas proibidas pela Lei mosaica. (Le 18:23-25) As relações homossexuais também são condenadas nas Escrituras Gregas Cristãs. (1Co 6:9, 10) Isso mostra que Deus sempre desaprova esse tipo de conduta, não importa se quem o pratica é judeu ou não judeu.
+- *praticando o que é obsceno*: Ou: “cometendo atos indecentes (vergonhosos)”. A palavra grega que aparece aqui passa a ideia de um comportamento que é vergonhoso.
+- *a plena punição*: Ou: “a plena recompensa”. A palavra grega que aparece aqui passa a ideia de uma recompensa dada de acordo com o que a pessoa merece. Neste versículo, ela é usada em sentido negativo e se refere a uma punição apropriada, um castigo ou uma consequência indesejada. Em 2Co 6:13, ela passa a ideia de dar uma retribuição apropriada.
+====
+
+[[v45-1-28]]
+
+^<<v45-1-28,28>>^ Como não quiseram reconhecer a Deus,^&#42;1^ Deus os entregou a um estado mental reprovado, para fazerem coisas que não deviam fazer.
+
+[NOTE]
+====
+. Ou: “Como não consideraram que valia a pena ter conhecimento exato de Deus”. Lit.: “Como não aprovaram ter [a] Deus em conhecimento exato”.
+====
+
+[[v45-1-29]]
+
+^<<v45-1-29,29>>^ E eles estavam cheios de todo tipo de injustiça, impiedade, ganância e maldade, cheios de inveja, assassinato, briga, engano e malícia, eram cochichadores,
+
+[TIP]
+====
+- *ganância*: Ou: “cobiça”. A palavra grega usada aqui, pleonexía, significa literalmente “ter mais”. Ela transmite a ideia de desejar ter sempre mais, sem nunca ficar satisfeito. A mesma palavra grega é usada em Ef 4:19 e 5:3. Em Col 3:5, depois de mencionar a ganância (pleonexía), Paulo acrescenta que ela “é idolatria”.
+- *cochichadores*: Ou: “fofoqueiros”. A palavra grega que aparece aqui pelo visto se refere a alguém que costuma fazer fofocas prejudiciais, talvez espalhando boatos maldosos. — Veja a nota de estudo em 2Co 12:20.
+====
+
+[[v45-1-30]]
+
+^<<v45-1-30,30>>^ caluniadores, tinham ódio de Deus, eram insolentes, arrogantes, presunçosos, inventores de coisas más,^&#42;1^ desobedientes aos pais,
+
+[NOTE]
+====
+. Ou: “planejadores de coisas prejudiciais”.
+====
+
+[[v45-1-31]]
+
+^<<v45-1-31,31>>^ sem entendimento, desleais nos acordos, desnaturados e sem misericórdia.
+
+[TIP]
+====
+- *desleais nos acordos*: Ou: “contrários a qualquer acordo”. A palavra grega que aparece aqui se refere a alguém que não faz sua parte num acordo. Ela também pode incluir a ideia de que a pessoa não é confiável ou não cumpre suas promessas. Além disso, uma obra de referência diz que a palavra pode se referir a “alguém que não está disposto a negociar uma solução para um problema que ele tem com outra pessoa”.
+- *desnaturados*: Ou: “sem afeto natural”. A palavra grega que aparece aqui, ástorgos, é traduzida em algumas Bíblias como “sem coração”. Ela é formada pelo prefixo a (“sem”) e a palavra storgé (“afeto natural”). A palavra ástorgos se refere à falta do afeto que seria natural entre pessoas da mesma família, especialmente o afeto dos pais pelos filhos e dos filhos pelos pais. Alguém que não tem afeto nem mesmo por pessoas de sua própria família dificilmente conseguiria ter bons relacionamentos com outros. Registros feitos por historiadores que viveram no mundo greco-romano comprovam que pessoas daquela época realmente tinham essa característica mencionada por Paulo. Eles relatam casos de pais que abandonavam a família, de filhos que não cuidavam dos pais idosos e de pais que matavam filhos indesejados, como os que eram fracos ou que tinham alguma deformidade. Aqui em Ro 1:31, Paulo usa ástorgos para mostrar o quanto a humanidade tinha se afastado da perfeição original. Em 2Ti 3:3, ele usa a palavra para indicar como as pessoas seriam nos últimos dias.
+====
+
+[[v45-1-32]]
+
+^<<v45-1-32,32>>^ Embora eles conheçam muito bem o justo decreto de Deus, de que os que praticam essas coisas merecem a morte, não somente continuam a fazê-las, mas também aprovam os que as praticam.
+
+'''
+
+xref:044-atos/044-atos-028.adoc#v44-28-0[&#60; Capítulo Anterior] | <<v45-1-0,Topo>> | xref:045-romanos/045-romanos-002.adoc#v45-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,286 @@
+include::./index.adoc[]
+
+[[v44-21-0]]
+=== Atos dos Apóstolos, 21
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* L. Terceira viagem missionária de Paulo (18:23–21:17)
+* Paulo parte para a Galácia e a Frígia (18:23)
+* Apolo, um homem eloquente, recebe ajuda de Priscila e Áquila e depois vai para a Acaia (18:24-28)
+* Paulo chega a Éfeso; alguns discípulos são batizados novamente, dessa vez, em nome de Jesus (19:1-7)
+* Atividades de Paulo em Éfeso (19:8-10)
+* Apesar do ocultismo em Éfeso, a palavra de Jeová prevalece (19:11-20)
+* Confusão em Éfeso; a multidão entra correndo no teatro (19:21-34)
+* O administrador da cidade de Éfeso acalma a multidão (19:35-41)
+* Paulo na Macedônia e na Grécia (20:1-6)
+* Êutico é ressuscitado em Trôade (20:7-12)
+* Paulo sai de Trôade e vai a Mileto (20:13-16)
+* Paulo incentiva os anciãos de Éfeso a prestarem atenção a si mesmos e a todo o rebanho de Deus (20:17-38)
+* Paulo continua sua viagem a Jerusalém (21:1-14)
+* Chegada em Jerusalém (21:15-17)
+* M. Paulo é preso em Jerusalém (21:18–23:35)
+* Paulo segue o conselho dos anciãos (21:18-26)
+* Tumulto no templo; os romanos prendem Paulo (21:27-36)
+* Paulo recebe permissão para falar com a multidão (21:37-40)
+* Paulo faz sua defesa para a multidão; ele descreve como ele se converteu (22:1-21)
+* Paulo usa sua cidadania romana (22:22-29)
+* O Sinédrio se reúne (22:30)
+* Paulo fala diante do Sinédrio (23:1-10)
+* Paulo é fortalecido pelo Senhor (23:11)
+* Conspiração para matar Paulo (23:12-22)
+* Soldados romanos levam Paulo a Cesareia (23:23-35)
+****
+
+[[v44-21-1]]
+
+^<<v44-21-1,1>>^ Quando finalmente conseguimos nos separar deles e embarcar, navegamos diretamente para Cós; no dia seguinte fomos para Rodes e dali para Pátara.
+
+[[v44-21-2]]
+
+^<<v44-21-2,2>>^ Ao acharmos um navio que ia fazer a travessia para a Fenícia, embarcamos e seguimos viagem.
+
+[[v44-21-3]]
+
+^<<v44-21-3,3>>^ Depois de avistarmos a ilha de Chipre e passarmos por ela à nossa esquerda, navegamos para a Síria e fizemos escala em Tiro, onde o navio ia descarregar.
+
+[TIP]
+====
+- *à nossa esquerda*: Ou: “a bombordo”. Pelo visto, o navio estava passando pela extremidade sudoeste da ilha de Chipre, já que estava indo para o leste, em direção a Tiro. Uns nove anos antes, em sua primeira viagem missionária, Paulo, acompanhado de Barnabé e João Marcos, esteve em Chipre e enfrentou a oposição do feiticeiro Elimas. (At 13:4-12) Ver Chipre novamente e pensar no que tinha ocorrido ali pode ter encorajado e fortalecido Paulo para as coisas que ele teria que enfrentar.
+====
+
+[[v44-21-4]]
+
+^<<v44-21-4,4>>^ Procuramos os discípulos e os encontramos, e permanecemos ali sete dias. Mas, por meio do espírito, eles diziam repetidas vezes a Paulo que não pisasse em Jerusalém.
+
+[[v44-21-5]]
+
+^<<v44-21-5,5>>^ Assim, quando terminou nosso tempo ali, partimos e continuamos nossa viagem; e todos eles, junto com as mulheres e as crianças, nos acompanharam até fora da cidade. Então, ajoelhados na praia, oramos
+
+[[v44-21-6]]
+
+^<<v44-21-6,6>>^ e nos despedimos uns dos outros. Depois embarcamos no navio, e eles voltaram para casa.
+
+[[v44-21-7]]
+
+^<<v44-21-7,7>>^ Completamos então a viagem, navegando de Tiro até chegarmos a Ptolemaida; cumprimentamos os irmãos e ficamos um dia com eles.
+
+[[v44-21-8]]
+
+^<<v44-21-8,8>>^ Partimos no dia seguinte e chegamos a Cesareia; ali, entramos na casa de Filipe, o evangelizador, que era um dos sete homens, e ficamos com ele.
+
+[TIP]
+====
+- *evangelizador*: O sentido básico da palavra grega euaggelistés, traduzida aqui como “evangelizador”, é “proclamador de boas novas (boas notícias)”. (Veja a nota de estudo em Mt 4:23.) A missão de proclamar as boas novas foi dada a todos os cristãos (Mt 24:14; 28:19, 20; At 5:42; 8:4; Ro 10:9, 10), mas o contexto dos três versículos onde essa palavra grega aparece mostra que “evangelizador” pode ter um sentido especial (At 21:8; notas de rodapé em Ef 4:11 e 2Ti 4:5). Por exemplo, quando a palavra euaggelistés é usada para se referir a alguém que dá início à pregação das boas novas onde elas nunca tinham sido pregadas, ela também poderia ser traduzida como “missionário”. Depois de Pentecostes, Filipe deu início à obra de pregação na cidade de Samaria e teve grande sucesso. Ele também foi orientado por um anjo a pregar as boas novas sobre Cristo ao eunuco etíope, a quem ele batizou. Depois disso, Filipe foi levado pelo espírito a pregar em Asdode e em todas as cidades no caminho para Cesareia. (At 8:5, 12, 14, 26-40) Uns 20 anos mais tarde, quando os acontecimentos registrados em At 21:8 ocorreram, Filipe ainda podia ser chamado de “o evangelizador”.
+====
+
+[[v44-21-9]]
+
+^<<v44-21-9,9>>^ Esse homem tinha quatro filhas solteiras que profetizavam.
+
+[TIP]
+====
+- *filhas solteiras*: Lit.: “filhas, virgens”. Na Bíblia, a palavra grega parthénos, que muitas vezes é traduzida como “virgem”, se refere a “alguém que nunca teve relações sexuais” e pode ser usada tanto para homens solteiros como para mulheres solteiras. (Mt 25:1-12; Lu 1:27; 1Co 7:25, 36-38) Aqui, neste contexto, a palavra grega destaca o fato de que as quatro filhas de Filipe nunca tinham se casado.
+- *profetizavam*: O profeta Joel predisse que tanto homens como mulheres iriam profetizar. (Jl 2:28, 29) Nas línguas originais, a palavra “profetizar” tem o sentido básico de “tornar conhecidas mensagens de Deus” e nem sempre inclui a ideia de prever o futuro. (Veja a nota de estudo em At 2:17.) Todos os cristãos podem falar sobre o cumprimento das profecias que foram registradas na Palavra de Deus. Mas, quando 1Co 12:4, 10 fala sobre “profetizar”, isso se refere a um dom milagroso do espírito santo que foi dado a algumas pessoas na recém-formada congregação cristã. Alguns dos que receberam esse dom eram capazes de prever acontecimentos futuros, como no caso de Ágabo. (At 11:27, 28) Com certeza, as mulheres que receberam esse dom de Jeová mostravam seu profundo respeito a ele por continuarem submissas à chefia dos homens na congregação. — 1Co 11:3-5.
+====
+
+[[v44-21-10]]
+
+^<<v44-21-10,10>>^ Depois de ficarmos ali muitos dias, um profeta chamado Ágabo desceu da Judeia.
+
+[[v44-21-11]]
+
+^<<v44-21-11,11>>^ Ele veio ao nosso encontro, pegou o cinto de Paulo, amarrou seus próprios pés e mãos, e disse: “Assim diz o espírito santo: ‘O homem a quem pertence este cinto será amarrado assim pelos judeus em Jerusalém, e eles o entregarão às mãos de pessoas das nações.’”
+
+[[v44-21-12]]
+
+^<<v44-21-12,12>>^ Quando ouvimos isso, tanto nós como os que estavam ali começamos a lhe implorar que não subisse a Jerusalém.
+
+[[v44-21-13]]
+
+^<<v44-21-13,13>>^ Paulo respondeu então: “O que estão fazendo, chorando e tentando enfraquecer a minha determinação? Estejam certos de que estou pronto não só para ser amarrado, mas também para morrer em Jerusalém pelo nome do Senhor Jesus.”
+
+[TIP]
+====
+- *tentando enfraquecer a minha determinação*: Ou: “enfraquecendo o meu coração”. O verbo grego que aparece nesta expressão significa literalmente “esmagar junto; despedaçar”. Neste versículo, ele foi usado em sentido figurado junto com a palavra grega para “coração”.
+====
+
+[[v44-21-14]]
+
+^<<v44-21-14,14>>^ Como não conseguimos convencê-lo, paramos de insistir^&#42;1^ e dissemos: “Seja feita a vontade de Jeová.”
+
+[NOTE]
+====
+. Lit.: “ficamos em silêncio”.
+====
+
+[TIP]
+====
+- *a vontade de Jeová*: Na maioria das vezes que a palavra grega para “vontade” (thélema) aparece nas Escrituras Gregas Cristãs, ela se refere à vontade de Deus. (Mt 7:21; 12:50; Mr 3:35; Ro 12:2; 1Co 1:1; He 10:36; 1Pe 2:15; 4:2; 1Jo 2:17) Na Septuaginta, a palavra grega thélema muitas vezes é usada para traduzir expressões hebraicas que se referem à vontade de Deus, ou àquilo que o agrada, e ocorre em passagens onde o nome de Deus aparece no texto original das Escrituras Hebraicas. (Sal 40:8, 9 [39:9, 10, LXX]; 103:21 [102:21, LXX]; 143:9-11 [142:9-11, LXX]; Is 44:24, 28; Je 9:24[9:23, LXX]; Mal 1:10) Na oração que Jesus fez a seu Pai, registrada em Mt 26:42, ele usou palavras parecidas: “Seja feita a tua vontade.” — Veja o Apêndice C3 (introdução e At 21:14).
+====
+
+[[v44-21-15]]
+
+^<<v44-21-15,15>>^ Então, depois daqueles dias, fizemos os preparativos e começamos a viagem para Jerusalém.
+
+[[v44-21-16]]
+
+^<<v44-21-16,16>>^ Alguns dos discípulos de Cesareia foram junto conosco e nos levaram à casa de Menasom, de Chipre, um dos primeiros discípulos; nós ficaríamos hospedados ali.
+
+[[v44-21-17]]
+
+^<<v44-21-17,17>>^ Ao chegarmos a Jerusalém, os irmãos nos receberam com alegria.
+
+[[v44-21-18]]
+
+^<<v44-21-18,18>>^ No dia seguinte, Paulo foi conosco encontrar Tiago, e todos os anciãos estavam presentes.^&#42;1^
+
+[NOTE]
+====
+. Ou: “compareceram”.
+====
+
+[TIP]
+====
+- *Tiago*: Tudo indica que este Tiago seja o meio-irmão de Jesus e que seja o mesmo Tiago mencionado em At 12:17 e 15:13. — Veja as notas de estudo em Mt 13:55; At 12:17; 15:13.
+- *e todos os anciãos*: Veja as notas de estudo em At 15:2; 16:4. Nenhum dos apóstolos é mencionado no relato dessa reunião que aconteceu em 56 d.C. Embora a Bíblia não explique o motivo disso, o historiador Eusébio (que nasceu por volta de 260 d.C.) disse o seguinte sobre o período anterior à destruição de Jerusalém: “Os apóstolos que restaram, em constante perigo de tramas assassinas, tiveram de sair da Judeia. Mas, a fim de ensinar a sua mensagem, viajaram no poder de Cristo a todas as terras.” (Eusebius, livro 3, capítulo 5, parágrafo 2) Apesar de as palavras de Eusébio não fazerem parte do registro inspirado, elas estão de acordo com o que a Bíblia diz. Por exemplo, em 62 d.C., Pedro já estava em Babilônia — longe de Jerusalém. (1Pe 5:13) Na ocasião mencionada neste versículo, Tiago, meio-irmão de Jesus, ainda estava em Jerusalém. Ele, pelo visto, presidiu essa reunião em que “todos os anciãos estavam presentes” com Paulo.
+====
+
+[[v44-21-19]]
+
+^<<v44-21-19,19>>^ Ele os cumprimentou e fez um relatório detalhado sobre as coisas que Deus tinha feito entre as nações por meio do ministério dele.
+
+[[v44-21-20]]
+
+^<<v44-21-20,20>>^ Depois de ouvirem isso, eles começaram a glorificar a Deus, mas lhe disseram: “Você sabe, irmão, quantos milhares de judeus se tornaram crentes, e todos eles têm zelo pela Lei.
+
+[TIP]
+====
+- *milhares*: Lit.: “miríades; dezenas de milhares”. O sentido literal da palavra grega usada aqui é “miríade” (grupo de 10.000), mas ela também pode ser usada para representar um número muito grande e indeterminado.
+====
+
+[[v44-21-21]]
+
+^<<v44-21-21,21>>^ Mas eles ouviram falar que você está ensinando todos os judeus que vivem entre as nações a abandonar a Lei de Moisés, dizendo-lhes que não circuncidem seus filhos nem sigam os costumes estabelecidos.
+
+[TIP]
+====
+- *a abandonar a Lei de*: Lit.: “uma apostasia contra”. O substantivo grego usado aqui, apostasía, vem do verbo afístemi, que significa literalmente “apartar-se de” e pode ser traduzido como “deixar; renunciar”, dependendo do contexto. (At 19:9; 2Ti 2:19) O substantivo apostasía passa a ideia de “deserção; abandono; rebelião”. Ele aparece duas vezes nas Escrituras Gregas Cristãs: aqui e em 2Te 2:3. No grego clássico, esse substantivo era usado para se referir à deserção em sentido político. E tudo indica que foi com esse mesmo sentido que o verbo foi usado em At 5:37, que fala sobre Judas, o galileu, que “juntou [uma forma de afístemi] seguidores atrás de si”. A Septuaginta usa afístemi em Gên 14:4 ao se referir a uma rebelião contra o governo e usa apostasía em Jos 22:22; 2Cr 29:19 e Je 2:19 para traduzir as palavras hebraicas para “rebelião” e “infidelidade”. Nas Escrituras Gregas Cristãs, o substantivo apostasía é usado principalmente para se referir à deserção em sentido religioso, ou seja, o ato de deixar ou abandonar a adoração verdadeira, o abandono do que a pessoa antes defendia, a renúncia completa dos princípios e da fé.
+====
+
+[[v44-21-22]]
+
+^<<v44-21-22,22>>^ O que devemos fazer, então, a respeito disso? Eles certamente ficarão sabendo que você chegou.
+
+[[v44-21-23]]
+
+^<<v44-21-23,23>>^ Portanto, faça o que vamos lhe dizer: Há conosco quatro homens que têm um voto a cumprir.
+
+[[v44-21-24]]
+
+^<<v44-21-24,24>>^ Leve esses homens com você, purifique-se cerimonialmente junto com eles e cuide das despesas deles, para que tenham a cabeça raspada. Assim, todos saberão que não é verdade o que se fala sobre você, mas que você está andando corretamente e também está obedecendo à Lei.
+
+[[v44-21-25]]
+
+^<<v44-21-25,25>>^ Quanto aos crentes dentre as nações, enviamos a eles por escrito a nossa decisão de que devem se abster do que é sacrificado a ídolos, bem como de sangue, do que foi estrangulado e de imoralidade sexual.”
+
+[TIP]
+====
+- *que foi estrangulado*: Veja a nota de estudo em At 15:20.
+- *imoralidade sexual*: Veja a nota de estudo em At 15:20.
+====
+
+[[v44-21-26]]
+
+^<<v44-21-26,26>>^ Então, no dia seguinte, Paulo levou os homens consigo e se purificou cerimonialmente junto com eles; depois entrou no templo para avisar quando se completariam os dias da purificação cerimonial e seria apresentada a oferta em favor de cada um deles.
+
+[[v44-21-27]]
+
+^<<v44-21-27,27>>^ Quando os sete dias estavam chegando ao fim, os judeus da Ásia, vendo-o no templo, agitaram toda a multidão e o agarraram,
+
+[[v44-21-28]]
+
+^<<v44-21-28,28>>^ gritando: “Homens de Israel, ajudem-nos! Este é o homem que ensina a todos, em toda a parte, coisas contra o nosso povo, contra a nossa Lei e contra este lugar. E, além disso, ele até mesmo trouxe gregos ao templo e profanou este lugar santo.”
+
+[[v44-21-29]]
+
+^<<v44-21-29,29>>^ Pois antes tinham visto Trófimo, o efésio, na cidade com ele, e pensaram que Paulo o havia levado ao templo.
+
+[[v44-21-30]]
+
+^<<v44-21-30,30>>^ Toda a cidade ficou em alvoroço, e as pessoas vieram correndo em massa, agarraram Paulo, arrastaram-no para fora do templo, e, imediatamente, as portas foram fechadas.
+
+[[v44-21-31]]
+
+^<<v44-21-31,31>>^ Enquanto tentavam matá-lo, o comandante do regimento recebeu a notícia de que toda a cidade de Jerusalém estava em confusão.
+
+[TIP]
+====
+- *o comandante*: A palavra grega khilíarkhos (quiliarca) significa literalmente “governante de 1.000”, ou seja, comandante de 1.000 soldados. O quiliarca era um tribuno militar romano. (Veja a nota de estudo em Jo 18:12.) Por volta de 56 d.C., Cláudio Lísias era o comandante militar da guarnição de Jerusalém. (At 23:22, 26) Como mostram os capítulos 21 a 24 de Atos, foi esse comandante que salvou Paulo dos ataques de uma turba e do tumulto no Sinédrio. Também foi ele que escreveu uma carta de esclarecimento ao governador Félix quando Paulo foi enviado secretamente a Cesareia.
+====
+
+[[v44-21-32]]
+
+^<<v44-21-32,32>>^ Imediatamente ele pegou soldados e oficiais do exército, e desceu correndo até a multidão. Quando as pessoas viram o comandante militar e os soldados, pararam de espancar Paulo.
+
+[TIP]
+====
+- *oficiais do exército*: Ou: “centuriões”. Um centurião era um oficial que comandava cerca de 100 soldados do exército romano.
+====
+
+[[v44-21-33]]
+
+^<<v44-21-33,33>>^ Então o comandante se aproximou, o prendeu, e mandou que ele fosse amarrado com duas correntes; depois perguntou quem era ele e o que tinha feito.
+
+[[v44-21-34]]
+
+^<<v44-21-34,34>>^ Mas alguns da multidão gritavam uma coisa, e outros gritavam outra. Assim, como não conseguia saber nada ao certo por causa do tumulto, mandou que ele fosse levado ao quartel.
+
+[TIP]
+====
+- *quartel*: Ou seja, o alojamento para tropas romanas localizado na Fortaleza (Torre) de Antônia, em Jerusalém. A fortaleza ficava junto ao canto noroeste do pátio do templo e de lá era possível ver toda a área do templo. Pelo visto, ela ficava no mesmo lugar onde Neemias antes tinha construído a “Fortaleza da Casa”, mencionada em Ne 2:8. Herodes, o Grande, fez uma reforma grande e cara na fortaleza e reforçou suas defesas. Ele deu a ela o nome de Antônia em homenagem ao comandante militar romano Marco Antônio. Antes dos dias de Herodes, a fortaleza servia principalmente como proteção contra os inimigos que vinham do norte. Depois, ela passou a servir mais como um ponto estratégico para controlar os judeus e supervisionar o que acontecia na área do templo. Havia uma passagem ligando a fortaleza ao templo. (Jewish Antiquities, XV, 424 [xi, 7]) Assim, os soldados romanos podiam chegar rapidamente à área ao redor do templo, e provavelmente foi isso o que aconteceu quando eles resgataram Paulo de uma turba. — At 21:31, 32; veja a localização da Fortaleza de Antônia no Apêndice B11.
+====
+
+[[v44-21-35]]
+
+^<<v44-21-35,35>>^ Quando chegou à escada, ele teve de ser carregado pelos soldados, por causa da violência da multidão,
+
+[[v44-21-36]]
+
+^<<v44-21-36,36>>^ pois uma multidão de pessoas o seguia, gritando: “Matem-no!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Livrem-se dele!; Acabem com ele!”.
+====
+
+[[v44-21-37]]
+
+^<<v44-21-37,37>>^ Quando estava prestes a ser levado para dentro do quartel, Paulo perguntou ao comandante: “É permitido que eu lhe diga algo?” Ele disse: “Você sabe falar grego?
+
+[[v44-21-38]]
+
+^<<v44-21-38,38>>^ Então você não é o egípcio que algum tempo atrás atiçou uma sedição e levou os 4.000 assassinos^&#42;1^ para o deserto?”
+
+[NOTE]
+====
+. Ou: “faquistas”.
+====
+
+[[v44-21-39]]
+
+^<<v44-21-39,39>>^ Paulo respondeu: “Na realidade, sou judeu, cidadão de Tarso, uma cidade importante da Cilícia. Portanto, peço-lhe que me permita falar ao povo.”
+
+[[v44-21-40]]
+
+^<<v44-21-40,40>>^ Depois de ele dar permissão, Paulo, de pé na escada, fez sinal com a mão para o povo. Fez-se um grande silêncio, e então ele se dirigiu a eles no idioma hebraico, dizendo:
+
+[TIP]
+====
+- *no idioma hebraico*: Veja a nota de estudo em Jo 5:2.
+====
+
+'''
+
+xref:044-atos/044-atos-020.adoc#v44-20-0[&#60; Capítulo Anterior] | <<v44-21-0,Topo>> | xref:044-atos/044-atos-022.adoc#v44-22-0[Próximo Capítulo &#62;]

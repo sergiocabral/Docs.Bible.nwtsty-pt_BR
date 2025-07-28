@@ -1,0 +1,290 @@
+include::./index.adoc[]
+
+[[v41-3-0]]
+=== As Boas Novas Segundo Marcos, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. Começo do ministério de Jesus, principalmente ao redor do mar da Galileia (1:14–3:35)
+* Jesus começa a pregar na Galileia (1:14, 15)
+* Chama os primeiros quatro discípulos para serem pescadores de homens (1:16-20)
+* Jesus ensina na sinagoga de Cafarnaum; expulsa um espírito impuro (1:21-28)
+* Jesus cura a sogra de Pedro e muitos outros em Cafarnaum (1:29-34)
+* Jesus ora num lugar isolado (1:35-39)
+* Leproso é curado (1:40-45)
+* Jesus cura um paralítico em Cafarnaum (2:1-12)
+* Jesus chama Levi para ser seu seguidor (2:13-17)
+* Pergunta sobre o jejum (2:18-22)
+* Jesus, ‘Senhor do sábado’ (2:23-28)
+* Homem com a mão atrofiada é curado no sábado (3:1-6)
+* Grande multidão junto ao mar; muitos são curados (3:7-12)
+* Escolha dos 12 apóstolos (3:13-19)
+* Blasfêmia contra o espírito santo (3:20-30)
+* Mãe e irmãos de Jesus (3:31-35)
+****
+
+[[v41-3-1]]
+
+^<<v41-3-1,1>>^ Novamente ele entrou numa sinagoga, e ali estava um homem com a mão atrofiada.^&#42;1^
+
+[NOTE]
+====
+. Ou: “paralisada”. Lit.: “ressequida”.
+====
+
+[[v41-3-2]]
+
+^<<v41-3-2,2>>^ Assim, observavam-no atentamente para ver se curaria o homem no sábado, a fim de acusá-lo.
+
+[[v41-3-3]]
+
+^<<v41-3-3,3>>^ Ele disse ao homem com a mão atrofiada:^&#42;1^ “Levante-se e venha para o centro.”
+
+[NOTE]
+====
+. Ou: “paralisada”. Lit.: “ressequida”.
+====
+
+[[v41-3-4]]
+
+^<<v41-3-4,4>>^ A seguir, ele lhes perguntou: “É permitido, no sábado, fazer o bem ou fazer o mal, salvar uma vida ou matar?” Mas eles continuaram calados.
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+- *salvar uma vida ou matar*: Ou: “salvar ou matar uma alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v41-3-5]]
+
+^<<v41-3-5,5>>^ Depois de olhar para os que estavam à sua volta, com indignação e profundamente triste com a insensibilidade do coração deles, ele disse ao homem: “Estenda a mão.” Ele a estendeu, e a mão foi restabelecida.
+
+[TIP]
+====
+- *com indignação e profundamente triste*: Apenas Marcos relata a reação de Jesus ao ver a insensibilidade, ou dureza, do coração dos líderes religiosos nessa ocasião. (Mt 12:13; Lu 6:​10) Essa informação de como Jesus se sentiu talvez tenha sido dada por Pedro, que também era um homem de fortes sentimentos. — Veja a “Introdução a Marcos”.
+====
+
+[[v41-3-6]]
+
+^<<v41-3-6,6>>^ Os fariseus saíram então e imediatamente começaram a conspirar com os partidários de Herodes contra Jesus, para matá-lo.
+
+[TIP]
+====
+- *começaram a conspirar*: Ou: “começaram a se reunir em conselho”. Esta é a primeira de duas ocasiões em que a Bíblia diz especificamente que dois grupos rivais, os fariseus e os partidários de Herodes, conspiraram juntos para se livrar de Jesus. A segunda ocasião foi quase dois anos mais tarde, três dias antes de Jesus ser morto. Isso indica que esses dois grupos continuaram a tramar contra Jesus por um bom tempo. — Mt 22:15-​22.
+- *partidários de Herodes*: Veja o Glossário.
+====
+
+[[v41-3-7]]
+
+^<<v41-3-7,7>>^ Mas Jesus foi para o mar com os seus discípulos, e uma grande multidão da Galileia e da Judeia o seguia.
+
+[TIP]
+====
+- *o mar*: Ou seja, o mar da Galileia. — Veja a nota de estudo em Mt 4:​18.
+====
+
+[[v41-3-8]]
+
+^<<v41-3-8,8>>^ Ao ouvir falar de quantas coisas ele fazia, uma grande multidão foi ao encontro dele, até mesmo de Jerusalém, da Idumeia, do outro lado do Jordão e dos arredores de Tiro e de Sídon.
+
+[TIP]
+====
+- *Idumeia*: Na época do ministério de Jesus, a Idumeia era a extremidade sul da província romana da Judeia. (Veja o Apêndice B10.) Em grego, o nome dessa região significa “[terra] dos edomitas”. Os edomitas originalmente ocupavam o território ao sul do Mar Morto. (Veja os Apêndices B3 e B4.) No século 6 a.C. eles foram derrotados por Nabonido, rei de Babilônia. Com o tempo, os árabes nabateus ocuparam a terra dos edomitas. Então no século 4 a.C. os edomitas foram mais para o norte, para o Neguebe, chegando até a região ao redor de Hebrom, e foi esse território que ficou conhecido como Idumeia. Eles foram derrotados pelos asmoneus (macabeus) e obrigados a escolher entre ser circuncidados e seguir a lei judaica ou ser expulsos da Idumeia. Os antepassados dos Herodes estavam entre os edomitas que aceitaram a lei e os costumes judaicos.
+- *do outro lado do Jordão*: Pelo visto, neste contexto se refere à região ao leste do rio Jordão, também chamada de Pereia (da palavra grega péran, que significa “o outro lado; além”).
+====
+
+[[v41-3-9]]
+
+^<<v41-3-9,9>>^ E ele disse aos seus discípulos que mantivessem um pequeno barco à disposição dele, para que a multidão não o apertasse.
+
+[[v41-3-10]]
+
+^<<v41-3-10,10>>^ Visto que ele curava a muitos, todos os que tinham doenças graves se aglomeravam em volta dele para tocá-lo.
+
+[[v41-3-11]]
+
+^<<v41-3-11,11>>^ Até mesmo os espíritos impuros, sempre que o viam, se prostravam diante dele, gritavam e diziam: “Você é o Filho de Deus.”
+
+[[v41-3-12]]
+
+^<<v41-3-12,12>>^ Muitas vezes, porém, ele lhes ordenou com firmeza que não dissessem a outros quem ele era.
+
+[TIP]
+====
+- *não dissessem a outros quem ele era*: Os espíritos impuros sabiam que Jesus era “o Filho de Deus” e usaram essa expressão ao se dirigir a ele (versículo 11). Mas Jesus não permitiu que os demônios dessem testemunho sobre ele porque eles odeiam o que é santo, são rebeldes e são rejeitados por Deus como inimigos dele. (Veja a nota de estudo em Mr 1:​25.) Do mesmo modo, quando “um demônio de adivinhação” levou uma moça a identificar Paulo e Silas como “escravos do Deus Altíssimo” e proclamadores do “caminho da salvação”, Paulo expulsou dela o demônio. — At 16:16-​18.
+====
+
+[[v41-3-13]]
+
+^<<v41-3-13,13>>^ Ele subiu a um monte e convocou os que ele quis, e eles se dirigiram a ele.
+
+[[v41-3-14]]
+
+^<<v41-3-14,14>>^ Formou^&#42;1^ então um grupo de 12, a quem deu o nome de apóstolos, aqueles que o acompanhariam e que ele enviaria para pregar,
+
+[NOTE]
+====
+. Ou: “Designou”.
+====
+
+[TIP]
+====
+- *apóstolos*: Ou: “enviados”. A palavra grega apóstolos vem do verbo apostéllo, que é usado no final do versículo e foi traduzido “enviaria”. — Veja a nota de estudo em Mt 10:2.
+====
+
+[[v41-3-15]]
+
+^<<v41-3-15,15>>^ com autoridade para expulsar demônios.
+
+[[v41-3-16]]
+
+^<<v41-3-16,16>>^ E no grupo dos Doze que ele formou^&#42;1^ estavam Simão (a quem também deu o nome de Pedro),
+
+[NOTE]
+====
+. Ou: “designou”.
+====
+
+[TIP]
+====
+- *a quem também deu o nome de Pedro*: O nome que Jesus deu a Simão significa “pedra; um pedaço de rocha”. (Jo 1:​42) Jesus conseguiu discernir o que Pedro era no íntimo, assim como ele conseguiu discernir que Natanael era um homem ‘em quem não havia falsidade’. (Jo 1:​47) Pedro tinha qualidades que o ajudariam a permanecer firme como uma rocha, especialmente depois da morte e da ressurreição de Jesus. — Veja a nota de estudo em Mt 10:2.
+====
+
+[[v41-3-17]]
+
+^<<v41-3-17,17>>^ Tiago, filho de Zebedeu, João, irmão de Tiago (ele também deu a estes o nome de Boanerges, que significa “filhos do trovão”),
+
+[TIP]
+====
+- *Boanerges*: Expressão de origem semítica encontrada apenas no relato de Marcos. Jesus deu a Tiago e João esse nome que provavelmente descrevia bem o intenso entusiasmo deles. — Lu 9:​54.
+- *que significa*: Marcos explica ou traduz palavras que um leitor judeu já conheceria. Isso indica que ele escreveu seu relato pensando em leitores não judeus.
+- *filhos do trovão*: Em hebraico, aramaico e grego a expressão “filho(s) de” pode ser usada para indicar uma qualidade ou característica que se destaca em uma pessoa ou para identificar um grupo de pessoas. — Veja a nota de estudo em Boanerges neste versículo e a nota de estudo em At 4:36.
+====
+
+[[v41-3-18]]
+
+^<<v41-3-18,18>>^ André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Cananita,
+
+[TIP]
+====
+- *Bartolomeu*: Significa “filho de Tolmai”. Os Evangelhos de Mateus e de Lucas mencionam os apóstolos Bartolomeu e Filipe juntos, do mesmo modo que o Evangelho de João menciona Natanael e Filipe juntos. (Mt 10:3; Lu 6:14; Jo 1:45, 46) Por isso, acredita-se que Bartolomeu seja a mesma pessoa que João chama de Natanael.
+- *Tiago, filho de Alfeu*: Pelo visto é o mesmo discípulo chamado de “Tiago, o Menor” em Mr 15:40. Acredita-se que Alfeu seja o Clopas mencionado em Jo 19:25. Se esse for o caso, então ele seria casado com a mulher que Mateus chama de “a outra Maria”. (Mt 27:56; 28:1; Mr 15:40; 16:1; Lu 24:10) Tudo indica que esse Alfeu não é o mesmo Alfeu mencionado em Mr 2:​14, o pai de Levi.
+- *Tadeu*: O nome Tadeu não aparece nas listas com os nomes dos apóstolos feitas por Lucas em Lu 6:16 e At 1:13. No lugar de Tadeu, aparece “Judas, filho de Tiago”. Pelo visto, Tadeu é outro nome do apóstolo que João chama de “Judas, não o Iscariotes”. (Jo 14:22) Talvez Mateus e Marcos tenham usado o nome Tadeu para que ele não fosse confundido com Judas Iscariotes, o traidor.
+- *o Cananita*: Uma descrição usada para que o apóstolo Simão não fosse confundido com o apóstolo Simão Pedro. (Mt 10:4) Acredita-se que a palavra “Cananita” venha de uma palavra hebraica ou aramaica que significa “zeloso; entusiasta”. Lucas se refere a esse Simão usando a palavra grega zelotés, que também significa “zeloso; entusiasta”. (Lu 6:15; At 1:13) É possível que antes Simão fosse um dos zelotes, um partido judaico que lutava contra os romanos. Mas também é possível que ele tenha sido descrito assim por causa de seu zelo e entusiasmo.
+====
+
+[[v41-3-19]]
+
+^<<v41-3-19,19>>^ e Judas Iscariotes, que mais tarde o traiu.
+Então ele entrou numa casa,
+
+[TIP]
+====
+- *Iscariotes*: Veja a nota de estudo em Mt 10:4.
+====
+
+[[v41-3-20]]
+
+^<<v41-3-20,20>>^ e novamente a multidão se ajuntou, de modo que não podiam sequer tomar uma refeição.
+
+[[v41-3-21]]
+
+^<<v41-3-21,21>>^ Mas, quando os seus parentes souberam do que estava acontecendo, saíram para pegá-lo, pois diziam: “Ele perdeu o juízo.”
+
+[TIP]
+====
+- *os seus parentes*: Entre esses parentes talvez estivessem Tiago e Judas, meios-irmãos de Jesus, que escreveram um livro bíblico cada um. Os textos de Mt 13:55 e Mr 6:3 mencionam os nomes de quatro meios-irmãos de Jesus. — Veja a nota de estudo em Mt 13:55.
+====
+
+[[v41-3-22]]
+
+^<<v41-3-22,22>>^ Também os escribas que desceram de Jerusalém diziam: “Ele está com Belzebu e expulsa os demônios por meio do governante dos demônios.”
+
+[TIP]
+====
+- *Belzebu*: Nome usado para se referir a Satanás. — Veja a nota de estudo em Mt 10:25.
+====
+
+[[v41-3-23]]
+
+^<<v41-3-23,23>>^ Portanto, depois de chamá-los, falou-lhes com ilustrações: “Como Satanás pode expulsar a Satanás?
+
+[TIP]
+====
+- *ilustrações*: Veja a nota de estudo em Mt 13:3.
+====
+
+[[v41-3-24]]
+
+^<<v41-3-24,24>>^ Se um reino fica dividido contra si mesmo, esse reino não pode ficar de pé,
+
+[[v41-3-25]]
+
+^<<v41-3-25,25>>^ e, se uma casa fica dividida contra si mesma, essa casa não poderá ficar de pé.
+
+[TIP]
+====
+- *casa*: No idioma original, a palavra traduzida como “casa” podia se referir aos membros de uma família e, em alguns casos, podia incluir escravos e empregados. Às vezes, se referia aos que moravam ou trabalhavam no palácio do rei. (At 7:10; Fil 4:22) A mesma palavra era usada para se referir a famílias reais como a dos Herodes e a dos Césares, onde brigas e divisões eram comuns e contribuíram para a sua queda.
+- *ficar de pé*: Ou: “durar (permanecer unida)”. — Veja a nota de estudo em casa neste versículo.
+====
+
+[[v41-3-26]]
+
+^<<v41-3-26,26>>^ Também, se Satanás se levantou contra si mesmo e ficou dividido, não pode ficar de pé, mas está chegando ao fim.
+
+[[v41-3-27]]
+
+^<<v41-3-27,27>>^ De fato, ninguém que entre na casa de um homem forte é capaz de roubar os seus bens, a menos que primeiro amarre o homem forte. Só então poderá saquear a casa dele.
+
+[[v41-3-28]]
+
+^<<v41-3-28,28>>^ Eu lhes digo a verdade: Todas as coisas serão perdoadas aos filhos dos homens, não importa que pecados cometam e que blasfêmias digam.
+
+[[v41-3-29]]
+
+^<<v41-3-29,29>>^ No entanto, quem blasfema contra o espírito santo nunca terá perdão, mas é culpado de pecado eterno.”
+
+[TIP]
+====
+- *blasfema contra o espírito santo*: Blasfemar inclui dizer coisas que ofendem ou difamam a Deus ou falar com desrespeito de coisas sagradas. Visto que o espírito santo vem do próprio Deus, a pessoa que intencionalmente age contra o espírito ou não reconhece sua atuação está blasfemando contra Deus. Conforme Mt 12:24, 28 e Mr 3:22, os líderes religiosos judaicos viam Jesus realizar milagres por meio do espírito santo de Deus, mas atribuíam esse poder a Satanás, o Diabo.
+- *culpado de pecado eterno*: “Pecado eterno” parece se referir ao pecado intencional que resulta em condenação eterna; não existe nenhum sacrifício que possa cobrir esse tipo de pecado. — Veja a nota de estudo em blasfema contra o espírito santo neste versículo e a nota de estudo no relato paralelo, em Mt 12:31.
+====
+
+[[v41-3-30]]
+
+^<<v41-3-30,30>>^ Jesus disse isso porque diziam: “Ele está com um espírito impuro.”
+
+[[v41-3-31]]
+
+^<<v41-3-31,31>>^ Chegaram então sua mãe e seus irmãos e, ficando do lado de fora, mandaram alguém chamá-lo.
+
+[TIP]
+====
+- *seus irmãos*: Ou seja, meios-irmãos de Jesus. O nome de quatro meios-irmãos de Jesus aparece em Mt 13:55 e Mr 6:3. — Para mais informações sobre a palavra “irmão”, veja a nota de estudo em Mt 13:55.
+====
+
+[[v41-3-32]]
+
+^<<v41-3-32,32>>^ Como havia uma multidão sentada em volta dele, disseram-lhe: “Veja! Sua mãe e seus irmãos estão lá fora procurando o senhor.”
+
+[[v41-3-33]]
+
+^<<v41-3-33,33>>^ Mas ele lhes respondeu: “Quem são minha mãe e meus irmãos?”
+
+[[v41-3-34]]
+
+^<<v41-3-34,34>>^ Então ele olhou para os que estavam sentados ao redor dele e disse: “Aqui estão a minha mãe e os meus irmãos!
+
+[TIP]
+====
+- *Aqui estão a minha mãe e os meus irmãos!*: Jesus fez aqui um contraste entre seus irmãos de sangue e seus irmãos espirituais, os discípulos. Pelo visto, alguns dos meios-irmãos de Jesus não tinham fé nele. (Jo 7:5) Por outro lado, seus discípulos se esforçavam em fazer “a vontade de Deus”. (Mr 3:35) Jesus mostrou que, por mais que amasse os membros de sua família, o amor que sentia por seus discípulos era ainda maior.
+====
+
+[[v41-3-35]]
+
+^<<v41-3-35,35>>^ Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe.”
+
+'''
+
+xref:041-marcos/041-marcos-002.adoc#v41-2-0[&#60; Capítulo Anterior] | <<v41-3-0,Topo>> | xref:041-marcos/041-marcos-004.adoc#v41-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,263 @@
+include::./index.adoc[]
+
+[[v46-10-0]]
+=== A Primeira aos Coríntios, 10
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. PENSAR NO BEM-ESTAR ESPIRITUAL DE OUTROS CRISTÃOS (8:1–11:1)
+* 1. Sobre os alimentos oferecidos a ídolos (8:1-13)
+* O amor é superior ao conhecimento (8:1-3)
+* Não fazer outros tropeçar na questão de comer alimentos oferecidos a ídolos (8:4-13)
+* 2. O exemplo de Paulo como apóstolo (9:1-27)
+* Ministros cristãos têm direito de receber ajuda material (9:1-18)
+* Tornar-se todas as coisas para pessoas de todo tipo (9:19-23)
+* É necessário ter autodomínio na corrida pela vida (9:24-27)
+* 3. Exemplos da história de Israel que servem de alerta (10:1-22)
+* Os israelitas no deserto (10:1-5)
+* Avisos contra ganância, idolatria, imoralidade e outras coisas más (10:6-11)
+* Ninguém é tentado além do que pode suportar (10:12, 13)
+* “Fujam da idolatria”; rejeitem a mesa de demônios (10:14-22)
+* 4. Ter consideração pelos outros ao usar a liberdade cristã (10:23–11:1)
+* “Tudo é permitido, mas nem tudo edifica” (10:23, 24)
+* Levar em conta a consciência de outros (10:25-30)
+* Fazer todas as coisas para a glória de Deus; imitar Paulo e Cristo (10:31–11:1)
+****
+
+[[v46-10-1]]
+
+^<<v46-10-1,1>>^ Irmãos, quero que vocês saibam que os nossos antepassados estiveram todos debaixo da nuvem e todos passaram pelo mar,
+
+[TIP]
+====
+- *estiveram todos debaixo da nuvem e todos passaram pelo mar*: Aqui, Paulo faz referência ao milagre impressionante que aconteceu durante o Êxodo, nos dias de Moisés. Jeová fez com que as águas do Mar Vermelho se erguessem como se fossem muralhas, criando um corredor para que os israelitas pudessem atravessar o leito do mar em terra seca. (Êx 14:21, 22, 29) A coluna de nuvem, que representava o cuidado e a proteção de Jeová, estava acima e atrás deles. (Êx 14:19, 24; Núm 14:14) Assim, os israelitas estavam “debaixo da nuvem” enquanto ‘passavam pelo mar’.
+====
+
+[[v46-10-2]]
+
+^<<v46-10-2,2>>^ todos foram batizados em Moisés, por meio da nuvem e do mar,
+
+[TIP]
+====
+- *batizados em Moisés*: Ou: “imersos em Moisés”. O batismo (ou imersão) da nação de Israel mencionado aqui por Paulo foi um batismo simbólico. Neste versículo, a palavra grega baptízo foi usada para indicar que os israelitas do passado tinham sido entregues aos cuidados de Moisés, o líder escolhido por Deus. Jeová realizou esse batismo por meio de um anjo. Enquanto os israelitas atravessavam o leito seco do Mar Vermelho em direção à margem leste, eles estavam rodeados pelas águas, e a nuvem impedia que eles fossem vistos pelos egípcios que os perseguiam. Em sentido figurado, Deus levantou os israelitas das águas do Mar Vermelho quando eles saíram do outro lado do mar como uma nação livre. (Êx 14:19, 22, 24, 25) Para passarem por esse batismo, os israelitas tiveram que se unir a Moisés e atravessar o mar seguindo a ele. Assim, o povo foi batizado “em Moisés” no sentido de que teve que seguir a liderança dele.
+====
+
+[[v46-10-3]]
+
+^<<v46-10-3,3>>^ todos comeram o mesmo alimento espiritual
+
+[[v46-10-4]]
+
+^<<v46-10-4,4>>^ e todos beberam a mesma bebida espiritual. Pois bebiam da rocha espiritual que os seguia, e essa rocha representava o Cristo.
+
+[TIP]
+====
+- *rocha*: A palavra grega pétra é feminina e é traduzida como “rocha”. Ela pode se referir a uma camada de rocha, um penhasco ou um rochedo. Essa palavra aparece também em Mt 7:24, 25; 16:18; 27:60; Lu 6:48; 8:6; Ro 9:33 e 1Pe 2:8. (Veja a nota de estudo em Mt 16:18.) Em pelo menos duas ocasiões e dois locais diferentes, os israelitas receberam água de uma rocha de forma milagrosa. (Êx 17:5-7; Núm 20:1-11) Em certo sentido, era como se a rocha, como fonte de água, os seguisse. Essa rocha representava o Cristo, que disse para os judeus: “Se alguém tiver sede, venha a mim e beba.” — Jo 7:37.
+- *representava*: Ou: “era”. Aqui, o verbo grego para “ser” foi usado com o sentido de “significar; representar”. — Compare com a nota de estudo em Mt 26:26.
+====
+
+[[v46-10-5]]
+
+^<<v46-10-5,5>>^ Contudo, Deus não se agradou da maioria deles, pois foram mortos no deserto.
+
+[TIP]
+====
+- *deserto*: Veja o Glossário.
+====
+
+[[v46-10-6]]
+
+^<<v46-10-6,6>>^ Essas coisas se tornaram exemplos para nós, para que não desejemos coisas prejudiciais, como eles desejaram.
+
+[TIP]
+====
+- *exemplos*: A palavra grega que aparece aqui é o plural de týpos. Neste versículo, ela também poderia ser traduzida como “exemplos que servem de alerta” ou “lições”. Aqui e nos próximos versículos, Paulo menciona vários acontecimentos da história de Israel que ensinam lições importantes para os cristãos.
+- *não desejemos coisas prejudiciais*: Um dos motivos de os israelitas terem começado a ‘desejar coisas prejudiciais’ (ou “coisas más”, como dizem outras Bíblias) foi eles não darem valor para as coisas boas que Jeová fazia por eles. Por exemplo, em várias ocasiões os israelitas mostraram que desprezavam o maná, que Jeová dava a eles de forma milagrosa. (Núm 11:4-6; 21:5) Essa falta de apreço ficou clara quando Jeová deu a eles uma grande quantidade de codornizes para comer. Naquela ocasião, eles deixaram que a ganância os fizesse agir de forma vergonhosa. As codornizes, assim como os pepinos, os alhos-porós e as cebolas que os israelitas desejavam, não eram em si mesmos “coisas prejudiciais”. (Núm 11:4-6, 19, 20, 31-34) Essas coisas só foram chamadas por Paulo de “prejudiciais”, ou “más”, por causa da atitude gananciosa e egoísta dos israelitas.
+====
+
+[[v46-10-7]]
+
+^<<v46-10-7,7>>^ Não se tornem idólatras, como alguns deles se tornaram; assim como está escrito: “O povo se sentou para comer e beber. Então se levantaram para se divertir.”
+
+[TIP]
+====
+- *Não se tornem idólatras, como alguns deles se tornaram*: Aqui, Paulo está se referindo à ocasião em que os israelitas adoraram um bezerro de ouro junto ao Monte Sinai. (Êx 32:1-6) Ao fazerem isso, eles estavam desobedecendo a um mandamento direto que Jeová tinha dado a eles apenas algumas semanas antes e que eles tinham concordado em obedecer. (Êx 20:4-6; 24:3) Pelo visto, os israelitas não queriam rejeitar a Jeová como seu Deus; Arão chegou a dizer que aquela celebração idólatra era “uma festividade para Jeová”. Mas eles caíram na armadilha de misturar a adoração a Jeová com a idolatria.
+====
+
+[[v46-10-8]]
+
+^<<v46-10-8,8>>^ E não cometamos imoralidade sexual, como alguns deles cometeram imoralidade sexual, só para caírem, 23.000 deles num só dia.
+
+[TIP]
+====
+- *não cometamos imoralidade sexual . . . cometeram imoralidade sexual*: Logo antes de Israel entrar na Terra Prometida, quando o povo estava em Sitim, nas planícies de Moabe, mulheres moabitas seduziram milhares de israelitas. Elas os levaram a cometer imoralidade sexual e a se envolver na adoração impura de Baal de Peor. — Núm 25:1-3, 9; veja a nota de estudo em 1Co 5:1.
+- *23.000 deles num só dia*: Ao dar esse forte alerta contra a imoralidade sexual, Paulo pelo visto está se referindo a Núm 25:9. (Veja a nota de estudo em 1Co 5:9.) Alguns apontam para uma aparente contradição entre o número que Paulo dá aqui e o que aparece em Núm 25:9, que diz que “os que morreram por causa do flagelo somaram 24.000”. Mas Paulo deixa claro que os 23.000 que ele menciona morreram “num só dia”, provavelmente se referindo aos que foram mortos diretamente pelo flagelo. Os “líderes” dos que pecaram foram mortos pelos juízes depois disso. (Núm 25:4, 5) Assim, pode ser que 24.000 seja o total dos que morreram, já incluindo os líderes que Deus considerou responsáveis pelos pecados do povo.
+====
+
+[[v46-10-9]]
+
+^<<v46-10-9,9>>^ Nem ponhamos Jeová à prova, como alguns deles o puseram à prova, só para serem mortos pelas serpentes.
+
+[TIP]
+====
+- *Nem ponhamos Jeová à prova*: Pelo visto, Paulo estava pensando em diferentes ocasiões em que os israelitas puseram Jeová à prova no deserto, como as que são mencionadas em Êx 16:2, 3; 17:2, 3, 7 e Núm 14:22. Mas, na segunda parte do versículo, Paulo faz referência a uma ocasião específica, dizendo como alguns deles o puseram à prova, só para serem mortos pelas serpentes. Esse acontecimento está registrado em Núm 21:5, 6, que diz que “o povo falava contra Deus e Moisés” e “Jeová enviou serpentes venenosas contra o povo”. Pode ser que, quando Paulo fala aqui sobre pôr Jeová à prova, ele também esteja fazendo referência ao Sal 78:18, onde o salmista diz que os israelitas “desafiaram [lit.: “testaram”] a Deus no coração”. — Veja o Apêndice C3 (introdução e 1Co 10:9).
+====
+
+[[v46-10-10]]
+
+^<<v46-10-10,10>>^ E não sejam queixosos, como alguns deles se queixaram, só para serem mortos pelo destruidor.
+
+[TIP]
+====
+- *E não sejam queixosos, como alguns deles se queixaram*: Os israelitas se queixaram contra Jeová em várias ocasiões. Por exemplo, eles criticaram Moisés e Arão duramente quando 10 dos 12 espiões que foram enviados para a terra de Canaã voltaram com um relatório negativo. Os israelitas chegaram a ponto de dizer que seria melhor designar outro líder no lugar de Moisés e voltar para o Egito. (Núm 14:1-4) Mais tarde, quando os rebeldes Corá, Datã e Abirão foram executados junto com os que tomaram o lado deles, “toda a assembleia . . . começou a se queixar”. Pelo visto, alguns israelitas começaram a se queixar porque achavam que a execução tinha sido injusta, e a atitude deles acabou afetando muitos outros. Por isso, Jeová trouxe um flagelo que matou 14.700 israelitas. (Núm 16:41, 49) Jeová considerava as reclamações contra os representantes dele como sendo feitas contra ele mesmo. — Núm 17:5.
+====
+
+[[v46-10-11]]
+
+^<<v46-10-11,11>>^ Essas coisas lhes aconteceram como exemplos e foram escritas como aviso para nós, para quem já chegou o fim dos sistemas de coisas.
+
+[TIP]
+====
+- *exemplos*: Ou: “exemplos que servem de alerta”. — Veja a nota de estudo em 1Co 10:6.
+- *para quem já chegou o fim dos sistemas de coisas*: Depois de citar vários acontecimentos da história de Israel (1Co 10:1-10), Paulo fala aqui do fim dos sistemas de coisas, ou seja, das características predominantes, de sua época. (Veja o Glossário, “Sistema[s] de coisas”.) Esses “sistemas de coisas” estavam relacionados com o pacto da Lei e incluíam coisas como: um sacerdócio; um sistema de sacrifícios e de leis sobre alimentos; a adoração no tabernáculo e no templo, com festividades e sábados; e um sistema de governo nacional que passou a incluir reis humanos. Muitas das características que marcaram a época israelita ou judaica só chegaram ao seu fim completo em 70 d.C. Nesse ano, Jerusalém e o seu templo foram destruídos, acabando para sempre com o sacerdócio, os sacrifícios e a adoração no templo que eram exigidos pela Lei. Além disso, os judeus, que tinham sido o povo escolhido de Deus, foram espalhados entre as nações, cumprindo a profecia de Jesus em Lu 21:24 e as palavras de Paulo aqui sobre “o fim dos sistemas [judaicos] de coisas”.
+====
+
+[[v46-10-12]]
+
+^<<v46-10-12,12>>^ Portanto, quem pensa estar de pé, tome cuidado para não cair.
+
+[[v46-10-13]]
+
+^<<v46-10-13,13>>^ Não sobreveio a vocês nenhuma tentação a não ser as que são comuns aos homens. Mas Deus é fiel, e ele não deixará que vocês sejam tentados além do que podem suportar; mas, quando vier a tentação, ele também providenciará a saída, para que a possam suportar.
+
+[[v46-10-14]]
+
+^<<v46-10-14,14>>^ Portanto, meus amados, fujam da idolatria.
+
+[[v46-10-15]]
+
+^<<v46-10-15,15>>^ Falo como a homens de discernimento; julguem vocês mesmos o que eu digo.
+
+[[v46-10-16]]
+
+^<<v46-10-16,16>>^ Será que o cálice de bênção que abençoamos não é uma participação no sangue do Cristo? O pão que partimos não é uma participação no corpo do Cristo?
+
+[[v46-10-17]]
+
+^<<v46-10-17,17>>^ Visto que há um só pão, nós, embora muitos, somos um só corpo, pois todos participamos daquele único pão.
+
+[[v46-10-18]]
+
+^<<v46-10-18,18>>^ Olhem para o Israel natural:^&#42;1^ Não são participantes com o altar os que comem dos sacrifícios?
+
+[NOTE]
+====
+. Lit.: “Israel segundo a carne”.
+====
+
+[[v46-10-19]]
+
+^<<v46-10-19,19>>^ O que então estou querendo dizer? Que aquilo que se sacrifica a um ídolo é alguma coisa, ou que o ídolo é alguma coisa?
+
+[[v46-10-20]]
+
+^<<v46-10-20,20>>^ Não; mas digo que o que as nações sacrificam, elas sacrificam a demônios, e não a Deus. E eu não quero que vocês se tornem participantes de nada com os demônios.
+
+[TIP]
+====
+- *o que as nações sacrificam, elas sacrificam a demônios*: No versículo anterior, Paulo deixa claro que os ídolos não são nada. O verdadeiro perigo da adoração a ídolos é quem está por trás deles. Aqui, Paulo pelo visto está fazendo referência a De 32:17, mas o Sal 106:36, 37 diz algo parecido. Quem está por trás da idolatria é “o governante dos demônios”, que Jesus identificou como Satanás. (Mt 12:24-26) Quando as pessoas das nações faziam sacrifícios aos ídolos ou deuses falsos, elas estavam na verdade adorando a demônios. Além disso, nas cerimônias religiosas, elas muitas vezes comiam parte da carne sacrificada aos ídolos. Ao fazer isso, elas estavam como que tomando uma refeição com seus deuses e, assim, se associando com os demônios.
+====
+
+[[v46-10-21]]
+
+^<<v46-10-21,21>>^ Vocês não podem beber o cálice de Jeová e o cálice de demônios; não podem participar da “mesa de Jeová” e da mesa de demônios.
+
+[TIP]
+====
+- *o cálice de Jeová*: Em 1Co 10:16, Paulo fala sobre o cálice de vinho que simboliza o sangue de Cristo na Ceia do Senhor. Ali, ele chama esse cálice de “o cálice de bênção que abençoamos”. Quando Jesus realizou a primeira Ceia do Senhor, ele proferiu uma bênção, ou seja, fez uma oração, antes de passar o cálice para seus discípulos. (Mt 26:27, 28; Lu 22:19, 20) Os cristãos seguem o modelo deixado por Jesus e oram antes de passar o cálice. Mas foi Jeová quem fez todas as provisões que beneficiam os cristãos, incluindo o sacrifício de resgate de Jesus; foi para Jeová que Jesus ofereceu o valor de seu sacrifício; foi Jeová quem definiu como o valor desse sacrifício seria usado; e foi Jeová quem predisse e estabeleceu o novo pacto. (Je 31:31-34) Assim, é apropriado dizer aqui “o cálice de Jeová”. — Veja o Apêndice C3 (introdução e 1Co 10:21a).
+- *cálice de demônios . . . mesa de demônios*: Assim como uma pessoa que participava da Ceia do Senhor estava como que tomando uma refeição com Deus — semelhante ao que acontecia nos sacrifícios de participação em comum do antigo Israel (Le 3:1-16; 7:28-36; 1Co 10:16) — a pessoa que participava de uma refeição sacrificial para ídolos estava como que tomando uma refeição com demônios. Os cristãos não podiam participar da Ceia do Senhor e, ao mesmo tempo, comer junto com adoradores de ídolos em suas cerimônias religiosas.
+- *mesa de Jeová*: Acredita-se que aqui Paulo esteja fazendo referência a Mal 1:7, 12, onde o altar do templo de Jeová é chamado de “mesa de Jeová”. Nesses mesmos versículos, os sacrifícios oferecidos no altar são chamados de “alimento [lit.: “pão”]”. (Mal 1:7; nota de rodapé; Ez 41:22) Quando os israelitas comiam parte do sacrifício de participação em comum oferecido a Deus, era como se eles estivessem tomando uma refeição com Deus, porque ele era representado pelo altar. — Veja a nota de estudo em o cálice de Jeová neste versículo e o Apêndice C3 (introdução e 1Co 10:21b).
+====
+
+[[v46-10-22]]
+
+^<<v46-10-22,22>>^ Ou ‘estamos provocando Jeová ao ciúme’? Será que somos mais fortes do que ele?
+
+[TIP]
+====
+- *Ou ‘estamos provocando Jeová ao ciúme’?*: Aqui, Paulo está alertando os cristãos sobre o perigo de se envolver em qualquer forma de idolatria, já que isso iria provocar o ciúme de Jeová e despertar sua ira. Paulo está fazendo referência a De 32:21, mas não cita esse versículo palavra por palavra. O contexto desse versículo de Deuteronômio mostra que foi Jeová quem disse: “Provocaram a minha fúria [ou: “o meu ciúme”] por causa daquilo que não é deus.” — De 32:19-21; para uma explicação sobre os motivos de o nome de Deus ter sido usado aqui, veja o Apêndice C3 (introdução e 1Co 10:22).
+====
+
+[[v46-10-23]]
+
+^<<v46-10-23,23>>^ Tudo é permitido, mas nem tudo é vantajoso. Tudo é permitido, mas nem tudo edifica.
+
+[TIP]
+====
+- *permitido*: Ou: “lícito”. — Veja a nota de estudo em 1Co 6:12.
+====
+
+[[v46-10-24]]
+
+^<<v46-10-24,24>>^ Que cada um persista em buscar não a sua própria vantagem, mas a da outra pessoa.
+
+[[v46-10-25]]
+
+^<<v46-10-25,25>>^ Comam de tudo o que se vende no açougue, sem fazer perguntas por causa da sua consciência,
+
+[TIP]
+====
+- *Comam de tudo o que se vende no açougue*: Naquela época, o “açougue” (em grego, mákellon) não vendia apenas carne e peixe, mas também outros alimentos. Os templos às vezes vendiam a carne que sobrava para comerciantes, que podiam revendê-la em seus comércios. A carne vendida nos açougues tinha perdido o significado religioso e era como qualquer outra carne. Assim, os cristãos não precisavam considerar a carne que vinha do templo como impura ou contaminada. Desde que ela tivesse sido sangrada corretamente, eles podiam comprá-la. — Veja as notas de estudo em 1Co 8:1, 4.
+====
+
+[[v46-10-26]]
+
+^<<v46-10-26,26>>^ pois “a Jeová pertence a terra e tudo o que nela há”.
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação do Sal 24:1. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja os Apêndices C1 e C2.
+====
+
+[[v46-10-27]]
+
+^<<v46-10-27,27>>^ Se algum descrente os convidar para uma refeição, e vocês quiserem ir, comam de tudo o que se puser diante de vocês, sem fazer perguntas por causa da sua consciência.
+
+[[v46-10-28]]
+
+^<<v46-10-28,28>>^ Mas, se alguém lhes disser: “Isso é algo oferecido em sacrifício”, não comam, por causa daquele que lhes disse isso e por causa da consciência.
+
+[TIP]
+====
+- *por causa da consciência*: Alguns manuscritos gregos e algumas traduções antigas da Bíblia para outros idiomas acrescentam o seguinte: “Porque a terra pertence ao Senhor, e assim também a sua plenitude.” Algumas traduções modernas da Bíblia também fazem isso. Mas muitos dos manuscritos mais antigos e confiáveis não incluem essas palavras aqui no versículo 28. Pelo visto, elas não faziam parte do texto original. Palavras parecidas podem ser encontradas em 1Co 10:26, onde não existe dúvida sobre o texto grego original. — Veja o Apêndice A3; veja a nota de estudo em 1Co 10:26.
+====
+
+[[v46-10-29]]
+
+^<<v46-10-29,29>>^ Não me refiro à sua própria consciência, mas à da outra pessoa. Pois, por que a minha liberdade deveria ser julgada pela consciência de outro?
+
+[[v46-10-30]]
+
+^<<v46-10-30,30>>^ Se eu dou graças quando participo de uma refeição, por que serei criticado por causa daquilo pelo qual dou graças?
+
+[[v46-10-31]]
+
+^<<v46-10-31,31>>^ Portanto, quer vocês comam, quer bebam, quer façam qualquer outra coisa, façam todas as coisas para a glória de Deus.
+
+[[v46-10-32]]
+
+^<<v46-10-32,32>>^ Não se tornem motivo de tropeço para judeus, nem para gregos, nem para a congregação de Deus,
+
+[TIP]
+====
+- *a congregação de Deus*: Nas Escrituras Gregas Cristãs, a palavra grega ekklesía, geralmente traduzida como “congregação”, pode ter vários sentidos. (Veja o Glossário, “Congregação”.) Às vezes, ela se refere ao grupo inteiro dos cristãos ungidos. (Mt 16:18; He 2:12; 12:23) Mas aqui Paulo usa essa palavra com um sentido mais específico. Quando ele diz para os coríntios não ‘se tornarem motivo de tropeço’ para a “congregação de Deus”, ele usa a palavra “congregação” para se referir especificamente aos cristãos daquela época que seriam afetados diretamente pelas ações deles.
+====
+
+[[v46-10-33]]
+
+^<<v46-10-33,33>>^ assim como eu estou tentando agradar a todos em todas as coisas, não buscando a minha própria vantagem, mas a do maior número de pessoas, para que sejam salvas.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-009.adoc#v46-9-0[&#60; Capítulo Anterior] | <<v46-10-0,Topo>> | xref:046-1-corintios/046-1-corintios-011.adoc#v46-11-0[Próximo Capítulo &#62;]

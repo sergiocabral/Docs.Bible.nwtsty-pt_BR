@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v44-1-0]]
+=== Atos dos Apóstolos, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* Atos dos Apóstolos: Em grego, o título deste livro é Práxeis Apostólon. Ele aparece em alguns manuscritos a partir do século 2 d.C., mas não existem evidências de que o livro tivesse originalmente um título. Atos é uma continuação do Evangelho de Lucas. (Veja a nota de estudo em At 1:1.) Em vez de relatar as atividades de todos os apóstolos, o livro se concentra principalmente nas atividades de Pedro e de Paulo. Ele contém um registro confiável e detalhado do impressionante começo da congregação cristã e do rápido crescimento dela, primeiro entre os judeus, depois entre os samaritanos e finalmente entre as pessoas de outras nações. (Veja a nota de estudo em Mt 16:19.) O livro também explica o contexto histórico por trás das cartas inspiradas das Escrituras Gregas Cristãs.
+****
+
+.Notas do capítulo
+****
+* A. Preparativos para uma obra mundial de pregação (1:1-8)
+* Palavras iniciais a Teófilo (1:1, 2)
+* Jesus é visto durante 40 dias e fala sobre o Reino de Deus (1:3)
+* Jesus instrui os apóstolos a ficar em Jerusalém aguardando o prometido espírito santo (1:4, 5)
+* Jesus responde à pergunta dos apóstolos sobre quando o reino voltaria a Israel (1:6, 7)
+* Jesus diz para os apóstolos serem testemunhas dele até a parte mais distante da terra (1:8)
+* B. Da volta de Jesus ao céu até o derramamento do espírito santo no Pentecostes de 33 d.C. (1:9–2:13)
+* Jesus é levado ao céu e anjos afirmam que ele voltará da mesma maneira (1:9-11)
+* Os apóstolos se reúnem para orar, junto com a mãe e os irmãos de Jesus (1:12-14)
+* Matias é escolhido para substituir Judas como um dos Doze (1:15-26)
+* Espírito santo é derramado sobre os discípulos e eles começam a falar em línguas (2:1-4)
+* Judeus de todas as partes do Império Romano ouvem sobre as coisas magníficas de Deus (2:5-13)
+****
+
+[[v44-1-1]]
+
+^<<v44-1-1,1>>^ No primeiro relato, Teófilo, escrevi sobre todas as coisas que Jesus começou a fazer e a ensinar,
+
+[TIP]
+====
+- *No primeiro relato*: O relato a que Lucas se refere aqui é o Evangelho que ele escreveu sobre a vida de Jesus. Nele, Lucas se concentrou em escrever sobre “todas as coisas que Jesus começou a fazer e a ensinar”. No livro de Atos, Lucas continua de onde tinha parado e registra as coisas que os seguidores de Jesus fizeram e disseram. Os dois relatos são parecidos no estilo e na escolha de palavras, e foram escritos para a mesma pessoa, Teófilo. A Bíblia não diz especificamente que Teófilo era discípulo de Cristo. (Veja a nota de estudo em Lu 1:3.) Fica claro que Lucas escreveu o livro de Atos como uma continuação de seu Evangelho, já que ele começa Atos com um resumo de vários acontecimentos registrados no fim de seu primeiro relato. Mas, ao fazer esse resumo, Lucas não usa exatamente as mesmas palavras. Além disso, ele dá alguns detalhes adicionais. — Compare Lu 24:49 com At 1:1-12.
+- *Teófilo*: Tanto o Evangelho de Lucas quanto o livro de Atos dos Apóstolos foram escritos para Teófilo. Em Lu 1:3, Lucas usou a expressão “Excelentíssimo” para se dirigir a ele. — Para mais informações sobre o uso dessa expressão ou sobre Teófilo, veja a nota de estudo em Lu 1:3.
+====
+
+[[v44-1-2]]
+
+^<<v44-1-2,2>>^ até o dia em que foi levado para cima, depois de ter dado instruções por meio do espírito santo aos apóstolos que havia escolhido.
+
+[[v44-1-3]]
+
+^<<v44-1-3,3>>^ Depois de ter sofrido, mostrou a eles, por meio de muitas provas convincentes, que estava vivo. Foi visto por eles durante 40 dias e falou sobre o Reino de Deus.
+
+[TIP]
+====
+- *o Reino de Deus*: O tema principal da Bíblia, o Reino de Jeová Deus, ganha destaque em todo o livro de Atos. (At 8:12; 14:22; 19:8; 20:25; 28:31) O livro não deixa dúvidas de que os apóstolos realizaram plenamente seu ministério e deram “testemunho cabal” sobre esse Reino. — At 2:40; 5:42; 8:25; 10:42; 20:21, 24; 23:11; 26:22; 28:23.
+====
+
+[[v44-1-4]]
+
+^<<v44-1-4,4>>^ Enquanto estava reunido com eles, ordenou-lhes: “Não saiam de Jerusalém, mas continuem esperando o que o Pai prometeu, conforme eu lhes falei;
+
+[[v44-1-5]]
+
+^<<v44-1-5,5>>^ pois João, realmente, batizou com água, mas vocês serão batizados com espírito santo dentro de poucos dias.”
+
+[[v44-1-6]]
+
+^<<v44-1-6,6>>^ Assim, quando se reuniram, eles lhe perguntaram: “Senhor, é agora que o senhor vai restabelecer o reino a Israel?”
+
+[[v44-1-7]]
+
+^<<v44-1-7,7>>^ Ele lhes disse: “Não cabe a vocês saber os tempos ou as épocas que o Pai colocou sob sua própria autoridade.
+
+[TIP]
+====
+- *os tempos ou as épocas*: As duas palavras que o texto grego usa aqui para se referir ao tempo têm sentidos diferentes. A primeira delas, traduzida aqui como os tempos, é a forma plural de khrónos. Ela pode se referir a um período de tempo indefinido, que pode ser curto ou longo. A outra palavra, traduzida aqui como as épocas, é a forma plural de kairós, que às vezes é traduzida como “tempo(s) determinado(s)”. Ela com frequência se refere a tempos ou épocas futuras dentro do cronograma ou planejamento de Deus, especialmente quando se fala sobre a presença de Jesus e sobre o seu Reino. — At 3:19; 1Te 5:1; veja as notas de estudo em Mr 1:15; Lu 21:24.
+- *sob sua própria autoridade*: Ou: “sob sua própria jurisdição”. Estas palavras indicam que Jeová decidiu que apenas ele tem o direito de determinar “os tempos ou as épocas” em que seus propósitos vão se cumprir. Ele é o Senhor do Tempo. Jesus disse, quando esteve na Terra, que nem mesmo ele sabia ‘o dia e a hora’ em que o fim viria; “somente o Pai” sabia. — Mt 24:36; Mr 13:32.
+====
+
+[[v44-1-8]]
+
+^<<v44-1-8,8>>^ Mas, quando o espírito santo vier sobre vocês, receberão poder e serão minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até a parte mais distante da terra.”
+
+[TIP]
+====
+- *o espírito santo*: Ou: “a santa força ativa”. No livro de Atos, a expressão grega para “espírito santo” aparece 41 vezes. Além disso, a palavra grega para “espírito” (pneúma) foi usada para se referir ao espírito santo de Deus pelo menos outras 15 vezes. (Veja alguns exemplos em At 2:4, 17, 18; 5:9; 11:28; 21:4; veja também o Glossário, “Espírito”.) Vez após vez, o livro de Atos deixa claro que seria impossível que os seguidores de Jesus realizassem a obra mundial de pregação e ensino sem a ajuda da força ativa de Deus. — Compare com a nota de estudo em Mr 1:12.
+- *minhas testemunhas*: Os primeiros discípulos de Jesus eram judeus fiéis e, por isso, já eram testemunhas de Jeová e davam testemunho de que ele é o único Deus verdadeiro. (Is 43:10-12; 44:8) Mas agora os discípulos passariam a ser testemunhas não só de Jeová, mas também de Jesus. Eles tornariam conhecido um novo aspecto do propósito de Jeová: o papel fundamental que Jesus tem em santificar o nome de Jeová por meio do Reino messiânico. O livro de Atos usa as palavras gregas para “testemunha” (mártys), “dar testemunho” (martyréo), “dar testemunho cabal” (diamartýromai) e outras palavras relacionadas mais vezes do que qualquer outro livro da Bíblia, com exceção do Evangelho de João. (Veja a nota de estudo em Jo 1:7.) O livro inteiro destaca a ideia de ser uma testemunha e de dar testemunho cabal sobre o propósito de Deus, o que inclui falar do seu Reino e do importantíssimo papel de Jesus. (At 2:32, 40; 3:15; 4:33; 5:32; 8:25; 10:39; 13:31; 18:5; 20:21, 24; 22:20; 23:11; 26:16; 28:23) Alguns cristãos do século 1 d.C. deram testemunho sobre o que eles mesmos tinham visto, confirmando fatos históricos sobre a vida, a morte e a ressurreição de Jesus. (At 1:21, 22; 10:40, 41) Outros, que se tornaram cristãos mais tarde, deram testemunho por proclamar a importância que a vida, a morte e a ressurreição de Jesus tiveram. — At 22:15; veja a nota de estudo em Jo 18:37.
+- *até a parte mais distante da terra*: Ou: “até os confins (a extremidade) da terra”. A expressão grega que foi usada aqui também aparece em At 13:47, que cita a profecia de Is 49:6. Nesse versículo de Isaías, a Septuaginta usa a mesma expressão grega. Assim, quando Jesus disse as palavras registradas aqui em At 1:8, ele talvez estivesse pensando na profecia de Isaías, que predisse que o servo de Jeová seria uma “luz para as nações” para que a salvação chegasse “até os confins da terra”. Isso estaria de acordo com o fato de que Jesus predisse que seus seguidores fariam “obras maiores” do que as dele. (Veja a nota de estudo em Jo 14:12.) As palavras de Jesus “até a parte mais distante da terra” também estão de acordo com o que Jesus tinha dito sobre o alcance mundial que a obra de pregação teria. — Veja as notas de estudo em Mt 24:14; 26:13; 28:19.
+====
+
+[[v44-1-9]]
+
+^<<v44-1-9,9>>^ Depois de dizer isso, ele foi levado para cima enquanto eles olhavam, e uma nuvem o encobriu de modo que não puderam mais vê-lo.
+
+[[v44-1-10]]
+
+^<<v44-1-10,10>>^ E, enquanto olhavam fixamente para o céu durante a partida dele, de repente apareceram ao lado deles dois homens com roupas brancas^&#42;1^
+
+[NOTE]
+====
+. Ou: “brilhantes”.
+====
+
+[TIP]
+====
+- *homens com roupas brancas*: Esses homens eram, na verdade, anjos. (Compare com Lu 24:4, 23.) A palavra grega para “anjo” (ággelos) aparece 21 vezes no livro de Atos, a primeira delas em At 5:19.
+====
+
+[[v44-1-11]]
+
+^<<v44-1-11,11>>^ e disseram: “Homens da Galileia, por que estão parados aí olhando para o céu? Este Jesus, que do meio de vocês foi levado para o céu, virá da mesma maneira que o viram ir para o céu.”
+
+[TIP]
+====
+- *o céu*: A palavra grega para “céu”, ouranós, aparece três vezes neste versículo e pode se referir ao céu físico (visível) ou ao céu espiritual (invisível).
+- *virá da mesma maneira*: A palavra grega para “vir” (érkhomai) aparece muitas vezes nas Escrituras e é usada de várias formas. Em alguns contextos, ela se refere a Jesus “vir” como Juiz para proferir sentença e executar julgamento durante a grande tribulação. (Mt 24:30; Mr 13:26; Lu 21:27) Mas ela também é usada para falar de Jesus “vir” em outras situações. (Mt 16:28; 21:5, 9; 23:39; Lu 19:38) Assim, para entender em que sentido a palavra “virá” foi usada aqui, é preciso analisar o contexto. Os anjos disseram que Jesus ‘viria’, ou voltaria, da mesma “maneira” (em grego, trópos) que ele partiu. A palavra trópos passa a ideia de “modo; maneira”, não de “formato; corpo”. Como mostra o contexto, as pessoas em geral não viram Jesus partindo. Somente os apóstolos ficaram sabendo que Jesus tinha deixado a Terra e retornado ao céu, para a companhia de seu Pai. O próprio Jesus indicou que a volta dele como Rei do “Reino de Deus” não seria percebida por todos, mas apenas por seus discípulos. (Lu 17:20; veja a nota de estudo.) Outra ‘vinda’ de Jesus é mencionada em Ap 1:7, mas ela é diferente porque o versículo diz que naquela ocasião “todo olho o verá”. Assim, aqui em At 1:11, a palavra “vir” pelo visto se refere à vinda invisível de Jesus como Rei do Reino no começo de sua presença. — Mt 24:3.
+====
+
+[[v44-1-12]]
+
+^<<v44-1-12,12>>^ Então eles voltaram a Jerusalém, saindo do chamado monte das Oliveiras, que fica perto de Jerusalém, à distância de apenas uma jornada de sábado.
+
+[TIP]
+====
+- *uma jornada de sábado*: Ou seja, a distância máxima que os israelitas podiam percorrer no sábado. Neste versículo, a expressão é usada para se referir à distância entre o monte das Oliveiras e a cidade de Jerusalém. A Lei limitava deslocamentos no sábado, mas não especificava uma distância máxima. (Êx 16:29) Mesmo assim, os rabinos mais tarde determinaram que a distância máxima era de cerca de 2.000 côvados (890 metros). Eles usaram como base Núm 35:5, que diz que “do lado de fora da cidade” os israelitas deviam “medir 2.000 côvados”, e Jos 3:3, 4, que diz que os israelitas deviam manter uma distância de cerca de 2.000 côvados entre eles e a “Arca do Pacto”. Os rabinos chegaram à conclusão de que um israelita precisaria poder percorrer pelo menos essa distância no sábado para adorar no tabernáculo. (Núm 28:9, 10) O historiador Josefo falou em seus escritos da distância entre Jerusalém e o monte das Oliveiras. Numa passagem, ele disse que ela era de 5 estádios (925 metros) e, em outra passagem, ele disse que ela era de 6 estádios (1.110 metros). Pode ser que ele tenha usado pontos de partida diferentes. De qualquer forma, as distâncias mencionadas por Josefo são parecidas com a distância que os rabinos determinaram como uma jornada de sábado, confirmando o que Lucas diz neste versículo.
+====
+
+[[v44-1-13]]
+
+^<<v44-1-13,13>>^ Quando chegaram, subiram para a sala do andar de cima, onde estavam hospedados. Achavam-se presentes Pedro e também João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão, o Zeloso, e Judas, filho de Tiago.
+
+[TIP]
+====
+- *o Zeloso*: Esta expressão ajudava a diferenciar esse apóstolo do outro Simão, o apóstolo Pedro. (Lu 6:14, 15) A palavra grega zelotés, usada aqui e no texto de Lu 6:15, significa “zeloso; entusiasta”. Os relatos paralelos em Mt 10:4 e Mr 3:18 usam a expressão “o Cananita”. Acredita-se que a palavra “Cananita” venha de uma palavra hebraica ou aramaica que também significa “zeloso; entusiasta”. É possível que antes Simão fosse um dos zelotes, um partido judaico que lutava contra os romanos. Mas também é possível que ele fosse chamado assim por causa de seu zelo e entusiasmo.
+====
+
+[[v44-1-14]]
+
+^<<v44-1-14,14>>^ De comum acordo, todos eles persistiam em oração, junto com algumas mulheres, incluindo Maria, a mãe de Jesus, e junto com os irmãos dele.
+
+[TIP]
+====
+- *os irmãos dele*: Ou seja, os meios-irmãos de Jesus. Os quatro Evangelhos, o livro de Atos dos Apóstolos e duas cartas de Paulo usam expressões como “os irmãos do Senhor”, “o irmão do Senhor”, “seus irmãos” e “suas irmãs”, e mencionam o nome de quatro desses “irmãos” — Tiago, José, Simão e Judas. (1Co 9:5; Gál 1:19; Mt 12:46; 13:55, 56; Mr 3:31; Lu 8:19; Jo 2:12) Todos os irmãos de Jesus nasceram depois dele. A maioria dos estudiosos aceita que Jesus teve pelo menos quatro irmãos e duas irmãs e que eles eram filhos naturais de José e Maria, ao contrário de Jesus que foi gerado por meio de um milagre. — Veja a nota de estudo em Mt 13:55.
+====
+
+[[v44-1-15]]
+
+^<<v44-1-15,15>>^ Naqueles dias, Pedro se levantou no meio dos irmãos (os presentes ali somavam cerca de 120 pessoas), e disse:
+
+[TIP]
+====
+- *dos irmãos*: Às vezes, as Escrituras usam a palavra “irmão” para falar de um cristão e a palavra “irmã” para falar de uma cristã. (1Co 7:14, 15) Outras vezes, como acontece aqui, elas usam o plural masculino “irmãos” para falar de um grupo formado por homens e mulheres. (At 1:13, 14) Era costume usar o termo “irmãos” ao cumprimentar um grupo de cristãos, mesmo que ele incluísse mulheres. (Ro 1:13; 1Te 1:4) É nesse sentido mais abrangente que a palavra “irmãos” é usada na maioria das cartas inspiradas. No versículo anterior (At 1:14), o plural da palavra grega adelfós (irmão) é usado em sentido literal para se referir aos meios-irmãos de Jesus, os filhos que José e Maria tiveram depois dele. — Veja as notas de estudo em Mt 13:55; At 1:14.
+- *os presentes ali*: Lit.: “a multidão de nomes”. Neste versículo, a palavra grega ónoma (lit.: “nome”) é usada no plural e se refere a pessoas. Isso também acontece em Ap 3:4 (nota de rodapé).
+====
+
+[[v44-1-16]]
+
+^<<v44-1-16,16>>^ “Homens, irmãos, era necessário que se cumprisse o que o espírito santo, por meio de Davi, disse profeticamente nas Escrituras a respeito de Judas, que se tornou guia dos que prenderam Jesus.
+
+[TIP]
+====
+- *Homens, irmãos*: Neste versículo, a palavra “irmãos” é usada de forma diferente da forma usada no versículo 15. Aqui, ela aparece junto com a palavra grega anér que significa “homem; pessoa do sexo masculino”. Esse uso das duas palavras juntas pode indicar que Pedro se dirigiu apenas aos homens da congregação quando levantou a questão sobre quem substituiria Judas Iscariotes como apóstolo.
+====
+
+[[v44-1-17]]
+
+^<<v44-1-17,17>>^ Pois ele foi contado entre nós e foi escolhido para participar^&#42;1^ neste ministério.
+
+[NOTE]
+====
+. Ou: “e obteve uma participação”.
+====
+
+[[v44-1-18]]
+
+^<<v44-1-18,18>>^ (Esse homem comprou um campo com o salário da injustiça e, ao cair de cabeça,^&#42;1^ seu corpo rebentou^&#42;2^ e todas as suas vísceras se derramaram.
+
+[NOTE]
+====
+. Ou, possivelmente: “ao inchar”.
+. Ou: “ele rebentou pelo meio”.
+====
+
+[TIP]
+====
+- *ao cair de cabeça, seu corpo rebentou*: O Evangelho de Mateus diz que Judas ‘se enforcou’, dando destaque a como ele cometeu suicídio. (Mt 27:5) Aqui em Atos, Lucas dá destaque ao resultado. Comparando os dois relatos, tudo indica que Judas se enforcou na beira de um penhasco, mas em algum momento a corda ou o galho da árvore se rompeu. Daí, Judas caiu e seu corpo rebentou, ou se partiu, nas rochas. Essa conclusão é possível já que a região em volta de Jerusalém é rochosa e cheia de morros.
+====
+
+[[v44-1-19]]
+
+^<<v44-1-19,19>>^ Todos os habitantes de Jerusalém ficaram sabendo disso, de modo que aquele campo foi chamado na língua deles de Acéldama, isto é, Campo de Sangue.)
+
+[[v44-1-20]]
+
+^<<v44-1-20,20>>^ Pois está escrito no livro dos Salmos: ‘Que a sua habitação fique desolada e que não haja nela habitantes’; e também: ‘Que outro tome o seu cargo de superintendente.’
+
+[TIP]
+====
+- *o seu cargo de superintendente*: Ou: “a sua designação de supervisão”. A palavra grega episkopé, traduzida neste versículo como “cargo de superintendente”, está relacionada com o substantivo epískopos, “superintendente”, e com o verbo episkopéo, traduzido em He 12:15 como ‘vigiar cuidadosamente’. Aqui, Pedro estava sugerindo que alguém substituísse Judas Iscariotes como apóstolo e, para apoiar isso, citou o Sal 109:8. Nesse salmo, a palavra que aparece no texto hebraico é pequddáh, que pode passar a ideia de “cargo de superintendente; supervisão; superintendentes”. (Núm 4:16; Is 60:17) Na tradução da Septuaginta do Sal 109:8 (108:8, LXX), a palavra hebraica pequddáh foi traduzida como episkopé, a mesma palavra que Lucas usou aqui em At 1:20. A declaração inspirada de Pedro mostra que os apóstolos tinham o cargo, ou a designação, de superintendente. Eles tinham sido escolhidos pelo próprio Jesus. (Mr 3:14) Assim, quando a congregação cristã começou no dia de Pentecostes de 33 d.C., ela tinha 12 superintendentes. Naquele mesmo dia, ela cresceu de umas 120 pessoas para cerca de 3.000 pessoas. (At 1:15; 2:41) Conforme a congregação continuou crescendo, outros foram designados como superintendentes para ajudar a cuidar dela. Mas os 12 apóstolos continuaram a ter um papel especial já que Jeová, pelo visto, decidiu que no futuro eles seriam as “12 pedras de alicerce” da Nova Jerusalém. — Ap 21:14; veja a nota de estudo em At 20:28.
+====
+
+[[v44-1-21]]
+
+^<<v44-1-21,21>>^ Portanto, é necessário que um dos homens que nos acompanharam durante todo o tempo em que o Senhor Jesus realizou suas atividades entre nós
+
+[TIP]
+====
+- *realizou suas atividades entre nós*: Lit.: “entrava e saía entre nós”. A expressão grega que foi usada aqui vem de uma expressão idiomática semítica que se referia a realizar atividades do dia a dia com outras pessoas. Ela também pode ser traduzida “viveu entre nós”. — Compare com as notas de rodapé em De 28:6, 19; Sal 121:8.
+====
+
+[[v44-1-22]]
+
+^<<v44-1-22,22>>^ (desde o seu batismo por João até o dia em que do nosso meio foi levado para cima) se torne testemunha conosco da sua ressurreição.”
+
+[[v44-1-23]]
+
+^<<v44-1-23,23>>^ Assim, indicaram dois: José, chamado Barsabás, que também era conhecido como Justo, e Matias.
+
+[TIP]
+====
+- *Matias*: O nome grego Maththías é provavelmente uma forma mais curta de Mattathías. A forma mais longa vem de um nome hebraico que é traduzido como “Matitias” (1Cr 15:18) e que significa “presente de Jeová”. De acordo com as palavras de Pedro em At 1:21, 22, Matias foi um seguidor de Jesus durante os três anos e meio de seu ministério. Ele acompanhou de perto os apóstolos e é bem possível que tenha sido um dos 70 discípulos que Jesus enviou para pregar. (Lu 10:1) Depois que Matias foi escolhido, ele “foi contado com os 11 apóstolos”. (At 1:26) Nos capítulos seguintes, quando o livro de Atos usa as expressões “os apóstolos” ou “os Doze”, Matias está incluído. — At 2:37, 43; 4:33, 36; 5:12, 29; 6:2, 6; 8:1, 14.
+====
+
+[[v44-1-24]]
+
+^<<v44-1-24,24>>^ Depois oraram, dizendo: “Ó Jeová, tu que conheces o coração de todos, indica qual destes dois homens escolheste
+
+[TIP]
+====
+- *Jeová*: Os manuscritos gregos disponíveis hoje usam a palavra Kýrios (Senhor) aqui. Mas, como explicado no Apêndice C1, há bons motivos para acreditar que o nome de Deus aparecia no texto original deste versículo e que mais tarde foi substituído pelo título “Senhor”. Por isso, o nome “Jeová” é usado aqui no texto principal.
+- *tu que conheces o coração de todos*: As Escrituras Hebraicas com frequência falam de Jeová Deus como aquele que tem a habilidade de ler corações. (De 8:2; 1Sa 16:7; 1Rs 8:39; 1Cr 28:9; Sal 44:21; Je 11:20; 17:10) Os cristãos que estavam fazendo esta oração eram judeus e falavam hebraico. Assim, neste contexto que faz referência a ler corações, seria natural para eles usar o nome de Deus. A palavra grega traduzida aqui como “que conheces o coração”, kardiognóstes (lit.: “conhecedor de corações”), aparece apenas aqui e em At 15:8, que diz em parte: “Deus, que conhece os corações.” — Veja o Apêndice C3 (introdução e At 1:24).
+====
+
+[[v44-1-25]]
+
+^<<v44-1-25,25>>^ para receber este ministério e este cargo de apóstolo, os quais Judas abandonou para ir para o seu próprio lugar.”
+
+[[v44-1-26]]
+
+^<<v44-1-26,26>>^ Então, lançaram sortes para decidir entre os dois, e a sorte caiu para Matias, e ele foi contado com os 11 apóstolos.
+
+[TIP]
+====
+- *lançaram sortes*: Antes dos tempos cristãos, os servos de Deus lançavam sortes para saber qual era a vontade de Jeová em diferentes assuntos. (Le 16:8; Núm 33:54; 1Cr 25:8; Pr 16:33; 18:18; veja o Glossário, “Sortes”.) Mas, nas Escrituras Gregas Cristãs, esta é a única vez que se fala de os seguidores de Jesus lançarem sortes. Eles lançaram sortes para saber qual dos dois homens indicados deveria substituir Judas Iscariotes. Os discípulos reconheciam que precisavam da orientação de Jeová. Eles sabiam que o próprio Jesus só escolheu os 12 apóstolos depois de ter orado a noite inteira. (Lu 6:12, 13) É interessante notar que antes de a ‘sorte cair para Matias’ os discípulos tinham considerado textos das Escrituras e tinham orado especificamente pedindo que Jeová ‘indicasse qual dos dois homens’ ele tinha escolhido. (At 1:20, 23, 24) Mas não existe nenhum registro na Bíblia de que, depois do Pentecostes de 33 d.C., os cristãos tenham lançado sortes para escolher superintendentes ou seus ajudantes ou para decidir qualquer outro assunto importante. Quando o espírito santo começou a atuar na congregação, não foi mais necessário lançar sortes. (At 6:2-6; 13:2; 20:28; 2Ti 3:16, 17) Em vez disso, os superintendentes passaram a ser escolhidos com base em como demonstravam as qualidades do fruto do espírito santo em sua vida. (1Ti 3:1-13; Tit 1:5-9) Outros povos, além dos israelitas, também tinham o costume de lançar sortes. (Est 3:7; Jl 3:3; Ob 11) Por exemplo, os soldados romanos ‘lançaram sortes sobre a vestimenta’ de Jesus para decidir quem ficaria com ela, como predito no Sal 22:18. Eles fizeram isso, pelo visto, não para cumprir a profecia desse salmo, mas por causa do valor que a roupa tinha. — Jo 19:24; veja a nota de estudo em Mt 27:35.
+- *contado com*: Ou: “considerado como”. Ou seja, visto da mesma forma que os outros 11 apóstolos. Assim, no dia de Pentecostes de 33 d.C., havia 12 apóstolos para servir como pedras de alicerce do Israel espiritual. Isso também significa que Matias estava entre “os Doze” que mais tarde ajudaram a resolver o problema que estava afetando os discípulos que falavam grego. — At 6:1, 2.
+====
+
+'''
+
+xref:043-joao/043-joao-021.adoc#v43-21-0[&#60; Capítulo Anterior] | <<v44-1-0,Topo>> | xref:044-atos/044-atos-002.adoc#v44-2-0[Próximo Capítulo &#62;]

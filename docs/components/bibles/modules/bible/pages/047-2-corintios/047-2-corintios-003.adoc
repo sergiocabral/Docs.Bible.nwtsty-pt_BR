@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v47-3-0]]
+=== A Segunda aos Coríntios, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. PAULO CONFIRMA SEU AMOR PELOS CRISTÃOS EM CORINTO E FALA DO MINISTÉRIO DELE (1:12–7:16)
+* 1. Mudança nos planos de viagem de Paulo (1:12-24)
+* Paulo fala de sua conduta em relação aos coríntios (1:12-14)
+* Paulo se defende da acusação de não ser confiável (1:15-24)
+* 2. O interesse de Paulo no bem-estar dos cristãos em Corinto (2:1-13)
+* Paulo deseja dar alegria aos coríntios (2:1-4)
+* Um pecador é perdoado e aceito de volta na congregação (2:5-11)
+* Paulo não teve alívio porque não encontrou Tito em Trôade (2:12, 13)
+* 3. O ministério glorioso de Paulo e de seus companheiros (2:14–4:6)
+* O ministério é comparado a um desfile triunfal (2:14-17)
+* Cartas de recomendação (3:1-3)
+* Deus qualifica cristãos para serem servos do novo pacto (3:4-6)
+* A glória do ministério do novo pacto é superior (3:7-18)
+* O ministério que faz a luz brilhar por meio do conhecimento glorioso de Deus (4:1-6)
+* 4. Mesmo sendo vasos de barro, Paulo e seus companheiros suportam muitas provações (4:7-18)
+* Com o poder além do normal é possível suportar dificuldades (4:7-15)
+* O sofrimento é momentâneo, mas produz uma glória eterna (4:16-18)
+* 5. O desejo de Paulo de receber sua recompensa celestial (5:1-10)
+* Corpo espiritual será superior (5:1-5)
+* Enquanto estão na Terra, os cristãos ungidos andam pela fé, não pela vista (5:6-10)
+* 6. O ministério da reconciliação (5:11–6:2)
+* O amor que Cristo mostrou impele os cristãos (5:11-15)
+* Os cristãos ungidos estão em união com Cristo e são uma nova criação (5:16-19)
+* Embaixadores substituindo a Cristo suplicam: “Sejam reconciliados com Deus” (5:20, 21)
+* Não se deve perder de vista o objetivo da bondade imerecida de Deus (6:1, 2)
+* 7. Paulo fala de seu ministério (6:3-13)
+* Como os cristãos se recomendam como ministros de Deus (6:3-10)
+* Paulo fala do carinho que tem pelos irmãos em Corinto (6:11-13)
+* 8. Alertas sobre impureza espiritual e idolatria (6:14–7:1)
+* “Não se ponham em jugo desigual com descrentes” (6:14-18)
+* “Purifiquemo-nos de toda imundície da carne e do espírito” (7:1)
+* 9. Paulo se alegra por causa dos coríntios (7:2-16)
+* Paulo tem orgulho dos irmãos em Corinto (7:2-4)
+* Paulo foi consolado com a presença de Tito e com seu bom relato (7:5-7)
+* Tristeza segundo a vontade de Deus e arrependimento levam à salvação (7:8-13a)
+* Paulo se alegra ao saber do bom relacionamento entre Tito e os coríntios (7:13b-16)
+****
+
+[[v47-3-1]]
+
+^<<v47-3-1,1>>^ Estamos começando a recomendar a nós mesmos novamente? Ou será que precisamos, como alguns, de cartas de recomendação para vocês ou da parte de vocês?
+
+[TIP]
+====
+- *cartas de recomendação*: No século 1 d.C., cartas de fontes confiáveis serviam para apresentar pessoas e confirmar a identidade delas ou o grau de autoridade que elas tinham. (At 18:27; veja a nota de estudo em Ro 16:1.) Cartas desse tipo eram comuns, e as instruções sobre como prepará-las podiam ser encontradas em manuais que explicavam como escrever cartas. (At 28:21) Aqui em 2 Co 3:1, o argumento de Paulo é que, para provar que era um ministro, ele não precisava apresentar cartas de recomendação aos coríntios nem precisava que eles escrevessem cartas o recomendando. Paulo tinha ajudado os coríntios a se tornarem cristãos e, por isso, podia dizer a eles: “Vocês mesmos são a nossa carta.” — 2Co 3:2.
+====
+
+[[v47-3-2]]
+
+^<<v47-3-2,2>>^ Vocês mesmos são a nossa carta, escrita no nosso coração, conhecida e lida por toda a humanidade.
+
+[TIP]
+====
+- *Vocês mesmos são a nossa carta*: Aqui, Paulo está respondendo à pergunta que ele mesmo fez no versículo anterior. A resposta que fica subentendida é: “Não, nós não precisamos de nenhum documento escrito nos autorizando a ser ministros de Deus. Vocês são a nossa carta viva de recomendação.” A congregação cristã em Corinto era uma prova de que Paulo era ministro de Deus.
+- *escrita no nosso coração*: Paulo levava os irmãos de Corinto em seu coração. Eles tinham sido treinados por Paulo para dar testemunho público sobre Deus e Cristo e, por isso, eram como uma carta aberta, conhecida e lida por toda a humanidade.
+====
+
+[[v47-3-3]]
+
+^<<v47-3-3,3>>^ Porque é evidente que vocês são carta de Cristo, escrita por nós como ministros, não com tinta, mas com o espírito de um Deus vivente; não em tábuas de pedra, mas em tábuas carnais, em corações.
+
+[TIP]
+====
+- *carta de Cristo, escrita por nós como ministros*: Jesus Cristo selecionou Paulo para ser “um vaso escolhido” para ‘levar o seu nome às nações’ (At 9:15), e usou o próprio Paulo como seu ministro para escrever a carta de recomendação mencionada aqui. Para escrever essa carta simbólica, Paulo pregou em Corinto todo sábado, tentando converter tanto judeus como gregos. (At 18:4-11) Ele não teria sido capaz de escrever essa carta por conta própria. Afinal, Jesus tinha dito a seus discípulos: “Separados de mim vocês não podem fazer nada.” — Jo 15:5.
+- *em tábuas carnais, em corações*: Ou: “em tábuas, em corações de carne; em tábuas de corações humanos”. A Lei de Moisés foi escrita em tábuas de pedra. (Êx 31:18; 34:1) Neste contexto, Paulo faz um contraste entre o pacto da Lei e o novo pacto, que foi predito por Jeremias. Em Je 31:31-33, Jeová declarou: “Porei a minha lei no seu íntimo e a escreverei no seu coração.” Na profecia que Ezequiel fez sobre o povo de Deus ser libertado do cativeiro em Babilônia, Ezequiel usou termos parecidos. Ele disse que Jeová tiraria de seu povo “o coração de pedra”, ou seja, o seu coração insensível e que não reagia às orientações dele, e daria a eles “um coração de carne”, ou seja, um coração dócil e obediente, sensível às orientações de Deus. — Ez 11:19; 36:26.
+====
+
+[[v47-3-4]]
+
+^<<v47-3-4,4>>^ Temos tal confiança em Deus por meio do Cristo.
+
+[[v47-3-5]]
+
+^<<v47-3-5,5>>^ Não que estejamos qualificados^&#42;1^ por nós mesmos para considerar que qualquer coisa venha de nós, mas a nossa qualificação vem de Deus,
+
+[NOTE]
+====
+. Ou: “adequadamente qualificados”.
+====
+
+[TIP]
+====
+- *a nossa qualificação vem de Deus*: Neste versículo, as palavras gregas traduzidas como “qualificados” e “qualificação” têm o sentido básico de “suficiente; apropriado”. Quando se referem a pessoas, elas podem passar a ideia de alguém “competente; capaz; digno”. (Lu 22:38; 2Co 2:16; 3:6) Assim, a frase completa também poderia ser traduzida como: “É Deus quem nos torna capazes de realizar esse trabalho.” Uma dessas palavras gregas aparece na Septuaginta em Êx 4:10, que mostra que Moisés não se sentia qualificado para falar com o Faraó. De acordo com o texto hebraico original desse versículo, Moisés disse: “Nunca tive facilidade para falar [lit.: “nunca fui um homem de palavras”].” Mas a Septuaginta traduz essas palavras como: “Não estou qualificado.” Apesar de Moisés achar que não conseguiria cumprir sua designação, Jeová o capacitou. (Êx 4:11, 12) Algo parecido acontece com os ministros cristãos. O “espírito de um Deus vivente” os qualifica para realizarem seu trabalho. — 2Co 3:3.
+====
+
+[[v47-3-6]]
+
+^<<v47-3-6,6>>^ que de fato nos habilitou para sermos servos de um novo pacto, não de um código escrito, mas do espírito; pois o código escrito condena à morte, mas o espírito dá vida.
+
+[TIP]
+====
+- *servos*: Ou: “ministros”. A Bíblia muitas vezes usa a palavra grega diákonos para se referir a uma pessoa que presta serviço a outros de modo humilde e perseverante. (Veja a nota de estudo em Mt 20:26.) Aqui, Paulo diz que ele, Timóteo e todos os outros cristãos ungidos são “servos de um novo pacto”. (2Co 1:1) Isso significa, entre outras coisas, que eles estão a serviço do novo pacto, pregando e ensinando as boas novas às pessoas para ajudá-las a entrar no novo pacto ou a receber seus benefícios. — Veja a nota de estudo em Ro 11:13.
+- *um novo pacto*: Por meio do profeta Jeremias, Jeová predisse “um novo pacto”, que seria diferente do pacto da Lei. (Je 31:31-34) O pacto da Lei foi feito entre Jeová e o Israel literal; o novo pacto é feito entre Jeová e o Israel espiritual. O pacto da Lei teve Moisés como mediador; o novo pacto tem Jesus como mediador. (Ro 2:28, 29; Gál 6:15, 16; He 8:6, 10; 12:22-24) O pacto da Lei se tornou válido por meio do sangue de animais; o novo pacto se tornou válido por meio do sangue de Jesus, conforme ele tinha deixado claro quando mencionou o “novo pacto” na noite antes de morrer, em 14 de nisã de 33 d.C. — Lu 22:20; nota de estudo; 1Co 11:25.
+- *não de um código escrito*: O código escrito mencionado aqui é o pacto da Lei; uma parte desse pacto foi escrita em tábuas e depois copiada em rolos. Os cristãos ungidos não são servos de um pacto escrito, mas do novo pacto. Esse pacto é um pacto do espírito, ou seja, do espírito de Deus. O código escrito condenava os israelitas à morte. Por outro lado, os servos do novo pacto são guiados à vida eterna pelo espírito de Deus. Esse espírito os ajuda a manter a integridade e a desenvolver as qualidades necessárias para que possam ganhar sua recompensa eterna. — 2Co 1:21, 22; Ef 1:13, 14; Tit 3:4-7.
+====
+
+[[v47-3-7]]
+
+^<<v47-3-7,7>>^ Ora, se o código que ministra a morte e que foi gravado com letras em pedras veio com tal glória que os filhos de Israel não podiam olhar para o rosto de Moisés por causa da glória do seu rosto, glória que seria eliminada,
+
+[TIP]
+====
+- *o código que ministra a morte*: Estas palavras se referem à Lei mosaica, que tinha tornado o pecado conhecido. (Gál 3:19) Por isso, Paulo podia dizer que ela ‘condenava à morte’. (2Co 3:6; Gál 3:10) O pacto da Lei prefigurou o novo pacto, que foi predito por Jeremias (Je 31:31-33) e que é chamado por Paulo de “a ministração do espírito” (2Co 3:8). O novo pacto é superior ao pacto da Lei porque os que fazem parte dele são seguidores do Agente Principal da vida, Jesus Cristo. Por isso, o novo pacto traz vida e não morte. — At 3:15.
+- *com tal glória*: Nesta passagem (2Co 3:7-18), Paulo se concentra em mostrar que a glória do novo pacto era muito maior do que a do antigo. Ao falar sobre isso, Paulo usa palavras gregas relacionadas com “glória” ou “ser glorioso” 13 vezes nesses versículos. O substantivo grego traduzido aqui como “glória” originalmente significava “opinião; reputação”, mas nas Escrituras Gregas Cristãs passou a ser usado com o sentido de “glória; esplendor; grandeza”.
+====
+
+[[v47-3-8]]
+
+^<<v47-3-8,8>>^ não deveria a ministração do espírito ter uma glória ainda maior?
+
+[[v47-3-9]]
+
+^<<v47-3-9,9>>^ Pois, se o código que ministrava a condenação era glorioso, quanto mais gloriosa seria a ministração da justiça!
+
+[TIP]
+====
+- *o código que ministrava a condenação*: Com estas palavras, Paulo está novamente se referindo à Lei mosaica, que ‘condenava à morte’. (2Co 3:6; veja a nota de estudo em 2Co 3:7.) Por outro lado, ele chama o novo pacto de a ministração da justiça. Os cristãos que fazem parte do novo pacto, ou seja, os cristãos ungidos, brilham em sentido espiritual ao refletir as qualidades de Deus. Sua glória é muito maior do que a glória literal que os israelitas viram no rosto de Moisés quando ele recebeu a Lei mosaica. O novo pacto traz para a humanidade benefícios muito maiores do que os benefícios do pacto da Lei, que não era capaz de produzir a justiça. Entre os benefícios do novo pacto estão “o perdão de pecados” e um “sacerdócio real”. — Mt 26:28; At 5:31; 1Pe 2:9.
+- *justiça*: Veja o Glossário.
+====
+
+[[v47-3-10]]
+
+^<<v47-3-10,10>>^ De fato, mesmo aquilo que no passado havia sido feito glorioso perdeu a glória por causa da glória que lhe é superior.
+
+[[v47-3-11]]
+
+^<<v47-3-11,11>>^ Pois, se aquilo que seria eliminado foi introduzido com glória, quanto maior seria a glória daquilo que permanece!
+
+[[v47-3-12]]
+
+^<<v47-3-12,12>>^ Visto que temos tal esperança, falamos com muita confiança,
+
+[[v47-3-13]]
+
+^<<v47-3-13,13>>^ e não fazemos como Moisés, que colocava um véu sobre o rosto para que os filhos de Israel não fixassem os olhos no fim daquilo que seria eliminado.
+
+[TIP]
+====
+- *colocava um véu sobre o rosto*: Nesta parte de sua carta, Paulo mostra que Moisés precisou usar um véu sobre o rosto porque os israelitas tinham um modo de pensar carnal e uma atitude ruim de coração. (2Co 3:7, 14) Os israelitas eram o povo escolhido de Deus, e Jeová queria que eles se aproximassem dele. (Êx 19:4-6) Mas, em vez de terem a mesma atitude de Moisés, que falou com Jeová “face a face” (Êx 33:11), eles ficaram com medo de olhar até mesmo para o simples reflexo da glória de Deus. O amor por Jeová deveria ter motivado os israelitas a se aproximar de Jeová de todo coração e toda mente, mas em vez disso eles viraram as costas para ele.
+- *os filhos de Israel*: Ou: “o povo de Israel; os israelitas”. — Veja o Glossário, “Israel”.
+====
+
+[[v47-3-14]]
+
+^<<v47-3-14,14>>^ Mas a mente deles ficou insensível. Pois até hoje, quando o antigo pacto é lido, o mesmo véu permanece sem ser levantado, visto que ele só é removido por meio de Cristo.
+
+[TIP]
+====
+- *a mente deles ficou insensível*: O coração dos israelitas que estavam junto ao monte Sinai não estava completamente voltado para Jeová e, por isso, “a mente deles”, ou seja, sua capacidade de raciocínio, “ficou insensível” (lit.: “foi endurecida”). O mesmo estava acontecendo com os judeus que continuavam seguindo a Lei mosaica apesar de Deus já ter anulado aquela lei por meio de Jesus. Eles não conseguiam ver que a Lei apontava para Jesus. (Col 2:17) Paulo usa aqui a palavra véu em sentido figurado para se referir a algo que impede as pessoas de ver ou entender uma coisa. Era apenas por meio de Cristo, ou seja, por reconhecer a Jesus como o Messias e exercer fé nele, que aqueles judeus poderiam remover o véu e entender claramente os propósitos de Deus. — Lu 2:32.
+- *quando o antigo pacto é lido*: Aqui, Paulo está falando do pacto da Lei, que foi registrado nos livros de Êxodo a Deuteronômio. Esses livros formam uma pequena parte das Escrituras Hebraicas. Paulo chama o pacto da Lei de “antigo pacto” porque ele foi cancelado (com base na morte de Jesus na estaca) e substituído pelo “novo pacto”. — Je 31:31-34; He 8:13; Col 2:14; veja as notas de estudo em At 13:15; 15:21.
+====
+
+[[v47-3-15]]
+
+^<<v47-3-15,15>>^ De fato, até hoje, sempre que Moisés é lido, um véu cobre o coração deles.
+
+[TIP]
+====
+- *um véu cobre o coração deles*: Os judeus rejeitavam as boas novas que Jesus pregou. Por isso, quando a Lei era lida, eles não percebiam que ela conduzia a Cristo. Apesar de lerem as Escrituras inspiradas, eles não tinham a atitude correta de coração e não liam com fé e humildade. Havia apenas um modo de ‘o véu ser retirado’: eles precisavam se voltar para Jeová com humildade e sinceridade, com completa submissão e devoção, reconhecendo que um novo pacto tinha entrado em funcionamento. — 2Co 3:16.
+====
+
+[[v47-3-16]]
+
+^<<v47-3-16,16>>^ Mas, quando alguém se volta para Jeová, o véu é retirado.
+
+[TIP]
+====
+- *quando alguém se volta para Jeová*: Nesta passagem (2Co 3:7-18), Paulo mostra que a glória do novo pacto é muito maior do que a glória do pacto da Lei, que foi feito com Israel e teve Moisés como mediador. Aqui, Paulo está fazendo referência ao relato de Êx 34:34. O verbo grego traduzido aqui como “se volta” muitas vezes significa “retornar; voltar; dar meia-volta” em sentido literal. (At 15:36) Mas, quando é usado em sentido espiritual, ele pode transmitir a ideia de dar as costas para um caminho errado e passar a fazer a vontade de Deus. (At 3:19; 14:15; 15:19; 26:18, 20) Neste contexto, se voltar para Jeová significava se voltar para ele com humildade e sinceridade, com completa submissão e devoção, reconhecendo que um novo pacto estava em funcionamento. Além disso, já que 2Co 3:14 mostra que esse véu simbólico ‘só era removido por meio de Cristo’, se voltar para Jeová também incluía reconhecer o papel de Jesus Cristo como Mediador do novo pacto. — Veja o Apêndice C3 (introdução e 2Co 3:16).
+====
+
+[[v47-3-17]]
+
+^<<v47-3-17,17>>^ Ora, Jeová é o Espírito, e onde está o espírito de Jeová, ali há liberdade.
+
+[TIP]
+====
+- *Jeová é o Espírito*: Esta declaração é parecida com a declaração de Jesus registrada em Jo 4:24: “Deus é espírito.” A palavra grega traduzida aqui como “espírito” (pneúma) é usada neste versículo para mostrar que Deus é um ser, ou uma pessoa, espiritual. — Veja o Glossário, “Espírito”, e a nota de estudo em Jo 4:24; veja também o Apêndice C3 (introdução e 2Co 3:17).
+- *onde está o espírito de Jeová, ali há liberdade*: Aqui, Paulo incentiva seus irmãos a buscarem a Fonte da verdadeira liberdade, o Criador de todas as coisas. Jeová é o único que tem liberdade em sentido absoluto. Para que uma pessoa possa ter a verdadeira liberdade, ela precisa ‘se voltar para Jeová’, ou seja, desenvolver uma amizade íntima com ele. (2Co 3:16) A liberdade que “o espírito de Jeová” dá é muito superior à liberdade literal que um escravo recebe ao ser libertado. “O espírito de Jeová” liberta a pessoa da escravidão ao pecado e à morte, e da escravidão à religião falsa e seus costumes. (Ro 6:23; 8:2) O espírito santo de Deus também contribui para a liberdade dos cristãos por produzir qualidades que são essenciais para eles serem verdadeiramente livres. — Gál 5:22, 23.
+- *o espírito de Jeová*: Ou seja, a força ativa de Jeová. (Veja a nota de estudo em At 5:9.) Os motivos de a Tradução do Novo Mundo usar o nome de Deus no texto principal deste versículo são explicados nos Apêndices C1 e C3 (introdução e 2Co 3:17).
+====
+
+[[v47-3-18]]
+
+^<<v47-3-18,18>>^ E todos nós, ao passo que com o rosto descoberto refletimos como um espelho a glória de Jeová, somos transformados nessa mesma imagem, com mais e mais glória, exatamente como Jeová, o Espírito, o faz.
+
+[TIP]
+====
+- *refletimos como um espelho*: Nos tempos antigos, os espelhos eram feitos de metais como bronze e cobre. Para refletir melhor as imagens, muitos espelhos passavam por um intenso processo de polimento. Os cristãos ungidos refletem como espelhos a glória de Deus, que brilha sobre eles por meio de Jesus Cristo. Dessa forma, eles são ‘transformados na mesma imagem’ que é refletida pelo Filho de Jeová. (2Co 4:6; Ef 5:1) Deus usa seu espírito santo e as Escrituras para criar neles uma “nova personalidade” que reflete as qualidades dele. — Ef 4:24; Col 3:10.
+- *a glória de Jeová*: A palavra grega dóxa, traduzida aqui como “glória”, no início significava “opinião; reputação”, mas nas Escrituras Gregas Cristãs passou a ser usada com o sentido de “glória; esplendor; grandeza”. A palavra hebraica correspondente, kavóhdh, tem o sentido básico de “peso” e pode se referir a qualquer coisa que dá peso ou torna algo ou alguém impressionante. Assim, a glória de Deus pode se referir a uma demonstração impressionante de seu poder inigualável. Na Bíblia, a palavra kavóhdh ocorre junto com o Tetragrama mais de 30 vezes. Algumas dessas ocorrências estão em Êx 16:7; Le 9:6; Núm 14:10; 1Rs 8:11; 2Cr 5:14; Sal 104:31; Is 35:2; Ez 1:28 e Hab 2:14. — Veja o Apêndice C3 (introdução e 2Co 3:18).
+- *com mais e mais glória*: Lit.: “de glória em glória”. Conforme os cristãos ungidos fazem progresso espiritual, eles passam a refletir cada vez mais a glória de Jeová. Eles são transformados na imagem de Deus que é refletida pelo Filho, “Cristo, que é a imagem de Deus”. (2Co 4:4) O verbo traduzido aqui como “transformados” (metamorfóo) também foi usado por Paulo em sua carta aos romanos. — Veja a nota de estudo em Ro 12:2.
+- *Jeová, o Espírito, o faz*: Esta tradução está de acordo com a primeira parte de 2Co 3:17, que diz: “Jeová é o Espírito.” (Veja a nota de estudo.) Mas também seria possível traduzir essas palavras como “o espírito de Jeová o faz”. A gramática grega permite qualquer uma dessas traduções. — Veja o Apêndice C3 (introdução e 2Co 3:18).
+====
+
+'''
+
+xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[&#60; Capítulo Anterior] | <<v47-3-0,Topo>> | xref:047-2-corintios/047-2-corintios-004.adoc#v47-4-0[Próximo Capítulo &#62;]

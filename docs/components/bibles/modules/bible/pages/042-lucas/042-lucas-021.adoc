@@ -1,0 +1,342 @@
+include::./index.adoc[]
+
+[[v42-21-0]]
+=== As Boas Novas Segundo Lucas, 21
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Começo da última semana do ministério de Jesus em Jerusalém e perto dali (19:28–21:4)
+* Entrada triunfal de Jesus em Jerusalém (19:28-40)
+* Jesus chora por Jerusalém (19:41-44)
+* Jesus purifica o templo (19:45-48)
+* Autoridade de Jesus é questionada (20:1-8)
+* Ilustração dos lavradores maus (20:9-19)
+* Deus e César (20:20-26)
+* Pergunta sobre a ressurreição (20:27-40)
+* O Cristo é filho de Davi? (20:41-44)
+* Alerta contra os escribas (20:45-47)
+* Duas pequenas moedas da viúva necessitada (21:1-4)
+* J. Profecia de Jesus sobre o sinal dos acontecimentos futuros (21:5-36)
+* Pergunta sobre o sinal; cuidado para não ser enganado (21:5-9)
+* Aspectos do sinal: guerras, grandes terremotos, falta de alimentos e pestilências (21:10, 11)
+* Perseguição é predita (21:12-19)
+* Jerusalém será cercada por exércitos; tempos determinados das nações são preditos (21:20-24)
+* Vinda do Filho do Homem (21:25-28)
+* Ilustração da figueira (21:29-31)
+* “Esta geração de modo algum passará” (21:32, 33)
+* ‘Nunca deixem seu coração ficar sobrecarregado’; “mantenham-se despertos” (21:34-36)
+* K. Últimos dias de Jesus em Jerusalém; prisão e julgamento de Jesus (21:37–23:25)
+* Jesus ensina no templo (21:37, 38)
+* Sacerdotes tramam matar Jesus (22:1-6)
+* Preparativos para a última Páscoa (22:7-13)
+* Jesus realiza a primeira Ceia do Senhor (22:14-20)
+* ‘Aquele que me trai está comigo à mesa’ (22:21-23)
+* Discussão acalorada sobre quem é o maior (22:24-27)
+* Pacto de Jesus para um reino (22:28-30)
+* Jesus prediz que Pedro o negará (22:31-34)
+* Necessário estar preparado; duas espadas (22:35-38)
+* Oração de Jesus no monte das Oliveiras (22:39-46)
+* Jesus é preso (22:47-53)
+* Pedro nega a Jesus (22:54-62)
+* Zombam de Jesus (22:63-65)
+* Julgamento perante o Sinédrio (22:66-71)
+* Jesus é levado a Pilatos e a Herodes (23:1-25)
+****
+
+[[v42-21-1]]
+
+^<<v42-21-1,1>>^ Então, erguendo os olhos, ele viu os ricos pondo suas dádivas nos cofres do tesouro.
+
+[TIP]
+====
+- *cofres do tesouro*: Veja a nota de estudo em Mr 12:41.
+====
+
+[[v42-21-2]]
+
+^<<v42-21-2,2>>^ Viu então uma viúva necessitada pôr neles duas pequenas moedas de pouquíssimo valor
+
+[TIP]
+====
+- *necessitada*: Ou: “pobre”. Esta é a única vez que a palavra grega penikhrós aparece nas Escrituras Gregas Cristãs. Ela passa a ideia de alguém que não tem o suficiente para suas necessidades básicas ou que leva uma vida muito difícil.
+- *duas pequenas moedas de pouquíssimo valor*: Lit.: “dois léptons”. A palavra grega leptón significa “algo pequeno e fino”. O lépton era uma moeda que valia bem pouco. Seriam necessários 128 léptons para completar um denário. O lépton era a menor moeda de cobre ou bronze usada em Israel. — Veja o Glossário, “Lépton” e o Apêndice B14-B.
+====
+
+[[v42-21-3]]
+
+^<<v42-21-3,3>>^ e disse: “Digo a verdade a vocês: Esta viúva pobre pôs nos cofres do tesouro mais do que todos eles.
+
+[[v42-21-4]]
+
+^<<v42-21-4,4>>^ Pois todos esses puseram dádivas^&#42;1^ do que lhes sobrava, mas ela, da sua carência,^&#42;2^ pôs tudo o que tinha para viver.”
+
+[NOTE]
+====
+. Ou: “contribuíram para as dádivas”.
+. Ou: “pobreza”.
+====
+
+[TIP]
+====
+- *tudo o que tinha para viver*: A viúva colocou nos cofres do tesouro “dois léptons” (veja a nota de estudo em Lu 21:2), um valor 64 vezes menor do que o salário de um dia de trabalho. O lépton era a moeda de menor valor usada em Israel. De acordo com Mt 10:29, uma pessoa precisava de um assário (moeda que equivalia a oito léptons) para conseguir comprar dois pardais, uma das aves mais baratas vendidas como alimento. Assim, os dois léptons da viúva eram apenas metade do valor de um pardal, ou seja, mal dariam para uma refeição.
+====
+
+[[v42-21-5]]
+
+^<<v42-21-5,5>>^ Mais tarde, quando alguns estavam falando sobre o templo, sobre como era adornado com belas pedras e com dádivas oferecidas a Deus,^&#42;1^
+
+[NOTE]
+====
+. Ou: “com coisas dedicadas”.
+====
+
+[[v42-21-6]]
+
+^<<v42-21-6,6>>^ ele disse: “Quanto a estas coisas que vocês estão vendo, virão os dias em que não ficará pedra sobre pedra sem ser derrubada.”
+
+[TIP]
+====
+- *não ficará pedra sobre pedra*: Veja a nota de estudo em Mt 24:2.
+====
+
+[[v42-21-7]]
+
+^<<v42-21-7,7>>^ Perguntaram-lhe então: “Instrutor, quando acontecerão realmente essas coisas e qual será o sinal de que essas coisas estão prestes a ocorrer?”
+
+[[v42-21-8]]
+
+^<<v42-21-8,8>>^ Ele disse: “Cuidado para não serem enganados, pois muitos virão em meu nome, dizendo: ‘Sou eu’, e: ‘Está próximo o tempo devido.’ Não vão atrás deles.
+
+[TIP]
+====
+- *Sou eu*: Veja a nota de estudo em Mr 13:6.
+====
+
+[[v42-21-9]]
+
+^<<v42-21-9,9>>^ Além disso, quando ouvirem falar de guerras e tumultos,^&#42;1^ não fiquem apavorados. Pois essas coisas têm de acontecer primeiro, mas o fim não ocorrerá imediatamente.”
+
+[NOTE]
+====
+. Ou: “desordens; insurreições”.
+====
+
+[TIP]
+====
+- *tumultos*: Ou: “desordens; insurreições”. A palavra grega akatastasía tem o sentido básico de “indisciplina”, mas também pode se referir a “oposição às autoridades; rebelião; tumulto político”. Em 2Co 6:5, essa palavra é usada para descrever a violenta oposição que o apóstolo Paulo enfrentou.
+- *fim*: Ou: “fim completo”. — Veja a nota de estudo em Mt 24:6.
+====
+
+[[v42-21-10]]
+
+^<<v42-21-10,10>>^ Então lhes disse: “Nação se levantará contra nação e reino contra reino.
+
+[TIP]
+====
+- *Nação*: Veja a nota de estudo em Mt 24:7.
+- *se levantará*: Veja a nota de estudo em Mt 24:7.
+====
+
+[[v42-21-11]]
+
+^<<v42-21-11,11>>^ Haverá grandes terremotos e, num lugar após outro, falta de alimentos e pestilências;  e as pessoas verão coisas atemorizantes e grandes sinais do céu.
+
+[TIP]
+====
+- *pestilências*: Ou: “doenças em grande escala; epidemias”. Dos três Evangelhos que registraram esta profecia de Jesus, apenas Lucas menciona que as pestilências fariam parte do “sinal” do tempo do fim. (Lu 21:7; Mt 24:3, 7; Mr 13:4, 8) Na verdade, os três relatos se complementam. A palavra grega para “pestilências” aparece na Bíblia apenas mais uma vez, em At 24:5, onde ela é usada em sentido figurado para se referir a uma pessoa que é vista como “uma praga”, alguém que causa problemas, uma ameaça para as pessoas a sua volta.
+- *coisas atemorizantes*: Esta é a única vez que a palavra grega fobéo aparece nas Escrituras Gregas Cristãs. Ela vem de um verbo que significa “temer” e, ao que tudo indica, se refere a acontecimentos que deixariam as pessoas apavoradas.
+====
+
+[[v42-21-12]]
+
+^<<v42-21-12,12>>^ “Mas, antes que tudo isso aconteça, prenderão e perseguirão vocês, entregando-os às sinagogas e às prisões, e vocês serão levados diante de reis e governadores por causa do meu nome.
+
+[[v42-21-13]]
+
+^<<v42-21-13,13>>^ Isso resultará numa oportunidade para vocês darem testemunho.
+
+[[v42-21-14]]
+
+^<<v42-21-14,14>>^ Portanto, resolvam no coração não ensaiar antecipadamente como fazer a sua defesa,
+
+[[v42-21-15]]
+
+^<<v42-21-15,15>>^ porque eu lhes darei palavras e sabedoria, às quais todos os seus opositores juntos não poderão resistir, nem contestar.
+
+[TIP]
+====
+- *palavras*: Ou: “fala poderosa”. Lit.: “uma boca”. Aqui, a palavra grega stóma é usada como sinônimo de fala ou poder da fala.
+====
+
+[[v42-21-16]]
+
+^<<v42-21-16,16>>^ Além disso, vocês serão entregues^&#42;1^ até mesmo por pais, irmãos, parentes e amigos, e eles entregarão alguns de vocês à morte,
+
+[NOTE]
+====
+. Ou: “traídos”.
+====
+
+[[v42-21-17]]
+
+^<<v42-21-17,17>>^ e vocês serão odiados por todos, por causa do meu nome.
+
+[[v42-21-18]]
+
+^<<v42-21-18,18>>^ Mas nem um único fio de cabelo da sua cabeça se perderá.
+
+[TIP]
+====
+- *nem um único fio de cabelo da sua cabeça se perderá*: Jesus usou essa hipérbole para mostrar que seus seguidores podiam ter certeza de que seriam protegidos apesar de serem “odiados por todos”. (Lu 21:17) O contexto mostra que Jesus não estava falando que seus discípulos seriam protegidos de qualquer dano físico. (Lu 21:16) A proteção que eles receberiam seria principalmente contra danos espirituais, que podem ter consequências eternas. Assim, os discípulos de Jesus não esperam ser livrados milagrosamente quando são maltratados ou até mesmo quando sua vida está em perigo. Por outro lado, eles podem ter confiança no poder de Jeová de ressuscitar os mortos. (Mt 10:39) O texto original usa aqui duas palavras que significam “não” junto com o verbo grego traduzido como “se perderá”, mostrando de modo enfático que seria impossível que as palavras de Jesus não se cumprissem. Em outra ocasião, Jesus disse algo parecido a seus discípulos: “Até mesmo os cabelos da cabeça de vocês estão todos contados.” — Lu 12:7; veja a nota de estudo em Mt 10:30.
+====
+
+[[v42-21-19]]
+
+^<<v42-21-19,19>>^ Pela sua perseverança, vocês preservarão a sua vida.
+
+[TIP]
+====
+- *perseverança*: A palavra grega que aparece aqui, hypomoné, é usada na Bíblia para se referir à perseverança corajosa, constante ou paciente demonstrada por quem não perde a esperança diante de obstáculos, perseguições, provações ou tentações. O verbo grego relacionado (hypoméno), que muitas vezes é traduzido como “perseverar”, significa literalmente “permanecer (ficar) embaixo”. Ele com frequência é usado no sentido de “ficar em vez de fugir; manter-se firme; resistir; continuar decidido”. — Mt 10:22; Ro 12:12; He 10:32; Tg 5:11.
+- *preservarão a sua vida*: Ou: “obterão (ganharão) a sua vida (alma)”. O significado da palavra grega psykhé, traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, varia de acordo com o contexto. (Veja o Glossário, “Alma”.) Ela muitas vezes se refere à vida atual ou futura da pessoa. Aqui, ela também poderia ser traduzida como “sua vida futura” ou “sua verdadeira vida”.
+====
+
+[[v42-21-20]]
+
+^<<v42-21-20,20>>^ “No entanto, quando virem Jerusalém cercada por exércitos acampados, então saibam que está próxima a desolação dela.
+
+[TIP]
+====
+- *dela*: Ou seja, de Jerusalém. Neste contexto, o nome “Jerusalém” em grego é um substantivo feminino, mas em outros contextos ele é um substantivo neutro.
+====
+
+[[v42-21-21]]
+
+^<<v42-21-21,21>>^ Então, os que estiverem na Judeia fujam para os montes, os que estiverem no meio dela saiam, e os que estiverem nos campos não entrem nela,
+
+[TIP]
+====
+- *Judeia*: Ou seja, a província romana da Judeia.
+- *para os montes*: De acordo com o historiador Eusébio, que viveu no século 4 d.C., os cristãos da Judeia e de Jerusalém cruzaram o rio Jordão e fugiram para Pela, uma cidade que ficava numa região montanhosa em Decápolis. — Veja o Apêndice B10.
+- *dela . . . nela*: Ou seja, Jerusalém. — Veja a nota de estudo em Lu 21:20.
+====
+
+[[v42-21-22]]
+
+^<<v42-21-22,22>>^ porque esses são dias para se executar a justiça a fim de que se cumpram todas as coisas escritas.
+
+[TIP]
+====
+- *dias para se executar a justiça*: Ou: “dias de vingança”. Ou seja, dias da vingança e do julgamento de Deus. De acordo com Lu 4:16-21, em uma ocasião anterior, na sinagoga de Nazaré, Jesus citou parte da profecia de Is 61 e disse que ele estava cumprindo aquela profecia. O relato não diz que Jesus citou a parte sobre o “dia de vingança” de Deus. (Is 61:1, 2) Mas, na ocasião mencionada aqui, Jesus proclamou “dias de vingança” quando predisse que Jerusalém seria cercada por exércitos acampados. A vingança de Deus estava entre as coisas escritas nas Escrituras Hebraicas. A palavra grega traduzida aqui como “executar a justiça” (ou: “vingança”) também é usada na Septuaginta em De 32:35; Je 46:10 (26:10, LXX) e Os 9:7. As palavras correspondentes que aparecem no texto hebraico original desses versículos são traduzidas como “vingança” e “ajuste de contas”.
+====
+
+[[v42-21-23]]
+
+^<<v42-21-23,23>>^ Ai das mulheres grávidas e das que amamentarem naqueles dias! Porque haverá grande aflição nesta terra e ira contra este povo.
+
+[[v42-21-24]]
+
+^<<v42-21-24,24>>^ E eles cairão pelo fio da espada e serão levados cativos para todas as nações; e Jerusalém será pisada pelas nações até se cumprirem os tempos determinados das nações.
+
+[TIP]
+====
+- *tempos determinados das nações*: Ou: “tempos dos gentios”. A palavra grega para “tempo determinado” (kairós) pode se referir a um ponto na corrente do tempo, a um período definido ou determinado, ou a uma “época” ou “estação” marcada por certas características. (Mt 13:30; 21:34; Mr 11:13) A mesma palavra é usada para se referir ao “tempo determinado” para Jesus iniciar seu ministério (Mr 1:15) e ao “tempo determinado” da morte de Jesus (Mt 26:18). A palavra kairós também é usada para se referir a tempos ou épocas futuras dentro do cronograma ou planejamento de Deus, especialmente com respeito à presença de Jesus e ao seu Reino. (At 1:7; 3:19; 1Te 5:1) O modo como a palavra kairós é usada na Bíblia indica que a expressão “tempos determinados das nações” se refere a um período fixo de tempo (com começo e fim), e não a um período vago ou indefinido de tempo. A palavra grega traduzida como “nações” ou “gentios” é a forma plural da palavra éthnos, que muitas vezes foi usada pelos escritores bíblicos judeus para se referir aos outros povos.
+====
+
+[[v42-21-25]]
+
+^<<v42-21-25,25>>^ “Também, haverá sinais no sol, na lua e nas estrelas; e, na terra, angústia de nações, que não saberão o que fazer por causa do rugido do mar e da sua agitação.
+
+[[v42-21-26]]
+
+^<<v42-21-26,26>>^ Pessoas desfalecerão de medo, na expectativa das coisas que vêm sobre a terra habitada, pois os poderes dos céus serão abalados.
+
+[TIP]
+====
+- *a terra habitada*: A palavra grega para “terra habitada” (oikouméne) se refere à Terra como o lar da humanidade. (Lu 4:5; At 17:31; Ro 10:18; Ap 12:9; 16:14) Aqui, o foco da palavra está mais nos humanos que vivem na Terra do que no planeta em si.
+====
+
+[[v42-21-27]]
+
+^<<v42-21-27,27>>^ E então verão o Filho do Homem vir numa nuvem, com poder e grande glória.
+
+[TIP]
+====
+- *verão*: Veja a nota de estudo em Mt 24:30.
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *numa nuvem*: Veja a nota de estudo em Mt 24:30.
+====
+
+[[v42-21-28]]
+
+^<<v42-21-28,28>>^ Mas, quando essas coisas começarem a ocorrer, ponham-se de pé e levantem a cabeça, porque o seu livramento está se aproximando.”
+
+[[v42-21-29]]
+
+^<<v42-21-29,29>>^ Então lhes contou uma ilustração: “Reparem na figueira e em todas as outras árvores.
+
+[TIP]
+====
+- *ilustração*: Ou: “parábola; lição”. — Veja a nota de estudo em Mt 13:3.
+====
+
+[[v42-21-30]]
+
+^<<v42-21-30,30>>^ Quando elas estão brotando, vocês veem e sabem por si mesmos que o verão já está próximo.
+
+[[v42-21-31]]
+
+^<<v42-21-31,31>>^ Do mesmo modo, quando virem essas coisas acontecer, saibam que o Reino de Deus está próximo.
+
+[[v42-21-32]]
+
+^<<v42-21-32,32>>^ Eu lhes garanto que esta geração de modo algum passará até que todas as coisas aconteçam.
+
+[[v42-21-33]]
+
+^<<v42-21-33,33>>^ Céu e terra passarão, mas as minhas palavras de modo algum passarão.
+
+[TIP]
+====
+- *Céu e terra passarão*: Veja a nota de estudo em Mt 24:35.
+- *as minhas palavras de modo algum passarão*: Veja a nota de estudo em Mt 24:35.
+====
+
+[[v42-21-34]]
+
+^<<v42-21-34,34>>^ “Mas prestem atenção a si mesmos, para que o seu coração nunca fique sobrecarregado com o excesso no comer e no beber e com as ansiedades da vida,^&#42;1^ e de repente aquele dia os apanhe de surpresa,
+
+[NOTE]
+====
+. Ou: “ansiedades quanto ao sustento; preocupações do dia a dia”.
+====
+
+[[v42-21-35]]
+
+^<<v42-21-35,35>>^ como uma armadilha. Pois ele virá sobre todos os que moram na face de toda a terra.
+
+[[v42-21-36]]
+
+^<<v42-21-36,36>>^ Portanto, mantenham-se despertos, fazendo todo o tempo súplicas para que consigam escapar de todas essas coisas que têm de ocorrer e consigam ficar em pé diante do Filho do Homem.”
+
+[TIP]
+====
+- *ficar em pé*: Na Bíblia, esta expressão é às vezes usada para indicar que alguém (ou um grupo) está em uma posição aprovada ou favorecida diante de alguém que tem autoridade. (Sal 1:5; 5:5; Pr 22:29; Lu 1:19) Por exemplo, Ap 7:9, 15 fala de uma grande multidão “em pé diante do trono e diante do Cordeiro”, indicando que a multidão tem o favor ou a aprovação de Deus e de Jesus.
+====
+
+[[v42-21-37]]
+
+^<<v42-21-37,37>>^ Assim, de dia ele ensinava no templo, mas, depois do anoitecer, saía e passava a noite no chamado monte das Oliveiras.
+
+[TIP]
+====
+- *passava a noite no . . . monte*: Nos últimos quatro dias de sua vida como humano, Jesus realizava suas atividades em Jerusalém durante o dia. À noite, ele e seus discípulos iam para Betânia, uma aldeia na encosta leste do monte das Oliveiras. Ao que tudo indica, Jesus ficava hospedado na casa de Marta, Maria e Lázaro. — Mt 21:17; Mr 11:11.
+====
+
+[[v42-21-38]]
+
+^<<v42-21-38,38>>^ E todo o povo se dirigia a ele, de manhã cedo, para ouvi-lo no templo.
+
+'''
+
+xref:042-lucas/042-lucas-020.adoc#v42-20-0[&#60; Capítulo Anterior] | <<v42-21-0,Topo>> | xref:042-lucas/042-lucas-022.adoc#v42-22-0[Próximo Capítulo &#62;]

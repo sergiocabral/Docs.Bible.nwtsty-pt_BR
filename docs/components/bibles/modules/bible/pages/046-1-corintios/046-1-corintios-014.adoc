@@ -1,0 +1,314 @@
+include::./index.adoc[]
+
+[[v46-14-0]]
+=== A Primeira aos Coríntios, 14
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* F. INSTRUÇÕES PARA QUE A CONGREGAÇÃO ADORE A DEUS DE MODO ORDEIRO (11:2–14:40)
+* Respeito pelo princípio da chefia; cobrir a cabeça (11:2-16)
+* Mostrar respeito pela Ceia do Senhor (11:17-34)
+* Dons do espírito (12:1-11)
+* Um corpo, muitos membros (12:12-31a)
+* Amor: um caminho superior (12:31b–13:13)
+* Dons de profecia e de falar em línguas (14:1-25)
+* Manter a ordem nas reuniões cristãs (14:26-40)
+****
+
+[[v46-14-1]]
+
+^<<v46-14-1,1>>^ Empenhem-se pelo amor, mas continuem se esforçando pelos^&#42;1^ dons espirituais, de preferência o de profetizar.
+
+[NOTE]
+====
+. Ou: “continuem buscando zelosamente os”.
+====
+
+[TIP]
+====
+- *profetizar*: Veja a nota de estudo em 1Co 12:10 e o Glossário, “Profecia”.
+====
+
+[[v46-14-2]]
+
+^<<v46-14-2,2>>^ Pois quem fala em outra língua não fala a homens, mas a Deus, porque ninguém entende, embora ele fale segredos sagrados pelo espírito.
+
+[TIP]
+====
+- *fala em outra língua*: Veja a nota de estudo em 1Co 12:10.
+====
+
+[[v46-14-3]]
+
+^<<v46-14-3,3>>^ No entanto, quem profetiza edifica, encoraja e consola a homens com suas palavras.
+
+[TIP]
+====
+- *encoraja e consola*: Tanto a palavra grega paráklesis (traduzida aqui como “encoraja”) como a palavra grega paramythía (traduzida aqui como “consola”) passam a ideia de “encorajamento”, mas paramythía inclui um grau ainda maior de carinho e consolo. O verbo relacionado paramythéomai aparece em Jo 11:19, 31, fazendo referência aos judeus que foram consolar Maria e Marta depois da morte de Lázaro, o irmão delas. — Veja também 1Te 5:14, onde paramythéomai foi traduzido como “consolem”.
+====
+
+[[v46-14-4]]
+
+^<<v46-14-4,4>>^ Quem fala em outra língua edifica a si mesmo, mas quem profetiza edifica a congregação.
+
+[[v46-14-5]]
+
+^<<v46-14-5,5>>^ Eu gostaria que todos vocês falassem em línguas, mas prefiro que profetizem. Na verdade, quem profetiza é maior do que aquele que fala em línguas, a menos que este interprete, para que a congregação seja edificada.
+
+[TIP]
+====
+- *interprete*: Ou: “traduza”. A palavra grega que aparece aqui foi usada neste versículo com o sentido de “traduzir de um idioma para outro”. (At 9:36; 1Co 12:30; 14:13, 27) Mas ela também pode passar a ideia de “esclarecer o significado; explicar completamente”. — Veja as notas de estudo em Lu 24:27; 1Co 12:10.
+====
+
+[[v46-14-6]]
+
+^<<v46-14-6,6>>^ Mas, irmãos, se eu fosse agora visitá-los falando em línguas, que bem eu faria a vocês, a não ser que lhes falasse com uma revelação, com conhecimento, com uma profecia ou com um ensinamento?
+
+[TIP]
+====
+- *revelação*: Veja a nota de estudo em Ro 16:25.
+====
+
+[[v46-14-7]]
+
+^<<v46-14-7,7>>^ O mesmo acontece com as coisas inanimadas que produzem som, quer seja flauta quer harpa. Se não houver distinção entre as notas, como alguém reconhecerá o que se toca na flauta ou na harpa?
+
+[TIP]
+====
+- *as coisas inanimadas*: Ou: “as coisas sem vida”. Aqui, esta expressão se refere a instrumentos musicais.
+====
+
+[[v46-14-8]]
+
+^<<v46-14-8,8>>^ Pois, se a trombeta não der um toque claro, quem se aprontará para a batalha?
+
+[TIP]
+====
+- *trombeta*: A Lei mosaica orientava que os sacerdotes israelitas dessem certos avisos importantes por meio de toques de trombeta. (Núm 10:2-10) Por exemplo, quando era hora de ir à batalha, as trombetas davam um toque de guerra. (Núm 10:9) Se o toque da trombeta não fosse claro, o soldado talvez não soubesse exatamente o que fazer. De modo parecido, na congregação, uma orientação muito vaga ou uma informação que não é dada de modo claro pode gerar confusão, desordem e desânimo.
+====
+
+[[v46-14-9]]
+
+^<<v46-14-9,9>>^ Do mesmo modo, se com a língua vocês não proferirem palavras que sejam fáceis de entender, como alguém saberá o que se fala? Vocês estarão, na verdade, falando ao vento.
+
+[[v46-14-10]]
+
+^<<v46-14-10,10>>^ Pode ser que se falem muitos idiomas diferentes no mundo, mas nenhum deles é sem significado.
+
+[[v46-14-11]]
+
+^<<v46-14-11,11>>^ Pois, se eu não entender o sentido do que se fala, serei um estrangeiro para aquele que fala, e aquele que fala será um estrangeiro para mim.
+
+[[v46-14-12]]
+
+^<<v46-14-12,12>>^ Assim também vocês: visto que desejam tanto ter os dons do espírito, procurem ter em abundância dons que edificarão a congregação.
+
+[[v46-14-13]]
+
+^<<v46-14-13,13>>^ Portanto, quem fala em outra língua, ore para que a possa interpretar.
+
+[TIP]
+====
+- *interpretar*: Ou: “traduzir”. — Veja a nota de estudo em 1Co 14:5.
+====
+
+[[v46-14-14]]
+
+^<<v46-14-14,14>>^ Pois, se eu oro em outra língua, é o meu dom do espírito que ora, mas a minha mente fica improdutiva.
+
+[[v46-14-15]]
+
+^<<v46-14-15,15>>^ O que se deve fazer, então? Orarei com o dom do espírito, mas orarei também com a minha mente. Cantarei louvores com o dom do espírito, mas cantarei louvores também com a minha mente.
+
+[TIP]
+====
+- *com a minha mente*: Ou: “com o meu entendimento”. Neste versículo, a palavra grega nous (muitas vezes traduzida como “mente”) foi usada duas vezes. Ela também aparece em 1Co 14:14, 19.
+====
+
+[[v46-14-16]]
+
+^<<v46-14-16,16>>^ De outro modo, se você der louvor com um dom do espírito, como é que a pessoa comum que está no meio de vocês dirá “amém” aos seus agradecimentos, visto que não sabe o que você está dizendo?
+
+[TIP]
+====
+- *dirá “amém” aos seus agradecimentos*: A palavra grega amén é uma transliteração da palavra hebraica ʼamén, que significa “assim seja” ou “certamente”. Vários versículos indicam que os israelitas diziam amém depois de ouvir orações públicas. (1Cr 16:36; Ne 5:13; 8:6) As palavras de Paulo aqui dão a entender que o costume de dizer amém no final das orações, pelo visto, continuou a ser seguido pelos cristãos em suas reuniões. Mas Paulo não diz especificamente se eles falavam amém em voz alta ou de forma silenciosa, no coração. — Veja o Glossário, “Amém”, e a nota de estudo em Ro 1:25.
+====
+
+[[v46-14-17]]
+
+^<<v46-14-17,17>>^ É verdade que você dá graças de um modo excelente, mas o outro não está sendo edificado.
+
+[[v46-14-18]]
+
+^<<v46-14-18,18>>^ Agradeço a Deus por falar em mais línguas do que todos vocês.
+
+[[v46-14-19]]
+
+^<<v46-14-19,19>>^ Contudo, numa congregação, prefiro falar cinco palavras com a minha mente, para também instruir outros, a falar dez mil palavras em outra língua.
+
+[TIP]
+====
+- *com a minha mente*: Ou: “com o meu entendimento”. A palavra grega nous, traduzida aqui como “mente”, se refere à capacidade de pensar e compreender. Paulo, sob inspiração, considerou o dom de falar em línguas como menos importante do que outros dons. Ele disse que preferia falar cinco palavras que ele e outros entendessem do que falar dez mil palavras em uma língua que não fosse entendida. — 1Co 14:11, 13-18.
+- *instruir outros*: Ou: “instruir outros oralmente”. O verbo grego katekhéo significa literalmente “fazer ressoar” e pode incluir a ideia de instruir oralmente. — Veja a nota de estudo em At 18:25.
+====
+
+[[v46-14-20]]
+
+^<<v46-14-20,20>>^ Irmãos, não se tornem crianças no seu entendimento. Sejam crianças quanto à maldade, e tornem-se adultos no seu entendimento.
+
+[TIP]
+====
+- *não se tornem crianças*: Primeiro, Paulo diz para os coríntios não se tornarem crianças, ou seja, não serem imaturos ou infantis, na questão de entender assuntos espirituais. Mas depois ele diz que eles deviam ‘ser crianças’, ou seja, ser inexperientes e inocentes, “quanto à maldade”.
+====
+
+[[v46-14-21]]
+
+^<<v46-14-21,21>>^ Está escrito na Lei: “‘Pelas línguas de estrangeiros e pelos lábios de estranhos falarei a este povo, e mesmo assim se recusarão a me ouvir’, diz Jeová.”
+
+[TIP]
+====
+- *Está escrito na Lei*: As palavras de Paulo que aparecem a seguir são uma citação de Is 28:11, 12. Assim, “Lei” aqui tem um sentido amplo e se refere às Escrituras Hebraicas como um todo. — Veja as notas de estudo em Jo 10:34; Ro 2:12.
+- *diz Jeová*: Aqui, Paulo está citando Is 28:11, 12 para mostrar que Deus transmitiria sua mensagem nas “línguas de estrangeiros”, mas as pessoas se recusariam a ouvir. A profecia de Isaías usa a terceira pessoa: “Ele [Deus] falará.” Mas Paulo cita as palavras da profecia como se o próprio Deus estivesse falando, usando a primeira pessoa (“falarei”). Para tornar claro quem estava falando, Paulo inclui uma expressão grega que foi usada centenas de vezes na Septuaginta para traduzir expressões hebraicas que significam “diz Jeová” e “assim diz Jeová”. Alguns exemplos estão em Is 1:11; 22:25; 28:16; 30:1; 31:9; 33:10; 43:10; 48:17; 49:18 (citado em Ro 14:11); 52:4, 5; Am 1:5; Miq 2:3; Na 1:12; Mal 1:2. Assim, pelos motivos mencionados no Apêndice C1, o uso dessa expressão nas Escrituras Hebraicas é uma forte indicação de que o nome de Deus aparecia no texto original deste versículo e que mais tarde foi substituído pelo título “Senhor”. — Veja o Apêndice C3 (introdução e 1Co 14:21).
+====
+
+[[v46-14-22]]
+
+^<<v46-14-22,22>>^ Portanto, as línguas não servem de sinal para os crentes, mas para os descrentes, ao passo que a profecia não é para os descrentes, mas para os crentes.
+
+[TIP]
+====
+- *a profecia*: Veja a nota de estudo em 1Co 12:10.
+====
+
+[[v46-14-23]]
+
+^<<v46-14-23,23>>^ Assim, se a congregação inteira se reunir e todos falarem em línguas, e entrarem pessoas comuns ou descrentes, não dirão que vocês estão loucos?
+
+[[v46-14-24]]
+
+^<<v46-14-24,24>>^ Mas, se todos vocês estiverem profetizando, e entrar um descrente ou uma pessoa comum, ele será repreendido e examinado cuidadosamente por todos.
+
+[TIP]
+====
+- *entrar um descrente ou uma pessoa comum*: Além dos “crentes”, ou seja, aqueles que tinham aceitado a Cristo e se batizado (At 8:13; 16:31-34; 18:8), os “descrentes” também podiam assistir às reuniões cristãs (1Co 14:22). Com certeza, nem todo “descrente” (em grego, ápistos) ou “pessoa comum” (em grego, idiótes) que frequentava as reuniões progredia com a mesma velocidade no estudo da Palavra de Deus e na aplicação de seus princípios. Mesmo assim, todos eles tirariam proveito de ouvir verdades que os repreendessem, ou seja, que ‘revelassem’ os segredos do seu coração. — 1Co 14:23-25; 2Co 6:14.
+====
+
+[[v46-14-25]]
+
+^<<v46-14-25,25>>^ Os segredos do seu coração serão então revelados, de modo que ele se prostrará com o rosto por terra e adorará a Deus, declarando: “Deus está realmente entre vocês.”
+
+[[v46-14-26]]
+
+^<<v46-14-26,26>>^ O que deve ser feito então, irmãos? Quando vocês se reúnem, um tem salmo, outro tem ensinamento, outro tem revelação, outro fala em outra língua, e outro tem interpretação. Que todas as coisas ocorram para a edificação.
+
+[TIP]
+====
+- *salmo*: A palavra grega usada aqui, psalmós, se refere a um cântico sagrado ou a uma composição sagrada. Ela poderia ser traduzida também como “cântico de louvor”.
+====
+
+[[v46-14-27]]
+
+^<<v46-14-27,27>>^ E, se alguém falar em outra língua, que isso seja limitado a dois ou no máximo três, um de cada vez, e alguém deve interpretar.
+
+[TIP]
+====
+- *interpretar*: Ou: “traduzir”. — Veja a nota de estudo em 1Co 14:5.
+====
+
+[[v46-14-28]]
+
+^<<v46-14-28,28>>^ Mas, se não houver intérprete, ele deve ficar calado na congregação e falar consigo mesmo e com Deus.
+
+[TIP]
+====
+- *intérprete*: Ou: “tradutor”. — Veja a nota de estudo em 1Co 14:5.
+====
+
+[[v46-14-29]]
+
+^<<v46-14-29,29>>^ Que dois ou três profetas falem, e os outros discirnam o significado.
+
+[[v46-14-30]]
+
+^<<v46-14-30,30>>^ Mas, se outro recebe uma revelação enquanto está sentado ali, que aquele que estava falando se cale.
+
+[[v46-14-31]]
+
+^<<v46-14-31,31>>^ Pois todos vocês podem profetizar, um de cada vez, para que todos aprendam e sejam encorajados.
+
+[[v46-14-32]]
+
+^<<v46-14-32,32>>^ E o dom espiritual^&#42;1^ dos profetas deve ser controlado pelos profetas.
+
+[NOTE]
+====
+. Lit.: “E espíritos”.
+====
+
+[[v46-14-33]]
+
+^<<v46-14-33,33>>^ Pois Deus não é Deus de desordem, mas de paz.
+Como em todas as congregações dos santos,
+
+[TIP]
+====
+- *não é Deus de desordem, mas de paz*: Neste versículo, Paulo faz um contraste entre a desordem e a paz. Paulo se refere a Jeová como “Deus de paz” em Fil 4:9, 1Te 5:23 e He 13:20, e como “o Deus que dá paz” em Ro 15:33 e 16:20. A paz que vem de Deus é o alicerce da ordem e da união que existem na congregação cristã. Aqui, Paulo não está dizendo que fazer as coisas de modo ordeiro, por si só, geraria paz. Mas adorar a Deus de modo ordeiro poderia contribuir para um ambiente de paz nas reuniões, o que ajudaria todos os presentes a serem ‘edificados’ e ‘encorajados’. (1Co 14:26-32) Reuniões cristãs realizadas de modo ordeiro refletem as qualidades e a personalidade do Deus de paz e dão honra a ele.
+====
+
+[[v46-14-34]]
+
+^<<v46-14-34,34>>^ que as mulheres fiquem caladas nas congregações, pois não lhes é permitido falar. Em vez disso, que estejam em sujeição, como também diz a Lei.
+
+[TIP]
+====
+- *que as mulheres fiquem caladas nas congregações*: Esta não foi a primeira vez que Paulo orientou cristãos a ‘ficar calados’. Ele já tinha dado essa orientação aos irmãos que falavam em outra língua sem um intérprete e aos que profetizavam enquanto outro recebia uma revelação. Aqui, ele dá orientações para mulheres que, durante as reuniões, falavam algo indevido ou no momento errado. (1Co 14:28, 30, 34) Talvez algumas mulheres tivessem o costume de interromper ou desafiar os homens que tomavam a liderança no ensino. Paulo incentivou as mulheres que tivessem dúvidas ou questionamentos a ‘perguntar ao marido, em casa’, em vez de atrapalhar o andamento das reuniões. (1Co 14:35) Além disso, aqui Paulo foi inspirado a reforçar que, de acordo com as Escrituras, Deus designou os homens para tomar a liderança entre o seu povo. (1Ti 2:12) O apóstolo Paulo sempre deixou claro que dava muito valor às mulheres como ministras e pregadoras das boas novas. (Ro 16:1, 2; Fil 4:2, 3) A orientação inspirada de Paulo não proibia as mulheres de participar nas reuniões congregacionais. — 1Co 11:5; He 10:23-25.
+====
+
+[[v46-14-35]]
+
+^<<v46-14-35,35>>^ Se elas quiserem aprender algo, perguntem ao marido, em casa, pois é vergonhoso para uma mulher falar na congregação.
+
+[[v46-14-36]]
+
+^<<v46-14-36,36>>^ Foi de vocês que a palavra de Deus se originou? Será que vocês foram os únicos que ela alcançou?
+
+[TIP]
+====
+- *Foi de vocês que a palavra de Deus se originou?*: Paulo fez esta pergunta retórica para lembrar aos coríntios que a congregação deles não foi a primeira a ser formada e que “a palavra de Deus” não tinha sido declarada apenas a eles. Na verdade, eles faziam parte de uma grande fraternidade de cristãos. Em vez de criar novas maneiras de fazer as coisas, eles deviam seguir as orientações dos apóstolos. Isso contribuiria para a ordem, a união e o crescimento espiritual da congregação.
+====
+
+[[v46-14-37]]
+
+^<<v46-14-37,37>>^ Se alguém acha que é profeta ou que tem um dom do espírito, ele deve reconhecer que as coisas que estou escrevendo a vocês são o mandamento do Senhor.
+
+[TIP]
+====
+- *que tem um dom do espírito*: Esta expressão é a tradução da palavra grega pneumatikós, que tem o sentido básico de “relacionado ao espírito; espiritual”. É verdade que todos os cristãos podem pedir e receber orientação e ajuda do espírito santo (Lu 11:13) e que os cristãos que foram escolhidos para reinar com Cristo no céu são ungidos com espírito santo (2Co 1:21, 22). Mas, neste versículo, pneumatikós se aplica especificamente a alguém que recebeu um dom milagroso do espírito santo. Em 1Co 14:1, essa palavra foi traduzida como “dons espirituais”. Aqui em 1Co 14:37, Paulo está terminando de considerar o assunto dos dons milagrosos e fala sobre alguém ser profeta ou ‘ter um dom do espírito’. Isso indica que ele ainda está falando dos dons milagrosos do espírito santo, assim como no versículo 1.
+====
+
+[[v46-14-38]]
+
+^<<v46-14-38,38>>^ Mas, se alguém desconsiderar isso, ele será desconsiderado.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “se alguém ignora isso, continuará na ignorância”.
+====
+
+[[v46-14-39]]
+
+^<<v46-14-39,39>>^ Portanto, meus irmãos, continuem se esforçando pelo profetizar; contudo, não proíbam o falar em línguas.
+
+[[v46-14-40]]
+
+^<<v46-14-40,40>>^ Mas que todas as coisas ocorram com decência e ordem.
+
+[TIP]
+====
+- *com . . . ordem*: Lit.: “conforme ordem”. Neste contexto, Paulo está incentivando os cristãos a realizarem as reuniões de forma ordeira. (1Co 14:26-33) A palavra grega traduzida aqui como “ordem” foi traduzida como “designação” em Lu 1:8, que faz referência à forma organizada em que eram realizados os serviços do templo. Na Septuaginta, ela foi usada em Núm 1:52 para falar do acampamento bem organizado de Israel.
+====
+
+'''
+
+xref:046-1-corintios/046-1-corintios-013.adoc#v46-13-0[&#60; Capítulo Anterior] | <<v46-14-0,Topo>> | xref:046-1-corintios/046-1-corintios-015.adoc#v46-15-0[Próximo Capítulo &#62;]

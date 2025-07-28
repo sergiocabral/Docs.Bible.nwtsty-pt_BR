@@ -1,0 +1,486 @@
+include::./index.adoc[]
+
+[[v42-11-0]]
+=== As Boas Novas Segundo Lucas, 11
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Jesus se dirige para Jerusalém; Jesus continua seu ministério, principalmente na Judeia e na Pereia (9:51–19:27)
+* Aldeia samaritana rejeita Jesus (9:51-56)
+* Requisitos para seguir Jesus (9:57-62)
+* Jesus envia os 70 (10:1-12)
+* Corazim, Betsaida e Cafarnaum são repreendidas por não se arrependerem (10:13-16)
+* Os 70 voltam (10:17-20)
+* Jesus louva seu Pai por favorecer os humildes (10:21-24)
+* Ilustração do bom samaritano (10:25-37)
+* Jesus visita Marta e Maria (10:38-42)
+* Jesus ensina a oração-modelo (11:1-4)
+* Ilustração do amigo persistente (11:5-13)
+* Jesus explica que os demônios são expulsos “por meio do dedo de Deus” (11:14-23)
+* Jesus fala da volta de um espírito impuro (11:24-26)
+* Explicação sobre a verdadeira felicidade (11:27, 28)
+* Sinal de Jonas (11:29-32)
+* Olho é a lâmpada do corpo (11:33-36)
+* Jesus come com um fariseu; ai dos religiosos hipócritas (11:37-54)
+* “Tomem cuidado com o fermento dos fariseus” (12:1-3)
+* Temer a Deus, não a homens (12:4-7)
+* Declarar que está em união com Cristo (12:8-12)
+* Ilustração do rico insensato (12:13-21)
+* “Parem de se preocupar tanto com a sua vida” (12:22-31)
+* “Não tema, pequeno rebanho” (12:32-34)
+* Manter a vigilância (12:35-40)
+* Identificação do administrador fiel e características de um escravo infiel (12:41-48)
+* Não paz, mas divisão (12:49-53)
+* Necessidade de examinar os tempos (12:54-56)
+* Resolver disputas (12:57-59)
+* Arrepender-se ou ser destruído (13:1-5)
+* Ilustração da figueira infrutífera (13:6-9)
+* Jesus cura no sábado uma mulher encurvada (13:10-17)
+* Ilustrações do grão de mostarda e do fermento (13:18-21)
+* É preciso esforço para entrar pela porta estreita (13:22-30)
+* Jesus chama Herodes de ‘aquela raposa’ (13:31-33)
+* Jesus lamenta por Jerusalém (13:34, 35)
+* Jesus cura no sábado um homem com hidropisia (14:1-6)
+* Ser um convidado humilde (14:7-11)
+* Convidar os que não podem recompensar (14:12-14)
+* Ilustração dos convidados que recusam o convite (14:15-24)
+* Custo de ser discípulo (14:25-33)
+* Sal que perde a força (14:34, 35)
+* Ilustração da ovelha perdida (15:1-7)
+* Ilustração da moeda perdida (15:8-10)
+* Ilustração do filho pródigo (15:11-32)
+* Ilustração do administrador injusto (16:1-13)
+* A Lei e o Reino de Deus (16:14-18)
+* Ilustração do rico e Lázaro (16:19-31)
+* Jesus ensina sobre tropeços, perdão e fé (17:1-6)
+* Ilustração do escravo que serve primeiro seu senhor (17:7-10)
+* Jesus cura dez leprosos (17:11-19)
+* Vinda do Reino de Deus (17:20-37)
+* Ilustração da viúva persistente (18:1-8)
+* Ilustração do fariseu e do cobrador de impostos (18:9-14)
+* Jesus e as criancinhas (18:15-17)
+* Líder rico pergunta sobre a vida eterna (18:18-30)
+* Jesus prediz novamente sua morte e ressurreição (18:31-34)
+* Jesus cura um mendigo cego perto de Jericó (18:35-43)
+* Jesus visita o cobrador de impostos Zaqueu (19:1-10)
+* Ilustração das dez minas (19:11-27)
+****
+
+[[v42-11-1]]
+
+^<<v42-11-1,1>>^ Numa ocasião, ele estava em certo lugar orando e, quando parou, um dos seus discípulos lhe disse: “Senhor, ensine-nos a orar, como também João ensinou os discípulos dele.”
+
+[TIP]
+====
+- *Senhor, ensine-nos a orar*: Lucas é o único escritor dos Evangelhos que menciona esse pedido, feito cerca de um ano e meio depois de Jesus ter ensinado a oração-modelo no Sermão do Monte. (Mt 6:9-13) Pode ser que o discípulo não estivesse presente naquela ocasião e que, por isso, Jesus tenha bondosamente repetido os pontos principais da oração-modelo. Orar fazia parte da vida e da adoração dos judeus. As Escrituras Hebraicas contêm muitas orações, tanto nos Salmos como em outros livros. Assim, parece que o discípulo não estava dizendo que não sabia orar ou que nunca tinha orado. Além disso, ele pelo visto conhecia as orações que os líderes religiosos do judaísmo faziam por mera formalidade. Mas agora ele tinha visto Jesus orar e, provavelmente, percebeu que havia uma enorme diferença entre o modo de Jesus orar e as orações dos líderes religiosos, que oravam para serem vistos por outros. — Mt 6:5-8.
+====
+
+[[v42-11-2]]
+
+^<<v42-11-2,2>>^ Ele lhes disse então: “Sempre que orarem, digam: ‘Pai, santificado seja o teu nome. Venha o teu Reino.
+
+[TIP]
+====
+- *Sempre que orarem, digam*: A oração que Jesus ensinou nos versículos 2b a 4 é muito parecida com a oração-modelo, que ele tinha ensinado cerca de um ano e meio antes no Sermão do Monte. (Mt 6:9b-13) Mas Jesus não repetiu a mesma oração palavra por palavra. Isso mostra que o objetivo dele não era que os discípulos ficassem recitando aquela oração de cor, de forma mecânica. É interessante notar que as orações que Jesus e seus discípulos fizeram mais tarde não tinham exatamente a mesma estrutura e as mesmas palavras da oração-modelo.
+- *santificado*: Veja a nota de estudo em Mt 6:9.
+- *nome*: Veja a nota de estudo em Mt 6:9.
+- *Venha o teu Reino*: Veja a nota de estudo em Mt 6:10.
+====
+
+[[v42-11-3]]
+
+^<<v42-11-3,3>>^ Dá-nos o nosso pão cada dia, segundo as nossas necessidades diárias.
+
+[TIP]
+====
+- *o nosso pão . . . segundo as nossas necessidades diárias*: Muitas vezes as palavras hebraica e grega para “pão” eram usadas com o sentido de “alimento”. (Gên 3:19, nota de rodapé) Jesus estava mostrando que seus discípulos podem pedir com confiança que Deus lhes dê, não uma enorme quantidade de provisões, mas o necessário para cada dia. Esse pedido lembra a ordem que Deus deu aos israelitas com respeito ao maná: eles deviam ajuntar apenas “sua porção diária”. (Êx 16:4) Na oração-modelo que Jesus tinha ensinado cerca de um ano e meio antes, ele incluiu um pedido parecido com esse, mas não usou exatamente as mesmas palavras. (Mt 6:9b-13) Isso indica que o objetivo de Jesus não era que essa oração fosse recitada de cor, palavra por palavra. (Mt 6:7) Quando Jesus repetia um ensino importante — como ele fez aqui ao falar sobre oração — ele ensinava de um jeito que podia ser entendido mesmo por quem estava ouvindo o assunto pela primeira vez. Ao mesmo tempo, quem já tinha ouvido Jesus falar sobre aquilo antes também tirava proveito porque era lembrado dos pontos principais que havia aprendido.
+====
+
+[[v42-11-4]]
+
+^<<v42-11-4,4>>^ E perdoa-nos os nossos pecados, pois nós mesmos também perdoamos a todo aquele que está em dívida conosco; e não nos leves à tentação.’”
+
+[TIP]
+====
+- *aquele que está em dívida conosco*: Ou: “aquele que peca contra nós”. Quando pecamos contra uma pessoa, nós ficamos de certa forma em dívida com ela. Temos uma obrigação para com ela e precisamos pedir seu perdão. Na oração-modelo que Jesus ensinou no Sermão do Monte, ele usou a palavra “dívidas”, em vez de pecados. (Veja a nota de estudo em Mt 6:12.) A palavra grega para perdoar significa literalmente “deixar ir embora”, ou seja, deixar uma dívida “ir embora”, não exigindo que ela seja paga.
+- *não nos leves à tentação*: Veja a nota de estudo em Mt 6:13.
+====
+
+[[v42-11-5]]
+
+^<<v42-11-5,5>>^ Então ele lhes disse: “Digamos que um de vocês tenha um amigo e vá procurá-lo à meia-noite, e lhe diga: ‘Amigo, empreste-me três pães,
+
+[TIP]
+====
+- *Amigo, empreste-me três pães*: Na cultura do Oriente Médio, as pessoas acham muito importante ser hospitaleiras e gostam muito de receber as pessoas, conforme mostrado na ilustração de Jesus. Nessa ilustração, o amigo chegou à meia-noite, o que talvez não fosse tão incomum devido aos imprevistos que podiam surgir nas viagens daquela época. Mesmo sem esperar aquela visita, o hospedeiro se sentiu na obrigação de dar ao amigo algo para comer. Ele até mesmo achou que tinha que incomodar o vizinho naquela hora da noite para pedir alimento emprestado.
+====
+
+[[v42-11-6]]
+
+^<<v42-11-6,6>>^ porque um amigo meu acaba de chegar de uma viagem e eu não tenho nada para lhe oferecer.’
+
+[[v42-11-7]]
+
+^<<v42-11-7,7>>^ Mas ele responde lá de dentro: ‘Pare de me incomodar. A porta já está trancada e os meus filhinhos estão comigo na cama. Não posso me levantar e lhe dar algo.’
+
+[TIP]
+====
+- *Pare de me incomodar*: O vizinho na ilustração não estava muito disposto a ajudar, não por ser antipático, mas porque já estava dormindo. Muitas casas daquela época, principalmente as dos pobres, eram apenas um cômodo grande. Se aquele homem se levantasse, ele provavelmente acordaria a família inteira, incluindo seus filhos pequenos.
+====
+
+[[v42-11-8]]
+
+^<<v42-11-8,8>>^ Eu lhes digo: Ele certamente se levantará para lhe dar tudo que necessita, não por ser seu amigo, mas por causa da sua persistência e ousadia.
+
+[TIP]
+====
+- *persistência e ousadia*: Essa expressão traduz uma palavra grega que significa literalmente “falta de modéstia” ou “falta de vergonha”. Mas neste contexto ela indica ousadia e persistência. O homem da ilustração de Jesus não teve vergonha de insistir em pedir o que ele precisava, e Jesus disse que seus discípulos também deveriam ser persistentes em suas orações. — Lu 11:9, 10.
+====
+
+[[v42-11-9]]
+
+^<<v42-11-9,9>>^ Portanto, eu lhes digo: Persistam em pedir, e lhes será dado; persistam em buscar, e acharão; persistam em bater, e lhes será aberto.
+
+[TIP]
+====
+- *Persistam em pedir, . . . em buscar, . . . em bater*: Veja a nota de estudo em Mt 7:7.
+====
+
+[[v42-11-10]]
+
+^<<v42-11-10,10>>^ Pois todo aquele que pede, recebe; e todo aquele que busca, acha; e a todo aquele que bate, se abrirá.
+
+[[v42-11-11]]
+
+^<<v42-11-11,11>>^ Realmente, qual é o pai entre vocês que, se o filho lhe pedir um peixe, lhe entregará uma serpente em vez de um peixe?
+
+[[v42-11-12]]
+
+^<<v42-11-12,12>>^ Ou, se lhe pedir também um ovo, lhe entregará um escorpião?
+
+[[v42-11-13]]
+
+^<<v42-11-13,13>>^ Portanto, se vocês, embora maus, sabem dar boas coisas aos seus filhos, quanto mais o Pai, no céu, dará espírito santo aos que lhe pedirem!”
+
+[TIP]
+====
+- *vocês, embora maus*: Veja a nota de estudo em Mt 7:11.
+- *quanto mais*: Veja a nota de estudo em Mt 7:11.
+====
+
+[[v42-11-14]]
+
+^<<v42-11-14,14>>^ Mais tarde ele expulsou de um homem um demônio mudo. Depois de o demônio sair, o mudo falou, e as multidões ficaram maravilhadas.
+
+[[v42-11-15]]
+
+^<<v42-11-15,15>>^ Mas alguns disseram: “Ele expulsa os demônios por meio de Belzebu, o governante dos demônios.”
+
+[TIP]
+====
+- *Belzebu*: Possivelmente uma variação do nome Baal-Zebube, que significa “dono (senhor) das moscas”. Esse era o Baal adorado pelos filisteus em Ecrom. (2Rs 1:3) Alguns manuscritos gregos usam as variações Beelzeboúl e Beezeboúl, que talvez signifiquem “dono (senhor) da morada (habitação) elevada”. Outra possibilidade é que essas variações sejam um jogo de palavras com o termo hebraico zével (esterco), que não aparece na Bíblia. Se esse for o caso, Beelzeboúl e Beezeboúl significam “dono (senhor) do esterco”. Assim como Lu 11:18 mostra, o nome Belzebu é usado para se referir a Satanás — o príncipe, ou governante, dos demônios.
+====
+
+[[v42-11-16]]
+
+^<<v42-11-16,16>>^ E outros, para testá-lo, começaram a lhe pedir um sinal do céu.
+
+[[v42-11-17]]
+
+^<<v42-11-17,17>>^ Conhecendo os pensamentos deles, ele lhes disse: “Todo reino dividido contra si mesmo cai em ruína, e uma casa dividida contra si mesma cai.
+
+[TIP]
+====
+- *casa*: Veja a nota de estudo em Mr 3:25.
+====
+
+[[v42-11-18]]
+
+^<<v42-11-18,18>>^ Da mesma forma, se Satanás também está dividido contra si mesmo, como o seu reino ficará de pé? Pois vocês dizem que eu expulso os demônios por meio de Belzebu.
+
+[[v42-11-19]]
+
+^<<v42-11-19,19>>^ Se eu expulso os demônios por meio de Belzebu, por meio de quem seus filhos os expulsam? É por isso que eles julgarão vocês.
+
+[[v42-11-20]]
+
+^<<v42-11-20,20>>^ Mas, se é por meio do dedo de Deus que eu expulso os demônios, o Reino de Deus realmente alcançou vocês.^&#42;1^
+
+[NOTE]
+====
+. Ou: “já chegou até vocês; pegou vocês de surpresa”.
+====
+
+[TIP]
+====
+- *dedo de Deus*: Jesus estava se referindo ao espírito santo, conforme mostra o relato de Mateus sobre uma conversa parecida que Jesus teve em uma ocasião anterior. Aqui em Lucas, Jesus falou sobre expulsar demônios “por meio do dedo de Deus”, e em Mateus ele falou sobre fazer isso “por meio do espírito de Deus”, sua força ativa. — Mt 12:28.
+====
+
+[[v42-11-21]]
+
+^<<v42-11-21,21>>^ Quando um homem forte, bem armado, guarda o seu palácio, seus bens ficam seguros.
+
+[[v42-11-22]]
+
+^<<v42-11-22,22>>^ Mas, quando alguém mais forte do que ele o ataca e vence, tira-lhe todas as armas em que confiava e reparte as coisas que tomou dele.
+
+[[v42-11-23]]
+
+^<<v42-11-23,23>>^ Quem não está do meu lado está contra mim, e quem comigo não ajunta, espalha.
+
+[[v42-11-24]]
+
+^<<v42-11-24,24>>^ “Quando um espírito impuro sai de um homem, ele passa por lugares áridos procurando onde descansar e, quando não acha nada, diz: ‘Voltarei para a minha casa, da qual me mudei.’
+
+[[v42-11-25]]
+
+^<<v42-11-25,25>>^ E, ao chegar, acha a casa varrida e decorada.
+
+[TIP]
+====
+- *varrida*: Alguns manuscritos dizem “desocupada, varrida”. Mas a opção usada aqui no texto principal aparece em vários dos manuscritos mais antigos e mais confiáveis. O texto de Mt 12:44 usa a palavra grega para “desocupada” ao citar uma declaração de Jesus parecida com esta registrada por Lucas. Alguns estudiosos acreditam que um copista acrescentou a palavra “desocupada” aqui em Lucas para harmonizar o relato com o de Mateus.
+====
+
+[[v42-11-26]]
+
+^<<v42-11-26,26>>^ Então ele vai e traz consigo outros sete espíritos, piores do que ele mesmo, e, depois de entrarem, ficam morando ali. Assim, a situação final desse homem se torna pior do que no início.”
+
+[[v42-11-27]]
+
+^<<v42-11-27,27>>^ Enquanto ele dizia isso, uma mulher da multidão lhe disse bem alto: “Feliz o ventre que o carregou e os seios que o amamentaram!”
+
+[[v42-11-28]]
+
+^<<v42-11-28,28>>^ Mas ele disse: “Não, em vez disso, felizes os que ouvem a palavra de Deus e a põem em prática!”
+
+[[v42-11-29]]
+
+^<<v42-11-29,29>>^ Enquanto as multidões se aglomeravam, ele começou a dizer: “Esta geração é uma geração má. Procura um sinal^&#42;1^, mas nenhum sinal lhe será dado, exceto o sinal de Jonas.
+
+[NOTE]
+====
+. Ou: “uma prova milagrosa”.
+====
+
+[TIP]
+====
+- *o sinal de Jonas*: Em outra ocasião, Jesus já tinha usado a expressão “o sinal de Jonas” e explicado que ela estava ligada à sua morte e ressurreição. (Mt 12:39, 40) Para Jonas, ser libertado da barriga do peixe depois de “três dias e três noites” foi como ser ressuscitado da Sepultura. (Jon 1:17–2:2) A ressurreição de Jesus da sepultura literal seria tão real quanto o que aconteceu com Jonas. Mas, mesmo depois da ressurreição de Jesus no terceiro dia, aqueles críticos teimosos não tiveram fé nele. Jonas também serviu como um sinal porque pregou com coragem, levando os ninivitas a se arrepender. — Mt 12:41; Lu 11:32.
+====
+
+[[v42-11-30]]
+
+^<<v42-11-30,30>>^ Pois, assim como Jonas foi um sinal para os ninivitas, assim será o Filho do Homem para esta geração.
+
+[[v42-11-31]]
+
+^<<v42-11-31,31>>^ A rainha do sul será levantada no julgamento com os homens desta geração e os condenará, porque ela veio dos confins da terra para ouvir a sabedoria de Salomão. Mas agora alguém maior do que Salomão está aqui.
+
+[TIP]
+====
+- *rainha do sul*: Veja a nota de estudo em Mt 12:42.
+====
+
+[[v42-11-32]]
+
+^<<v42-11-32,32>>^ Os homens de Nínive se levantarão no julgamento com esta geração e a condenarão, porque eles se arrependeram com o que Jonas pregou. Mas agora alguém maior do que Jonas está aqui.
+
+[[v42-11-33]]
+
+^<<v42-11-33,33>>^ Depois de acender uma lâmpada, a pessoa a coloca não num lugar oculto nem debaixo de um cesto, mas em cima de um suporte, para que os que entram possam ver a luz.
+
+[TIP]
+====
+- *uma lâmpada*: Veja a nota de estudo em Mt 5:15.
+- *um cesto*: Veja a nota de estudo em Mt 5:15.
+====
+
+[[v42-11-34]]
+
+^<<v42-11-34,34>>^ A lâmpada do seu corpo é o olho. Quando o seu olho é focado, todo o seu corpo também é luminoso;^&#42;1^ mas, quando é invejoso, o seu corpo também é escuro.
+
+[NOTE]
+====
+. Ou: “cheio de luz”.
+====
+
+[TIP]
+====
+- *lâmpada do seu corpo é o olho*: Veja a nota de estudo em Mt 6:22.
+- *focado*: Veja a nota de estudo em Mt 6:22.
+- *invejoso*: Veja a nota de estudo em Mt 6:23.
+====
+
+[[v42-11-35]]
+
+^<<v42-11-35,35>>^ Por isso, tome cuidado para que a luz que há em você não seja escuridão.
+
+[[v42-11-36]]
+
+^<<v42-11-36,36>>^ Portanto, se todo o seu corpo for luminoso, sem nenhuma parte escura, todo ele será tão luminoso como uma lâmpada que ilumina você com a sua luz.”
+
+[[v42-11-37]]
+
+^<<v42-11-37,37>>^ Depois de ele ter dito isso, um fariseu lhe pediu que comesse com ele. De modo que entrou e se recostou à mesa.
+
+[[v42-11-38]]
+
+^<<v42-11-38,38>>^ No entanto, o fariseu ficou surpreso quando viu que ele não se lavou antes da refeição.
+
+[TIP]
+====
+- *se lavou*: Ou seja, se lavou seguindo um ritual de purificação. Embora na maioria das ocorrências a palavra grega baptízo (mergulhar; imergir) se refira ao batismo cristão, aqui ela se refere a diversas lavagens rituais que eram repetidas de acordo com a tradição judaica. — Veja a nota de estudo em Mr 7:4.
+====
+
+[[v42-11-39]]
+
+^<<v42-11-39,39>>^ Mas o Senhor lhe disse: “Ora, vocês, fariseus, limpam por fora o copo e o prato, mas por dentro estão cheios de ganância^&#42;1^ e de maldade.
+
+[NOTE]
+====
+. Ou: “coisas saqueadas (roubadas)”.
+====
+
+[[v42-11-40]]
+
+^<<v42-11-40,40>>^ Insensatos! Aquele que fez o exterior também fez o interior, não fez?
+
+[[v42-11-41]]
+
+^<<v42-11-41,41>>^ Portanto, deem aos pobres do que está no íntimo, e então tudo a respeito de vocês será limpo.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “tudo será limpo (puro) para vocês”.
+====
+
+[TIP]
+====
+- *deem aos pobres*: Ou: “façam dádivas de misericórdia”. — Veja a nota de estudo em Mt 6:2.
+- *do que está no íntimo*: Lit.: “das coisas que estão dentro”. Já que o versículo seguinte fala da importância da justiça e do amor (Lu 11:42), é provável que Jesus estivesse se referindo, não ao que estava dentro de copos ou pratos, mas ao que estava dentro (no íntimo) da pessoa. Para que uma boa ação seja um verdadeiro ato de misericórdia, ela precisa vir de dentro, ou seja, de um coração disposto e cheio de amor.
+====
+
+[[v42-11-42]]
+
+^<<v42-11-42,42>>^ Mas ai de vocês, fariseus, porque dão o décimo da hortelã, da arruda e de todas as outras^&#42;1^ ervas,^&#42;2^ mas desconsideram a justiça^&#42;3^ e o amor a Deus! Essas coisas vocês tinham a obrigação de fazer, mas sem desconsiderar as outras.
+
+[NOTE]
+====
+. Ou: “todos os outros tipos de”.
+. Ou, possivelmente: “hortaliças”.
+. Ou: “o julgamento justo”.
+====
+
+[TIP]
+====
+- *o décimo da hortelã, da arruda e de todas as outras ervas*: De acordo com a Lei mosaica, os israelitas deviam dar para Jeová um décimo (dízimo) de suas colheitas. (Le 27:30; De 14:22) A Lei não dizia especificamente que os israelitas deviam dar um décimo de ervas como a hortelã e a arruda, mas Jesus não condenou essa tradição. O que ele condenou foi o fato de os escribas e os fariseus insistirem demais em detalhes da Lei que tinham pouca importância e não ensinarem os princípios por trás da Lei, como a justiça e o amor a Deus. Quando Jesus mais tarde fez uma declaração parecida (Mt 23:23), ele falou da hortelã, do endro e do cominho.
+====
+
+[[v42-11-43]]
+
+^<<v42-11-43,43>>^ Ai de vocês, fariseus, porque amam os primeiros assentos nas sinagogas e os cumprimentos nas praças públicas!
+
+[TIP]
+====
+- *primeiros assentos*: Veja a nota de estudo em Mt 23:6.
+- *praças públicas*: Veja a nota de estudo em Mt 23:7.
+====
+
+[[v42-11-44]]
+
+^<<v42-11-44,44>>^ Ai de vocês, porque são como aquelas sepulturas^&#42;1^ que não são facilmente vistas, e os homens andam sobre elas sem saber!”
+
+[NOTE]
+====
+. Ou: “aqueles túmulos memoriais”.
+====
+
+[TIP]
+====
+- *sepulturas que não são facilmente vistas*: Ou: “sepulturas que não são assinaladas”. Parece que a maioria dos túmulos dos israelitas era simples e não chamava atenção. Alguns deles, como mostra este versículo, eram tão discretos que as pessoas talvez andassem sobre eles sem perceber. De acordo com a Lei mosaica, quem tocasse num morto, num osso humano ou numa sepultura ficava impuro por sete dias. (Núm 19:16) Assim, para evitar que alguém andasse sobre um túmulo sem querer, os israelitas tentavam torná-los mais visíveis e os pintavam com cal uma vez por ano. Neste versículo, Jesus pelo visto queria dizer que quem se associava com os fariseus, pensando que eles eram boas pessoas, acabava sem perceber sendo contaminado pelas atitudes erradas e pelo modo de pensar impuro deles. — Veja a nota de estudo em Mt 23:27.
+====
+
+[[v42-11-45]]
+
+^<<v42-11-45,45>>^ Em resposta, um dos peritos na Lei lhe disse: “Instrutor, dizendo essas coisas, o senhor também insulta a nós.”
+
+[[v42-11-46]]
+
+^<<v42-11-46,46>>^ Ele disse então: “Ai de vocês também, peritos na Lei, porque põem sobre os homens cargas difíceis de levar, mas vocês mesmos não tocam nas cargas nem com um só dedo!
+
+[[v42-11-47]]
+
+^<<v42-11-47,47>>^ “Ai de vocês, porque constroem os túmulos^&#42;1^ dos profetas, mas os seus antepassados os mataram!
+
+[NOTE]
+====
+. Ou: “túmulos memoriais”.
+====
+
+[[v42-11-48]]
+
+^<<v42-11-48,48>>^ Certamente, vocês são testemunhas das ações dos seus antepassados e mesmo assim as aprovam, pois eles mataram os profetas, mas vocês constroem os túmulos deles.
+
+[[v42-11-49]]
+
+^<<v42-11-49,49>>^ É por isso que a sabedoria de Deus também disse: ‘Enviarei a eles profetas e apóstolos, e eles matarão e perseguirão alguns deles,
+
+[TIP]
+====
+- *a sabedoria de Deus também disse*: Pelo visto, significando “Deus, em sua sabedoria também disse”. Em outra ocasião, Jesus falou: “Eu estou lhes enviando profetas, sábios e instrutores públicos.” — Mt 23:34.
+====
+
+[[v42-11-50]]
+
+^<<v42-11-50,50>>^ para que o sangue de todos os profetas, derramado desde a fundação do mundo, seja cobrado^&#42;1^ desta geração,
+
+[NOTE]
+====
+. Ou: “exigido”.
+====
+
+[TIP]
+====
+- *fundação do mundo*: A palavra grega para “fundação” é traduzida como “conceber” em He 11:11, onde aparece junto com a palavra “descendente”. Aqui, na expressão “fundação do mundo”, a palavra grega parece se referir a quando Adão e Eva tiveram filhos. Jesus relacionou “a fundação do mundo” com Abel. Pelo visto, Abel foi o primeiro humano em condições de ser salvo pelo resgate e de ter, desde “a fundação do mundo”, o nome escrito no rolo da vida. — Lu 11:51; Ap 17:8; veja a nota de estudo em Mt 25:34.
+====
+
+[[v42-11-51]]
+
+^<<v42-11-51,51>>^ desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e a casa.’ Sim, eu lhes digo, será cobrado^&#42;1^ desta geração.
+
+[NOTE]
+====
+. Ou: “exigido”.
+====
+
+[TIP]
+====
+- *desde o sangue de Abel até o sangue de Zacarias*: Veja a nota de estudo em Mt 23:35.
+- *entre o altar e a casa*: Aqui “casa”, ou templo, se refere ao prédio onde ficavam o Santo e o Santíssimo. De acordo com 2Cr 24:21, Zacarias foi assassinado “no pátio da casa de Jeová”. O altar da oferta queimada ficava no pátio interno, em frente à entrada do santuário. (Veja o Apêndice B8.) Assim, o que Jesus disse estava de acordo com o relato em 2Cr 24:21.
+====
+
+[[v42-11-52]]
+
+^<<v42-11-52,52>>^ “Ai de vocês, peritos na Lei, porque se apoderaram da chave do conhecimento. Vocês mesmos não entraram e tentam impedir os que estão entrando!”
+
+[TIP]
+====
+- *chave do conhecimento*: Na Bíblia, aqueles que recebiam uma chave (literal ou simbólica) recebiam certo grau de autoridade. (1Cr 9:26, 27; Is 22:20-22) Por isso, a palavra “chave” passou a representar autoridade e responsabilidade. Aqui, parece que Jesus usou a palavra “conhecimento” para se referir ao conhecimento que vem de Deus, já que estava falando com líderes religiosos que eram peritos na Lei. Aqueles líderes tinham a obrigação de usar seu poder e autoridade para abrir para as pessoas as portas do conhecimento sobre Deus, explicando corretamente a palavra dele. Em outra ocasião, Jesus disse que os líderes religiosos ‘fechavam o Reino dos céus diante dos homens’. (Mt 23:13) Assim, parece que aqui Jesus também estava se referindo ao Reino dos céus quando falou de um lugar em que os líderes não entraram nem deixavam outros entrar. Como eles não ajudavam as pessoas a conhecer a Deus, eles estavam se apoderando da chave do conhecimento, roubando de muitas delas a chance de entender corretamente a Palavra de Deus e de entrar no Reino.
+====
+
+[[v42-11-53]]
+
+^<<v42-11-53,53>>^ Assim, quando ele saiu dali, os escribas e os fariseus começaram a pressioná-lo fortemente e a lhe fazer muitas outras perguntas,
+
+[TIP]
+====
+- *começaram a pressioná-lo fortemente*: A expressão grega usada aqui pode se referir literalmente a cercar alguém. Mas, neste contexto, ela parece descrever os sentimentos agressivos dos líderes religiosos que tentavam intimidar Jesus. O verbo grego traduzido aqui como “pressioná-lo” é traduzido em Mr 6:19 como “nutria ressentimento”, e é usado para descrever o profundo ódio que Herodias sentia por João Batista.
+====
+
+[[v42-11-54]]
+
+^<<v42-11-54,54>>^ armando ciladas para apanhá-lo em algo que dissesse.
+
+'''
+
+xref:042-lucas/042-lucas-010.adoc#v42-10-0[&#60; Capítulo Anterior] | <<v42-11-0,Topo>> | xref:042-lucas/042-lucas-012.adoc#v42-12-0[Próximo Capítulo &#62;]

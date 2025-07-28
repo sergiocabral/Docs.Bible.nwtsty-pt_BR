@@ -1,0 +1,593 @@
+include::./index.adoc[]
+
+[[v40-27-0]]
+=== As Boas Novas Segundo Mateus, 27
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* M. Jesus é traído, morto e sepultado (26:1–27:66)
+* Sacerdotes planejam matar Jesus (26:1-5)
+* Mulher derrama óleo perfumado em Jesus (26:6-13)
+* Última Páscoa de Jesus; Judas trai Jesus (26:14-25)
+* Primeira Ceia do Senhor (26:26-30)
+* Jesus prediz que Pedro vai negá-lo (26:31-35)
+* Jesus ora em Getsêmani (26:36-46)
+* Jesus é detido e levado ao Sinédrio (26:47-68)
+* Pedro nega Jesus três vezes e chora amargamente (26:69-75)
+* Sacerdotes e anciãos entregam Jesus a Pilatos (27:1, 2)
+* Judas sente remorso e se enforca (27:3-10)
+* Pilatos interroga Jesus (27:11-26)
+* Soldados zombam de Jesus em público (27:27-31)
+* Jesus é pregado numa estaca em Gólgota (27:32-44)
+* Jesus morre (27:45-56)
+* Jesus é sepultado (27:57-61)
+* Sepultura de Jesus é lacrada e vigiada (27:62-66)
+****
+
+[[v40-27-1]]
+
+^<<v40-27-1,1>>^ Quando amanheceu, todos os principais sacerdotes e os anciãos do povo se reuniram para decidir como entregar Jesus à morte.
+
+[TIP]
+====
+- *anciãos*: Veja a nota de estudo em Mt 16:21.
+====
+
+[[v40-27-2]]
+
+^<<v40-27-2,2>>^ Depois de o amarrarem, o levaram e o entregaram a Pilatos, o governador.
+
+[TIP]
+====
+- *Pilatos, o governador*: Governador (também chamado de prefeito) romano da Judeia nomeado pelo imperador Tibério em 26 d.C. Seu governo durou cerca de dez anos. Pilatos não é mencionado apenas na Bíblia, mas também nas obras de outros escritores. Por exemplo, o historiador romano Tácito escreveu que Pilatos ordenou a execução de Cristo durante o reinado de Tibério. Além disso, no antigo teatro romano em Cesareia, Israel, foi encontrada uma inscrição em latim com as palavras: “Pôncio Pilatos, Prefeito da Judeia”. — Veja as regiões governadas por Pôncio Pilatos no Apêndice B10.
+====
+
+[[v40-27-3]]
+
+^<<v40-27-3,3>>^ Então Judas, que havia traído Jesus, vendo que este tinha sido condenado, sentiu remorso e devolveu as 30 moedas de prata aos principais sacerdotes e aos anciãos,
+
+[TIP]
+====
+- *sentiu remorso*: O texto usa aqui a palavra grega metamélomai. Às vezes ela indica um arrependimento sincero, como em Mt 21:29, 32 e 2Co 7:8, onde foi traduzida como “se arrepender” ou “lamentar”. Mas não há nenhum indício de que Judas realmente estivesse arrependido do que fez. Quando a Bíblia fala de se arrepender diante de Deus, ela usa uma palavra diferente, metanoéo, que foi traduzida como “se arrepender” em Mt 3:2; 4:17; Lu 15:7 e At 3:19. Essa palavra indica uma grande mudança no modo de pensar, nas atitudes ou nos objetivos de uma pessoa. Mas o modo de pensar de Judas continuava distorcido; não havia mudado para melhor. Isso ficou claro quando ele foi falar novamente com os mesmos homens que conspiraram com ele contra Jesus e depois se matou.
+====
+
+[[v40-27-4]]
+
+^<<v40-27-4,4>>^ dizendo: “Pequei quando traí sangue inocente.” Eles disseram: “O que nós temos a ver com isso? Isso é com você!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Esse problema é seu!”
+====
+
+[TIP]
+====
+- *inocente*: Alguns manuscritos bem antigos dizem “justo”. — Compare com Mt 23:35.
+====
+
+[[v40-27-5]]
+
+^<<v40-27-5,5>>^ De modo que ele lançou as moedas de prata dentro do templo e saiu. Então foi se enforcar.
+
+[TIP]
+====
+- *templo*: A palavra grega usada aqui, naós, pode se referir ao conjunto inteiro de prédios do templo, incluindo os pátios, e não apenas ao santuário (onde ficavam o Santo e o Santíssimo).
+- *se enforcar*: O livro de Atos, escrito por Lucas, diz que Judas caiu e seu corpo rebentou. (At 1:18) Pelo visto, Mateus descreve como Judas se suicidou, ao passo que Lucas descreve o resultado. Levando em conta os dois relatos, parece que Judas “foi se enforcar” na beira de um penhasco, mas em algum momento a corda arrebentou ou o galho da árvore quebrou. Com isso, ele despencou e seu corpo rebentou nas rochas que havia embaixo. A topografia em volta de Jerusalém torna possível essa conclusão.
+====
+
+[[v40-27-6]]
+
+^<<v40-27-6,6>>^ Mas os principais sacerdotes pegaram as moedas de prata e disseram: “Não é permitido colocá-las no tesouro sagrado, porque são o preço de sangue.”
+
+[TIP]
+====
+- *tesouro sagrado*: É possível que essa expressão se refira ao “local onde ficavam os cofres do tesouro”, mencionado em Jo 8:20. Parece que esse local ficava no Pátio das Mulheres, onde havia 13 cofres do tesouro. (Veja o Apêndice B11.) Acredita-se que o templo também tinha uma grande sala do tesouro, onde se guardava o dinheiro trazido dos cofres.
+- *o preço de sangue*: Ou: “dinheiro manchado de sangue”. Refere-se a dinheiro recebido para derramar sangue, ou seja, para matar alguém.
+====
+
+[[v40-27-7]]
+
+^<<v40-27-7,7>>^ Depois de consultarem uns aos outros, usaram o dinheiro para comprar o campo do oleiro, como lugar para sepultar estranhos.
+
+[TIP]
+====
+- *usaram o dinheiro*: Somente Mateus relata que os principais sacerdotes usaram as 30 moedas de prata para comprar uma propriedade. O texto de At 1:18, 19 diz que foi Judas que fez a compra, mas pelo visto é porque os principais sacerdotes compraram o campo com o dinheiro que Judas lançou dentro do templo.
+- *campo do oleiro*: Desde o século 4 d.C., entende-se que esse campo seja um local na encosta sul do vale de Hinom, um pouco antes de esse vale se juntar ao vale do Cédron. Tudo indica que era uma área onde havia oleiros trabalhando. Conforme Mt 27:8 e At 1:19, o campo ficou conhecido como “Campo de Sangue”, ou Acéldama. — Veja o Apêndice B12-A.
+- *estranhos*: Ou seja, visitantes judeus de outras terras ou não judeus.
+====
+
+[[v40-27-8]]
+
+^<<v40-27-8,8>>^ Por isso, aquele campo é chamado de Campo de Sangue até o dia de hoje.
+
+[TIP]
+====
+- *até o dia de hoje*: Essa expressão indica que passou algum tempo entre os eventos relatados e a época da escrita. O Evangelho de Mateus provavelmente foi escrito por volta de 41 d.C.
+====
+
+[[v40-27-9]]
+
+^<<v40-27-9,9>>^ Então se cumpriram as palavras de Jeremias, o profeta: “E pegaram as 30 moedas^&#42;1^ de prata, o preço que foi definido para o homem, aquele em quem alguns dos filhos de Israel puseram um preço,
+
+[NOTE]
+====
+. Ou: “peças”.
+====
+
+[TIP]
+====
+- *se cumpriram as palavras de Jeremias, o profeta*: A citação que começa logo depois destas palavras parece ter sido tirada principalmente de Za 11:12, 13. Mas Mateus parafraseou a profecia e, sob inspiração, mostrou como aqueles acontecimentos cumpriram o que o profeta disse. Na época de Mateus, o livro de Jeremias era o primeiro dos livros proféticos, e talvez o nome “Jeremias” fosse usado para se referir à coleção inteira desses livros, incluindo Zacarias. — Veja a nota de estudo em Mt 1:22.
+====
+
+[[v40-27-10]]
+
+^<<v40-27-10,10>>^ e as deram pelo campo do oleiro, segundo o que Jeová tinha me ordenado.”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação das Escrituras Hebraicas. (Veja a nota de estudo em Mt 27:9.) No texto hebraico original de Zacarias, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v40-27-11]]
+
+^<<v40-27-11,11>>^ Jesus estava então perante o governador, e o governador lhe perguntou: “Você é o Rei dos judeus?” Jesus respondeu: “O senhor mesmo está dizendo isso.”
+
+[TIP]
+====
+- *Você é o Rei dos judeus?*: Nenhum rei poderia governar dentro dos domínios do Império Romano sem a aprovação de César. Por isso, parece que Pilatos concentrou seu interrogatório na seguinte questão: Jesus era rei ou não?
+- *O senhor mesmo está dizendo isso*: Tudo indica que essa era uma maneira de confirmar a informação apresentada na pergunta de Pilatos. (Veja as notas de estudo em Mt 26:25, 64.) Jesus confirmou a Pilatos que ele realmente era um rei, mas não no sentido que Pilatos imaginava. O Reino de Jesus ‘não fazia parte deste mundo’, e assim não era uma ameaça para o Império Romano. — Jo 18:33-37.
+====
+
+[[v40-27-12]]
+
+^<<v40-27-12,12>>^ Mas ele não deu nenhuma resposta enquanto estava sendo acusado pelos principais sacerdotes e pelos anciãos.
+
+[[v40-27-13]]
+
+^<<v40-27-13,13>>^ Então Pilatos lhe perguntou: “Não está ouvindo quantas coisas testemunham contra você?”
+
+[[v40-27-14]]
+
+^<<v40-27-14,14>>^ Contudo, ele não lhe respondeu, não, nem com uma só palavra, de modo que o governador ficou muito surpreso.
+
+[[v40-27-15]]
+
+^<<v40-27-15,15>>^ Por ocasião da festividade,^&#42;1^ era costume do governador soltar um preso, aquele que a multidão quisesse.
+
+[NOTE]
+====
+. Ou: “Em toda festividade”.
+====
+
+[TIP]
+====
+- *costume . . . soltar um preso*: Os quatro Evangelhos falam sobre a libertação de Barrabás. (Mr 15:6-15; Lu 23:16-25; Jo 18:39, 40) Não existe base nem precedente para esse costume nas Escrituras Hebraicas. Mas parece que os judeus já tinham adotado esse costume nos dias de Jesus. Esse costume não seria estranho para os romanos, pois há evidências de que eles libertavam prisioneiros para agradar as multidões.
+====
+
+[[v40-27-16]]
+
+^<<v40-27-16,16>>^ Eles tinham então um preso chamado Barrabás, um criminoso muito conhecido.
+
+[[v40-27-17]]
+
+^<<v40-27-17,17>>^ Portanto, quando estavam reunidos, Pilatos lhes disse: “Qual deles vocês querem que eu solte: Barrabás ou Jesus, o chamado Cristo?”
+
+[[v40-27-18]]
+
+^<<v40-27-18,18>>^ Pois Pilatos sabia que o tinham entregado por inveja.
+
+[[v40-27-19]]
+
+^<<v40-27-19,19>>^ Além disso, enquanto estava sentado no tribunal, sua esposa lhe mandou este recado: “Não tenha nada a ver com esse homem justo, pois hoje eu sofri muito, num sonho, por causa dele.”
+
+[TIP]
+====
+- *tribunal*: Em algumas ocorrências das Escrituras Gregas, refere-se a uma plataforma elevada, ao ar livre, onde autoridades se sentavam para falar às multidões e anunciar suas decisões.
+- *num sonho*: Pelo visto, foi Deus que fez com que ela tivesse esse sonho. Mateus é o único Evangelho que menciona o sonho da esposa de Pilatos.
+====
+
+[[v40-27-20]]
+
+^<<v40-27-20,20>>^ Mas os principais sacerdotes e os anciãos persuadiram as multidões a pedir Barrabás e a fazer com que Jesus fosse morto.
+
+[[v40-27-21]]
+
+^<<v40-27-21,21>>^ Então o governador lhes disse: “Qual dos dois vocês querem que eu solte?” Disseram: “Barrabás!”
+
+[[v40-27-22]]
+
+^<<v40-27-22,22>>^ Pilatos lhes disse: “O que, então, devo fazer com Jesus, o chamado Cristo?” Todos disseram: “Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Execute-o na estaca!”
+====
+
+[[v40-27-23]]
+
+^<<v40-27-23,23>>^ Ele disse: “Por quê? O que ele fez de mau?” Contudo, gritaram ainda mais: “Para a estaca com ele!”
+
+[[v40-27-24]]
+
+^<<v40-27-24,24>>^ Vendo que não adiantava, mas, ao contrário, que se criava um alvoroço, Pilatos pegou água e lavou as mãos diante da multidão, dizendo: “Eu sou inocente do sangue deste homem.^&#42;1^ Isso é com vocês.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “inocente deste sangue”.
+. Ou: “A responsabilidade é de vocês.”
+====
+
+[TIP]
+====
+- *lavou as mãos*: Gesto usado para indicar que a pessoa se declarava inocente e livre de qualquer responsabilidade numa questão. Esse costume judaico é mencionado em De 21:6, 7 e Sal 26:6.
+====
+
+[[v40-27-25]]
+
+^<<v40-27-25,25>>^ Todo o povo disse em resposta: “Que o sangue dele caia sobre nós e sobre nossos filhos.”
+
+[TIP]
+====
+- *Que o sangue dele caia sobre nós e sobre nossos filhos*: Ou seja: “Nós e nossos descendentes assumimos a responsabilidade pela morte dele.”
+====
+
+[[v40-27-26]]
+
+^<<v40-27-26,26>>^ Ele soltou então Barrabás, porém mandou que Jesus fosse chicoteado e o entregou para ser morto na estaca.
+
+[TIP]
+====
+- *chicoteado*: Os romanos chicoteavam suas vítimas com um instrumento terrível conhecido em latim como flagellum. O verbo grego usado aqui (fragellóo, “chicotear”) vem da palavra latina. Esse chicote tinha um cabo e vários cordões ou correias de couro com nós. Em alguns desses chicotes, as correias tinham pedaços pontiagudos de osso ou de metal, para que os golpes doessem mais. Essa punição causava contusões profundas, rasgava a carne e podia até mesmo levar à morte.
+====
+
+[[v40-27-27]]
+
+^<<v40-27-27,27>>^ Os soldados do governador levaram Jesus para a residência do governador e reuniram em volta dele todo o grupo de soldados.
+
+[TIP]
+====
+- *residência do governador*: A palavra grega praitórion (que vem do latim praetorium) se refere à residência oficial dos governadores romanos. Em Jerusalém, a residência provavelmente era o palácio construído por Herodes, o Grande. Esse palácio ficava no canto noroeste da cidade alta, ou seja, da parte sul de Jerusalém. (Veja a localização no Apêndice B12-A.) Pilatos só ficava em Jerusalém em algumas ocasiões específicas, como nas festividades, quando o risco de ocorrerem tumultos era maior. Na maior parte do tempo ele morava em Cesareia.
+====
+
+[[v40-27-28]]
+
+^<<v40-27-28,28>>^ Depois de despi-lo, puseram nele um manto escarlate;
+
+[TIP]
+====
+- *manto escarlate*: Tipo de manto ou túnica usado por reis, magistrados e oficiais militares. Os textos de Mr 15:17 e Jo 19:2 dizem que o manto era púrpura, mas nos tempos antigos a palavra “púrpura” era usada para descrever qualquer cor que fosse uma mistura de vermelho e azul. Além disso, dependendo do ângulo de visão, do reflexo da luz e do que estivesse no fundo, o observador poderia ter uma noção diferente da cor exata. Essa diferença no modo de descrever a cor (escarlate ou púrpura) mostra que os escritores dos Evangelhos não fizeram simples cópias do relato um do outro.
+====
+
+[[v40-27-29]]
+
+^<<v40-27-29,29>>^ trançaram uma coroa de espinhos e a puseram na cabeça dele, bem como uma cana na sua mão direita. E, ajoelhando-se diante dele, zombaram dele, dizendo: “Salve, Rei dos judeus!”
+
+[TIP]
+====
+- *coroa . . . cana*: Além do manto escarlate (mencionado em Mt 27:28), os soldados zombaram de Jesus por dar a ele uma coroa de espinhos e uma cana, como se fossem a coroa e o cetro de um rei.
+- *ajoelhando-se diante dele*: As pessoas se ajoelhavam na frente de um superior para mostrar respeito, mas nessa ocasião os soldados se ajoelharam para zombar de Jesus. — Veja a nota de estudo em Mt 17:14.
+- *Salve*: Ou: “Saudações”. Lit.: “Alegre-se”. Os soldados se dirigiram a Jesus usando a mesma saudação que usariam para César, zombando do fato de Jesus dizer que era rei.
+====
+
+[[v40-27-30]]
+
+^<<v40-27-30,30>>^ Então cuspiram nele, pegaram a cana e começaram a lhe bater na cabeça.
+
+[[v40-27-31]]
+
+^<<v40-27-31,31>>^ Por fim, depois de terem zombado dele, tiraram-lhe o manto e puseram de volta nele suas roupas, e o levaram para ser pregado na estaca.
+
+[[v40-27-32]]
+
+^<<v40-27-32,32>>^ Ao saírem, encontraram um homem de Cirene chamado Simão. Obrigaram esse homem a prestar serviço carregando^&#42;1^ a estaca.
+
+[NOTE]
+====
+. Ou: “levantando”.
+====
+
+[TIP]
+====
+- *Cirene*: Cidade no norte da África, próxima ao litoral, ao sudoeste da ilha de Creta. — Veja o Apêndice B13.
+- *Obrigaram . . . a prestar serviço*: Veja a nota de estudo em Mt 5:41.
+- *estaca*: Ou: “estaca de tortura; estaca de execução”. — Veja o Glossário, “Madeiro, estaca”; “Estaca de tortura”; para informações sobre o uso dessa palavra em sentido figurado, veja as notas de estudo em Mt 10:38 e 16:24.
+====
+
+[[v40-27-33]]
+
+^<<v40-27-33,33>>^ Quando chegaram ao lugar chamado Gólgota, isto é, Lugar da Caveira,
+
+[TIP]
+====
+- *Gólgota*: Vem da palavra hebraica gulgóleth, que significa “caveira; crânio”. (Veja Jo 19:17 e também Jz 9:53, que usa essa palavra hebraica traduzida ali como “crânio”.) Nos dias de Jesus, esse local ficava fora das muralhas de Jerusalém. Atualmente, não se sabe qual era o local exato. (Veja o Apêndice B12-A.) A Bíblia não diz que Gólgota ficava em um monte, mas ela menciona que alguns conseguiram ver a execução de Jesus à distância. — Mr 15:40; Lu 23:49.
+- *Lugar da Caveira*: Veja a nota de estudo em Mr 15:22.
+====
+
+[[v40-27-34]]
+
+^<<v40-27-34,34>>^ deram-lhe vinho misturado com fel para beber; mas, depois de prová-lo, ele se recusou a beber.
+
+[TIP]
+====
+- *fel*: A palavra grega kholé se refere aqui a um líquido amargo feito de plantas ou a qualquer substância amarga. Mostrando que esse acontecimento cumpria uma profecia, Mateus fez referência ao Sal 69:21, onde a Septuaginta usou a mesma palavra grega (kholé) para traduzir a palavra hebraica para “veneno”. Parece que mulheres de Jerusalém tinham preparado uma mistura de vinho e fel para aliviar a dor dos que estavam sendo mortos, e os romanos permitiram isso. O relato paralelo em Mr 15:23 diz que o vinho estava “misturado com uma droga, mirra”. Pelo visto, aquele vinho devia ter as duas substâncias: mirra e fel.
+- *ele se recusou a beber*: Pelo visto, Jesus queria estar totalmente lúcido durante esse teste de fé.
+====
+
+[[v40-27-35]]
+
+^<<v40-27-35,35>>^ Depois de pregá-lo na estaca, repartiram suas roupas, lançando sortes,
+
+[TIP]
+====
+- *repartiram suas roupas*: O relato paralelo em Jo 19:23, 24 fornece detalhes que Mateus, Marcos e Lucas não mencionam. Considerando os relatos dos quatro Evangelhos, parece que os soldados romanos sortearam entre eles tanto a capa quanto a túnica de Jesus. Eles dividiram a capa “em quatro partes, uma para cada soldado”, e sortearam quem ficaria com cada parte. Mas eles não quiseram dividir a túnica, então sortearam quem ficaria com ela. Esse sorteio das roupas do Messias cumpriu a profecia do Sal 22:18. Pelo visto, era costume os carrascos ficarem com as roupas de suas vítimas. Eles tiravam os pertences e as roupas dos criminosos antes da execução, tornando todo o processo ainda mais humilhante.
+- *lançando sortes*: Veja o Glossário, “Sortes”.
+====
+
+[[v40-27-36]]
+
+^<<v40-27-36,36>>^ e ficaram sentados ali, vigiando-o.
+
+[[v40-27-37]]
+
+^<<v40-27-37,37>>^ Também colocaram acima da sua cabeça a acusação contra ele, por escrito: “Este é Jesus, o Rei dos judeus.”
+
+[[v40-27-38]]
+
+^<<v40-27-38,38>>^ Dois ladrões foram então pendurados em estacas ao lado dele, um à sua direita e outro à sua esquerda.
+
+[TIP]
+====
+- *ladrões*: Ou: “bandidos”. A palavra grega leistés pode se referir a pessoas que roubam com violência e às vezes a pessoas que se rebelam contra as autoridades. Essa palavra é usada para descrever Barrabás (Jo 18:40), que estava na prisão por “sedição” e “assassinato”. (Lu 23:19) O relato paralelo em Lu 23:32, 33, 39 usa a palavra grega kakoúrgos (lit.: “pessoa que pratica o mal”) ao descrever esses homens como “criminosos”.
+====
+
+[[v40-27-39]]
+
+^<<v40-27-39,39>>^ Os que passavam o insultavam, balançando a cabeça
+
+[TIP]
+====
+- *balançando a cabeça*: Gesto, geralmente acompanhado de insultos, que expressava desprezo, sarcasmo e zombaria. Sem saber, as pessoas que passaram por ali cumpriram o Sal 22:7.
+====
+
+[[v40-27-40]]
+
+^<<v40-27-40,40>>^ e dizendo: “Você que ia derrubar o templo e construí-lo em três dias, salve a si mesmo! Se você é filho de Deus, desça da estaca!”
+
+[TIP]
+====
+- *estaca*: Ou: “estaca de tortura; estaca de execução”. — Veja a nota de estudo em Mt 27:32 e o Glossário, “Madeiro, estaca”; “Estaca de tortura”.
+====
+
+[[v40-27-41]]
+
+^<<v40-27-41,41>>^ Do mesmo modo, também os principais sacerdotes, junto com os escribas e os anciãos, começaram a zombar dele, dizendo:
+
+[[v40-27-42]]
+
+^<<v40-27-42,42>>^ “A outros ele salvou; a si mesmo não pode salvar! Ele é Rei de Israel; que desça agora da estaca, e nós acreditaremos nele.
+
+[TIP]
+====
+- *estaca*: Ou: “estaca de tortura; estaca de execução”. — Veja a nota de estudo em Mt 27:32 e o Glossário, “Madeiro, estaca”; “Estaca de tortura”.
+====
+
+[[v40-27-43]]
+
+^<<v40-27-43,43>>^ Depositou sua confiança em Deus; que Ele o salve agora, se Ele se agrada dele, pois disse: ‘Sou Filho de Deus.’”
+
+[[v40-27-44]]
+
+^<<v40-27-44,44>>^ Do mesmo modo, até os ladrões, que estavam em estacas ao lado dele, o insultavam.
+
+[[v40-27-45]]
+
+^<<v40-27-45,45>>^ Da sexta hora em diante, caiu uma escuridão sobre toda aquela terra,^&#42;1^ até a nona hora.
+
+[NOTE]
+====
+. Lit.: “toda a terra”.
+====
+
+[TIP]
+====
+- *Da sexta hora*: Ou seja, por volta do meio-dia. — Veja a nota de estudo em Mt 20:3.
+- *uma escuridão*: Veja a nota de estudo em Mr 15:33.
+- *a nona hora*: Ou seja, por volta das 3 horas da tarde. — Veja a nota de estudo em Mt 20:3.
+====
+
+[[v40-27-46]]
+
+^<<v40-27-46,46>>^ Por volta da nona hora, Jesus clamou em alta voz: “Eli, Eli, lama sabactâni?”, isto é: “Deus meu, Deus meu, por que me abandonaste?”
+
+[TIP]
+====
+- *Eli, Eli, lama sabactâni?*: Alguns estudiosos acham que essas palavras são aramaicas, mas é mais provável que sejam do hebraico da época, que tinha sido influenciado pelo aramaico. A transliteração dessas palavras que Mateus e Marcos fizeram para o grego não permite uma identificação exata do idioma original.
+- *Deus meu, Deus meu*: Quando Jesus clamou ao seu Pai celestial chamando-o de “Deus meu”, ele cumpriu o Sal 22:1. Esse clamor de Jesus pode ter feito as pessoas ali se lembrar das muitas coisas que foram profetizadas sobre ele na continuação do Sal 22. Por exemplo, ele seria vítima de desprezo e zombaria, ‘atacariam’ as mãos e os pés dele e lançariam sortes sobre suas roupas. — Sal 22:6-8, 16, 18.
+====
+
+[[v40-27-47]]
+
+^<<v40-27-47,47>>^ Ouvindo isso, alguns dos que estavam ali disseram: “Este homem está chamando Elias.”
+
+[TIP]
+====
+- *Elias*: Nome de origem hebraica que significa “meu Deus é Jeová”.
+====
+
+[[v40-27-48]]
+
+^<<v40-27-48,48>>^ E um deles correu imediatamente, pegou uma esponja, ensopou-a em vinho acre, colocou-a numa cana e deu a ele para beber.
+
+[TIP]
+====
+- *vinho acre*: Ou: “vinagre de vinho”. Em grego, óxos. Provavelmente se refere a um vinho ralo e azedo que em latim é chamado de acetum (vinagre) ou de posca quando é diluído na água. Era uma bebida barata que os pobres, incluindo os soldados romanos, geralmente tomavam para matar a sede. A Septuaginta também usa a palavra grega óxos no Sal 69:21, na profecia que diz que o Messias receberia “vinagre” para beber.
+- *cana*: Ou: “vara; bastão”. No relato paralelo de João, ela é chamada de “haste de hissopo”. — Jo 19:29; veja o Glossário, “Hissopo”.
+====
+
+[[v40-27-49]]
+
+^<<v40-27-49,49>>^ Mas os demais disseram: “Deixe-o! Vamos ver se Elias vem salvá-lo.”
+
+[TIP]
+====
+- *salvá-lo*: Alguns manuscritos bem antigos acrescentam as palavras: “Outro homem pegou uma lança e lhe furou o lado, e saíram sangue e água.” Esse trecho não aparece em outros manuscritos importantes. Essas palavras são parecidas com as de Jo 19:34, mas, de acordo com Jo 19:33, Jesus já tinha morrido quando o soldado “lhe furou o lado com uma lança”. A maioria dos estudiosos, incluindo os editores dos textos gregos de Nestle e Aland e da Sociedade Bíblica Unida, acreditam que copistas inseriram as palavras do Evangelho de João no relato de Mateus. Até mesmo Westcott e Hort, que deixaram essas palavras dentro de colchetes duplos em sua edição do texto grego, disseram que essa frase “muito provavelmente foi introduzida por escribas”. Há diferenças entre os manuscritos em Mt 27:49, mas não em Jo 19:33, 34. Então, tudo indica que João narra os acontecimentos na ordem certa: Jesus já tinha morrido quando o soldado romano o furou com a lança. Por isso, esta revisão da Tradução do Novo Mundo omite essas palavras em Mt 27:49.
+====
+
+[[v40-27-50]]
+
+^<<v40-27-50,50>>^ Novamente Jesus clamou em alta voz e entregou seu espírito.
+
+[TIP]
+====
+- *entregou seu espírito*: Ou: “expirou; deu seu último suspiro; parou de respirar”. A palavra “espírito” (em grego, pneúma) pode ser entendida aqui como se referindo ao “fôlego” ou à “força de vida”. O relato paralelo de Mr 15:37 apoia isso, porque usa o verbo grego ekpnéo (lit.: “expirar; soltar o ar”), que foi traduzido como “morreu” ou, conforme a nota de estudo, “deu seu último suspiro”. Alguns sugerem que o uso da palavra grega traduzida como “entregou” significa que Jesus decidiu parar de lutar pela vida, visto que tudo já estava “consumado”, ou terminado. (Jo 19:30) Ele voluntariamente “derramou a sua vida até a morte”. — Is 53:12; Jo 10:11.
+====
+
+[[v40-27-51]]
+
+^<<v40-27-51,51>>^ Naquele momento, a cortina do santuário se rasgou em duas, de alto a baixo, a terra tremeu e as rochas se partiram.
+
+[TIP]
+====
+- *cortina*: Essa bela cortina ornamentada separava o Santíssimo do Santo no templo. A história judaica indica que essa pesada cortina tinha uns 18 metros de altura, 9 metros de largura e 7 centímetros de espessura. Quando rasgou essa cortina em duas, Jeová não só mostrou sua ira contra aqueles que mataram seu Filho, mas também indicou que, a partir daquele momento, o “caminho de entrada” para o céu estaria aberto. — He 10:19, 20; veja o Glossário.
+- *santuário*: A palavra grega naós se refere aqui ao prédio central do templo, onde ficavam o Santo e o Santíssimo.
+====
+
+[[v40-27-52]]
+
+^<<v40-27-52,52>>^ Os túmulos se abriram e muitos corpos dos santos que tinham adormecido^&#42;1^ foram levantados
+
+[NOTE]
+====
+. Ou: “tinham adormecido na morte; tinham morrido”.
+====
+
+[TIP]
+====
+- *túmulos*: Ou: “túmulos memoriais”. — Veja o Glossário.
+- *foram levantados*: O verbo grego egeíro, que significa “levantar”, pode se referir a uma ressurreição, mas também é usado muitas vezes em outros contextos. Por exemplo, pode significar “tirar” de um buraco ou “se levantar” do chão. (Mt 12:11; 17:7; Lu 1:69) Mateus não diz que os “santos” foram “levantados”. Ele diz que os “corpos” deles foram “levantados”. Pelo visto, o terremoto foi tão forte que os túmulos se abriram e os cadáveres foram jogados para fora.
+====
+
+[[v40-27-53]]
+
+^<<v40-27-53,53>>^ (e pessoas, saindo dentre os túmulos depois de ele ter sido levantado, entraram na cidade santa), e eles se tornaram visíveis a muitas pessoas.
+
+[TIP]
+====
+- *pessoas, saindo*: Ou: “aqueles que saíram”. O verbo grego indica um sujeito no masculino plural, se referindo a pessoas, não aos corpos (substantivo neutro em grego, não masculino) mencionados no versículo 52. Tudo indica que essas eram pessoas que depois passaram pelo local, viram os cadáveres que o terremoto (versículo 51) jogou para fora dos túmulos, entraram na cidade e relataram o que tinham visto.
+- *depois de ele ter sido levantado*: Ou seja, depois da ressurreição de Jesus. A informação entre parênteses se refere ao que aconteceu depois de algum tempo.
+- *cidade santa*: Ou seja, Jerusalém. — Veja a nota de estudo em Mt 4:5.
+- *eles se tornaram visíveis*: Pelo visto se refere aos cadáveres mencionados no versículo 52. — Veja a nota de estudo em Mt 27:52.
+====
+
+[[v40-27-54]]
+
+^<<v40-27-54,54>>^ Mas, quando o oficial do exército e os que estavam com ele vigiando Jesus viram o terremoto e as coisas que aconteciam, ficaram com muito medo e disseram: “Certamente este era o Filho de Deus.”^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “um filho de Deus; um filho de um deus”.
+====
+
+[TIP]
+====
+- *oficial do exército*: Ou: “centurião”, um oficial que comandava cerca de 100 soldados do exército romano. Esse oficial talvez estivesse presente no julgamento de Jesus diante de Pilatos e pode ter ouvido os judeus dizerem que Jesus afirmou ser o Filho de Deus. — Mt 27:27; Jo 19:7.
+====
+
+[[v40-27-55]]
+
+^<<v40-27-55,55>>^ E havia ali muitas mulheres observando de certa distância. Elas tinham acompanhado Jesus desde a Galileia, para servi-lo.
+
+[[v40-27-56]]
+
+^<<v40-27-56,56>>^ Entre essas estavam Maria Madalena, também Maria, mãe de Tiago e de Josés, e a mãe dos filhos de Zebedeu.
+
+[TIP]
+====
+- *Maria Madalena*: O nome Madalena (que significa “de Magdala; pertencente a Magdala”) provavelmente vem do nome da cidade de Magdala e servia para diferenciá-la de outras Marias. Essa cidade ficava na margem oeste do mar da Galileia, mais ou menos no meio do caminho entre Cafarnaum e Tiberíades. Alguns sugerem que Maria tinha nascido ou morava em Magdala. — Veja as notas de estudo em Mt 15:39; Lu 8:2.
+- *Tiago*: Também chamado de “Tiago, o Menor”. — Mr 15:40.
+- *Josés*: Alguns manuscritos bem antigos dizem “José” em vez de “Josés”. No relato paralelo de Mr 15:40, a maioria dos manuscritos bem antigos diz “Josés”.
+- *a mãe dos filhos de Zebedeu*: Ou seja, a mãe dos apóstolos Tiago e João. — Veja as notas de estudo em Mt 4:21; 20:20.
+====
+
+[[v40-27-57]]
+
+^<<v40-27-57,57>>^ Então, visto que a tarde estava avançada, chegou um homem rico de Arimateia, chamado José, que também tinha se tornado discípulo de Jesus.
+
+[TIP]
+====
+- *Arimateia*: O nome dessa cidade vem de uma palavra hebraica que significa “altura”. Em Lu 23:51, ela é chamada de “uma cidade da Judeia”. — Veja o Apêndice B10.
+- *José*: Cada escritor dos Evangelhos tinha seu próprio estilo, e isso fica evidente nos detalhes que eles deram ao descrever José de Arimateia. Mateus, um cobrador de impostos, diz que José era “um homem rico”. Marcos, escrevendo para os romanos, diz que ele era um “membro bem-conceituado do Conselho” e que ele “aguardava o Reino de Deus”. Lucas, um médico bondoso, diz que José “era um homem bom e justo” e que ele não tinha votado em apoio da ação do Conselho contra Jesus. E apenas João relata que ele era “discípulo de Jesus, mas secretamente, pois tinha medo dos judeus”. — Mr 15:43-46; Lu 23:50-53; Jo 19:38-42.
+====
+
+[[v40-27-58]]
+
+^<<v40-27-58,58>>^ Esse homem se aproximou de Pilatos e pediu o corpo de Jesus. Pilatos ordenou então que lhe fosse entregue.
+
+[[v40-27-59]]
+
+^<<v40-27-59,59>>^ José pegou o corpo, enrolou-o em puro linho fino
+
+[[v40-27-60]]
+
+^<<v40-27-60,60>>^ e o colocou no seu túmulo novo, que tinha aberto na rocha. E, depois de rolar uma grande pedra até a entrada do túmulo, foi embora.
+
+[TIP]
+====
+- *túmulo*: Ou: “túmulo memorial”. Não se tratava de uma caverna natural, mas de uma gruta escavada na rocha calcária. Muitos desses túmulos tinham bancos de pedra ou espaços escavados nas paredes onde era possível deitar os corpos. — Veja o Glossário.
+- *uma grande pedra*: Devia ser uma pedra circular, já que este versículo diz que ela foi ‘rolada’ para fechar o túmulo e Mr 16:4 diz que, quando Jesus foi ressuscitado, ela tinha sido “rolada” para abrir o túmulo. Essa grande pedra talvez pesasse uma tonelada ou mais.
+====
+
+[[v40-27-61]]
+
+^<<v40-27-61,61>>^ Mas Maria Madalena e a outra Maria permaneceram ali, sentadas diante da sepultura.
+
+[TIP]
+====
+- *a outra Maria*: Ou seja, “Maria, mãe de Tiago e de Josés”, mencionada em Mt 27:56. Ela também é mencionada em Mt 28:1; Mr 15:40, 47; 16:1; Lu 24:10 e Jo 19:25. — Veja as notas de estudo em Mr 3:18; Jo 19:25.
+====
+
+[[v40-27-62]]
+
+^<<v40-27-62,62>>^ No outro dia, o dia seguinte ao da Preparação, os principais sacerdotes e os fariseus se reuniram perante Pilatos
+
+[TIP]
+====
+- *outro dia*: Ou seja, 15 de nisã. Não importa em que dia da semana ele caísse, o dia seguinte ao 14 de nisã sempre era considerado um sábado, ou dia de descanso. Em 33 d.C., o dia 15 de nisã caiu num sábado semanal, tornando esse dia um sábado “grande”, ou duplo. — Jo 19:31; veja o Apêndice B12-B.
+- *Preparação*: Nome usado para descrever o dia antes do sábado semanal. Nesse dia, os judeus se preparavam deixando prontas refeições para o sábado e finalizando qualquer trabalho que não pudesse esperar até depois do sábado. Nessa ocasião, o dia da Preparação caiu no 14 de nisã. — Mr 15:42; veja o Glossário.
+====
+
+[[v40-27-63]]
+
+^<<v40-27-63,63>>^ e disseram: “Senhor, nós nos lembramos de que aquele impostor dizia, enquanto ainda estava vivo: ‘Depois de três dias eu serei levantado.’
+
+[TIP]
+====
+- *três dias*: Essa expressão nem sempre se refere a três dias completos. Isso fica evidente no pedido que fizeram a Pilatos para que o túmulo fosse mantido “em segurança até o terceiro dia”, e não até o quarto dia. — Mt 27:64; veja a nota de estudo em Mt 12:40.
+====
+
+[[v40-27-64]]
+
+^<<v40-27-64,64>>^ Portanto, ordene que se mantenha a sepultura em segurança até o terceiro dia, para que não venham os discípulos dele e o furtem, e digam ao povo: ‘Ele foi levantado dentre os mortos!’ Então esta última mentira seria pior do que a primeira.”
+
+[TIP]
+====
+- *Então esta última mentira seria pior do que a primeira*: Pelo visto, isso significa que essa suposta “mentira”, a ressurreição de Jesus, seria pior do que a primeira, sua afirmação de que era o Messias. Parece que os inimigos de Jesus sabiam que, se Jesus fosse ressuscitado, isso confirmaria que ele era mesmo o Messias.
+====
+
+[[v40-27-65]]
+
+^<<v40-27-65,65>>^ Pilatos lhes disse: “Vocês podem levar soldados. Vão, mantenham a sepultura tão segura quanto puderem.”
+
+[TIP]
+====
+- *soldados*: Tudo indica que Pilatos providenciou um grupo de soldados romanos. (Mt 28:4, 11) Se esses soldados fossem guardas da polícia judaica do templo, os judeus não precisariam falar com Pilatos. Além disso, os sacerdotes depois prometeram a esses soldados que cuidariam do assunto caso o governador ficasse sabendo que o corpo de Jesus tinha desaparecido. — Mt 28:14.
+====
+
+[[v40-27-66]]
+
+^<<v40-27-66,66>>^ De modo que foram manter a sepultura em segurança, lacrando a pedra e colocando os soldados de guarda.
+
+'''
+
+xref:040-mateus/040-mateus-026.adoc#v40-26-0[&#60; Capítulo Anterior] | <<v40-27-0,Topo>> | xref:040-mateus/040-mateus-028.adoc#v40-28-0[Próximo Capítulo &#62;]

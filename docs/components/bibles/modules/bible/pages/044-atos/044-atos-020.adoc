@@ -1,0 +1,289 @@
+include::./index.adoc[]
+
+[[v44-20-0]]
+=== Atos dos Apóstolos, 20
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* L. Terceira viagem missionária de Paulo (18:23–21:17)
+* Paulo parte para a Galácia e a Frígia (18:23)
+* Apolo, um homem eloquente, recebe ajuda de Priscila e Áquila e depois vai para a Acaia (18:24-28)
+* Paulo chega a Éfeso; alguns discípulos são batizados novamente, dessa vez, em nome de Jesus (19:1-7)
+* Atividades de Paulo em Éfeso (19:8-10)
+* Apesar do ocultismo em Éfeso, a palavra de Jeová prevalece (19:11-20)
+* Confusão em Éfeso; a multidão entra correndo no teatro (19:21-34)
+* O administrador da cidade de Éfeso acalma a multidão (19:35-41)
+* Paulo na Macedônia e na Grécia (20:1-6)
+* Êutico é ressuscitado em Trôade (20:7-12)
+* Paulo sai de Trôade e vai a Mileto (20:13-16)
+* Paulo incentiva os anciãos de Éfeso a prestarem atenção a si mesmos e a todo o rebanho de Deus (20:17-38)
+* Paulo continua sua viagem a Jerusalém (21:1-14)
+* Chegada em Jerusalém (21:15-17)
+****
+
+[[v44-20-1]]
+
+^<<v44-20-1,1>>^ Quando o alvoroço diminuiu, Paulo mandou chamar os discípulos e, depois de os encorajar e se despedir deles, partiu em viagem para a Macedônia.
+
+[[v44-20-2]]
+
+^<<v44-20-2,2>>^ Ele percorreu aquelas regiões e falou aos discípulos muitas palavras de encorajamento, e então chegou à Grécia.
+
+[[v44-20-3]]
+
+^<<v44-20-3,3>>^ Passou três meses ali, mas, visto que os judeus fizeram uma conspiração contra ele quando estava para navegar para a Síria, resolveu voltar pela Macedônia.
+
+[[v44-20-4]]
+
+^<<v44-20-4,4>>^ Estava acompanhado de Sópater, filho de Pirro, de Bereia; Aristarco e Segundo, dos tessalonicenses; Gaio, de Derbe; Timóteo e, da província da Ásia, Tíquico e Trófimo.
+
+[[v44-20-5]]
+
+^<<v44-20-5,5>>^ Esses homens seguiram viagem e esperaram por nós em Trôade.
+
+[TIP]
+====
+- *nós*: O fato de Lucas se incluir no relato, usando o pronome “nós”, indica que ele se reencontrou com Paulo em Filipos. A última vez que eles tinham estado juntos também tinha sido em Filipos. (At 16:10-17, 40) Depois de se reencontrarem, eles viajaram para Jerusalém, onde Paulo mais tarde foi preso. (At 20:5–21:18, 33) Esse é o segundo trecho do livro de Atos em que Lucas se inclui no relato. — Veja as notas de estudo em At 16:10; 27:1.
+====
+
+[[v44-20-6]]
+
+^<<v44-20-6,6>>^ Nós embarcamos em Filipos, depois dos dias dos Pães sem Fermento, e em cinco dias os encontramos em Trôade, onde passamos sete dias.
+
+[TIP]
+====
+- *dos dias dos Pães sem Fermento*: Veja o Glossário, “Festividade dos Pães sem Fermento”. — Veja o Apêndice B15.
+====
+
+[[v44-20-7]]
+
+^<<v44-20-7,7>>^ No primeiro dia da semana, quando estávamos reunidos para uma refeição, Paulo começou a falar aos presentes, visto que ia partir no dia seguinte; ele prolongou o discurso até a meia-noite,
+
+[TIP]
+====
+- *uma refeição*: Lit.: “quebrar pão”. O pão era a base da alimentação no antigo Oriente Médio. Assim, a expressão “quebrar pão”, ou partir pão, passou a ser usada para se referir a qualquer tipo de refeição. Os pães geralmente tinham formato achatado e eram assados até ficarem duros. Por isso, em vez de cortar o pão com uma faca, as pessoas tinham o costume de partir o pão com as mãos, e o próprio Jesus fez isso várias vezes. (Veja a nota de estudo em Mt 14:19; veja também Mt 15:36 e Lu 24:30.) Quando Jesus realizou a primeira Ceia do Senhor, ele pegou um pão e o partiu, mas esse gesto não teve nenhum significado especial; esse era apenas o jeito comum de dividir o pão. (Veja a nota de estudo em Mt 26:26.) Alguns dizem que, quando essa expressão aparece em certos versículos do livro de Atos, ela se refere à celebração da Ceia do Senhor. (At 2:42, 46; 20:7, 11) Mas, todas as vezes que a Bíblia fala da Ceia do Senhor, ela menciona duas ações: partir o pão e beber o vinho de um cálice. (Mt 26:26-28; Mr 14:22-25; Lu 22:19, 20; 1Co 10:16-21; 11:23-26) Essas duas ações têm a mesma importância. Assim, quando a Bíblia fala de partir pão, mas não fala de beber de um cálice, ela está se referindo a uma refeição normal, e não à Ceia do Senhor. Além disso, a Celebração da morte de Jesus substituiu a Páscoa judaica, que era realizada apenas uma vez por ano. Nada indica que Jesus quisesse que a Ceia do Senhor fosse celebrada com uma frequência maior do que a da Páscoa.
+====
+
+[[v44-20-8]]
+
+^<<v44-20-8,8>>^ de modo que havia várias lâmpadas na sala do andar de cima, onde estávamos reunidos.
+
+[[v44-20-9]]
+
+^<<v44-20-9,9>>^ Um jovem chamado Êutico, que estava sentado na janela, caiu num sono profundo enquanto Paulo falava e, vencido pelo sono, despencou do terceiro andar. Quando o levantaram, estava morto.
+
+[TIP]
+====
+- *terceiro andar*: Considerando-se o térreo como primeiro andar.
+====
+
+[[v44-20-10]]
+
+^<<v44-20-10,10>>^ Mas Paulo desceu, deitou-se sobre ele, abraçou-o e disse: “Parem com esse tumulto, pois ele está vivo.”
+
+[TIP]
+====
+- *pois ele está vivo*: Ou: “pois sua alma [ou seja, “sua vida”] está nele”. Em outras palavras, a vida daquele jovem tinha sido restaurada. Assim como acontece em muitos outros versículos das Escrituras Gregas Cristãs, aqui a palavra grega psykhé se refere à vida da pessoa. — Mt 6:25; 10:39; 16:25, 26; Lu 12:20; Jo 10:11, 15; 13:37, 38; 15:13; veja o Glossário, “Alma”.
+====
+
+[[v44-20-11]]
+
+^<<v44-20-11,11>>^ Paulo subiu então, partiu o pão e comeu. Continuou conversando por bastante tempo, até o amanhecer, e depois foi embora.
+
+[TIP]
+====
+- *partiu o pão*: Ou: “começou a refeição”. — Veja a nota de estudo em At 20:7.
+====
+
+[[v44-20-12]]
+
+^<<v44-20-12,12>>^ Então levaram o rapaz vivo, muito consolados.
+
+[[v44-20-13]]
+
+^<<v44-20-13,13>>^ Nós fomos na frente, até o navio, e navegamos para Assos, onde iríamos receber Paulo a bordo. Ele nos havia instruído a fazer isso, pois pretendia ir para lá a pé.
+
+[[v44-20-14]]
+
+^<<v44-20-14,14>>^ Assim, quando ele nos alcançou em Assos, nós o recebemos a bordo e fomos a Mitilene.
+
+[[v44-20-15]]
+
+^<<v44-20-15,15>>^ Navegamos dali no dia seguinte e chegamos à altura de Quios. No outro dia aportamos brevemente em Samos, e no dia seguinte chegamos a Mileto.
+
+[[v44-20-16]]
+
+^<<v44-20-16,16>>^ Paulo tinha decidido não parar em Éfeso, para não gastar tempo na província da Ásia, pois ele tinha pressa de chegar a Jerusalém, se possível, no dia da Festividade de Pentecostes.
+
+[[v44-20-17]]
+
+^<<v44-20-17,17>>^ No entanto, de Mileto ele mandou chamar os anciãos da congregação de Éfeso.
+
+[TIP]
+====
+- *anciãos*: Lit.: “homens mais velhos (idosos)”. Na Bíblia, a palavra grega presbýteros se refere principalmente a quem tem autoridade e responsabilidade numa comunidade ou nação. Na nação de Israel, homens mais velhos, ou maduros, em sentido espiritual tomavam a liderança entre o povo e ajudavam na administração das cidades. Da mesma forma, homens espiritualmente maduros tomavam a liderança nas várias congregações do século 1 d.C. O relato da conversa de Paulo com os anciãos de Éfeso deixa claro que havia mais de um ancião naquela congregação. O número de anciãos em cada congregação podia variar, pois dependia do número de homens que tinham a madureza espiritual necessária para se qualificar para essa designação. (1Ti 3:1-7; Tit 1:5-8) Quando Paulo escreveu sua primeira carta a Timóteo, que na época provavelmente morava em Éfeso, ele mencionou “o corpo de anciãos”. — 1Ti 1:3; 4:14.
+====
+
+[[v44-20-18]]
+
+^<<v44-20-18,18>>^ Quando chegaram, ele lhes disse: “Vocês bem sabem como me comportei entre vocês desde o primeiro dia em que pisei na província da Ásia:
+
+[[v44-20-19]]
+
+^<<v44-20-19,19>>^ trabalhei como escravo para o Senhor, com toda humildade e com lágrimas, sofrendo provações por causa das conspirações dos judeus;
+
+[TIP]
+====
+- *humildade*: Esta qualidade envolve a ausência de orgulho ou arrogância. Ela pode ser percebida no modo como a pessoa se vê em relação a Deus e aos outros. A humildade não é uma fraqueza; na verdade, é uma atitude mental que agrada a Deus. Cristãos que são humildes de verdade conseguem trabalhar juntos em união. (Ef 4:2; Fil 2:3; Col 3:12; 1Pe 5:5) A palavra grega tapeinofrosýne, traduzida aqui como “humildade”, vem das palavras tapeinóo (“rebaixar”) e fren (“a mente”). Ela poderia ser traduzida literalmente como “humildade mental”. O termo relacionado tapeinós foi traduzido como “humilde” (Mt 11:29) e “humildes” (Tg 4:6; 1Pe 5:5). — Veja a nota de estudo em Mt 11:29.
+====
+
+[[v44-20-20]]
+
+^<<v44-20-20,20>>^ ao mesmo tempo não deixei de falar a vocês coisa alguma que fosse proveitosa,^&#42;1^ nem de ensiná-los publicamente e de casa em casa.
+
+[NOTE]
+====
+. Ou: “para o seu bem; para o seu benefício”.
+====
+
+[TIP]
+====
+- *de casa em casa*: Ou: “em diferentes casas”. O contexto mostra que Paulo tinha visitado as casas desses homens para ensinar a eles “que deviam se arrepender e se voltar para Deus, e ter fé no nosso Senhor Jesus”. (At 20:21) Assim, ele não estava se referindo a simples visitas sociais ou de encorajamento feitas a cristãos já batizados, visto que cristãos batizados já teriam se arrependido e depositado fé em Jesus. Ao comentar sobre At 20:20, o estudioso A. T. Robertson disse o seguinte: “É digno de nota que esse maior entre os pregadores pregou de casa em casa e não fez de suas visitas meras visitas sociais.” (Word Pictures in the New Testament, 1930, volume 3, páginas 349 e 350) Outro estudioso, Abiel Abbot Livermore, fez o seguinte comentário sobre as palavras de Paulo neste versículo: “Ele não se contentava em meramente proferir discursos na assembleia pública . . . mas zelosamente realizava sua grande obra em particular, de casa em casa, e, literalmente, levava a verdade do céu ao lar e ao coração dos efésios.” — The Acts of the Apostles With a Commentary, 1844, página  270; para uma explicação sobre a tradução da expressão grega katʼ oíkous (lit.: “segundo as casas”), veja a nota de estudo em At 5:42.
+====
+
+[[v44-20-21]]
+
+^<<v44-20-21,21>>^ Mas eu dei testemunho de forma cabal, tanto a judeus como a gregos, de que deviam se arrepender e se voltar para Deus, e ter fé no nosso Senhor Jesus.
+
+[[v44-20-22]]
+
+^<<v44-20-22,22>>^ E agora, compelido pelo espírito, viajo para Jerusalém, embora não saiba o que me acontecerá lá;
+
+[TIP]
+====
+- *compelido*: Lit.: “amarrado”. Paulo não só se sentia obrigado a seguir a orientação do espírito e ir a Jerusalém, mas também estava disposto a fazer isso.
+====
+
+[[v44-20-23]]
+
+^<<v44-20-23,23>>^ só sei que, de cidade em cidade, o espírito santo me avisa repetidamente que me aguardam prisões e tribulações.
+
+[[v44-20-24]]
+
+^<<v44-20-24,24>>^ Contudo, eu não considero a minha vida preciosa^&#42;1^ para mim; o importante é que eu possa terminar a minha corrida e o ministério que recebi do Senhor Jesus: dar um testemunho cabal das boas novas a respeito da bondade imerecida de Deus.
+
+[NOTE]
+====
+. Ou: “de valor algum”.
+====
+
+[TIP]
+====
+- *a minha vida*: Ou: “a minha alma”. Neste versículo, a palavra grega psykhé se refere à vida da pessoa. — Veja o Glossário, “Alma” e o Apêndice A2.
+====
+
+[[v44-20-25]]
+
+^<<v44-20-25,25>>^ “Agora, sei que nenhum de vocês, entre os quais preguei o Reino, verá novamente o meu rosto.
+
+[TIP]
+====
+- *preguei*: A palavra grega que aparece aqui tem o sentido básico de “proclamar como um mensageiro público”. A palavra enfatiza como a proclamação é feita: geralmente de modo público, aberto, para todos ouvirem, em vez de em um simples sermão para um grupo. O tema da pregação dos cristãos continuava sendo “o Reino de Deus”. — At 28:31.
+- *o Reino*: Ou seja, o Reino de Deus. Esse Reino é o tema principal da Bíblia e ganha destaque em todo o livro de Atos. (At 1:3; 8:12; 14:22; 19:8; 20:25; 28:23, 31) Algumas traduções muito antigas para outros idiomas, como a Vulgata latina e a Peshitta siríaca, dizem “o Reino de Deus”. Uma tradução das Escrituras Gregas Cristãs para o hebraico (chamada de J17 no Apêndice C4) usa o nome de Deus aqui. A frase da J17 poderia ser traduzida como “o Reino de Jeová”.
+====
+
+[[v44-20-26]]
+
+^<<v44-20-26,26>>^ Então, vocês são testemunhas, no dia de hoje, de que estou limpo do sangue de todos os homens,
+
+[TIP]
+====
+- *estou limpo do sangue de todos os homens*: Paulo estava livre de culpa de sangue aos olhos de Deus, já que ele tinha cumprido sua obrigação de pregar as boas novas do Reino. Ele não tinha negado a ninguém a chance de ouvir essa mensagem que salva vidas. (At 18:6; compare com Ez 33:6-8.) Paulo tinha declarado aos discípulos em Éfeso “toda a vontade de Deus” porque não queria que ninguém perdesse a vida no dia do julgamento de Deus. (At 20:27) Um cristão também poderia ter culpa de sangue aos olhos de Deus por cometer assassinato ou se envolver em derramamento de sangue. Isso poderia incluir apoiar de forma direta ou indireta uma organização que tem culpa de sangue, como “Babilônia, a Grande” (Ap 17:6; 18:2, 4), e outras organizações que derramam sangue inocente (Ap 16:5, 6; compare com Is 26:20, 21.). Além disso, comer ou beber sangue, não importa de que maneira, torna a pessoa culpada de sangue. — At 15:20.
+====
+
+[[v44-20-27]]
+
+^<<v44-20-27,27>>^ pois não deixei de declarar a vocês toda a vontade de Deus.
+
+[TIP]
+====
+- *toda a vontade de Deus*: Ou: “todo o propósito de Deus; todo o conselho de Deus”. Neste contexto, essas palavras se referem a tudo o que Deus se propôs a fazer por meio de seu Reino e a tudo o que Deus determinou como necessário para a salvação. (At 20:25) A palavra grega boulé, traduzida aqui como “vontade”, também pode ser traduzida como “orientação; conselho” (Lu 7:30, nota de rodapé) e “propósito” (He 6:17).
+====
+
+[[v44-20-28]]
+
+^<<v44-20-28,28>>^ Prestem atenção a si mesmos e a todo o rebanho, sobre o qual o espírito santo os designou como superintendentes, para pastorearem a congregação de Deus, que ele comprou com o sangue do seu próprio Filho.
+
+[TIP]
+====
+- *Prestem atenção a*: Ou: “Vigiem a”. Jeová ama muito as ovelhas do seu rebanho porque elas foram compradas com o precioso “sangue do seu próprio Filho”. Ele pagou o maior preço possível por elas. Assim, ao vigiarem o rebanho, os superintendentes humildemente se preocupam com o bem-estar de cada ovelha, lembrando o quanto Jeová as ama. — 1Pe 5:1-3.
+- *superintendentes*: A palavra grega epískopos (superintendente) está relacionada com o verbo episkopéo, que significa “vigiar cuidadosamente” (He 12:15), e com o substantivo episkopé, que pode significar “inspeção” (Lu 19:44, Kingdom Interlinear; 1Pe 2:12), “ser superintendente” (1Ti 3:1) ou “cargo de superintendente” (At 1:20). Assim, o superintendente era alguém que visitava, inspecionava e orientava as ovelhas da congregação. A palavra epískopos está fortemente ligada com a ideia de supervisão protetora. Os superintendentes na congregação têm a responsabilidade de cuidar dos assuntos relacionados com o bem-estar espiritual de seus companheiros cristãos. Aqui, Paulo estava falando com os “anciãos” (presbýteros) da congregação de Éfeso (At 20:17), e ele os chamou de “superintendentes”. E, quando Paulo escreveu sua carta a Tito alistando as qualificações para alguém servir como ancião na congregação cristã, ele usou a palavra “superintendente” como sinônimo de “ancião”. (Tit 1:5, 7) Assim, as duas palavras se referem ao mesmo cargo, sendo que presbýteros destaca as qualidades maduras do designado, enquanto epískopos destaca as responsabilidades que acompanham a designação. Esse relato da conversa de Paulo com os anciãos de Éfeso deixa claro que havia vários superintendentes naquela congregação. Não existia um número fixo de superintendentes para cada congregação; o número variava dependendo de quantos homens se qualificavam para servir como “anciãos”, ou seja, homens espiritualmente maduros. Quando Paulo escreveu aos cristãos em Filipos, ele falou dos “superintendentes” daquela congregação (Fil 1:1), indicando que havia um grupo deles, servindo como um corpo de anciãos, supervisionando a congregação. — Veja a nota de estudo em At 1:20.
+- *Deus*: Alguns manuscritos muito antigos dizem “o Senhor”, mas a opção “Deus”, usada aqui no texto principal, tem o apoio de manuscritos muito antigos e confiáveis, e muitos estudiosos acreditam que era essa opção que estava no texto original.
+- *com o sangue do seu próprio Filho*: Lit.: “através do sangue do próprio”. A gramática grega permite que esta expressão seja traduzida como “com o sangue do seu próprio” ou “com seu próprio sangue”. Assim, para se determinar o sentido dela aqui, é preciso analisar o contexto. Em grego, a expressão ho ídios (“seu próprio”) pode ser usada sozinha, deixando o seu complemento (substantivo ou pronome) subentendido. Alguns versículos onde essa expressão aparece sozinha no texto grego e é preciso determinar o complemento pelo contexto são os seguintes: Jo 1:11 (“seu próprio povo”); Jo 13:1 (“os seus”); At 4:23 (“seu próprio povo”, nota de rodapé) e At 24:23 (“os do seu povo”). Em papiros gregos não bíblicos, a expressão é usada como um termo carinhoso para se referir a parentes próximos. Alguém que lesse At 20:28 no idioma original entenderia pelo contexto que havia um substantivo singular implícito depois da expressão “seu próprio” e que esse substantivo se referia ao Filho unigênito de Deus, Jesus Cristo, que foi quem teve o sangue derramado. Por isso, um número considerável de estudiosos e tradutores acredita que a palavra “filho” está subentendida e traduzem a expressão como “com o sangue do seu próprio Filho”.
+====
+
+[[v44-20-29]]
+
+^<<v44-20-29,29>>^ Sei que, depois que eu for embora, entrarão no meio de vocês lobos ferozes,^&#42;1^ que não tratarão o rebanho com ternura,
+
+[NOTE]
+====
+. Ou: “opressivos”.
+====
+
+[[v44-20-30]]
+
+^<<v44-20-30,30>>^ e dentre vocês mesmos surgirão homens que falarão coisas deturpadas para arrastar os discípulos atrás de si.
+
+[[v44-20-31]]
+
+^<<v44-20-31,31>>^ “Portanto, fiquem despertos e lembrem-se de que por três anos, noite e dia, não parei de exortar a cada um de vocês, com lágrimas.
+
+[[v44-20-32]]
+
+^<<v44-20-32,32>>^ E agora, eu os entrego aos cuidados de Deus e da palavra a respeito da Sua bondade imerecida, palavra que pode edificá-los e lhes dar a herança entre todos os santificados.
+
+[TIP]
+====
+- *Deus*: Alguns poucos manuscritos dizem “o Senhor” aqui, mas a maioria diz “Deus”.
+====
+
+[[v44-20-33]]
+
+^<<v44-20-33,33>>^ Não cobicei a prata, nem o ouro, nem a roupa de ninguém.
+
+[[v44-20-34]]
+
+^<<v44-20-34,34>>^ Vocês mesmos sabem que estas minhas mãos supriram as minhas necessidades e as de meus companheiros.
+
+[[v44-20-35]]
+
+^<<v44-20-35,35>>^ Em tudo eu lhes mostrei que, trabalhando arduamente assim, vocês devem ajudar os fracos e ter em mente as palavras do Senhor Jesus, que disse: ‘Há mais felicidade em dar do que em receber.’”
+
+[TIP]
+====
+- *as palavras do Senhor Jesus*: As palavras de Jesus que aparecem a seguir são citadas apenas pelo apóstolo Paulo, mas a ideia que elas transmitem também é encontrada nos Evangelhos e em outras partes das Escrituras inspiradas. (Sal 41:1; Pr 11:25; 19:17; Mt 10:8; Lu 6:38) Pode ser que Paulo tenha ouvido essas palavras do próprio Jesus, já ressuscitado, ou de alguém que estava presente quando Jesus as disse. Outra possibilidade é que Paulo tenha recebido essa informação por revelação divina. — At 22:6-15; 1Co 15:6, 8.
+====
+
+[[v44-20-36]]
+
+^<<v44-20-36,36>>^ Depois de dizer essas coisas, ajoelhou-se com todos eles e orou.
+
+[[v44-20-37]]
+
+^<<v44-20-37,37>>^ Todos começaram a chorar muito; então abraçaram Paulo e o beijaram ternamente,
+
+[TIP]
+====
+- *abraçaram Paulo*: Lit.: “se lançaram sobre o pescoço de Paulo”. Nos tempos bíblicos, dar um abraço acompanhado por beijos e lágrimas era uma expressão de grande carinho por alguém. Com certeza, os anciãos que abraçaram Paulo tinham grande carinho por ele. — Veja também Gên 33:4; 45:14, 15; 46:29; Lu 15:20.
+- *o beijaram ternamente*: Ou: “o beijaram com amor”. O amor verdadeiro que Paulo sentia por seus irmãos fez com que eles o amassem. Nos tempos bíblicos, beijar era muitas vezes um sinal de grande amizade. (Gên 27:26; 2Sa 19:39) Às vezes, o beijo era acompanhado por lágrimas e um abraço carinhoso. (Gên 33:4; 45:14, 15; Lu 15:20) Alguns acreditam que a palavra grega traduzida aqui como “beijaram ternamente” seja uma forma intensificada do verbo filéo, que às vezes é traduzido como “beijar” (Mt 26:48; Mr 14:44; Lu 22:47), mas é mais usado no sentido de “amar” (Jo 5:20; 11:3; 16:27). — Compare com a nota de estudo em Mt 26:49.
+====
+
+[[v44-20-38]]
+
+^<<v44-20-38,38>>^ pois estavam tristes especialmente pelo que ele tinha dito, que eles não veriam mais o seu rosto. Depois o acompanharam até o navio.
+
+'''
+
+xref:044-atos/044-atos-019.adoc#v44-19-0[&#60; Capítulo Anterior] | <<v44-20-0,Topo>> | xref:044-atos/044-atos-021.adoc#v44-21-0[Próximo Capítulo &#62;]

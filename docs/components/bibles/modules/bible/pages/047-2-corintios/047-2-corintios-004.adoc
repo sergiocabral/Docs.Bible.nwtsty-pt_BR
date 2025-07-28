@@ -1,0 +1,206 @@
+include::./index.adoc[]
+
+[[v47-4-0]]
+=== A Segunda aos Coríntios, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. PAULO CONFIRMA SEU AMOR PELOS CRISTÃOS EM CORINTO E FALA DO MINISTÉRIO DELE (1:12–7:16)
+* 1. Mudança nos planos de viagem de Paulo (1:12-24)
+* Paulo fala de sua conduta em relação aos coríntios (1:12-14)
+* Paulo se defende da acusação de não ser confiável (1:15-24)
+* 2. O interesse de Paulo no bem-estar dos cristãos em Corinto (2:1-13)
+* Paulo deseja dar alegria aos coríntios (2:1-4)
+* Um pecador é perdoado e aceito de volta na congregação (2:5-11)
+* Paulo não teve alívio porque não encontrou Tito em Trôade (2:12, 13)
+* 3. O ministério glorioso de Paulo e de seus companheiros (2:14–4:6)
+* O ministério é comparado a um desfile triunfal (2:14-17)
+* Cartas de recomendação (3:1-3)
+* Deus qualifica cristãos para serem servos do novo pacto (3:4-6)
+* A glória do ministério do novo pacto é superior (3:7-18)
+* O ministério que faz a luz brilhar por meio do conhecimento glorioso de Deus (4:1-6)
+* 4. Mesmo sendo vasos de barro, Paulo e seus companheiros suportam muitas provações (4:7-18)
+* Com o poder além do normal é possível suportar dificuldades (4:7-15)
+* O sofrimento é momentâneo, mas produz uma glória eterna (4:16-18)
+* 5. O desejo de Paulo de receber sua recompensa celestial (5:1-10)
+* Corpo espiritual será superior (5:1-5)
+* Enquanto estão na Terra, os cristãos ungidos andam pela fé, não pela vista (5:6-10)
+* 6. O ministério da reconciliação (5:11–6:2)
+* O amor que Cristo mostrou impele os cristãos (5:11-15)
+* Os cristãos ungidos estão em união com Cristo e são uma nova criação (5:16-19)
+* Embaixadores substituindo a Cristo suplicam: “Sejam reconciliados com Deus” (5:20, 21)
+* Não se deve perder de vista o objetivo da bondade imerecida de Deus (6:1, 2)
+* 7. Paulo fala de seu ministério (6:3-13)
+* Como os cristãos se recomendam como ministros de Deus (6:3-10)
+* Paulo fala do carinho que tem pelos irmãos em Corinto (6:11-13)
+* 8. Alertas sobre impureza espiritual e idolatria (6:14–7:1)
+* “Não se ponham em jugo desigual com descrentes” (6:14-18)
+* “Purifiquemo-nos de toda imundície da carne e do espírito” (7:1)
+* 9. Paulo se alegra por causa dos coríntios (7:2-16)
+* Paulo tem orgulho dos irmãos em Corinto (7:2-4)
+* Paulo foi consolado com a presença de Tito e com seu bom relato (7:5-7)
+* Tristeza segundo a vontade de Deus e arrependimento levam à salvação (7:8-13a)
+* Paulo se alegra ao saber do bom relacionamento entre Tito e os coríntios (7:13b-16)
+****
+
+[[v47-4-1]]
+
+^<<v47-4-1,1>>^ Portanto, visto que temos este ministério por meio da misericórdia que se teve conosco, não desistimos.
+
+[TIP]
+====
+- *este ministério*: Ou seja, o ministério realizado pelos “servos de um novo pacto”, mencionados em 2Co 3:6. (Veja a nota de estudo.) Em 2Co 4:7, Paulo chama esse ministério de “tesouro”. É por meio desse ministério que a verdade se torna conhecida. — 2Co 4:2.
+- *não desistimos*: Ou: “não perdemos a coragem (não desanimamos)”. Neste contexto, as palavras de Paulo indicam que ele e seus companheiros estavam decididos a nunca deixar que o cansaço e o desânimo diminuíssem o seu zelo no “ministério”.
+====
+
+[[v47-4-2]]
+
+^<<v47-4-2,2>>^ Pelo contrário, renunciamos às coisas vergonhosas, feitas em segredo, e não andamos com astúcia nem adulteramos a palavra de Deus; mas, tornando conhecida a verdade, nós nos recomendamos a toda consciência humana diante de Deus.
+
+[TIP]
+====
+- *adulteramos a palavra de Deus*: Esta é a única vez que o verbo grego traduzido aqui como “adulteramos” aparece nas Escrituras Gregas Cristãs, mas um substantivo relacionado aparece em Ro 1:29 e 1Te 2:3 (“engano; enganosa”), e em 2Co 12:16 (“astúcia”). A expressão ‘adulterar a palavra de Deus’ tem o sentido básico de corromper, distorcer ou falsificar a mensagem de Deus. Ela também pode passar a ideia de misturar a mensagem de Deus com coisas inferiores ou que não fazem parte dela, como filosofias humanas e ideias pessoais. Paulo jamais pensaria em adulterar a palavra de Deus só para agradar os judeus e gregos a quem ele ensinava, misturando as verdades puras das Escrituras com as crenças deles. Ele se recusava a diluir a verdade para satisfazer os gostos de um mundo que considera como sabedoria aquilo que é tolice para Deus. — 1Co 1:21; veja a nota de estudo em 2Co 2:17.
+====
+
+[[v47-4-3]]
+
+^<<v47-4-3,3>>^ Se, de fato, as boas novas que declaramos estão ocultas,^&#42;1^ estão ocultas entre os que estão a caminho da destruição,^&#42;2^
+
+[NOTE]
+====
+. Ou: “ocultas por um véu”.
+. Ou: “estão perecendo”.
+====
+
+[[v47-4-4]]
+
+^<<v47-4-4,4>>^ entre os quais o deus deste mundo cegou a mente dos descrentes, para que não brilhe sobre eles a luz^&#42;1^ das gloriosas boas novas a respeito do Cristo, que é a imagem de Deus.
+
+[NOTE]
+====
+. Ou: “o esclarecimento”.
+====
+
+[TIP]
+====
+- *o deus deste mundo*: O “deus” mencionado aqui é Satanás. Isso fica claro na sequência do versículo, que diz que ele “cegou a mente dos descrentes”. Jesus chamou Satanás de “o governante deste mundo” e declarou que ele seria “expulso”. (Jo 12:31) A declaração de Jesus e o fato de Satanás ser chamado aqui de “o deus deste mundo [ou: “desta época”]” indicam que a autoridade dele é temporária. — Compare com Ap 12:12.
+- *deste mundo*: Ou: “deste sistema de coisas”. A palavra grega usada aqui, aión, tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. (Veja o Glossário, “Sistema(s) de coisas”.) Visto que Satanás é o governante “deste mundo”, ele o molda, fazendo com que tenha as características e o espírito que ele quer. — Ef 2:1, 2.
+- *a mente*: Lit.: “as faculdades mentais”. A palavra grega nóema também foi traduzida como “mente” em 2Co 3:14; 11:3 e em Fil 4:7 (onde também poderia ser traduzida como “faculdades mentais; pensamentos”). Em 2Co 10:5, ela foi traduzida como “pensamento”. — Veja a nota de estudo em 2Co 2:11.
+- *das gloriosas boas novas a respeito do Cristo*: As boas novas merecem ser chamadas de “gloriosas” por causa de seu conteúdo. Elas revelam coisas maravilhosas como, por exemplo, a maneira como o segredo sagrado de Deus em relação a Cristo foi se tornando conhecido (Col 1:27), o papel daqueles que irão reinar junto com Jesus no Reino (1Te 2:12; Ap 1:6) e o futuro que Deus promete para toda a humanidade (Ap 21:3, 4). As palavras de Paulo aqui também poderiam ser traduzidas como “das boas novas a respeito da glória do Cristo”.
+====
+
+[[v47-4-5]]
+
+^<<v47-4-5,5>>^ Pois não estamos pregando a respeito de nós mesmos, mas a respeito de Jesus Cristo como Senhor, e a respeito de nós mesmos como escravos de vocês por causa de Jesus.
+
+[[v47-4-6]]
+
+^<<v47-4-6,6>>^ Porque foi Deus quem disse: “Da escuridão brilhe a luz”, e ele tem brilhado sobre os nossos corações, para iluminá-los com o glorioso conhecimento de Deus por meio do rosto de Cristo.
+
+[TIP]
+====
+- *brilhe a luz*: Ou: “brilhará a luz”. Aqui, Paulo está fazendo referência a Gên 1:3. Jeová Deus é a Fonte tanto da luz física quanto da luz espiritual.
+- *o glorioso conhecimento de Deus*: Na Bíblia, os verbos e os substantivos originais traduzidos como “conhecer” e “conhecimento” muitas vezes envolvem mais do que apenas saber de certos fatos ou ter certas informações. Quando se referem a uma pessoa, eles também podem passar a ideia de conhecê-la bem, reconhecer sua autoridade e obedecer a ela. (Veja a nota de estudo em Jo 17:3.) Aqui em 2Co 4:6, Paulo relaciona o “conhecimento de Deus” com a luz espiritual que Deus dá a seus servos por meio de Cristo. Esse conhecimento é chamado de “glorioso” porque envolve conhecer a gloriosa personalidade de Deus e suas qualidades. A expressão grega traduzida aqui como “o glorioso conhecimento de Deus” também poderia ser traduzida como “o conhecimento da glória de Deus”, destacando que o foco desse conhecimento é a glória de Deus. Uma expressão parecida foi usada em Hab 2:14, que diz: “A terra ficará cheia do conhecimento da glória de Jeová.”
+- *por meio do rosto de Cristo*: Ou: “refletido no rosto de Cristo”. O uso que Paulo faz aqui da palavra “rosto” está relacionado com o que ele disse em 2Co 3:7, 12, 13, onde ele fala sobre a glória que o rosto de Moisés refletia.
+====
+
+[[v47-4-7]]
+
+^<<v47-4-7,7>>^ No entanto, temos esse tesouro em vasos de barro, para que o poder além do normal seja o de Deus, e não o de nós mesmos.
+
+[TIP]
+====
+- *tesouro em vasos de barro*: As Escrituras muitas vezes comparam pessoas a vasos de barro. (Jó 10:9; Sal 31:12) Nos dias de Paulo, vasos de barro eram usados para transportar diversos tipos de mercadoria, desde alimentos e líquidos (como grãos, óleo e vinho) até moedas de prata e de ouro. Muitas vezes, os vasos quebravam ou eram descartados depois de seu conteúdo ter sido entregue, e era comum ver grandes pilhas de vasos quebrados perto de portos e mercados. Mesmo sendo baratos, os vasos de barro cumpriam bem o papel de transportar mercadorias valiosas até o seu destino. Eles também eram usados para guardar e preservar itens importantes (Je 32:13-15), como aconteceu com os Rolos do Mar Morto, que foram encontrados dentro de vasos de barro na região de Qumran. Na ilustração de Paulo, o “tesouro” representa a designação (ou ministério) de pregar as boas novas sobre o Reino de Deus, uma mensagem que tem o poder de salvar vidas. (Mt 13:44; 2Co 4:1, 2, 5) Os vasos de barro representam as pessoas a quem Jeová confia esse tesouro. Apesar de serem pessoas comuns, com corpos imperfeitos e limitados, elas são usadas por Deus para levar o “tesouro” até o seu destino.
+- *o poder além do normal*: A palavra grega traduzida aqui como “além do normal” é hyperbolé. Aqui, ela foi usada para se referir ao poder extraordinário que apenas Deus pode dar. — Veja a nota de estudo em 2Co 12:7.
+====
+
+[[v47-4-8]]
+
+^<<v47-4-8,8>>^ Somos pressionados de todos os modos, mas não apertados sem poder nos mover; ficamos perplexos, mas não inteiramente sem saída;^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “não em desespero”.
+====
+
+[[v47-4-9]]
+
+^<<v47-4-9,9>>^ somos perseguidos, mas não abandonados; somos derrubados, mas não destruídos.
+
+[[v47-4-10]]
+
+^<<v47-4-10,10>>^ Sempre suportamos em nosso corpo o tratamento mortífero que Jesus sofreu, para que a vida de Jesus também se revele em nosso corpo.
+
+[TIP]
+====
+- *o tratamento mortífero que Jesus sofreu*: Aqui, Paulo está dizendo que ele e seus companheiros estavam constantemente correndo risco de morte e enfrentando o mesmo tipo de sofrimento que Jesus enfrentou.
+====
+
+[[v47-4-11]]
+
+^<<v47-4-11,11>>^ Pois nós, que estamos vivos, somos sempre confrontados com a morte por causa de Jesus, para que a vida de Jesus também se revele em nossa carne mortal.
+
+[TIP]
+====
+- *sempre confrontados com a morte*: Ou: “sempre entregues à morte”. Aqui, esta expressão passa a ideia de “correr constante risco de morte” ou “estar constantemente sob ameaça de morte”. O verbo grego que aparece nessa expressão (muitas vezes traduzido como “entregar”) foi usado várias vezes para falar que Jesus foi “entregue” às autoridades judaicas. — Mt 20:18; 26:2; Mr 10:33; Lu 18:32.
+====
+
+[[v47-4-12]]
+
+^<<v47-4-12,12>>^ Assim, em nós atua a morte, mas em vocês a vida.
+
+[[v47-4-13]]
+
+^<<v47-4-13,13>>^ Agora, visto que temos o mesmo espírito de fé a respeito do qual está escrito: “Exerci fé, por isso falei”, nós também exercemos fé e por isso falamos,
+
+[TIP]
+====
+- *Exerci fé*: Uma foto mostrando parte de uma página de um manuscrito que contém este versículo aparece no Apêndice A3. O trecho que aparece na foto começa com o verbo traduzido aqui em 2Co 4:13 como “exerci fé” e termina em 2Co 5:1. (A página completa contém 2Co 4:13–5:4.) Esse manuscrito em papiro, conhecido como P46, é um códice datado de cerca de 200 d.C. Esse códice é a coleção mais antiga disponível das cartas de Paulo e contém nove delas, incluindo as cartas praticamente inteiras de 1 e 2 Coríntios. Se tiver sido datado corretamente, esse códice foi produzido apenas uns 150 anos depois de Paulo ter escrito suas cartas.
+- *Exerci fé, por isso falei*: Aqui, Paulo está citando as palavras do Sal 116:10, conforme elas aparecem na Septuaginta (115:1, LXX).
+====
+
+[[v47-4-14]]
+
+^<<v47-4-14,14>>^ sabendo que Aquele que levantou a Jesus também nos levantará com Jesus, e nos apresentará junto com vocês.
+
+[[v47-4-15]]
+
+^<<v47-4-15,15>>^ Pois tudo isso é por causa de vocês, a fim de que a bondade imerecida aumente cada vez mais porque muito mais pessoas estão dando graças para a glória de Deus.
+
+[[v47-4-16]]
+
+^<<v47-4-16,16>>^ Por isso não desistimos; porém, ainda que o homem que somos por fora definhe, certamente o homem que somos por dentro está sendo renovado a cada dia.
+
+[TIP]
+====
+- *o homem que somos por fora*: Aqui, Paulo está se referindo ao corpo físico dos cristãos, que definha, ou seja, deteriora. Isso pode acontecer por causa de doença, deficiência física e envelhecimento, ou por causa de maus-tratos e outras dificuldades.
+- *o homem que somos por dentro está sendo renovado*: Aqui, Paulo destaca que mesmo que os cristãos estejam ‘definhando’ por fora, Jeová os renova constantemente, dando força espiritual para eles a cada dia. (Sal 92:12-14) A expressão “o homem que somos por dentro” se refere ao que o cristão é no íntimo, incluindo sua espiritualidade, qualidades e força. Essa expressão tem a ver com a “nova personalidade” que os cristãos se esforçam para ter. (Col 3:9, 10) Paulo incentiva os cristãos a se concentrarem “nas coisas não vistas”, ou seja, na maravilhosa recompensa que Deus promete para eles. — Veja a nota de estudo em 2Co 4:18.
+====
+
+[[v47-4-17]]
+
+^<<v47-4-17,17>>^ Pois, embora o sofrimento seja momentâneo e leve, produz para nós uma glória de grandeza extraordinária,^&#42;1^ uma glória eterna,
+
+[NOTE]
+====
+. Ou: “de peso que ultrapassa mais e mais”.
+====
+
+[TIP]
+====
+- *sofrimento*: Aqui, a palavra grega thlípsis também poderia ser traduzida como “provação; tribulação; aflição; dificuldade”. — Veja a nota de estudo em 2Co 1:4.
+====
+
+[[v47-4-18]]
+
+^<<v47-4-18,18>>^ ao passo que fixamos os olhos não nas coisas vistas, mas nas coisas não vistas. Porque as coisas vistas são temporárias, mas as coisas não vistas são eternas.
+
+[TIP]
+====
+- *fixamos os olhos não nas coisas vistas, mas nas coisas não vistas*: Os cristãos em Corinto estavam passando por muitas dificuldades ao realizar seu ministério. (2Co 4:8, 9, 16) Por isso, Paulo os aconselhou a não permitir que os problemas e a perseguição (coisas vistas) ofuscassem sua visão, impedindo-os de enxergar a gloriosa recompensa que estava à frente (coisas não vistas). O verbo grego traduzido aqui como “fixamos os olhos” (skopéo) significa “prestar cuidadosa atenção a; continuar pensando sobre; concentrar-se em”. Os coríntios precisavam seguir o exemplo de Jesus e manter seus olhos fixos na recompensa que receberiam se continuassem fiéis. Dessa forma, a sua determinação de perseverar seria renovada a cada dia. — He 12:1-3.
+====
+
+'''
+
+xref:047-2-corintios/047-2-corintios-003.adoc#v47-3-0[&#60; Capítulo Anterior] | <<v47-4-0,Topo>> | xref:047-2-corintios/047-2-corintios-005.adoc#v47-5-0[Próximo Capítulo &#62;]

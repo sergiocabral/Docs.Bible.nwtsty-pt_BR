@@ -1,0 +1,447 @@
+include::./index.adoc[]
+
+[[v43-1-0]]
+=== As Boas Novas Segundo João, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* João: Este nome em português equivale aos nomes hebraicos Jeoanã ou Joanã, que significam “Jeová mostrou favor” ou “Jeová foi bondoso”. O escritor deste Evangelho não se identifica, mas escritos dos séculos 2 e 3 d.C. dizem que o apóstolo João foi o escritor. Quando o nome João é usado neste Evangelho, ele se refere a João Batista. As únicas exceções são Jo 1:42 e 21:15-17, onde Jesus usou esse nome para se referir ao pai de Pedro. (Veja as notas de estudo em Jo 1:42 e 21:15.) Apesar de o apóstolo João não ser citado por nome, ele e Tiago (seu irmão) são mencionados como “os filhos de Zebedeu”. (Jo 21:2; Mt 4:21; Mr 1:19; Lu 5:10; veja a nota de estudo em Jo 1:6.) Nos versículos finais do Evangelho, o escritor fala de si mesmo como “o discípulo que Jesus amava” (Jo 21:20-24), e há bons motivos para acreditar que essa expressão se refira ao apóstolo João. — Veja a nota de estudo em Jo 13:23.
+* As Boas Novas Segundo João: Em nenhum dos Evangelhos o escritor se identifica e, pelo visto, os textos originais não tinham títulos. Em alguns manuscritos do Evangelho de João, o título que aparece é: Euaggélion Katá Ioánnen (As Boas Novas [ou: O Evangelho] Segundo João). Outros manuscritos usam um título mais curto: Katá Ioánnen (Segundo João). Não se sabe exatamente quando os títulos começaram a ser usados ou quando foram adicionados aos manuscritos dos Evangelhos. Alguns acreditam que foi no século 2 d.C., porque existem manuscritos datados de entre o fim do século 2 d.C. e o começo do século 3 d.C. que já usavam títulos longos. Alguns estudiosos sugerem que os relatos sobre a vida de Jesus começaram a ser chamados de “Evangelhos” (que, em grego, significa literalmente “boas novas”) por causa das palavras iniciais do livro de Marcos (“Princípio das boas novas a respeito de Jesus Cristo, o Filho de Deus”). É possível que as pessoas tenham começado a usar esses títulos, que incluíam o nome do escritor, porque assim era mais fácil identificar os livros.
+****
+
+.Notas do capítulo
+****
+* A. Palavras iniciais de João: A Palavra se tornou carne e residiu entre humanos (1:1-18)
+* A Palavra estava no princípio com Deus e era um deus (1:1, 2)
+* Deus usou a Palavra para criar todas as outras coisas (1:3a)
+* Vida e luz vieram a existir por meio da Palavra (1:3b-5)
+* João Batista deu testemunho da luz (1:6-8)
+* A verdadeira luz veio ao mundo, mas foi rejeitada por muitos (1:9-11)
+* Aqueles que recebem a Palavra e exercem fé se tornam filhos de Deus (1:12, 13)
+* A Palavra, cheia de favor divino e de verdade, revela o Pai; nenhum homem viu o Pai (1:14-18)
+* B. Testemunho de João Batista sobre Jesus (1:19-34)
+* João diz que não é o Cristo, mas é “alguém clamando no deserto” (1:19-28)
+* João apresenta Jesus como “o Cordeiro de Deus” (1:29-31)
+* João dá testemunho de que viu o espírito descer sobre Jesus e prediz o batismo com espírito santo (1:32-34)
+* C. Primeiros discípulos de Jesus (1:35-51)
+* Discípulos de João seguem Jesus; André leva seu irmão, Pedro, até Jesus (1:35-42)
+* Filipe e Natanael se tornam discípulos de Jesus (1:43-51)
+****
+
+[[v43-1-1]]
+
+^<<v43-1-1,1>>^ No princípio era a Palavra, e a Palavra estava com Deus, e a Palavra era um deus.
+
+[TIP]
+====
+- *princípio*: O significado da palavra “princípio” (em grego, arkhé) nas Escrituras Gregas Cristãs depende do contexto. Ela não pode se referir ao princípio de Deus, o Criador, já que ele é eterno e não teve princípio. (Sal 90:2) Por isso, o “princípio” mencionado aqui deve se referir à época em que Deus começou a criar. A primeira criação de Deus, que no céu recebeu o título de a Palavra, mais tarde se tornou Jesus. (Jo 1:14-17) Assim, Jesus é o único que pode ser chamado de “o primogênito de toda a criação”. (Col 1:15) Como ele foi “o princípio da criação de Deus” (Ap 3:14), ele foi criado antes de qualquer outra criatura e do Universo. Na verdade, foi por meio de Jesus que “foram criadas todas as outras coisas nos céus e na terra”. — Col 1:16; para outros exemplos de como a palavra “princípio” é usada, veja a nota de estudo em Jo 6:64.
+- *a Palavra*: Ou: “o Logos”. A expressão “a Palavra” (em grego, ho lógos) é usada aqui como um título e também aparece em Jo 1:14 e Ap 19:13. João mostrou que esse título pertence a Jesus. O título foi usado para se referir a ele antes de vir à Terra, durante o seu ministério como homem perfeito e depois que ele retornou ao céu e foi enaltecido. Deus usava Jesus como seu Porta-Voz para transmitir informações e instruções a seus outros filhos espirituais e aos humanos. Assim, é razoável concluir que, antes de vir a Terra, Jesus tenha sido muitas vezes o anjo usado por Jeová para se comunicar com os humanos. — Gên 16:7-11; 22:11; 31:11; Êx 3:2-5; Jz 2:1-4; 6:11, 12; 13:3.
+- *com*: Lit.: “em direção a; voltado para”. Neste contexto, a preposição grega pros indica grande proximidade e companheirismo. Também indica que havia duas pessoas diferentes: (1) a Palavra e (2) o único Deus verdadeiro.
+- *a Palavra era um deus*: Ou: “a Palavra era divina; a Palavra era semelhante a um deus”. João está se referindo a uma qualidade ou característica de Jesus Cristo, que ele chama aqui de “a Palavra” (em grego, ho lógos; veja a nota de estudo em a Palavra neste versículo). Jesus é o Filho primogênito de Deus, e por meio dele Deus criou todas as outras coisas. Por isso, ele tem uma posição superior a todas as outras criaturas e pode ser descrito como “um deus; alguém semelhante a um deus; divino; um ser divino”. Muitos preferem traduzir essa declaração como “a Palavra (o Verbo) era Deus”, passando a ideia de que a Palavra era o Deus Todo-Poderoso. Mas existem bons motivos para afirmar que João não queria dizer isso. Primeiro: João diz claramente, tanto antes como depois, que “a Palavra” estava “com Deus”. Segundo: a palavra grega theós (deus) aparece três vezes nos versículos 1 e 2. Na primeira e na terceira ocorrências, João usou o artigo definido antes da palavra theós, mas na segunda ocorrência ele não usou. Muitos estudiosos concordam que essa diferença é importante. Quando a palavra theós está acompanhada do artigo definido nesses versículos, ela se refere ao Deus Todo-Poderoso. Mas, quando ela é usada sem o artigo definido (na segunda ocorrência), ela descreve uma característica da “Palavra”. Por isso, existem Bíblias em alemão, francês e inglês, além de uma Bíblia interlinear em português, que traduzem o texto de um modo parecido com a Tradução do Novo Mundo, passando a ideia de que “a Palavra” era “um deus; divina; um ser divino; de natureza divina; semelhante a um deus”. Antigas traduções do Evangelho de João para o saídico e o boáirico (dialetos da língua copta), que provavelmente foram produzidas nos séculos 3 e 4 d.C., apoiam essa ideia. Elas também traduzem a segunda ocorrência de theós em Jo 1:1 de maneira diferente da primeira. Na segunda ocorrência, theós é uma qualidade que Jesus (a Palavra) tinha, ou seja, ele tinha a mesma natureza de Deus. Mas essas traduções não dão a entender que “a Palavra” era a mesma pessoa que seu Pai, o Deus Todo-Poderoso. Concordando com esse entendimento de Jo 1:1, o texto de Col 2:9 diz que Jesus Cristo tem “toda a plenitude da qualidade divina”. E 2Pe 1:4 diz que até mesmo os que iriam reinar com Cristo ‘participariam da natureza divina’. Terceiro: a palavra grega theós geralmente é usada na Septuaginta como equivalente das palavras hebraicas ʼel e ʼelohím. Essas palavras hebraicas são traduzidas como “Deus”, e entende-se que elas têm o sentido básico de “poderoso; forte”. Elas são usadas para se referir ao Deus Todo-Poderoso, a outros deuses e a humanos. (Veja a nota de estudo em Jo 10:34.) Chamar a Palavra de “um deus” ou de “alguém poderoso” estaria de acordo com a profecia de Is 9:6. Esse texto predisse que o Messias seria chamado de “Deus Poderoso” (não “Deus Todo-Poderoso”) e que ele seria o “Pai Eterno” de todos os que tivessem o privilégio de ser governados por ele. O “zelo de Jeová dos exércitos”, o Pai do Messias, faria isso acontecer. — Is 9:7.
+====
+
+[[v43-1-2]]
+
+^<<v43-1-2,2>>^ Ele estava no princípio com Deus.
+
+[[v43-1-3]]
+
+^<<v43-1-3,3>>^ Todas as coisas vieram a existir por meio dele, e sem ele nem mesmo uma só coisa veio a existir.
+O que veio a existir
+
+[TIP]
+====
+- *O que veio a existir*: Os manuscritos gregos mais antigos não têm nenhuma pontuação nos versículos 3 e 4. A Tradução do Novo Mundo segue a pontuação do texto grego das edições eruditas preparadas por Westcott e Hort, por Nestle e Aland, e pelas Sociedades Bíblicas Unidas. Com essa pontuação, as palavras “o que veio a existir” ficam ligadas ao versículo 4, passando a ideia de que “vida” e “luz” vieram à existência por meio da Palavra. (Col 1:15, 16) Algumas traduções seguem outro entendimento do texto grego e terminam o versículo 3 com um ponto final. Dessa forma, a expressão traduzida como “o que veio a existir” fica ligada ao que João tinha dito antes, passando o seguinte sentido: “. . . e sem ele nem mesmo uma só coisa veio a existir do que veio a existir.” Mas muitos estudiosos apoiam a opção usada na Tradução do Novo Mundo.
+====
+
+[[v43-1-4]]
+
+^<<v43-1-4,4>>^ por meio dele foi a vida, e a vida era a luz dos homens.^&#42;1^
+
+[NOTE]
+====
+. Ou: “da humanidade”.
+====
+
+[TIP]
+====
+- *dele*: Ou seja, da Palavra, ou do Logos. — Veja a nota de estudo em Jo 1:1.
+- *vida . . . luz*: Estes dois assuntos estão presentes em todo o Evangelho de João. Deus é a Fonte da vida, mas ele usou a Palavra (Jesus) para criar todas as coisas. Visto que foi por meio de Jesus que todas as outras formas de vida “vieram a existir” (Jo 1:3), pode-se dizer que a vida veio por meio dele. Também foi por meio de Jesus que Deus tornou possível que humanos imperfeitos condenados à morte pudessem ter a esperança de vida eterna. Assim, ele pode ser corretamente chamado de a vida que se tornou a luz dos homens. O texto de Jo 1:9 chama a Palavra de “a verdadeira luz, que ilumina todo tipo de pessoas”. Quem segue a Jesus, “a luz do mundo”, “terá a luz da vida”. (Jo 8:12) A Palavra é o “Agente Principal da vida”, que ilumina o caminho da humanidade para a vida eterna. — At 3:15.
+====
+
+[[v43-1-5]]
+
+^<<v43-1-5,5>>^ A luz está brilhando na escuridão, mas a escuridão não a venceu.
+
+[[v43-1-6]]
+
+^<<v43-1-6,6>>^ Surgiu um homem enviado como representante de Deus; seu nome era João.
+
+[TIP]
+====
+- *enviado como representante de Deus*: Ou: “comissionado por Deus”. Foi Deus quem deu a João Batista sua missão, que envolvia pregar, ou servir como mensageiro. (Lu 3:2) Além de anunciar a chegada do Messias e do Reino de Deus aos judeus que iam até ele, João os incentivava a se arrependerem de seus pecados. (Mt 3:1-3, 11, 12; Mr 1:1-4; Lu 3:7-9) João serviu como profeta, instrutor (ele tinha discípulos) e evangelizador. — Lu 1:76, 77; 3:18; 11:1; Jo 1:35.
+- *João*: Ou seja, João Batista. Quando o apóstolo João escreveu este Evangelho, ele se referiu a João Batista 19 vezes. Mas, ao contrário de Mateus, Marcos e Lucas, ele não usou nenhuma vez os termos “Batista” ou “o Batizador”. (Veja as notas de estudo em Mt 3:1; Mr 1:4.) Quando o apóstolo João se referia a uma das três Marias, ele sempre deixava claro sobre qual delas ele estava falando. (Jo 11:1, 2; 19:25; 20:1) Mas ele não precisava fazer isso no caso de João Batista. Em seu Evangelho, o apóstolo João não menciona a si mesmo por nome nenhuma vez. Assim, quando ele usava o nome “João”, todos sabiam de qual João ele estava falando. Essa é mais uma evidência de que o apóstolo João foi o escritor deste Evangelho. — Veja a “Introdução a João” e a nota de estudo em João: Título.
+====
+
+[[v43-1-7]]
+
+^<<v43-1-7,7>>^ Esse homem veio como testemunha, a fim de dar testemunho da luz, para que pessoas de todo tipo cressem por meio dele.
+
+[TIP]
+====
+- *como testemunha*: Ou: “em testemunho”. A palavra grega para “testemunho” (martyría) aparece no Evangelho de João mais do que o dobro de vezes que nos outros três Evangelhos juntos. O verbo relacionado, martyréo, traduzido aqui como dar testemunho, aparece 39 vezes no Evangelho de João, mas apenas 2 vezes nos outros Evangelhos. (Mt 23:31; Lu 4:22) Esse verbo é usado com tanta frequência para falar de João, o Batizador, que alguns sugerem que ele deveria ser chamado de “João, a Testemunha”. (Jo 1:8, 15, 32, 34; 3:26; 5:33; veja a nota de estudo em Jo 1:19.) No Evangelho de João, o verbo martyréo também é usado com frequência com relação ao ministério de Jesus. João fala várias vezes sobre Jesus ‘dar testemunho’. (Jo 8:14, 17, 18) E é especialmente interessante que o próprio Jesus disse para Pilatos: “Para isto nasci e para isto vim ao mundo: para dar testemunho da verdade.” (Jo 18:37) No livro de Apocalipse, João se refere a Jesus como “a Testemunha Fiel” e como “a testemunha fiel e verdadeira”. — Ap 1:5; 3:14.
+- *dele*: Ou seja, João Batista. — Compare com At 19:4.
+====
+
+[[v43-1-8]]
+
+^<<v43-1-8,8>>^ Ele não era essa luz, mas veio para dar testemunho dessa luz.
+
+[[v43-1-9]]
+
+^<<v43-1-9,9>>^ Estava para vir ao mundo a verdadeira luz, que ilumina^&#42;1^ todo tipo de pessoas.
+
+[NOTE]
+====
+. Ou: “que dá luz a”.
+====
+
+[TIP]
+====
+- *mundo*: A palavra grega traduzida como “mundo” (kósmos) se refere aqui à humanidade como um todo. Neste versículo, a expressão vir ao mundo parece se referir principalmente ao batismo de Jesus, e não ao nascimento dele. Depois de seu batismo, Jesus se tornou uma luz para a humanidade, realizando o ministério que tinha recebido de seu Pai. — Compare com Jo 3:17, 19; 6:14; 9:39; 10:36; 11:27; 12:46; 1Jo 4:9.
+====
+
+[[v43-1-10]]
+
+^<<v43-1-10,10>>^ Ele estava no mundo, e o mundo veio a existir por meio dele, mas o mundo não o conheceu.^&#42;1^
+
+[NOTE]
+====
+. Ou: “reconheceu”.
+====
+
+[TIP]
+====
+- *o mundo veio a existir por meio dele*: A palavra grega traduzida como “mundo” (kósmos) se refere aqui à humanidade, e não ao planeta Terra. Isso fica claro na parte final do versículo, que diz que o mundo não conheceu a Jesus. Às vezes, a palavra kósmos era usada na literatura grega para se referir ao Universo ou à criação em geral. E pode ser que o apóstolo Paulo tenha usado a palavra com esse sentido quando falou com um grupo de pessoas gregas no Areópago. (At 17:24) Mas nas Escrituras Gregas Cristãs essa palavra geralmente se refere à humanidade como um todo ou a uma parte dela. É verdade que Jesus participou da criação de todas as coisas, incluindo o céu, a Terra e tudo o que há neles. Mas, quando João diz que “o mundo veio a existir por meio” de Jesus, o foco está no papel que ele teve na criação dos humanos. — Gên 1:26; Jo 1:3; Col 1:15-17.
+====
+
+[[v43-1-11]]
+
+^<<v43-1-11,11>>^ Ele veio ao seu próprio povo, mas eles não o aceitaram.
+
+[[v43-1-12]]
+
+^<<v43-1-12,12>>^ No entanto, a todos os que o receberam, ele deu autoridade para se tornarem filhos de Deus, porque exerciam fé no seu nome.
+
+[[v43-1-13]]
+
+^<<v43-1-13,13>>^ E eles nasceram, não do sangue, nem da vontade carnal, nem da vontade do homem, mas de Deus.
+
+[[v43-1-14]]
+
+^<<v43-1-14,14>>^ De modo que a Palavra se tornou carne e residiu entre nós, e nós vimos a sua glória, uma glória como a de um filho unigênito de um pai; ele estava cheio de favor divino e de verdade.
+
+[TIP]
+====
+- *carne*: Ou: “um ser humano”. A palavra grega traduzida como “carne” (sarx) é usada aqui para se referir a um ser físico, um ser vivo feito de carne e osso. O caso de Jesus era diferente do de anjos que tinham simplesmente assumido um corpo humano. (Gên 18:1-3; 19:1; Jos 5:13-15) Quando Jesus nasceu como humano, ele deixou de ser um espírito. Assim, ele podia corretamente dizer que era “o Filho do Homem”. — Jo 1:51; 3:14; veja a nota de estudo em Mt 8:20.
+- *a Palavra se tornou carne*: Jesus foi inteiramente humano, desde seu nascimento até sua morte. Ele explicou o motivo de ter se tornado carne quando disse: “O pão que eu darei é a minha carne a favor da vida do mundo.” (Jo 6:51) Além de cumprir esse objetivo, Jesus só pôde se tornar um Sumo Sacerdote capaz de compreender nossas fraquezas porque foi completamente humano e passou pelas mesmas coisas que uma pessoa de carne e osso passa. (He 4:15) Jesus não era divino e humano ao mesmo tempo, como alguns afirmam. Em vez disso, as Escrituras dizem que ele foi “feito um pouco menor que os anjos”. (He 2:9; Sal 8:4, 5; veja a nota de estudo em carne neste versículo.) Algumas pessoas, porém, não concordavam que Jesus tivesse vindo como carne. Um exemplo disso eram os gnósticos, que acreditavam que o conhecimento (em grego, gnósis) podia ser conseguido de modo místico e misturavam ideias da filosofia grega e do misticismo oriental com os ensinamentos do cristianismo apóstata. Eles afirmavam que tudo o que não é espiritual é, em si mesmo, mau. Por isso, diziam que Jesus não tinha vindo na carne e que apenas parecia ter um corpo humano. Ao que tudo indica, alguns pensamentos gnósticos já tinham se espalhado no fim do século 1 d.C. Assim, o apóstolo João pode ter pensado especificamente nessa crença quando afirmou que “a Palavra se tornou carne”. Em suas cartas, João alertou contra o ensino falso de que Jesus não tinha vindo “na carne”. — 1Jo 4:2, 3; 2Jo 7.
+- *residiu*: Alguns acham que a declaração “a Palavra . . . residiu [lit.: “habitou em tenda”] entre nós” significa que Jesus não era realmente humano. Eles dizem que Jesus era uma encarnação, ou seja, um espírito que se materializou temporariamente como humano. Mas é interessante que em 2Pe 1:13 o apóstolo Pedro chamou seu próprio corpo de “tenda”, usando uma palavra grega relacionada com a que foi usada aqui. Pedro obviamente não estava dizendo que ele era uma encarnação. Ele falou de seu corpo humano como uma tenda porque sabia que logo morreria e que, quando fosse ressuscitado, receberia um corpo espiritual. — 2Pe 1:13-15; veja também 1Co 15:35-38, 42-44; 1Jo 3:2.
+- *nós vimos a sua glória*: João e os outros apóstolos viram Jesus refletir perfeitamente em sua vida e seu ministério as qualidades de Jeová. Por isso, a glória de Jesus era incomparável. Além disso, João, Tiago e Pedro viram a transfiguração de Jesus. (Mt 17:1-9; Mr 9:1-9; Lu 9:28-36) Assim, quando João falou da glória de Jesus, ele talvez estivesse pensando tanto na maneira como Jesus refletia as qualidades de Jeová como na transfiguração que ele tinha presenciado mais de 60 anos antes. A transfiguração também foi marcante para Pedro, que escreveu suas cartas uns 30 anos depois de ter presenciado esse acontecimento. Pedro disse que a transfiguração foi uma confirmação maravilhosa da “palavra profética”. — 2Pe 1:17-19.
+- *um filho unigênito*: A palavra grega monogenés foi traduzida como “unigênito; unigênita” em todas as ocorrências nas edições anteriores da Tradução do Novo Mundo. Ela pode ser definida como “único de sua espécie; sem igual; ímpar”. A Bíblia também usa monogenés com o sentido de “filho único”, e essa palavra pode se referir tanto a filhos como a filhas. (Veja as notas de estudo em Lu 7:12; 8:42; 9:38.) Quando o apóstolo João usa a palavra monogenés, ele está sempre se referindo a Jesus. (Jo 3:16, 18; 1Jo 4:9) Mas ele nunca usa essa palavra para se referir a Jesus durante sua vida humana. Em vez disso, ele usa monogenés para falar da vida que Jesus tinha no céu como o Logos, ou a Palavra, aquele que “estava no princípio com Deus”, mesmo “antes de o mundo existir”. (Jo 1:1, 2; 17:5, 24) Jesus pode ser chamado de “filho unigênito” porque ele foi, não apenas o primeiro Filho de Jeová, mas também o único criado diretamente por ele. Apesar de outras criaturas espirituais também serem chamadas de “filhos do verdadeiro Deus” ou “filhos de Deus” (Gên 6:2, 4; Jó 1:6; 2:1; 38:4-7), Jeová criou todas elas por meio de Jesus, seu Filho primogênito. (Col 1:15, 16). Em resumo, a palavra monogenés se refere tanto a Jesus ser “o único de sua espécie; sem igual; ímpar” como a ele ser o único filho que Jeová criou diretamente, sem a colaboração de mais ninguém. — 1Jo 5:18; veja a nota de estudo em He 11:17.
+- *favor divino*: Ou: “bondade imerecida”. A palavra grega kháris aparece mais de 150 vezes nas Escrituras Gregas Cristãs e pode ter diversas variações de sentido, dependendo do contexto. Quando kháris está relacionada com a bondade imerecida que Deus mostra para com os humanos, a palavra se refere a um presente que Deus dá generosamente, sem esperar uma compensação. É uma demonstração do grande amor e da bondade de Deus, motivada unicamente por sua imensa generosidade, sem que a pessoa que a recebe tenha feito nada para merecer. (Ro 4:4; 11:6) Mas nem sempre a palavra indica que quem recebe a bondade não a merecia. Assim, ela pode ser usada mesmo quando o alvo da bondade de Deus é Jesus. Nesses casos, kháris não foi traduzida como “bondade imerecida”, mas como “favor divino” (neste versículo) ou “favor” (Lu 2:40, 52). Em outros casos, a palavra grega foi traduzida como “favor”, “simpatia” ou “bondosa dádiva”. — Lu 1:30; At 2:47; 7:46; 1Co 16:3; 2Co 8:19.
+- *cheio de favor divino e de verdade*: Jesus Cristo, chamado aqui de “a Palavra”, tinha o favor de Deus e sempre foi verdadeiro. Mas parece que as palavras de João envolvem algo mais, conforme indica o contexto. Jeová, o Pai, escolheu usar seu Filho, Jesus, para explicar e demonstrar de forma perfeita a bondade imerecida e a verdade. (Jo 1:16, 17) E Jesus fez isso tão bem que pôde dizer: “Quem me vê, vê também o Pai.” (Jo 14:9) Assim, Jesus foi o meio que Deus usou para oferecer sua bondade imerecida e o entendimento da verdade a todos os de coração disposto.
+====
+
+[[v43-1-15]]
+
+^<<v43-1-15,15>>^ (João deu testemunho dele, sim, ele clamou: “Este é aquele de quem eu disse: ‘Aquele que vem atrás de mim avançou na minha frente, pois existia antes de mim.’”)
+
+[TIP]
+====
+- *Aquele que vem atrás de mim*: Jesus nasceu uns seis meses depois de João Batista e começou seu ministério depois dele. Foi nesse sentido que Jesus veio “atrás”, ou depois, de João. (Lu 1:24, 26; 3:1-20) Mas Jesus fez muito mais do que João e, por isso, pode-se dizer que Jesus avançou na frente dele, ou foi superior a ele, em todos os sentidos. O próprio João Batista disse que Jesus existia antes dele, mostrando que reconhecia que Jesus tinha vivido no céu antes de nascer como humano.
+====
+
+[[v43-1-16]]
+
+^<<v43-1-16,16>>^ Pois todos nós recebemos da sua plenitude, sim, bondade imerecida sobre bondade imerecida.
+
+[TIP]
+====
+- *bondade imerecida sobre bondade imerecida*: A palavra grega para “bondade imerecida” é kháris. Neste contexto, ela se refere a uma expressão da imensa generosidade, do grande amor e da bondade de Deus. Essa bondade não é merecida; ela é motivada somente pela generosidade de Deus. (Veja o Glossário, “Bondade imerecida”.) O fato de João ter usado a palavra kháris duas vezes, antes e depois da preposição antí (traduzida aqui como “sobre”), passa a ideia de que a bondade imerecida é dada em grande quantidade, de forma contínua ou de forma consecutiva. A ideia também poderia ser expressa como “bondade imerecida contínua [ou: “constante”]”.
+====
+
+[[v43-1-17]]
+
+^<<v43-1-17,17>>^ Porque a Lei foi dada por meio de Moisés; a bondade imerecida e a verdade vieram a existir por meio de Jesus Cristo.
+
+[TIP]
+====
+- *a Lei . . . a bondade imerecida e a verdade*: As Escrituras Gregas Cristãs muitas vezes fazem um contraste entre a Lei mosaica e a “bondade imerecida” (em grego, kháris). (Ro 3:21-24; 5:20, 21; 6:14; Gál 2:21; 5:4; He 10:28, 29) A Lei serviu como um “tutor conduzindo a Cristo” e continha ‘sombras’, ou quadros proféticos, que se cumpriram em Jesus. (Gál 3:23-25; Col 2:16, 17; He 10:1) Entre outras coisas, a Lei ajudou os humanos a terem “a plena consciência do pecado”. (Ro 3:20) E isso os ajudou a entender que “o salário pago pelo pecado é a morte” e que ‘toda transgressão e desobediência recebia uma punição justa’. (Ro 6:23; He 2:2) Aqui, João indica que “a Lei” era diferente da ‘bondade imerecida e da verdade’, que vieram . . . por meio de Jesus Cristo. Jesus tornou realidade as sombras da Lei, incluindo os sacrifícios para perdão de pecados e expiação. (Le 4:20, 26) Jesus também revelou que Deus iria estender a humanos pecadores sua “bondade imerecida” (ou “bondosa dádiva”, como kháris é às vezes traduzida) por dar seu Filho como um sacrifício de expiação. (Col 1:14; 1Jo 4:10, nota de rodapé; veja a nota de estudo em Ro 6:23 e o Glossário, “Bondade imerecida”.) Ao mesmo tempo, Jesus revelou uma nova “verdade”: que seu sacrifício libertaria os humanos do pecado e da morte. — Jo 8:32; veja a nota de estudo em Jo 1:14.
+====
+
+[[v43-1-18]]
+
+^<<v43-1-18,18>>^ Nenhum homem jamais viu a Deus; o deus unigênito, que está ao lado do Pai, é quem O revelou.
+
+[TIP]
+====
+- *o deus unigênito*: Estas palavras se referem à Palavra, “Jesus Cristo”, que João tinha chamado antes de “um deus”. (Jo 1:1, 17) Em outras passagens, João fala que Jesus é o Filho unigênito de Deus. (Jo 1:14; 3:16) Aqui, João chama Jesus de “o deus unigênito”, um título que destaca a posição especial que Deus lhe deu. Jesus pode ser chamado de “um deus” por causa da maneira em que a Bíblia usa a palavra “deus”. Essa palavra tem o sentido básico de “poderoso” e é usada até mesmo para falar de humanos. (Sal 82:6; veja as notas de estudo em Jo 1:1; 10:34.) Jesus é “um deus”, ou alguém poderoso, porque ele recebeu poder e autoridade de seu Pai, o Deus Todo-Poderoso. (Mt 28:18; 1Co 8:6; He 1:2) Visto que Jesus foi o único a ser criado diretamente por Deus e que foi por meio dele que todas as coisas “vieram a existir” (Jo 1:3), ele pode ser chamado corretamente de “o deus unigênito”. Essa expressão mostra que Jesus ocupa uma posição superior e de mais glória do que a dos outros filhos espirituais de Deus. Alguns manuscritos gregos dizem “o Filho unigênito”, e há traduções da Bíblia que seguem esses manuscritos. Mas os manuscritos gregos mais antigos e confiáveis dizem “o deus unigênito” (com o artigo definido) ou “deus unigênito” (sem o artigo definido).
+- *ao lado do Pai*: Lit.: “no seio do Pai”. Dizer que uma pessoa estava “no seio de” outra pessoa era uma figura de linguagem que indicava que elas tinham uma amizade achegada ou grande consideração uma pela outra. Essa figura de linguagem vinha, muito provavelmente, do costume que as pessoas tinham naquela época de tomar refeições deitadas lado a lado em divãs, o que permitia que um amigo se encostasse no peito do outro. (Jo 13:23-25) Ao dizer que Jesus estava “no seio do Pai”, João estava indicando que Jesus é o melhor amigo de Jeová. Assim, ninguém melhor do que Jesus para revelar quem Jeová é e explicar sua personalidade. — Mt 11:27.
+====
+
+[[v43-1-19]]
+
+^<<v43-1-19,19>>^ Este é o testemunho que João deu quando os judeus enviaram sacerdotes e levitas de Jerusalém para lhe perguntar: “Quem é você?”
+
+[TIP]
+====
+- *o testemunho que João deu*: O texto de Jo 1:7 diz que João Batista foi uma “testemunha” (uma forma da palavra grega martyría) que veio para dar testemunho sobre a luz. Aqui neste versículo, a palavra “testemunho” (martyría) é usada para se referir à declaração que João Batista fez sobre Jesus, registrada nos próximos versículos.
+====
+
+[[v43-1-20]]
+
+^<<v43-1-20,20>>^ Ele não se recusou a responder; de fato, ele admitiu: “Eu não sou o Cristo.”
+
+[[v43-1-21]]
+
+^<<v43-1-21,21>>^ Eles lhe perguntaram: “Então, quem é você? Elias?” Ele respondeu: “Não sou.” “Você é o Profeta?” Ele respondeu: “Não!”
+
+[TIP]
+====
+- *Elias*: Veja a nota de estudo em Mt 11:14.
+- *o Profeta*: Ou seja, o profeta que Moisés havia predito e que os judeus aguardavam ansiosamente. — De 18:18, 19; Jo 1:25-27; 6:14; 7:40; At 3:19-26.
+====
+
+[[v43-1-22]]
+
+^<<v43-1-22,22>>^ Portanto lhe disseram: “Quem é você? Diga-nos, para que possamos dar uma resposta aos que nos enviaram. O que você diz a respeito de si mesmo?”
+
+[[v43-1-23]]
+
+^<<v43-1-23,23>>^ Ele disse: “Eu sou a voz de alguém clamando no deserto:^&#42;1^ ‘Endireitem o caminho para Jeová’, conforme disse Isaías, o profeta.”
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[TIP]
+====
+- *deserto*: Veja o Glossário.
+- *Jeová*: Esta é uma citação direta de Is 40:3. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). (Veja os Apêndices A5 e C1.) Os escritores dos Evangelhos de Mateus, Marcos e Lucas aplicam essa profecia a João Batista. Aqui, o apóstolo João cita o próprio João Batista aplicando essa profecia a si mesmo. Ele podia dizer que endireitaria o caminho para Jeová porque prepararia o caminho para Jesus, que viria em nome de seu Pai e serviria como representante dele. — Jo 5:43; 8:29.
+====
+
+[[v43-1-24]]
+
+^<<v43-1-24,24>>^ Os que tinham sido enviados eram dos fariseus.
+
+[[v43-1-25]]
+
+^<<v43-1-25,25>>^ Perguntaram-lhe ainda: “Então, por que você batiza, se você não é o Cristo, nem Elias, nem o Profeta?”
+
+[[v43-1-26]]
+
+^<<v43-1-26,26>>^ João lhes respondeu: “Eu batizo em água. Entre vocês há alguém que vocês não conhecem,
+
+[TIP]
+====
+- *batizo*: Ou: “mergulho”. A palavra grega baptízo significa “imergir; afundar [algo]”. Outros textos da Bíblia indicam que o batismo envolve imergir completamente a pessoa. Por exemplo, o texto de Jo 3:23 diz que João estava batizando em um local no vale do Jordão perto de Salim “porque havia ali uma grande quantidade de água”. Além disso, At 8:39 mostra que, depois de Filipe batizar o eunuco etíope, eles ‘saíram da água’, ou seja, eles estavam dentro da água. E a Septuaginta usou a palavra baptízo em 2Rs 5:14, que diz que Naamã “mergulhou no Jordão sete vezes”.
+====
+
+[[v43-1-27]]
+
+^<<v43-1-27,27>>^ aquele que vem atrás de mim, e eu não sou digno de desamarrar o cordão das suas sandálias.”
+
+[TIP]
+====
+- *sandálias*: Desamarrar, tirar ou carregar as sandálias de alguém era um serviço humilde, geralmente feito por um escravo. — Mt 3:11; Mr 1:7; Lu 3:16.
+====
+
+[[v43-1-28]]
+
+^<<v43-1-28,28>>^ Essas coisas ocorreram em Betânia, do outro lado do Jordão, onde João estava batizando.
+
+[TIP]
+====
+- *Betânia*: Alguns manuscritos dizem aqui “Betabara”, e há traduções da Bíblia que seguem esses manuscritos. Mas os manuscritos mais confiáveis dizem “Betânia”.
+- *Betânia, do outro lado do Jordão*: Ou seja, ao leste do rio Jordão. Esta Betânia é mencionada apenas uma vez nas Escrituras Gregas Cristãs. Havia outra cidade com o mesmo nome, que ficava perto de Jerusalém. (Mt 21:17; Mr 11:1; Lu 19:29; Jo 11:1) Hoje se sabe apenas que a Betânia mencionada aqui ficava na margem leste do Jordão, mas não é possível saber a localização exata. Alguns dizem que ela ficava mais ou menos em linha reta com Jericó, num lugar que é defendido por muitos como o local do batismo de Jesus. Mas esse local é muito distante de Caná da Galileia, e o relato em Jo 1:29, 35, 43 e 2:1 parece indicar um local mais próximo de Caná. Assim, apesar de não ser possível saber a localização exata de Betânia, é mais provável que ela ficasse, não em linha reta com Jericó, mas em um lugar mais ao norte, um pouco mais próximo do mar da Galileia. — Veja o Apêndice B10.
+====
+
+[[v43-1-29]]
+
+^<<v43-1-29,29>>^ No dia seguinte, ele viu que Jesus vinha ao seu encontro e disse: “Vejam o Cordeiro de Deus, que tira o pecado do mundo!
+
+[TIP]
+====
+- *o Cordeiro de Deus*: Depois de Jesus ser batizado e ser tentado pelo Diabo, João Batista apresentou Jesus como “o Cordeiro de Deus”. Essa expressão só aparece aqui e em Jo 1:36. (Veja o Apêndice A7-B.) Comparar Jesus com um cordeiro faz sentido. A Bíblia fala muitas vezes sobre oferecer ovelhas e cordeiros como sacrifício a Deus para mostrar arrependimento pelos pecados e para se aproximar de Deus. Essas ofertas representavam o sacrifício que Jesus faria quando entregasse sua vida humana perfeita pela humanidade. A expressão “o Cordeiro de Deus” pode ser uma referência a várias passagens das Escrituras Hebraicas. Visto que João Batista conhecia bem as Escrituras, ele podia estar pensando em uma ou mais das seguintes coisas: no cordeiro que Abraão ofereceu no lugar de seu filho Isaque (Gên 22:13), no cordeiro pascoal que foi abatido na noite em que os israelitas foram libertados da escravidão no Egito (Êx 12:1-13) ou no cordeiro que era oferecido no altar de Deus em Jerusalém todos os dias de manhã e no início da noite (Êx 29:38-42). João talvez também tivesse em mente a profecia de Isaías que falava sobre um “servo” de Jeová que seria “levado como um cordeiro ao abate”. (Is 52:13; 53:5, 7, 11) Na sua primeira carta aos coríntios, o apóstolo Paulo chamou Jesus de “o nosso cordeiro pascoal”. (1Co 5:7) O apóstolo Pedro falou do “sangue precioso [do Cristo], como o de um cordeiro sem defeito e sem mancha”. (1Pe 1:19) E o livro de Apocalipse se refere mais de 25 vezes ao glorificado Jesus como “o Cordeiro”. — Alguns exemplos são: Ap 5:8; 6:1; 7:9; 12:11; 13:8; 14:1; 15:3; 17:14; 19:7; 21:9; 22:1.
+- *do mundo*: Na literatura grega e especialmente na Bíblia, a palavra grega traduzida aqui como “mundo” (kósmos) está muito ligada com a ideia de “humanidade”. Neste versículo e em Jo 3:16, kósmos se refere à humanidade como um todo. Toda a humanidade precisa ser livrada do pecado, ou seja, do pecado herdado de Adão.
+====
+
+[[v43-1-30]]
+
+^<<v43-1-30,30>>^ Este é aquele a respeito de quem eu disse: ‘Atrás de mim vem um homem que avançou na minha frente, pois existia antes de mim.’
+
+[[v43-1-31]]
+
+^<<v43-1-31,31>>^ Eu mesmo não o conhecia, mas foi por esta razão que eu vim batizando em água: para que ele se tornasse conhecido em Israel.”
+
+[[v43-1-32]]
+
+^<<v43-1-32,32>>^ João também deu o seguinte testemunho: “Observei o espírito descer do céu como pomba e permanecer sobre ele.
+
+[TIP]
+====
+- *como pomba*: As pombas eram usadas na adoração a Deus. Elas podiam ser oferecidas como sacrifício (Mr 11:15; Jo 2:14-16) e também serviam para simbolizar inocência e pureza (Mt 10:16). E a pomba que voltou para a arca de Noé com uma folha de oliveira indicava que as águas do Dilúvio estavam baixando (Gên 8:11) e que a Terra estava entrando num período de paz e descanso (Gên 5:29). Assim, Jeová pode ter feito o espírito santo ter a aparência de uma pomba para chamar atenção ao papel de Jesus como Messias que, como Filho de Deus puro e sem pecado, sacrificaria sua vida pela humanidade. Esse sacrifício abriria as portas para que, no futuro, quando Jesus fosse Rei, a humanidade encontrasse paz e descanso. O modo como o espírito santo, ou força ativa de Deus, se aproximou de Jesus pode ter lembrado uma pomba batendo rapidamente suas asas ao se aproximar de seu ninho.
+====
+
+[[v43-1-33]]
+
+^<<v43-1-33,33>>^ Eu mesmo não o conhecia, mas Aquele que me enviou para batizar em água me disse: ‘Aquele sobre quem você vir o espírito descer e permanecer, esse é quem batiza em espírito santo.’
+
+[[v43-1-34]]
+
+^<<v43-1-34,34>>^ E eu vi isso e dei testemunho de que este é o Filho de Deus.”
+
+[TIP]
+====
+- *o Filho de Deus*: Esta expressão é usada com frequência na Bíblia para se referir a Jesus. (Jo 1:49; 3:16-18; 5:25; 10:36; 11:4) Jeová não é humano e não tem uma esposa literal. Assim, essa expressão só pode ser uma figura de linguagem. Ela ajuda a entender que a relação entre Jeová e Jesus é parecida com a de um pai humano com seu filho e mostra que foi Jeová quem criou Jesus e deu vida para ele. A Bíblia também fala do primeiro homem, Adão, como sendo um “filho de Deus”. — Veja a nota de estudo em Lu 3:38.
+====
+
+[[v43-1-35]]
+
+^<<v43-1-35,35>>^ No dia seguinte, João estava novamente ali, com dois dos seus discípulos,
+
+[TIP]
+====
+- *João . . . com dois dos seus discípulos*: Um destes discípulos de João Batista era “André, irmão de Simão Pedro”. — Veja a nota de estudo em Jo 1:40.
+====
+
+[[v43-1-36]]
+
+^<<v43-1-36,36>>^ e, ao ver Jesus caminhando, disse: “Vejam o Cordeiro de Deus!”
+
+[[v43-1-37]]
+
+^<<v43-1-37,37>>^ Quando os dois discípulos o ouviram dizer isso, eles seguiram Jesus.
+
+[TIP]
+====
+- *os dois discípulos . . . seguiram Jesus*: Estas palavras indicam que os primeiros discípulos de Jesus eram antes discípulos de João Batista. — Veja as notas de estudo em Jo 1:35, 40.
+====
+
+[[v43-1-38]]
+
+^<<v43-1-38,38>>^ Jesus se virou então e, vendo que eles o seguiam, lhes disse: “O que vocês estão procurando?” Eles lhe disseram: “Rabi (que traduzido quer dizer “instrutor”), onde o senhor está hospedado?”
+
+[[v43-1-39]]
+
+^<<v43-1-39,39>>^ Ele lhes disse: “Venham, e verão.” Então eles foram e viram onde ele estava hospedado, e ficaram com ele aquele dia. Era por volta da décima hora.
+
+[TIP]
+====
+- *por volta da décima hora*: Ou seja, por volta das 4 horas da tarde. — Veja a nota de estudo em Mt 20:3.
+====
+
+[[v43-1-40]]
+
+^<<v43-1-40,40>>^ André, irmão de Simão Pedro, foi um dos dois que ouviram as palavras de João e seguiram Jesus.
+
+[TIP]
+====
+- *um dos dois*: Os dois discípulos mencionados aqui são os mesmos de Jo 1:35. Neste versículo, aparece o nome de apenas um deles. O outro provavelmente era o apóstolo João, filho de Zebedeu e escritor deste Evangelho. (Mt 4:21; Mr 1:19; Lu 5:10) Isso faz sentido já que o escritor deste Evangelho, que nunca se identifica por nome, não menciona o apóstolo João por nome nenhuma vez e chama João Batista, simplesmente de “João”. — Veja a nota de estudo em Jo 1:6.
+====
+
+[[v43-1-41]]
+
+^<<v43-1-41,41>>^ Ele primeiro encontrou^&#42;1^ seu irmão, Simão, e lhe disse: “Achamos o Messias” (que traduzido é Cristo),
+
+[NOTE]
+====
+. Ou: “A primeira coisa que ele fez foi encontrar”.
+====
+
+[TIP]
+====
+- *o Messias*: Ou: “o Ungido”. A palavra grega Messías (uma transliteração da palavra hebraica mashíahh) aparece apenas duas vezes nas Escrituras Gregas Cristãs. (Veja Jo 4:25.) A palavra hebraica mashíahh é, na verdade, um título que vem do verbo masháhh, que significa “passar ou espalhar (um líquido)” ou “ungir”. (Êx 29:2, 7) Nos tempos bíblicos, quando um sacerdote, um governante ou um profeta era escolhido, alguém o ungia, ou seja, derramava óleo em sua cabeça. (Le 4:3; 1Sa 16:3, 12, 13; 1Rs 19:16) Aqui em Jo 1:41, o apóstolo João explica que o título “Messias” traduzido é Cristo. O título “Cristo” (em grego, Khristós) aparece mais de 500 vezes nas Escrituras Gregas Cristãs e tem o mesmo significado do título “Messias”, ou seja, “ungido”. — Veja a nota de estudo em Mt 1:1.
+====
+
+[[v43-1-42]]
+
+^<<v43-1-42,42>>^ e então o levou a Jesus. Quando Jesus olhou para ele, disse: “Você é Simão, filho de João. Você será chamado Cefas” (que traduzido é Pedro).
+
+[TIP]
+====
+- *Você é Simão*: As Escrituras usam cinco nomes diferentes para Simão. (Veja as notas de estudo em Mt 4:18; 10:2.) Jesus pelo visto conheceu Simão nessa ocasião e lhe deu o nome semítico de Cefas (Kefás). Esse nome talvez esteja relacionado com a palavra hebraica kefím (rochas), que aparece em Jó 30:6 e Je 4:29. Aqui, o apóstolo João também explica que “Cefas” traduzido é Pedro, um nome grego que significa “um pedaço de rocha”. Na Bíblia, Simão é o único a ser chamado de Cefas ou de Pedro. Jesus conseguiu perceber o que Pedro era no íntimo, assim como ele conseguiu perceber que Natanael era um homem ‘em quem não havia falsidade’. (Jo 1:47; 2:25) Especialmente depois da morte e da ressurreição de Jesus, Pedro mostrou qualidades semelhantes às de uma rocha. Sua influência fortaleceu e deu estabilidade para a congregação. — Lu 22:32; At 1:15, 16; 15:6-11.
+- *João*: De acordo com alguns manuscritos bem antigos, o pai do apóstolo Pedro se chamava João. Mas outros manuscritos do mesmo período dizem que ele se chamava Jona. E em Mt 16:17, Jesus disse que o apóstolo Pedro (Simão) era “filho de Jonas”. (Veja a nota de estudo em Mt 16:17.) De acordo com alguns estudiosos, os nomes gregos traduzidos como João, Jona e Jonas talvez fossem maneiras diferentes de escrever o mesmo nome hebraico.
+====
+
+[[v43-1-43]]
+
+^<<v43-1-43,43>>^ No dia seguinte, Jesus quis partir para a Galileia. Então ele encontrou Filipe e lhe disse: “Seja meu seguidor.”
+
+[[v43-1-44]]
+
+^<<v43-1-44,44>>^ Filipe era de Betsaida, a cidade de André e Pedro.
+
+[[v43-1-45]]
+
+^<<v43-1-45,45>>^ Filipe encontrou Natanael e lhe disse: “Achamos aquele sobre quem Moisés escreveu na Lei, e sobre quem os Profetas também escreveram: Jesus, filho de José, de Nazaré.”
+
+[TIP]
+====
+- *Natanael*: Nome de origem hebraica que significa “Deus deu”. É provável que Natanael fosse outro nome de Bartolomeu, um dos 12 apóstolos de Jesus. (Mt 10:3) O nome Bartolomeu era um nome patronímico (ou seja, que vem do nome do pai) e significa “filho de Tolmai”. Não seria estranho Natanael ser conhecido também por um nome patronímico, já que em Mr 10:46 outro homem é chamado de Bartimeu, que significa “filho de Timeu”. Um dos motivos para acreditar que Bartolomeu e Natanael sejam nomes da mesma pessoa é que os Evangelhos de Mateus, Marcos e Lucas mencionam Bartolomeu junto com Filipe, enquanto no Evangelho de João quem é mencionado junto com Filipe é Natanael. (Mt 10:3; Mr 3:18; Lu 6:14; Jo 1:45, 46) Nos tempos bíblicos, era comum que uma pessoa fosse conhecida por mais de um nome. — Jo 1:42.
+- *Moisés . . . na Lei . . . os Profetas*: Estas palavras fazem lembrar a expressão “a Lei e os Profetas”, que é usada nos Evangelhos muitas vezes, com pequenas variações. (Mt 5:17; 7:12; 11:13; 22:40; Lu 16:16) A “Lei” se refere aos livros de Gênesis a Deuteronômio. “Os Profetas” são os livros das Escrituras Hebraicas escritos pelos profetas. Mas, quando as duas expressões são mencionadas juntas, elas podem se referir a todos os livros das Escrituras Hebraicas. Fica claro que os discípulos mencionados aqui eram estudantes dedicados das Escrituras Hebraicas. Quando Filipe falou que Moisés e os Profetas tinham escrito sobre Jesus, ele talvez estivesse pensando em passagens como Gên 3:15; 22:18; 49:10; De 18:18; Is 9:6, 7; 11:1; Je 33:15; Ez 34:23; Miq 5:2; Za 6:12 e Mal 3:1. Na verdade, muitos textos indicam que as Escrituras Hebraicas como um todo davam testemunho de Jesus. — Lu 24:27, 44; Jo 5:39, 40; At 10:43; Ap 19:10.
+====
+
+[[v43-1-46]]
+
+^<<v43-1-46,46>>^ Mas Natanael lhe disse: “Pode sair algo bom de Nazaré?” Filipe respondeu: “Venha e veja.”
+
+[TIP]
+====
+- *Pode sair algo bom de Nazaré?*: Muitos estudiosos acham que a pergunta de Natanael indica que Nazaré não era uma cidade, e sim uma aldeia insignificante, menosprezada até mesmo pelas pessoas que viviam na Galileia. (Jo 21:2) Alguns que defendem essa ideia mencionam que Nazaré não foi citada por nome nas Escrituras Hebraicas e nos escritos de Josefo, enquanto Jafia, que ficava menos de 3 quilômetros ao sudoeste de Nazaré, foi mencionada tanto em Jos 19:12 como por Josefo. Mas isso não indica necessariamente que Nazaré não era uma cidade, já que nem todas as cidades da Galileia são mencionadas nas Escrituras Hebraicas ou por Josefo. Além disso, é interessante que os Evangelhos sempre se referem a Nazaré usando a palavra grega pólis (cidade), que geralmente indica um local maior do que uma aldeia. (Mt 2:23; Lu 1:26; 2:4, 39; 4:29) Nazaré ficava em uma área cercada por morros que davam vista para a planície de Esdrelom (Jezreel). Essa era uma região bem povoada que tinha várias cidades. Nazaré também ficava perto de rotas comerciais importantes, o que dava a seus habitantes a chance de serem informados pelos viajantes sobre os últimos acontecimentos políticos, sociais e religiosos. (Compare com Lu 4:23.) E Nazaré era grande o suficiente para ter sua própria sinagoga. (Lu 4:16) Assim, parece provável que Nazaré não fosse uma aldeia insignificante. Natanael pode ter feito sua pergunta simplesmente porque ficou surpreso por Filipe acreditar que um homem de Nazaré, perto de onde estavam, poderia ser o Messias, já que as Escrituras diziam que ele viria de Belém de Judá. — Miq 5:2; Jo 7:42, 52.
+====
+
+[[v43-1-47]]
+
+^<<v43-1-47,47>>^ Jesus viu Natanael se aproximar e disse a respeito dele: “Aí está um verdadeiro israelita, em quem não há falsidade.”
+
+[TIP]
+====
+- *um verdadeiro israelita, em quem não há falsidade*: Todos os descendentes de Jacó (Israel) eram israelitas. Mas Jesus não estava simplesmente confirmando que Natanael era descendente de Jacó. O nome Israel significa “aquele que luta (persevera) com Deus”. Jacó ganhou esse nome depois de lutar com um anjo para receber uma bênção. Ele era muito diferente de seu irmão, Esaú, porque dava valor às coisas sagradas e estava disposto a fazer todo esforço necessário para ter a aprovação de Deus. (Gên 32:22-28; He 12:16) As palavras de Jesus a Natanael indicavam que ele podia ser chamado de israelita, não apenas por ser descendente de Jacó, mas porque tinha a mesma fé e a mesma determinação em obedecer a Deus mostradas por Jacó. As palavras de Jesus (que talvez se baseassem no Sal 32:2) também indicavam que não havia nada de hipócrita ou enganoso em Natanael.
+====
+
+[[v43-1-48]]
+
+^<<v43-1-48,48>>^ Natanael lhe perguntou: “Como é que o senhor me conhece?” Jesus lhe respondeu: “Antes de Filipe chamá-lo, enquanto você estava debaixo da figueira, eu vi você.”
+
+[[v43-1-49]]
+
+^<<v43-1-49,49>>^ Natanael lhe disse: “Rabi, o senhor é o Filho de Deus, o senhor é o Rei de Israel.”
+
+[[v43-1-50]]
+
+^<<v43-1-50,50>>^ Jesus lhe respondeu: “Você acredita porque eu lhe disse que o vi debaixo da figueira? Você verá coisas maiores do que estas.”
+
+[TIP]
+====
+- *Você verá coisas maiores do que estas*: Estas palavras de Jesus para Natanael não demoraram em se cumprir. Natanael era de Caná da Galileia e foi ali que Jesus fez seu primeiro milagre transformando água em vinho de excelente qualidade durante uma festa de casamento. (Jo 2:1-11; 21:2) Junto com os outros 11 apóstolos, Natanael mais tarde viu Jesus curar doentes, expulsar demônios e até mesmo ressuscitar mortos. Além disso, o próprio Natanael, assim como os outros apóstolos, recebeu poder para realizar milagres e proclamar: “O Reino dos céus está próximo.” — Mt 10:1-8.
+====
+
+[[v43-1-51]]
+
+^<<v43-1-51,51>>^ Então ele lhe disse: “Digo-lhes com toda a certeza: Vocês verão o céu aberto e os anjos de Deus subindo e descendo para o Filho do Homem.”
+
+[TIP]
+====
+- *com toda a certeza*: Ou: “em toda a verdade”. Lit.: “amém, amém”. A palavra “amém” (em português) e a palavra amén (em grego) são transliterações da palavra hebraica ʼamén, que significa “assim seja” ou “com certeza”. Jesus muitas vezes usava essa palavra antes de fazer uma promessa, profecia ou declaração importante. Era um modo de enfatizar que suas palavras iam se cumprir com certeza e que seus ouvintes podiam confiar nelas. Alguns estudiosos afirmam que não há ninguém que use a palavra amén do mesmo modo que Jesus, nem na Bíblia nem em outros livros considerados sagrados. (Mt 5:18; Mr 3:28; Lu 4:24) Nos 25 lugares em que a palavra aparece no Evangelho de João, ela sempre é repetida (amén amén). Essa repetição não aparece em nenhum outro livro bíblico. Nesta edição da Tradução do Novo Mundo, a expressão “amén amén” foi traduzida como “com toda a certeza” em todas as ocorrências. Algumas outras opções de tradução poderiam ser “com muita certeza” ou “com toda a garantia”. As palavras “Digo-lhes com certeza (toda a certeza)” também poderiam ser traduzidas como “Eu garanto a vocês” ou “Eu digo a verdade a vocês”.
+- *céu*: A palavra grega usada aqui pode se referir ao céu físico (visível) ou ao céu espiritual (invisível).
+- *anjos*: Ou: “mensageiros”. A palavra grega ággelos e a palavra hebraica correspondente malʼákh aparecem na Bíblia um total de quase 400 vezes. Elas têm o sentido básico de “mensageiro”. Quando se referem a mensageiros espirituais, elas são traduzidas como “anjos”, e quando que se referem a humanos, são traduzidas como “mensageiros”. (Gên 16:7; 32:3; Mt 1:20; Tg 2:25; Ap 22:8) Nos poucos casos em que o contexto não deixa claro a quem elas se referem, notas de rodapé muitas vezes mostram a tradução alternativa. (Veja as notas de rodapé em Jó 4:18; 33:23; Ec 5:6; Is 63:9 e o Glossário.) No livro de Apocalipse, que faz uso de muitos simbolismos, algumas vezes a palavra “anjo” pode estar se referindo a humanos. — Ap 2:1, 8, 12, 18; 3:1, 7, 14.
+- *para o Filho do Homem*: Ou “a serviço do Filho do Homem”. Quando Jesus falou sobre anjos . . . subindo e descendo, ele talvez estivesse pensando na visão de Jacó em que anjos subiam e desciam uma escada que chegava aos céus. (Gê 28:12) Essa visão indicava que os anjos têm um papel importante no modo como Jeová cuida dos humanos que têm a aprovação dele. Da mesma forma, Jesus estava indicando que seus seguidores veriam evidências de que ele tinha a ajuda dos anjos e de que seu Pai o guiava e cuidava dele de maneira especial.
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+'''
+
+xref:042-lucas/042-lucas-024.adoc#v42-24-0[&#60; Capítulo Anterior] | <<v43-1-0,Topo>> | xref:043-joao/043-joao-002.adoc#v43-2-0[Próximo Capítulo &#62;]

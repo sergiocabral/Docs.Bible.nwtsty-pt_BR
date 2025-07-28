@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v43-9-0]]
+=== As Boas Novas Segundo João, 9
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Da época da Festividade das Tendas de 32 d.C. em diante (7:2–9:41)
+* Irmãos de Jesus sobem para a festividade; Jesus vai depois e chega na cidade em segredo (7:2-13)
+* Jesus ensina no templo durante a festividade (7:14-24)
+* Pessoas têm opiniões diferentes sobre o Cristo (7:25-52)
+* O Pai dá testemunho sobre Jesus, “a luz do mundo” (8:12-30)
+* Verdadeiros discípulos de Jesus conhecerão a verdade (8:31, 32)
+* Filhos de Abraão fazem as obras de Abraão (8:33-41)
+* Filhos do Diabo fazem o que o Diabo deseja (8:42-47)
+* Jesus e Abraão (8:48-59)
+* Jesus cura um homem que nasceu cego (9:1-12)
+* Fariseus interrogam o homem que foi curado (9:13-34)
+* Cegueira dos fariseus (9:35-41)
+****
+
+[[v43-9-1]]
+
+^<<v43-9-1,1>>^ Enquanto ele ia passando, viu um homem que era cego de nascença.
+
+[[v43-9-2]]
+
+^<<v43-9-2,2>>^ Então seus discípulos lhe perguntaram: “Rabi, quem pecou, este homem ou os seus pais, para ele ter nascido cego?”
+
+[[v43-9-3]]
+
+^<<v43-9-3,3>>^ Jesus respondeu: “Nem este homem pecou, nem os seus pais, mas é para que se mostrem as obras de Deus no caso dele.
+
+[[v43-9-4]]
+
+^<<v43-9-4,4>>^ Temos de fazer as obras Daquele que me enviou enquanto é dia; está chegando a noite, quando ninguém poderá trabalhar.
+
+[TIP]
+====
+- *está chegando a noite*: Na Bíblia, a palavra “noite” às vezes é usada em sentido figurado. Aqui, Jesus usou a palavra para se referir ao período em que ele não poderia trabalhar para o Pai, durante o seu julgamento e execução, e enquanto estivesse morto. — Jó 10:21, 22; Ec 9:10; compare com a nota de estudo em Lu 22:53.
+====
+
+[[v43-9-5]]
+
+^<<v43-9-5,5>>^ Enquanto eu estou no mundo, sou a luz do mundo.”
+
+[[v43-9-6]]
+
+^<<v43-9-6,6>>^ Depois de dizer isso, ele cuspiu no chão, fez lama com a saliva e passou a lama nos olhos do homem;
+
+[TIP]
+====
+- *a saliva*: A Bíblia fala de três ocasiões em que Jesus usou sua saliva ao curar milagrosamente alguém. (Mr 7:31-37; 8:22-26; Jo 9:1-7) É verdade que a saliva era muito usada em remédios tradicionais, mas não era a saliva de Jesus que curava as pessoas. Os milagres de Jesus eram realizados com o poder do espírito de Deus. Antes de o homem cego de nascença ser curado, Jesus disse que ele deveria ‘se lavar no reservatório de Siloé’. (Jo 9:7) O homem cego mostrou que tinha fé em Jesus ao seguir suas instruções. O texto de 2Rs 5:10-14 mostra que Naamã passou por um teste de fé parecido quando precisou se lavar no rio Jordão para ser curado de sua lepra.
+====
+
+[[v43-9-7]]
+
+^<<v43-9-7,7>>^ e lhe disse: “Vá e lave-se no reservatório de Siloé” (que é traduzido “enviado”). Assim, ele foi se lavar e voltou enxergando.
+
+[TIP]
+====
+- *reservatório de Siloé*: Foram encontradas ao sul do Monte do Templo, em Jerusalém, as ruínas de um reservatório do século 1 d.C., que os estudiosos acreditam ser o reservatório de Siloé. Ele fica na base da elevação onde a cidade antiga foi originalmente construída, perto do lugar onde o vale de Tiropeom encontra o vale do Cédron. (Veja o Apêndice B12.) O nome grego Siloám (Siloé) equivale ao nome hebraico Shilóahh. O texto hebraico de Is 8:6 chama de Shilóahh um duto ou canal de água que fazia parte do sistema de abastecimento de Jerusalém. A Septuaginta traduz esse nome usando o nome grego Siloám. O nome Shilóahh pode estar relacionado com o verbo hebraico shaláhh, que significa “enviar”. Isso ajuda a entender por que João diz que Siloé é traduzido como enviado. O reservatório de Siloé era abastecido pela fonte de Giom. Essa fonte é intermitente, ou seja, ela jorra, ou “envia” sua água, de tempos em tempos. O nome Siloé pode estar relacionado com isso. Várias traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J7-14, 16-18, 22 no Apêndice C4) usam Shilóahh aqui em Jo 9:7.
+====
+
+[[v43-9-8]]
+
+^<<v43-9-8,8>>^ Então os vizinhos e os que antes o viam mendigando perguntavam: “Este não é o homem que ficava sentado mendigando?”
+
+[[v43-9-9]]
+
+^<<v43-9-9,9>>^ Alguns diziam: “É ele.” Outros afirmavam: “Não é, mas se parece com ele.” O homem dizia: “Sou eu mesmo.”
+
+[[v43-9-10]]
+
+^<<v43-9-10,10>>^ Assim, perguntaram-lhe: “Então, como os seus olhos foram abertos?”
+
+[[v43-9-11]]
+
+^<<v43-9-11,11>>^ Ele respondeu: “O homem chamado Jesus fez lama, passou-a nos meus olhos e me disse: ‘Vá a Siloé e lave-se.’ Então eu fui, me lavei e comecei a enxergar.”
+
+[[v43-9-12]]
+
+^<<v43-9-12,12>>^ Em vista disso, eles lhe perguntaram: “Onde está esse homem?” Ele respondeu: “Não sei.”
+
+[[v43-9-13]]
+
+^<<v43-9-13,13>>^ E eles levaram aos fariseus o homem que antes era cego.
+
+[[v43-9-14]]
+
+^<<v43-9-14,14>>^ A propósito, o dia em que Jesus fez a lama e abriu os olhos dele era sábado.
+
+[[v43-9-15]]
+
+^<<v43-9-15,15>>^ Portanto, os fariseus também começaram a perguntar ao homem como ele havia recebido visão. Ele lhes respondeu: “Ele pôs lama nos meus olhos, eu me lavei e agora posso enxergar.”
+
+[[v43-9-16]]
+
+^<<v43-9-16,16>>^ Então alguns dos fariseus disseram: “Esse homem não é de Deus, pois não guarda o sábado.” Outros disseram: “Como pode um homem que é pecador realizar sinais desse tipo?” De modo que houve uma divisão entre eles.
+
+[[v43-9-17]]
+
+^<<v43-9-17,17>>^ E perguntaram novamente ao cego: “O que você diz a respeito dele, visto que foram os seus olhos que ele abriu?” O homem respondeu: “Ele é um profeta.”
+
+[[v43-9-18]]
+
+^<<v43-9-18,18>>^ No entanto, os judeus não acreditaram que ele havia sido cego e havia recebido visão, até que chamaram os pais do homem que agora podia enxergar.
+
+[TIP]
+====
+- *os judeus*: Aqui, a palavra “judeus” pelo visto se refere às autoridades judaicas, os líderes religiosos dos judeus. — Veja a nota de estudo em Jo 7:1.
+====
+
+[[v43-9-19]]
+
+^<<v43-9-19,19>>^ Perguntaram-lhes: “Este é o seu filho que vocês dizem que nasceu cego? Como é que agora ele está enxergando?”
+
+[[v43-9-20]]
+
+^<<v43-9-20,20>>^ Seus pais responderam: “Sabemos que este é o nosso filho e que ele nasceu cego.
+
+[[v43-9-21]]
+
+^<<v43-9-21,21>>^ Mas não sabemos como é que agora ele está enxergando, nem sabemos quem abriu os olhos dele. Perguntem a ele. Ele é maior de idade; pode falar por si mesmo.”
+
+[TIP]
+====
+- *Ele é maior de idade*: Ou: “Ele tem idade suficiente”. Esta expressão talvez se refira à idade em que os homens se qualificavam para o serviço militar segundo a Lei mosaica, ou seja, 20 anos. (Núm 1:3) Isso está de acordo com o fato de que João fala dele como “um homem” (Jo 9:1), não uma criança, e diz que ele ficava mendigando (Jo 9:8). Mas alguns consideram que a expressão se refira à idade com que a pessoa atingia a maioridade de acordo com a sociedade judaica, o que acontecia aos 13 anos.
+====
+
+[[v43-9-22]]
+
+^<<v43-9-22,22>>^ Seus pais disseram isso porque estavam com medo dos judeus, pois os judeus já tinham chegado a um acordo para expulsar da sinagoga qualquer pessoa que o reconhecesse como Cristo.
+
+[TIP]
+====
+- *dos judeus*: Aqui, a palavra “judeus” pelo visto se refere às autoridades judaicas, os líderes religiosos dos judeus. — Veja a nota de estudo em Jo 7:1.
+- *expulsar da sinagoga*: Ou: “excomungar; banir da sinagoga”. A palavra grega aposynágogos aparece apenas três vezes nas Escrituras: neste versículo, em Jo 12:42 e em Jo 16:2. Uma pessoa que fosse expulsa da sinagoga seria desprezada e excluída do convívio social com outros judeus, e isso também poderia trazer graves problemas financeiros para a família. O principal objetivo das sinagogas era instruir, mas elas também serviam, até certo ponto, como tribunais locais que tinham a autoridade de aplicar punições, como açoitamento e excomunhão (expulsar alguém de uma comunidade religiosa). — Veja a nota de estudo em Mt 10:17.
+====
+
+[[v43-9-23]]
+
+^<<v43-9-23,23>>^ É por isso que os pais dele disseram: “Ele é maior de idade. Perguntem a ele.”
+
+[[v43-9-24]]
+
+^<<v43-9-24,24>>^ Portanto, chamaram pela segunda vez o homem que tinha sido cego e lhe disseram: “Dê glória a Deus! Sabemos que esse homem é pecador.”
+
+[TIP]
+====
+- *Dê glória a Deus*: Esta era uma expressão idiomática usada para obrigar a pessoa a falar a verdade. Quem usava essa expressão estava como que dizendo: “Dê glória a Deus por falar a verdade” ou “Diga a verdade diante de Deus”. — Compare com Jos 7:19.
+====
+
+[[v43-9-25]]
+
+^<<v43-9-25,25>>^ Ele disse: “Se ele é pecador, não sei. O que eu sei é que eu era cego e agora posso enxergar.”
+
+[[v43-9-26]]
+
+^<<v43-9-26,26>>^ Então eles lhe disseram: “O que ele lhe fez? Como abriu os seus olhos?”
+
+[[v43-9-27]]
+
+^<<v43-9-27,27>>^ Ele lhes respondeu: “Eu já lhes disse, mas vocês não escutaram. Por que querem ouvir de novo? Será que vocês também querem se tornar discípulos dele?”
+
+[[v43-9-28]]
+
+^<<v43-9-28,28>>^ Em vista disso, disseram-lhe com desprezo: “Você é discípulo daquele homem, mas nós somos discípulos de Moisés.
+
+[[v43-9-29]]
+
+^<<v43-9-29,29>>^ Sabemos que Deus falou a Moisés, mas, quanto a esse homem, não sabemos de onde ele vem.”
+
+[[v43-9-30]]
+
+^<<v43-9-30,30>>^ O homem lhes respondeu: “Certamente isso é de admirar! Vocês não sabem de onde ele vem e, contudo, ele abriu os meus olhos.
+
+[[v43-9-31]]
+
+^<<v43-9-31,31>>^ Sabemos que Deus não escuta pecadores, mas, se alguém teme a Deus e faz a sua vontade, ele escuta a essa pessoa.
+
+[[v43-9-32]]
+
+^<<v43-9-32,32>>^ Desde a antiguidade, nunca se ouviu falar que alguém tenha aberto os olhos de um cego de nascença.
+
+[[v43-9-33]]
+
+^<<v43-9-33,33>>^ Se esse homem não fosse de Deus, não poderia fazer absolutamente nada.”
+
+[[v43-9-34]]
+
+^<<v43-9-34,34>>^ Eles lhe responderam: “Você nasceu inteiramente em pecado e mesmo assim ensina a nós?” Então eles o expulsaram.
+
+[[v43-9-35]]
+
+^<<v43-9-35,35>>^ Jesus ouviu dizer que eles o tinham expulsado e, ao encontrá-lo, perguntou: “Você tem fé no Filho do Homem?”
+
+[[v43-9-36]]
+
+^<<v43-9-36,36>>^ O homem respondeu: “Quem é ele, senhor, para que eu possa ter fé nele?”
+
+[[v43-9-37]]
+
+^<<v43-9-37,37>>^ Jesus lhe disse: “Você o viu e, na verdade, é ele quem está falando com você.”
+
+[[v43-9-38]]
+
+^<<v43-9-38,38>>^ O homem disse: “Eu tenho fé nele, Senhor!” E se curvou diante dele.
+
+[TIP]
+====
+- *se curvou diante dele*:  Ou: “se prostrou diante dele; lhe prestou homenagem”. Quando o verbo grego proskynéo é usado em relação a um deus, ele é traduzido como “adorar”. (Mt 4:10; Lu 4:8) Mas neste relato o homem curado, que tinha nascido cego, reconheceu Jesus como representante de Deus e se curvou diante dele. Ele fez isso, não porque encarava Jesus como Deus ou uma divindade, mas porque o reconhecia como o predito “Filho do Homem”, o Messias, que tinha recebido autoridade de Deus. (Jo 9:35) Quando aquele homem se curvou diante de Jesus, ele deve ter feito isso com a mesma intenção de pessoas mencionadas nas Escrituras Hebraicas. Elas se curvavam ao encontrar profetas, reis ou outros representantes de Deus. (1Sa 25:23, 24; 2Sa 14:4-7; 1Rs 1:16; 2Rs 4:36, 37) Em muitas ocasiões, as pessoas se curvaram diante de Jesus para expressar gratidão pelas verdades que Deus as tinha ajudado a entender ou para mostrar reconhecimento pelo favor que tinham recebido de Deus, assim como os servos do passado faziam. — Mt 14:32, 33; 28:5-10, 16-18; Lu 24:50-52; veja também as notas de estudo em Mt 2:2; 8:2; 14:33; 15:25.
+====
+
+[[v43-9-39]]
+
+^<<v43-9-39,39>>^ Jesus disse então: “Vim ao mundo para um julgamento, para que os que não veem possam ver e os que veem se tornem cegos.”
+
+[[v43-9-40]]
+
+^<<v43-9-40,40>>^ Alguns fariseus que estavam com ele ouviram essas coisas e lhe disseram: “Será que nós também somos cegos?”
+
+[[v43-9-41]]
+
+^<<v43-9-41,41>>^ Jesus lhes disse: “Se vocês fossem cegos, não seriam culpados de pecado. Mas, como vocês dizem: ‘Nós vemos’, seu pecado permanece.”
+
+'''
+
+xref:043-joao/043-joao-008.adoc#v43-8-0[&#60; Capítulo Anterior] | <<v43-9-0,Topo>> | xref:043-joao/043-joao-010.adoc#v43-10-0[Próximo Capítulo &#62;]

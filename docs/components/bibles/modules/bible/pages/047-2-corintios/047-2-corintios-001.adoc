@@ -1,0 +1,259 @@
+include::./index.adoc[]
+
+[[v47-1-0]]
+=== A Segunda aos Coríntios, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* A Segunda Carta aos Coríntios: Títulos de livros bíblicos, como este, pelo visto não faziam parte do texto original. Os manuscritos mais antigos indicam que eles foram acrescentados mais tarde, provavelmente para ajudar a identificar os livros. — Veja a nota de estudo em 1Co Título.
+****
+
+.Notas do capítulo
+****
+* A. INTRODUÇÃO (1:1-11)
+* Saudações iniciais de Paulo (1:1, 2)
+* O Deus de todo o consolo nos consola (1:3-7)
+* Paulo quase morreu na província da Ásia (1:8-11)
+* B. PAULO CONFIRMA SEU AMOR PELOS CRISTÃOS EM CORINTO E FALA DO MINISTÉRIO DELE (1:12–7:16)
+* 1. Mudança nos planos de viagem de Paulo (1:12-24)
+* Paulo fala de sua conduta em relação aos coríntios (1:12-14)
+* Paulo se defende da acusação de não ser confiável (1:15-24)
+* 2. O interesse de Paulo no bem-estar dos cristãos em Corinto (2:1-13)
+* Paulo deseja dar alegria aos coríntios (2:1-4)
+* Um pecador é perdoado e aceito de volta na congregação (2:5-11)
+* Paulo não teve alívio porque não encontrou Tito em Trôade (2:12, 13)
+* 3. O ministério glorioso de Paulo e de seus companheiros (2:14–4:6)
+* O ministério é comparado a um desfile triunfal (2:14-17)
+* Cartas de recomendação (3:1-3)
+* Deus qualifica cristãos para serem servos do novo pacto (3:4-6)
+* A glória do ministério do novo pacto é superior (3:7-18)
+* O ministério que faz a luz brilhar por meio do conhecimento glorioso de Deus (4:1-6)
+* 4. Mesmo sendo vasos de barro, Paulo e seus companheiros suportam muitas provações (4:7-18)
+* Com o poder além do normal é possível suportar dificuldades (4:7-15)
+* O sofrimento é momentâneo, mas produz uma glória eterna (4:16-18)
+* 5. O desejo de Paulo de receber sua recompensa celestial (5:1-10)
+* Corpo espiritual será superior (5:1-5)
+* Enquanto estão na Terra, os cristãos ungidos andam pela fé, não pela vista (5:6-10)
+* 6. O ministério da reconciliação (5:11–6:2)
+* O amor que Cristo mostrou impele os cristãos (5:11-15)
+* Os cristãos ungidos estão em união com Cristo e são uma nova criação (5:16-19)
+* Embaixadores substituindo a Cristo suplicam: “Sejam reconciliados com Deus” (5:20, 21)
+* Não se deve perder de vista o objetivo da bondade imerecida de Deus (6:1, 2)
+* 7. Paulo fala de seu ministério (6:3-13)
+* Como os cristãos se recomendam como ministros de Deus (6:3-10)
+* Paulo fala do carinho que tem pelos irmãos em Corinto (6:11-13)
+* 8. Alertas sobre impureza espiritual e idolatria (6:14–7:1)
+* “Não se ponham em jugo desigual com descrentes” (6:14-18)
+* “Purifiquemo-nos de toda imundície da carne e do espírito” (7:1)
+* 9. Paulo se alegra por causa dos coríntios (7:2-16)
+* Paulo tem orgulho dos irmãos em Corinto (7:2-4)
+* Paulo foi consolado com a presença de Tito e com seu bom relato (7:5-7)
+* Tristeza segundo a vontade de Deus e arrependimento levam à salvação (7:8-13a)
+* Paulo se alegra ao saber do bom relacionamento entre Tito e os coríntios (7:13b-16)
+****
+
+[[v47-1-1]]
+
+^<<v47-1-1,1>>^ Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e Timóteo, nosso irmão, à congregação de Deus em Corinto, incluindo todos os santos que estão em toda a Acaia:
+
+[TIP]
+====
+- *Paulo . . . e Timóteo, nosso irmão*: Ou: “De Paulo . . . e Timóteo, nosso irmão”. Paulo é o escritor desta carta aos coríntios, mas ele inclui Timóteo em seus cumprimentos iniciais. Timóteo, pelo visto, estava com Paulo na Macedônia quando esta carta foi escrita, por volta de 55 d.C. (At 19:22) Paulo chama Timóteo de “nosso irmão” porque Timóteo era irmão deles em sentido espiritual.
+- *apóstolo*: Veja a nota de estudo em Ro 1:1.
+- *os santos*: Veja a nota de estudo em Ro 1:7.
+- *Acaia*: Veja a nota de estudo em At 18:12.
+====
+
+[[v47-1-2]]
+
+^<<v47-1-2,2>>^ Que vocês tenham bondade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[TIP]
+====
+- *Que vocês tenham bondade imerecida e paz*: Paulo usa esta saudação em 11 de suas cartas. (Ro 1:7; 1Co 1:3; Gál 1:3; Ef 1:2; Fil 1:2; Col 1:2; 1Te 1:1; 2Te 1:2; Tit 1:4; Flm 3) Ele também usa uma saudação muito parecida em suas cartas a Timóteo, mas acrescenta a qualidade da “misericórdia”. (1Ti 1:2; 2Ti 1:2) Estudiosos perceberam que, em vez de usar o cumprimento comum khaírein (“Saudações!”), Paulo muitas vezes usa uma palavra grega que tem um som parecido, kháris (“bondade imerecida”). Dessa maneira, ele expressa o seu desejo de que as congregações recebam “bondade imerecida”, ou “favor”, de forma plena. (Veja a nota de estudo em At 15:23.) Paulo também inclui a palavra “paz”, que reflete uma saudação comum em hebraico, shalóhm. (Veja a nota de estudo em Mr 5:34.) Ao usar a expressão “bondade imerecida e paz”, Paulo pelo visto está destacando o tipo de relacionamento que os cristãos podem ter com Jeová Deus graças ao resgate. Quando Paulo menciona de onde a bondade imerecida e a paz vêm, ele faz uma separação entre Deus, nosso Pai, e o Senhor Jesus Cristo.
+====
+
+[[v47-1-3]]
+
+^<<v47-1-3,3>>^ Louvado seja o Deus e Pai do nosso Senhor Jesus Cristo, o Pai de ternas misericórdias e o Deus de todo o consolo,
+
+[TIP]
+====
+- *o Pai de ternas misericórdias*: Aqui, o substantivo grego traduzido como “ternas misericórdias” (oiktirmós) se refere a um sentimento de compaixão, ou pena, por outros. Deus é chamado de o Pai, ou a Fonte, de ternas misericórdias porque a compaixão se origina dele e faz parte de quem ele é. Esse sentimento profundo motiva Deus a mostrar misericórdia, agindo a favor dos seus servos leais que estão passando por problemas.
+- *o Deus de todo o consolo*: O substantivo grego paráklesis, traduzido aqui como “consolo”, está relacionado com o verbo parakaléo, que significa literalmente “chamar para o seu lado”. Ele passa a ideia de ficar ao lado de uma pessoa que está triste ou que está passando por problemas, dando ajuda e encorajamento a ela. (Veja a nota de estudo em Ro 12:8.) Alguns sugerem que o destaque que Paulo dá aqui ao consolo que vem de Deus lembra as palavras do profeta Isaías em Is 40:1: “‘Consolem, consolem o meu povo’, diz o seu Deus.” (Veja também Is 51:12.) A palavra grega relacionada parákletos foi traduzida como “ajudador” em Jo 14:26, onde ela se refere ao espírito santo de Jeová. Deus usa sua poderosa força ativa para consolar e dar ajuda em situações que, do ponto de vista humano, parecem não ter solução. — At 9:31; Ef 3:16.
+====
+
+[[v47-1-4]]
+
+^<<v47-1-4,4>>^ que nos consola em todas as nossas provações, para que, com o consolo que recebemos de Deus, possamos consolar outros em qualquer tipo de provação.
+
+[TIP]
+====
+- *consola*: Ou: “encoraja”. — Veja a nota de estudo em 2Co 1:3.
+- *provações*: Ou: “dificuldades; tribulações”. A palavra grega que aparece aqui tem o sentido básico de “angústia, aflição ou sofrimento causado pela pressão das circunstâncias”. Ela muitas vezes é usada para se referir à aflição que é causada pela perseguição. (Mt 24:9; At 11:19; 20:23; 2Co 1:8; He 10:33; Ap 1:9) Esse tipo de tribulação pode incluir ser preso ou morto por manter a integridade. (Ap 2:10) Mas a palavra grega também foi usada na Bíblia para se referir a vários outros tipos de aflição, como a aflição causada pela fome (At 7:11), a aflição causada pela pobreza e outras dificuldades que são comuns na vida dos órfãos e das viúvas (Tg 1:27) e, até mesmo, a aflição que pode surgir na vida em família e no casamento (1Co 7:28).
+====
+
+[[v47-1-5]]
+
+^<<v47-1-5,5>>^ Pois, assim como os nossos sofrimentos pelo Cristo são abundantes, também é abundante o consolo que recebemos por meio do Cristo.
+
+[[v47-1-6]]
+
+^<<v47-1-6,6>>^ Ora, se enfrentamos provações, é para o consolo e a salvação de vocês; e, se estamos sendo consolados, é para o seu consolo, que age para ajudá-los a suportar os mesmos sofrimentos que nós também passamos.
+
+[TIP]
+====
+- *provações*: Ou: “tribulações”. — Veja a nota de estudo em 2Co 1:4.
+====
+
+[[v47-1-7]]
+
+^<<v47-1-7,7>>^ E a nossa esperança a respeito de vocês é firme, pois sabemos que, assim como vocês participam dos sofrimentos, também participarão do consolo.
+
+[[v47-1-8]]
+
+^<<v47-1-8,8>>^ Pois não queremos, irmãos, que vocês fiquem sem saber da tribulação que passamos na província da Ásia. Nós estivemos sob extrema pressão, além das nossas forças, de modo que ficamos muito apreensivos até mesmo quanto à nossa vida.
+
+[TIP]
+====
+- *da tribulação que passamos na província da Ásia*: A Bíblia não deixa claro sobre que ocasião Paulo está falando aqui. Pode ser que ele estivesse pensando no tumulto em Éfeso, descrito em At 19:23-41, ou na ocasião em que ele ‘lutou com feras em Éfeso’, mencionada em 1Co 15:32. (Veja a nota de estudo.) Qualquer uma dessas situações poderia ter custado a vida de Paulo. — 2Co 1:9.
+====
+
+[[v47-1-9]]
+
+^<<v47-1-9,9>>^ De fato, sentimos que tínhamos recebido a sentença de morte. Isso aconteceu para que confiássemos não em nós mesmos, mas no Deus que levanta os mortos.
+
+[[v47-1-10]]
+
+^<<v47-1-10,10>>^ De um perigo de morte tão grande ele nos livrou e nos livrará, e temos esperança nele de que continuará a nos livrar.
+
+[[v47-1-11]]
+
+^<<v47-1-11,11>>^ Vocês também podem nos ajudar com as suas súplicas por nós; assim, muitos darão graças por nossa causa, pelo favor que recebemos em resposta às orações de muitos.
+
+[TIP]
+====
+- *com as suas súplicas por nós*: Ou: “com as suas orações fervorosas por nós”. O substantivo grego déesis, traduzido aqui como “súplicas”, pode ser definido como “apelo sincero e fervoroso”. Nas Escrituras Gregas Cristãs, esse substantivo é usado apenas com respeito a pedidos feitos a Deus. Em vários versículos, a Bíblia destaca o valor de orar por outros cristãos, quer essas orações sejam feitas por uma pessoa quer por um grupo. (Tg 5:14-20; compare com Gên 20:7, 17; 2Te 3:1, 2; He 13:18, 19) Jeová escuta e age para atender as orações que são feitas de coração e que estão em harmonia com a vontade dele. (Sal 10:17; Is 30:19; Jo 9:31; 1Jo 5:14, 15) Uma súplica pode influenciar a decisão de Deus sobre o que ele vai fazer e quando ele vai agir. — Veja a nota de estudo em At 4:31.
+- *em resposta às orações de muitos*: Ou: “por causa dos muitos rostos em oração”. Neste contexto, o texto grego, que diz literalmente “de muitos rostos”, pode passar a ideia de rostos que estão virados em direção a Deus para orar. Paulo também dá a entender que, quando Deus respondesse às orações feitas a favor dele, muitos cristãos se sentiriam motivados a agradecer a Deus. Para Paulo, o mais importante era que Jeová fosse glorificado; os seus interesses pessoais vinham em segundo lugar.
+====
+
+[[v47-1-12]]
+
+^<<v47-1-12,12>>^ Pois nós nos orgulhamos do seguinte: a nossa consciência dá testemunho de que temos nos comportado no mundo, e especialmente em relação a vocês, com santidade e também com a sinceridade que vem de Deus, não com a sabedoria humana, mas com a bondade imerecida de Deus.
+
+[TIP]
+====
+- *sabedoria humana*: Lit.: “sabedoria carnal”. Ou seja, a sabedoria humana deste mundo. — Compare com 1Co 3:19.
+====
+
+[[v47-1-13]]
+
+^<<v47-1-13,13>>^ Pois nós realmente não estamos escrevendo a vocês nada que não sejam capazes de ler e entender, e eu espero que continuem a entender plenamente essas coisas,
+
+[TIP]
+====
+- *que não sejam capazes de ler e entender*: Ou, possivelmente: “que já não saibam bem e entendam”. O sentido literal da palavra grega anaginósko (traduzida aqui como “sejam capazes de ler”) é “saber bem; conhecer bem”. Mas, quando se refere a algo escrito, anaginósko significa “reconhecer” e geralmente é traduzida como “ler” ou “ler em voz alta”. Essa palavra é usada para se referir a ler as Escrituras tanto em público como em particular. — Mt 12:3; Lu 4:16; At 8:28; 13:27.
+- *plenamente*: Lit.: “até o fim”. Aqui, o texto grego usa uma expressão idiomática que, pelo visto, neste contexto significa “plenamente; completamente”. Por outro lado, alguns acreditam que Paulo tenha usado a expressão de forma literal, referindo-se a um período de tempo. Nesse caso, ele estaria expressando seu desejo de que “até o fim” os coríntios continuassem entendendo as coisas que ele tinha mencionado.
+====
+
+[[v47-1-14]]
+
+^<<v47-1-14,14>>^ assim como também entenderam, até certo ponto, que nós somos motivo de orgulho para vocês, como vocês também serão para nós no dia do nosso Senhor Jesus.
+
+[[v47-1-15]]
+
+^<<v47-1-15,15>>^ Assim, com essa confiança, eu pretendia ir visitá-los primeiro, para que vocês tivessem um segundo motivo de alegria;
+
+[TIP]
+====
+- *para que vocês tivessem um segundo motivo de alegria*: Paulo visitou Corinto pela primeira vez em 50 d.C., durante sua segunda viagem missionária. Ele permaneceu na cidade por um ano e meio e ajudou a formar a congregação ali. (At 18:9-11) Enquanto estava em Éfeso, durante sua terceira viagem missionária, Paulo tinha planos de visitar Corinto pela segunda vez. Mas ele não conseguiu fazer a visita naquela ocasião. (1Co 16:5; 2Co 1:16, 23) Quando Paulo falou de um “segundo motivo de alegria”, ele talvez estivesse se referindo a essa segunda visita que ele pretendia fazer. Ou pode ser que ele estivesse se referindo ao seu desejo de fazer uma visita dupla, como ele menciona nos versículos seguintes. — Veja a nota de estudo em 2Co 1:16.
+- *alegria*: Em vez de usar a palavra grega khará (“alegria”), alguns manuscritos gregos usam aqui a palavra kháris, que significa “bondade imerecida; favor; benefício”. Assim, a parte final deste versículo poderia ser traduzida como “para que vocês se beneficiassem duas vezes”. Várias Bíblias em português transmitem essa ideia.
+====
+
+[[v47-1-16]]
+
+^<<v47-1-16,16>>^ pois eu pretendia visitá-los a caminho da Macedônia, e da Macedônia voltar a vocês, e então ser acompanhado por vocês parte do caminho para a Judeia.
+
+[TIP]
+====
+- *eu pretendia visitá-los a caminho da Macedônia*: Em 55 d.C., enquanto estava em Éfeso durante sua terceira viagem missionária, Paulo tinha planos de atravessar o mar Egeu para visitar a congregação em Corinto e de lá ir para a Macedônia. Depois, ele pretendia passar novamente em Corinto na volta para Jerusalém, pelo visto para recolher a dádiva para os irmãos em Jerusalém sobre a qual ele tinha escrito antes. (1Co 16:3) Apesar de essa ter sido a intenção de Paulo, algumas situações lhe deram bons motivos para mudar seus planos. — Veja a nota de estudo em 2Co 1:17.
+====
+
+[[v47-1-17]]
+
+^<<v47-1-17,17>>^ Pois bem, quando planejei isso, será que encarei o assunto levianamente? Ou será que me proponho a fazer as coisas de maneira humana,^&#42;1^ e por isso digo “sim, sim” e depois “não, não”?
+
+[NOTE]
+====
+. Lit.: “segundo a carne”.
+====
+
+[TIP]
+====
+- *será que encarei o assunto levianamente?*: Pelo visto, em uma carta que Paulo escreveu antes de 1 Coríntios (veja a nota de estudo em 1Co 5:9), ele informou aos cristãos daquela congregação que planejava visitá-los a caminho da Macedônia. Mais tarde, em sua primeira carta inspirada aos coríntios, Paulo explicou que tinha mudado seus planos e que só iria visitá-los quando voltasse de lá. (1Co 16:5, 6) Parece que alguns na congregação, talvez os “superapóstolos” (2Co 11:5), usaram isso para acusar Paulo de não cumprir suas promessas. Ao se defender, Paulo mostrou que não tinha ‘encarado o assunto levianamente’. A palavra grega traduzida aqui como “levianamente” passa a ideia de “inconstante”. Ela pode se referir a alguém que não é confiável e que muda de opinião sem pensar nas consequências. Mas Paulo não era inconstante e não planejava as coisas de maneira humana, ou seja, por motivos egoístas ou seguindo raciocínios humanos imperfeitos. Ele teve bons motivos para adiar sua visita. Em 2Co 1:23, Paulo disse que tinha mudado seus planos “para poupar” os coríntios. Ele queria que eles tivessem tempo para aplicar os conselhos que tinha lhes dado em sua carta. Assim, quando ele finalmente fosse a Corinto, sua visita poderia ser mais encorajadora.
+====
+
+[[v47-1-18]]
+
+^<<v47-1-18,18>>^ Mas, assim como Deus é fiel, o que dizemos a vocês não é “sim” e ao mesmo tempo “não”.
+
+[TIP]
+====
+- *“sim” e ao mesmo tempo “não”*: Lit.: “sim e não”. — Veja a nota de estudo em 2Co 1:17.
+====
+
+[[v47-1-19]]
+
+^<<v47-1-19,19>>^ Pois o Filho de Deus, Jesus Cristo, que nós, isto é, eu, Silvano e Timóteo, pregamos entre vocês, não se tornou “sim” e ao mesmo tempo “não”, mas o “sim” se tornou “sim” no caso dele.
+
+[TIP]
+====
+- *Silvano*: Este cristão também é mencionado por Paulo em 1Te 1:1 e 2Te 1:1 e por Pedro em 1Pe 5:12. O livro de Atos, escrito por Lucas, o chama de Silas. Esse livro mostra que ele estava entre os homens que tomavam a liderança na congregação em Jerusalém no século 1 d.C. Além disso, ele era profeta e foi um dos companheiros de Paulo em sua segunda viagem missionária. Pelo visto, Silvano era um cidadão romano e pode ser por isso que seu nome romano foi usado aqui. — At 15:22, 27, 32, 40; 16:19, 37; 17:14; 18:5.
+====
+
+[[v47-1-20]]
+
+^<<v47-1-20,20>>^ Pois, não importa quantas sejam as promessas de Deus, elas se tornaram “sim” por meio dele. Portanto, também é por meio dele que se diz o “amém” a Deus, e isso dá glória a ele por nosso intermédio.
+
+[TIP]
+====
+- *elas se tornaram “sim” por meio dele*: Ou seja, as promessas de Deus foram confirmadas, cumpridas ou realizadas por meio de Jesus. Foi por meio dele — de tudo o que ele ensinou e fez —que todas as promessas registradas nas Escrituras Hebraicas se cumpriram. A integridade perfeita de Jesus enquanto esteve na Terra eliminou qualquer possível motivo para se duvidar das promessas de Deus.
+- *é por meio dele que se diz o “amém” a Deus*: A palavra grega traduzida aqui como “amém” é uma transliteração de uma palavra hebraica que significa “assim seja” ou “certamente”. Em Ap 3:14, Jesus chama a si mesmo de “o Amém”. Jesus pode ser chamado assim porque, enquanto esteve na Terra, ele cumpriu tudo o que tinha sido profetizado sobre ele. Além disso, por ter sido completamente fiel e ter dado sua vida como sacrifício, Jesus se tornou a garantia pessoal (ou “o Amém”) de Deus, confirmando que tudo o que Deus declarou vai se cumprir. Esse papel de Jesus dá ainda mais peso ao “amém” que se diz no final das orações feitas a Deus por meio de Cristo. — Veja a nota de estudo em 1Co 14:16.
+====
+
+[[v47-1-21]]
+
+^<<v47-1-21,21>>^ Mas aquele que garante que nós e vocês pertencemos a Cristo, e quem nos ungiu, é Deus.
+
+[[v47-1-22]]
+
+^<<v47-1-22,22>>^ Ele pôs também o seu selo sobre nós e nos deu a garantia daquilo que virá, isto é, o espírito, em nosso coração.
+
+[TIP]
+====
+- *o seu selo*: Nos tempos bíblicos, os selos eram usados como uma assinatura. Eles serviam para comprovar que algo era autêntico, para identificar o proprietário de um objeto ou para indicar que se concordava com o conteúdo de um documento. Os cristãos ungidos com o espírito santo foram como que selados por Deus. Esse “selo” indica que eles são propriedade dele e têm a esperança de viver no céu. — Ef 1:13, 14.
+- *a garantia daquilo que virá*: Ou: “a entrada (o sinal); o penhor daquilo que virá”. Esta é uma das três vezes que a palavra grega arrabón aparece nas Escrituras Gregas Cristãs. Em todas elas, a palavra está ligada com Deus ungir cristãos com o espírito, ou seja, o espírito santo (ou força ativa) de Deus. (2Co 5:5; Ef 1:13, 14) Essa atuação especial do espírito santo é como o pagamento de uma entrada (ou de um sinal) dada como garantia. Por causa dessa garantia, os cristãos ungidos têm certeza de sua esperança. O pagamento completo, ou prêmio, inclui receber um corpo espiritual imperecível. (2Co 5:1-5) Ele também inclui receber o dom da imortalidade. — 1Co 15:48-54.
+====
+
+[[v47-1-23]]
+
+^<<v47-1-23,23>>^ Chamo a Deus por testemunha contra mim de que é para poupar vocês que ainda não fui a Corinto.
+
+[TIP]
+====
+- *mim*: Ou: “a minha alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v47-1-24]]
+
+^<<v47-1-24,24>>^ Não é que sejamos os donos da sua fé, mas somos colaboradores para a sua alegria, pois é pela sua fé que vocês estão de pé.
+
+[TIP]
+====
+- *Não é que sejamos os donos da sua fé*: Paulo tinha confiança de que, como cristãos fiéis, seus irmãos queriam fazer o que era certo. Ele sabia que eles tinham se mantido firmes por causa de sua própria fé, e não por causa de Paulo ou de outro humano. O verbo grego traduzido como “ser os donos de” (kyrieúo) pode passar a ideia de agir como senhor de outros ou dominar sobre outros. Pedro usou uma palavra relacionada quando disse que os anciãos não deveriam agir como que “dominando sobre os que são a herança de Deus”. (1Pe 5:2, 3) Paulo sabia que a autoridade que tinha como apóstolo não lhe dava o direito de agir como se fosse o senhor de seus irmãos. Além disso, quando Paulo disse somos colaboradores para a sua alegria, ele estava mostrando que não achava que ele e os irmãos que estavam com ele eram superiores aos outros. Eles eram simples servos que estavam fazendo tudo ao seu alcance para ajudar os coríntios a servir a Jeová com alegria.
+====
+
+'''
+
+xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[&#60; Capítulo Anterior] | <<v47-1-0,Topo>> | xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[Próximo Capítulo &#62;]

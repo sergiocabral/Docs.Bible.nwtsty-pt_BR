@@ -1,0 +1,284 @@
+include::./index.adoc[]
+
+[[v43-3-0]]
+=== As Boas Novas Segundo João, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Primeiros milagres de Jesus; da época da Páscoa de 30 d.C. em diante (2:1–3:36)
+* Jesus transforma água em vinho num casamento em Caná da Galileia (2:1-12)
+* Jesus purifica o templo em Jerusalém (2:13-17)
+* Jesus fala a judeus opositores sobre levantar o templo em três dias (2:18-22)
+* Muitos passam a ter fé em Jesus por causa dos sinais que ele realiza (2:23-25)
+* Jesus fala a Nicodemos sobre nascer da água e do espírito (3:1-13)
+* O Filho do Homem será erguido, assim como a serpente foi erguida no deserto (3:14, 15)
+* Deus enviou seu Filho unigênito, não para julgar o mundo, mas para salvá-lo (3:16-21)
+* Último testemunho de João sobre Jesus (3:22-30)
+* Exercer fé no Filho, que vem do alto, leva à vida eterna (3:31-36)
+****
+
+[[v43-3-1]]
+
+^<<v43-3-1,1>>^ Entre os fariseus havia um homem chamado Nicodemos, que era um líder dos judeus.
+
+[TIP]
+====
+- *Nicodemos*: Fariseu que também era um líder dos judeus, ou seja, um membro do Sinédrio. (Veja o Glossário, “Sinédrio”.) O nome Nicodemos, que significa “conquistador do povo”, era um nome comum entre os gregos e, com o tempo, passou a ser usado por alguns judeus. O Evangelho de João é o único que menciona Nicodemos. (Jo 3:4, 9; 7:50; 19:39) Em Jo 3:10, Jesus chamou Nicodemos de “instrutor de Israel”. — Veja a nota de estudo em Jo 19:39.
+====
+
+[[v43-3-2]]
+
+^<<v43-3-2,2>>^ Ele veio a Jesus à noite e lhe disse: “Rabi, sabemos que o senhor veio como instrutor da parte de Deus, pois ninguém pode realizar esses sinais que o senhor realiza a menos que Deus esteja com ele.”
+
+[[v43-3-3]]
+
+^<<v43-3-3,3>>^ Em resposta, Jesus lhe disse: “Digo-lhe com toda a certeza: A menos que alguém nasça de novo, não pode ver o Reino de Deus.”
+
+[TIP]
+====
+- *nasça de novo*: Jesus revelou a Nicodemos que, para alguém “ver o Reino de Deus”, ele precisa nascer de novo. As palavras de Nicodemos no versículo 4 mostram que ele pensou que Jesus estivesse falando de um nascimento literal. Mas, logo depois, Jesus esclareceu que nascer de novo envolvia ‘nascer do espírito’. (Jo 3:5) Aqueles que ‘se tornariam filhos de Deus’ (Jo 1:12) ‘nasceriam, não do sangue, nem da vontade carnal, nem da vontade do homem, mas de Deus’ (Jo 1:13). O apóstolo Pedro usa uma expressão bíblica com o mesmo sentido em 1Pe 1:3, 23, onde ele diz que os cristãos ungidos recebem “um novo nascimento”. Aqui neste versículo, a maioria das Bíblias usa a expressão “nascer de novo”, mas algumas usam a expressão “nascer do alto”. Essa opção também é aceitável já que a palavra grega traduzida como “de novo” (ánothen) geralmente significa “do alto; de cima”. (Jo 3:31; 19:11; Tg 1:17; 3:15, 17) As duas traduções estão de acordo com a ideia de que os que entrariam no Reino teriam um novo nascimento que vem “de Deus”, ou seja, do alto. (1Jo 3:9) Mas, por causa da resposta de Nicodemos, muitos entendem que aqui a palavra grega significa “de novo; novamente”.
+- *o Reino de Deus*: Esta expressão aparece apenas duas vezes no Evangelho de João. — Jo 3:5; veja as notas de estudo em Mt 3:2; Mr 1:15.
+====
+
+[[v43-3-4]]
+
+^<<v43-3-4,4>>^ Nicodemos lhe perguntou: “Como um homem pode nascer quando já é velho? Será que pode entrar no ventre da sua mãe e nascer outra vez?”
+
+[[v43-3-5]]
+
+^<<v43-3-5,5>>^ Jesus respondeu: “Digo-lhe com toda a certeza: A menos que alguém nasça da água e do espírito, não pode entrar no Reino de Deus.
+
+[TIP]
+====
+- *nasça da água e do espírito*: Nicodemos provavelmente sabia dos batismos realizados por João Batista. (Mr 1:4-8; Lu 3:16; Jo 1:31-34) Assim, faz sentido acreditar que, quando Jesus mencionou água, Nicodemos entendeu que Jesus estava falando do batismo em água. Nicodemos também conhecia o modo como as Escrituras Hebraicas usavam a expressão “espírito de Deus”, a força ativa de Deus. (Gên 41:38; Êx 31:3; Núm 11:17; Jz 3:10; 1Sa 10:6; Is 63:11) Por isso, quando Jesus usou a palavra “espírito”, Nicodemos deve ter entendido que ele estava falando do espírito santo. Aquilo que aconteceu com o próprio Jesus ajuda a entender o que ele disse a Nicodemos. Quando Jesus foi batizado em água, o espírito santo desceu sobre ele. Assim, ele ‘nasceu da água e do espírito’. (Mt 3:16, 17; Lu 3:21, 22) Naquele momento, Deus declarou que Jesus era o seu Filho, pelo visto indicando que Jesus tinha sido gerado como um filho espiritual e que tinha a perspectiva de voltar para o céu. Para ‘nascer da água’, os seguidores de Jesus precisam abandonar seu modo de vida anterior, se arrepender dos seus pecados e ser batizados em água. Os que nascem tanto “da água” como “do espírito” são gerados por Deus como filhos espirituais dele, com a promessa de viverem no céu com um corpo espiritual e a perspectiva de serem reis no Reino de Deus. — Lu 22:30; Ro 8:14-17, 23; Tit 3:5; He 6:4, 5.
+- *espírito*: Ou: “força ativa”. A palavra grega pneúma se refere aqui à força ativa de Deus. — Veja o Glossário.
+====
+
+[[v43-3-6]]
+
+^<<v43-3-6,6>>^ O que nasceu da carne é carne, e o que nasceu do espírito é espírito.
+
+[TIP]
+====
+- *O que nasceu da carne é carne*: A palavra grega para “carne” (sarx) é usada aqui para se referir a um ser humano, com as limitações que um corpo de carne e osso tem. — Veja a nota de estudo em Jo 17:2.
+- *é espírito*: Ao que tudo indica, estas palavras se referem a alguém ungido com o espírito de Deus.
+====
+
+[[v43-3-7]]
+
+^<<v43-3-7,7>>^ Não se espante porque eu lhe disse: Vocês têm de nascer de novo.
+
+[[v43-3-8]]
+
+^<<v43-3-8,8>>^ O vento sopra para onde quer, e ouve-se o som dele, mas não se sabe de onde ele vem nem para onde vai. Assim é com todo aquele que nasce do espírito.”
+
+[TIP]
+====
+- *vento . . . espírito*: A palavra grega pneúma é geralmente traduzida como “espírito”. Aqui ela aparece duas vezes e, na primeira vez, foi traduzida como “vento”. Este é o único lugar das Escrituras Gregas Cristãs em que pneúma foi traduzida como “vento”, embora a palavra hebraica correspondente, rúahh, tenha sido traduzida como “vento” umas 100 vezes nas Escrituras Hebraicas. (Gên 8:1; Êx 10:13; 1Rs 18:45; Jó 21:18; Za 2:6; veja o Glossário, “Espírito”.) Tanto a palavra grega quanto a hebraica geralmente se referem a algo invisível e, com frequência, passam a ideia de uma força em ação. Jesus usou pneúma para ensinar uma verdade profunda. Na segunda vez que a palavra foi usada neste versículo, ela aparece na frase todo aquele que nasce do espírito, ou seja, que é gerado pelo espírito santo, ou força ativa, de Deus. (Veja a nota de estudo em Jo 3:5.) Jesus estava explicando para Nicodemos que ‘nascer do espírito’ podia ser comparado com o sopro do vento. Nicodemos podia ouvir, sentir e até ver os efeitos do vento, mas ele não era capaz de entender qual era a fonte do vento nem saber seu destino final. Da mesma forma, quem não tivesse compreensão espiritual acharia difícil entender como Jeová, por meio do seu espírito santo, podia fazer alguém nascer de novo. Também seria difícil entender o futuro glorioso que aguarda os que nascem de novo.
+====
+
+[[v43-3-9]]
+
+^<<v43-3-9,9>>^ Então Nicodemos lhe perguntou: “Como essas coisas são possíveis?”
+
+[[v43-3-10]]
+
+^<<v43-3-10,10>>^ Jesus respondeu: “O senhor é instrutor de Israel e ainda assim não sabe essas coisas?
+
+[[v43-3-11]]
+
+^<<v43-3-11,11>>^ Digo-lhe com toda a certeza: Falamos do que sabemos e damos testemunho do que vimos, mas vocês não aceitam o testemunho que damos.
+
+[[v43-3-12]]
+
+^<<v43-3-12,12>>^ Se eu lhes falei de coisas terrenas e mesmo assim vocês não acreditam, como acreditarão se eu lhes falar de coisas celestiais?
+
+[[v43-3-13]]
+
+^<<v43-3-13,13>>^ Além disso, nenhum homem subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem.
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v43-3-14]]
+
+^<<v43-3-14,14>>^ E, assim como Moisés ergueu a serpente no deserto, assim será erguido o Filho do Homem
+
+[TIP]
+====
+- *assim será erguido o Filho do Homem*: Jesus comparou a morte que teria na estaca com o que tinha acontecido no deserto quando Moisés colocou uma serpente de cobre em um poste. Naquela ocasião, muitos israelitas tinham sido picados por serpentes venenosas e precisavam olhar para a serpente de cobre para continuar vivos. Da mesma forma, por serem pecadores, os humanos que desejam viver para sempre precisam olhar atentamente para Jesus por exercer fé nele. (Núm 21:4-9; He 12:2) De acordo com a Lei mosaica, quem era pendurado em um madeiro (ou estaca) era considerado amaldiçoado por Deus. (De 21:22, 23) Por isso, o modo como Jesus morreu passou a impressão de que ele era um criminoso, um pecador. Mas Paulo, citando Deuteronômio, explicou que Jesus precisava ser pendurado em um madeiro para libertar os judeus “da maldição da Lei por se tornar maldição em [lugar deles]”. — Gál 3:13; 1Pe 2:24.
+====
+
+[[v43-3-15]]
+
+^<<v43-3-15,15>>^ para que todo aquele que nele crer tenha vida eterna.
+
+[[v43-3-16]]
+
+^<<v43-3-16,16>>^ “Porque Deus amou tanto o mundo, que deu o seu Filho unigênito, para que todo aquele que nele exercer fé não seja destruído, mas tenha vida eterna.
+
+[TIP]
+====
+- *amou*: Esta é a primeira vez que o verbo grego agapáo (amar) aparece no Evangelho de João. No total, esse verbo e o substantivo relacionado, agápe (amor), aparecem 44 vezes neste Evangelho — mais vezes do que nos outros três Evangelhos juntos. Na Bíblia, agapáo e agápe com frequência se referem ao tipo de amor que não é egoísta e que é guiado, ou governado, por princípios. Uma prova disso é o uso de agapáo aqui neste versículo, que diz que Deus amou o mundo, ou seja, a humanidade pecadora que precisa ser resgatada. (Jo 1:29) O apóstolo João também usou a palavra agápe em 1Jo 4:8, que diz: “Deus é amor.” E, em Gál 5:22, Paulo cita o amor (agápe) como o primeiro aspecto do “fruto do espírito”. Ele também descreve em detalhes esse tipo de amor em 1Co 13:4-7. O modo como a palavra é usada nas Escrituras mostra que o amor muitas vezes é mais do que um sentimento que se tem naturalmente por alguém. Em muitos contextos, agápe envolve fazer um esforço consciente para demonstrar amor e se preocupar com as necessidades dos outros. (Mt 5:44; Ef 5:25) Assim, o amor que os cristãos se esforçam para desenvolver precisa incluir um senso moral que leva em consideração princípios, deveres e o que é correto. Ao mesmo tempo, ele não é frio ou mecânico; muitas vezes envolve um sentimento carinhoso que vem do coração. (1Pe 1:22) Isso fica claro no Evangelho de João. Quando João escreveu em Jo 3:35 que “o Pai ama o Filho”, ele usou uma forma de agapáo. Mas, quando registrou as palavras do próprio Jesus falando desse amor que o Pai sente pelo Filho, João usou uma forma do verbo grego filéo, que envolve sentimentos de carinho e afeto. — Jo 5:20.
+- *o mundo*: Na literatura grega e especialmente na Bíblia, a palavra grega traduzida aqui como “mundo” (kósmos) está muito ligada com a ideia de “humanidade”. (Veja a nota de estudo em Jo 1:10.) Neste versículo, kósmos se refere a toda a humanidade que pode ser resgatada e que, em Jo 1:29, é descrita como culpada de “pecado”, ou seja, do pecado herdado de Adão.
+- *Filho unigênito*: A palavra grega monogenés foi traduzida como “unigênito; unigênita” em todas as ocorrências nas edições anteriores da Tradução do Novo Mundo. Ela pode ser definida como “único de sua espécie; sem igual; ímpar”. Sempre que o apóstolo João usa a palavra monogenés, ele está se referindo a Jesus. (Jo 1:14; 3:18; 1Jo 4:9; veja a nota de estudo em Jo 1:14.) Apesar de outras criaturas espirituais também serem chamadas de “filhos do verdadeiro Deus” ou “filhos de Deus”, Jesus é o único chamado de “Filho unigênito”. (Gên 6:2, 4; Jó 1:6; 2:1; 38:4-7) Jesus é o Filho primogênito de Deus e foi o único criado diretamente por seu Pai. Nesse sentido, ele é ímpar, diferente de todos os outros filhos de Deus. Jeová gerou, ou criou, todos eles por meio de seu Filho primogênito. O apóstolo Paulo usou a palavra monogenés de maneira parecida quando falou de Isaque como o “único filho” de Abraão. (He 11:17) Abraão também era pai de Ismael, por meio de Agar, e teve vários filhos com Quetura. (Gên 16:15; 25:1, 2; 1Cr 1:28, 32) Mas Isaque foi o filho “único”, ou unigênito, em um sentido especial; ele foi o único gerado por meio de uma promessa de Deus e o único filho de Abraão com Sara. — Gên 17:16-19.
+- *nele exercer fé*: Lit.: “nele acreditar para dentro”. O verbo grego usado aqui é pisteúo (relacionado com o substantivo pístis, geralmente traduzido como “fé”) e tem o sentido básico de “acreditar; ter fé”. Mas ele pode ter diferentes variações de sentido, dependendo do contexto e da construção gramatical. O verbo pisteúo muitas vezes indica mais do que simplesmente acreditar ou reconhecer que alguém existe. (Tg 2:19) Ele inclui a ideia de fé e confiança que levam alguém a obedecer. Em Jo 3:16, pisteúo é usado junto com a preposição eis, “para dentro”. Falando sobre essa passagem, um estudioso disse: “Entende-se que fé seja uma ação, algo que os homens fazem, i.e., depositar fé dentro de alguém.” (An Introductory Grammar of New Testament Greek, Paul L. Kaufman, 1982, página 46) Jesus estava se referindo, não a um único ato de fé, mas a um modo de vida que evidencia fé. Uma expressão similar à usada neste versículo aparece em Jo 3:36, onde o apóstolo João faz um contraste entre “quem exerce fé no Filho” e “quem desobedece ao Filho”. Assim, em Jo 3:36, “exercer fé” inclui a ideia de mostrar que se acredita ou que se tem forte fé no Filho por obedecer a ele.
+====
+
+[[v43-3-17]]
+
+^<<v43-3-17,17>>^ Pois Deus não enviou seu Filho ao mundo para que ele julgasse o mundo, mas para que o mundo fosse salvo por meio dele.
+
+[TIP]
+====
+- *julgasse*: Ou: “condenasse”. Jeová não enviou seu Filho para julgar e condenar o mundo, ou seja, a humanidade. Em vez disso, por amor, ele enviou Jesus para salvar os que exercessem fé. — Jo 3:16; 2Pe 3:9.
+====
+
+[[v43-3-18]]
+
+^<<v43-3-18,18>>^ Quem exerce fé nele não será julgado. Quem não exerce fé já foi julgado, porque não exerceu fé no nome do Filho unigênito de Deus.
+
+[TIP]
+====
+- *julgado*: Ou: “condenado”. — Veja a nota de estudo em Jo 3:17.
+====
+
+[[v43-3-19]]
+
+^<<v43-3-19,19>>^ Então, esta é a base para o julgamento: a luz veio ao mundo, mas os homens^&#42;1^ amaram a escuridão em vez da luz, porque as obras deles eram más.
+
+[NOTE]
+====
+. Ou: “as pessoas”.
+====
+
+[TIP]
+====
+- *a luz*: A primeira ocorrência da palavra “luz” neste versículo se refere a Jesus. A vida e os ensinamentos de Jesus iluminaram a humanidade e refletiram o conhecimento e a luz espiritual que vinham de Jeová Deus. Jesus também é chamado de “luz” em Jo 1:7-9. — Para uma explicação sobre a expressão veio ao mundo, veja a nota de estudo em Jo 1:9.
+====
+
+[[v43-3-20]]
+
+^<<v43-3-20,20>>^ Pois quem pratica coisas ruins odeia a luz e não se chega à luz, para que as suas obras não sejam reprovadas.^&#42;1^
+
+[NOTE]
+====
+. Ou: “expostas”.
+====
+
+[[v43-3-21]]
+
+^<<v43-3-21,21>>^ Mas quem faz o que é verdadeiro se chega à luz, para que se veja claramente que as suas obras são feitas em harmonia com a vontade de Deus.”
+
+[[v43-3-22]]
+
+^<<v43-3-22,22>>^ Depois disso, Jesus e seus discípulos foram para a zona rural da Judeia; ali ele passou algum tempo com eles, e batizava.
+
+[TIP]
+====
+- *ele . . . batizava*: Ao que tudo indica, o batismo era realizado sob a supervisão de Jesus, já que Jo 4:2 diz que ‘Jesus não batizava, mas sim os seus discípulos’.
+====
+
+[[v43-3-23]]
+
+^<<v43-3-23,23>>^ Mas João também estava batizando em Enom, perto de Salim, porque havia ali uma grande quantidade de água, e as pessoas iam a ele e eram batizadas.
+
+[TIP]
+====
+- *batizando*: Ou: “mergulhando”. A palavra grega baptízo significa “imergir; afundar [algo]”. A Bíblia indica que o batismo envolve mergulhar completamente a pessoa. Por exemplo, este versículo diz que João estava batizando em Enom “porque havia ali uma grande quantidade de água”. (Veja a nota de estudo em Enom neste versículo.) Além disso, At 8:39 mostra que, depois de Filipe batizar o eunuco etíope, eles ‘saíram da água’, ou seja, eles estavam dentro da água. E a Septuaginta usou a palavra baptízo em 2Rs 5:14, que diz que Naamã “mergulhou no Jordão sete vezes”.
+- *Enom*: Um lugar em que havia uma grande quantidade de água. Enom ficava perto de Salim, que pelo visto era um lugar mais conhecido. Não se sabe exatamente onde esses dois lugares ficavam, mas Eusébio indica um local no vale do Jordão, cerca de 8 milhas romanas (12 quilômetros) ao sul de Citópolis (Bete-Seã). Este é o local onde hoje fica Tell Ridgha (Tel Shalem), que alguns acreditam ser Salim. Perto dali, existem várias fontes de água que podem se encaixar na descrição que Eusébio fez de Enom. Este é o único versículo da Bíblia em que Enom e Salim são mencionados.
+====
+
+[[v43-3-24]]
+
+^<<v43-3-24,24>>^ Nessa época, João ainda não tinha sido lançado na prisão.
+
+[[v43-3-25]]
+
+^<<v43-3-25,25>>^ Então os discípulos de João tiveram uma discussão com um judeu sobre a purificação.
+
+[[v43-3-26]]
+
+^<<v43-3-26,26>>^ E eles foram dizer a João: “Veja, Rabi, o homem que estava com o senhor do outro lado do Jordão, de quem o senhor deu testemunho, está batizando, e todos vão a ele.”
+
+[TIP]
+====
+- *do outro lado do Jordão*: Ou: “do lado leste do Jordão”. Os dois lugares mencionados em Jo 3:23, Enom e Salim, ficavam do lado oeste do rio Jordão. João batizou Jesus em “Betânia, do outro lado do Jordão”, ou seja, do lado leste. — Veja a nota de estudo em Jo 1:28 e o Apêndice B10.
+====
+
+[[v43-3-27]]
+
+^<<v43-3-27,27>>^ Em resposta, João disse: “Um homem não pode receber nem uma única coisa a menos que lhe seja dada do céu.
+
+[[v43-3-28]]
+
+^<<v43-3-28,28>>^ Vocês mesmos são testemunhas de que eu disse: ‘Eu não sou o Cristo, mas fui enviado na frente dele.’
+
+[[v43-3-29]]
+
+^<<v43-3-29,29>>^ Quem tem a noiva é o noivo. Mas, quando o amigo do noivo está por perto e o ouve, tem muita alegria por causa da voz do noivo. Por isso a minha alegria ficou completa.
+
+[TIP]
+====
+- *o amigo do noivo*: Nos tempos bíblicos, um amigo achegado do noivo agia como seu representante legal e tinha um papel importante nos preparativos para o casamento. Por isso, ele era visto como a pessoa que unia a noiva e o noivo. No dia do casamento, um cortejo levava a noiva da casa de seu pai até a casa do noivo ou do pai do noivo, e ali era realizada a festa de casamento. Durante a festa, o amigo do noivo ficava contente quando ouvia a voz do noivo falando com a noiva, porque ele sentia que tinha cumprido bem o seu papel. João Batista se comparou ao “amigo do noivo”. Nesse caso, Jesus era o noivo, e seus discípulos como grupo eram a noiva. João Batista preparou o caminho para o Messias apresentando a Jesus Cristo os primeiros membros da “noiva” dele. (Jo 1:29, 35; 2Co 11:2; Ef 5:22-27; Ap 21:2, 9) Assim, ele realizou seu trabalho como “o amigo do noivo”. Depois disso, seu papel já não seria tão importante. Foi por isso que ele disse: “Ele [Jesus] tem de continuar aumentando, mas eu tenho de continuar diminuindo.” — Jo 3:30.
+====
+
+[[v43-3-30]]
+
+^<<v43-3-30,30>>^ Ele tem de continuar aumentando, mas eu tenho de continuar diminuindo.”
+
+[[v43-3-31]]
+
+^<<v43-3-31,31>>^ Aquele que vem do alto está acima de todos os outros.^&#42;1^ Quem é da terra é da terra e fala as coisas da terra. Aquele que vem do céu está acima de todos os outros.
+
+[NOTE]
+====
+. Ou: “de todas as coisas”.
+====
+
+[TIP]
+====
+- *Aquele que vem do alto*: As palavras deste versículo até o final do capítulo parecem ser do escritor deste Evangelho, o apóstolo João, e não uma continuação das palavras de João Batista ou uma citação direta de palavras de Jesus. Ao analisar o capítulo 3, é possível chegar à seguinte conclusão: A conversa de Jesus com Nicodemos, que começa em Jo 3:2, vai até o Jo 3:21. Depois disso, até Jo 3:25, o apóstolo João relata alguns acontecimentos. De Jo 3:26 até Jo 3:30, ele relata outra conversa, dessa vez entre João Batista e seus discípulos. E em Jo 3:31-36 João volta a registrar suas próprias palavras. Apesar de João não ter atribuído a Jesus as palavras desses versículos, elas sem dúvida refletem verdades que Jesus ensinou a ele.
+====
+
+[[v43-3-32]]
+
+^<<v43-3-32,32>>^ Ele dá testemunho das coisas que viu e ouviu, mas ninguém aceita seu testemunho.
+
+[[v43-3-33]]
+
+^<<v43-3-33,33>>^ Quem aceita seu testemunho confirma que Deus é verdadeiro.
+
+[TIP]
+====
+- *confirma*: Lit.: “sela”. A palavra grega para “selar; colocar um selo em” é usada aqui em sentido figurado. Ela passa a ideia de confirmar que uma declaração é verdadeira, da mesma forma que um selo confirma que um documento é autêntico, ou verdadeiro. A pessoa que aceita o testemunho do Messias reconhece que Deus é verdadeiro — nesse caso, em relação ao que ele profetizou sobre o Messias. — Compare com Ro 3:4.
+====
+
+[[v43-3-34]]
+
+^<<v43-3-34,34>>^ Pois aquele que Deus enviou fala as declarações de Deus, porque Ele não dá o espírito de forma escassa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “por medida”.
+====
+
+[[v43-3-35]]
+
+^<<v43-3-35,35>>^ O Pai ama o Filho e entregou todas as coisas em suas mãos.
+
+[[v43-3-36]]
+
+^<<v43-3-36,36>>^ Quem exerce fé no Filho tem vida eterna; quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele.
+
+[TIP]
+====
+- *exerce fé . . . desobedece*: Veja a nota de estudo em Jo 3:16.
+====
+
+'''
+
+xref:043-joao/043-joao-002.adoc#v43-2-0[&#60; Capítulo Anterior] | <<v43-3-0,Topo>> | xref:043-joao/043-joao-004.adoc#v43-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,373 @@
+include::./index.adoc[]
+
+[[v43-4-0]]
+=== As Boas Novas Segundo João, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Jesus passa por Samaria a caminho da Galileia (4:1-54)
+* Jesus, cansado, chega ao poço de Jacó, na cidade de Sicar, em Samaria (4:1-6)
+* Jesus começa uma conversa com uma mulher samaritana (4:7-15)
+* Jesus ensina a mulher samaritana sobre a adoração verdadeira (4:16-24)
+* Jesus revela para a mulher samaritana que ele é o Messias (4:25, 26)
+* A mulher samaritana dá testemunho a outros (4:27-30)
+* Jesus compara fazer a vontade de Deus com alimento; ele fala de uma colheita espiritual (4:31-38)
+* Muitos samaritanos depositam fé em Jesus como “o salvador do mundo” (4:39-42)
+* Em Caná da Galileia, Jesus cura a distância o filho de um funcionário real (4:43-54)
+****
+
+[[v43-4-1]]
+
+^<<v43-4-1,1>>^ Quando o Senhor soube que os fariseus tinham ouvido falar que ele, Jesus, fazia e batizava mais discípulos do que João
+
+[[v43-4-2]]
+
+^<<v43-4-2,2>>^ (embora o próprio Jesus não batizasse, mas sim os seus discípulos),
+
+[[v43-4-3]]
+
+^<<v43-4-3,3>>^ ele deixou a Judeia e partiu novamente para a Galileia.
+
+[[v43-4-4]]
+
+^<<v43-4-4,4>>^ Mas era necessário que passasse por Samaria.
+
+[TIP]
+====
+- *Samaria*: Nos dias de Jesus, Samaria era o nome de um distrito romano. Jesus passou por Samaria em algumas de suas viagens e, mais tarde, seus discípulos levaram os ensinos cristãos até lá. Hoje não se sabe quais eram os limites exatos desse distrito. O que se sabe é que Samaria ficava entre a Galileia (no norte) e a Judeia (no sul), e ia desde o rio Jordão (no leste) até as planícies da costa do mar Mediterrâneo (no oeste). A maior parte de Samaria ficava dentro dos antigos territórios da tribo de Efraim e da meia tribo de Manassés (ao oeste do Jordão). Apesar de Jesus às vezes passar por Samaria na ida ou na volta de suas viagens para Jerusalém (Jo 4:3-6; Lu 9:51, 52; 17:11), ele disse que seus discípulos deviam evitar pregar em cidades samaritanas. A principal designação deles era ir “às ovelhas perdidas da casa de Israel”, ou seja, aos judeus. (Mt 10:5, 6) Mas isso seria apenas temporário. Logo antes de voltar para o céu, Jesus disse para seus discípulos levarem as boas novas a “Samaria” e “até a parte mais distante da terra”. (At 1:8, 9) Quando uma grande perseguição começou em Jerusalém, alguns dos discípulos, incluindo Filipe, pregaram as boas novas em toda a Samaria. Mais tarde, Pedro e João foram enviados até lá para que os samaritanos pudessem receber o espírito santo. — At 8:1-17, 25; 9:31; 15:3.
+====
+
+[[v43-4-5]]
+
+^<<v43-4-5,5>>^ Assim, ele chegou a uma cidade de Samaria chamada Sicar, perto do campo que Jacó tinha dado ao seu filho José.
+
+[TIP]
+====
+- *Sicar*: Alguns estudiosos acreditam que esta cidade de Samaria ficava no local em que hoje existe a aldeia de ʽAskar (próximo de Nablus), cerca de 1 quilômetro ao nordeste de Siquém (Tell Balata) e a uns 700 metros do poço de Jacó. (Veja os Apêndices B6 e B10.) Outros acreditam que Sicar e Siquém fossem o mesmo lugar. Eles se baseiam em alguns antigos escritores não bíblicos e no Códice Sinaítico Siríaco, que usa “Siquém” neste versículo. Mas os melhores manuscritos gregos dizem “Sicar”, e descobertas arqueológicas mostram que o local onde Siquém ficava não era habitado na época do relato de João.
+====
+
+[[v43-4-6]]
+
+^<<v43-4-6,6>>^ De fato, ali ficava o poço de Jacó. E Jesus, cansado da viagem, estava sentado junto ao poço. Era por volta da sexta hora.
+
+[TIP]
+====
+- *o poço de Jacó*: Muitos acreditam que ele seja o poço que fica em Bir Yaʽqub (Beʼer Yaʽaqov), cerca de 2,5 quilômetros ao sudeste da cidade de Nablus e não muito longe de Tell Balata, o local onde ficava Siquém. Esse poço é bem fundo e nunca chega a ficar cheio. Quando foi medido no século 19 d.C., ele tinha aproximadamente 23 metros de profundidade. Mas, como há entulho no fundo, sua profundidade talvez fosse ainda maior nos tempos bíblicos. (Jo 4:11) O poço fica seco durante o verão e só volta a ter água quando começam as chuvas. Assim, alguns acreditam que ele seja abastecido pela água da chuva que é absorvida pelo solo. Outros acreditam que o poço também receba a água de uma nascente. (Veja a nota de estudo em ao poço neste versículo.) A Bíblia não diz diretamente que Jacó cavou o poço que passou a levar o seu nome, mas indica que Jacó era dono de uma propriedade perto dali. (Gên 33:18-20; Jos 24:32) Assim, é provável que Jacó tenha cavado ou mandado cavar esse poço. Ele talvez tenha feito isso para garantir água para sua família, seus servos e seus rebanhos. Isso evitaria problemas com seus vizinhos, que sem dúvida eram donos das outras fontes de água da região. Ou pode ser que Jacó simplesmente quisesse ter outra fonte de água para quando outros poços da região estivessem secos.
+- *cansado*: Este é o único lugar em que as Escrituras falam de Jesus se sentir “cansado”. Era cerca de meio-dia, e é provável que naquela manhã Jesus tivesse feito a viagem do vale do Jordão, na Judeia, até Sicar, em Samaria, um trajeto íngreme que envolvia subir uns 900 metros. — Jo 4:3-5; veja o Apêndice A7-B.
+- *ao poço*: Ou: “à fonte; à nascente”. Neste capítulo, João usa duas palavras gregas diferentes para se referir ao poço de Jacó, em Sicar. Uma delas é pegé, que foi traduzida duas vezes neste versículo como “poço”. Em geral, pegé se refere a uma nascente ou fonte, e pode ser que a água do poço de Jacó viesse de uma nascente. Essa palavra pode se referir a uma “fonte” tanto em sentido literal (Tg 3:11) como em sentido figurado (Jo 4:14). A outra palavra grega é fréar. Ela aparece em Jo 4:12 e pode se referir a um poço, uma cisterna, ou uma cova. (1Sa 19:22, Septuaginta; Lu 14:5; Ap 9:1, nota de rodapé) Muitas vezes a água dos poços vinha de nascentes que, em alguns casos, eram alargadas e aprofundadas. Isso talvez explique por que João podia usar tanto pegé como fréar para se referir à mesma fonte de água. — Veja a nota de estudo em o poço de Jacó neste versículo.
+- *por volta da sexta hora*: Ou seja, por volta do meio-dia. — Veja a nota de estudo em Mt 20:3.
+====
+
+[[v43-4-7]]
+
+^<<v43-4-7,7>>^ Uma mulher de Samaria chegou para tirar água. Jesus lhe disse: “Dê-me um pouco de água.”
+
+[[v43-4-8]]
+
+^<<v43-4-8,8>>^ (Os seus discípulos tinham ido à cidade para comprar alimento.)
+
+[[v43-4-9]]
+
+^<<v43-4-9,9>>^ Portanto, a samaritana lhe disse: “Como é que o senhor, sendo judeu, pede água a mim, apesar de eu ser samaritana?” (Porque os judeus não têm tratos com os samaritanos.)
+
+[TIP]
+====
+- *os judeus não têm tratos com os samaritanos*: Na primeira vez que a palavra “samaritano” aparece na Bíblia, ela se refere aos judeus que moravam no reino das dez tribos de Israel antes de ele ser conquistado pelos assírios. (2Rs 17:29) A separação entre esses judeus e os que moravam no reino de Judá tinha começado quando Jeroboão deu início à adoração de bezerros de ouro. (1Rs 12:26-30) Depois que os assírios conquistaram o reino das dez tribos, o termo “samaritano” passou a ser usado para se referir aos estrangeiros que foram levados para morar naquela região e aos judeus que foram deixados ali. Alguns desses judeus, sem dúvida, se casaram com os estrangeiros, e as Escrituras mostram que essa mistura corrompeu ainda mais a adoração em Samaria. (2Rs 17:24-41) Mesmo assim, os samaritanos diziam que eram descendentes apenas de israelitas das tribos de Manassés e Efraim. Quando os judeus voltaram do exílio em Babilônia, os samaritanos afirmaram que adoravam a Jeová, mas foram contra a reconstrução do templo e das muralhas de Jerusalém. Depois, possivelmente no século 4 a.C., os samaritanos construíram o seu próprio templo no monte Gerizim. Esse templo foi destruído pelos judeus em 128 a.C., mas os samaritanos continuaram a adorar naquele monte. Eles aceitavam apenas os primeiros cinco livros da Bíblia (e talvez o livro de Josué) e, mesmo assim, fizeram mudanças em alguns versículos para dar apoio à localização de seu templo. Nos dias de Jesus, os samaritanos ocupavam o distrito romano de Samaria, que ficava entre a Judeia e a Galileia. Naquela época, o termo “samaritano” tinha um significado tanto racial como religioso, e os samaritanos eram tratados com desprezo pelos judeus. — Jo 8:48.
+- *. . . com os samaritanos*: As palavras entre parênteses neste versículo não aparecem em alguns manuscritos, mas estão em vários dos manuscritos mais antigos e confiáveis.
+====
+
+[[v43-4-10]]
+
+^<<v43-4-10,10>>^ Jesus lhe respondeu: “Se você soubesse da dádiva^&#42;1^ de Deus e soubesse quem é que lhe diz: ‘Dê-me um pouco de água’, você lhe teria pedido, e ele lhe teria dado água viva.”
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+====
+
+[TIP]
+====
+- *água viva*: Em grego, essa expressão pode ser usada para se referir à água corrente, à água de uma nascente ou à água de um poço alimentado por nascentes. É o contrário da água parada de uma cisterna. Em Le 14:5, a expressão hebraica para “água tirada de uma fonte” significa literalmente “água viva”. Em Je 2:13 e 17:13, Jeová é descrito como “a fonte de água viva”, ou seja, de água simbólica que é capaz de dar vida. Quando conversou com a mulher samaritana, Jesus usou a expressão “água viva” em sentido figurado, mas parece que de início a mulher entendeu que Jesus estava falando de água literal. — Jo 4:11; veja a nota de estudo em Jo 4:14.
+====
+
+[[v43-4-11]]
+
+^<<v43-4-11,11>>^ Ela lhe disse: “O senhor não tem nem mesmo um balde para tirar água, e o poço é fundo. De onde tira então essa água viva?
+
+[TIP]
+====
+- *o poço é fundo*: Veja a nota de estudo em Jo 4:6.
+====
+
+[[v43-4-12]]
+
+^<<v43-4-12,12>>^ Será que o senhor é maior do que o nosso antepassado Jacó, que nos deu o poço e bebeu dele junto com seus filhos e seus rebanhos?”
+
+[TIP]
+====
+- *o nosso antepassado Jacó*: Os samaritanos diziam que eram descendentes de Jacó por meio de José, mas muitos judeus da época provavelmente iriam contradizer essa afirmação. Para deixar claro que os samaritanos eram descendentes de povos estrangeiros, alguns judeus os chamavam, em hebraico, de “cutins” ou “cutianos”, ou seja, povo de Cute (ou Cuta). Os nomes Cute e Cuta se referem à região de origem das pessoas que foram levadas pelo rei da Assíria para Samaria depois que Israel foi ao exílio em 740 a.C. Tudo indica que essa região ficava uns 50 quilômetros ao nordeste de Babilônia. — 2Rs 17:23, 24, 30.
+====
+
+[[v43-4-13]]
+
+^<<v43-4-13,13>>^ Em resposta, Jesus lhe disse: “Todo aquele que beber desta água ficará novamente com sede.
+
+[[v43-4-14]]
+
+^<<v43-4-14,14>>^ Quem beber da água que eu lhe der nunca mais ficará com sede, mas a água que eu lhe der se tornará nele uma fonte de água que jorra para dar vida eterna.”
+
+[TIP]
+====
+- *a água que eu lhe der*: Neste versículo, Jesus usou as palavras “água” e “fonte” em sentido figurado. Nesta conversa com a mulher samaritana, Jesus já tinha falado sobre “água viva”. (Veja a nota de estudo em Jo 4:10.) Aqui, ele passou a explicar que a água que ele dá se torna uma fonte de água que pode dar vida eterna para aqueles que a aceitam. A Bíblia usa a palavra “água” para representar tudo aquilo que Deus faz para que os humanos possam ter vida perfeita novamente. O sacrifício de resgate de Jesus é uma parte importante dessa água simbólica. Neste contexto, Jesus chamou atenção para os benefícios espirituais que essa água poderia trazer. Aqueles que ouvissem Jesus e se tornassem seus discípulos passariam a ‘conhecer’ mais a Jeová e a Jesus. Isso aumentaria a fé deles e, se agissem de acordo com essa fé, eles se qualificariam para a vida eterna. (Jo 17:3) Jesus disse que, quando alguém aceita essa água simbólica, ela se torna dentro dele uma fonte que jorra benefícios que levam à vida eterna. Essa pessoa também se sente motivada a dividir essa “água da vida” com outros. — Ap 21:6; 22:1, 17; veja a nota de estudo em Jo 7:38.
+====
+
+[[v43-4-15]]
+
+^<<v43-4-15,15>>^ A mulher lhe disse: “Senhor, dê-me dessa água, para que eu não tenha sede nem venha mais aqui para tirar água.”
+
+[[v43-4-16]]
+
+^<<v43-4-16,16>>^ Ele lhe disse: “Vá, chame seu marido e volte para cá.”
+
+[[v43-4-17]]
+
+^<<v43-4-17,17>>^ A mulher respondeu: “Não tenho marido.” Jesus lhe disse: “Você está certa em dizer: ‘Não tenho marido.’
+
+[[v43-4-18]]
+
+^<<v43-4-18,18>>^ Pois você teve cinco maridos, e o homem que você tem agora não é seu marido. Você disse a verdade.”
+
+[[v43-4-19]]
+
+^<<v43-4-19,19>>^ A mulher lhe disse: “Vejo que o senhor é um profeta.
+
+[[v43-4-20]]
+
+^<<v43-4-20,20>>^ Nossos antepassados adoraram neste monte, mas vocês dizem que o lugar onde as pessoas devem adorar é em Jerusalém.”
+
+[TIP]
+====
+- *neste monte*: Ou seja, no monte Gerizim. (Veja o Apêndice B10.) Esse monte é mencionado quatro vezes nas Escrituras Hebraicas. (De 11:29; 27:12; Jos 8:33; Jz 9:7) Os samaritanos construíram o seu próprio templo no monte Gerizim, possivelmente no século 4 a.C. Esse templo foi destruído pelos judeus em 128 a.C. Os samaritanos aceitavam os primeiros cinco livros da Bíblia (e talvez o livro de Josué), mas apenas numa versão revisada por eles, chamada de Pentateuco samaritano. Ele foi escrito usando o alfabeto samaritano, que vinha do alfabeto hebraico antigo. O texto do Pentateuco samaritano é diferente do texto massorético das Escrituras Hebraicas em uns 6.000 lugares. Em geral, as mudanças são pequenas, mas há algumas mudanças significativas. Por exemplo, De 27:4 diz que o lugar onde os israelitas deveriam escrever a Lei de Moisés em pedras cobertas com reboco era o monte Ebal. (De 27:8) Mas o Pentateuco samaritano substituiu “monte Ebal” por “monte Gerizim”, obviamente para apoiar a crença dos samaritanos de que Gerizim era o monte santo de Deus.
+====
+
+[[v43-4-21]]
+
+^<<v43-4-21,21>>^ Jesus lhe disse: “Acredite em mim, mulher: vem a hora em que nem neste monte, nem em Jerusalém, vocês adorarão o Pai.
+
+[[v43-4-22]]
+
+^<<v43-4-22,22>>^ Vocês adoram o que não conhecem; nós adoramos o que conhecemos, porque a salvação se origina dos judeus.
+
+[TIP]
+====
+- *a salvação se origina dos judeus*: Ou: “a salvação começa com os judeus”. Jesus disse isso porque era aos judeus que Deus tinha confiado sua Palavra, a adoração pura e a verdade que poderia levar à salvação. (Ro 3:1, 2) Eles também tinham sido escolhidos como o povo do qual o Messias viria, cumprindo a promessa de Deus sobre o “descendente” de Abraão. (Gên 22:18; Gál 3:16) Na época em que Jesus falou com a samaritana, apenas os judeus conheciam a verdade sobre Deus, sabiam o que ele esperava de seus servos e tinham informações sobre o Messias. Israel ainda era o povo escolhido de Deus, e os que quisessem adorar a Jeová precisavam fazer isso junto com o povo dele.
+====
+
+[[v43-4-23]]
+
+^<<v43-4-23,23>>^ Contudo, vem a hora, e agora é, quando os verdadeiros adoradores adorarão o Pai com espírito e verdade. Pois, realmente, o Pai está procurando a esses para o adorarem.
+
+[[v43-4-24]]
+
+^<<v43-4-24,24>>^ Deus é espírito, e os que o adoram têm de adorá-lo com espírito e verdade.”
+
+[TIP]
+====
+- *Deus é espírito*: A palavra grega traduzida aqui como “espírito” (pneúma) é usada neste versículo para mostrar que Deus é um ser, ou uma pessoa, espiritual. (Veja o Glossário “Espírito”.) As Escrituras deixam claro que tanto Deus como o glorificado Jesus e os anjos são espíritos. (1Co 15:45; 2Co 3:17; He 1:14) Um espírito é uma forma de vida bem diferente de um humano. Os espíritos são invisíveis e têm um “corpo espiritual” que é muito superior a um “corpo físico”. (1Co 15:44; Jo 1:18) Às vezes, os escritores da Bíblia falam que Deus tem face, olhos, ouvidos, mãos, etc., mas essas são apenas figuras de linguagem para ajudar os humanos a entender como Deus é. Ao mesmo tempo, as Escrituras deixam claro que Deus tem uma personalidade. Além disso, ele vive em um lugar específico (fora do Universo físico). Por isso, Jesus podia dizer “vou para o Pai”. (Jo 16:28) O texto de He 9:24 diz que Cristo entrou “no próprio céu, de modo que . . . comparece perante Deus em nosso favor”.
+- *adorá-lo com espírito*: A palavra grega traduzida aqui como “espírito” (pneúma) tem vários significados e pode se referir, entre outras coisas, à força ativa de Deus (o espírito santo) ou à força que impele ou motiva uma pessoa, ou seja, sua disposição. (Veja o Glossário, “Espírito”.) Algo que todos os significados de pneúma têm em comum é que eles sempre se referem a algo invisível aos olhos humanos. Jesus explicou em Jo 4:21 que a adoração ao Pai não iria mais se centralizar em um lugar físico. Deus não tem um corpo físico, que pode ser visto ou tocado. Por isso, a adoração a Deus não dependeria mais de um lugar físico como o monte Gerizim, em Samaria, ou o templo, em Jerusalém. Em outras ocasiões, Jesus mostrou que, para adorar a Deus da maneira que ele aceita, a pessoa precisa ser guiada pelo espírito santo de Deus, que Jesus também chamou de “ajudador”. (Jo 14:16, 17; 16:13) Assim, ‘adorar com espírito’ pelo visto se refere ao tipo de adoração que é guiado pelo espírito de Deus. Esse espírito pode ajudar uma pessoa a entrar em sintonia com os pensamentos de Deus, ao passo que ela lê sua Palavra e a coloca em prática. Dessa forma, o que Jesus disse sobre adorar a Deus “com espírito” envolve mais do que simplesmente ser sincero e ter um espírito disposto no serviço de Deus.
+- *adorá-lo com . . . verdade*: Deus não aceita adoração baseada em coisas imaginárias, mitos ou mentiras. A adoração que ele quer precisa se basear em fatos e deve estar de acordo com “a verdade” que ele revela na Bíblia sobre si mesmo e sobre os seus propósitos. (Jo 17:17) Ela também precisa estar de acordo com as “realidades não vistas” que Deus revela em sua Palavra. — He 9:24; 11:1; veja também a nota de estudo em adorá-lo com espírito neste versículo.
+====
+
+[[v43-4-25]]
+
+^<<v43-4-25,25>>^ A mulher lhe disse: “Eu sei que vem o Messias, que é chamado Cristo. Quando ele vier, dirá abertamente todas as coisas a nós.”
+
+[TIP]
+====
+- *Eu sei que vem o Messias*: Os samaritanos aceitavam apenas os cinco livros escritos por Moisés conhecidos hoje como Pentateuco e, possivelmente, o livro de Josué. Eles rejeitavam os outros livros das Escrituras Hebraicas. Mas, visto que os samaritanos aceitavam os escritos de Moisés, eles aguardavam a vinda do Messias, o profeta maior do que Moisés. — De 18:18, 19.
+- *o Messias*: A palavra grega Messías (uma transliteração da palavra hebraica mashíahh) aparece apenas duas vezes nas Escrituras Gregas Cristãs (aqui e em Jo 1:41). A palavra hebraica mashíahh é, na verdade, um título que vem do verbo masháhh, que significa “passar ou espalhar (um líquido)” ou “ungir”. (Êx 29:2, 7) Nos tempos bíblicos, quando um sacerdote, um governante ou um profeta era escolhido, alguém o ungia, ou seja, derramava óleo em sua cabeça. (Le 4:3; 1Sa 16:3, 12, 13; 1Rs 19:16) O título Cristo (em grego, Khristós) aparece mais de 500 vezes nas Escrituras Gregas Cristãs e tem o mesmo significado do título “Messias”, ou seja, “ungido”. — Veja a nota de estudo em Mt 1:1.
+====
+
+[[v43-4-26]]
+
+^<<v43-4-26,26>>^ Jesus lhe disse: “Eu, que estou falando com você, sou ele.”
+
+[TIP]
+====
+- *Eu . . . sou ele*: Lit.: “Eu sou”. Em grego, egó eimi. Alguns dos que acreditam que Jesus e Deus são a mesma pessoa afirmam que estas palavras de Jesus são uma referência ao que Deus disse sobre si mesmo em Êx 3:14 (segundo a tradução da Septuaginta). Mas a expressão em Êx 3:14 (egó eimi ho on, “Eu sou O Ser; Eu sou O Existente”) é diferente da que foi usada aqui. Além disso, egó eimi também aparece na Septuaginta em textos que registram as palavras de humanos como Abraão, Eliézer, Jacó, Davi, entre outros. (Gên 23:4; 24:34; 30:2; 1Cr 21:17) Outro fator a levar em conta é que, nas Escrituras Gregas Cristãs, egó eimi não é usada apenas quando Jesus está falando. Por exemplo, essa expressão também aparece em Jo 9:9, que registra as palavras de um homem que tinha sido curado por Jesus. A expressão significa simplesmente: “Sou eu.” Essas mesmas palavras também foram usadas pelo anjo Gabriel, e por Pedro, Paulo e outros. (Lu 1:19; At 10:21; 22:3) E é óbvio que eles não estavam fazendo referência a Êx 3:14. Além disso, um relato que aparece nos três Evangelhos sinópticos (Mateus, Marcos e Lucas) deixa claro que a expressão egó eimi não tem um significado especial. Ao comparar Mr 13:6 e Lu 21:8 com Mt 24:5, fica evidente que a expressão “sou eu” (usada em Marcos e Lucas) é simplesmente uma forma resumida da expressão completa “eu sou o Cristo” (usada em Mateus).
+- *Eu, que estou falando com você, sou ele*: Pelo visto, esta foi a primeira vez que Jesus falou claramente a alguém que ele era o Messias, ou Cristo. E quem teve a honra de ouvir isso foi uma samaritana, uma mulher que não era nem mesmo judia. (Jo 4:9, 25) A maioria dos judeus desprezava os samaritanos e se recusava até mesmo a cumprimentá-los. Além disso, muitos homens judeus consideravam as mulheres como inferiores. Mais tarde, Jesus dignificou outras mulheres de forma parecida, dando a elas o privilégio de serem as primeiras testemunhas de sua ressurreição. — Mt 28:9, 10.
+====
+
+[[v43-4-27]]
+
+^<<v43-4-27,27>>^ Bem naquela hora, os seus discípulos chegaram e ficaram surpresos, porque ele estava falando com uma mulher. Naturalmente, ninguém lhe perguntou: “O que o senhor está procurando?” ou “Por que está falando com ela?”
+
+[TIP]
+====
+- *falando com uma mulher*: A tradição judaica incentivava os homens a não falar em público com uma mulher, o que ia contra o espírito da Lei mosaica. Parece que esse conceito era muito comum nos dias de Jesus. Isso explicaria por que até mesmo os discípulos de Jesus “ficaram surpresos” quando viram que ele estava falando com a samaritana. De acordo com o Talmude, os rabinos diziam que um estudioso “não deveria conversar com uma mulher na rua”. E, segundo a Mishná, um rabino disse: “Não converse muito com as mulheres . . . Todo aquele que conversa excessivamente com as mulheres prejudica a si próprio, negligencia o estudo da Lei e, por fim, herdará a Geena.” — Avot 1:5.
+====
+
+[[v43-4-28]]
+
+^<<v43-4-28,28>>^ Então a mulher deixou o seu jarro de água, foi à cidade e disse ao povo:
+
+[[v43-4-29]]
+
+^<<v43-4-29,29>>^ “Venham ver um homem que me disse tudo o que eu fiz. Será que ele não é o Cristo?”
+
+[[v43-4-30]]
+
+^<<v43-4-30,30>>^ Eles saíram da cidade e foram ao encontro dele.
+
+[[v43-4-31]]
+
+^<<v43-4-31,31>>^ Enquanto isso, os discípulos insistiam com ele: “Rabi, coma.”
+
+[[v43-4-32]]
+
+^<<v43-4-32,32>>^ Mas ele lhes disse: “Tenho para comer um alimento que vocês não conhecem.”
+
+[[v43-4-33]]
+
+^<<v43-4-33,33>>^ Assim, os discípulos disseram uns aos outros: “Será que alguém trouxe algo para ele comer?”
+
+[[v43-4-34]]
+
+^<<v43-4-34,34>>^ Jesus lhes disse: “Meu alimento é fazer a vontade daquele que me enviou e terminar a sua obra.
+
+[[v43-4-35]]
+
+^<<v43-4-35,35>>^ Vocês não dizem que ainda faltam quatro meses para chegar a colheita? Escutem o que eu lhes digo: Ergam os olhos e observem os campos, que estão brancos para a colheita. Desde já
+
+[TIP]
+====
+- *ainda faltam quatro meses para chegar a colheita*: A colheita da cevada começava no mês judaico de nisã (março/abril), por volta da época da Páscoa. (Veja o Apêndice B15.) Já que Jesus disse que ainda faltavam quatro meses para a colheita, ele deve ter falado estas palavras no mês de quisleu (novembro/dezembro). Por volta desse mês, as chuvas ficavam mais fortes e a temperatura começava a baixar. Assim, quando Jesus falou de uma colheita que já estava acontecendo (Jo 4:36), ele pelo visto estava se referindo a uma colheita em sentido figurado, ou seja, a um ajuntamento de pessoas, e não a uma colheita literal.
+- *brancos*: Ou seja, maduros. A palavra grega leukós se refere à cor branca e a diferentes tons de cores claras, como, por exemplo, o amarelo claro. Quando o cereal ficava dessa cor, ele estava maduro e podia ser colhido. Visto que Jesus falou que ‘ainda faltavam quatro meses para chegar a colheita’, é provável que os campos ainda estivessem verdes — a cor que a cevada tem quando acaba de brotar. Assim, quando Jesus falou que os campos estavam maduros para a colheita, ele sem dúvida estava falando de uma colheita espiritual, e não de uma colheita literal. Alguns estudiosos acreditam que, quando Jesus disse para seus discípulos observarem os campos, ele estava se referindo ao grande grupo de samaritanos que estava indo até ele. Eles acham que os samaritanos talvez estivessem vestidos de branco e que esse pode ter sido o motivo de Jesus dizer que os campos estavam “brancos para a colheita”. Mas pode ser que Jesus estivesse simplesmente usando uma figura de linguagem para indicar que os samaritanos estavam prontos para aceitar sua mensagem. — Jo 4:28-30.
+====
+
+[[v43-4-36]]
+
+^<<v43-4-36,36>>^ o ceifeiro está recebendo salário e ajuntando frutos para a vida eterna, para que o semeador e o ceifeiro se alegrem juntos.
+
+[[v43-4-37]]
+
+^<<v43-4-37,37>>^ Pois, nesse respeito, é verdadeira a declaração: Um é o semeador e outro o ceifeiro.
+
+[[v43-4-38]]
+
+^<<v43-4-38,38>>^ Eu os enviei para colher aquilo em que vocês não trabalharam. Outros trabalharam arduamente, e vocês se beneficiaram do trabalho deles.”
+
+[[v43-4-39]]
+
+^<<v43-4-39,39>>^ Muitos samaritanos daquela cidade depositaram fé nele por causa do testemunho da mulher, que tinha dito: “Ele me disse tudo o que eu fiz.”
+
+[TIP]
+====
+- *Muitos samaritanos . . . depositaram fé nele*: A conversa que Jesus teve com a mulher samaritana logo teve resultados. Por causa do testemunho dela, muitos samaritanos começaram a acreditar em Jesus. É verdade que, no início, a colheita espiritual se concentrou principalmente nos judeus. Mas, como a Bíblia mostra, pouco tempo depois começou uma colheita maior que incluiu os samaritanos. É provável que o testemunho que Jesus deu à mulher samaritana tenha lançado a base para que muitos desses samaritanos aceitassem mais tarde a pregação de Filipe. — Jo 4:34-36; At 1:8; 8:1, 14-17.
+====
+
+[[v43-4-40]]
+
+^<<v43-4-40,40>>^ Portanto, quando os samaritanos chegaram a ele, pediram-lhe que ficasse com eles, e ele ficou ali dois dias.
+
+[[v43-4-41]]
+
+^<<v43-4-41,41>>^ Assim, muitos outros creram por causa do que ele disse,
+
+[[v43-4-42]]
+
+^<<v43-4-42,42>>^ e disseram à mulher: “Não é mais só por causa do que você disse que nós cremos, pois nós mesmos ouvimos e sabemos que esse homem é realmente o salvador do mundo.”
+
+[TIP]
+====
+- *salvador do mundo*: Esta expressão, que aparece apenas aqui e em 1Jo 4:14, indica que Jesus salvaria do pecado as pessoas “do mundo”, ou seja, da humanidade, que demonstrassem fé. — Veja as notas de estudo em Jo 1:29; 3:17.
+====
+
+[[v43-4-43]]
+
+^<<v43-4-43,43>>^ Depois desses dois dias, ele partiu dali para a Galileia.
+
+[[v43-4-44]]
+
+^<<v43-4-44,44>>^ O próprio Jesus, porém, dizia^&#42;1^ que um profeta não recebe honra na sua própria terra.
+
+[NOTE]
+====
+. Ou: “dava testemunho de”.
+====
+
+[TIP]
+====
+- *sua própria terra*: Lit.: “lugar do seu pai”. A palavra grega traduzida aqui como “terra” foi traduzida como “própria cidade” em Mt 13:54, Mr 6:1 e Lu 4:23, onde se refere à cidade em que Jesus cresceu, Nazaré. Mas, neste versículo, ela parece se referir a toda a Galileia. — Jo 4:43.
+====
+
+[[v43-4-45]]
+
+^<<v43-4-45,45>>^ Portanto, quando ele chegou à Galileia, os galileus o receberam bem, porque tinham visto tudo o que ele havia feito em Jerusalém, na festividade; pois eles também tinham ido à festividade.
+
+[[v43-4-46]]
+
+^<<v43-4-46,46>>^ Então ele foi novamente a Caná da Galileia, onde havia transformado água em vinho. E havia ali um funcionário real, cujo filho estava doente em Cafarnaum.
+
+[TIP]
+====
+- *Caná da Galileia . . . Cafarnaum*: A distância entre Caná (Khirbet Qana) e Cafarnaum, seguindo a estrada que ligava as cidades, era de cerca de 40 quilômetros. — Veja a nota de estudo em Jo 2:1.
+- *um funcionário real*: Ou: “um certo assistente do rei”. A palavra grega basilikós se refere a alguém ligado ao rei (basileús), seja por trabalho seja por parentesco de sangue. Aqui, ela parece se referir a um assistente real (um membro da corte) de Herodes Antipas, o tetrarca da Galileia. As pessoas em geral chamavam Herodes de “rei”. — Veja as notas de estudo em Mt 14:9; Mr 6:14.
+====
+
+[[v43-4-47]]
+
+^<<v43-4-47,47>>^ Quando esse homem ouviu que Jesus tinha saído da Judeia para a Galileia, dirigiu-se a ele e lhe pediu que descesse para curar seu filho, pois ele estava morrendo.
+
+[TIP]
+====
+- *descesse*: Ou seja, descesse para Cafarnaum. Nos tempos bíblicos, uma estrada passava perto de Khirbet Qana (o local provável de Caná; veja a nota de estudo em Jo 2:1), descia até o mar da Galileia e seguia pela costa até Cafarnaum, que ficava mais de 200 metros abaixo do nível do mar. Isso explica por que o homem pediu que Jesus “descesse” para Cafarnaum.
+====
+
+[[v43-4-48]]
+
+^<<v43-4-48,48>>^ Mas Jesus lhe disse: “A menos que vocês vejam sinais e milagres, nunca acreditarão.”
+
+[[v43-4-49]]
+
+^<<v43-4-49,49>>^ O funcionário real lhe disse: “Senhor, venha antes que meu filhinho morra.”
+
+[[v43-4-50]]
+
+^<<v43-4-50,50>>^ Jesus lhe disse: “Pode ir; seu filho está vivo.” O homem acreditou nas palavras que Jesus lhe disse e foi embora.
+
+[[v43-4-51]]
+
+^<<v43-4-51,51>>^ Enquanto estava indo, seus escravos foram ao encontro dele para dizer que seu menino estava vivo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estava se recuperando”.
+====
+
+[[v43-4-52]]
+
+^<<v43-4-52,52>>^ Então ele lhes perguntou a que hora ele tinha melhorado. Eles lhe responderam: “A febre o deixou ontem, à sétima hora.”
+
+[TIP]
+====
+- *à sétima hora*: Ou seja, por volta da 1 hora da tarde. — Veja a nota de estudo em Mt 20:3.
+====
+
+[[v43-4-53]]
+
+^<<v43-4-53,53>>^ O pai percebeu então que havia sido naquela mesma hora que Jesus tinha lhe dito: “Seu filho está vivo.” E ele e todos os da sua casa creram.
+
+[[v43-4-54]]
+
+^<<v43-4-54,54>>^ Essa foi a segunda vez que Jesus realizou um sinal depois de voltar da Judeia para a Galileia.
+
+[TIP]
+====
+- *a segunda vez que Jesus realizou um sinal*: Em duas ocasiões, Jesus realizou um sinal, ou milagre, logo depois de ter voltado da Judeia para a Galileia. O primeiro milagre é descrito em Jo 2:11. Aqui, João se refere à segunda dessas ocasiões, e não ao segundo de todos os milagres de Jesus. Antes de realizar o milagre mencionado neste versículo, Jesus tinha feito outros milagres em Jerusalém. — Jo 2:23.
+====
+
+'''
+
+xref:043-joao/043-joao-003.adoc#v43-3-0[&#60; Capítulo Anterior] | <<v43-4-0,Topo>> | xref:043-joao/043-joao-005.adoc#v43-5-0[Próximo Capítulo &#62;]

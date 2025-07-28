@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v47-10-0]]
+=== A Segunda aos Coríntios, 10
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. ARGUMENTOS PARA COMBATER A INFLUÊNCIA DE FALSOS APÓSTOLOS (10:1–12:21)
+* 1. Paulo defende seu ministério (10:1-18)
+* Armas que não são carnais, mas são poderosas em Deus (10:1-6)
+* Paulo se defende das acusações de ser fraco (10:7-12)
+* Paulo se orgulha apenas do que realizava dentro dos limites de seu território (10:13-18)
+* 2. Paulo e os superapóstolos (11:1-15)
+* Paulo tem ciúme semelhante ao de Deus; ele quer apresentar os coríntios como “virgem casta” ao Cristo (11:1-5)
+* Paulo está decidido a não se tornar um fardo para ninguém (11:6-15)
+* 3. Dificuldades de Paulo como apóstolo (11:16-33)
+* 4. Visões de Paulo e seu “espinho na carne” (12:1-21)
+* Visão do terceiro céu e do paraíso (12:1-7a)
+* Paulo fala de seu “espinho na carne” e da bondade imerecida de Deus (12:7b-10)
+* Paulo não é inferior aos superapóstolos (12:11-13)
+* Preocupação de Paulo com os coríntios (12:14-21)
+****
+
+[[v47-10-1]]
+
+^<<v47-10-1,1>>^ Eu mesmo, Paulo, suplico-lhes pela brandura e bondade do Cristo, eu que sou humilde quando estou pessoalmente entre vocês, mas ousado com vocês quando ausente.
+
+[TIP]
+====
+- *bondade do Cristo*: Ao escrever aos coríntios sobre as falhas deles, Paulo não foi duro. Pelo contrário, ele suplicou a eles de forma mansa e bondosa, imitando a maneira de Cristo agir. O sentido literal da palavra grega traduzida aqui como “bondade” é “disposição de ceder; docilidade”. Aqui, ela também poderia ser traduzida “razoabilidade”. Essa era uma qualidade destacada de Jesus Cristo. Quando Jesus esteve na Terra, ele refletiu perfeitamente a razoabilidade extraordinária de seu Pai. (Jo 14:9) Paulo também se esforçou nesse sentido. Ele sabia que os coríntios precisavam de fortes conselhos. Mas, em vez de simplesmente lhes dar ordens, ele achou melhor suplicar a eles bondosamente.
+====
+
+[[v47-10-2]]
+
+^<<v47-10-2,2>>^ Rogo que, quando eu estiver presente, não tenha de ser ousado e tomar medidas fortes, como penso que tomarei, contra alguns que nos encaram como se andássemos de acordo com a carne.
+
+[TIP]
+====
+- *alguns que nos encaram como se andássemos de acordo com a carne*: Parece que alguns cristãos da congregação de Corinto tinham perdido o ponto de vista espiritual sobre as coisas e, por isso, tinham se tornado críticos. Em vez de verem a Paulo e seus companheiros como os homens espirituais que eram, os críticos os julgavam com base em características como aparência, habilidades naturais e personalidade. Eles deixaram de perceber o espírito de Deus agindo na congregação. Tudo o que cristãos como Paulo e Apolo conseguiam realizar era por causa do espírito santo de Deus e com o objetivo de dar glória a ele.
+====
+
+[[v47-10-3]]
+
+^<<v47-10-3,3>>^ Pois, embora vivamos na carne, não travamos combate de acordo com o que somos na carne.
+
+[TIP]
+====
+- *embora vivamos na carne*: Por um lado, Paulo e seus colaboradores, como Apolo e Cefas (Pedro), eram como qualquer outro humano e estavam sujeitos às limitações da imperfeição. (1Co 1:11, 12; 3:4, 5) Por outro lado, eles não travavam seu combate espiritual de acordo com o que eram na carne, ou seja, guiados por tendências e motivações carnais ou por raciocínios humanos imperfeitos.
+- *não travamos combate*: Lit.: “não prestamos serviço militar”. Em 2Co 10:3-6, Paulo usa vários termos militares. Nesses versículos, ele fala sobre o combate espiritual que ele e outros cristãos travavam para proteger a congregação de raciocínios e ensinos destrutivos e falsos. — 1Co 9:7; Ef 6:11-18; 2Ti 2:4; veja as notas de estudo em 2Co 10:4, 5.
+====
+
+[[v47-10-4]]
+
+^<<v47-10-4,4>>^ Porque as armas do nosso combate não são carnais, mas poderosas em Deus para demolir fortalezas.
+
+[TIP]
+====
+- *demolir fortalezas*: Ou: “demolir coisas fortemente entrincheiradas”. O verbo grego traduzido aqui como “demolir” foi traduzido como “derrubar” em 2Co 10:8 e 13:10. Esse mesmo verbo foi usado pela Septuaginta em Êx 23:24, onde o texto hebraico original usa um verbo que pode ser traduzido como “destruir”. A palavra grega traduzida aqui como “fortalezas” é okhýroma. Esta é a única vez que ela aparece nas Escrituras Gregas Cristãs. Ela geralmente se refere a uma fortaleza ou cidade fortificada, mas aqui ela foi usada por Paulo em sentido figurado. A Septuaginta usa okhýroma em Pr 21:22, e alguns estudiosos acreditam que aqui Paulo esteja fazendo referência a esse provérbio. Essa palavra também foi usada em outros versículos da Septuaginta, onde ela se refere à famosa cidade fortificada de Tiro e a outras fortalezas. (Jos 19:29; La 2:5; Miq 5:11; Za 9:3) Assim, a imagem mental criada pelas palavras de Paulo é a de “demolir” ou “derrubar” uma enorme fortaleza, como ao conquistar uma cidade fortificada.
+====
+
+[[v47-10-5]]
+
+^<<v47-10-5,5>>^ Pois demolimos raciocínios e toda barreira que se ergue contra o conhecimento de Deus, e levamos todo pensamento ao cativeiro, para fazê-lo obediente ao Cristo;
+
+[TIP]
+====
+- *demolimos raciocínios e toda barreira*: Ou: “demolimos raciocínios e toda altivez”. Os cristãos travam um combate espiritual para proteger a congregação. Nesse combate, eles precisam demolir, ou destruir, raciocínios errados e ensinos falsos. Esses e outros obstáculos são como muralhas que bloqueiam o caminho daqueles que buscam ter o verdadeiro conhecimento de Deus. Mesmo dentro da congregação cristã podem surgir “raciocínios prejudiciais” capazes de impedir uma pessoa de ter um bom relacionamento com Deus. (Mr 7:21) É claro que seria inútil usar armas literais, como espadas e lanças, para combater esses raciocínios. Por isso, “as armas do nosso combate” mencionadas em 2Co 10:4 incluem “a espada do espírito, isto é, a palavra de Deus”. (Ef 6:17) Usando essa espada, os cristãos são capazes de expor doutrinas falsas, práticas prejudiciais e filosofias que refletem pensamentos humanos. — 1Co 2:6-8; Ef 6:11-13.
+====
+
+[[v47-10-6]]
+
+^<<v47-10-6,6>>^ e estamos preparados para punir toda desobediência, uma vez que a obediência de vocês esteja completa.
+
+[[v47-10-7]]
+
+^<<v47-10-7,7>>^ Vocês julgam as coisas pela aparência. Se alguém estiver convencido de que pertence a Cristo, que ele reflita novamente no seguinte fato: assim como ele pertence a Cristo, nós também pertencemos.
+
+[[v47-10-8]]
+
+^<<v47-10-8,8>>^ Pois, mesmo que eu me orgulhasse um pouco demais da autoridade que o Senhor nos deu para edificar vocês, e não para os derrubar, eu não me envergonharia.
+
+[[v47-10-9]]
+
+^<<v47-10-9,9>>^ Mas não quero dar a impressão de que estou tentando amedrontá-los com as minhas cartas.
+
+[[v47-10-10]]
+
+^<<v47-10-10,10>>^ Pois eles dizem: “As cartas dele têm peso e força, mas a presença dele é fraca, e a palavra dele desprezível.”
+
+[TIP]
+====
+- *Pois eles dizem*: Paulo não deixa claro a quem está se referindo aqui, mas as palavras que ele cita neste versículo pelo visto são de pessoas em Corinto que o criticavam, talvez os “superapóstolos” ou pessoas influenciadas por eles. (Veja a nota de estudo em 2Co 11:5.) Eles diziam sobre Paulo: “A presença dele é fraca, e a palavra dele desprezível.” Mas, em Listra, as pessoas chegaram a pensar que Paulo era Hermes, o deus grego da oratória. (Veja a nota de estudo em At 14:12.) E os discursos de Paulo registrados no livro de Atos não deixam dúvidas sobre as excelentes habilidades de oratória que ele tinha. (At 13:15-43; 17:22-34; 26:1-29) Assim, tudo indica que as críticas dos adversários de Paulo, além de maldosas e desrespeitosas, não tinham base nenhuma.
+- *a presença dele*: Nesta passagem, Paulo faz um contraste entre sua “presença [em grego, parousía]” e sua ‘ausência’. (2Co 10:11) Aqui, Paulo usa parousía com o sentido de “estar presente” com os irmãos, e não com o sentido de “vir” ou “chegar”. Essa palavra grega foi usada com um sentido parecido outras cinco vezes nas Escrituras Gregas Cristãs. (1Co 16:17; 2Co 7:6, 7; Fil 1:26; 2:12) Ela também foi usada em contextos que falam da presença invisível de Jesus Cristo. (Mt 24:3; 1Co 15:23) Nesses contextos, muitas Bíblias traduzem parousía como “vinda” ou “volta”. Mas a forma como Paulo usa essa palavra dá apoio para a tradução “presença”. — Veja as notas de estudo em 1Co 15:23; 16:17.
+====
+
+[[v47-10-11]]
+
+^<<v47-10-11,11>>^ Que tal homem saiba que aquilo que dizemos^&#42;1^ por cartas quando estamos ausentes, nós faremos^&#42;2^ quando estivermos presentes.
+
+[NOTE]
+====
+. Lit.: “o que somos em palavra”.
+. Lit.: “também seremos em ação”.
+====
+
+[[v47-10-12]]
+
+^<<v47-10-12,12>>^ Pois não nos atrevemos a nos igualar ou a nos comparar com alguns que recomendam a si mesmos. Mas, quando eles se avaliam pelos seus próprios critérios e se comparam consigo mesmos, mostram que não têm entendimento.
+
+[[v47-10-13]]
+
+^<<v47-10-13,13>>^ No entanto, nós não nos orgulharemos de algo feito fora dos nossos limites designados, mas somente do que fazemos dentro dos limites do território que Deus demarcou^&#42;1^ para nós, o qual inclui vocês.
+
+[NOTE]
+====
+. Ou: “repartiu por medida”.
+====
+
+[TIP]
+====
+- *território*: A palavra grega kanón, traduzida aqui como “território”, vem da palavra hebraica qanéh, que significa “cana”. No passado, a cana era usada como régua ou instrumento de medir. (Ez 40:3-8; 41:8; 42:16-19; veja o Glossário, “Cânon da Bíblia”.) Em 2Co 10:13, 15, 16, Paulo usa kanón para se referir à designação que Deus demarcou para ele. Paulo estava decidido a se orgulhar apenas do que conseguisse fazer dentro dos limites do território, ou seja, dentro da área de atuação que sua designação envolvia.
+====
+
+[[v47-10-14]]
+
+^<<v47-10-14,14>>^ Realmente, não estamos indo além dos nossos limites, como se o nosso território não os incluísse, pois fomos os primeiros a chegar até vocês com as boas novas a respeito do Cristo.
+
+[[v47-10-15]]
+
+^<<v47-10-15,15>>^ Não, não nos orgulhamos fora dos nossos limites designados, isto é, do trabalho árduo de outros, mas esperamos que, ao passo que a sua fé continuar crescendo, o trabalho que realizamos continue a crescer, dentro do nosso território. Então aumentaremos ainda mais,
+
+[[v47-10-16]]
+
+^<<v47-10-16,16>>^ para que declaremos as boas novas às regiões que ficam além de vocês, a fim de não nos orgulharmos de algo já feito em território de outro.
+
+[[v47-10-17]]
+
+^<<v47-10-17,17>>^ “Mas quem se orgulhar, orgulhe-se em Jeová.”
+
+[TIP]
+====
+- *orgulhe-se em Jeová*: Nas Escrituras Gregas Cristãs, o verbo grego kaukháomai, traduzido aqui como “orgulhar-se”, é usado tanto em sentido negativo quanto em sentido positivo. Ele também pode ser traduzido como “gabar-se; alegrar-se; exultar”. Paulo usa esse verbo em sentido positivo em Ro 5:2, onde ele diz: “Alegremo-nos [ou: “orgulhemo-nos”] com base na esperança de participar da glória de Deus.” A expressão “orgulhar-se em Jeová” passa a ideia de se orgulhar de ter a Jeová como Deus, alegrando-se com a reputação e o bom nome dele. — Je 9:23, 24.
+- *Jeová*: Esta é uma citação de Je 9:24. No texto hebraico original de Jeremias, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Paulo cita esse mesmo versículo em 1Co 1:31. — Veja os Apêndices C1 e C2.
+====
+
+[[v47-10-18]]
+
+^<<v47-10-18,18>>^ Pois o aprovado não é aquele que recomenda a si mesmo, mas sim aquele a quem Jeová recomenda.
+
+[TIP]
+====
+- *mas sim aquele a quem Jeová recomenda*: As palavras de Paulo aqui estão ligadas ao que ele disse no versículo anterior, onde ele faz referência a Je 9:23, 24. Em Je 9:23, o profeta Jeremias mostra que ninguém deve se orgulhar de sua própria sabedoria, poder ou riquezas. E, no versículo 24, ele cita qual é o único motivo válido para alguém se orgulhar: “Ter entendimento e conhecimento de . . . Jeová”. Aqui, Paulo amplia o que Jeremias disse. Ele mostra que quem tem a aprovação, ou o reconhecimento, de Jeová são aqueles a quem o próprio Jeová “recomenda”, e não os que com orgulho recomendam a si mesmos. (Pr 27:2) Visto que o nome de Deus aparece no texto hebraico original de Je 9:24, ele foi usado tanto aqui como no versículo anterior. — Para uma explicação sobre os motivos de o nome de Deus ter sido usado aqui, veja o Apêndice C3 (introdução e 2Co 10:18).
+====
+
+'''
+
+xref:047-2-corintios/047-2-corintios-009.adoc#v47-9-0[&#60; Capítulo Anterior] | <<v47-10-0,Topo>> | xref:047-2-corintios/047-2-corintios-011.adoc#v47-11-0[Próximo Capítulo &#62;]

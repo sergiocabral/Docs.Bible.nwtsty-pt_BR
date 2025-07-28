@@ -1,0 +1,273 @@
+include::./index.adoc[]
+
+[[v45-4-0]]
+=== A Carta aos Romanos, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-4-1]]
+
+^<<v45-4-1,1>>^ Sendo assim, o que diremos que Abraão, nosso antepassado segundo a carne, obteve?
+
+[TIP]
+====
+- *o que diremos que Abraão, nosso antepassado segundo a carne, obteve?*: Alguns manuscritos dizem “o que diremos a respeito de Abraão, nosso antepassado segundo a carne?”. Mas a opção usada aqui tem mais apoio entre os manuscritos mais antigos e confiáveis.
+====
+
+[[v45-4-2]]
+
+^<<v45-4-2,2>>^ Por exemplo, se Abraão tivesse sido declarado justo em resultado de obras, ele teria razão para se orgulhar, mas não diante de Deus.
+
+[[v45-4-3]]
+
+^<<v45-4-3,3>>^ Pois o que diz certa passagem das Escrituras? “Abraão depositou fé em Jeová, e isso lhe foi creditado como justiça.”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Gên 15:6. No texto hebraico original de Gênesis, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). (Veja o Apêndice C1.) Os manuscritos gregos de Romanos disponíveis hoje usam aqui a palavra Theós (“Deus”), talvez porque essa seja a palavra usada em cópias da Septuaginta em Gên 15:6. Isso pode explicar por que a maioria das traduções diz “Deus” aqui. Mas, visto que o Tetragrama aparece no texto hebraico do versículo citado por Paulo, o nome de Deus foi usado no texto principal. A mesma frase de Gên 15:6 também é citada em Gál 3:6 e Tg 2:23.
+- *creditado*: No capítulo 4 de Romanos, o verbo grego logízomai aparece 11 vezes e é traduzido como “creditar” (versículos 3, 5, 6, 9, 10, 11, 22, 23, 24), “considerar” (versículo 4) e “levar em conta” (versículo 8). Nos tempos antigos, o verbo logízomai era usado para se referir a cálculos numéricos, como, por exemplo, os cálculos feitos na área da contabilidade. O verbo podia se referir a valores lançados tanto como crédito quanto como débito. Em Ro 4:20-22, Paulo diz que a fé de Abraão, somada às suas obras, ‘lhe foi creditada [atribuída] como justiça’. Isso não quer dizer que Abraão e os outros homens e mulheres fiéis que viveram antes dos dias de Jesus não tinham nenhum pecado. Mas Deus levava em conta a fé que eles tinham na sua promessa e o esforço que eles faziam para seguir suas leis. (Gên 3:15; Sal 119:2, 3) Por isso, ele os considerava como inocentes em comparação com a humanidade em geral, que estava afastada dele. (Sal 32:1, 2; Ef 2:12) É claro que esses servos fiéis do passado sabiam que precisavam ser resgatados do pecado e aguardavam o tempo em que Deus iria providenciar o resgate. (Sal 49:7-9; He 9:26) Mas, por causa da fé que esses servos imperfeitos tinham, Jeová já podia ter um relacionamento com eles e abençoá-los, sem abrir mão de seus padrões perfeitos de justiça, mesmo antes de esse tempo chegar. — Sal 36:10.
+====
+
+[[v45-4-4]]
+
+^<<v45-4-4,4>>^ Ora, o pagamento do homem que trabalha não é considerado como bondade imerecida, mas como algo que se deve a ele.
+
+[TIP]
+====
+- *como bondade imerecida*: Ou: “como um presente”. O trabalhador merece o pagamento pelo seu trabalho. Por isso, ele não considera o pagamento como um presente ou um ato de bondade. Mas ninguém fez nada para merecer o que Deus oferece. Ele dá a humanos imperfeitos a chance de serem libertados da condenação à morte e declarados justos pela fé, não porque eles mereçam, mas por causa de sua generosidade. — Ro 3:23, 24; 5:17; 2Co 6:1; Ef 1:7; veja o Glossário, “Bondade imerecida”.
+- *como algo que se deve a ele*: Ou: “como uma dívida”. O trabalhador tem o direito de receber seu salário. Por isso, ele considera esse pagamento “como algo que se deve a ele”, e não como um presente ou um ato de bondade.
+====
+
+[[v45-4-5]]
+
+^<<v45-4-5,5>>^ Por outro lado, ao homem que não realiza obras, mas deposita fé Naquele que declara justo o ímpio, a sua fé é creditada como justiça.
+
+[[v45-4-6]]
+
+^<<v45-4-6,6>>^ Da mesma forma, Davi também fala da felicidade do homem a quem Deus credita justiça independentemente de obras:
+
+[[v45-4-7]]
+
+^<<v45-4-7,7>>^ “Felizes aqueles cujos atos contra a lei foram perdoados e cujos pecados foram cobertos;
+
+[TIP]
+====
+- *Felizes*: A palavra grega usada aqui, makários, aparece 50 vezes nas Escrituras Gregas Cristãs. Neste contexto, Paulo está falando da “felicidade do homem a quem Deus credita justiça independentemente de obras”. (Ro 4:6) A palavra makários também é usada para falar de Jeová (1Ti 1:11) e de Jesus depois que foi glorificado no céu (1Ti 6:15). Ela também aparece nas famosas frases sobre felicidade que fazem parte do Sermão do Monte. (Mt 5:3-11; Lu 6:20-22) As frases neste versículo e no próximo (que começam com as palavras “felizes” e “feliz”) são citações do Sal 32:1, 2. Esse tipo de frase é comum nas Escrituras Hebraicas. (De 33:29; 1Rs 10:8; Jó 5:17; Sal 1:1; 2:12; 33:12; 94:12; 128:1; 144:15; Da 12:12) Tanto no hebraico como no grego, a palavra “feliz” não se refere a uma simples alegria passageira, como a que uma pessoa sente quando está se divertindo. De acordo com as Escrituras, para ser feliz de verdade, a pessoa precisa desenvolver amor por Deus, servir a ele fielmente e ter a aprovação e as bênçãos dele.
+- *perdoados*: A palavra grega que aparece aqui, afíemi, tem o sentido básico de “deixar ir embora” (Jo 11:44; 18:8), mas também pode passar a ideia de “cancelar uma dívida” (Mt 18:27, 32) ou, em sentido figurado, de “perdoar” pecados (Mt 6:12). (Veja as notas de estudo em Mt 6:12.) A Septuaginta também usou essa palavra no Sal 32:1 (31:1, LXX), que é o texto que Paulo está citando neste versículo.
+- *cobertos*: Ou: “desculpados”. Esta é a única vez que o verbo grego epikalýpto aparece nas Escrituras Gregas Cristãs. Esse verbo significa literalmente “cobrir”, mas aqui ele é usado em sentido figurado como um sinônimo de “desculpar”. Paulo está citando o Sal 32:1 (31:1, LXX). Nesse salmo, a Septuaginta usou epikalýpto para traduzir um verbo hebraico que significa “cobrir” no sentido de perdoar pecados.
+====
+
+[[v45-4-8]]
+
+^<<v45-4-8,8>>^ feliz o homem cujo pecado Jeová de modo algum levará em conta.”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação do Sal 32:2. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v45-4-9]]
+
+^<<v45-4-9,9>>^ Será que essa felicidade, então, é somente para circuncisos, ou é também para incircuncisos? Pois dizemos: “A fé que Abraão tinha lhe foi creditada como justiça.”
+
+[[v45-4-10]]
+
+^<<v45-4-10,10>>^ Em que circunstâncias lhe foi creditada como justiça? Quando já estava circuncidado, ou quando era incircunciso? Ele ainda não havia sido circuncidado; era incircunciso.
+
+[[v45-4-11]]
+
+^<<v45-4-11,11>>^ E ele recebeu um sinal, isto é, a circuncisão, como selo da justiça resultante da fé que tinha enquanto era incircunciso, para que ele fosse o pai de todos os que têm fé enquanto são incircuncisos, a fim de que se creditasse justiça a eles;
+
+[TIP]
+====
+- *selo*: Ou: “garantia; confirmação”. Aqui, a palavra “selo” foi usada em sentido figurado e passa a ideia de um sinal que comprova que alguém tem posse de algo. Abraão já tinha sido considerado justo por sua fé antes de ser circuncidado, mas a circuncisão dele serviu como um “selo” que comprovava essa condição. — Compare com a nota de estudo em Jo 3:33.
+- *o pai de todos os que têm fé*: Em sentido espiritual, Abraão pode ser considerado o pai de todos os que têm fé. Isso inclui não apenas os descendentes biológicos dele que tiveram fé em Deus, mas todos os discípulos de Jesus Cristo. Aqui nesta passagem, Paulo destaca que Abraão começou a mostrar fé antes de ter sido circuncidado. (Ro 4:10) Por isso, ele podia ser considerado “o pai” dos não judeus incircuncisos que tinham fé em Jesus. Assim, apesar de os cristãos da congregação de Roma serem de diferentes origens, todos eles podiam chamar Abraão de pai por causa da fé e da obediência deles. — Veja a nota de estudo em Ro 4:17.
+====
+
+[[v45-4-12]]
+
+^<<v45-4-12,12>>^ e para que ele fosse pai de descendência circuncisa, não só dos que praticam a^&#42;1^ circuncisão, mas também dos que andam^&#42;2^ nas pisadas da fé que nosso pai Abraão tinha enquanto era incircunciso.
+
+[NOTE]
+====
+. Ou: “aderem à”.
+. Ou: “andam ordeiramente”.
+====
+
+[[v45-4-13]]
+
+^<<v45-4-13,13>>^ Porque não foi por meio da Lei que Abraão ou sua descendência^&#42;1^ receberam a promessa de que ele seria herdeiro de um mundo, mas foi por meio da justiça resultante da fé.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v45-4-14]]
+
+^<<v45-4-14,14>>^ Pois, se os que confiam na^&#42;1^ Lei são herdeiros, a fé se torna inútil e a promessa foi anulada.
+
+[NOTE]
+====
+. Ou: “aderem à”.
+====
+
+[[v45-4-15]]
+
+^<<v45-4-15,15>>^ Na realidade, a Lei produz a ira; mas, onde não há lei, também não há transgressão.
+
+[TIP]
+====
+- *transgressão*: A palavra grega que aparece aqui, parábasis, passa a ideia de “ir além”, ou seja, de ultrapassar certos limites, especialmente no sentido de violar uma lei.
+====
+
+[[v45-4-16]]
+
+^<<v45-4-16,16>>^ Por isso, a promessa vem por meio da fé, para que seja segundo a bondade imerecida, a fim de que esteja assegurada a toda a descendência^&#42;1^ de Abraão, não somente aos que estão debaixo da^&#42;2^ Lei, mas também aos que têm a^&#42;3^ fé demonstrada por Abraão, que é o pai de todos nós.
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Ou: “aderem à”.
+. Ou: “aderem à”.
+====
+
+[[v45-4-17]]
+
+^<<v45-4-17,17>>^ (Como está escrito: “Eu fiz de você pai de muitas nações.”) Isso se deu à vista de Deus, em quem ele tinha fé, aquele que dá vida aos mortos e fala das^&#42;1^ coisas que não existem como se existissem.
+
+[NOTE]
+====
+. Ou: “chama as; convoca as”.
+====
+
+[TIP]
+====
+- *Como está escrito*: Ou seja, como está escrito em Gên 17:5, onde Jeová disse a Abrão: “Eu farei de você pai de muitas nações.” Foi por causa dessa promessa que Jeová mudou o nome de Abrão para Abraão, que significa “pai de uma multidão; pai de muitos”. A promessa se cumpriu da seguinte forma: Ismael, filho de Abraão, se tornou pai de “12 maiorais, segundo os seus clãs”. (Gên 25:13-16; 17:20; 21:13, 18) Outras nações de descendentes de Abraão surgiram por meio dos seis filhos que ele teve com Quetura. (Gên 25:1-4; 1Cr 1:28-33; Ro 4:16-18) E o outro filho de Abraão, Isaque, deu origem aos israelitas e aos edomitas. (Gên 25:21-26) Além disso, em sentido espiritual, Abraão se tornou pai de pessoas de muitas nações, incluindo os cristãos da congregação em Roma, que tinham uma fé semelhante à “fé demonstrada por Abraão”. — Ro 4:16.
+- *aquele que . . . fala das coisas que não existem como se existissem*: Deus pode fazer isso porque os propósitos dele sempre se cumprem. (Is 55:10, 11) Aqui, Paulo está fazendo uma referência à promessa que Deus tinha feito a Abrão de que ele seria “pai de muitas nações”. (Gên 17:4-6) Essa promessa foi feita quando Abrão e Sarai ainda não tinham filhos. Do ponto de vista de Deus, era como se os filhos de Abraão e os descendentes deles já existissem muito antes de terem nascido. Estas palavras do fim do versículo 17 também poderiam ser traduzidas como “aquele que . . . chama à existência o que não existe”. Nesse caso, a tradução daria destaque ao poder que Deus tem de criar, que com certeza esteve envolvido em tornar Abraão o “pai de muitas nações”.
+====
+
+[[v45-4-18]]
+
+^<<v45-4-18,18>>^ Embora estivesse além de esperança, mas baseando-se na esperança, ele teve fé em que se tornaria pai de muitas nações, de acordo com o que havia sido dito: “Assim será a sua descendência.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v45-4-19]]
+
+^<<v45-4-19,19>>^ E, embora não enfraquecesse na fé, pensava no seu próprio corpo, então já como que morto (visto que ele tinha cerca de 100 anos de idade), e também no estado morto do ventre de Sara.
+
+[TIP]
+====
+- *no estado morto*: Ou: “na esterilidade”. A palavra grega traduzida aqui como “estado morto” é nékrosis. Ela está relacionada com o verbo grego nekróo, que aparece antes na mesma frase e foi traduzido com as palavras como que morto. Sara (Sarai) era estéril, mas Deus fez um milagre e deu a ela a capacidade de ter filhos quando ela já estava muito além da idade para isso. (Gên 11:30; 18:11) Em He 11:11, 12, Paulo também fala de Abraão como um homem que “já estava como que morto”. Assim, quando Deus restaurou a capacidade de Abraão e Sara de terem filhos, os dois passaram por algo que em certo sentido poderia ser comparado a uma ressurreição. — Gên 18:9-11; 21:1, 2, 12; Ro 4:20, 21.
+====
+
+[[v45-4-20]]
+
+^<<v45-4-20,20>>^ No entanto, por causa da promessa de Deus, ele não vacilou com falta de fé; mas se tornou poderoso pela sua fé, dando glória a Deus,
+
+[TIP]
+====
+- *vacilou*: A palavra grega que aparece aqui, diakríno, passa a ideia de não ter certeza ou de ficar dividido ou indeciso. Essa palavra grega também é traduzida como “duvidar” e “hesitar”. — Mt 21:21; Mr 11:23; At 10:20; 11:12; Tg 1:6.
+====
+
+[[v45-4-21]]
+
+^<<v45-4-21,21>>^ plenamente convencido de que, aquilo que Ele havia prometido, também era capaz de fazer.
+
+[[v45-4-22]]
+
+^<<v45-4-22,22>>^ Portanto, “isso lhe foi creditado como justiça”.
+
+[TIP]
+====
+- *creditado*: Veja a nota de estudo em Ro 4:3.
+====
+
+[[v45-4-23]]
+
+^<<v45-4-23,23>>^ No entanto, as palavras “isso lhe foi creditado” não foram escritas somente por causa dele,
+
+[[v45-4-24]]
+
+^<<v45-4-24,24>>^ mas também por nossa causa, a quem isso será creditado, porque cremos Naquele que levantou Jesus, nosso Senhor, dentre os mortos.
+
+[[v45-4-25]]
+
+^<<v45-4-25,25>>^ Ele foi entregue por causa das nossas falhas e foi levantado para que fôssemos declarados justos.
+
+'''
+
+xref:045-romanos/045-romanos-003.adoc#v45-3-0[&#60; Capítulo Anterior] | <<v45-4-0,Topo>> | xref:045-romanos/045-romanos-005.adoc#v45-5-0[Próximo Capítulo &#62;]

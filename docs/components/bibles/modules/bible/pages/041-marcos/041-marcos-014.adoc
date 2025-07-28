@@ -1,0 +1,580 @@
+include::./index.adoc[]
+
+[[v41-14-0]]
+=== As Boas Novas Segundo Marcos, 14
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Últimos dias da pregação de Jesus em Jerusalém (11:1–14:16)
+* Entrada triunfal de Jesus em Jerusalém (11:1-11)
+* Jesus amaldiçoa uma figueira no caminho para Jerusalém (11:12-14)
+* Jesus purifica o templo (11:15-18)
+* Lição da figueira que secou (11:19-25)
+* Autoridade de Jesus é questionada (11:27-33)
+* Ilustração dos lavradores maus (12:1-12)
+* Deus e César (12:13-17)
+* Pergunta sobre a ressurreição (12:18-27)
+* Dois maiores mandamentos (12:28-34)
+* O Cristo é filho de Davi? (12:35-37a)
+* Alerta contra os escribas (12:37b-40)
+* Duas moedas da viúva pobre (12:41-44)
+* Pergunta sobre “o sinal de que todas essas coisas” vão “chegar a um final” (13:1-4)
+* Acontecimentos que fazem parte do sinal; tribulação sem precedentes (13:5-20)
+* Perigo de ser desencaminhado por falsos Cristos (13:21-23)
+* Vinda do Filho do Homem (13:24-27)
+* Ilustração da figueira (13:28, 29)
+* Esta geração não passará (13:30, 31)
+* Ninguém sabe o dia e a hora, nem os anjos (13:32)
+* Mantenham-se vigilantes (13:33-37)
+* Sacerdotes tramam matar Jesus (14:1, 2)
+* Mulher derrama óleo perfumado em Jesus (14:3-9)
+* Judas planeja traição de Jesus (14:10, 11)
+* Preparativos para a última Páscoa (14:12-16)
+* H. Última Páscoa de Jesus na Terra e outros acontecimentos do dia 14 de nisã (14:17–15:41)
+* “Ai daquele que trai o Filho do Homem!” (14:17-21)
+* Jesus realiza a primeira Ceia do Senhor (14:22-26)
+* Jesus prediz que Pedro vai negá-lo (14:27-31)
+* Jesus ora em Getsêmani (14:32-42)
+* Jesus é detido, e os discípulos fogem (14:43-52)
+* Julgamento no Sinédrio (14:53-65)
+* Pedro nega Jesus três vezes e chora (14:66-72)
+* Pilatos interroga Jesus (15:1-15)
+* Soldados zombam de Jesus (15:16-20)
+* Jesus é pregado numa estaca em Gólgota (15:21-32)
+* Jesus morre (15:33-41)
+****
+
+[[v41-14-1]]
+
+^<<v41-14-1,1>>^ Dali a dois dias era a Páscoa e a Festividade dos Pães sem Fermento. E os principais sacerdotes e os escribas estavam procurando um modo astucioso de^&#42;1^ prendê-lo^&#42;2^ e matá-lo.
+
+[NOTE]
+====
+. Ou: “por meio de uma trama”.
+. Ou: “pegá-lo”.
+====
+
+[TIP]
+====
+- *Dali a dois dias*: Os acontecimentos descritos em Mr 14:​1, 2 ocorreram no dia 12 de nisã, visto que o versículo diz que faltavam dois dias para a Páscoa (14 de nisã; veja a nota de estudo em Mt 26:2) e para a Festividade dos Pães sem Fermento (15-​21 de nisã; veja o Glossário). — Veja os Apêndices A7-G, B12-B e B15, e as notas de estudo em Mr 14:​3, 10.
+====
+
+[[v41-14-2]]
+
+^<<v41-14-2,2>>^ Pois diziam: “Não durante a festividade; talvez haja um alvoroço entre o povo.”
+
+[[v41-14-3]]
+
+^<<v41-14-3,3>>^ E, quando ele estava em Betânia, comendo^&#42;1^ na casa de Simão, o leproso, chegou uma mulher com um frasco de alabastro que continha óleo perfumado, nardo genuíno, muito caro. Ela rompeu o frasco de alabastro e começou a derramá-lo sobre a cabeça dele.
+
+[NOTE]
+====
+. Ou: “recostado à mesa”.
+====
+
+[TIP]
+====
+- *quando ele estava em Betânia*: Os acontecimentos descritos em Mr 14:​3-9 pelo visto ocorreram depois do pôr do sol que marcou o começo do dia 9 de nisã. Isso é indicado pelo relato paralelo de João, que diz que Jesus chegou em Betânia “seis dias antes da Páscoa”. (Jo 12:1) Ele deve ter chegado por volta da hora do pôr do sol que marcou o começo do sábado, 8 de nisã, um dia antes da refeição na casa de Simão, que aconteceu no dia 9. — Jo 12:​2-​11; veja os Apêndices A7-G e B12-A.
+- *Simão, o leproso*: Esse Simão só é mencionado aqui e no relato paralelo em Mt 26:6. Talvez fosse um leproso que Jesus tinha curado. — Veja a nota de estudo em Mt 8:2 e o Glossário, “Lepra; Leproso”.
+- *uma mulher*: Veja a nota de estudo em Mt 26:7.
+- *frasco de alabastro*: Veja o Glossário, “Alabastro”.
+- *óleo perfumado*: João diz que o frasco continha quase meio quilo de óleo perfumado. Os relatos de Marcos e de João especificam que o óleo valia “mais de 300 denários”. (Mr 14:5; Jo 12:​3-5) Um trabalhador comum teria que juntar o salário de um ano inteiro para conseguir esse valor. Acredita-se que esse óleo vinha de uma planta aromática (Nardostachys jatamansi) encontrada nas montanhas do Himalaia. Por ser muito caro, o nardo era muitas vezes adulterado e até mesmo falsificado, mas tanto Marcos como João dizem que esse óleo era nardo genuíno. — Veja o Glossário, “Nardo”.
+- *derramá-lo sobre a cabeça dele*: Mateus e Marcos dizem que a mulher derramou o óleo sobre a cabeça de Jesus. (Mt 26:7) João, que escreveu seu Evangelho anos mais tarde, diz que a mulher também derramou o óleo nos pés de Jesus. (Jo 12:3) Jesus explicou que, com aquele ato bondoso, a mulher estava como que preparando o corpo dele para o sepultamento — Veja a nota de estudo em Mr 14:8.
+====
+
+[[v41-14-4]]
+
+^<<v41-14-4,4>>^ Em vista disso, alguns disseram uns aos outros, indignados: “Por que se desperdiçou esse óleo perfumado?
+
+[[v41-14-5]]
+
+^<<v41-14-5,5>>^ Pois esse óleo perfumado poderia ter sido vendido por mais de 300 denários, e o dinheiro dado aos pobres!” E ficaram muito aborrecidos com ela.^&#42;1^
+
+[NOTE]
+====
+. Ou: “E falaram com ela de modo irritado; E a repreenderam.”
+====
+
+[TIP]
+====
+- *300 denários*: O relato de Mateus diz apenas “uma grande soma” (Mt 26:9), mas os relatos de Marcos e de João são mais específicos. — Veja a nota de estudo em Mr 14:3; o Glossário, “Denário”; e o Apêndice B14-B.
+====
+
+[[v41-14-6]]
+
+^<<v41-14-6,6>>^ Mas Jesus disse: “Deixem-na em paz. Por que vocês estão perturbando a mulher? Ela me fez uma coisa muito boa.
+
+[[v41-14-7]]
+
+^<<v41-14-7,7>>^ Porque vocês sempre têm consigo os pobres e podem lhes fazer o bem sempre que quiserem, mas nem sempre terão a mim.
+
+[[v41-14-8]]
+
+^<<v41-14-8,8>>^ Ela fez o que pôde; ela se antecipou em derramar óleo perfumado sobre o meu corpo, em vista do meu sepultamento.
+
+[TIP]
+====
+- *derramar óleo perfumado sobre o meu corpo*: A mulher (veja a nota de estudo em Mt 26:7) fez esse ato generoso porque sentia amor e gratidão por Jesus. Era costume passar aromas e óleos perfumados no corpo de pessoas falecidas. (2Cr 16:14) Por isso, Jesus explicou que a mulher, mesmo sem saber, já estava preparando o corpo dele para o sepultamento.
+====
+
+[[v41-14-9]]
+
+^<<v41-14-9,9>>^ Eu lhes digo a verdade: Onde quer que se preguem as boas novas em todo o mundo, o que essa mulher fez também será relatado, em memória dela.”
+
+[TIP]
+====
+- *Eu lhes digo a verdade*: Veja a nota de estudo em Mt 5:18.
+- *se preguem as boas novas em todo o mundo*: Aqui e na profecia registrada em Mr 13:10, Jesus predisse que as boas novas seriam pregadas em todo o mundo. Essas boas novas incluiriam o ato de fé dessa mulher. Deus fez com que três dos quatro escritores dos Evangelhos registrassem o que ela tinha feito por Jesus. — Mt 26:12, 13; Jo 12:7; veja a nota de estudo em Mr 13:10.
+====
+
+[[v41-14-10]]
+
+^<<v41-14-10,10>>^ E Judas Iscariotes, um dos Doze, se dirigiu aos principais sacerdotes a fim de entregá-lo^&#42;1^ a eles.
+
+[NOTE]
+====
+. Ou: “traí-lo”.
+====
+
+[TIP]
+====
+- *E*: Os acontecimentos descritos nos versículos 10 e 11 ocorreram no dia 12 de nisã, o mesmo dia dos acontecimentos descritos em Mr 14:​1, 2. — Veja os Apêndices A7-G e B12-B, e as notas de estudo em Mr 14:​1, 3.
+- *Iscariotes*: Veja a nota de estudo em Mt 10:4.
+====
+
+[[v41-14-11]]
+
+^<<v41-14-11,11>>^ Quando ouviram isso, se alegraram e prometeram lhe dar dinheiro de prata. De modo que ele começou a procurar uma oportunidade para traí-lo.
+
+[TIP]
+====
+- *dinheiro de prata*: Lit.: “prata”. Ou seja, prata usada como dinheiro. De acordo com Mt 26:15, o valor foi de “30 moedas de prata”. O Evangelho de Mateus é o único que menciona o valor pelo qual Jesus foi traído. Essas 30 moedas talvez fossem 30 siclos de prata produzidos em Tiro. O valor oferecido pelos principais sacerdotes parece mostrar o quanto eles desprezavam Jesus, já que de acordo com a Lei esse era o valor pago por um escravo. (Êx 21:32) Do mesmo modo, quando Zacarias pediu que os israelitas infiéis pagassem o seu salário pelo trabalho de profeta, eles deram “30 peças de prata”, mostrando que para eles Zacarias não valia mais do que um escravo. — Za 11:12, 13.
+====
+
+[[v41-14-12]]
+
+^<<v41-14-12,12>>^ Então, no primeiro dia da Festividade dos Pães sem Fermento, quando costumavam oferecer o sacrifício pascoal, seus discípulos lhe perguntaram: “Onde o senhor quer que façamos os preparativos para tomar a refeição pascoal?”
+
+[TIP]
+====
+- *no primeiro dia da Festividade dos Pães sem Fermento*: A Festividade dos Pães sem Fermento começava no dia 15 de nisã, um dia depois da Páscoa (14 de nisã), e durava sete dias. (Veja o Apêndice B15.) Mas, na época de Jesus, as duas celebrações já estavam tão relacionadas que os oito dias (incluindo o dia 14) às vezes eram chamados de “a Festividade dos Pães sem Fermento”. (Lu 22:1) O dia mencionado aqui é o dia 14 de nisã, já que Marcos diz que era o dia em que costumavam oferecer o sacrifício pascoal. (Êx 12:6, 15, 17, 18; Le 23:5; De 16:1-8) Os acontecimentos descritos nos versículos 12-16 provavelmente ocorreram na tarde do dia 13 de nisã, em preparação para a Páscoa que foi celebrada “depois de anoitecer”, no início do dia 14 de nisã. — Mr 14:17, 18; veja o Apêndice B12 e a nota de estudo em Mt 26:17.
+====
+
+[[v41-14-13]]
+
+^<<v41-14-13,13>>^ Em vista disso, ele enviou dois dos seus discípulos e lhes disse: “Vão à cidade, e um homem levando um jarro de barro com água encontrará vocês. Sigam-no,
+
+[[v41-14-14]]
+
+^<<v41-14-14,14>>^ e onde quer que ele entrar, digam ao dono da casa: ‘O Instrutor diz: “Onde está a sala dos hóspedes, em que eu possa tomar a refeição pascoal com os meus discípulos?”’
+
+[[v41-14-15]]
+
+^<<v41-14-15,15>>^ E ele lhes mostrará uma grande sala no andar de cima, mobiliada e pronta. Façam ali os preparativos para nós.”
+
+[[v41-14-16]]
+
+^<<v41-14-16,16>>^ Então os discípulos foram, entraram na cidade e encontraram tudo assim como ele tinha lhes dito, e prepararam a refeição pascoal.
+
+[[v41-14-17]]
+
+^<<v41-14-17,17>>^ Depois de anoitecer, ele chegou com os Doze.
+
+[TIP]
+====
+- *Depois de anoitecer*: Ou seja, depois do anoitecer que marcou o começo de 14 de nisã. — Veja os Apêndices A7-G e B12-B.
+====
+
+[[v41-14-18]]
+
+^<<v41-14-18,18>>^ E, enquanto estavam recostados à mesa e comiam, Jesus disse: “Digo-lhes a verdade: Um de vocês, que está comendo comigo, me trairá.”
+
+[[v41-14-19]]
+
+^<<v41-14-19,19>>^ Eles começaram a ficar tristes, e lhe perguntavam um por um: “Por acaso sou eu?”
+
+[[v41-14-20]]
+
+^<<v41-14-20,20>>^ Ele lhes disse: “É um dos Doze, aquele que põe comigo a mão na tigela.
+
+[TIP]
+====
+- *põe comigo a mão*: As pessoas costumavam comer com as mãos, ou então usavam um pedaço de pão como se fosse uma colher. Essas palavras de Jesus também podem ser uma expressão idiomática para “compartilhar a comida”. Comer com uma pessoa indicava uma amizade bem próxima com ela. Trair alguém com quem se tinha uma amizade tão próxima era considerado o pior tipo de traição possível. — Sal 41:9; Jo 13:18.
+- *tigela*: Alguns poucos manuscritos bem antigos usam uma expressão que pode ser traduzida “na tigela comum (compartilhada)”, mas a maioria dos manuscritos mais antigos apoia a tradução “tigela”.
+====
+
+[[v41-14-21]]
+
+^<<v41-14-21,21>>^ Pois o Filho do Homem vai embora, assim como está escrito a respeito dele, mas ai daquele que trai o Filho do Homem! Seria melhor para esse homem que não tivesse nascido.”
+
+[[v41-14-22]]
+
+^<<v41-14-22,22>>^ E, ao continuarem a comer, pegou um pão, proferiu uma bênção, partiu-o e deu a eles, dizendo: “Peguem; isto representa o meu corpo.”
+
+[TIP]
+====
+- *pegou um pão . . . partiu-o*: Veja a nota de estudo em Mt 26:26.
+- *proferiu uma bênção*: Pelo visto, se refere a fazer uma oração de louvor e agradecimento a Deus.
+- *representa*: Veja a nota de estudo em Mt 26:26.
+====
+
+[[v41-14-23]]
+
+^<<v41-14-23,23>>^ E, pegando um cálice, ele deu graças, deu-o a eles, e todos beberam dele.
+
+[[v41-14-24]]
+
+^<<v41-14-24,24>>^ E lhes disse: “Isto representa o meu ‘sangue do pacto’, que será derramado em benefício de muitos.
+
+[TIP]
+====
+- *sangue do pacto*: Veja a nota de estudo em Mt 26:28.
+====
+
+[[v41-14-25]]
+
+^<<v41-14-25,25>>^ Eu lhes digo a verdade: Eu de modo algum beberei mais do produto da videira até aquele dia em que beberei vinho novo, no Reino de Deus.”
+
+[TIP]
+====
+- *beberei vinho novo*: Veja a nota de estudo em Mt 26:29.
+====
+
+[[v41-14-26]]
+
+^<<v41-14-26,26>>^ Por fim, depois de cantarem louvores, saíram para o monte das Oliveiras.
+
+[TIP]
+====
+- *louvores*: Veja a nota de estudo em Mt 26:30.
+====
+
+[[v41-14-27]]
+
+^<<v41-14-27,27>>^ E Jesus lhes disse: “Todos vocês tropeçarão, pois está escrito: ‘Ferirei o pastor, e as ovelhas serão espalhadas.’
+
+[[v41-14-28]]
+
+^<<v41-14-28,28>>^ Mas, depois que eu for levantado, irei adiante de vocês para a Galileia.”
+
+[[v41-14-29]]
+
+^<<v41-14-29,29>>^ No entanto, Pedro lhe disse: “Mesmo que todos os outros tropecem, eu não tropeçarei.”
+
+[[v41-14-30]]
+
+^<<v41-14-30,30>>^ Em vista disso, Jesus lhe disse: “Digo-lhe a verdade: Hoje, sim, ainda esta noite, antes de o galo cantar duas vezes, você me negará três vezes.”
+
+[TIP]
+====
+- *antes de o galo cantar*: Os quatro Evangelhos mencionam esta declaração de Jesus, mas o relato de Marcos é o único que acrescenta o detalhe de que o galo cantaria duas vezes. (Mt 26:34, 74, 75; Mr 14:72; Lu 22:34, 60, 61; Jo 13:38; 18:27) A Mishná indica que nos dias de Jesus as pessoas criavam galos em Jerusalém, o que apoia o relato da Bíblia. É provável que o galo tenha cantado ainda de madrugada. — Veja a nota de estudo em Mr 13:35.
+====
+
+[[v41-14-31]]
+
+^<<v41-14-31,31>>^ Mas ele insistiu: “Mesmo que eu tenha de morrer com o senhor, de modo algum o negarei.” E todos os outros começaram a dizer a mesma coisa.
+
+[[v41-14-32]]
+
+^<<v41-14-32,32>>^ Assim, chegaram a um lugar chamado Getsêmani, e ele disse aos seus discípulos: “Sentem-se aqui enquanto eu oro.”
+
+[TIP]
+====
+- *Getsêmani*: Veja a nota de estudo em Mt 26:36.
+====
+
+[[v41-14-33]]
+
+^<<v41-14-33,33>>^ E ele levou consigo Pedro, Tiago e João, e começou a ficar profundamente angustiado^&#42;1^ e muito aflito.
+
+[NOTE]
+====
+. Ou: “ficar atônito”.
+====
+
+[[v41-14-34]]
+
+^<<v41-14-34,34>>^ Disse-lhes: “Estou profundamente triste, a ponto de morrer. Fiquem aqui e mantenham-se vigilantes.”
+
+[TIP]
+====
+- *Estou*: Veja a nota de estudo em Mt 26:38.
+- *mantenham-se vigilantes*: Lit.: “fiquem acordados”. Jesus já tinha avisado seus discípulos sobre a importância de continuar espiritualmente acordados, pois eles não sabiam em que dia e hora ele viria. (Veja as notas de estudo em Mt 24:42; 25:13; Mr 13:35.) Ele repete esse aviso aqui e em Mr 14:38, onde diz que, para conseguir continuar espiritualmente acordado, é importante perseverar em oração. Outros livros das Escrituras Gregas Cristãs contêm avisos parecidos, mostrando que é essencial que os cristãos verdadeiros continuem espiritualmente acordados. — 1Co 16:13; Col 4:2; 1Te 5:6; 1Pe 5:8; Ap 16:15.
+====
+
+[[v41-14-35]]
+
+^<<v41-14-35,35>>^ E, indo um pouco mais adiante, ele se prostrou no chão e começou a orar para que, se fosse possível, aquela hora se afastasse dele.
+
+[TIP]
+====
+- *se prostrou no chão*: Ou: “se lançou ao chão”. O relato paralelo em Mt 26:39 diz que Jesus “se prostrou com o rosto por terra”. A Bíblia menciona várias posturas diferentes em que as pessoas oravam, como de pé ou de joelhos. Mas ao fazer uma oração fervorosa a pessoa às vezes se deitava de bruços no chão, com o corpo estendido e o rosto voltado para baixo. Essa talvez fosse a postura mais humilde de todas.
+====
+
+[[v41-14-36]]
+
+^<<v41-14-36,36>>^ E disse: “Aba, Pai, todas as coisas são possíveis para ti; afasta de mim este cálice. Contudo, não o que eu quero, mas o que tu queres.”
+
+[TIP]
+====
+- *Aba*: A palavra grega Abbá é uma transliteração de uma palavra hebraica ou aramaica que significa literalmente “o pai” ou “ó Pai”. Abbá aparece três vezes nas Escrituras Gregas Cristãs; aqui e em Ro 8:​15 e Gál 4:6. Essa palavra combina a intimidade e informalidade da palavra “papai” com o tom de respeito da palavra “pai”. Era uma das primeiras palavras que uma criança aprendia a falar, mas textos hebraicos e aramaicos antigos mostram que filhos adultos também a usavam para se dirigir ao pai. Era um jeito carinhoso de se dirigir ao pai, e não um título. O fato de Jesus ter usado essa palavra mostra que ele tinha uma relação de intimidade e confiança com o Pai dele.
+- *Pai*: Nas três vezes que a palavra Aba aparece nas Escrituras Gregas Cristãs, ela é seguida por sua tradução para o grego, ho patér, que significa literalmente “o pai” ou “ó Pai”.
+- *afasta de mim este cálice*: A Bíblia muitas vezes usa a palavra “cálice” para representar a “porção” que Deus dá a alguém, ou seja, a vontade de Deus para aquela pessoa. (Veja a nota de estudo em Mt 20:22.) Jesus orou para que o “cálice” se afastasse dele porque, sem dúvida, estava muito preocupado com a desonra que poderia trazer sobre o nome de Deus se morresse acusado de blasfêmia e sedição.
+====
+
+[[v41-14-37]]
+
+^<<v41-14-37,37>>^ Ele voltou e os encontrou dormindo, e disse a Pedro: “Simão, você está dormindo? Não teve força para se manter vigilante por uma hora?
+
+[[v41-14-38]]
+
+^<<v41-14-38,38>>^ Mantenham-se vigilantes e orem continuamente, para que não caiam em tentação. Naturalmente, o espírito está disposto,^&#42;1^ mas a carne é fraca.”
+
+[NOTE]
+====
+. Ou: “pronto”.
+====
+
+[TIP]
+====
+- *espírito*: Veja a nota de estudo em Mt 26:41.
+- *carne*: Veja a nota de estudo em Mt 26:41.
+====
+
+[[v41-14-39]]
+
+^<<v41-14-39,39>>^ Ele se afastou de novo e orou, dizendo a mesma coisa.
+
+[[v41-14-40]]
+
+^<<v41-14-40,40>>^ E voltou novamente e os encontrou dormindo, pois estavam com os olhos pesados, e por isso não sabiam o que lhe responder.
+
+[TIP]
+====
+- *estavam com os olhos pesados*: Expressão idiomática grega que significa “estar com muito sono”. Também poderia ser traduzida “não conseguiam ficar com os olhos abertos”.
+====
+
+[[v41-14-41]]
+
+^<<v41-14-41,41>>^ Voltou então pela terceira vez e lhes disse: “Numa ocasião como esta, vocês estão dormindo e descansando! Basta! Chegou a hora! O Filho do Homem está sendo entregue^&#42;1^ às mãos de pecadores.
+
+[NOTE]
+====
+. Ou: “traído”.
+====
+
+[[v41-14-42]]
+
+^<<v41-14-42,42>>^ Levantem-se, vamos embora. Vejam! Aquele que me trai está chegando.”
+
+[[v41-14-43]]
+
+^<<v41-14-43,43>>^ E imediatamente, enquanto ele ainda falava, chegou Judas, um dos Doze, e com ele uma multidão com espadas e bastões. Eles tinham sido enviados pelos principais sacerdotes, pelos escribas e pelos anciãos.
+
+[[v41-14-44]]
+
+^<<v41-14-44,44>>^ O traidor havia combinado com eles um sinal, dizendo: “Aquele que eu beijar é ele; prendam-no e levem-no embora sob vigilância.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “em segurança”.
+====
+
+[[v41-14-45]]
+
+^<<v41-14-45,45>>^ Então se dirigiu diretamente a ele, se aproximou e disse: “Rabi!” e o beijou ternamente.
+
+[TIP]
+====
+- *o beijou ternamente*: O verbo grego traduzido como “beijar ternamente” é uma forma intensificada do verbo “beijar”, que aparece em Mr 14:44. Esse cumprimento carinhoso e amigável de Judas mostra o quanto ele era falso e hipócrita.
+====
+
+[[v41-14-46]]
+
+^<<v41-14-46,46>>^ Assim, eles o agarraram e prenderam.
+
+[[v41-14-47]]
+
+^<<v41-14-47,47>>^ No entanto, um dos que estavam presentes puxou a espada e atacou o escravo do sumo sacerdote, decepando-lhe a orelha.
+
+[TIP]
+====
+- *um dos que estavam presentes*: O relato paralelo em Jo 18:10 mostra que foi Simão Pedro que puxou a espada e que o nome do escravo do sumo sacerdote era Malco. Os relatos de Lucas (22:50) e de João (18:10) também acrescentam o detalhe de que foi a “orelha direita” que foi decepada.
+- *atacou o escravo do sumo sacerdote*: Veja a nota de estudo em Jo 18:10.
+====
+
+[[v41-14-48]]
+
+^<<v41-14-48,48>>^ Então Jesus lhes disse: “Vocês vieram me prender com espadas e bastões, como se eu fosse um bandido?
+
+[[v41-14-49]]
+
+^<<v41-14-49,49>>^ Dia após dia eu estava com vocês no templo, ensinando; contudo, vocês não me prenderam. Porém, isso é para cumprir as Escrituras.”
+
+[[v41-14-50]]
+
+^<<v41-14-50,50>>^ E todos o abandonaram e fugiram.
+
+[[v41-14-51]]
+
+^<<v41-14-51,51>>^ No entanto um jovem, usando apenas uma roupa de linho fino por cima do corpo nu, começou a segui-lo de perto, e tentaram prendê-lo,
+
+[TIP]
+====
+- *um jovem*: O Evangelho de Marcos é o único que menciona os acontecimentos descritos nos versículos 51 e 52. Esse jovem talvez fosse o próprio Marcos. Se esse for o caso, pode ser que ele conhecesse Jesus pessoalmente. — Veja a nota de estudo em Mr Título.
+====
+
+[[v41-14-52]]
+
+^<<v41-14-52,52>>^ mas ele largou a roupa de linho e escapou nu.
+
+[TIP]
+====
+- *nu*: Veja a nota de estudo em Mt 25:36.
+====
+
+[[v41-14-53]]
+
+^<<v41-14-53,53>>^ Levaram então Jesus ao sumo sacerdote; e todos os principais sacerdotes, os anciãos e os escribas se reuniram.
+
+[TIP]
+====
+- *sumo sacerdote*: Quando Israel era uma nação independente, o sumo sacerdote continuava no cargo por toda a sua vida. (Núm 35:25) Mas, durante o tempo em que o Império Romano dominava sobre Israel, os governantes designados pelos romanos tinham autoridade para nomear e remover sumos sacerdotes. O sumo sacerdote que presidiu o julgamento de Jesus foi Caifás. (Mt 26:​3, 57) Ele era um diplomata habilidoso e conseguiu permanecer como sumo sacerdote por mais tempo do que os últimos que tinham ocupado esse cargo antes dele. Caifás foi nomeado por volta de 18 d.C. e continuou como sumo sacerdote até por volta de 36 d.C. — Veja o Glossário, “Sumo sacerdote”; veja a possível localização da casa de Caifás no Apêndice B12-A.
+====
+
+[[v41-14-54]]
+
+^<<v41-14-54,54>>^ Mas Pedro, de uma boa distância, o seguiu até o pátio do sumo sacerdote; e ficou sentado junto com os criados se aquecendo diante de um fogo.
+
+[[v41-14-55]]
+
+^<<v41-14-55,55>>^ Os principais sacerdotes e todo o Sinédrio estavam procurando testemunhos contra Jesus, para entregá-lo à morte, mas não achavam nenhum.
+
+[TIP]
+====
+- *Sinédrio*: Veja a nota de estudo em Mt 26:59.
+====
+
+[[v41-14-56]]
+
+^<<v41-14-56,56>>^ Na verdade, muitos davam testemunho falso contra ele, mas os seus testemunhos não estavam de acordo.
+
+[[v41-14-57]]
+
+^<<v41-14-57,57>>^ Também alguns se levantavam e davam testemunho falso contra ele, dizendo:
+
+[[v41-14-58]]
+
+^<<v41-14-58,58>>^ “Nós o ouvimos dizer: ‘Derrubarei este templo feito por mãos humanas e em três dias construirei outro, não feito por mãos humanas.’”
+
+[[v41-14-59]]
+
+^<<v41-14-59,59>>^ Mas mesmo nesse ponto seu testemunho não estava de acordo.
+
+[TIP]
+====
+- *seu testemunho não estava de acordo*: O Evangelho de Marcos é o único que menciona que as testemunhas falsas do julgamento de Jesus não estavam de acordo entre si.
+====
+
+[[v41-14-60]]
+
+^<<v41-14-60,60>>^ Então o sumo sacerdote se levantou no meio deles e perguntou a Jesus: “Você não diz nada em resposta? O que diz do testemunho destes homens contra você?”
+
+[[v41-14-61]]
+
+^<<v41-14-61,61>>^ Mas ele continuou calado e não deu nenhuma resposta. O sumo sacerdote voltou a interrogá-lo, dizendo: “Você é o Cristo, o Filho do Bendito?”
+
+[TIP]
+====
+- *o Cristo*: Veja a nota de estudo em Mt 11:2.
+====
+
+[[v41-14-62]]
+
+^<<v41-14-62,62>>^ Jesus respondeu então: “Sou; e vocês verão o Filho do Homem sentado à direita de poder e vindo com as nuvens do céu.”
+
+[TIP]
+====
+- *sentado à direita de poder*: Veja a nota de estudo em Mt 26:64.
+====
+
+[[v41-14-63]]
+
+^<<v41-14-63,63>>^ Em vista disso, o sumo sacerdote rasgou suas vestes e disse: “Que necessidade temos ainda de testemunhas?
+
+[TIP]
+====
+- *rasgou suas vestes*: Gesto que, nesse caso, expressava indignação. Caifás provavelmente rasgou sua roupa na altura do peito para, de forma teatral, dar a impressão de que sua devoção a Deus era tão grande que ele não conseguia suportar as palavras de Jesus.
+====
+
+[[v41-14-64]]
+
+^<<v41-14-64,64>>^ Vocês ouviram a blasfêmia. Qual é a sua decisão?”^&#42;1^ Todos decidiram que ele merecia a morte.
+
+[NOTE]
+====
+. Ou: “O que vocês acham?”; “O que parece a vocês?”
+====
+
+[[v41-14-65]]
+
+^<<v41-14-65,65>>^ E alguns começaram a cuspir nele, a cobrir-lhe o rosto, a esmurrá-lo e a dizer-lhe: “Profetize!” E, depois de esbofeteá-lo, os oficiais de justiça o levaram.
+
+[TIP]
+====
+- *Profetize!*: Aqueles homens não estavam pedindo que Jesus fizesse uma profecia sobre o futuro, mas sim que ele dissesse, por revelação de Deus, quem tinha batido nele. O contexto mostra que os inimigos de Jesus tinham coberto o rosto dele, e o relato paralelo em Mt 26:68 diz que eles zombaram de Jesus, dizendo: “Profetize-nos, ó Cristo. Quem bateu em você?” Eles estavam desafiando Jesus, que estava com o rosto coberto, a identificar quem estava batendo nele. — Veja as notas de estudo em Mt 26:68; Lu 22:64.
+====
+
+[[v41-14-66]]
+
+^<<v41-14-66,66>>^ Então, enquanto Pedro estava embaixo, no pátio, chegou uma das servas do sumo sacerdote.
+
+[[v41-14-67]]
+
+^<<v41-14-67,67>>^ Vendo Pedro se aquecer, olhou bem para ele e disse: “Você também estava com o Nazareno, esse Jesus.”
+
+[[v41-14-68]]
+
+^<<v41-14-68,68>>^ Mas ele negou, dizendo: “Não o conheço nem sei do^&#42;1^ que você está falando”, e saiu para a entrada do pátio.
+
+[NOTE]
+====
+. Ou: “Não sei nem entendo o”.
+====
+
+[TIP]
+====
+- *entrada do pátio*: Ou: “vestíbulo”. — Veja a nota de estudo em Mt 26:71.
+====
+
+[[v41-14-69]]
+
+^<<v41-14-69,69>>^ A serva o viu ali e novamente começou a dizer aos presentes: “Este é um deles.”
+
+[[v41-14-70]]
+
+^<<v41-14-70,70>>^ Mais uma vez ele negou isso. E, pouco depois, os que estavam presentes começaram a dizer a Pedro de novo: “Certamente você é um deles, pois, de fato, você é galileu.”
+
+[[v41-14-71]]
+
+^<<v41-14-71,71>>^ Mas ele começou a amaldiçoar a si mesmo e a jurar: “Eu não conheço esse homem de quem vocês estão falando!”
+
+[TIP]
+====
+- *amaldiçoar a si mesmo*: Veja a nota de estudo em Mt 26:74.
+- *jurar*: Veja a nota de estudo em Mt 26:74.
+====
+
+[[v41-14-72]]
+
+^<<v41-14-72,72>>^ Imediatamente um galo cantou pela segunda vez, e Pedro se lembrou do que Jesus tinha lhe dito: “Antes de o galo cantar duas vezes, você me negará três vezes.” E, muito abalado, ele começou a chorar.
+
+[TIP]
+====
+- *um galo cantou*: Os quatro Evangelhos mencionam esse acontecimento, mas o Evangelho de Marcos é o único que acrescenta o detalhe de que o galo cantou pela segunda vez. (Mt 26:34, 74, 75; Mr 14:30; Lu 22:34, 60, 61; Jo 13:38; 18:27) A Mishná indica que nos dias de Jesus as pessoas criavam galos em Jerusalém, o que apoia o relato da Bíblia. É provável que o galo tenha cantado antes do amanhecer. — Veja a nota de estudo em Mr 13:35.
+====
+
+'''
+
+xref:041-marcos/041-marcos-013.adoc#v41-13-0[&#60; Capítulo Anterior] | <<v41-14-0,Topo>> | xref:041-marcos/041-marcos-015.adoc#v41-15-0[Próximo Capítulo &#62;]

@@ -1,0 +1,461 @@
+include::./index.adoc[]
+
+[[v40-5-0]]
+=== As Boas Novas Segundo Mateus, 5
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Sermão do Monte (5:1–7:29)
+* Jesus começa o Sermão do Monte (5:1, 2)
+* Nove felicidades (5:3-12)
+* “Sal da terra” e “luz do mundo” (5:13-16)
+* Jesus vai cumprir a Lei (5:17-20)
+* Conselhos sobre controlar a ira e sobre resolver problemas com outros (5:21-26)
+* Conselhos sobre não cometer adultério e sobre divórcio (5:27-32)
+* Conselhos sobre cumprir juramentos, não revidar, amar os inimigos (5:33-48)
+* Não pratiquem a justiça só para chamar atenção (6:1-4)
+* Modo certo de orar e oração-modelo (6:5-15)
+* Não jejuem como os hipócritas (6:16-18)
+* Tesouros na terra e no céu (6:19-24)
+* Parem de se preocupar tanto; busquem primeiro o Reino (6:25-34)
+* Parem de julgar (7:1-6)
+* Persistam em pedir, buscar e bater (7:7-11)
+* Regra de Ouro (7:12)
+* Portão estreito (7:13, 14)
+* Falsos profetas; árvores reconhecidas pelos seus frutos (7:15-23)
+* Casa sobre rocha e casa sobre areia (7:24-27)
+* Multidões ficam maravilhadas com ensino de Jesus (7:28, 29)
+****
+
+[[v40-5-1]]
+
+^<<v40-5-1,1>>^ Quando ele viu as multidões, subiu ao monte e, depois de se sentar, chegaram-se a ele os seus discípulos.
+
+[TIP]
+====
+- *ao monte*: É provável que esse monte ficasse perto de Cafarnaum e do mar da Galileia. Jesus deve ter subido a um ponto mais alto do monte, e dali começou a ensinar a multidão espalhada em um lugar plano na frente dele. — Lu 6:17.
+- *se sentar*: Esse era o costume dos instrutores judaicos, principalmente quando ensinavam nas sinagogas.
+- *seus discípulos*: Primeira vez que aparece a palavra grega mathetés, geralmente traduzida como “discípulo”. Refere-se a um aluno, alguém que é ensinado por outra pessoa. A palavra indica que o discípulo tem um grande apego por seu instrutor, e esse apego molda toda a vida do discípulo. Embora houvesse uma multidão enorme reunida para ouvir os ensinos de Jesus, parece que o discurso dele foi direcionado principalmente aos discípulos, que estavam sentados mais perto dele. — Mt 7:28, 29; Lu 6:20.
+====
+
+[[v40-5-2]]
+
+^<<v40-5-2,2>>^ Então ele abriu a boca e começou a ensiná-los, dizendo:
+
+[TIP]
+====
+- *abriu a boca*: A expressão grega usada aqui traduz uma expressão idiomática semítica que significa que a pessoa começou a falar. (Jó 33:2; Da 10:16) A mesma expressão aparece em At 8:35 e 10:34, onde foi traduzida como “começou a falar”.
+====
+
+[[v40-5-3]]
+
+^<<v40-5-3,3>>^ “Felizes os que têm consciência de sua necessidade espiritual, porque a eles pertence o Reino dos céus.
+
+[TIP]
+====
+- *Felizes*: A palavra grega usada aqui, makários, não se refere a uma simples alegria passageira, como a que uma pessoa sente quando está se divertindo. Quando a Bíblia usa a palavra makários para se referir a um humano, ela quer dizer que ele é abençoado e amado por Deus. A Bíblia também usa essa palavra para falar de Jeová e de Jesus depois que foi glorificado no céu. — 1Ti 1:11; 6:15.
+- *os que têm consciência de sua necessidade espiritual*: Em grego, a expressão “os que têm consciência” contém uma palavra que significa literalmente “pobre”, no sentido de “necessitado” ou “mendigo”. A mesma palavra é usada em Lu 16:20, 22 para se referir ao “mendigo” Lázaro. Aqui em Mt 5:3, ela se refere àqueles que têm uma necessidade e que sabem muito bem disso. A expressão inteira, traduzida aqui como “os que têm consciência de sua necessidade espiritual”, é traduzida em algumas Bíblias como “os pobres de espírito”. Neste contexto, ela se refere a pessoas que têm plena consciência de que são pobres em sentido espiritual e que precisam de Deus. — Veja a nota de estudo em Lu 6:20.
+- *eles*: Refere-se aos discípulos de Jesus, pois Jesus estava falando mais diretamente a eles. — Mt 5:1, 2.
+====
+
+[[v40-5-4]]
+
+^<<v40-5-4,4>>^ “Felizes os que choram, porque serão consolados.
+
+[TIP]
+====
+- *os que choram*: A palavra grega traduzida aqui como “choram” é penthéo. Ela pode se referir a um sentimento de profunda tristeza, de modo geral, ou ao sentimento de angústia por ter cometido pecados. A expressão “os que choram” (neste versículo) e a expressão “os que têm consciência de sua necessidade espiritual” (no versículo anterior) se referem ao mesmo tipo de pessoa. Essas pessoas talvez “chorem” porque estão conscientes de que sua condição espiritual é ruim, porque reconhecem que são pecadoras ou por causa dos problemas que o pecado trouxe para a humanidade. O apóstolo Paulo usa penthéo ao repreender a congregação de Corinto por não “estar de luto” por causa do caso grave de imoralidade sexual que tinha acontecido ali. (1Co 5:2) E, em 2Co 12:21, Paulo usa a palavra novamente ao dizer que talvez ‘tivesse que chorar’ pelos que pecaram e não se arrependeram. O discípulo Tiago usa uma palavra relacionada no alerta: “Limpem as mãos, ó pecadores, e purifiquem o coração, ó indecisos. Fiquem tristes, lamentem e chorem.” (Tg 4:8-10) Os que se sentem tristes por serem pecadores são consolados quando aprendem que seus pecados podem ser perdoados se eles exercerem fé no sacrifício de resgate de Jesus e passarem a fazer a vontade de Jeová, mostrando que estão verdadeiramente arrependidos. — Jo 3:16; 2Co 7:9, 10.
+====
+
+[[v40-5-5]]
+
+^<<v40-5-5,5>>^ “Felizes os de temperamento brando, porque herdarão a terra.
+
+[TIP]
+====
+- *temperamento brando*: É uma qualidade que vem de dentro. A pessoa que tem temperamento brando aceita fazer a vontade de Deus e segue as orientações dele. Ela não tenta dominar outros. A palavra grega usada aqui não passa a ideia de que a pessoa é covarde ou fraca. Na Septuaginta, essa palavra foi usada como equivalente da palavra hebraica que pode ser traduzida como “manso” ou “humilde”. Ela foi usada para se referir a Moisés (Núm 12:3), aos que aceitam ser ensinados por Jeová (Sal 25:9), aos que herdarão a terra (Sal 37:11) e ao Messias (Za 9:9; Mt 21:5). Jesus descreveu a si mesmo como uma pessoa de temperamento brando, ou mansa. — Mt 11:29.
+- *herdarão a terra*: É provável que Jesus estivesse citando o Sal 37:11, que diz que “os mansos possuirão a terra”. Tanto a palavra hebraica (ʼérets) como a grega (ge) para “terra” podem se referir ao planeta inteiro ou a uma área específica, como a Terra Prometida. A Bíblia mostra que Jesus é o maior exemplo de brandura, ou mansidão. (Mt 11:29) Vários textos bíblicos mostram que Jesus herdaria autoridade como Rei sobre a Terra inteira, e não apenas sobre uma parte dela. (Sal 2:8; Ap 11:15) Os seguidores ungidos de Jesus receberiam essa herança junto com ele. (Ap 5:10) E os discípulos de Jesus que têm a esperança de viver para sempre na Terra também vão herdá-la, mas de outra maneira. Essas pessoas mansas não serão os donos da Terra, mas vão ter o privilégio de viver no Paraíso como súditos do Reino. — Veja a nota de estudo em Mt 25:34.
+====
+
+[[v40-5-6]]
+
+^<<v40-5-6,6>>^ “Felizes os que têm fome e sede de justiça, porque serão saciados.^&#42;1^
+
+[NOTE]
+====
+. Ou: “satisfeitos”.
+====
+
+[TIP]
+====
+- *os que têm fome e sede de justiça*: São aqueles que querem muito ver o fim de toda a corrupção e injustiça, e viver num mundo onde todos respeitem o que Deus diz que é certo ou errado. Desde já eles se esforçam para obedecer a Deus.
+====
+
+[[v40-5-7]]
+
+^<<v40-5-7,7>>^ “Felizes os misericordiosos, porque serão tratados com misericórdia.
+
+[TIP]
+====
+- *misericordiosos*: As palavras que geralmente são traduzidas na Bíblia como “misericordioso” e “misericórdia” podem ter o sentido de perdoar ou de dar uma pena mais leve. Mas, na maioria das vezes, essas palavras se referem ao sentimento de compaixão e de dó que motiva uma pessoa a agir para ajudar alguém em necessidade.
+====
+
+[[v40-5-8]]
+
+^<<v40-5-8,8>>^ “Felizes os puros de coração, porque verão a Deus.
+
+[TIP]
+====
+- *puros de coração*: São pessoas puras e limpas por dentro, em sentido moral e espiritual. Seus sentimentos, desejos e motivações são puros.
+- *verão a Deus*: Essas palavras não devem ser entendidas literalmente, já que Deus disse em Êx 33:20: “Nenhum homem pode me ver e continuar vivo.” A palavra grega traduzida aqui em Mt 5:8 como “verão” também pode significar “ver com a mente, perceber, saber”. Os que adoram a Jeová aqui na Terra ‘veem a Deus’ com os olhos da fé quando estudam a Bíblia para conhecer a personalidade de Jeová e prestam atenção nas coisas que Deus faz por eles. (Ef 1:18; He 11:27) E, quando forem ressuscitados para viver no céu, os cristãos ungidos poderão literalmente ver a Jeová “assim como ele é”. — 1Jo 3:2.
+====
+
+[[v40-5-9]]
+
+^<<v40-5-9,9>>^ “Felizes os pacificadores, porque serão chamados filhos de Deus.
+
+[TIP]
+====
+- *pacificadores*: Ou: “pacíficos”. A palavra grega usada aqui, eirenopoiós, vem de um verbo que significa “fazer paz”. Se há paz em um lugar, o pacificador a mantém. E, se não há paz, ele vai se esforçar para trazer a paz.
+====
+
+[[v40-5-10]]
+
+^<<v40-5-10,10>>^ “Felizes os que são perseguidos por causa da justiça, porque a eles pertence o Reino dos céus.
+
+[[v40-5-11]]
+
+^<<v40-5-11,11>>^ “Felizes são vocês quando as pessoas os insultam^&#42;1^ e perseguem, e, mentindo, dizem todo tipo de coisas más contra vocês, por minha causa.
+
+[NOTE]
+====
+. Ou: “criticam”.
+====
+
+[[v40-5-12]]
+
+^<<v40-5-12,12>>^ Alegrem-se e fiquem cheios de alegria, porque a sua recompensa é grande nos céus; pois assim perseguiram os profetas antes de vocês.
+
+[[v40-5-13]]
+
+^<<v40-5-13,13>>^ “Vocês são o sal da terra. Mas, se o sal perder a sua força, como sua salinidade será restaurada? Não presta mais para nada, senão para ser jogado fora, a fim de ser pisado pelos homens.
+
+[TIP]
+====
+- *sal*: Além de dar sabor aos alimentos, o sal pode ser usado para conservá-los. Neste contexto, Jesus devia estar pensando principalmente no uso do sal como conservante. Seus discípulos poderiam ajudar outras pessoas a conservar, ou manter, sua espiritualidade e sua boa moral.
+- *perder a sua força*: Na época de Jesus, o sal geralmente vinha da região do Mar Morto e estava misturado com outros minerais. Se todo o sal fosse tirado dessa mistura, sobraria apenas uma substância sem gosto que não serviria para nada.
+====
+
+[[v40-5-14]]
+
+^<<v40-5-14,14>>^ “Vocês são a luz do mundo. Não se pode esconder uma cidade situada sobre um monte.
+
+[TIP]
+====
+- *uma cidade situada sobre um monte*: Jesus não estava falando de nenhuma cidade específica. Naquela época, muitas cidades ficavam em cima de montes. Isso as deixava mais seguras contra ataques de inimigos. Essas cidades tinham grandes muros em volta delas e, por isso, dava para vê-las a quilômetros de distância. Até mesmo pequenas aldeias eram impossíveis de esconder porque suas casas revestidas de cal brilhavam com a luz do sol.
+====
+
+[[v40-5-15]]
+
+^<<v40-5-15,15>>^ As pessoas acendem uma lâmpada e a colocam, não debaixo de um cesto, mas em cima de um suporte, e ela brilha sobre todos na casa.
+
+[TIP]
+====
+- *uma lâmpada*: Nos tempos bíblicos, a lâmpada que as pessoas usavam em casa era um pequeno recipiente de barro. Elas colocavam azeite dentro da lâmpada para alimentar a chama.
+- *um cesto*: Usado para medir a quantidade de grãos e de outras mercadorias secas. O tipo de “cesto” (em grego, módios) que Jesus mencionou aqui tinha a capacidade de uns 9 litros.
+====
+
+[[v40-5-16]]
+
+^<<v40-5-16,16>>^ Do mesmo modo, deixem brilhar sua luz perante os homens, para que vejam suas boas obras e deem glória ao seu Pai, que está nos céus.
+
+[TIP]
+====
+- *Pai*: Primeira das mais de 160 vezes nos Evangelhos que Jesus chamou Jeová Deus de “Pai”. O uso que Jesus fez da palavra “Pai” mostra que seus ouvintes entendiam que ele estava falando de Deus, visto que as Escrituras Hebraicas já usavam a palavra “Pai” para se referir a Deus. (De 32:6; Sal 89:26; Is 63:16) Servos de Jeová que viveram muito antes de Jesus vir à Terra usaram muitos títulos imponentes para descrever a Jeová ou para falar com ele, como “Todo-Poderoso”, “Altíssimo” e “Grandioso Criador”. (Gên 28:3; De 32:8; Ec 12:1) Mas Jesus usava com frequência a palavra “Pai”, que era mais simples e comum. Com isso, ele mostrou que Deus quer que seus adoradores se sintam bem achegados a ele.
+====
+
+[[v40-5-17]]
+
+^<<v40-5-17,17>>^ “Não pensem que vim destruir a Lei ou os Profetas. Não vim destruir, mas cumprir.
+
+[TIP]
+====
+- *a Lei . . . os Profetas*: “A Lei” são os livros de Gênesis a Deuteronômio. “Os Profetas” são os livros das Escrituras Hebraicas escritos pelos profetas. Mas, quando as duas expressões são mencionadas juntas, elas podem se referir a todos os livros das Escrituras Hebraicas. — Mt 7:12; 22:40; Lu 16:16.
+====
+
+[[v40-5-18]]
+
+^<<v40-5-18,18>>^ Eu lhes garanto que será mais fácil passarem céu e terra do que passar a menor letra ou um só traço de uma letra da Lei, sem que tudo se cumpra.
+
+[TIP]
+====
+- *Eu lhes garanto*: Ou: “Digo a vocês a verdade.” Em grego, essa frase inclui a palavra amén. Ela é uma transliteração da palavra hebraica ʼamén, que significa “assim seja” ou “com certeza”. Jesus muitas vezes usava essa palavra antes de fazer uma declaração importante, promessa ou profecia. Era um modo de enfatizar que suas palavras iam se cumprir com certeza e que seus ouvintes podiam confiar nelas. Alguns estudiosos afirmam que não há ninguém que use a palavra amén do mesmo modo que Jesus, nem na Bíblia nem em outros livros sagrados. Nas vezes em que a palavra aparece repetida (amén amén), como acontece várias vezes no Evangelho de João, a expressão é traduzida como “com toda a certeza”. — Veja a nota de estudo em Jo 1:51.
+- *será mais fácil passarem céu e terra*: É uma hipérbole que indica que algo jamais vai acontecer. A Bíblia indica que os céus e a terra literais vão continuar existindo para sempre. — Sal 78:69; 119:90.
+- *menor letra*: No alfabeto hebraico usado naquela época, a menor letra era o iode (י).
+- *um só traço de uma letra*: Algumas letras do alfabeto hebraico tinham um traço bem pequeno que as diferenciava de outras. Com essa hipérbole, Jesus destacou que a Palavra de Deus vai se cumprir nos mínimos detalhes.
+====
+
+[[v40-5-19]]
+
+^<<v40-5-19,19>>^ Portanto, quem violar o menor desses mandamentos e ensinar outros a fazer o mesmo será chamado menor com relação ao Reino dos céus. Mas quem os cumprir e ensinar será chamado grande com relação ao Reino dos céus.
+
+[[v40-5-20]]
+
+^<<v40-5-20,20>>^ Pois eu lhes digo que, se a sua justiça não for maior do que a dos escribas e dos fariseus, de modo algum vocês entrarão no Reino dos céus.
+
+[[v40-5-21]]
+
+^<<v40-5-21,21>>^ “Vocês ouviram que se disse aos dos tempos antigos: ‘Não assassine, e quem cometer um assassinato prestará contas ao tribunal de justiça.’
+
+[TIP]
+====
+- *Vocês ouviram que se disse*: Essa expressão pode se referir a citações das Escrituras Hebraicas, que foram inspiradas por Deus, ou a ensinos da tradição judaica. — Mt 5:27, 33, 38, 43.
+- *prestará contas ao tribunal de justiça*: Ou seja, seria julgado por um dos vários tribunais locais que existiam por todo o Israel. (Mt 10:17; Mr 13:9) Esses tribunais tinham autoridade para julgar casos de assassinato. — De 16:18; 19:12; 21:1, 2.
+====
+
+[[v40-5-22]]
+
+^<<v40-5-22,22>>^ No entanto, eu lhes digo que todo aquele que continuar irado com seu irmão terá de prestar contas ao tribunal de justiça; e quem se dirigir a seu irmão com uma palavra imprópria de desprezo terá de prestar contas ao Supremo Tribunal; ao passo que quem disser: ‘Tolo imprestável!’ estará sujeito à Geena ardente.
+
+[TIP]
+====
+- *continuar irado*: Jesus mostrou que essa atitude errada está relacionada com o ódio, que pode levar ao assassinato. (1Jo 3:15) No fim das contas, quem continua irado poderá ser julgado por Jeová como se fosse um assassino.
+- *uma palavra imprópria de desprezo*: Essa expressão traduz a palavra grega rhaká (possivelmente de origem hebraica ou aramaica), que significa “vazio” ou “cabeça-oca”. A pessoa que ofende seu irmão na fé usando uma palavra como essa não estaria apenas nutrindo ódio no coração, mas já estaria extravasando esse ódio por meio de suas palavras de desprezo.
+- *Supremo Tribunal*: Refere-se ao Sinédrio inteiro — o tribunal em Jerusalém formado pelo sumo sacerdote e por 70 anciãos e escribas. Para os judeus, as decisões do Sinédrio eram definitivas. — Veja o Glossário, “Sinédrio”.
+- *Tolo imprestável*: A palavra grega para essa expressão tem um som bem parecido com o de uma palavra hebraica que significa “rebelde” ou “sedicioso”. Refere-se a uma pessoa que não tem moral nenhuma e que é apóstata. Chamar uma pessoa de “tolo imprestável” era o mesmo que dizer que ela merecia o castigo de Deus para os rebeldes, ou seja, a destruição eterna.
+- *Geena*: Palavra que vem da expressão hebraica ge hinnóm, que significa “vale de Hinom”. Esse vale ficava ao sudoeste e ao sul da Jerusalém antiga. (Veja o mapa “Jerusalém e proximidades” no Apêndice B12-A.) Na época de Jesus, o vale era usado para queimar lixo. Por isso, a palavra “Geena” servia bem para simbolizar a destruição total. — Veja o Glossário.
+====
+
+[[v40-5-23]]
+
+^<<v40-5-23,23>>^ “Então, se você levar a sua dádiva ao altar e ali se lembrar de que o seu irmão tem algo contra você,
+
+[TIP]
+====
+- *sua dádiva ao altar*: As palavras de Jesus se aplicavam a qualquer tipo de oferta, não importava qual fosse o motivo de apresentá-la. A dádiva podia ser qualquer uma das ofertas que os israelitas faziam no templo de Jeová de acordo com a Lei mosaica. O “altar” se refere aqui ao altar da oferta queimada que ficava no pátio dos sacerdotes. Nenhum israelita podia entrar nesse pátio, exceto os sacerdotes e os levitas. Os israelitas entregavam sua dádiva para o sacerdote na entrada do pátio.
+- *o seu irmão*: Em alguns casos, a palavra grega adelfós (irmão) é usada em sentido literal. Mas aqui, onde o contexto fala da adoração prestada no templo de Jeová nos dias de Jesus, ela evidentemente é usada para se referir a um irmão em sentido espiritual, um companheiro de adoração. Em ainda outros casos, a palavra pode ter um sentido mais amplo e se referir a uma pessoa em geral, ou seja, ao próximo.
+====
+
+[[v40-5-24]]
+
+^<<v40-5-24,24>>^ deixe a sua dádiva ali na frente do altar e vá. Faça primeiro as pazes com o seu irmão, então volte e ofereça a sua dádiva.
+
+[TIP]
+====
+- *deixe a sua dádiva . . . e vá*: Na cena que Jesus descreveu, o israelita está quase entregando seu sacrifício nas mãos do sacerdote. Aí o israelita se lembra de que seu irmão está ofendido com ele. Para Deus aceitar sua oferta, o israelita precisa primeiro fazer as pazes com esse irmão. Talvez seja difícil ele encontrar seu irmão, porque milhares de judeus visitam Jerusalém nas festividades para levar seus sacrifícios ao templo. — De 16:16.
+- *Faça . . . as pazes*: A expressão grega pode ser definida como “mudar de inimizade para amizade; reconciliar; restaurar o bom relacionamento ou a harmonia”. O objetivo é mudar a situação por remover, se possível, o ressentimento do coração da pessoa ofendida. (Ro 12:18) Jesus quis destacar que é preciso ter bons relacionamentos com outros para ter um bom relacionamento com Deus.
+====
+
+[[v40-5-25]]
+
+^<<v40-5-25,25>>^ “Resolva rapidamente as questões com seu adversário, enquanto está com ele a caminho do tribunal, para não acontecer que o adversário o entregue ao juiz, e o juiz ao oficial de justiça, e você seja lançado na prisão.
+
+[[v40-5-26]]
+
+^<<v40-5-26,26>>^ Eu lhe digo categoricamente: Você de modo algum sairá de lá até pagar a sua última pequena moeda.
+
+[TIP]
+====
+- *sua última pequena moeda*: Lit.: “o último quadrante”. O quadrante era uma moeda que valia bem pouco. Seriam necessários 64 quadrantes para completar um denário, o salário que uma pessoa recebia por um dia de trabalho. — Veja o Apêndice B14-B.
+====
+
+[[v40-5-27]]
+
+^<<v40-5-27,27>>^ “Vocês ouviram que se disse: ‘Não cometa adultério.’
+
+[TIP]
+====
+- *Vocês ouviram que se disse*: Veja a nota de estudo em Mt 5:21.
+- *cometa adultério*: O verbo grego usado aqui é moikheúo. Jesus estava citando Êx 20:14 e De 5:18, que usam o verbo hebraico correspondente naʼáf. De acordo com a Bíblia, adultério é quando uma pessoa casada comete “imoralidade sexual” (em grego, porneía) de livre e espontânea vontade com alguém que não é a sua esposa ou marido. (Veja também a nota de estudo em Mt 5:​32, que explica o que é “imoralidade sexual”.) Na época em que a Lei mosaica estava em vigor, um homem que tivesse relações sexuais com a esposa ou a noiva de outro homem era culpado de adultério.
+====
+
+[[v40-5-28]]
+
+^<<v40-5-28,28>>^ Mas eu lhes digo que todo aquele que persiste em olhar para uma mulher, a ponto de sentir paixão por ela, já cometeu no coração adultério com ela.
+
+[[v40-5-29]]
+
+^<<v40-5-29,29>>^ Então, se seu olho direito o faz tropeçar, arranque-o e lance-o para longe de você. Porque é melhor que você perca um dos seus membros do que todo o seu corpo ser lançado na Geena.
+
+[TIP]
+====
+- *o faz tropeçar*: Nas Escrituras Gregas Cristãs, a palavra grega skandalízo se refere a tropeçar em sentido figurado, o que pode incluir pecar ou levar alguém a pecar. Assim, a palavra também poderia ser traduzida aqui como “o faz pecar; está se tornando uma armadilha para você”. De acordo com o uso da palavra na Bíblia, o “tropeço” poderia envolver perder a fé, aceitar ensinamentos falsos ou desobedecer a uma das leis de moral de Deus. A palavra skandalízo também pode ser usada com o sentido de “ficar ofendido”. — Veja as notas de estudo em Mt 13:57; 18:7.
+- *Geena*: Veja a nota de estudo em Mt 5:22 e o Glossário.
+====
+
+[[v40-5-30]]
+
+^<<v40-5-30,30>>^ Também, se a sua mão direita o faz tropeçar, corte-a e lance-a para longe de você. Porque é melhor que você perca um dos seus membros do que todo o seu corpo acabar na Geena.
+
+[[v40-5-31]]
+
+^<<v40-5-31,31>>^ “Além disso, foi dito: ‘Quem se divorcia da sua esposa dê a ela um certificado de divórcio.’
+
+[TIP]
+====
+- *certificado de divórcio*: A Lei mosaica não incentivava o divórcio. Se um homem quisesse se divorciar de sua esposa, ele precisaria conseguir um certificado. Para isso, ele provavelmente teria que procurar os homens que tinham autoridade para cuidar desse tipo de assunto, e eles poderiam incentivar o casal a se reconciliar. Esse procedimento impedia uma decisão apressada e também protegia as mulheres. — De 24:1.
+====
+
+[[v40-5-32]]
+
+^<<v40-5-32,32>>^ No entanto, eu lhes digo que todo aquele que se divorcia da sua esposa, a não ser por causa de imoralidade sexual, a expõe ao adultério, e quem se casa com uma mulher divorciada comete adultério.
+
+[TIP]
+====
+- *todo aquele que se divorcia da sua esposa*: Veja a nota de estudo em Mr 10:12.
+- *imoralidade sexual*: Tradução do grego porneía, um termo genérico para descrever todas as formas de relações sexuais que Deus proíbe. Inclui adultério, prostituição, sexo entre pessoas não casadas, entre pessoas do mesmo sexo e entre humanos e animais. — Veja o Glossário.
+- *a expõe ao adultério*: Várias traduções da Bíblia usam aqui expressões como “faz com que ela se torne adúltera” ou “faz com que ela cometa adultério”. Mas uma esposa não se torna adúltera simplesmente porque seu marido se divorciou dela. Na verdade, o divórcio a coloca em uma situação em que o risco de cometer adultério é maior. Se o motivo do divórcio não for imoralidade sexual (grego, porneía), a esposa não está livre para se casar novamente. De acordo com a Bíblia, ela só estará livre se as circunstâncias mudarem, como, por exemplo, se seu marido morrer ou for infiel, cometendo imoralidade sexual. Enquanto isso não acontecer, se ela tiver relações sexuais com outro homem ela estará cometendo adultério. Para os cristãos, esses princípios se aplicam tanto para a esposa como para o marido.
+- *uma mulher divorciada*: Ou seja, uma mulher divorciada por um motivo que não seja “imoralidade sexual”. (Grego, porneía; veja a nota de estudo em imoralidade sexual neste versículo.) As palavras de Jesus em Mr 10:12 (veja a nota de estudo) mostram que o que ele disse aqui se aplica tanto quando o marido dá início ao divórcio como quando a esposa faz isso. Jesus deixou claro que, se um casal se divorciasse por um motivo que não fosse imoralidade sexual, nenhum dos dois estaria livre para se casar com outra pessoa porque isso seria adultério. Além disso, se um solteiro se casar com uma pessoa divorciada que não está livre, ele também é culpado de adultério. — Mt 19:9; Lu 16:18; Ro 7:2, 3.
+====
+
+[[v40-5-33]]
+
+^<<v40-5-33,33>>^ “Também, vocês ouviram que se disse aos dos tempos antigos: ‘Não jure sem cumprir, mas cumpra seus votos feitos a Jeová.’
+
+[TIP]
+====
+- *vocês ouviram que se disse*: Veja a nota de estudo em Mt 5:21.
+- *Jeová*: Jesus não estava citando diretamente nenhum versículo específico das Escrituras Hebraicas. Mas esses dois mandamentos podem ser encontrados em textos como Le 19:12, Núm 30:2 e De 23:21. No texto hebraico original desses versículos, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v40-5-34]]
+
+^<<v40-5-34,34>>^ No entanto, eu lhes digo: Não jurem de modo algum, nem pelo céu, pois é o trono de Deus;
+
+[TIP]
+====
+- *Não jurem de modo algum*: Jesus não estava proibindo aqui os juramentos. A Lei mosaica ainda estava em vigor e permitia que uma pessoa fizesse votos ou juramentos em situações sérias. (Núm 30:2; Gál 4:4) Na verdade, Jesus estava condenando o ato de jurar por qualquer coisa sem ter a intenção de cumprir. Esse tipo de juramento não estava de acordo com a Lei.
+- *nem pelo céu*: Para dar mais força aos juramentos, as pessoas costumavam jurar “pelo céu”, “pela terra”, “por Jerusalém” e até “pela sua própria cabeça”, ou vida. (Mt 5:35, 36) Mas nem todos os judeus aceitavam esses juramentos como válidos. Alguns achavam que os juramentos feitos com base em coisas criadas não tinham o mesmo peso que os feitos em nome de Deus, e por isso podiam ser anulados sem nenhuma consequência.
+====
+
+[[v40-5-35]]
+
+^<<v40-5-35,35>>^ nem pela terra, pois é o apoio para os pés dele; nem por Jerusalém, pois é a cidade do grande Rei.
+
+[TIP]
+====
+- *grande Rei*: Ou seja, Jeová Deus. — Mal 1:14.
+====
+
+[[v40-5-36]]
+
+^<<v40-5-36,36>>^ Não jure pela sua própria cabeça, porque você não pode tornar branco ou preto um só fio de cabelo.
+
+[[v40-5-37]]
+
+^<<v40-5-37,37>>^ Deixem simplesmente que a sua palavra “sim” signifique sim, e o seu “não”, não; pois tudo o que for além disso é do Maligno.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “daquilo que é mau”.
+====
+
+[TIP]
+====
+- *tudo o que for além disso é do Maligno*: As pessoas que sentem a necessidade de sempre jurar para confirmar o que falam, em vez de simplesmente dizer “sim” ou “não”, de certa forma admitem que não são de confiança. Elas mostram que são como Satanás, “o pai da mentira”. — Jo 8:44.
+====
+
+[[v40-5-38]]
+
+^<<v40-5-38,38>>^ “Vocês ouviram que se disse: ‘Olho por olho e dente por dente.’
+
+[TIP]
+====
+- *Vocês ouviram que se disse*: Veja a nota de estudo em Mt 5:21.
+- *Olho por olho e dente por dente*: Na época de Jesus, alguns usavam esse trecho da Lei (Êx 21:24; Le 24:20) de maneira errada, para justificar atos de vingança. Na verdade, era o tribunal, não a vítima, que aplicava essa lei depois que os juízes designados decidissem qual era a punição merecida. — De 19:15-21.
+====
+
+[[v40-5-39]]
+
+^<<v40-5-39,39>>^ No entanto, eu lhes digo: Não resistam àquele que é mau, mas a quem lhe der uma bofetada na face direita, ofereça também a outra.
+
+[TIP]
+====
+- *der uma bofetada na face direita*: Neste contexto, o verbo grego rhapízo significa “bater no rosto de alguém com a mão aberta”. Quem fazia isso provavelmente queria provocar ou insultar a outra pessoa, em vez de machucá-la. Com isso, Jesus ensinou que seus seguidores devem estar dispostos a aguentar insultos sem revidar.
+====
+
+[[v40-5-40]]
+
+^<<v40-5-40,40>>^ E, se alguém quiser levá-lo perante o tribunal para tomar a sua túnica, deixe-o ficar também com a sua capa.
+
+[TIP]
+====
+- *deixe-o ficar também com a sua capa*: O homem judeu daquela época geralmente usava duas peças de roupa. Uma era a túnica (em grego, khitón). Ela ficava em contato direto com a pele. Lembrava uma camisa bem longa e podia bater nos joelhos ou nos tornozelos. As mangas podiam ser compridas ou ir até os cotovelos. A segunda peça era a capa (em grego, himátion), que era colocada por cima da túnica. Podia ser um manto largo ou apenas um tecido retangular. Um judeu podia dar uma peça de roupa como garantia de que ia pagar uma dívida. (Jó 22:6) Jesus estava dizendo que, para manter a paz, seus seguidores deveriam estar dispostos a abrir mão não apenas da túnica, mas também da capa, que tinha mais valor.
+====
+
+[[v40-5-41]]
+
+^<<v40-5-41,41>>^ E, se alguém em autoridade o obrigar a prestar serviço por uma milha, vá com ele duas milhas.
+
+[TIP]
+====
+- *obrigar a prestar serviço*: É uma referência ao serviço obrigatório que as autoridades romanas podiam exigir de um cidadão. Por exemplo, elas podiam obrigar um homem a fazer algum trabalho. Também podiam tomar de uma pessoa qualquer coisa que achassem necessária para cuidar de um assunto oficial urgente. Simão de Cirene foi ‘obrigado a prestar serviço’ quando os soldados romanos o mandaram carregar a estaca de Jesus. — Mt 27:32.
+- *milha*: Provavelmente a milha romana, que equivalia a 1.479,5 metros. — Veja o Glossário e o Apêndice B14-A.
+====
+
+[[v40-5-42]]
+
+^<<v40-5-42,42>>^ Dê a quem lhe pede e não se desvie de quem deseja tomar emprestado de você.
+
+[TIP]
+====
+- *tomar emprestado*: Ou seja, tomar emprestado sem juros. Se um israelita fizesse um empréstimo para um israelita pobre, a Lei mosaica o proibia de cobrar juros. (Êx 22:25) A Lei também incentivava os israelitas a ser generosos quando emprestassem aos pobres. — De 15:7, 8.
+====
+
+[[v40-5-43]]
+
+^<<v40-5-43,43>>^ “Vocês ouviram que se disse: ‘Ame o seu próximo e odeie o seu inimigo.’
+
+[TIP]
+====
+- *Vocês ouviram que se disse*: Veja a nota de estudo em Mt 5:21.
+- *Ame o seu próximo*: A Lei mosaica mandava os israelitas amar o seu próximo. (Le 19:18) A palavra “próximo” significava simplesmente “outra pessoa”. Mas alguns judeus limitaram o significado da palavra dizendo que ela se referia apenas a outros judeus, principalmente aos que seguiam as tradições orais. Segundo eles, todas as outras pessoas deviam ser consideradas inimigas.
+- *odeie o seu inimigo*: Essa ordem não fazia parte da Lei mosaica. Alguns rabinos judeus achavam que, já que a Lei mandava amar o próximo, ela dava a entender que eles deviam odiar o inimigo.
+====
+
+[[v40-5-44]]
+
+^<<v40-5-44,44>>^ No entanto, eu lhes digo: Continuem a amar os seus inimigos e a orar pelos que perseguem vocês,
+
+[TIP]
+====
+- *Continuem a amar os seus inimigos*: O conselho de Jesus está de acordo com o que as Escrituras Hebraicas ensinam sobre como tratar os inimigos. — Êx 23:4, 5; Jó 31:29; Pr 24:17, 18; 25:21.
+====
+
+[[v40-5-45]]
+
+^<<v40-5-45,45>>^ para que vocês mostrem ser filhos de seu Pai, que está nos céus, visto que ele faz o seu sol se levantar sobre os maus e sobre os bons, e faz chover sobre os justos e sobre os injustos.
+
+[[v40-5-46]]
+
+^<<v40-5-46,46>>^ Pois, se vocês amarem aos que os amam, que recompensa terão? Não fazem a mesma coisa os cobradores de impostos?
+
+[TIP]
+====
+- *cobradores de impostos*: Muitos judeus trabalhavam para as autoridades romanas como cobradores de impostos. Eles eram odiados pelos outros judeus porque, além de colaborarem com o governo de Roma (que os judeus odiavam), eles roubavam o povo, cobrando mais dinheiro do que o imposto oficial. Os judeus em geral não se misturavam com cobradores de impostos e os consideravam como estando no mesmo nível de pecadores e prostitutas. — Mt 11:19; 21:32.
+====
+
+[[v40-5-47]]
+
+^<<v40-5-47,47>>^ E, se cumprimentarem somente os seus irmãos, o que fazem de extraordinário? Não fazem a mesma coisa as pessoas das nações?
+
+[TIP]
+====
+- *cumprimentarem*: Naquela época, cumprimentar alguém incluía dizer que desejava seu bem-estar e prosperidade.
+- *irmãos*: Refere-se a toda a nação de Israel. Eles eram irmãos porque descendiam do mesmo pai, Jacó, e porque adoravam o mesmo Deus, Jeová. — Êx 2:11; Sal 133:1.
+- *pessoas das nações*: Refere-se aos não judeus que não adoravam a Jeová. Os judeus os encaravam como pessoas impuras e evitavam contato com essas pessoas.
+====
+
+[[v40-5-48]]
+
+^<<v40-5-48,48>>^ Portanto, sejam perfeitos, assim como o seu Pai celestial é perfeito.
+
+[TIP]
+====
+- *perfeitos*: A palavra grega usada aqui pode significar “completos” ou “maduros”. Também pode transmitir a ideia de que algo é “sem defeito” de acordo com os padrões estabelecidos por alguma autoridade. Somente Jeová é absolutamente perfeito. Assim, quando a palavra “perfeito” é usada para se referir a humanos, isso quer dizer que eles são perfeitos, ou completos, apenas em certos sentidos. Neste contexto, ser perfeito significa ter um amor perfeito, ou completo, por Jeová e por outros humanos. É algo que mesmo uma pessoa imperfeita pode ter.
+====
+
+'''
+
+xref:040-mateus/040-mateus-004.adoc#v40-4-0[&#60; Capítulo Anterior] | <<v40-5-0,Topo>> | xref:040-mateus/040-mateus-006.adoc#v40-6-0[Próximo Capítulo &#62;]

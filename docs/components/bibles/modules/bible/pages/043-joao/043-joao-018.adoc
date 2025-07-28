@@ -1,0 +1,304 @@
+include::./index.adoc[]
+
+[[v43-18-0]]
+=== As Boas Novas Segundo João, 18
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Jesus é traído, preso, julgado e executado (18:1–19:42)
+* Judas Iscariotes trai Jesus (18:1-9)
+* Pedro corta a orelha de Malco com a espada (18:10, 11)
+* Jesus é levado a Anás, o principal sacerdote (18:12-14)
+* Pedro nega Jesus pela primeira vez (18:15-18)
+* Jesus é interrogado por Anás (18:19-24)
+* Pedro nega Jesus pela segunda e pela terceira vez (18:25-27)
+* Jesus é interrogado por Pilatos sobre ser um rei (18:28-40)
+* Açoitam Jesus e zombam dele (19:1-7)
+* Pilatos tenta soltar Jesus, mas faz a vontade dos judeus (19:8-16a)
+* Jesus é pregado numa estaca em Gólgota (19:16b-22)
+* Soldados cumprem profecia a respeito da roupa de Jesus (19:23, 24)
+* Jesus providencia que cuidem de sua mãe (19:25-27)
+* Jesus cumpre profecia e então morre (19:28-30)
+* Soldados cumprem profecias a respeito da morte de Jesus (19:31-37)
+* Jesus é sepultado (19:38-42)
+****
+
+[[v43-18-1]]
+
+^<<v43-18-1,1>>^ Depois de dizer essas coisas, Jesus saiu com seus discípulos para o outro lado do vale do Cédron; ali havia um jardim, onde ele e seus discípulos entraram.
+
+[TIP]
+====
+- *do vale do Cédron*: Ou: “da torrente de inverno do Cédron”. Esta é a única vez que o vale do Cédron é citado nas Escrituras Gregas Cristãs. Ele fica ao leste de Jerusalém e percorre todo o comprimento da cidade (de norte a sul), separando Jerusalém do monte das Oliveiras. O vale do Cédron geralmente ficava seco, mesmo no inverno, a não ser quando acontecia uma chuva muito forte. A palavra grega traduzida aqui como “vale” (kheímarros) significa literalmente “torrente de inverno”, ou seja, uma forte corrente de água formada pelas chuvas pesadas de inverno. Essa palavra foi usada mais de 80 vezes na Septuaginta para traduzir a palavra hebraica para “vale” (náhhal), usada quando o vale do Cédron é citado nas Escrituras Hebraicas. (2Sa 15:23; 1Rs 2:37) Tanto a palavra hebraica como a grega para “vale” podem se referir a uma torrente ou corrente de água. (De 10:7; Jó 6:15; Is 66:12; Ez 47:5) Mas, na maioria das vezes, elas se referem a um vale que foi escavado por uma torrente de inverno, por onde as águas das chuvas correm durante a estação chuvosa. (Núm 34:5; Jos 13:9; 17:9; 1Sa 17:40; 1Rs 15:13; 2Cr 33:14; Ne 2:15; Cân 6:11) Em muitos contextos, as duas palavras também poderiam ser traduzidas como “uádi”. — Veja o Glossário, “Uádi”.
+====
+
+[[v43-18-2]]
+
+^<<v43-18-2,2>>^ Judas, aquele que o estava traindo, também conhecia o lugar, porque Jesus muitas vezes tinha se reunido ali com seus discípulos.
+
+[[v43-18-3]]
+
+^<<v43-18-3,3>>^ Assim, Judas, trazendo o destacamento de soldados e também os guardas^&#42;1^ enviados pelos principais sacerdotes e pelos fariseus, chegou ali com tochas, lâmpadas e armas.
+
+[NOTE]
+====
+. Ou: “guardas do templo”.
+====
+
+[TIP]
+====
+- *o destacamento de soldados*: A palavra grega usada aqui (speíra) indica que esses soldados eram romanos. João é o único escritor dos Evangelhos que menciona que soldados romanos participaram na prisão de Jesus. — Jo 18:12.
+====
+
+[[v43-18-4]]
+
+^<<v43-18-4,4>>^ Então Jesus, sabendo de tudo o que ia lhe acontecer, deu um passo à frente e lhes disse: “Quem vocês estão procurando?”
+
+[[v43-18-5]]
+
+^<<v43-18-5,5>>^ Responderam-lhe: “Jesus, o Nazareno.” Ele lhes disse: “Sou eu.” Judas, o traidor, também estava com eles.
+
+[[v43-18-6]]
+
+^<<v43-18-6,6>>^ No entanto, quando Jesus lhes disse: “Sou eu”, eles recuaram e caíram no chão.
+
+[[v43-18-7]]
+
+^<<v43-18-7,7>>^ Então lhes perguntou novamente: “Quem vocês estão procurando?” Disseram: “Jesus, o Nazareno.”
+
+[[v43-18-8]]
+
+^<<v43-18-8,8>>^ Jesus respondeu: “Eu lhes disse que sou eu. Então, se é a mim que vocês estão procurando, deixem estes homens ir.”
+
+[[v43-18-9]]
+
+^<<v43-18-9,9>>^ Isso aconteceu para que se cumprisse o que ele tinha dito: “Não perdi nem mesmo um daqueles que me deste.”
+
+[[v43-18-10]]
+
+^<<v43-18-10,10>>^ Então Simão Pedro, que tinha uma espada, a puxou e atacou o escravo do sumo sacerdote, cortando-lhe a orelha direita. O nome do escravo era Malco.
+
+[TIP]
+====
+- *atacou o escravo do sumo sacerdote*: Este acontecimento foi registrado pelos quatro escritores dos Evangelhos. Os quatro relatos se complementam. (Mt 26:51; Mr 14:47; Lu 22:50) Lucas, “o médico amado” (Col 4:14), é o único que diz que Jesus ‘tocou na orelha e curou’ o escravo. (Lu 22:51) Apenas João informa que foi Simão Pedro quem atacou o homem e que o nome do escravo era Malco. Tudo indica que João era o discípulo “conhecido do sumo sacerdote” e de seus servos. (Jo 18:15, 16) Assim, seria natural ele mencionar o nome do homem que tinha sido ferido. Outro texto que deixa claro que João conhecia os servos do sumo sacerdote é Jo 18:26. Ali, João explica que o escravo que acusou Pedro de ser discípulo de Jesus era “parente do homem cuja orelha Pedro havia cortado”.
+====
+
+[[v43-18-11]]
+
+^<<v43-18-11,11>>^ Mas Jesus disse a Pedro: “Ponha a espada na bainha. Por acaso não devo beber o cálice que o Pai me deu?”
+
+[TIP]
+====
+- *beber o cálice*: A Bíblia muitas vezes usa a palavra “cálice” (ou: “copo”) para representar a “porção” que Deus dá a alguém, ou seja, a vontade de Deus para aquela pessoa. (Sal 11:6, nota de rodapé; 16:5; 23:5) Aqui, “beber o cálice” significa aceitar a vontade de Deus. O “cálice” de Jesus envolvia sofrer maus-tratos, morrer por causa da acusação falsa de blasfêmia e ser ressuscitado para a vida imortal no céu. — Veja as notas de estudo em Mt 20:22; 26:39.
+====
+
+[[v43-18-12]]
+
+^<<v43-18-12,12>>^ Então, os soldados, o comandante militar e os guardas dos judeus prenderam^&#42;1^ Jesus e o amarraram.
+
+[NOTE]
+====
+. Ou: “pegaram”.
+====
+
+[TIP]
+====
+- *comandante militar*: A palavra grega khilíarkhos (quiliarca) significa literalmente “governante de 1.000”, ou seja, comandante de 1.000 soldados. O quiliarca era um tribuno militar romano. Havia seis tribunos em cada legião romana, mas a legião não era dividida em seis grupos. Em vez disso, os seis tribunos se revezavam em comandar a legião inteira. Esses comandantes militares tinham grande autoridade, o que incluía indicar e nomear centuriões. A palavra khilíarkhos também podia se referir de modo geral a oficiais de alta patente. Havia um comandante militar romano junto com os soldados que prenderam Jesus.
+- *dos judeus*: Aqui, a palavra “judeus” pelo visto se refere às autoridades judaicas, os líderes religiosos dos judeus. — Veja a nota de estudo em Jo 7:1.
+====
+
+[[v43-18-13]]
+
+^<<v43-18-13,13>>^ Eles o levaram primeiro a Anás, por ser sogro de Caifás, o sumo sacerdote naquele ano.
+
+[TIP]
+====
+- *Eles o levaram primeiro a Anás*: João é o único escritor dos Evangelhos que menciona este fato. Anás foi designado sumo sacerdote por Quirino, governador romano da Síria, por volta de 6 ou 7 d.C. e serviu nessa função até cerca de 15 d.C. Parece que mesmo depois de Anás ser deposto pelos romanos, deixando de ser oficialmente o sumo sacerdote, ele continuou tendo o mesmo poder e respeito, e era a autoridade judaica mais influente. Cinco dos filhos de Anás foram sumos sacerdotes, e seu genro, Caifás, serviu nessa posição de cerca de 18 d.C. a cerca de 36 d.C. Assim, Caifás era o sumo sacerdote naquele ano, ou seja, em 33 d.C., o ano marcante em que Jesus foi executado. — Veja a nota de estudo em Lu 3:2.
+====
+
+[[v43-18-14]]
+
+^<<v43-18-14,14>>^ De fato, foi Caifás quem tinha dito aos judeus que era para o bem deles que um só homem morresse a favor do povo.
+
+[[v43-18-15]]
+
+^<<v43-18-15,15>>^ Simão Pedro, bem como um outro discípulo, seguia Jesus. Este discípulo era conhecido do sumo sacerdote e entrou com Jesus no pátio do sumo sacerdote,
+
+[TIP]
+====
+- *um outro discípulo*: Aparentemente se refere ao apóstolo João. Isso estaria de acordo com o fato de que João não fala de si mesmo por nome nenhuma vez em seu Evangelho. (Veja as notas de estudo em Jo 13:23; 19:26; 20:2; 21:7; 21:20.) Além disso, João e Pedro são mencionados juntos no relato de Jo 20:2-8 sobre os acontecimentos depois da ressurreição de Jesus. A Bíblia não explica como foi que João, que era da Galileia, se tornou conhecido do sumo sacerdote. Mas, por conhecer os servos do sumo sacerdote, João conseguiu entrar no pátio e depois conseguiu que “a serva que tomava conta da porta” deixasse Pedro entrar. — Jo 18:16.
+====
+
+[[v43-18-16]]
+
+^<<v43-18-16,16>>^ mas Pedro ficou do lado de fora, junto à porta.^&#42;1^ Portanto, o outro discípulo, que era conhecido do sumo sacerdote, saiu, falou com a serva que tomava conta da porta e levou Pedro para dentro.
+
+[NOTE]
+====
+. Ou: “entrada”.
+====
+
+[[v43-18-17]]
+
+^<<v43-18-17,17>>^ A serva perguntou então a Pedro: “Você também não é um dos discípulos desse homem?” Ele respondeu: “Não sou.”
+
+[[v43-18-18]]
+
+^<<v43-18-18,18>>^ Os escravos e os guardas estavam em volta de um braseiro que tinham acendido, porque fazia frio, e se aqueciam. Pedro também estava com eles e se aquecia.
+
+[TIP]
+====
+- *braseiro*: Lit.: “fogo de carvão”. O carvão vegetal é uma forma quebradiça e porosa de carbono. Ele tem cor preta e é geralmente o resíduo de madeira que foi parcialmente queimada. Nos tempos antigos, o processo de produzir carvão envolvia cobrir uma pilha de madeira com terra e deixá-la queimar lentamente por vários dias, deixando o ar entrar apenas o suficiente para os gases queimarem. No fim, o que sobrava era uma forma relativamente pura de carbono. Esse processo era demorado e precisava ser acompanhado de perto. Mas o carvão era o combustível preferido quando se desejava calor intenso e uniforme, sem fumaça. O carvão era usado para aquecer ambientes, às vezes dentro de um recipiente como o braseiro. (Is 47:14; Je 36:22) Por causa de seu calor uniforme, sem chamas nem fumaça, o carvão também era ideal para cozinhar. — Jo 21:9.
+====
+
+[[v43-18-19]]
+
+^<<v43-18-19,19>>^ Então o principal sacerdote interrogou Jesus sobre os seus discípulos e sobre os seus ensinamentos.
+
+[TIP]
+====
+- *o principal sacerdote*: Ou seja, Anás. — Veja as notas de estudo em Jo 18:13; At 4:6.
+====
+
+[[v43-18-20]]
+
+^<<v43-18-20,20>>^ Jesus lhe respondeu: “Falei ao mundo publicamente. Sempre ensinei nas sinagogas e no templo, onde todos os judeus se reúnem, e não disse nada em segredo.
+
+[[v43-18-21]]
+
+^<<v43-18-21,21>>^ Por que o senhor me faz perguntas? Pergunte aos que ouviram o que eu lhes disse. Eles certamente sabem o que eu disse.”
+
+[[v43-18-22]]
+
+^<<v43-18-22,22>>^ Depois de Jesus dizer isso, um dos guardas que estava ali lhe deu uma bofetada e disse: “É assim que você responde ao principal sacerdote?”
+
+[[v43-18-23]]
+
+^<<v43-18-23,23>>^ Jesus lhe respondeu: “Se eu disse algo errado, diga^&#42;1^ o que foi que eu disse de errado; mas, se o que eu disse está certo, por que você me bate?”
+
+[NOTE]
+====
+. Ou: “testifique”.
+====
+
+[[v43-18-24]]
+
+^<<v43-18-24,24>>^ Então Anás o mandou amarrado a Caifás, o sumo sacerdote.
+
+[TIP]
+====
+- *a Caifás, o sumo sacerdote*: Veja a possível localização da casa de Caifás no Apêndice B12-A.
+====
+
+[[v43-18-25]]
+
+^<<v43-18-25,25>>^ Simão Pedro estava ali e se aquecia. Então lhe perguntaram: “Você também não é um dos discípulos dele?” Ele negou, dizendo: “Não sou.”
+
+[[v43-18-26]]
+
+^<<v43-18-26,26>>^ Um dos escravos do sumo sacerdote, parente do homem cuja orelha Pedro havia cortado, perguntou: “Não vi você no jardim com ele?”
+
+[[v43-18-27]]
+
+^<<v43-18-27,27>>^ No entanto, Pedro negou de novo, e imediatamente um galo cantou.
+
+[TIP]
+====
+- *um galo cantou*: Veja a nota de estudo em Mr 14:72.
+====
+
+[[v43-18-28]]
+
+^<<v43-18-28,28>>^ Então, levaram Jesus da presença de Caifás para a residência do governador. Já era de manhã cedo. Mas eles mesmos não entraram na residência do governador, para não ficarem impuros e assim poderem comer a refeição pascoal.
+
+[TIP]
+====
+- *residência do governador*: Veja a nota de estudo em Mt 27:27.
+- *de manhã cedo*: Ou seja, na manhã de 14 de nisã, o dia em que Jesus foi julgado e executado. A Páscoa tinha começado na noite anterior, depois do pôr do sol que marcou o início de 14 de nisã. Os outros Evangelhos mostram que naquela noite Jesus comeu a refeição pascoal junto com seus apóstolos. (Mt 26:18-20; Mr 14:14-17; Lu 22:15) Assim, a refeição pascoal mencionada aqui deve ser a refeição que os judeus iriam tomar depois do pôr do sol, no início do dia 15 de nisã, o primeiro dia da Festividade dos Pães sem Fermento. Na época de Jesus, a Páscoa (14 de nisã) e a Festividade dos Pães sem Fermento (15 a 21 de nisã) eram às vezes consideradas uma só festividade e chamadas de “Páscoa”. — Lu 22:1.
+====
+
+[[v43-18-29]]
+
+^<<v43-18-29,29>>^ Portanto, Pilatos saiu ao encontro deles e perguntou: “Que acusação vocês levantam contra esse homem?”
+
+[[v43-18-30]]
+
+^<<v43-18-30,30>>^ Responderam-lhe: “Se esse homem não fosse um criminoso,^&#42;1^ não o teríamos entregado ao senhor.”
+
+[NOTE]
+====
+. Ou: “malfeitor”.
+====
+
+[[v43-18-31]]
+
+^<<v43-18-31,31>>^ Assim, Pilatos lhes disse: “Levem-no vocês mesmos e julguem-no segundo a sua lei.” Os judeus lhe disseram: “Não nos é permitido matar ninguém.”
+
+[[v43-18-32]]
+
+^<<v43-18-32,32>>^ Isso aconteceu para que se cumprissem as palavras que Jesus tinha dito indicando o tipo de morte que estava para sofrer.
+
+[[v43-18-33]]
+
+^<<v43-18-33,33>>^ Então Pilatos entrou novamente na residência do governador, chamou Jesus e lhe perguntou: “Você é o Rei dos judeus?”
+
+[TIP]
+====
+- *Você é o Rei dos judeus?*: Veja a nota de estudo em Mt 27:11.
+====
+
+[[v43-18-34]]
+
+^<<v43-18-34,34>>^ Jesus disse: “O senhor está perguntando porque acha isso, ou outros lhe contaram a meu respeito?”
+
+[[v43-18-35]]
+
+^<<v43-18-35,35>>^ Pilatos respondeu: “Por acaso eu sou judeu? A sua própria nação e os principais sacerdotes o entregaram a mim. O que você fez?”
+
+[[v43-18-36]]
+
+^<<v43-18-36,36>>^ Jesus respondeu: “Meu Reino não faz parte deste mundo. Se meu Reino fizesse parte deste mundo, meus assistentes teriam lutado para que eu não fosse entregue aos judeus. Mas o fato é que o meu Reino não é daqui.”
+
+[TIP]
+====
+- *Meu Reino não faz parte deste mundo*: Pilatos tinha acabado de perguntar a Jesus: “O que você fez?” (Jo 18:35) Mas, em vez de responder essa pergunta, Jesus se concentrou na primeira pergunta de Pilatos: “Você é o Rei dos judeus?” (Jo 18:33) A resposta de Jesus foi curta, mas nela ele mencionou três vezes o Reino do qual ele seria Rei. Ao dizer que o Reino dele ‘não fazia parte deste mundo’, Jesus deixou claro que esse Reino não era um governo humano. Isso está de acordo com o fato de que, em ocasiões anteriores, esse Reino foi chamado de “Reino dos céus” ou “Reino de Deus”. (Mt 3:2; Mr 1:15) Além disso, Jesus tinha dito que seus seguidores ‘não faziam parte do mundo’, ou seja, da sociedade humana injusta afastada de Deus. (Jo 17:14, 16) E, quando o apóstolo Pedro tentou impedir que Jesus fosse preso, Jesus mostrou que seus seguidores não deveriam lutar para defendê-lo assim como os assistentes de um rei humano fariam. — Mt 26:51, 52; Jo 18:11.
+====
+
+[[v43-18-37]]
+
+^<<v43-18-37,37>>^ Então Pilatos lhe perguntou: “Pois bem, você é rei?” Jesus respondeu: “O senhor mesmo está dizendo que eu sou rei. Para isto nasci e para isto vim ao mundo: para dar testemunho da verdade. Todo aquele que está do lado da verdade escuta a minha voz.”
+
+[TIP]
+====
+- *O senhor mesmo está dizendo que eu sou rei*: Esta resposta de Jesus era uma confirmação de que ele era um rei. (Mt 27:11; compare com as notas de estudo em Mt 26:25, 64.) Mas Jesus não era rei no sentido que Pilatos imaginava. O Reino de Jesus ‘não fazia parte deste mundo’ e, por isso, não era uma ameaça para o Império Romano. — Jo 18:33-36.
+- *dar testemunho*: Nas Escrituras Gregas Cristãs, as palavras traduzidas como “dar testemunho” (martyréo), “testemunho” (martyría) e “testemunha” (mártys) são bem abrangentes. Elas têm o sentido básico de testemunhar sobre coisas que se sabe ou viu, mas também podem incluir a ideia de “declarar; confirmar; falar bem de”. Jesus não apenas deu testemunho e proclamou as verdades que sabia, mas também viveu de uma maneira que confirmou que as profecias e promessas de seu Pai eram verdadeiras. (2Co 1:20) Deus tinha predito em detalhes o seu propósito com relação ao Reino e ao Rei messiânico. Durante a vida de Jesus na Terra e principalmente ao dar sua vida como sacrifício, ele cumpriu todas as profecias sobre si mesmo, incluindo as “sombras”, ou quadros proféticos, contidas no pacto da Lei. (Col 2:16, 17; He 10:1) Assim, pode-se dizer que Jesus ‘deu testemunho da verdade’ tanto pelo que falou como pelo que fez.
+- *da verdade*: Jesus não estava se referindo à verdade de modo geral, mas à verdade sobre o propósito de Deus. Uma das verdades principais relacionadas com o propósito de Deus é que Jesus, o “filho de Davi”, serve como Sumo Sacerdote e Rei do Reino de Deus. (Mt 1:1) Jesus explicou que um dos objetivos mais importantes de sua vinda à Terra e de seu ministério era declarar a verdade sobre esse Reino. Anjos declararam uma mensagem parecida tanto antes de Jesus nascer como na ocasião do nascimento dele em Belém da Judeia, a mesma cidade onde Davi tinha nascido. — Lu 1:32, 33; 2:10-14.
+====
+
+[[v43-18-38]]
+
+^<<v43-18-38,38>>^ Pilatos lhe disse: “O que é verdade?”
+Depois de dizer isso, ele saiu novamente ao encontro dos judeus e lhes disse: “Não vejo motivo para acusá-lo.
+
+[TIP]
+====
+- *O que é verdade?*: Pelo visto, a pergunta de Pilatos era sobre a verdade de modo geral, não sobre a “verdade” que Jesus tinha acabado de mencionar. (Jo 18:37) Se a pergunta de Pilatos fosse sincera, Jesus sem dúvida teria dado uma resposta. Mas é provável que Pilatos não estivesse esperando que Jesus respondesse. Aparentemente, ele estava dizendo com descrença: “Verdade? O que é isso? Não existe verdade!” Pilatos nem mesmo esperou pela resposta de Jesus antes de sair para falar com os judeus.
+====
+
+[[v43-18-39]]
+
+^<<v43-18-39,39>>^ Além disso, vocês têm o costume de que eu liberte um homem por ocasião da Páscoa. Portanto, querem que eu solte o Rei dos judeus?”
+
+[TIP]
+====
+- *vocês têm o costume de que eu liberte um homem*: O costume de libertar um prisioneiro também é mencionado em Mt 27:15 e Mr 15:6. Pelo visto, foram os judeus que começaram com esse costume, já que Pilatos disse a eles: “Vocês têm o costume.” Não existe base nem precedente nas Escrituras Hebraicas para o costume de libertar um preso, mas parece que nos dias de Jesus isso já tinha se tornado uma tradição entre os judeus. Esse costume não seria estranho para os romanos, pois há evidências de que eles libertavam prisioneiros para agradar as multidões.
+====
+
+[[v43-18-40]]
+
+^<<v43-18-40,40>>^ Eles gritaram de novo: “Este homem não; queremos Barrabás!” Ora, Barrabás era um bandido.
+
+'''
+
+xref:043-joao/043-joao-017.adoc#v43-17-0[&#60; Capítulo Anterior] | <<v43-18-0,Topo>> | xref:043-joao/043-joao-019.adoc#v43-19-0[Próximo Capítulo &#62;]

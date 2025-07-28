@@ -1,0 +1,414 @@
+include::./index.adoc[]
+
+[[v42-23-0]]
+=== As Boas Novas Segundo Lucas, 23
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Últimos dias de Jesus em Jerusalém; prisão e julgamento de Jesus (21:37–23:25)
+* Jesus ensina no templo (21:37, 38)
+* Sacerdotes tramam matar Jesus (22:1-6)
+* Preparativos para a última Páscoa (22:7-13)
+* Jesus realiza a primeira Ceia do Senhor (22:14-20)
+* ‘Aquele que me trai está comigo à mesa’ (22:21-23)
+* Discussão acalorada sobre quem é o maior (22:24-27)
+* Pacto de Jesus para um reino (22:28-30)
+* Jesus prediz que Pedro o negará (22:31-34)
+* Necessário estar preparado; duas espadas (22:35-38)
+* Oração de Jesus no monte das Oliveiras (22:39-46)
+* Jesus é preso (22:47-53)
+* Pedro nega a Jesus (22:54-62)
+* Zombam de Jesus (22:63-65)
+* Julgamento perante o Sinédrio (22:66-71)
+* Jesus é levado a Pilatos e a Herodes (23:1-25)
+* L. Jesus é executado, sepultado, ressuscitado e levado para o céu (23:26–24:53)
+* Jesus fala às filhas de Jerusalém (23:26-31)
+* Jesus e dois criminosos são pendurados em estacas (23:32-42)
+* Jesus promete: “Você estará comigo no Paraíso” (23:43)
+* Jesus morre (23:44-49)
+* Jesus é sepultado (23:50-56)
+* Mulheres e Pedro encontram o túmulo vazio (24:1-12)
+* Na estrada para Emaús (24:13-35)
+* Jesus aparece aos discípulos (24:36-49)
+* Jesus é levado para o céu (24:50-53)
+****
+
+[[v42-23-1]]
+
+^<<v42-23-1,1>>^ Assim, toda a multidão se levantou, e o levaram a Pilatos.
+
+[[v42-23-2]]
+
+^<<v42-23-2,2>>^ Então começaram a acusá-lo, dizendo: “Encontramos este homem subvertendo a nossa nação, proibindo o pagamento de impostos a César e dizendo que ele mesmo é Cristo, um rei.”
+
+[TIP]
+====
+- *César*: Veja a nota de estudo em Mt 22:17.
+====
+
+[[v42-23-3]]
+
+^<<v42-23-3,3>>^ Pilatos lhe perguntou então: “Você é o Rei dos judeus?” Em resposta ele disse: “O senhor mesmo está dizendo isso.”
+
+[TIP]
+====
+- *Você é o Rei dos judeus?*: Esta pergunta de Pilatos aparece nos quatro Evangelhos com exatamente as mesmas palavras. (Mt 27:11; Mr 15:2; Lu 23:3; Jo 18:33) Nenhum rei poderia governar dentro dos domínios do Império Romano sem a aprovação de César. Por isso, parece que a principal preocupação de Pilatos ao interrogar Jesus era saber se ele era ou não um rei.
+- *O senhor mesmo está dizendo isso*: Veja a nota de estudo em Mt 27:11.
+====
+
+[[v42-23-4]]
+
+^<<v42-23-4,4>>^ Pilatos disse então aos principais sacerdotes e à multidão: “Não acho motivo para condenar este homem.”
+
+[[v42-23-5]]
+
+^<<v42-23-5,5>>^ Mas eles insistiram, dizendo: “Ele atiça o povo ensinando em toda a Judeia, começando da Galileia até aqui.”
+
+[[v42-23-6]]
+
+^<<v42-23-6,6>>^ Ao ouvir isso, Pilatos perguntou se o homem era galileu.
+
+[[v42-23-7]]
+
+^<<v42-23-7,7>>^ Ao saber que ele estava sob a jurisdição de Herodes, enviou-o a Herodes, que também estava em Jerusalém naqueles dias.
+
+[TIP]
+====
+- *Herodes*: Ou seja, Herodes Antipas, filho de Herodes, o Grande. Herodes Antipas era o governante distrital (tetrarca) da Galileia e da Pereia. Lucas é o único escritor dos Evangelhos que menciona que Jesus foi enviado até Herodes Antipas. — Lu 3:1; veja o Glossário.
+====
+
+[[v42-23-8]]
+
+^<<v42-23-8,8>>^ Quando Herodes viu Jesus, alegrou-se muito. Fazia bastante tempo que queria ver Jesus, porque tinha ouvido falar muito dele, e esperava ver algum sinal realizado por ele.
+
+[[v42-23-9]]
+
+^<<v42-23-9,9>>^ Começou então a lhe fazer muitas perguntas, mas ele não lhe deu nenhuma resposta.
+
+[[v42-23-10]]
+
+^<<v42-23-10,10>>^ No entanto, os principais sacerdotes e os escribas se levantavam e o acusavam vigorosamente.
+
+[[v42-23-11]]
+
+^<<v42-23-11,11>>^ Então Herodes, junto com seus soldados, o tratou com desprezo e zombou dele, vestindo-o com uma roupa esplêndida,^&#42;1^ e depois o mandou de volta a Pilatos.
+
+[NOTE]
+====
+. Ou: “brilhante”.
+====
+
+[TIP]
+====
+- *uma roupa esplêndida*: Essa roupa esplêndida, que possivelmente era branca, talvez fosse uma das roupas reais do próprio Herodes Antipas. Pode ser que ele, que se dizia judeu e era o governante distrital da Galileia e da Pereia, tenha vestido Jesus assim para zombar da ideia de que Jesus pudesse ser o Rei dos judeus. A palavra grega traduzida aqui como “roupa” (esthés) geralmente se referia a um manto ou a uma roupa que tinha bordados ou outros detalhes. Ela foi usada em Lu 24:4 para se referir às roupas que os anjos estavam vestindo. (Veja também Tg 2:2, 3.) E é usada em At 12:21 para descrever a “roupa” real que foi usada por Herodes Agripa I. A palavra grega traduzida aqui como “esplêndida” (lamprós) vem de uma palavra que significa “brilhar”. Quando lamprós é usada para falar de roupas, ela se refere a roupas de excelente qualidade e, às vezes, a roupas brancas ou brilhantes. Ao que tudo indica, a “roupa esplêndida” mencionada aqui não era o manto escarlate (ou púrpura) que os soldados de Pilatos puseram em Jesus na residência do governador. (Mt 27:27, 28, 31; Jo 19:1, 2, 5; veja as notas de estudo em Mt 27:28; Mr 15:17.) Parece que tanto Herodes como Pilatos e seus soldados vestiram Jesus com uma roupa especial com o mesmo objetivo: zombar da ideia de que Jesus era o Rei dos judeus. — Jo 19:3.
+====
+
+[[v42-23-12]]
+
+^<<v42-23-12,12>>^ Naquele mesmo dia, Herodes e Pilatos, que antes eram inimigos, tornaram-se amigos.
+
+[[v42-23-13]]
+
+^<<v42-23-13,13>>^ Pilatos convocou então os principais sacerdotes, os líderes e o povo,
+
+[[v42-23-14]]
+
+^<<v42-23-14,14>>^ e lhes disse: “Vocês me trouxeram este homem como se fosse alguém que incita o povo à revolta. Pois bem, eu o interroguei na frente de vocês, mas não achei neste homem base para as acusações que vocês levantam contra ele.
+
+[[v42-23-15]]
+
+^<<v42-23-15,15>>^ De fato, nem Herodes achou, pois o mandou de volta para nós. Como podem ver, ele não fez nada que mereça a morte.
+
+[[v42-23-16]]
+
+^<<v42-23-16,16>>^ Portanto, eu o castigarei e o soltarei.”
+
+[[v42-23-17]]
+
+^<<v42-23-17,17>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos dizem aqui*: “Ora, de festividade em festividade ele precisava libertar um homem para eles.” E existem alguns poucos manuscritos em que essas mesmas palavras aparecem depois do versículo 19. Mas vários dos manuscritos mais antigos e mais confiáveis não contêm essas palavras que, pelo visto, não fazem parte do texto original do Evangelho de Lucas. Os estudiosos acreditam que copistas incluíram essas palavras aqui em Lucas como uma explicação baseada nos relatos paralelos em Mt 27:15 e Mr 15:6, onde não existem dúvidas sobre o texto original.
+====
+
+[[v42-23-18]]
+
+^<<v42-23-18,18>>^ Mas toda a multidão gritou: “Mate este homem^&#42;1^ e solte Barrabás!”
+
+[NOTE]
+====
+. Lit.: “Leve embora a este”.
+====
+
+[TIP]
+====
+- *solte Barrabás*: A libertação de Barrabás, descrita em Lu 23:16-25, é mencionada nos quatro Evangelhos. (Mt 27:15-23; Mr 15:6-15; Jo 18:39, 40) Mas Mateus, Marcos e João acrescentam que era costume o governador libertar um prisioneiro durante a festividade. — Veja as notas de estudo em Mt 27:15; Mr 15:6; Jo 18:39.
+====
+
+[[v42-23-19]]
+
+^<<v42-23-19,19>>^ (Esse homem tinha sido lançado na prisão por causa de uma sedição ocorrida na cidade e por assassinato.)
+
+[[v42-23-20]]
+
+^<<v42-23-20,20>>^ Pilatos falou com eles novamente, porque queria soltar Jesus.
+
+[[v42-23-21]]
+
+^<<v42-23-21,21>>^ Começaram então a gritar: “Para a estaca com ele! Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Executem-no na estaca! Executem-no na estaca!”
+====
+
+[[v42-23-22]]
+
+^<<v42-23-22,22>>^ Ele lhes disse pela terceira vez: “Por quê? O que este homem fez de mau? Não achei nele nada que mereça a morte. Portanto, eu o castigarei e o soltarei.”
+
+[[v42-23-23]]
+
+^<<v42-23-23,23>>^ Em vista disso começaram a insistir, exigindo aos gritos que ele fosse executado,^&#42;1^ e a voz deles prevaleceu.
+
+[NOTE]
+====
+. Ou: “executado na estaca”.
+====
+
+[[v42-23-24]]
+
+^<<v42-23-24,24>>^ De modo que Pilatos decidiu atender ao pedido deles.
+
+[[v42-23-25]]
+
+^<<v42-23-25,25>>^ Ele soltou o homem a quem pediam, que tinha sido lançado na prisão por sedição e assassinato, mas entregou Jesus à vontade deles.
+
+[[v42-23-26]]
+
+^<<v42-23-26,26>>^ Enquanto o levavam embora, agarraram um certo Simão de Cirene, que vinha do campo, e puseram a estaca sobre ele para que a carregasse atrás de Jesus.
+
+[TIP]
+====
+- *Cirene*: Cidade da África do Norte, próxima ao litoral, ao sudoeste da ilha de Creta. (Veja o Apêndice B13.) Pode ser que Simão tenha nascido em Cirene e se mudado mais tarde para Israel.
+- *estaca*: Ou: “estaca de tortura; estaca de execução”. — Veja o Glossário, “Madeiro; Estaca”; “Estaca de tortura”; para ver como essa palavra foi usada em sentido figurado, veja Lu 9:23; 14:27.
+====
+
+[[v42-23-27]]
+
+^<<v42-23-27,27>>^ Um grande número de pessoas o seguiam, incluindo mulheres que batiam no peito de pesar e o lamentavam.
+
+[[v42-23-28]]
+
+^<<v42-23-28,28>>^ Jesus se virou para as mulheres e disse: “Filhas de Jerusalém, parem de chorar por mim. Em vez disso, chorem por vocês mesmas e pelos seus filhos;
+
+[[v42-23-29]]
+
+^<<v42-23-29,29>>^ pois saibam que virão dias em que as pessoas dirão: ‘Felizes as mulheres estéreis, os ventres que não deram à luz e os peitos que não amamentaram!’
+
+[[v42-23-30]]
+
+^<<v42-23-30,30>>^ Então começarão a dizer às montanhas: ‘Caiam sobre nós!’ e às colinas: ‘Cubram-nos!’
+
+[[v42-23-31]]
+
+^<<v42-23-31,31>>^ Se eles fazem isso quando a árvore está verde, o que ocorrerá quando estiver seca?”
+
+[TIP]
+====
+- *quando a árvore está verde, . . . quando estiver seca*: Parece que Jesus estava se referindo à nação de Israel. Ela era como uma árvore que estava morrendo, mas que ainda estava “verde” (ou tinha alguma seiva), pois Jesus ainda estava presente e alguns judeus tinham fé nele. Mas em breve Jesus seria morto, e os judeus fiéis seriam ungidos com espírito santo e se tornariam parte do Israel espiritual. (Ro 2:​28, 29; Gál 6:​16) Quando chegasse essa época, a nação de Israel ficaria espiritualmente morta, como se fosse uma árvore seca. — Mt 21:43.
+====
+
+[[v42-23-32]]
+
+^<<v42-23-32,32>>^ Dois outros homens, criminosos, também estavam sendo levados para ser executados com ele.
+
+[TIP]
+====
+- *criminosos*: A palavra grega usada aqui, kakoúrgos, significa literalmente “pessoa que pratica o mal”. Os relatos paralelos em Mt 27:38, 44 e Mr 15:27 usam uma palavra grega diferente, leistés, traduzida como “ladrões”. Essa palavra pode se referir a pessoas que roubam com violência ou, às vezes, a bandidos ou a pessoas que se rebelam contra as autoridades. Essa mesma palavra é usada para descrever Barrabás (Jo 18:40), que estava na prisão por “sedição” e “assassinato” (Lu 23:19).
+====
+
+[[v42-23-33]]
+
+^<<v42-23-33,33>>^ E, quando chegaram ao lugar chamado Caveira, pregaram-no na estaca ao lado dos criminosos, um à sua direita e outro à sua esquerda.
+
+[TIP]
+====
+- *Caveira*: A palavra grega usada aqui, Kraníon, é uma tradução do nome hebraico Golgotha. (Veja as notas de estudo em Mt 27:33; Jo 19:17.) Várias Bíblias em português usam a palavra “Calvário” em Lu 23:33. Ela vem da palavra latina para “crânio”, calvaria, que é usada na Vulgata.
+====
+
+[[v42-23-34]]
+
+^<<v42-23-34,34>>^ Mas Jesus dizia: “Pai, perdoa-lhes, pois não sabem o que estão fazendo.” Além disso, lançaram sortes para repartir as roupas dele.
+
+[TIP]
+====
+- *perdoa-lhes*: O contexto não mostra quem Jesus queria que fosse perdoado, mas é provável que ele estivesse falando da multidão que exigiu que ele fosse executado. Alguns dos que fizeram isso se arrependeram pouco tempo depois. (At 2:36-38; 3:14, 15) É provável que Jesus também estivesse pensando nos soldados romanos que o pregaram na estaca. Eles não sabiam quem ele realmente era e, por isso, não estavam conscientes da gravidade do que estavam fazendo. Por outro lado, Jesus não pediria que Jeová perdoasse os principais sacerdotes, já que eles eram responsáveis pela morte dele. Aqueles homens sabiam exatamente o que estavam fazendo quando conspiraram para matar Jesus. Eles o entregaram por inveja. (Mt 27:18; Mr 15:10; Jo 11:45-53) E é provável que Jesus não estivesse falando dos criminosos que foram executados junto com ele, já que nenhum dos dois foi responsável pela sua morte.
+- *. . . fazendo*: Embora a primeira parte deste versículo não apareça em alguns manuscritos muito antigos, ela foi incluída na Tradução do Novo Mundo e em muitas outras traduções da Bíblia porque aparece em alguns dos manuscritos mais antigos e confiáveis.
+====
+
+[[v42-23-35]]
+
+^<<v42-23-35,35>>^ E o povo ficou parado, olhando. Mas os líderes zombavam e diziam: “A outros ele salvou; que ele salve a si mesmo, se é o Cristo de Deus, o Escolhido.”
+
+[[v42-23-36]]
+
+^<<v42-23-36,36>>^ Até mesmo os soldados zombaram dele, chegando perto e oferecendo-lhe vinho acre,
+
+[TIP]
+====
+- *vinho acre*: Veja a nota de estudo em Mt 27:48.
+====
+
+[[v42-23-37]]
+
+^<<v42-23-37,37>>^ e dizendo: “Se você é o Rei dos judeus, salve a si mesmo.”
+
+[[v42-23-38]]
+
+^<<v42-23-38,38>>^ Havia também uma inscrição acima dele: “Este é o Rei dos judeus.”
+
+[TIP]
+====
+- *uma inscrição acima dele*: Alguns manuscritos acrescentam aqui palavras que poderiam ser traduzidas como: “(escrita) em letras gregas, e latinas, e hebraicas”. Mas elas não aparecem em manuscritos muito antigos e confiáveis. Acredita-se que elas foram acrescentadas por copistas para harmonizar este versículo com Jo 19:20.
+====
+
+[[v42-23-39]]
+
+^<<v42-23-39,39>>^ Então um dos criminosos que estavam pendurados começou a insultá-lo, dizendo: “Você não é o Cristo? Salve a si mesmo e também a nós!”
+
+[TIP]
+====
+- *que estavam pendurados*: O verbo grego que aparece aqui é kremánnymi (“pendurar”), e não stauróo (“executar em uma estaca”). Em At 5:30 e em Gál 3:13, onde se fala da execução de Jesus, kremánnymi é usado junto com epí xýlou (“em uma estaca ou árvore”). (Veja a nota de estudo em At 5:30.) Na Septuaginta, esse verbo é frequentemente usado com referência a pendurar uma pessoa em uma estaca ou árvore. — Gên 40:19; De 21:22; Est 8:7.
+====
+
+[[v42-23-40]]
+
+^<<v42-23-40,40>>^ Em resposta, o outro o censurou, dizendo: “Você não tem nenhum temor de Deus, agora que recebeu o mesmo julgamento?
+
+[[v42-23-41]]
+
+^<<v42-23-41,41>>^ E no nosso caso isso é justo, pois estamos recebendo o que merecemos pelas coisas que fizemos. Mas este homem não fez nada errado.”
+
+[[v42-23-42]]
+
+^<<v42-23-42,42>>^ Então ele disse: “Jesus, lembre-se de mim quando entrar no seu Reino.”
+
+[[v42-23-43]]
+
+^<<v42-23-43,43>>^ E ele lhe disse: “Em verdade, eu lhe digo hoje: Você estará comigo no Paraíso.”
+
+[TIP]
+====
+- *Em verdade, eu lhe digo hoje*: Os manuscritos mais antigos disponíveis das Escrituras Gregas Cristãs foram escritos usando apenas letras maiúsculas. E, ao contrário dos idiomas modernos, o texto grego não tinha espaços nem pontuação. Embora alguns escribas fizessem de vez em quando marcações no texto que podem ter servido como pontuação, elas não eram usadas com frequência nem de forma consistente. Assim, para definir como o texto das Escrituras Gregas Cristãs deve ser pontuado, as traduções modernas da Bíblia se baseiam nas regras de gramática do texto grego e no contexto do versículo. Neste versículo, a gramática do texto grego permite que se coloque uma vírgula (ou dois-pontos) tanto antes da palavra “hoje” como depois dela. Assim, a pontuação usada pelos tradutores depende de como eles entendem as palavras de Jesus e de como eles entendem a Bíblia como um todo. Algumas edições eruditas do texto grego colocam uma vírgula antes da palavra grega para “hoje”. Entre elas estão as edições preparadas por Westcott e Hort, Nestle e Aland, e pelas Sociedades Bíblicas Unidas. Mas, para que as palavras de Jesus aqui estejam de acordo com o que ele disse em outras ocasiões e com o restante da Bíblia, a vírgula deve ser colocada depois da palavra “hoje”. Por exemplo, Jesus disse que morreria e permaneceria “no coração da terra [na sepultura]” até o terceiro dia. (Mt 12:40; Mr 10:34) Em mais de uma ocasião, ele disse a seus discípulos que seria morto e que seria ressuscitado apenas no terceiro dia. (Lu 9:22; 18:33) Além disso, a Bíblia diz que Jesus foi ressuscitado como “as primícias dos que adormeceram na morte” e que ele só subiu aos céus 40 dias mais tarde. (1Co 15:20; Jo 20:17; At 1:1-3, 9; Col 1:18) Assim, já que Jesus não foi ressuscitado no mesmo dia em que morreu, mas apenas no terceiro dia, seria impossível que o criminoso estivesse junto com ele no Paraíso no mesmo dia em que Jesus fez a promessa.
+- *De acordo com isso, uma versão do Evangelho de Lucas em siríaco, conhecida como “texto siríaco curetoniano” (datada do século 5 d.C.), traduz assim este versículo*: “Amém, eu digo a ti hoje que comigo tu estarás no Jardim do Éden.” (The Curetonian Version of the Four Gospels, de Francis C. Burkitt, volume 1, Cambridge, 1904) Também é interessante que comentaristas do texto grego, tanto antigos como mais recentes, escreveram sobre as diferenças de opinião que existiam a respeito da tradução deste versículo. Por exemplo, Hesíquio de Jerusalém, que viveu nos séculos 4 e 5 d.C., escreveu sobre Lu 23:43: “Alguns textos realmente dizem o seguinte: ‘Em verdade, eu lhe digo hoje’, e inserem uma vírgula; depois continuam: ‘Você estará comigo no Paraíso.’” (Patrologiae Graecae, volume 93, colunas 1432 e 1433) Teofilacto, que viveu nos séculos 11 e 12 d.C., escreveu: “[Alguns] colocam um sinal de pontuação depois de ‘hoje’, para que a frase fique assim: ‘Em verdade, eu lhe digo hoje.’ Depois, eles continuam com a expressão: ‘Você estará comigo no Paraíso.’” (Patrologiae Graecae, volume 123, coluna 1104) George M. Lamsa escreveu o seguinte sobre o uso de “hoje” em Lu 23:43: “A ênfase está na palavra ‘hoje’. O texto deveria ficar assim: ‘Em verdade, eu te digo hoje: Tu estarás comigo no Paraíso.’ A promessa foi feita naquele dia, mas seria cumprida no futuro. Esse modo de falar é usado pelos povos do Oriente para indicar que uma promessa feita em um determinado dia vai se cumprir com certeza.” (Gospel Light​—Comments on the Teachings of Jesus From Aramaic and Unchanged Eastern Customs, páginas 303 e 304) Assim, pode ser que as palavras de Jesus registradas em grego em Lu 23:43 refletissem o modo dos idiomas semíticos de dar ênfase. As Escrituras Hebraicas estão cheias de exemplos que mostram que em hebraico era comum usar a palavra “hoje” para dar peso a uma declaração de grande importância, como uma ordem ou um juramento. (De 4:26; 6:6; 7:11; 8:1, 19; 30:15; Za 9:12) As evidências acima indicam que, quando Jesus usou a palavra “hoje”, ele estava se referindo ao dia em que a promessa foi feita, e não ao dia em que o criminoso estaria no Paraíso.
+- *Várias traduções da Bíblia, como as que foram feitas para o inglês por Rotherham e por Lamsa (edição de 1933) e as que foram feitas para o alemão por Ludwig Reinhardt e por Wilhelm Michaelis,  além de uma tradução para o português da Trinitarian Bible Society (edição de 1883),  reconhecem que a palavra “hoje” se refere ao dia em que a promessa foi feita, e não ao dia em que ela se cumprirá. Nessas traduções, Lu 23*:43 foi traduzido de forma parecida com a da Tradução do Novo Mundo.
+- *Paraíso*: A palavra “paraíso” vem do grego parádeisos. Existem palavras semelhantes em hebraico (pardés, em Ne 2:8; Ec 2:5; Cân 4:13) e em persa (pairidaeza). Nesses três idiomas, a palavra passa basicamente a ideia de um lindo jardim semelhante a um parque. Os tradutores da Septuaginta usaram em Gên 2:8 a palavra grega parádeisos para traduzir a palavra hebraica para “jardim” (gan) na expressão “jardim no Éden”. Algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J17, 18, 22 no Apêndice C) traduzem Lu 23:43 assim: “Você estará comigo no jardim do Éden.” Jesus não estava falando do “paraíso de Deus” no céu, mencionado em Ap 2:7, já que esse paraíso foi prometido para ‘aqueles que vencerem’, ou seja, os escolhidos para reinar com Jesus. (Lu 22:28-30) Para ser um escolhido, a pessoa precisa ‘nascer da água e do espírito’ (Jo 3:5) e ‘vencer o mundo’, assim como Jesus venceu (Jo 16:33), o que não era o caso daquele criminoso. Ao que tudo indica, ele estará entre os “injustos” que serão ressuscitados para viver em um paraíso na Terra debaixo do Reino que será governado por Jesus por 1.000 anos. — At 24:15; Ap 20:4, 6.
+====
+
+[[v42-23-44]]
+
+^<<v42-23-44,44>>^ Pois bem, já era por volta da sexta hora; contudo, caiu uma escuridão sobre toda aquela terra, até a nona hora,
+
+[TIP]
+====
+- *por volta da sexta hora*: Ou seja, por volta do meio-dia. — Veja a nota de estudo em Mt 20:3.
+- *uma escuridão*: Essa escuridão foi um milagre da parte de Deus. Ela não pode ter sido causada por um eclipse solar, que só acontece na lua nova. Era a época da Páscoa, quando a lua é cheia. Além disso, essa escuridão durou três horas, muito mais do que a duração máxima de um eclipse solar total, que é de menos de oito minutos. Lucas acrescenta em seu Evangelho que “a luz do sol falhou”. — Lu 23:45.
+- *a nona hora*: Ou seja, por volta das 3 horas da tarde. — Veja a nota de estudo em Mt 20:3.
+====
+
+[[v42-23-45]]
+
+^<<v42-23-45,45>>^ porque a luz do sol falhou. Então a cortina do santuário se rasgou ao meio.
+
+[TIP]
+====
+- *cortina*: Veja a nota de estudo em Mt 27:51.
+- *santuário*: Veja a nota de estudo em Mt 27:51.
+====
+
+[[v42-23-46]]
+
+^<<v42-23-46,46>>^ E Jesus clamou em alta voz e disse: “Pai, às tuas mãos confio o meu espírito.” Depois de dizer isso, ele morreu.
+
+[TIP]
+====
+- *confio o meu espírito*: Jesus citou aqui o Sal 31:5, onde Davi pediu que Deus guardasse, ou tomasse conta, de seu espírito (sua força de vida). Isso era o mesmo que dizer que ele estava deixando sua vida nas mãos de Deus. Ao morrer, Jesus confiou sua força de vida a Jeová. Assim, qualquer esperança de ele voltar a viver dependia inteiramente de Deus. — Veja o Glossário, “Espírito”.
+- *morreu*: Ou: “expirou”. O verbo grego usado aqui, ekpnéo (lit.: “expirar; soltar o ar”), também poderia ser traduzido como “deu seu último suspiro”. (Veja a nota de estudo em Mt 27:50.) A Bíblia mostra claramente que, quando o espírito de Jesus saiu dele, ele morreu. Jesus não estava indo para o céu. Ele mesmo tinha predito que ele só seria ressuscitado no “terceiro dia”. (Mt 16:21; Lu 9:22) Como mostra At 1:3, 9, Jesus só foi para o céu 40 dias mais tarde.
+====
+
+[[v42-23-47]]
+
+^<<v42-23-47,47>>^ Ao ver o que estava acontecendo, o oficial do exército começou a glorificar a Deus, dizendo: “Realmente, este homem era justo.”
+
+[TIP]
+====
+- *oficial do exército*: Ou: “centurião”, um oficial do exército romano que comandava cerca de 100 soldados. Os relatos paralelos em Mateus e Marcos mostram que esse oficial também reconheceu que Jesus “era o Filho de Deus”. — Mt 27:54; Mr 15:39.
+====
+
+[[v42-23-48]]
+
+^<<v42-23-48,48>>^ E toda a multidão que tinha se reunido ali para esse espetáculo viu o que estava acontecendo; então voltaram para casa, batendo no peito.
+
+[[v42-23-49]]
+
+^<<v42-23-49,49>>^ Todos os conhecidos dele estavam parados à distância. Também mulheres que o tinham acompanhado desde a Galileia estavam lá e viram essas coisas.
+
+[[v42-23-50]]
+
+^<<v42-23-50,50>>^ Havia um homem chamado José, membro do Conselho, que era um homem bom e justo.
+
+[TIP]
+====
+- *José*: Veja a nota de estudo em Mr 15:43.
+- *membro do Conselho*: Ou: “conselheiro”. Ou seja, membro do Sinédrio, o supremo tribunal judaico em Jerusalém. — Veja a nota de estudo em Mt 26:59 e o Glossário, “Sinédrio”.
+====
+
+[[v42-23-51]]
+
+^<<v42-23-51,51>>^ (Esse homem não tinha votado em apoio da trama e da ação deles.) Ele era de Arimateia, uma cidade da Judeia, e aguardava o Reino de Deus.
+
+[TIP]
+====
+- *Arimateia*: Veja a nota de estudo em Mt 27:57.
+====
+
+[[v42-23-52]]
+
+^<<v42-23-52,52>>^ Esse homem compareceu perante Pilatos e pediu o corpo de Jesus.
+
+[[v42-23-53]]
+
+^<<v42-23-53,53>>^ Então o tirou de lá, o enrolou em linho fino e o colocou num túmulo escavado na rocha, onde ninguém ainda tinha sido sepultado.
+
+[TIP]
+====
+- *túmulo*: Veja a nota de estudo em Mt 27:60.
+====
+
+[[v42-23-54]]
+
+^<<v42-23-54,54>>^ Era o dia da Preparação, e o sábado estava prestes a começar.
+
+[TIP]
+====
+- *Preparação*: Veja a nota de estudo em Mt 27:62.
+====
+
+[[v42-23-55]]
+
+^<<v42-23-55,55>>^ Mas as mulheres que tinham vindo com ele desde a Galileia foram também até lá e viram o túmulo e como o corpo dele havia sido colocado ali;
+
+[TIP]
+====
+- *túmulo*: Ou: “túmulo memorial”. — Veja o Glossário, “Túmulo memorial”.
+====
+
+[[v42-23-56]]
+
+^<<v42-23-56,56>>^ e voltaram para preparar aromas e óleos perfumados. Mas, naturalmente, descansaram no sábado, segundo o mandamento.
+
+'''
+
+xref:042-lucas/042-lucas-022.adoc#v42-22-0[&#60; Capítulo Anterior] | <<v42-23-0,Topo>> | xref:042-lucas/042-lucas-024.adoc#v42-24-0[Próximo Capítulo &#62;]

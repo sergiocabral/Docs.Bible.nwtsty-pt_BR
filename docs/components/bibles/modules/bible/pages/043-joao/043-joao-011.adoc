@@ -1,0 +1,382 @@
+include::./index.adoc[]
+
+[[v43-11-0]]
+=== As Boas Novas Segundo João, 11
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Da época da Festividade da Dedicação de 32 d.C. a 10 de nisã de 33 d.C. (10:1–12:50)
+* Ilustração do pastor e dos apriscos (10:1-18)
+* Muitos judeus se recusam a acreditar (10:19-26)
+* Jesus e seu Pai estão unidos em cuidar das ovelhas (10:27-30)
+* Judeus tentam prender Jesus (10:31-39)
+* Muitas pessoas do outro lado do Jordão depositam fé em Jesus (10:40-42)
+* Morte de Lázaro (11:1-16)
+* Jesus consola Marta e Maria (11:17-37)
+* Jesus ressuscita Lázaro (11:38-44)
+* Líderes religiosos planejam matar Jesus (11:45-57)
+* Maria derrama óleo perfumado nos pés de Jesus (12:1-11)
+* Entrada triunfal de Jesus em Jerusalém (12:12-19)
+* Jesus prediz que sua morte está próxima (12:20-27)
+* Uma voz do céu (12:28)
+* Falta de fé dos judeus cumpre profecia (12:29-43)
+* Jesus veio salvar o mundo (12:44-50)
+****
+
+[[v43-11-1]]
+
+^<<v43-11-1,1>>^ Um homem chamado Lázaro estava doente; ele era de Betânia, a aldeia de Maria e de sua irmã Marta.
+
+[TIP]
+====
+- *Lázaro*: Veja a nota de estudo em Lu 16:20.
+- *Betânia*: Veja a nota de estudo em Mt 21:17.
+====
+
+[[v43-11-2]]
+
+^<<v43-11-2,2>>^ Foi essa Maria que derramou óleo perfumado sobre o Senhor e enxugou os pés dele com o cabelo; Lázaro, que estava doente, era irmão dela.
+
+[[v43-11-3]]
+
+^<<v43-11-3,3>>^ Então, as irmãs dele mandaram dizer a Jesus: “Senhor, aquele que o senhor ama^&#42;1^ está doente.”
+
+[NOTE]
+====
+. Ou: “aquele por quem o senhor tem afeição”.
+====
+
+[[v43-11-4]]
+
+^<<v43-11-4,4>>^ Mas Jesus, quando ouviu isso, disse: “O resultado dessa doença não será a morte, mas a glória de Deus, para que o Filho de Deus seja glorificado por meio dela.”
+
+[[v43-11-5]]
+
+^<<v43-11-5,5>>^ Jesus amava Marta, a irmã dela e Lázaro.
+
+[[v43-11-6]]
+
+^<<v43-11-6,6>>^ No entanto, quando ouviu que Lázaro estava doente, permaneceu por mais dois dias no lugar onde estava.
+
+[[v43-11-7]]
+
+^<<v43-11-7,7>>^ Depois, ele disse aos discípulos: “Vamos novamente à Judeia.”
+
+[[v43-11-8]]
+
+^<<v43-11-8,8>>^ Os discípulos lhe disseram: “Rabi, há pouco tempo os da Judeia queriam apedrejá-lo, e o senhor vai novamente para lá?”
+
+[TIP]
+====
+- *os da Judeia*: Ou: “os judeus”. Embora a palavra grega que aparece aqui possa ser traduzida como “judeus” (assim como acontece em Jo 10:31, 33), Jesus tinha dito a seus discípulos: “Vamos novamente à Judeia.” Isso mostra que, quando os discípulos falaram dos que tinham tentado apedrejar Jesus, eles estavam se referindo especificamente aos que moravam na região da Judeia, e não aos judeus em geral. — Jo 11:7.
+====
+
+[[v43-11-9]]
+
+^<<v43-11-9,9>>^ Jesus respondeu: “Não há 12 horas de luz no dia? Se alguém anda na luz do dia, não tropeça, porque vê a luz deste mundo.
+
+[[v43-11-10]]
+
+^<<v43-11-10,10>>^ Mas, se alguém anda de noite, tropeça, porque nele não há luz.”
+
+[[v43-11-11]]
+
+^<<v43-11-11,11>>^ Depois de dizer isso, ele acrescentou: “Lázaro, nosso amigo, adormeceu, mas eu vou lá para acordá-lo.”
+
+[TIP]
+====
+- *adormeceu*: A Bíblia muitas vezes compara a morte com o sono. (Sal 13:3; Mr 5:39; At 7:60; 1Co 7:39; 15:51; 1Te 4:13) Jesus estava prestes a ressuscitar Lázaro. Ele talvez tenha dito que Lázaro estava dormindo para mostrar que, assim como as pessoas que estão dormindo podem ser acordadas, os mortos podem ser ressuscitados. O poder que Jesus tinha para ressuscitar Lázaro veio de seu Pai, “aquele que dá vida aos mortos e fala das coisas que não existem como se existissem”. — Ro 4:17; veja as notas de estudo em Mr 5:39; At 7:60.
+====
+
+[[v43-11-12]]
+
+^<<v43-11-12,12>>^ Então os discípulos lhe disseram: “Senhor, se ele está dormindo, ficará bom.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “será salvo”.
+====
+
+[[v43-11-13]]
+
+^<<v43-11-13,13>>^ Jesus, no entanto, havia falado da morte dele; mas eles imaginavam que estivesse falando do sono natural.
+
+[[v43-11-14]]
+
+^<<v43-11-14,14>>^ Então, Jesus lhes disse claramente: “Lázaro morreu;
+
+[[v43-11-15]]
+
+^<<v43-11-15,15>>^ e, por causa de vocês, eu me alegro de que eu não estava lá, para que vocês acreditem. Mas vamos até onde ele está.”
+
+[[v43-11-16]]
+
+^<<v43-11-16,16>>^ Portanto, Tomé, que era chamado Gêmeo, disse aos outros discípulos: “Vamos também, para morrermos com ele.”
+
+[TIP]
+====
+- *Tomé*: O nome grego traduzido como “Tomé” vem de uma palavra aramaica que significa “gêmeo”. Esse apóstolo também era conhecido por outro nome grego, Dídymos, que também significa Gêmeo. Algumas Bíblias em português dizem neste versículo: “Tomé, chamado Dídimo.”
+====
+
+[[v43-11-17]]
+
+^<<v43-11-17,17>>^ Quando Jesus chegou, ficou sabendo que Lázaro já estava no túmulo por quatro dias.
+
+[TIP]
+====
+- *já estava no túmulo por quatro dias*: Quando Lázaro ficou gravemente doente, suas irmãs mandaram avisar Jesus. (Jo 11:1-3) Jesus estava a uns dois dias de distância de Betânia e, pelo visto, Lázaro morreu por volta da hora em que Jesus recebeu a notícia de que ele estava doente. (Jo 10:40) Depois disso, Jesus “permaneceu por mais dois dias no lugar onde estava” e só então foi a Betânia. (Jo 11:6, 7) Como Jesus esperou por dois dias e depois viajou por mais dois dias, ele chegou em Betânia quatro dias depois da morte de Lázaro. Durante seu ministério, Jesus já tinha realizado pelo menos duas ressurreições — uma delas algum tempo depois de a pessoa ter morrido (pelo visto ainda no mesmo dia) e a outra logo depois de a pessoa ter morrido. (Lu 7:11-17; 8:49-55; compare com Mt 11:5.) Mas ele ainda não tinha ressuscitado ninguém que já estivesse morto por quatro dias e com o corpo em decomposição. (Jo 11:39) Alguns judeus acreditavam que, depois que uma pessoa morria, a alma dela permanecia com o seu corpo por três dias e depois partia. Mesmo as pessoas que acreditassem nesse ensino falso ficariam convencidas de que Jesus tinha realizado um milagre incrível ao ressuscitar Lázaro. — Jo 12:9, 10, 17.
+- *túmulo*: Ou: “túmulo memorial”. — Veja o Glossário, “Túmulo memorial”.
+====
+
+[[v43-11-18]]
+
+^<<v43-11-18,18>>^ Betânia era perto de Jerusalém, a cerca de três quilômetros de distância,
+
+[TIP]
+====
+- *cerca de três quilômetros*: Lit.: “cerca de 15 estádios”. Um estádio (em grego, stádion) equivalia a um oitavo de 1 milha romana, ou seja, a 185 metros. — Veja o Apêndice B14-A.
+====
+
+[[v43-11-19]]
+
+^<<v43-11-19,19>>^ e muitos judeus tinham ido consolar Marta e Maria por causa do seu irmão.
+
+[[v43-11-20]]
+
+^<<v43-11-20,20>>^ Quando Marta ouviu que Jesus estava chegando, foi ao encontro dele; Maria, porém, ficou sentada em casa.
+
+[[v43-11-21]]
+
+^<<v43-11-21,21>>^ Marta disse então a Jesus: “Senhor, se estivesse aqui, meu irmão não teria morrido.
+
+[[v43-11-22]]
+
+^<<v43-11-22,22>>^ Contudo, mesmo agora, eu sei que tudo o que o senhor pedir a Deus, Deus lhe dará.”
+
+[[v43-11-23]]
+
+^<<v43-11-23,23>>^ Jesus lhe disse: “Seu irmão se levantará.”
+
+[[v43-11-24]]
+
+^<<v43-11-24,24>>^ Marta respondeu: “Sei que ele se levantará na ressurreição, no último dia.”
+
+[TIP]
+====
+- *Sei que ele se levantará*: Marta pensou que Jesus estivesse falando da ressurreição futura, no último dia. (Veja a nota de estudo em Jo 6:39.) A fé que ela tinha na ressurreição era impressionante. Apesar de as Escrituras inspiradas falarem de forma clara sobre esse ensino, alguns líderes religiosos da época, chamados de saduceus, afirmavam que não haveria uma ressurreição. (Da 12:13; Mr 12:18) Outros líderes religiosos, chamados de fariseus, acreditavam na imortalidade da alma. Marta, por outro lado, sabia que Jesus ensinava sobre a ressurreição e que ele já tinha ressuscitado algumas pessoas, embora nenhuma delas estivesse morta por tanto tempo quanto Lázaro.
+====
+
+[[v43-11-25]]
+
+^<<v43-11-25,25>>^ Jesus lhe disse: “Eu sou a ressurreição e a vida. Quem exercer fé em mim, ainda que morra, voltará a viver;
+
+[TIP]
+====
+- *Eu sou a ressurreição e a vida*: A morte e a ressurreição de Jesus abriram caminho para que os mortos fossem ressuscitados. Depois de Jesus ter sido ressuscitado, Jeová deu a ele o poder, não só de ressuscitar os mortos, mas também de dar vida eterna. (Veja a nota de estudo em Jo 5:26.) Em Ap 1:18, Jesus descreveu a si mesmo como “aquele que vive” e que tem “as chaves da morte e da Sepultura”. Assim, Jesus é a esperança dos vivos e dos mortos. Ele prometeu abrir os túmulos e dar vida aos mortos, tanto aos que vão governar com ele no céu como aos que serão governados por ele na nova terra. — Jo 5:28, 29.
+====
+
+[[v43-11-26]]
+
+^<<v43-11-26,26>>^ e todo aquele que vive e exerce fé em mim não morrerá jamais. Você acredita nisso?”
+
+[TIP]
+====
+- *não morrerá jamais*: Quando Jesus falou estas palavras, é óbvio que ele não estava dizendo que algumas pessoas daquela época nunca morreriam. Jesus estava destacando que ter fé nele poderia levar à vida eterna. Essa conclusão está de acordo com o que ele disse em uma ocasião anterior, registrada no capítulo 6 de João, onde ele relacionou exercer fé nele com ganhar a vida eterna. — Jo 6:39-44, 54.
+====
+
+[[v43-11-27]]
+
+^<<v43-11-27,27>>^ Ela lhe respondeu: “Sim, Senhor, eu acredito que o senhor é o Cristo, o Filho de Deus, aquele que tinha de vir ao mundo.”
+
+[[v43-11-28]]
+
+^<<v43-11-28,28>>^ Depois de dizer isso, ela foi chamar Maria, sua irmã, e lhe disse em particular: “O Instrutor está aqui e está chamando você.”
+
+[[v43-11-29]]
+
+^<<v43-11-29,29>>^ Quando ouviu isso, ela se levantou depressa e foi ao encontro dele.
+
+[[v43-11-30]]
+
+^<<v43-11-30,30>>^ Jesus ainda não tinha entrado na aldeia, mas estava no lugar onde Marta o havia encontrado.
+
+[[v43-11-31]]
+
+^<<v43-11-31,31>>^ Quando os judeus que estavam na casa, consolando Maria, viram que ela se levantou depressa e saiu, eles a seguiram, achando que ela estivesse indo ao túmulo para chorar.
+
+[TIP]
+====
+- *túmulo*: Ou: “túmulo memorial”. — Veja o Glossário, “Túmulo memorial”.
+====
+
+[[v43-11-32]]
+
+^<<v43-11-32,32>>^ Quando Maria chegou ao lugar onde Jesus estava e o viu, ela se prostrou aos seus pés e lhe disse: “Senhor, se estivesse aqui, meu irmão não teria morrido.”
+
+[[v43-11-33]]
+
+^<<v43-11-33,33>>^ Vendo que ela e os judeus que a acompanhavam estavam chorando, Jesus se comoveu profundamente e ficou aflito.
+
+[TIP]
+====
+- *chorando*: O verbo grego traduzido aqui como “chorando” muitas vezes não se refere ao choro silencioso, mas ao choro que pode ser ouvido. O mesmo verbo é usado no relato em que Jesus chorou ao predizer a destruição de Jerusalém. — Lu 19:41.
+- *se comoveu . . . e ficou aflito*: A combinação das duas palavras gregas usadas aqui, embrimáomai e tarásso, mostra que os sentimentos de Jesus nessa ocasião foram muito profundos. O verbo grego traduzido como “se comoveu” (embrimáomai) também pode ser traduzido como “gemeu”. Em geral, ele se refere a um sentimento forte, e neste contexto indica que Jesus se comoveu tão profundamente que gemeu. O verbo grego traduzido como “ficou aflito” (tarásso) se refere literalmente a agitação. De acordo com um estudioso, neste contexto ele significa “provocar uma comoção interior; afetar com grande dor ou pesar”. O mesmo verbo grego é usado em Jo 13:21 para descrever como Jesus se sentiu ao pensar que Judas o trairia. — Veja a nota de estudo em Jo 11:35.
+- *se comoveu profundamente*: Lit.: “gemeu no espírito”. Pelo visto, aqui a palavra grega pneúma se refere à força interior que motiva a pessoa a falar e fazer coisas de certo modo. — Veja o Glossário, “Espírito”.
+====
+
+[[v43-11-34]]
+
+^<<v43-11-34,34>>^ Ele perguntou: “Onde o colocaram?” Disseram-lhe: “Senhor, venha ver.”
+
+[[v43-11-35]]
+
+^<<v43-11-35,35>>^ E Jesus começou a chorar.
+
+[TIP]
+====
+- *começou a chorar*: O verbo grego usado aqui (dakrýo) é relacionado com o substantivo grego para “lágrimas”, que é usado em textos como Lu 7:38; At 20:19, 31; He 5:7; Ap 7:17 e 21:4. Parece que esse verbo dá mais destaque à ação de derramar lágrimas do que à de chorar em voz alta. Esta é a única ocorrência desse verbo nas Escrituras Gregas Cristãs. Ele é diferente do verbo usado para descrever o choro de Maria e dos judeus em Jo 11:33. (Veja a nota de estudo.) Jesus sabia que logo ia ressuscitar Lázaro, mas ficou muito triste de ver o sofrimento de seus amigos queridos. Ele tinha tanto amor e compaixão por seus amigos que derramou lágrimas na frente de todos. Este relato deixa claro que Jesus compreende os sentimentos dos que perdem pessoas queridas.
+====
+
+[[v43-11-36]]
+
+^<<v43-11-36,36>>^ Em vista disso, os judeus disseram: “Vejam como ele o amava!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “ele tinha afeição por ele”.
+====
+
+[[v43-11-37]]
+
+^<<v43-11-37,37>>^ Mas alguns deles diziam: “Não podia este homem, que abriu os olhos do cego, impedir que Lázaro morresse?”
+
+[[v43-11-38]]
+
+^<<v43-11-38,38>>^ Assim, de novo profundamente comovido, Jesus foi ao túmulo. Na realidade, era uma caverna, e havia uma pedra encostada nela.
+
+[TIP]
+====
+- *túmulo*: Ou: “túmulo memorial”. — Veja o Glossário, “Túmulo memorial”.
+====
+
+[[v43-11-39]]
+
+^<<v43-11-39,39>>^ Jesus disse: “Retirem a pedra.” Marta, irmã do falecido, disse-lhe: “Senhor, ele já deve estar cheirando, porque já faz quatro dias.”
+
+[TIP]
+====
+- *ele já deve estar cheirando*: Estas palavras de Marta mostram que os judeus não tinham o costume de realizar o processo trabalhoso de embalsamar os mortos, algo que era feito para preservar o corpo por muito tempo. Se Lázaro tivesse sido embalsamado, Marta não diria que ele já devia estar cheirando. Os pés e as mãos de Lázaro foram amarrados com faixas e ele tinha “um pano enrolado no rosto”, mas é muito provável que isso não tenha sido feito para impedir seu corpo de se decompor. — Jo 11:44.
+- *já faz quatro dias*: Lit.: “é quarto”. A palavra grega que aparece aqui é simplesmente um número ordinal, mas o contexto mostra que ela se refere a “dias”. Pelo visto, tinham se passado três dias completos e uma parte do quarto dia.
+====
+
+[[v43-11-40]]
+
+^<<v43-11-40,40>>^ Jesus respondeu: “Eu não lhe disse que, se você acreditasse, veria a glória de Deus?”
+
+[[v43-11-41]]
+
+^<<v43-11-41,41>>^ Portanto, retiraram a pedra. Jesus levantou então os olhos para o céu e disse: “Pai, eu te agradeço porque me ouviste.
+
+[[v43-11-42]]
+
+^<<v43-11-42,42>>^ Na verdade, eu sei que sempre me ouves, mas falei por causa da multidão que está ao meu redor, para que acreditem que tu me enviaste.”
+
+[[v43-11-43]]
+
+^<<v43-11-43,43>>^ Depois de dizer isso, ele gritou bem alto: “Lázaro, venha para fora!”
+
+[TIP]
+====
+- *Lázaro*: Veja a nota de estudo em Lu 16:20.
+====
+
+[[v43-11-44]]
+
+^<<v43-11-44,44>>^ O homem que estava morto saiu com os pés e as mãos amarrados com faixas, e com um pano enrolado no rosto. Jesus lhes disse: “Tirem as faixas dele e deixem-no ir.”
+
+[TIP]
+====
+- *com um pano enrolado no rosto*: Os judeus tinham o costume de preparar os corpos para o sepultamento envolvendo-os com panos de linho puro e ervas aromáticas. Mas eles não embalsamavam os corpos como os egípcios costumavam fazer. (Gên 50:3; Mt 27:59; Mr 16:1; Jo 19:39, 40) Quando Lázaro foi ressuscitado e saiu do túmulo, o seu rosto ainda estava enrolado com um pano. A palavra grega traduzida aqui como “pano” é soudárion e se refere a um pequeno pedaço de tecido usado como toalha, guardanapo ou lenço. A mesma palavra grega foi usada em Jo 20:7 para se referir ao “pano que tinha sido posto na cabeça [de Jesus]”.
+====
+
+[[v43-11-45]]
+
+^<<v43-11-45,45>>^ Portanto, muitos dos judeus que tinham ido visitar Maria e viram o que ele fez depositaram fé nele,
+
+[[v43-11-46]]
+
+^<<v43-11-46,46>>^ mas alguns deles foram contar aos fariseus o que Jesus tinha feito.
+
+[[v43-11-47]]
+
+^<<v43-11-47,47>>^ Então os principais sacerdotes e os fariseus reuniram o Sinédrio e disseram: “O que faremos, visto que esse homem realiza muitos sinais?
+
+[[v43-11-48]]
+
+^<<v43-11-48,48>>^ Se o deixarmos continuar assim, todos depositarão fé nele, e os romanos virão e tirarão tanto o nosso lugar como a nossa nação.”
+
+[TIP]
+====
+- *o nosso lugar*: Ou seja, o lugar de adoração, ou local sagrado, deles. Pelo visto, se refere ao templo em Jerusalém. — Compare com At 6:13, 14.
+====
+
+[[v43-11-49]]
+
+^<<v43-11-49,49>>^ Então um deles, Caifás, que era sumo sacerdote naquele ano, lhes disse: “Vocês não sabem nada,
+
+[TIP]
+====
+- *sumo sacerdote*: Quando Israel era uma nação independente, o sumo sacerdote continuava no cargo a vida toda. (Núm 35:25) Mas, durante o tempo em que o Império Romano dominava sobre Israel, os governantes designados por esse império tinham autoridade para nomear ou remover o sumo sacerdote. (Veja o Glossário.) Caifás, que foi nomeado pelos romanos, era um diplomata habilidoso e conseguiu permanecer como sumo sacerdote por mais tempo do que os últimos que tinham ocupado esse cargo antes dele. Ele foi nomeado por volta de 18 d.C. e continuou como sumo sacerdote até por volta de 36 d.C. Ao dizer que Caifás era sumo sacerdote naquele ano, ou seja, em 33 d.C., parece que João quis destacar que o período de Caifás como sumo sacerdote incluiu o ano marcante em que Jesus foi executado. — Veja a possível localização da casa de Caifás no Apêndice B12-A.
+====
+
+[[v43-11-50]]
+
+^<<v43-11-50,50>>^ nem refletiram que é para o seu bem que um só homem morra a favor do povo, em vez de toda a nação ser destruída.”
+
+[[v43-11-51]]
+
+^<<v43-11-51,51>>^ No entanto, ele não disse isso por si mesmo, mas, como era sumo sacerdote naquele ano, profetizou que Jesus iria morrer pela nação,
+
+[[v43-11-52]]
+
+^<<v43-11-52,52>>^ e não só pela nação, mas também para reunir em um só grupo os filhos de Deus que estavam espalhados.
+
+[[v43-11-53]]
+
+^<<v43-11-53,53>>^ Assim, daquele dia em diante fizeram planos para matá-lo.
+
+[[v43-11-54]]
+
+^<<v43-11-54,54>>^ Por isso, Jesus não andava mais publicamente entre os judeus, mas partiu dali para a região perto do deserto, para uma cidade chamada Efraim, e ficou ali com os discípulos.
+
+[TIP]
+====
+- *Efraim*: Em geral, acredita-se que esta cidade seja a mesma cidade chamada de “Efrom” em 2Cr 13:19, que Abias, rei de Judá, capturou de Jeroboão, rei de Israel. Muitos acreditam que a cidade ficava no local onde hoje existe a aldeia de et-Taiyiba (também chamada de et-Taiyibeh), cerca de 6 quilômetros ao nordeste de Betel e 3 quilômetros ao sudeste do lugar onde se acredita que ficava Baal-Hazor. (2Sa 13:23) Essa aldeia fica perto do deserto. Abaixo dela, ao sudeste, estão as planícies desérticas de Jericó e o Mar Morto. De acordo o historiador Josefo, Efraim foi conquistada pelo exército romano, comandado pelo general Vespasiano, que estava em marcha para Jerusalém. — The Jewish War, IV, 551 (ix, 9).
+====
+
+[[v43-11-55]]
+
+^<<v43-11-55,55>>^ Estava próxima a Páscoa dos judeus, e muitos da zona rural subiram a Jerusalém antes da Páscoa, a fim de se purificar cerimonialmente.
+
+[TIP]
+====
+- *a Páscoa*: Ou seja, a Páscoa de 33 d.C. Pelo visto, esta é a quarta Páscoa mencionada no Evangelho de João. — Veja as notas de estudo em Jo 2:13; 5:1; 6:4.
+====
+
+[[v43-11-56]]
+
+^<<v43-11-56,56>>^ Procuravam Jesus e, no templo, diziam uns aos outros: “Que acham? Será que ele não virá à festividade?”
+
+[[v43-11-57]]
+
+^<<v43-11-57,57>>^ Mas os principais sacerdotes e os fariseus tinham dado ordens de que, se alguém soubesse onde Jesus estava, os informasse, para que pudessem prendê-lo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “pegá-lo”.
+====
+
+'''
+
+xref:043-joao/043-joao-010.adoc#v43-10-0[&#60; Capítulo Anterior] | <<v43-11-0,Topo>> | xref:043-joao/043-joao-012.adoc#v43-12-0[Próximo Capítulo &#62;]

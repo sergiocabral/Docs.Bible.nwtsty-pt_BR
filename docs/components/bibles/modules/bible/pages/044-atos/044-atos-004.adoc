@@ -1,0 +1,291 @@
+include::./index.adoc[]
+
+[[v44-4-0]]
+=== Atos dos Apóstolos, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Testemunho apesar de oposição (4:1–5:42)
+* Pedro e João são presos; o número dos que acreditam agora chega a cerca de 5.000 homens (4:1-4)
+* Pedro faz sua defesa diante do Sinédrio (4:5-22)
+* Os discípulos oram pedindo coragem para continuar falando a palavra de Deus (4:23-31)
+* Os discípulos compartilham o que têm (4:32-37)
+* Ananias e Safira põem à prova o espírito de Jeová (5:1-11)
+* Os apóstolos realizam muitos sinais (5:12-16)
+* Os apóstolos são presos, mas são libertados por um anjo de Jeová (5:17-21a)
+* Os apóstolos são levados novamente diante do Sinédrio (5:21b-32)
+* Gamaliel alerta o Sinédrio sobre o risco de estarem “lutando contra o próprio Deus” (5:33-40)
+* Os apóstolos pregam no templo e de casa em casa (5:41, 42)
+****
+
+[[v44-4-1]]
+
+^<<v44-4-1,1>>^ Enquanto os dois estavam falando com o povo, aproximaram-se deles os sacerdotes, o capitão do templo e os saduceus.
+
+[TIP]
+====
+- *os dois*: Lit.: “eles”. Ou seja, Pedro e João.
+- *o capitão do templo*: Esse oficial também é mencionado em At 5:24, 26. No século 1 d.C., a pessoa que ocupava esse cargo era um sacerdote, e apenas o sumo sacerdote tinha mais autoridade do que ele. O capitão do templo supervisionava o trabalho dos sacerdotes no templo. Ele também era responsável por manter a ordem no templo e em seus arredores. Para isso, ele usava um grupo de levitas que servia como uma força policial do templo. Havia outros capitães subordinados a ele que supervisionavam os levitas que abriam os portões do templo de manhã e os fechavam à noite. Os guardas levitas também protegiam o tesouro do templo, mantinham a ordem entre as multidões e cuidavam para que ninguém entrasse em áreas restritas. Os levitas estavam divididos em 24 turmas. As turmas se revezavam, e cada turma servia por uma semana, duas vezes ao ano. É provável que cada turma tivesse um capitão, que estava debaixo da autoridade do capitão do templo. Todos esses capitães que trabalhavam no templo eram homens influentes. Eles são mencionados junto com os principais sacerdotes que planejaram a morte de Jesus. Na noite em que Jesus foi traído, eles foram com seus guardas prender Jesus. — Lu 22:4 (veja a nota de estudo), 52.
+====
+
+[[v44-4-2]]
+
+^<<v44-4-2,2>>^ Eles estavam irritados porque os apóstolos estavam ensinando o povo e declarando abertamente a ressurreição de Jesus dentre os mortos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a ressurreição dentre os mortos no caso de Jesus”.
+====
+
+[[v44-4-3]]
+
+^<<v44-4-3,3>>^ Então os agarraram^&#42;1^ e os puseram na cadeia até o dia seguinte, pois já tinha anoitecido.
+
+[NOTE]
+====
+. Ou: “os prenderam”. Lit.: “deitaram as mãos neles”.
+====
+
+[[v44-4-4]]
+
+^<<v44-4-4,4>>^ No entanto, muitos que tinham escutado o discurso acreditaram, e o número de homens chegou a cerca de 5.000.
+
+[[v44-4-5]]
+
+^<<v44-4-5,5>>^ No dia seguinte, as autoridades, os anciãos e os escribas se reuniram em Jerusalém,
+
+[TIP]
+====
+- *os anciãos*: Veja a nota de estudo em Mt 16:21.
+====
+
+[[v44-4-6]]
+
+^<<v44-4-6,6>>^ junto com Anás, que era o principal sacerdote, Caifás, João, Alexandre e todos os que eram parentes do principal sacerdote.
+
+[TIP]
+====
+- *Anás, . . . o principal sacerdote*: Anás foi designado sumo sacerdote por Quirino, governador romano da Síria, por volta de 6 ou 7 d.C. e serviu nessa função até cerca de 15 d.C. Parece que mesmo depois de Anás ser deposto pelos romanos, deixando de ser oficialmente o sumo sacerdote, ele continuou tendo o mesmo poder e respeito, e era a autoridade judaica mais influente. Cinco dos filhos de Anás foram sumos sacerdotes, e seu genro, Caifás, serviu nessa posição de cerca de 18 d.C. a cerca de 36 d.C. (Veja a nota de estudo em Lu 3:2.) O Evangelho de João também se refere a Anás como “o principal sacerdote”. (Jo 18:13, 19) A palavra grega traduzida aqui como “principal sacerdote” (arkhiereús) era usada para se referir tanto ao sumo sacerdote como a outros sacerdotes importantes, incluindo ex-sumos sacerdotes. — Veja o Glossário, “Principal sacerdote”.
+- *Caifás*: Este sumo sacerdote, nomeado pelos romanos, era um diplomata habilidoso. Caifás conseguiu ficar no cargo de sumo sacerdote por mais tempo do que todos os que ocuparam esse cargo pouco antes dele. Ele foi nomeado por volta de 18 d.C. e continuou no cargo até por volta de 36 d.C. Foi ele que interrogou Jesus e o entregou a Pilatos. (Mt 26:3, 57; Jo 11:49; 18:13, 14, 24, 28) Esta é a única vez que Caifás é mencionado por nome no livro de Atos. Depois disso, o livro sempre se refere a ele como “o sumo sacerdote”. — At 5:17, 21, 27; 7:1; 9:1.
+====
+
+[[v44-4-7]]
+
+^<<v44-4-7,7>>^ Colocaram Pedro e João no meio deles e os interrogaram: “Com que poder ou em nome de quem vocês fizeram isso?”
+
+[[v44-4-8]]
+
+^<<v44-4-8,8>>^ Então Pedro, cheio de espírito santo, lhes disse:
+“Líderes do povo e anciãos,
+
+[[v44-4-9]]
+
+^<<v44-4-9,9>>^ se estamos sendo interrogados hoje por causa de uma boa ação feita a um homem aleijado, e se querem saber quem fez esse homem ficar bom,^&#42;1^
+
+[NOTE]
+====
+. Ou: “salvou esse homem”.
+====
+
+[[v44-4-10]]
+
+^<<v44-4-10,10>>^ saibam os senhores e todo o povo de Israel que é em nome de Jesus Cristo, o Nazareno, aquele que os senhores executaram numa estaca, mas que Deus levantou dentre os mortos, sim, é por meio dele^&#42;1^ que este homem está aqui curado, diante dos senhores.
+
+[NOTE]
+====
+. Ou, possivelmente: “é nesse nome”.
+====
+
+[TIP]
+====
+- *o Nazareno*: Veja a nota de estudo em Mr 10:47.
+- *executaram numa estaca*: Ou: “prenderam numa estaca (num poste)”. — Veja a nota de estudo em Mt 20:19 e o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.
+====
+
+[[v44-4-11]]
+
+^<<v44-4-11,11>>^ Esse Jesus é ‘a pedra que não foi levada em conta por vocês, construtores, e que se tornou a principal pedra angular’.
+
+[TIP]
+====
+- *a principal pedra angular*: Veja a nota de estudo em Mt 21:42.
+====
+
+[[v44-4-12]]
+
+^<<v44-4-12,12>>^ Além disso, não há salvação em mais ninguém, pois não há outro nome debaixo do céu, que tenha sido dado aos homens, pelo qual devamos ser salvos.”
+
+[[v44-4-13]]
+
+^<<v44-4-13,13>>^ Quando viram a coragem de Pedro e de João, e notaram que eles eram homens comuns e sem instrução, ficaram admirados. E perceberam que eles haviam estado com Jesus.
+
+[TIP]
+====
+- *coragem*: Ou: “franqueza”. O substantivo grego usado aqui, parresía, também pode ser traduzido como “confiança [ou: “liberdade ao falar”]”. (1Jo 5:14, nota de rodapé) Essa palavra e o verbo relacionado parresiázomai, com frequência traduzido como “falar corajosamente (com coragem)”, aparecem muitas vezes no livro de Atos, deixando claro que a coragem era uma característica marcante da pregação que os cristãos faziam. — At 4:29, 31; 9:27, 28; 13:46; 14:3; 18:26; 19:8; 26:26.
+- *sem instrução*: Ou: “iletrados”. A palavra grega que aparece aqui (agrámmatos) pode se referir a alguém analfabeto, mas neste contexto ela provavelmente se refere a alguém que não estudou nas escolas rabínicas. Pelo visto, a maioria dos judeus no século 1 d.C. sabia ler e escrever. Um dos motivos para isso talvez fosse que muitas sinagogas também funcionavam como escolas. Mas, assim como Jesus, os apóstolos Pedro e João não tinham estudado nas escolas rabínicas. (Compare com Jo 7:15.) A elite religiosa dos dias de Jesus considerava que as escolas rabínicas eram os únicos lugares aceitáveis para uma pessoa receber formação religiosa. Os fariseus e os saduceus sem dúvida achavam que Pedro e João não estavam qualificados para ensinar o povo ou dar explicações sobre a Lei. Além disso, Pedro e João eram da Galileia, uma região onde a maioria das pessoas eram agricultores, pastores e pescadores. Pelo visto, tanto os líderes religiosos como outros de Jerusalém e da Judeia desprezavam os galileus e consideravam que Pedro e João eram pessoas “comuns e sem instrução”. (Jo 7:45-52; At 2:7) Mas a opinião de Deus sobre eles era completamente diferente. (1Co 1:26-29; 2Co 3:5, 6; Tg 2:5) Antes de morrer, o Filho de Deus tinha dado muito treinamento e instrução para seus discípulos, incluindo Pedro e João. (Mt 10:1-42; Mr 6:7-13; Lu 8:1; 9:1-5; 10:1-42; 11:52) E, depois de ser ressuscitado, Jesus continuou a ensinar seus discípulos por meio do espírito santo. — Jo 14:26; 16:13; 1Jo 2:27.
+====
+
+[[v44-4-14]]
+
+^<<v44-4-14,14>>^ Eles ficaram sem resposta, pois estavam vendo ali entre eles o homem que tinha sido curado.
+
+[[v44-4-15]]
+
+^<<v44-4-15,15>>^ Assim, ordenaram-lhes que saíssem do Sinédrio e começaram a discutir o assunto entre si;
+
+[TIP]
+====
+- *do Sinédrio*: Veja a nota de estudo em Lu 22:66.
+====
+
+[[v44-4-16]]
+
+^<<v44-4-16,16>>^ diziam: “O que faremos com esses homens? Porque, realmente, por meio deles ocorreu um sinal notável, que ficou conhecido por todos os habitantes de Jerusalém, e não podemos negá-lo.
+
+[[v44-4-17]]
+
+^<<v44-4-17,17>>^ Para que isso não se espalhe ainda mais entre o povo, vamos ameaçá-los e dizer-lhes que não falem mais a ninguém à base desse nome.”
+
+[[v44-4-18]]
+
+^<<v44-4-18,18>>^ Então eles os chamaram e lhes ordenaram que não falassem nada nem ensinassem em nome de Jesus.
+
+[[v44-4-19]]
+
+^<<v44-4-19,19>>^ Mas Pedro e João lhes responderam: “Julguem os senhores mesmos se é certo, à vista de Deus, obedecer aos senhores em vez de a Deus.
+
+[[v44-4-20]]
+
+^<<v44-4-20,20>>^ Quanto a nós, não podemos parar de falar das coisas que vimos e ouvimos.”
+
+[[v44-4-21]]
+
+^<<v44-4-21,21>>^ Assim, depois de ameaçá-los ainda mais, eles os soltaram por não terem achado nenhuma base para puni-los e também por causa do povo, porque todos estavam glorificando a Deus pelo que tinha acontecido.
+
+[[v44-4-22]]
+
+^<<v44-4-22,22>>^ Pois o homem que havia sido curado por esse milagre tinha mais de 40 anos.
+
+[TIP]
+====
+- *milagre*: Ou: “sinal”. A palavra grega semeíon, muitas vezes traduzida como “sinal”, se refere aqui a um milagre que dá evidências do apoio de Deus.
+====
+
+[[v44-4-23]]
+
+^<<v44-4-23,23>>^ Depois de serem soltos, foram ao encontro dos outros discípulos^&#42;1^ e contaram o que os principais sacerdotes e os anciãos lhes haviam dito.
+
+[NOTE]
+====
+. Ou: “do seu próprio povo”.
+====
+
+[[v44-4-24]]
+
+^<<v44-4-24,24>>^ Ao ouvirem isso, unidos, levantaram a voz a Deus, dizendo:
+“Soberano Senhor, tu és aquele que fez o céu, a terra, o mar e tudo que há neles,
+
+[TIP]
+====
+- *Soberano Senhor*: A palavra grega usada aqui, despótes, tem o sentido básico de “amo; senhor; dono”. (1Ti 6:1; Tit 2:9; 1Pe 2:18) Quando ela é usada para se dirigir diretamente a Deus, como acontece aqui e em Lu 2:29 e Ap 6:10, ela é traduzida como “Soberano Senhor”, para transmitir a ideia de que Jeová é muito superior a qualquer outro “senhor”. Outras traduções usam expressões como “Senhor”, “Amo”, “Mestre”, “Soberano” e “Governante (Amo; Senhor) de todos”. Algumas traduções das Escrituras Gregas Cristãs para o hebraico traduzem despótes como ʼAdhonaí (Soberano Senhor), mas pelo menos uma tradução usa o Tetragrama aqui.
+====
+
+[[v44-4-25]]
+
+^<<v44-4-25,25>>^ e quem, por espírito santo, disse por meio de nosso antepassado Davi, teu servo: ‘Por que as nações ficaram agitadas e os povos meditaram em coisas vãs?
+
+[[v44-4-26]]
+
+^<<v44-4-26,26>>^ Os reis da terra tomaram a sua posição, e os governantes se uniram contra Jeová e contra o seu ungido.’
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação do Sal 2:2. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *o seu ungido*: Ou: “o seu Cristo; o seu Messias”. A palavra grega usada aqui é Khristós, de onde vem o título “Cristo”. Este versículo é uma citação do Sal 2:2, onde aparece a palavra hebraica correspondente mashíahh (ungido). É dessa palavra que vem o título “Messias”. — Veja as notas de estudo em Lu 2:26; Jo 1:41; At 4:27.
+====
+
+[[v44-4-27]]
+
+^<<v44-4-27,27>>^ De fato, Herodes e Pôncio Pilatos se reuniram nesta cidade com homens das nações e com povos de Israel contra o teu santo servo Jesus, a quem ungiste,
+
+[TIP]
+====
+- *a quem ungiste*: Ou: “a quem fizeste Cristo (Messias)”. O título Khristós (Cristo) vem do verbo grego khrío, traduzido aqui como “ungiste”. Esse verbo significa literalmente “derramar óleo sobre alguém”. Mas, nas Escrituras Gregas Cristãs, ele é sempre usado em sentido figurado e sagrado, e se refere a Deus colocar alguém à parte para uma designação especial debaixo de sua direção. Esse verbo grego também aparece em Lu 4:18; At 10:38; 2Co 1:21 e He 1:9. Quando a ideia é a de passar ou derramar no corpo azeite ou óleo perfumado em sentido literal, as Escrituras Gregas Cristãs usam outro verbo grego, aleífo. Por exemplo, era costume usar óleo perfumado ou azeite depois que a pessoa se lavava, quando alguém estava doente ou quando um corpo estava sendo preparado para sepultamento. — Mt 6:17; Mr 6:13; 16:1; Lu 7:38, 46; Tg 5:14.
+====
+
+[[v44-4-28]]
+
+^<<v44-4-28,28>>^ para fazerem aquilo que o teu poder e a tua vontade^&#42;1^ predeterminaram que ocorresse.
+
+[NOTE]
+====
+. Ou: “o teu conselho”.
+====
+
+[[v44-4-29]]
+
+^<<v44-4-29,29>>^ E agora, Jeová, dá atenção às ameaças deles e concede que os teus escravos continuem a falar a tua palavra com toda a coragem,
+
+[TIP]
+====
+- *Jeová*: As palavras deste versículo fazem parte de uma oração que começa no versículo 24. Os discípulos estavam orando ao “Soberano Senhor” (At 4:24b), em grego despótes. Essa palavra grega também foi usada para se dirigir a Deus na oração registrada em Lu 2:29. Na oração aqui em Atos, os discípulos se referiram a Jesus como “o teu santo servo”. (At 4:27, 30) Parte da oração é uma citação do Sal 2:1, 2, onde aparece o nome de Deus. (Veja a nota de estudo em At 4:26.) Além disso, quando os discípulos pediram que Jeová desse atenção às ameaças deles, ou seja, às ameaças do Sinédrio, eles usaram palavras que lembram orações registradas nas Escrituras Hebraicas, como em 2Rs 19:16, 19 e Is 37:17, 20, onde o nome de Deus aparece. — Veja o Apêndice C3 (introdução; At 4:29).
+====
+
+[[v44-4-30]]
+
+^<<v44-4-30,30>>^ ao passo que estendes a mão para curar e ao passo que ocorrem sinais e milagres por meio do nome do teu santo servo Jesus.”
+
+[TIP]
+====
+- *milagres*: Ou: “presságios”. — Veja a nota de estudo em At 2:19.
+====
+
+[[v44-4-31]]
+
+^<<v44-4-31,31>>^ Depois de terem feito a súplica, o lugar onde estavam reunidos tremeu, e todos ficaram cheios de espírito santo e começaram a falar a palavra de Deus com coragem.
+
+[TIP]
+====
+- *terem feito a súplica*: Ou: “terem orado fervorosamente”. O verbo grego déomai, traduzido aqui como “terem feito a súplica”, se refere a orar de forma sincera e com fortes sentimentos. O substantivo relacionado déesis (súplica) pode ser definido como “apelo sincero e fervoroso”. Nas Escrituras Gregas Cristãs, esse substantivo é usado apenas com respeito a pedidos feitos a Deus. Até mesmo Jesus “fez pedidos e súplicas, com fortes clamores e lágrimas, Àquele que era capaz de salvá-lo da morte”. (He 5:7) O fato de a palavra “súplicas” estar no plural mostra que Jesus implorou a Jeová mais de uma vez. Na última noite antes de morrer, Jesus fez várias orações fervorosas no jardim de Getsêmani. — Mt 26:36-44; Lu 22:32.
+- *a palavra de Deus*: Esta expressão aparece muitas vezes no livro de Atos. (At 6:2, 7; 8:14; 11:1; 13:5, 7, 46; 17:13; 18:11) Aqui, ela se refere à mensagem dada por Jeová Deus aos cristãos, que destaca o papel importante de Jesus Cristo na realização do propósito de Deus.
+====
+
+[[v44-4-32]]
+
+^<<v44-4-32,32>>^ Além disso, a multidão dos que creram era de um só coração e uma só alma, e nenhum deles dizia que as coisas que possuía eram suas, mas compartilhavam tudo que tinham.
+
+[TIP]
+====
+- *era de um só coração e uma só alma*: Esta expressão descreve a união e a harmonia que existiam entre todos os que tinham se tornado cristãos. O texto de Fil 1:27 usa uma expressão parecida, “com uma só alma”, que também poderia ser traduzida como “com um só objetivo” ou “como um só homem”. Nas Escrituras Hebraicas, a expressão “um só coração” é usada em 1Cr 12:38 (nota de rodapé) e em 2Cr 30:12 (nota de rodapé) para falar da união de objetivos e ações. Além disso, as palavras “coração” e “alma” com frequência aparecem juntas para se referir a tudo o que a pessoa é por dentro. (De 4:29; 6:5; 10:12; 11:13; 26:16; 30:2, 6, 10) Aqui, a expressão “era de um só coração e uma só alma” é usada de forma parecida e poderia ser traduzida como “estava completamente unida, com os mesmos pensamentos e objetivos”. Isso estava de acordo com a oração que Jesus tinha feito pedindo que seus discípulos permanecessem unidos apesar de suas diferentes formações. — Jo 17:21.
+====
+
+[[v44-4-33]]
+
+^<<v44-4-33,33>>^ E os apóstolos continuavam, de forma poderosa, a dar testemunho a respeito da ressurreição do Senhor Jesus, e todos eles eram grandemente abençoados com bondade imerecida.
+
+[[v44-4-34]]
+
+^<<v44-4-34,34>>^ De fato, ninguém entre eles passava necessidade, porque todos os que possuíam campos ou casas os vendiam, traziam o dinheiro da venda
+
+[[v44-4-35]]
+
+^<<v44-4-35,35>>^ e o colocavam aos pés dos apóstolos. Depois, fazia-se a distribuição, conforme a necessidade de cada um.
+
+[[v44-4-36]]
+
+^<<v44-4-36,36>>^ Assim fez José, a quem os apóstolos chamavam de Barnabé (que traduzido significa “filho do consolo”), um levita, natural de Chipre,
+
+[TIP]
+====
+- *filho do*: Em hebraico, aramaico e grego a expressão “filho(s) de” pode ser usada para indicar uma qualidade ou característica que se destaca em uma pessoa ou para identificar um grupo de pessoas. Por exemplo, em De 3:18, a expressão “homens valentes” significa literalmente “filhos da habilidade” e se refere a guerreiros corajosos. Em Jó 1:3, a expressão “orientais” significa literalmente “filhos do Oriente”. E, em 1Sa 25:17, a expressão “homem . . . imprestável” significa literalmente “filho de belial”, ou seja, “filho da inutilidade”. Nas Escrituras Gregas Cristãs, a expressão “filhos de” é usada para falar de pessoas que têm certo modo de agir ou apresentam uma determinada característica, como por exemplo nas expressões “filhos do Altíssimo”, “filhos da luz e filhos do dia” e “filhos da desobediência”. — Lu 6:35; 1Te 5:5; Ef 2:2.
+- *filho do consolo*: Ou: “filho do encorajamento”. Esta é a tradução do nome Barnabé, que foi dado pelos apóstolos a um discípulo chamado José. Eles talvez tenham dado esse nome para identificar esse discípulo de maneira mais fácil, porque o nome José era muito comum entre os judeus. (Compare com At 1:23.) A expressão “filho(s) de” era às vezes usada para indicar uma qualidade ou característica que se destaca em uma pessoa. (Veja a nota de estudo em filho do neste versículo.) Pelo visto, José era chamado de “filho do consolo” porque uma característica marcante dele era encorajar e consolar outros. O texto de At 11:22, 23 diz que José (Barnabé) foi enviado à congregação de Antioquia da Síria, onde “começou a encorajar” seus companheiros cristãos. O verbo traduzido em At 11:23 como “encorajar” (parakaléo) é relacionado com a palavra grega traduzida como “consolo” (paráklesis) neste versículo.
+====
+
+[[v44-4-37]]
+
+^<<v44-4-37,37>>^ que possuía um pedaço de terra; ele o vendeu, trouxe o dinheiro e o colocou aos pés dos apóstolos.
+
+'''
+
+xref:044-atos/044-atos-003.adoc#v44-3-0[&#60; Capítulo Anterior] | <<v44-4-0,Topo>> | xref:044-atos/044-atos-005.adoc#v44-5-0[Próximo Capítulo &#62;]

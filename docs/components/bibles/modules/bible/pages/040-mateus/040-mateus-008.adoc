@@ -1,0 +1,287 @@
+include::./index.adoc[]
+
+[[v40-8-0]]
+=== As Boas Novas Segundo Mateus, 8
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Jesus faz vários milagres na Galileia (8:1–9:34)
+* Jesus cura um leproso (8:1-4)
+* Oficial do exército mostra muita fé (8:5-13)
+* Jesus cura muitas pessoas em Cafarnaum (8:14-17)
+* Requisitos para seguir a Jesus (8:18-22)
+* Jesus acalma tempestade no mar da Galileia (8:23-27)
+* Jesus manda demônios para os porcos (8:28-34)
+* Jesus cura um paralítico (9:1-8)
+* Jesus chama Mateus (9:9-13)
+* Pergunta sobre o jejum (9:14-17)
+* Jesus ressuscita filha de Jairo; mulher toca na roupa de Jesus (9:18-26)
+* Jesus cura cegos e um mudo (9:27-34)
+****
+
+[[v40-8-1]]
+
+^<<v40-8-1,1>>^ Depois que ele desceu do monte, grandes multidões o seguiram.
+
+[[v40-8-2]]
+
+^<<v40-8-2,2>>^ Então um leproso chegou e se curvou diante dele, dizendo: “Senhor, se apenas quiser, pode me purificar.”
+
+[TIP]
+====
+- *um leproso*: Pessoa que sofria de uma grave doença de pele. A lepra mencionada na Bíblia não é apenas a doença que hoje é chamada de lepra (hanseníase). Se uma pessoa tivesse lepra, ela tinha que viver isolada até que ficasse curada. — Le 13:2, nota de rodapé, 45, 46; veja o Glossário, “Lepra; Leproso”.
+- *se curvou diante dele*: Ou: “lhe prestou homenagem; o honrou”. De acordo com as Escrituras Hebraicas, era comum as pessoas se curvarem quando encontravam profetas, reis ou outros representantes de Deus. (1Sa 25:23, 24; 2Sa 14:4-7; 1Rs 1:16; 2Rs 4:36, 37) Pelo visto, o leproso reconheceu que estava falando com um representante de Deus que tinha o poder de curar pessoas. Era correto que uma pessoa se curvasse para mostrar respeito ao futuro Rei escolhido por Deus. — Mt 9:18; para mais informações sobre a palavra grega usada aqui, veja a nota de estudo em Mt 2:2.
+====
+
+[[v40-8-3]]
+
+^<<v40-8-3,3>>^ Assim, ele estendeu a mão e tocou no homem, dizendo: “Eu quero! Seja purificado.” Ele foi imediatamente purificado da lepra.
+
+[TIP]
+====
+- *tocou no homem*: Para que os leprosos não contaminassem outras pessoas, a Lei mosaica mandava que eles ficassem em isolamento. (Le 13:45, 46; Núm 5:1-4) Mas líderes religiosos judaicos criaram outras regras. Por exemplo, ninguém podia ficar a menos de 4 côvados (1,8 metro) de distância de um leproso. E, se estivesse ventando, a distância mínima aumentava para 100 côvados (45 metros). Por causa dessas regras, os leprosos eram muito maltratados. Uma obra judaica fala em tom positivo de um rabino que se escondia de leprosos e de outro que jogava pedras nos leprosos para que eles não chegassem perto. Mas Jesus era totalmente diferente. Ele se sentiu tão comovido com o pedido do leproso que fez algo que, para os outros, era absurdo: ele tocou no leproso. E Jesus fez isso mesmo tendo o poder de curar o homem sem tocar nele. — Mt 8:5-13.
+- *Eu quero*: Jesus não apenas ouviu o pedido do leproso; ele deixou claro que queria atender àquele pedido. Jesus mostrou assim que não estava fazendo aquele milagre por um senso de dever.
+====
+
+[[v40-8-4]]
+
+^<<v40-8-4,4>>^ Jesus lhe disse então: “Tenha o cuidado de não contar nada a ninguém, mas vá, mostre-se ao sacerdote e ofereça a dádiva que Moisés determinou, em testemunho para eles.”
+
+[TIP]
+====
+- *não contar nada a ninguém*: Veja a nota de estudo em Mr 1:​44.
+- *mostre-se ao sacerdote*: De acordo com a Lei mosaica, quando um leproso achava que estava curado, um sacerdote precisava examiná-lo para confirmar isso. O leproso tinha que ir até o templo e levar como dádiva, ou oferta, “duas aves puras, vivas, madeira de cedro, tecido escarlate e hissopo”. — Le 14:2-​32.
+====
+
+[[v40-8-5]]
+
+^<<v40-8-5,5>>^ Quando entrou em Cafarnaum, um oficial do exército se aproximou dele, suplicando
+
+[TIP]
+====
+- *Cafarnaum*: Veja a nota de estudo em Mt 4:13.
+- *oficial do exército*: Ou: “centurião”, um oficial que comandava cerca de cem soldados do exército romano.
+====
+
+[[v40-8-6]]
+
+^<<v40-8-6,6>>^ e dizendo-lhe: “Senhor, meu servo está de cama em casa, com paralisia, e está sofrendo terrivelmente.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “passando por uma aflição terrível”.
+====
+
+[TIP]
+====
+- *meu servo*: A palavra grega que foi traduzida aqui como “servo” significa literalmente “criança” ou “jovem”. Essa palavra podia ser usada para se referir a um escravo (talvez um criado particular) que era querido pelo seu senhor.
+====
+
+[[v40-8-7]]
+
+^<<v40-8-7,7>>^ Ele lhe disse: “Quando eu chegar lá, vou curá-lo.”
+
+[[v40-8-8]]
+
+^<<v40-8-8,8>>^ O oficial do exército respondeu: “Senhor, não sou digno de recebê-lo debaixo do meu teto, mas apenas diga a palavra e meu servo será curado.
+
+[[v40-8-9]]
+
+^<<v40-8-9,9>>^ Pois eu também sou homem sujeito a autoridade e tenho soldados sob as minhas ordens, e digo a um: ‘Vá!’ e ele vai, e a outro: ‘Venha!’ e ele vem, e ao meu escravo: ‘Faça isto!’ e ele faz.”
+
+[[v40-8-10]]
+
+^<<v40-8-10,10>>^ Quando Jesus ouviu isso, ficou admirado e disse aos que o seguiam: “Eu lhes digo a verdade: Em ninguém em Israel encontrei tamanha fé.
+
+[[v40-8-11]]
+
+^<<v40-8-11,11>>^ Mas eu lhes digo que muitos virão do leste e do oeste e se recostarão à mesa com Abraão, Isaque e Jacó, no Reino dos céus,
+
+[TIP]
+====
+- *muitos virão do leste e do oeste*: Com essas palavras, Jesus indicou que não judeus também fariam parte do Reino.
+- *se recostarão à mesa*: Ou: “jantarão”. Nas grandes refeições e banquetes realizados nos tempos bíblicos, as pessoas muitas vezes deitavam em divãs colocados em volta da mesa. A pessoa ficava com a cabeça voltada para a mesa. Ela podia se apoiar com o cotovelo esquerdo em uma almofada e usar a mão direita para pegar comida. Quando alguém ‘se recostava à mesa’ junto com outra pessoa, isso indicava que ele queria passar tempo na companhia daquela pessoa. Os judeus daquela época dificilmente teriam esse tipo de contato com pessoas de outras nações.
+====
+
+[[v40-8-12]]
+
+^<<v40-8-12,12>>^ ao passo que os filhos do Reino serão lançados na escuridão lá fora. Ali é que haverá o seu choro e o ranger dos seus dentes.”
+
+[TIP]
+====
+- *ranger dos seus dentes*: Ou: “apertar os seus dentes”. Expressão que pode indicar sentimentos de angústia, raiva e desespero, possivelmente acompanhados por palavras ofensivas e violência.
+====
+
+[[v40-8-13]]
+
+^<<v40-8-13,13>>^ Jesus disse então ao oficial do exército: “Vá. Que lhe aconteça segundo a fé que você mostrou.” E o servo foi curado naquela hora.
+
+[[v40-8-14]]
+
+^<<v40-8-14,14>>^ Ao entrar na casa de Pedro, Jesus viu a sogra deste de cama e com febre.
+
+[TIP]
+====
+- *a sogra deste*: Veja a nota de estudo em Lu 4:38.
+- *com febre*: Veja a nota de estudo em Lu 4:38.
+====
+
+[[v40-8-15]]
+
+^<<v40-8-15,15>>^ Então tocou na mão dela e a febre a deixou, e ela se levantou e começou a servi-lo.
+
+[[v40-8-16]]
+
+^<<v40-8-16,16>>^ Depois de anoitecer, levaram-lhe muitas pessoas possessas de demônios; e ele expulsou os espíritos com uma palavra e curou todos os que estavam doentes,
+
+[TIP]
+====
+- *Depois de anoitecer*: Ou seja, depois que o sábado judaico terminou, conforme mostram os relatos paralelos em Mr 1:21-32 e Lu 4:31-40.
+====
+
+[[v40-8-17]]
+
+^<<v40-8-17,17>>^ para que se cumprissem as palavras de Isaías, o profeta: “Ele mesmo levou nossas doenças e carregou nossas enfermidades.”
+
+[TIP]
+====
+- *para que se cumprissem as palavras de Isaías, o profeta*: Veja a nota de estudo em Mt 1:22.
+- *carregou*: Ou: “levou embora; removeu”. Sob inspiração, Mateus escreveu que as curas feitas por Jesus eram um cumprimento de Is 53:4. Essa profecia vai se cumprir em escala muito maior quando Jesus levar embora o pecado completamente, assim como o bode “para Azazel” levava embora para o deserto os pecados de Israel no Dia da Expiação. (Le 16:10, 20-22) Ao levar embora o pecado, Jesus eliminaria a causa das doenças para beneficiar todas as pessoas que tivessem fé no sacrifício dele.
+====
+
+[[v40-8-18]]
+
+^<<v40-8-18,18>>^ Quando Jesus viu uma multidão ao seu redor, deu ordem de passar para a outra margem.
+
+[TIP]
+====
+- *a outra margem*: Ou seja, a margem leste do mar da Galileia.
+====
+
+[[v40-8-19]]
+
+^<<v40-8-19,19>>^ E um escriba se aproximou e lhe disse: “Instrutor, eu o seguirei para onde quer que o senhor vá.”
+
+[[v40-8-20]]
+
+^<<v40-8-20,20>>^ Mas Jesus lhe disse: “As raposas têm tocas e as aves do céu têm ninhos, mas o Filho do Homem não tem onde deitar a cabeça.”
+
+[TIP]
+====
+- *Filho do Homem*: Ou: “Filho de um Humano”. Essa expressão aparece umas 80 vezes nos Evangelhos, e Jesus a usava para se referir a ele mesmo. Pelo visto, ele queria destacar que era realmente um humano, nascido de uma mulher, e que era um equivalente perfeito de Adão. Assim, ele poderia dar a sua vida para livrar a humanidade do pecado e da morte. (Ro 5:12, 14, 15) A expressão também mostrava que Jesus era o Messias, ou o Cristo. — Da 7:13, 14; veja o Glossário.
+- *não tem onde deitar a cabeça*: Ou seja, não tinha uma casa própria.
+====
+
+[[v40-8-21]]
+
+^<<v40-8-21,21>>^ Então, outro discípulo lhe disse: “Senhor, permita-me primeiro ir enterrar meu pai.”
+
+[TIP]
+====
+- *enterrar meu pai*: Veja a nota de estudo em Lu 9:59.
+====
+
+[[v40-8-22]]
+
+^<<v40-8-22,22>>^ Jesus lhe disse: “Continue a me seguir e deixe que os mortos enterrem seus mortos.”
+
+[TIP]
+====
+- *deixe que os mortos enterrem seus mortos*: Veja a nota de estudo em Lu 9:60.
+====
+
+[[v40-8-23]]
+
+^<<v40-8-23,23>>^ Ele entrou num barco, e seus discípulos o seguiram.
+
+[[v40-8-24]]
+
+^<<v40-8-24,24>>^ Levantou-se então uma grande tempestade no mar, de modo que o barco estava sendo coberto pelas ondas; mas ele estava dormindo.
+
+[TIP]
+====
+- *grande tempestade*: Grandes tempestades são comuns no mar da Galileia. A superfície desse lago (veja a nota de estudo em Mt 4:18) fica uns 210 metros abaixo do nível do mar. O ar sobre ele é mais quente do que o ar das planícies e montes que ficam em volta. Essa diferença de temperatura causa perturbações atmosféricas e ventos fortes que, de uma hora para outra, podem começar a levantar grandes ondas.
+====
+
+[[v40-8-25]]
+
+^<<v40-8-25,25>>^ E eles foram acordá-lo, dizendo: “Senhor, salve-nos, pois estamos prestes a morrer!”
+
+[[v40-8-26]]
+
+^<<v40-8-26,26>>^ No entanto, ele lhes disse: “Por que vocês estão com tanto medo,^&#42;1^ homens de pouca fé?” Então ele se levantou e censurou os ventos e o mar, e houve uma grande calmaria.
+
+[NOTE]
+====
+. Ou: “são tão inseguros”.
+====
+
+[TIP]
+====
+- *homens de pouca fé*: Jesus não quis dizer que os discípulos não tinham nenhuma fé, mas que precisavam ter mais fé. — Mt 14:31; 16:8; Lu 12:28; veja a nota de estudo em Mt 6:30.
+====
+
+[[v40-8-27]]
+
+^<<v40-8-27,27>>^ De modo que os homens ficaram espantados e disseram: “Que homem é este? Até mesmo os ventos e o mar lhe obedecem.”
+
+[[v40-8-28]]
+
+^<<v40-8-28,28>>^ Quando chegou à outra margem, à região dos gadarenos, dois homens possessos de demônios, saindo dentre os^&#42;1^ túmulos, foram ao encontro dele. Eles eram extremamente ferozes, de modo que ninguém tinha coragem de passar por aquela estrada.
+
+[NOTE]
+====
+. Ou: “saindo dos”.
+====
+
+[TIP]
+====
+- *região dos gadarenos*: Uma região na outra margem (a margem leste) do mar da Galileia. Muitas moedas da cidade de Gadara têm a imagem de um barco. Isso sugere que a região talvez se estendesse de Gadara até o mar da Galileia, que ficava a uns 10 quilômetros dali. Marcos e Lucas dizem que o local onde Jesus desembarcou ficava na “região dos gerasenos”. (Veja a nota de estudo em Mr 5:1.) É possível que o local fosse considerado parte tanto da “região dos gadarenos” como da “região dos gerasenos”. — Veja “Acontecimentos no mar da Galileia” no Mapa 3B do Apêndice A7-D e o Apêndice B10.
+- *dois*: Os relatos de Marcos (5:2) e de Lucas (8:27) mencionam apenas um homem possesso de demônio. — Veja a nota de estudo em Mr 5:2.
+- *túmulos*: Ou: “túmulos memoriais”. (Veja o Glossário.) Pelo visto, esses túmulos eram cavernas naturais ou câmaras escavadas em rochas e geralmente ficavam fora das cidades. Os judeus evitavam esse tipo de lugar para que não ficassem impuros de acordo com a Lei. Por isso, pessoas loucas ou possessas de demônios gostavam desses lugares isolados.
+====
+
+[[v40-8-29]]
+
+^<<v40-8-29,29>>^ E começaram a gritar: “O que você quer conosco, Filho de Deus? Veio aqui nos atormentar antes do tempo determinado?”
+
+[TIP]
+====
+- *O que você quer conosco, . . . ?*: Ou: “O que nós temos a ver com você?” Lit.: “O que para nós e para você?” Essa pergunta retórica é uma expressão idiomática semítica que também é usada nas Escrituras Hebraicas. (Jos 22:24; Jz 11:12; 2Sa 16:10; 19:22; 1Rs 17:18; 2Rs 3:13; 2Cr 35:21; Os 14:8) Nas Escrituras Gregas Cristãs, essa expressão semítica foi traduzida literalmente para o grego. (Mt 8:29; Mr 1:24; 5:7; Lu 4:34; 8:28; Jo 2:4) O significado dela depende do contexto. Neste versículo, ela é usada para expressar agressividade e rejeição, e alguns tradutores sugerem traduções como: “Nos deixe em paz!” ou “Vá embora!” Em outros contextos, a expressão indica apenas que a pessoa não concorda com algo ou que não quer se envolver em uma determinada ação, sem nenhum tom de desprezo, arrogância ou agressividade. — Veja a nota de estudo em Jo 2:4.
+- *atormentar*: A palavra grega usada aqui está relacionada com a palavra que foi traduzida em Mt 18:34 como “carcereiros”. Assim, parece que, quando os demônios perguntaram se Jesus tinha ido lá para ‘atormentá-los’, eles estavam perguntando se Jesus ia prendê-los no “abismo” mencionado no relato paralelo de Lu 8:31.
+====
+
+[[v40-8-30]]
+
+^<<v40-8-30,30>>^ Bem longe dali havia uma grande manada de porcos pastando.
+
+[TIP]
+====
+- *porcos*: Os judeus não criavam porcos; esses animais eram impuros de acordo com a Lei. A Bíblia não diz se “os que cuidavam dos porcos” (Mt 8:33) eram judeus que estavam desobedecendo a Lei ou se eram pessoas de outras nações. O que se sabe é que a carne de porco era comercializada na região de Decápolis, porque muitos gregos e romanos moravam ali, e eles consideravam a carne de porco uma iguaria.
+====
+
+[[v40-8-31]]
+
+^<<v40-8-31,31>>^ Assim, os demônios começaram a suplicar, dizendo-lhe: “Se você nos expulsar, mande-nos para a manada de porcos.”
+
+[[v40-8-32]]
+
+^<<v40-8-32,32>>^ E ele lhes disse: “Vão!” Eles saíram então e entraram nos porcos, e toda a manada se jogou despenhadeiro^&#42;1^ abaixo, para dentro do mar, e morreu nas águas.
+
+[NOTE]
+====
+. Ou: “encosta íngreme”.
+====
+
+[[v40-8-33]]
+
+^<<v40-8-33,33>>^ Os que cuidavam dos porcos fugiram, entraram na cidade e contaram tudo, inclusive o que tinha acontecido com os homens possessos de demônios.
+
+[[v40-8-34]]
+
+^<<v40-8-34,34>>^ Então toda a cidade saiu e foi ao encontro de Jesus e, ao vê-lo, suplicaram-lhe que fosse embora daquela região.
+
+'''
+
+xref:040-mateus/040-mateus-007.adoc#v40-7-0[&#60; Capítulo Anterior] | <<v40-8-0,Topo>> | xref:040-mateus/040-mateus-009.adoc#v40-9-0[Próximo Capítulo &#62;]

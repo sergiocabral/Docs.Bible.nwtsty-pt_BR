@@ -1,0 +1,271 @@
+include::./index.adoc[]
+
+[[v44-17-0]]
+=== Atos dos Apóstolos, 17
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Segunda viagem missionária de Paulo (15:36–18:22)
+* Paulo e Barnabé se separam (15:36-41)
+* Paulo escolhe Timóteo como companheiro de viagem (16:1-5)
+* Visão sobre o homem macedônio; a pregação chega à Europa (16:6-10)
+* Em Filipos, Lídia se converte (16:11-15)
+* Paulo e Silas são presos em Filipos (16:16-24)
+* O carcereiro e os da sua casa são batizados (16:25-34)
+* Paulo exige uma retratação oficial (16:35-40)
+* Paulo e Silas em Tessalônica (17:1-9)
+* Paulo e Silas em Bereia (17:10-15)
+* Paulo em Atenas (17:16-22a)
+* Discurso de Paulo no Areópago (17:22b-31)
+* Diferentes reações ao discurso de Paulo; alguns se tornam crentes (17:32-34)
+* Ministério de Paulo em Corinto (18:1-17)
+* Paulo volta a Antioquia da Síria passando por Éfeso (18:18-22)
+****
+
+[[v44-17-1]]
+
+^<<v44-17-1,1>>^ Então viajaram, passando por Anfípolis e Apolônia, e chegaram a Tessalônica, onde havia uma sinagoga dos judeus.
+
+[[v44-17-2]]
+
+^<<v44-17-2,2>>^ Paulo, segundo o seu costume, entrou e foi falar com eles, e por três sábados raciocinou com eles usando as Escrituras:
+
+[TIP]
+====
+- *raciocinou*: Paulo não só transmitiu a eles as boas novas, mas também explicou e deu provas usando as Escrituras, ou seja, as Escrituras Hebraicas. Ele fez mais do que ler as Escrituras; ele raciocinou com base nelas e adaptou seu raciocínio ao público que estava escutando. O verbo grego dialégomai pode ser definido como “dialogar; conversar; discutir” e passa a ideia de que há interação entre as pessoas envolvidas. Essa palavra também é usada em At 17:17; 18:4, 19; 19:8, 9 e 20:7, 9.
+====
+
+[[v44-17-3]]
+
+^<<v44-17-3,3>>^ explicava e provava, com base no que estava escrito, que era necessário que o Cristo sofresse e fosse levantado dentre os mortos. Ele dizia: “Este é o Cristo, este Jesus, que eu lhes estou proclamando.”
+
+[TIP]
+====
+- *provava, com base no que estava escrito*: O sentido literal da palavra grega usada aqui é “colocar junto (ao lado)”. Isso pode indicar que Paulo provava que Jesus era o Messias por comparar cuidadosamente as profecias messiânicas com os acontecimentos da vida de Jesus.
+====
+
+[[v44-17-4]]
+
+^<<v44-17-4,4>>^ Em resultado disso, alguns deles se tornaram crentes e se juntaram a Paulo e Silas, e uma grande multidão de gregos que adoravam a Deus fez o mesmo, bem como um bom número de mulheres de destaque.
+
+[[v44-17-5]]
+
+^<<v44-17-5,5>>^ Mas os judeus ficaram com ciúme; reuniram então alguns homens maus que vadiavam na praça, formaram uma turba e provocaram um tumulto na cidade. Invadiram a casa de Jasão, à procura de Paulo e Silas, para trazê-los para fora, à turba.
+
+[[v44-17-6]]
+
+^<<v44-17-6,6>>^ Como não os acharam, arrastaram Jasão e alguns irmãos até as autoridades da cidade, gritando: “Aqueles homens que têm causado alvoroço na^&#42;1^ terra habitada também estão aqui,
+
+[NOTE]
+====
+. Ou: “têm subvertido toda a”.
+====
+
+[TIP]
+====
+- *as autoridades da cidade*: Lit.: “os politarcas”, que significa “governantes dos cidadãos”. A palavra grega usada aqui, politárkhes, não aparece na literatura grega clássica. Mas ela aparece em inscrições descobertas na região de Tessalônica e em outras partes da província da Macedônia. Algumas dessas inscrições datam do século 1 a.C. Essas descobertas confirmam que Lucas foi um historiador confiável e que o relato de Atos é exato.
+====
+
+[[v44-17-7]]
+
+^<<v44-17-7,7>>^ e Jasão os recebeu como hóspedes. Todos esses homens agem contra os decretos de César, dizendo que há outro rei, Jesus.”
+
+[TIP]
+====
+- *de César*: Ou: “do Imperador”. O imperador romano naquela época era Cláudio, que governou de 41 a 54 d.C. — At 11:28; 18:2; veja a nota de estudo em Mt 22:17 e o Glossário.
+====
+
+[[v44-17-8]]
+
+^<<v44-17-8,8>>^ Ao ouvirem essas coisas, a multidão e as autoridades da cidade ficaram agitadas.
+
+[[v44-17-9]]
+
+^<<v44-17-9,9>>^ Então, depois de receberem de Jasão e dos outros a fiança estipulada, eles os deixaram ir.
+
+[[v44-17-10]]
+
+^<<v44-17-10,10>>^ Assim que anoiteceu, os irmãos enviaram Paulo e Silas para Bereia. Quando chegaram lá, entraram na sinagoga dos judeus.
+
+[[v44-17-11]]
+
+^<<v44-17-11,11>>^ Estes tinham mentalidade mais nobre do que os de Tessalônica, pois aceitaram a palavra com vivo interesse, e examinavam cuidadosamente as Escrituras, todo dia, para ver se tudo era assim mesmo.
+
+[TIP]
+====
+- *examinavam cuidadosamente*: Ou: “estudavam cabalmente”. A palavra grega que aparece aqui, anakríno, pode ser definida como “peneirar; dividir; separar”. Ela às vezes é usada para se referir ao que acontece em uma audiência judicial. (Lu 23:14; At 4:9; 28:18; 1Co 4:3) Assim, aqui neste contexto, ela passa a ideia de fazer uma pesquisa cuidadosa e detalhada, como em um processo judicial. Isso deixa claro que a pesquisa que os judeus em Bereia fizeram não foi um exame superficial. Eles fizeram uma investigação cuidadosa para confirmar se as Escrituras apoiavam o que Paulo e Silas estavam ensinando sobre Jesus ser o prometido Messias.
+====
+
+[[v44-17-12]]
+
+^<<v44-17-12,12>>^ Portanto, muitos deles se tornaram crentes, bem como um bom número dentre as mulheres gregas de alta posição e também alguns homens.
+
+[[v44-17-13]]
+
+^<<v44-17-13,13>>^ Mas, quando os judeus de Tessalônica souberam que Paulo estava proclamando a palavra de Deus também em Bereia, foram para lá a fim de provocar e agitar as multidões.
+
+[[v44-17-14]]
+
+^<<v44-17-14,14>>^ Então, os irmãos mandaram Paulo imediatamente embora, para o mar; mas Silas e Timóteo ficaram ali.
+
+[[v44-17-15]]
+
+^<<v44-17-15,15>>^ Os que acompanhavam Paulo, no entanto, levaram-no até Atenas e depois partiram, incumbidos de transmitir instruções para que Silas e Timóteo fossem ao encontro de Paulo o mais rápido possível.
+
+[[v44-17-16]]
+
+^<<v44-17-16,16>>^ Enquanto esperava por eles em Atenas, Paulo ficou profundamente irritado^&#42;1^ ao ver que a cidade estava cheia de ídolos.
+
+[NOTE]
+====
+. Ou: “seu espírito ficou indignado dentro dele”.
+====
+
+[[v44-17-17]]
+
+^<<v44-17-17,17>>^ Assim, começou a raciocinar na sinagoga com os judeus e com as outras pessoas que adoravam a Deus, bem como na praça principal, todo dia, com os que estivessem ali.
+
+[TIP]
+====
+- *na praça principal*: Ou: “no mercado”. Localizada ao noroeste da Acrópole, a praça principal (em grego, agorá) de Atenas tinha aproximadamente 250 metros de comprimento por 200 metros de largura. Ela não era apenas um lugar para comprar e vender. Era também o centro econômico, político e cultural da cidade. Os atenienses gostavam de se reunir nesse local para participar em debates intelectuais.
+====
+
+[[v44-17-18]]
+
+^<<v44-17-18,18>>^ Mas alguns filósofos, tanto epicureus como estoicos, começaram a discutir com ele; uns diziam: “O que é que este tagarela está querendo dizer?” Outros: “Ele parece ser pregador de divindades estrangeiras.” Diziam isso porque ele declarava as boas novas sobre Jesus e a ressurreição.
+
+[TIP]
+====
+- *filósofos . . . epicureus*: Os epicureus eram seguidores do filósofo grego Epicuro (341-270 a.C.). Sua filosofia se baseava na ideia de que o prazer era o principal objetivo da vida. Os epicureus acreditavam na existência de deuses, mas achavam que eles não estavam interessados nos humanos. Por isso, acreditavam que os deuses não recompensavam nem puniam os homens e que era inútil fazer orações e sacrifícios. As ações e o modo de pensar dos epicureus não eram motivados por princípios morais. Eles incentivavam a moderação, mas apenas para evitar as más consequências dos excessos. Eles também acreditavam que a busca por conhecimento servia somente para livrar a pessoa de medos e superstições religiosas. Nem os epicureus nem os estoicos acreditavam na ressurreição. — Veja a nota de estudo em filósofos . . . estoicos neste versículo.
+- *filósofos . . . estoicos*: Este grupo de filósofos gregos acreditava que a chave para a felicidade era viver de modo racional e em harmonia com a natureza. Segundo eles, um homem realmente sábio era indiferente à dor ou ao prazer. Os estoicos acreditavam que todas as coisas faziam parte de um deus impessoal que era a fonte da alma humana. Alguns estoicos acreditavam que a alma um dia seria destruída junto com o Universo. Outros acreditavam que a alma seria por fim reabsorvida por esse deus. Nem os estoicos nem os epicureus acreditavam na ressurreição. — Veja a nota de estudo em filósofos . . . epicureus neste versículo.
+- *tagarela*: Lit.: “apanhador de sementes”. A palavra grega que aparece aqui, spermológos, era usada para se referir a pássaros que apanhavam sementes. Em sentido figurado, ela era usada para se referir de forma negativa a uma pessoa que roubava ou mendigava para conseguir restos de alimentos e outras coisas. A palavra também passou a ser usada para se referir a alguém simplório e sem formação, que apenas repetia partes de informações que tinha ouvido de outros; um desocupado que falava coisas sem sentido. Em outras palavras, aqueles homens instruídos estavam dizendo que Paulo era um homem ignorante que falava sobre coisas que não entendia.
+====
+
+[[v44-17-19]]
+
+^<<v44-17-19,19>>^ Assim, eles o pegaram e o levaram ao Areópago, dizendo: “Podemos saber qual é este novo ensinamento de que você fala?
+
+[TIP]
+====
+- *ao Areópago*: Ou: “à colina de Ares”. Ares era o deus grego da guerra. O Areópago ficava ao noroeste da Acrópole e era o local onde o supremo tribunal de Atenas costumava se reunir. A palavra “Areópago” pode se referir à colina em si ou ao tribunal. (At 17:34) Assim, alguns estudiosos acreditam que Paulo foi levado até a colina ou perto dali para ser interrogado, enquanto outros acham que Paulo foi levado ao tribunal, que talvez estivesse reunido em outro lugar, como na agorá, a praça principal. Já que Ares correspondia ao deus romano Marte, algumas traduções da Bíblia se referem ao Areópago como “colina de Marte”.
+====
+
+[[v44-17-20]]
+
+^<<v44-17-20,20>>^ Porque você está apresentando algumas coisas que soam estranhas para nós, e queremos saber o que elas significam.”
+
+[[v44-17-21]]
+
+^<<v44-17-21,21>>^ De fato, todos os atenienses e também os estrangeiros que estavam morando ali não usavam seu tempo livre com outra coisa a não ser contar ou escutar novidades.
+
+[TIP]
+====
+- *morando*: Ou: “de visita”. A palavra grega que aparece aqui, epideméo, pode ser definida como “ficar em um lugar como estrangeiro ou visitante”.
+====
+
+[[v44-17-22]]
+
+^<<v44-17-22,22>>^ Então, Paulo ficou em pé no meio do Areópago e disse:
+“Homens de Atenas, eu vejo que em todas as coisas vocês parecem ter mais temor às divindades^&#42;1^ do que outros.
+
+[NOTE]
+====
+. Ou: “parecem ser mais religiosos”.
+====
+
+[[v44-17-23]]
+
+^<<v44-17-23,23>>^ Por exemplo, ao passar e observar cuidadosamente os seus objetos de adoração,^&#42;1^ encontrei até um altar com a inscrição: ‘A um Deus Desconhecido’. Pois bem, aquele que vocês adoram sem conhecer, esse é o que eu lhes estou proclamando.
+
+[NOTE]
+====
+. Ou: “veneração”.
+====
+
+[TIP]
+====
+- *A um Deus Desconhecido*: A expressão grega usada aqui, Agnóstoi theoí, fazia parte de uma inscrição num altar em Atenas. Os atenienses mostravam seu temor às divindades construindo muitos templos e altares. Eles até mesmo faziam altares para coisas abstratas, como a Fama, a Modéstia, a Energia, a Persuasão e a Piedade. Talvez com medo de esquecer algum deus e cair no seu desfavor, eles tinham dedicado um altar “a um Deus Desconhecido”. Com esse altar, os atenienses estavam reconhecendo que poderia existir um Deus de quem eles não sabiam nada. Paulo era um pregador habilidoso e aproveitou a existência desse altar para falar com eles sobre o Deus verdadeiro, que eles até então não conheciam.
+====
+
+[[v44-17-24]]
+
+^<<v44-17-24,24>>^ O Deus que fez o mundo e tudo que nele há, Ele, sendo Senhor do céu e da terra, não mora em templos feitos por mãos humanas,
+
+[TIP]
+====
+- *o mundo*: Na literatura grega e especialmente na Bíblia, a palavra grega traduzida aqui como “mundo” (kósmos) está muito ligada com a ideia de “humanidade”. (Veja a nota de estudo em Jo 1:10.) Mas, na literatura grega, ela também é usada para se referir ao Universo ou à criação em geral. É possível que Paulo tenha usado a palavra nesse sentido, já que ele estava tentando estabelecer pontos em comum com seus ouvintes gregos.
+- *feitos por mãos humanas*: A palavra grega usada aqui, kheiropoíetos, também aparece em At 7:48 (“feitas por mãos humanas”) e em He 9:11, 24 (“feita[o] por mãos humanas”). A glória da deusa Atena e de outras divindades dependia de templos, santuários e altares. Mas nenhum templo feito por mãos humanas pode conter o Soberano Senhor do céu e da Terra. (1Rs 8:27) O Deus verdadeiro é superior a qualquer ídolo encontrado em templos feitos pelo homem. (Is 40:18-26) Paulo pode ter dito essas palavras porque tinha visto vários templos e santuários dedicados a divindades.
+====
+
+[[v44-17-25]]
+
+^<<v44-17-25,25>>^ nem precisa ser servido por mãos humanas, como se lhe faltasse algo, porque ele mesmo dá a todos vida, fôlego e todas as coisas.
+
+[[v44-17-26]]
+
+^<<v44-17-26,26>>^ E ele fez de um só homem todas as nações dos homens, para morarem na face de toda a terra, e fixou os tempos determinados e estabeleceu os limites da habitação dos homens,
+
+[[v44-17-27]]
+
+^<<v44-17-27,27>>^ de modo que eles buscassem a Deus, que tateassem à procura dele e realmente o achassem, embora, na verdade, ele não esteja longe de cada um de nós.
+
+[[v44-17-28]]
+
+^<<v44-17-28,28>>^ Pois por meio dele^&#42;1^ temos vida, nos movemos e existimos, como disseram alguns dos poetas de vocês: ‘Pois nós também somos filhos^&#42;2^ dele.’
+
+[NOTE]
+====
+. Ou: “por causa dele”. Lit.: “nele”.
+. Ou: “descendência”.
+====
+
+[TIP]
+====
+- *temos vida, nos movemos e existimos*: Alguns estudiosos sugerem que, ao dizer estas palavras, Paulo usou um recurso de linguagem do idioma grego chamado de tricólon, em que três palavras são usadas em paralelo para transmitir uma ideia. Os filósofos Platão, Sófocles e Aristóteles usaram esse recurso. Outros eruditos dizem que Paulo estava fazendo uma referência às palavras de Epimênides, um poeta da ilha de Creta que viveu no século 6 a.C.
+- *alguns dos poetas de vocês*: Pelo visto, as palavras de Paulo “pois nós também somos filhos dele” são uma citação de um trecho do poema Fenômenos, escrito pelo poeta estoico Arato. Outras obras da literatura grega também usam palavras parecidas, incluindo o Hino a Zeus, do escritor estoico Cleanto. Pode ser que Paulo tenha citado poetas gregos porque os gregos esperavam que oradores instruídos citassem escritos clássicos como parte de seus argumentos.
+====
+
+[[v44-17-29]]
+
+^<<v44-17-29,29>>^ “Portanto, visto que somos filhos^&#42;1^ de Deus, não devemos pensar que o Ser Divino é semelhante a ouro, prata ou pedra, como algo esculpido pela arte e imaginação do homem.
+
+[NOTE]
+====
+. Ou: “descendência”.
+====
+
+[[v44-17-30]]
+
+^<<v44-17-30,30>>^ É verdade que Deus não levou em conta os tempos de tal ignorância; mas agora ele está dizendo a todos, em toda a parte, que se arrependam.
+
+[[v44-17-31]]
+
+^<<v44-17-31,31>>^ Porque ele determinou um dia em que vai julgar a terra habitada com justiça, por meio de um homem a quem designou. E ele deu garantia disso a todos os homens por ressuscitá-lo dentre os mortos.”
+
+[TIP]
+====
+- *a terra habitada*: A palavra grega para “terra habitada” (oikouméne) tem um sentido amplo e se refere à Terra como o lar da humanidade. (Lu 4:5; Ro 10:18; Ap 12:9; 16:14) Aqui, o foco da palavra está mais nos humanos que vivem na Terra do que no planeta em si. No século 1 d.C., essa palavra também era usada para se referir ao enorme território do Império Romano, por onde os judeus haviam sido espalhados. — At 24:5.
+- *garantia*: Ou: “prova”. Lit.: “fé”. Aqui, a palavra grega pístis, que na maioria das vezes é traduzida como “fé”, pelo visto passa a ideia de uma prova de que algo prometido vai acontecer com certeza.
+====
+
+[[v44-17-32]]
+
+^<<v44-17-32,32>>^ Quando ouviram falar em ressurreição dos mortos, alguns começaram a zombar, enquanto outros diziam: “Nós o ouviremos falar novamente sobre isso.”
+
+[[v44-17-33]]
+
+^<<v44-17-33,33>>^ Assim, Paulo se retirou,
+
+[[v44-17-34]]
+
+^<<v44-17-34,34>>^ mas alguns se juntaram a ele e se tornaram crentes. Entre eles estava Dionísio, que era juiz do tribunal do Areópago, uma mulher chamada Dâmaris, além de outros.
+
+[TIP]
+====
+- *que era juiz do tribunal do Areópago*: Ou: “um areopagita”. Ou seja, um membro do tribunal do Areópago. — Veja a nota de estudo em At 17:19.
+====
+
+'''
+
+xref:044-atos/044-atos-016.adoc#v44-16-0[&#60; Capítulo Anterior] | <<v44-17-0,Topo>> | xref:044-atos/044-atos-018.adoc#v44-18-0[Próximo Capítulo &#62;]

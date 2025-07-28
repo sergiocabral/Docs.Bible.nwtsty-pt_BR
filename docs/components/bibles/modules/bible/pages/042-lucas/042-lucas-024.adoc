@@ -1,0 +1,410 @@
+include::./index.adoc[]
+
+[[v42-24-0]]
+=== As Boas Novas Segundo Lucas, 24
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* L. Jesus é executado, sepultado, ressuscitado e levado para o céu (23:26–24:53)
+* Jesus fala às filhas de Jerusalém (23:26-31)
+* Jesus e dois criminosos são pendurados em estacas (23:32-42)
+* Jesus promete: “Você estará comigo no Paraíso” (23:43)
+* Jesus morre (23:44-49)
+* Jesus é sepultado (23:50-56)
+* Mulheres e Pedro encontram o túmulo vazio (24:1-12)
+* Na estrada para Emaús (24:13-35)
+* Jesus aparece aos discípulos (24:36-49)
+* Jesus é levado para o céu (24:50-53)
+****
+
+[[v42-24-1]]
+
+^<<v42-24-1,1>>^ No primeiro dia da semana, porém, elas chegaram bem cedo ao túmulo, levando os aromas que tinham preparado.
+
+[TIP]
+====
+- *No primeiro dia da semana*: Veja a nota de estudo em Mt 28:1.
+- *túmulo*: Veja a nota de estudo em Mt 27:60.
+- *os aromas que tinham preparado*: Veja a nota de estudo em Mr 16:1.
+====
+
+[[v42-24-2]]
+
+^<<v42-24-2,2>>^ Mas viram que a pedra da entrada do túmulo havia sido rolada
+
+[TIP]
+====
+- *a pedra*: Veja a nota de estudo em Mr 15:46.
+====
+
+[[v42-24-3]]
+
+^<<v42-24-3,3>>^ e, quando entraram, não acharam o corpo do Senhor Jesus.
+
+[TIP]
+====
+- *do Senhor Jesus*: Alguns manuscritos não incluem estas palavras, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. — Para mais informações sobre como os manuscritos foram usados para definir o texto-padrão grego, veja o Apêndice A3.
+====
+
+[[v42-24-4]]
+
+^<<v42-24-4,4>>^ Enquanto estavam perplexas com isso, dois homens de roupa brilhante apareceram ao lado delas.
+
+[TIP]
+====
+- *dois homens de roupa brilhante*: Esses homens eram, na verdade, anjos. (Compare com Lu 24:23.) O texto em At 1:10 usa uma expressão parecida, “homens com roupas brancas”, para se referir a anjos.
+====
+
+[[v42-24-5]]
+
+^<<v42-24-5,5>>^ As mulheres ficaram com medo e mantiveram a cabeça voltada para o chão; então os homens lhes disseram: “Por que estão procurando entre os mortos aquele que está vivo?
+
+[[v42-24-6]]
+
+^<<v42-24-6,6>>^ Ele não está aqui, mas foi levantado. Lembrem-se de que, enquanto ainda estava na Galileia, ele lhes disse
+
+[TIP]
+====
+- *Ele não está aqui, mas foi levantado*: Alguns manuscritos não incluem estas palavras, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. — Veja o Apêndice A3.
+====
+
+[[v42-24-7]]
+
+^<<v42-24-7,7>>^ que o Filho do Homem tinha de ser entregue a pecadores, ser morto na estaca e no terceiro dia ser levantado.”
+
+[TIP]
+====
+- *morto na estaca*: Ou: “preso numa estaca (num poste)”. — Veja a nota de estudo em Mt 20:19 e o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.
+====
+
+[[v42-24-8]]
+
+^<<v42-24-8,8>>^ E elas se lembraram das palavras dele;
+
+[[v42-24-9]]
+
+^<<v42-24-9,9>>^ então voltaram do túmulo^&#42;1^ e contaram todas essas coisas aos Onze e a todos os demais.
+
+[NOTE]
+====
+. Ou: “túmulo memorial”.
+====
+
+[TIP]
+====
+- *do túmulo*: Alguns manuscritos não incluem estas palavras, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. 
+- *contaram todas essas coisas aos Onze*: Os dois anjos, chamados em Lu 24:4 de “homens de roupa brilhante”, podiam ter contado primeiro para outros discípulos que Jesus tinha sido ressuscitado, mas eles deram essa notícia para mulheres. (Lu 24:6-9; Jo 20:11-18) E elas receberam a honra de dar a notícia “aos Onze e a todos os demais” discípulos. Uma das primeiras pessoas a ver Jesus depois de ele ter sido ressuscitado foi Maria Madalena. — Jo 20:16; veja a nota de estudo em Mt 28:7.
+====
+
+[[v42-24-10]]
+
+^<<v42-24-10,10>>^ Eram Maria Madalena, Joana e Maria, mãe de Tiago. Também as outras mulheres com elas contaram essas coisas aos apóstolos.
+
+[TIP]
+====
+- *Maria Madalena*: Veja a nota de estudo em Lu 8:2.
+- *Joana*: Forma feminina mais curta do nome hebraico Jeoanã, que significa “Jeová mostrou favor; Jeová foi bondoso”. Joana, que tinha sido curada por Jesus, era esposa de Cuza, um dos oficiais de Herodes Antipas. Ela é mencionada apenas duas vezes nas Escrituras Gregas Cristãs, as duas vezes no Evangelho de Lucas. — Lu 8:2, 3.
+====
+
+[[v42-24-11]]
+
+^<<v42-24-11,11>>^ No entanto, essas declarações pareciam tolice para eles, e eles se recusavam a acreditar nas mulheres.
+
+[[v42-24-12]]
+
+^<<v42-24-12,12>>^ Mas Pedro se levantou e correu para o túmulo;^&#42;1^ e, inclinando-se para a frente, viu somente os panos de linho. Assim, ele foi embora, perguntando-se o que poderia ter ocorrido.
+
+[NOTE]
+====
+. Ou: “túmulo memorial”.
+====
+
+[TIP]
+====
+- *. . . o que poderia ter ocorrido*: Alguns manuscritos não incluem as palavras deste versículo, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. — Veja o Apêndice A3.
+====
+
+[[v42-24-13]]
+
+^<<v42-24-13,13>>^ Mas aconteceu, naquele mesmo dia, que dois deles estavam viajando para uma aldeia chamada Emaús, a cerca de 11 quilômetros de Jerusalém,
+
+[TIP]
+====
+- *cerca de 11 quilômetros*: Lit.: “60 estádios”. Um estádio romano equivalia a 185 metros. — Veja o Apêndice B14-A.
+====
+
+[[v42-24-14]]
+
+^<<v42-24-14,14>>^ e estavam conversando sobre todas as coisas que tinham acontecido.
+
+[[v42-24-15]]
+
+^<<v42-24-15,15>>^ Enquanto conversavam e discutiam essas coisas, o próprio Jesus se aproximou e começou a andar com eles,
+
+[[v42-24-16]]
+
+^<<v42-24-16,16>>^ mas os olhos deles foram impedidos de reconhecê-lo.
+
+[[v42-24-17]]
+
+^<<v42-24-17,17>>^ Ele lhes perguntou: “Sobre o que é que vocês estão conversando^&#42;1^ enquanto caminham?” E eles pararam, com o rosto triste.
+
+[NOTE]
+====
+. Ou: “discutindo”.
+====
+
+[[v42-24-18]]
+
+^<<v42-24-18,18>>^ Em resposta, aquele chamado Cléopas lhe disse: “Será que você é um estrangeiro que vive sozinho em Jerusalém e não sabe^&#42;1^ das coisas que ocorreram lá nestes dias?”
+
+[NOTE]
+====
+. Ou, possivelmente: “Será que você é o único visitante em Jerusalém que não sabe”.
+====
+
+[[v42-24-19]]
+
+^<<v42-24-19,19>>^ Ele lhes perguntou: “Que coisas?” Responderam: “As coisas a respeito de Jesus, o Nazareno, que foi um profeta poderoso em ações e palavras perante Deus e todo o povo;
+
+[[v42-24-20]]
+
+^<<v42-24-20,20>>^ e os nossos principais sacerdotes e os nossos líderes o entregaram para ser condenado à morte e o pregaram na estaca.
+
+[[v42-24-21]]
+
+^<<v42-24-21,21>>^ Mas nós esperávamos que esse homem fosse aquele que ia livrar Israel. E além de tudo isso, este já é o terceiro dia desde que essas coisas ocorreram.
+
+[[v42-24-22]]
+
+^<<v42-24-22,22>>^ Também, algumas mulheres entre nós nos deixaram pasmados, porque foram cedo ao túmulo^&#42;1^
+
+[NOTE]
+====
+. Ou: “túmulo memorial”.
+====
+
+[[v42-24-23]]
+
+^<<v42-24-23,23>>^ e, quando não acharam o corpo dele, voltaram dizendo que haviam tido também uma visão sobrenatural de anjos, que disseram que ele está vivo.
+
+[[v42-24-24]]
+
+^<<v42-24-24,24>>^ Então, alguns dos que estavam conosco foram ao túmulo^&#42;1^ e encontraram tudo exatamente como as mulheres tinham dito, mas não o viram.”
+
+[NOTE]
+====
+. Ou: “túmulo memorial”.
+====
+
+[[v42-24-25]]
+
+^<<v42-24-25,25>>^ Assim, ele lhes disse: “Como vocês são insensatos e demoram a^&#42;1^ crer em todas as coisas faladas pelos profetas!
+
+[NOTE]
+====
+. Ou: “e lentos de coração para”.
+====
+
+[[v42-24-26]]
+
+^<<v42-24-26,26>>^ Não era necessário que o Cristo sofresse essas coisas e entrasse na sua glória?”
+
+[[v42-24-27]]
+
+^<<v42-24-27,27>>^ E, começando por Moisés e por todos os Profetas, interpretou-lhes as coisas a respeito de si mesmo em todas as Escrituras.
+
+[TIP]
+====
+- *interpretou-lhes*: A palavra grega usada aqui, diermeneúo, às vezes tem o sentido de “traduzir de um idioma para outro”. (At 9:36; veja a nota de estudo em 1Co 12:30.) Mas ela também pode passar a ideia de “esclarecer o significado; explicar completamente”. Neste versículo, ela se refere a explicar o significado de profecias.
+====
+
+[[v42-24-28]]
+
+^<<v42-24-28,28>>^ Por fim chegaram perto da aldeia para a qual viajavam, e ele fez como se fosse viajar para mais longe.
+
+[[v42-24-29]]
+
+^<<v42-24-29,29>>^ Mas eles insistiram que ele ficasse, dizendo: “Fique conosco, porque já está anoitecendo e o dia está quase terminando.” Em vista disso, entrou para ficar com eles.
+
+[[v42-24-30]]
+
+^<<v42-24-30,30>>^ E, enquanto estava comendo^&#42;1^ com eles, pegou o pão, deu graças,^&#42;2^ partiu-o e começou a dá-lo a eles.
+
+[NOTE]
+====
+. Ou: “recostado à mesa”.
+. Ou: “o abençoou”.
+====
+
+[[v42-24-31]]
+
+^<<v42-24-31,31>>^ Com isso os olhos deles foram plenamente abertos e eles o reconheceram; mas ele desapareceu de diante deles.
+
+[[v42-24-32]]
+
+^<<v42-24-32,32>>^ E disseram um ao outro: “Não sentíamos arder o coração dentro de nós quando ele nos falava na estrada, ao nos abrir plenamente^&#42;1^ as Escrituras?”
+
+[NOTE]
+====
+. Ou: “explicar claramente”.
+====
+
+[TIP]
+====
+- *arder*: A palavra grega que aparece aqui é usada por Lucas em sentido figurado, e passa a ideia de fortes emoções ou sentimentos, como os de profunda alegria e satisfação. Ela também inclui a ideia de intenso interesse e entusiasmo. Aqui, ela se refere ao que os dois discípulos sentiram enquanto Jesus abria plenamente, ou explicava claramente, as Escrituras Hebraicas para eles.
+- *dentro de nós*: Alguns dos manuscritos mais antigos não incluem estas palavras, mas elas aparecem em outros manuscritos que estão entre os mais antigos e mais confiáveis. — Veja o Apêndice A3.
+- *abrir plenamente as Escrituras*: O verbo grego traduzido aqui como “abrir plenamente” (dianoígo) aparece três vezes neste capítulo. Em Lu 24:31, ele descreve como os “olhos” dos dois discípulos “foram plenamente abertos” para que eles percebessem que estavam falando com Jesus. Aqui neste versículo, ele tem o sentido de “explicar claramente”. E em Lu 24:45 ele se refere ao que Jesus fez ‘abrindo’ a mente dos discípulos para que eles conseguissem entender o significado das Escrituras Hebraicas. — Para outros textos onde a mesma palavra grega foi usada, veja At 7:56, “aberto”; 16:14, “abriu amplamente”; e 17:3, “explicava [lit.: “abria completamente”]”.
+====
+
+[[v42-24-33]]
+
+^<<v42-24-33,33>>^ Eles se levantaram então naquela mesma hora, voltaram a Jerusalém e encontraram os Onze e os que estavam com eles reunidos;
+
+[[v42-24-34]]
+
+^<<v42-24-34,34>>^ estavam dizendo: “De fato, o Senhor foi levantado e apareceu a Simão!”
+
+[[v42-24-35]]
+
+^<<v42-24-35,35>>^ Então contaram o que tinha acontecido na estrada e como eles o reconheceram quando ele partiu o pão.
+
+[[v42-24-36]]
+
+^<<v42-24-36,36>>^ Enquanto ainda falavam dessas coisas, o próprio Jesus apareceu no meio deles e lhes disse: “Que a paz esteja com vocês.”
+
+[TIP]
+====
+- *e lhes disse*: “Que a paz esteja com vocês”: Alguns manuscritos não incluem estas palavras, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis.
+====
+
+[[v42-24-37]]
+
+^<<v42-24-37,37>>^ Mas eles, espantados e com medo, pensaram que estavam vendo um espírito.
+
+[TIP]
+====
+- *um espírito*: Embora a palavra grega usada aqui (pneúma) possa se referir a criaturas espirituais, ela pelo visto foi usada neste versículo para se referir a uma aparição ou visão. Jesus mostrou seus pés e mãos aos discípulos e disse: “Toquem-me e vejam, pois um espírito não tem carne nem ossos assim como vocês veem que eu tenho.” (Lu 24:39) Dessa forma, Jesus mostrou que tinha se materializado para que eles pudessem vê-lo, assim como alguns anjos já tinham se materializado no passado. — Gên 18:1-8; 19:1-3.
+====
+
+[[v42-24-38]]
+
+^<<v42-24-38,38>>^ De modo que ele lhes disse: “Por que estão aflitos e por que surgem dúvidas no seu coração?
+
+[[v42-24-39]]
+
+^<<v42-24-39,39>>^ Vejam minhas mãos e meus pés, que sou eu mesmo. Toquem-me e vejam, pois um espírito não tem carne nem ossos assim como vocês veem que eu tenho.”
+
+[TIP]
+====
+- *minhas mãos e meus pés*: Entre os romanos, era comum pregar as mãos (e provavelmente os pés) dos condenados numa estaca, assim como aconteceu com Jesus. (Sal 22:16; Jo 20:25, 27; Col 2:14) Alguns estudiosos acreditam que um ou mais pregos foram usados para pregar os pés de Jesus diretamente na estaca ou em uma pequena plataforma presa a ela.
+====
+
+[[v42-24-40]]
+
+^<<v42-24-40,40>>^ E, ao dizer isso, mostrou-lhes as mãos e os pés.
+
+[TIP]
+====
+- *. . . e os pés*: Alguns manuscritos não incluem as palavras deste versículo, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. — Veja o Apêndice A3.
+====
+
+[[v42-24-41]]
+
+^<<v42-24-41,41>>^ Mas eles ainda não acreditavam, de tanta alegria e surpresa. Então ele lhes disse: “Vocês têm aqui algo para comer?”
+
+[[v42-24-42]]
+
+^<<v42-24-42,42>>^ Então lhe entregaram um pedaço de peixe assado,
+
+[TIP]
+====
+- *peixe*: Alguns manuscritos acrescentam “e um favo de mel”, mas essas palavras não aparecem em manuscritos mais antigos e confiáveis.
+====
+
+[[v42-24-43]]
+
+^<<v42-24-43,43>>^ e ele o pegou e comeu diante dos olhos deles.
+
+[[v42-24-44]]
+
+^<<v42-24-44,44>>^ Ele lhes disse então: “Estas são as minhas palavras, que lhes falei enquanto ainda estava com vocês, que todas as coisas escritas a meu respeito na Lei de Moisés, nos Profetas e nos Salmos têm de se cumprir.”
+
+[TIP]
+====
+- *na Lei de Moisés, nos Profetas e nos Salmos*: Esta era a forma como os judeus costumavam agrupar os livros das Escrituras Hebraicas. Pelo visto, foi por isso que Jesus escolheu se referir às Escrituras Hebraicas dessa forma. A “Lei de Moisés” (em hebraico, Tohráh) se refere aos livros de Gênesis a Deuteronômio. A expressão “os Profetas” (em hebraico, Neviʼím) se refere aos livros proféticos das Escrituras Hebraicas, incluindo os conhecidos como Profetas Anteriores (os livros bíblicos de Josué a Segundo dos Reis). E a expressão “os Salmos” se refere a todos os outros livros das Escrituras Hebraicas, que eram conhecidos como “os Escritos” (em hebraico, Kethuvím). Esse último grupo de livros podia ser chamado de “os Salmos” porque começava com esse livro. Foi com base no nome hebraico desses três grupos de livros que os judeus passaram a chamar as Escrituras Hebraicas de “Tanakh”, uma combinação das primeiras letras hebraicas dos três grupos (TaNaKh). O fato de Jesus ter se referido a esses três grupos indica que o cânon das Escrituras Hebraicas já estava bem estabelecido quando ele esteve na Terra e que ele concordava com esse cânon.
+====
+
+[[v42-24-45]]
+
+^<<v42-24-45,45>>^ Então ele abriu a mente deles para que compreendessem o significado das Escrituras
+
+[[v42-24-46]]
+
+^<<v42-24-46,46>>^ e lhes disse: “Está escrito que o Cristo sofreria e no terceiro dia seria levantado dentre os mortos,
+
+[[v42-24-47]]
+
+^<<v42-24-47,47>>^ e que, em seu nome, se pregaria arrependimento para o perdão de pecados em todas as nações, começando por Jerusalém.
+
+[[v42-24-48]]
+
+^<<v42-24-48,48>>^ Vocês serão testemunhas dessas coisas.
+
+[TIP]
+====
+- *Vocês serão testemunhas*: Aqui, Lucas registra uma das primeiras vezes que Jesus disse para seus discípulos ‘serem testemunhas’ dos acontecimentos da vida e do ministério dele, incluindo sua morte e ressurreição. (Compare com Jo 15:27.) Como os discípulos eram judeus fiéis, eles já eram testemunhas de Jeová e davam testemunho de que ele é o único Deus verdadeiro. (Is 43:10-12; 44:8) Uns 40 dias depois dos acontecimentos registrados aqui, Jesus repetiu que os discípulos seriam suas testemunhas, destacando a importância dessa nova designação. — Veja a nota de estudo em At 1:8.
+====
+
+[[v42-24-49]]
+
+^<<v42-24-49,49>>^ E saibam que enviarei sobre vocês o que foi prometido pelo meu Pai. Vocês, porém, permaneçam na cidade até serem revestidos de poder vindo do alto.”
+
+[TIP]
+====
+- *o que foi prometido pelo meu Pai*: Ou seja, o espírito santo, prometido em Jl 2:28, 29 e Jo 14:16, 17, 26. O espírito santo, ou seja, a força ativa de Deus, daria aos discípulos de Jesus o poder para servirem como testemunhas em toda a Terra. — At 1:4, 5, 8; 2:33.
+- *na cidade*: Ou seja, Jerusalém.
+====
+
+[[v42-24-50]]
+
+^<<v42-24-50,50>>^ Então ele os levou para fora, até Betânia, ergueu as mãos e os abençoou.
+
+[TIP]
+====
+- *Então*: O texto de At 1:3-9 mostra que Jesus subiu ao céu 40 dias depois de ter sido ressuscitado. Assim, há um intervalo de tempo entre os acontecimentos do dia em que Jesus foi ressuscitado (16 de nisã), registrados em Lu 24:1-49, e os acontecimentos do dia em que ele subiu para o céu (25 de íiar), registrados a partir deste versículo. — Veja o Apêndice A7-H.
+- *Betânia*: Veja a nota de estudo em Mt 21:17.
+====
+
+[[v42-24-51]]
+
+^<<v42-24-51,51>>^ Enquanto os abençoava, foi separado deles e levado para o céu.
+
+[TIP]
+====
+- *e levado para o céu*: Alguns manuscritos não incluem estas palavras, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. Além disso, Lucas diz em At 1:1, 2 que em seu “primeiro relato” (seu Evangelho) ele escreveu sobre as coisas que Jesus fez e ensinou “até o dia em que [Jesus] foi levado para cima”. Assim, faz sentido concluir que Lucas tenha escrito aqui sobre Jesus ter sido levado para o céu.
+====
+
+[[v42-24-52]]
+
+^<<v42-24-52,52>>^ E se curvaram diante dele e voltaram para Jerusalém com grande alegria.
+
+[TIP]
+====
+- *se curvaram diante dele*: Ou: “se prostraram diante ele; lhe prestaram homenagem”. Quando o verbo grego proskynéo é usado em relação a um deus, ele é traduzido como “adorar”. (Mt 4:10; Lu 4:8) Mas aqui os discípulos estavam apenas mostrando que reconheciam que Jesus era o representante de Deus. Eles se curvaram, não como um gesto de adoração a Deus ou a uma divindade, mas porque ele era o “Filho de Deus”, o predito “Filho do Homem”, o Messias que tinha recebido autoridade de Deus. (Lu 1:35; Mt 16:13-16; Jo 9:35-38) As Escrituras Hebraicas mostram que as pessoas se curvavam diante de profetas, reis e outros representantes de Deus. (1Sa 25:23, 24; 2Sa 14:4; 1Rs 1:16; 2Rs 4:36, 37) Em muitas ocasiões, as pessoas se curvaram diante de Jesus para expressar gratidão pelas verdades que Deus as tinha ajudado a entender ou para mostrar reconhecimento pelo favor que tinham recebido de Deus, assim como os servos do passado faziam. — Mt 14:32, 33; 28:5-10, 16-18; Jo 9:35, 38; veja também as notas de estudo em Mt 2:2; 8:2; 14:33; 15:25.
+- *se curvaram diante dele e*: Alguns manuscritos não incluem estas palavras, mas elas aparecem na maioria dos manuscritos mais antigos e mais confiáveis. — Veja o Apêndice A3.
+====
+
+[[v42-24-53]]
+
+^<<v42-24-53,53>>^ E estavam constantemente no templo, louvando a Deus.
+
+[TIP]
+====
+- *estavam constantemente no templo*: Depois que Jesus foi executado, seus discípulos se reuniam com as portas trancadas por medo de seus inimigos. (Jo 20:19, 26) Mas eles foram fortalecidos quando receberam esclarecimentos de Jesus (At 1:3) e quando eles o viram subir para o céu 40 dias depois de sua ressurreição. Então, eles passaram a louvar a Deus publicamente com coragem. No livro de Atos, Lucas continua seu registro e fala das atividades zelosas dos discípulos. — Veja a nota de estudo em At 1:1.
+====
+
+'''
+
+xref:042-lucas/042-lucas-023.adoc#v42-23-0[&#60; Capítulo Anterior] | <<v42-24-0,Topo>> | xref:043-joao/043-joao-001.adoc#v43-1-0[Próximo Capítulo &#62;]

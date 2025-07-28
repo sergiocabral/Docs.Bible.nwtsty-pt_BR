@@ -1,0 +1,300 @@
+include::./index.adoc[]
+
+[[v41-5-0]]
+=== As Boas Novas Segundo Marcos, 5
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Jesus faz vários milagres, no mar da Galileia e na região ao redor (4:35–5:43)
+* Jesus acalma uma tempestade violenta (4:35-41)
+* Jesus cura um homem possesso de demônios; permite que os demônios entrem nos porcos (5:1-20)
+* Ressuscita filha de Jairo; uma mulher toca na roupa de Jesus (5:21-43)
+****
+
+[[v41-5-1]]
+
+^<<v41-5-1,1>>^ Chegaram então à outra margem do mar, à região dos gerasenos.
+
+[TIP]
+====
+- *gerasenos*: Os relatos sobre esse acontecimento (Mt 8:​28-​34; Mr 5:​1-​20; Lu 8:​26-​39) dão nomes diferentes para o lugar onde isso se passou. Mesmo entre manuscritos bem antigos do mesmo relato há diferenças nos nomes usados. Mas, de acordo com os manuscritos mais confiáveis que estão disponíveis, Mateus usou a palavra “gadarenos” quando escreveu seu relato, ao passo que Marcos e Lucas usaram “gerasenos”. De qualquer modo, conforme explicado na nota de estudo em região dos gerasenos neste versículo, as duas palavras foram usadas para se referir basicamente ao mesmo lugar.
+- *região dos gerasenos*: Uma região na outra margem (a margem leste) do mar da Galileia. Não se sabe ao certo os limites exatos dessa região e o local a que ela corresponderia hoje em dia. Alguns sugerem que a “região dos gerasenos” seja a região em volta de Kursi, perto das encostas íngremes que ficam na margem leste do mar da Galileia. Outros acreditam que ela fosse maior, e começasse na cidade de Gerasa (Jerash), uns 55 quilômetros ao sudeste, se estendendo dali até o mar da Galileia. O texto de Mt 8:​28 usa o nome “região dos gadarenos”. (Veja a nota de estudo em gerasenos neste versículo e a nota de estudo em Mt 8:​28.) Embora os Evangelhos usem nomes de regiões diferentes para indicar o local onde Jesus desembarcou, eles se referem basicamente à mesma área na costa leste do mar da Galileia. Esse local talvez fosse considerado parte das duas regiões. Assim, os relatos não entram em contradição. — Veja “Acontecimentos no mar da Galileia” no Mapa 3B do Apêndice A7-D e o Apêndice B10.
+====
+
+[[v41-5-2]]
+
+^<<v41-5-2,2>>^ E, assim que Jesus saiu do barco, um homem sob o poder de um espírito impuro saiu dentre os túmulos e foi ao seu encontro.
+
+[TIP]
+====
+- *um homem*: O Evangelho de Mateus (8:​28) menciona dois homens, mas tanto Marcos como Lucas (8:​27) mencionam apenas um. Pelo visto, Marcos e Lucas concentraram seus relatos em apenas um dos homens possessos de demônios porque foi com ele que Jesus falou e porque a sua situação era mais grave. É possível que aquele homem fosse o mais violento ou estivesse sendo controlado por demônios por mais tempo. Também é possível que, depois de os dois homens terem sido curados, apenas um deles quisesse acompanhar Jesus. — Mr 5:​18-​20.
+- *túmulos*: Veja a nota de estudo em Mt 8:​28.
+====
+
+[[v41-5-3]]
+
+^<<v41-5-3,3>>^ Ele vivia entre os túmulos, e, até aquele tempo, absolutamente ninguém havia sido capaz de mantê-lo preso, nem mesmo com uma corrente.
+
+[[v41-5-4]]
+
+^<<v41-5-4,4>>^ Muitas vezes ele tinha sido preso com correntes nos pés e nas mãos, mas ele quebrava as correntes das mãos e despedaçava as dos pés; e ninguém tinha força para dominá-lo.
+
+[[v41-5-5]]
+
+^<<v41-5-5,5>>^ E, incessantemente, noite e dia, ele gritava nos túmulos e nos montes, e se cortava com pedras.
+
+[[v41-5-6]]
+
+^<<v41-5-6,6>>^ Mas, ao ver Jesus a certa distância, correu e se curvou diante dele.
+
+[[v41-5-7]]
+
+^<<v41-5-7,7>>^ Então gritou, em voz bem alta: “O que você quer comigo, Jesus, Filho do Deus Altíssimo? Jure por Deus que não me atormentará.”
+
+[TIP]
+====
+- *O que você quer comigo, . . . ?*: Ou: “O que eu tenho a ver com você?” Lit.: “O que para mim e para você?” Essa pergunta retórica é uma expressão idiomática semítica que também é usada nas Escrituras Hebraicas. (Jz 11:12, nota de rodapé; Jos 22:24; 2Sa 16:10; 19:22; 1Rs 17:18; 2Rs 3:13; 2Cr 35:21; Os 14:8) Nas Escrituras Gregas Cristãs, essa expressão semítica foi traduzida literalmente para o grego. (Mt 8:29; Mr 1:24; 5:7; Lu 4:34; 8:28; Jo 2:4) O significado dela depende do contexto. Neste versículo (Mr 5:7), ela é usada para expressar agressividade e rejeição, e alguns tradutores sugerem traduções como: “Me deixe em paz!” ou “Vá embora!” Em outros contextos, a expressão indica apenas que a pessoa não concorda com algo ou que não quer se envolver em uma determinada ação, sem nenhum tom de desprezo, arrogância ou agressividade. — Veja a nota de estudo em Jo 2:4.
+- *atormentará*: A palavra grega usada aqui está relacionada com a palavra que foi traduzida como “carcereiros” em Mt 18:34 (veja a nota de estudo). Assim, parece que, quando os demônios que possuíam o homem pediram para Jesus não ‘atormentá-los’, eles estavam pedindo para Jesus não prendê-los no “abismo” mencionado no relato paralelo de Lu 8:31.
+====
+
+[[v41-5-8]]
+
+^<<v41-5-8,8>>^ Pois Jesus havia lhe dito: “Saia do homem, espírito impuro!”
+
+[[v41-5-9]]
+
+^<<v41-5-9,9>>^ Mas Jesus lhe perguntou: “Qual é o seu nome?” E ele respondeu: “Meu nome é Legião, porque há muitos de nós.”
+
+[TIP]
+====
+- *Legião*: Provavelmente esse não era o nome daquele homem, mas apenas indicava que ele estava possuído por muitos demônios. É possível que o principal daqueles demônios tenha feito o homem dizer que o nome dele era “Legião”. No século 1 d.C., uma legião do exército romano geralmente tinha cerca de 6.000 homens. Isso talvez indique que o número de demônios envolvidos era muito grande. — Veja a nota de estudo em Mt 26:53.
+====
+
+[[v41-5-10]]
+
+^<<v41-5-10,10>>^ E suplicava a Jesus que não enviasse os espíritos para fora daquela região.
+
+[[v41-5-11]]
+
+^<<v41-5-11,11>>^ Havia então uma grande manada de porcos pastando no monte.
+
+[TIP]
+====
+- *porcos*: Os judeus não criavam porcos; esses animais eram impuros de acordo com a Lei. (Le 11:7) Mas a carne de porco era comercializada na região de Decápolis porque muitos gregos e romanos moravam ali, e eles consideravam a carne de porco uma iguaria. A Bíblia não diz se “os que cuidavam dos porcos” (Mr 5:14) eram judeus que estavam desobedecendo a Lei ou se eram pessoas de outras nações.
+====
+
+[[v41-5-12]]
+
+^<<v41-5-12,12>>^ Por isso os espíritos lhe suplicaram: “Mande-nos para os porcos, para que entremos neles.”
+
+[[v41-5-13]]
+
+^<<v41-5-13,13>>^ E ele lhes deu permissão. Assim, os espíritos impuros saíram e entraram nos porcos; e a manada se jogou despenhadeiro^&#42;1^ abaixo, para dentro do mar, cerca de 2.000 deles, e se afogaram no mar.
+
+[NOTE]
+====
+. Ou: “encosta íngreme”.
+====
+
+[[v41-5-14]]
+
+^<<v41-5-14,14>>^ Mas os que cuidavam dos porcos fugiram e contaram isso na cidade e na zona rural, e as pessoas foram ver o que tinha acontecido.
+
+[[v41-5-15]]
+
+^<<v41-5-15,15>>^ Assim, aproximaram-se de Jesus e viram o possesso de demônios, que havia tido a Legião, sentado, vestido e em perfeito juízo; e ficaram com medo.
+
+[[v41-5-16]]
+
+^<<v41-5-16,16>>^ Também, os que tinham visto tudo aquilo lhes contaram o que tinha acontecido com o homem possesso de demônios e com os porcos.
+
+[[v41-5-17]]
+
+^<<v41-5-17,17>>^ Assim, começaram a suplicar a Jesus que saísse daquela região.
+
+[[v41-5-18]]
+
+^<<v41-5-18,18>>^ Então, quando ele estava entrando no barco, o homem que tinha estado possesso de demônios suplicou que o deixasse ir com ele.
+
+[[v41-5-19]]
+
+^<<v41-5-19,19>>^ No entanto, ele não deixou, mas disse-lhe: “Vá para casa, para seus parentes, e conte-lhes tudo o que Jeová fez por você e a misericórdia que ele lhe demonstrou.”
+
+[TIP]
+====
+- *conte-lhes*: Jesus geralmente pedia que as pessoas não falassem a outros sobre seus milagres. (Mr 1:​44; 3:​12; 7:​36) Mas nessa ocasião ele orientou o homem a contar a seus parentes o que tinha acontecido. Talvez Jesus tenha feito isso porque não iria mais pregar naquela região, já que as pessoas dali tinham pedido que ele fosse embora. O bom testemunho daquele homem também serviria para contradizer comentários negativos que talvez surgissem por causa da morte dos porcos.
+- *tudo o que Jeová fez por você*: Jesus atribuiu o milagre a seu Pai celestial, e não a si mesmo. O Evangelho de Lucas usa a palavra grega Theós (Deus) ao relatar esse mesmo acontecimento. (Lu 8:​39) A maioria dos manuscritos gregos usa aqui em Mr 5:19 “o Senhor” (ho Kýrios), mas há bons motivos para acreditar que o nome de Deus aparecia no texto original e foi mais tarde substituído pelo título “Senhor”. Assim, o nome “Jeová” é usado aqui no texto principal. — Veja o Apêndice C1 e o Apêndice C3 (introdução e Mr 5:19).
+====
+
+[[v41-5-20]]
+
+^<<v41-5-20,20>>^ O homem foi embora e começou a proclamar em Decápolis tudo o que Jesus havia feito por ele; e todos ficavam admirados.
+
+[TIP]
+====
+- *Decápolis*: Ou: “região das Dez Cidades”. — Veja o Glossário e o Apêndice B10.
+====
+
+[[v41-5-21]]
+
+^<<v41-5-21,21>>^ Depois de Jesus ter passado novamente, no barco, para a margem oposta, ajuntou-se a ele uma grande multidão, e ele estava à beira do mar.
+
+[[v41-5-22]]
+
+^<<v41-5-22,22>>^ Chegou então um dos presidentes da sinagoga, chamado Jairo, e, ao vê-lo, se prostrou aos seus pés.
+
+[TIP]
+====
+- *presidentes da sinagoga*: A palavra grega arkhisynágogos significa literalmente “líder de uma sinagoga”. — Veja a nota de estudo em Mt 9:​18.
+====
+
+[[v41-5-23]]
+
+^<<v41-5-23,23>>^ Ele lhe suplicou muitas vezes: “Minha filhinha está gravemente doente. Por favor, venha e ponha as mãos sobre ela, para que possa ficar boa e viver.”
+
+[TIP]
+====
+- *está gravemente doente*: Ou: “está morrendo”.
+====
+
+[[v41-5-24]]
+
+^<<v41-5-24,24>>^ Assim, Jesus foi com ele, e uma grande multidão o seguia e apertava.
+
+[[v41-5-25]]
+
+^<<v41-5-25,25>>^ E havia uma mulher que por 12 anos sofria de um fluxo de sangue.
+
+[TIP]
+====
+- *fluxo de sangue*: Veja a nota de estudo em Mt 9:​20.
+====
+
+[[v41-5-26]]
+
+^<<v41-5-26,26>>^ Ela havia sofrido muito às mãos de muitos médicos, e tinha gastado todos os seus recursos, sem ter melhorado, mas, em vez disso, tinha ficado pior.
+
+[[v41-5-27]]
+
+^<<v41-5-27,27>>^ Tendo ouvido falar de Jesus, ela se aproximou por trás dele, na multidão, e tocou na sua roupa,
+
+[[v41-5-28]]
+
+^<<v41-5-28,28>>^ pois dizia: “Se eu apenas tocar na sua roupa, ficarei boa.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “serei salva”.
+====
+
+[[v41-5-29]]
+
+^<<v41-5-29,29>>^ E o seu fluxo de sangue secou imediatamente, e ela sentiu no corpo que tinha sido curada daquela doença aflitiva.
+
+[TIP]
+====
+- *doença aflitiva*: Lit.: “flagelo”. — Veja a nota de estudo em Mr 5:​34.
+====
+
+[[v41-5-30]]
+
+^<<v41-5-30,30>>^ Imediatamente, Jesus percebeu que havia saído poder dele, e ele se virou na multidão e perguntou: “Quem tocou na minha roupa?”
+
+[[v41-5-31]]
+
+^<<v41-5-31,31>>^ Seus discípulos lhe disseram: “O senhor está vendo que a multidão o aperta, e ainda pergunta: ‘Quem me tocou?’”
+
+[[v41-5-32]]
+
+^<<v41-5-32,32>>^ Mas ele estava olhando em volta para ver quem tinha feito isso.
+
+[[v41-5-33]]
+
+^<<v41-5-33,33>>^ A mulher, tremendo de medo, sabendo o que tinha lhe acontecido, se aproximou e se prostrou diante dele, e lhe disse toda a verdade.
+
+[[v41-5-34]]
+
+^<<v41-5-34,34>>^ Ele disse a ela: “Filha, a sua fé fez você ficar boa.^&#42;1^ Vá em paz e fique curada da sua doença aflitiva.”
+
+[NOTE]
+====
+. Ou: “salvou você”.
+====
+
+[TIP]
+====
+- *Filha*: Essa é a única ocasião registrada na Bíblia em que Jesus se dirigiu a uma mulher chamando-a de “filha”. Ele talvez tenha feito isso porque a situação era constrangedora e a mulher estava “tremendo”. (Mr 5:​33; Lu 8:​47) Essa palavra carinhosa mostra que Jesus se preocupava com a mulher, e não necessariamente quer dizer que ela era jovem.
+- *Vá em paz*: Essa expressão idiomática é bastante usada nas Escrituras Gregas e nas Escrituras Hebraicas com o sentido: Que tudo vá bem com você. (Lu 7:​50; 8:​48; Tg 2:​16; veja também 1Sa 1:​17; 20:42; 25:35; 29:7; 2Sa 15:9; 2Rs 5:​19.) A palavra hebraica que é muitas vezes traduzida como “paz” (shalóhm) é bem abrangente. Ela se refere à ausência de guerra ou conflitos (Jz 4:​17; 1Sa 7:​14; Ec 3:8) e também pode transmitir a ideia de saúde, segurança (veja as notas de rodapé em 1Sa 25:6; 2Cr 15:5; Jó 5:​24), bem-estar (Est 10:3, segunda nota de rodapé) e amizade (Sal 41:9). A palavra grega para “paz” (eiréne) é usada nas Escrituras Gregas Cristãs com esse mesmo sentido abrangente e, além de se referir à ausência de conflitos, pode passar a ideia de bem-estar, salvação e harmonia.
+- *sua doença aflitiva*: Lit.: “seu flagelo”. O sentido literal dessa palavra se refere a um tipo de açoitamento muitas vezes usado como tortura. (At 22:24; He 11:36) A palavra é usada aqui em sentido figurado e descreve muito bem o grau do sofrimento causado pela doença da mulher.
+====
+
+[[v41-5-35]]
+
+^<<v41-5-35,35>>^ Enquanto ele ainda falava, chegaram alguns homens da casa do presidente da sinagoga e disseram: “Sua filha morreu! Por que incomodar mais o Instrutor?”
+
+[[v41-5-36]]
+
+^<<v41-5-36,36>>^ Mas Jesus ouviu as palavras deles e disse ao presidente da sinagoga: “Não tenha medo,^&#42;1^ apenas exerça fé.”
+
+[NOTE]
+====
+. Ou: “Pare de ter medo”.
+====
+
+[TIP]
+====
+- *apenas exerça fé*: Ou: “apenas continue exercendo fé”. No grego, o tempo verbal usado aqui pode indicar uma ação contínua. Jairo já tinha mostrado certa medida de fé por ter ido procurar Jesus. (Mr 5:​22-​24) Então, depois da notícia da morte da filha de Jairo, Jesus disse a ele para se apegar à fé que tinha.
+====
+
+[[v41-5-37]]
+
+^<<v41-5-37,37>>^ Então não deixou ninguém acompanhá-lo, a não ser Pedro, Tiago e João, irmão de Tiago.
+
+[[v41-5-38]]
+
+^<<v41-5-38,38>>^ Assim, chegaram à casa do presidente da sinagoga, e ele viu o alvoroço e os que choravam e lamentavam em alta voz.
+
+[[v41-5-39]]
+
+^<<v41-5-39,39>>^ Depois de entrar, disse-lhes: “Por que vocês estão chorando e fazendo esse alvoroço? A menina não morreu; ela está dormindo.”
+
+[TIP]
+====
+- *não morreu; ela está dormindo*: A Bíblia muitas vezes compara a morte com o sono. (Sal 13:3; Jo 11:11-14; At 7:60; 1Co 7:39; 15:51; 1Te 4:13) Jesus estava prestes a ressuscitar a menina. Assim, ele talvez tenha dito que ela estava dormindo porque ia mostrar que, assim como as pessoas que estão dormindo podem ser acordadas, os mortos podem ser ressuscitados. O poder que Jesus tinha para ressuscitar a menina veio de seu Pai, “aquele que dá vida aos mortos e fala das coisas que não existem como se existissem”. — Ro 4:​17.
+====
+
+[[v41-5-40]]
+
+^<<v41-5-40,40>>^ Em vista disso, começaram a rir dele com desprezo. Mas, depois de mandar que todos saíssem, ele levou consigo o pai e a mãe da menina e os que estavam com ele, e entrou onde a menina estava.
+
+[[v41-5-41]]
+
+^<<v41-5-41,41>>^ Então, pegando a mão da menina, disse-lhe: “Talita cumi”, que traduzido significa: “Menina, digo-lhe: Levante-se!”
+
+[TIP]
+====
+- *Talita cumi*: Mateus e Lucas também registram a ressurreição da filha de Jairo (Mt 9:​23-​26; Lu 8:​49-​56), mas apenas Marcos registra essas palavras de Jesus e as traduz. Essa expressão semítica aparece como “Talita cum” em alguns manuscritos gregos. Apesar de alguns estudiosos afirmarem que essas palavras são aramaicas, outros acham que existe a possibilidade de serem hebraicas. — Veja a nota de estudo em Mr 7:​34.
+====
+
+[[v41-5-42]]
+
+^<<v41-5-42,42>>^ E a menina se levantou imediatamente e começou a andar. (Ela tinha 12 anos de idade.) Com isso, eles não conseguiram se conter de tanta alegria.
+
+[TIP]
+====
+- *de tanta alegria*: Lit.: “com grande êxtase”. A palavra grega ékstasis (formada por ek, que significa “fora de”, e stásis, que significa “estar de pé”) se refere ao que acontece com uma pessoa que sai de seu estado mental normal por causa de uma visão que recebeu de Deus ou porque algo a deixou admirada ou maravilhada. Essa mesma palavra grega é traduzida como “tomadas de emoção”, em Mr 16:8, e como “admiração”, em Lu 5:26. No livro de Atos, a palavra aparece ligada com a atuação de Deus e é traduzida como “em transe” ou “num transe” em At 10:10; 11:5; 22:17. — Veja a nota de estudo em At 10:10.
+====
+
+[[v41-5-43]]
+
+^<<v41-5-43,43>>^ Mas ele lhes ordenou vez após vez^&#42;1^ que não deixassem ninguém saber disso, e mandou que dessem a ela algo para comer.
+
+[NOTE]
+====
+. Ou: “com firmeza”.
+====
+
+'''
+
+xref:041-marcos/041-marcos-004.adoc#v41-4-0[&#60; Capítulo Anterior] | <<v41-5-0,Topo>> | xref:041-marcos/041-marcos-006.adoc#v41-6-0[Próximo Capítulo &#62;]

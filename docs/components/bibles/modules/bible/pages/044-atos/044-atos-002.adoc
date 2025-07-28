@@ -1,0 +1,390 @@
+include::./index.adoc[]
+
+[[v44-2-0]]
+=== Atos dos Apóstolos, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. Da volta de Jesus ao céu até o derramamento do espírito santo no Pentecostes de 33 d.C. (1:9–2:13)
+* Jesus é levado ao céu e anjos afirmam que ele voltará da mesma maneira (1:9-11)
+* Os apóstolos se reúnem para orar, junto com a mãe e os irmãos de Jesus (1:12-14)
+* Matias é escolhido para substituir Judas como um dos Doze (1:15-26)
+* Espírito santo é derramado sobre os discípulos e eles começam a falar em línguas (2:1-4)
+* Judeus de todas as partes do Império Romano ouvem sobre as coisas magníficas de Deus (2:5-13)
+* C. Testemunho em Jerusalém (2:14–3:26)
+* Pedro cita a profecia de Joel sobre o derramamento do espírito santo e o glorioso dia de Jeová (2:14-21)
+* Pedro faz um discurso e usa as Escrituras para provar que Jesus foi ressuscitado e se tornou Senhor e Cristo (2:22-36)
+* Multidões reagem bem às palavras de Pedro; cerca de 3.000 são batizados (2:37-41)
+* Os discípulos são ensinados pelos apóstolos e aproveitam a companhia uns dos outros (2:42-47)
+* Pedro cura um mendigo manco no portão do templo chamado Portão Belo (3:1-10)
+* Pedro faz um discurso no Pórtico de Salomão (3:11-18)
+* Pedro aconselha o povo a se arrepender e dar meia-volta (3:19-26)
+****
+
+[[v44-2-1]]
+
+^<<v44-2-1,1>>^ Então, durante o dia da Festividade de Pentecostes, todos eles estavam juntos no mesmo lugar.
+
+[TIP]
+====
+- *Pentecostes*: A palavra grega que aparece aqui é pentekosté, que significa “50.º (dia)”. Ela é usada nas Escrituras Gregas Cristãs para se referir à mesma festividade que é chamada nas Escrituras Hebraicas de “Festividade da Colheita” (Êx 23:16) e de “Festividade das Semanas” (Êx 34:22). Ela acontecia no final de um período de sete semanas de colheita, que começava com a cevada e depois incluía o trigo. A Festividade de Pentecostes acontecia no 50.º dia contado a partir de 16 de nisã, o dia em que se oferecia um feixe das primícias da colheita da cevada. (Le 23:15, 16) No calendário hebraico, Pentecostes caía em 6 de sivã. (Veja o Apêndice B15.) As instruções para essa festividade estão registradas em Le 23:15-21, Núm 28:26-31 e De 16:9-12. Multidões de judeus e prosélitos vinham de terras distantes a Jerusalém para a Festividade de Pentecostes. A festividade tinha como objetivo incentivar o povo a demonstrar bondade e hospitalidade a todos, sem distinção, não importava se eram livres, escravos, pobres, órfãos, viúvas, levitas ou residentes estrangeiros. (De 16:10, 11) Por esses motivos, o dia de Pentecostes de 33 d.C. foi a ocasião perfeita para o nascimento da congregação cristã, que teria a missão de dar testemunho a todas as pessoas “sobre as coisas magníficas de Deus”. (At 1:8; 2:11) A tradição judaica relaciona Pentecostes com a ocasião em que a Lei foi dada aos israelitas no monte Sinai e eles se tornaram a nação escolhida de Deus. A Bíblia mostra que isso aconteceu no começo do terceiro mês (sivã). (Êx 19:1) Assim como Moisés foi o mediador quando a nação de Israel entrou no pacto da Lei, Jesus Cristo foi o mediador que possibilitou que o Israel espiritual entrasse no novo pacto.
+====
+
+[[v44-2-2]]
+
+^<<v44-2-2,2>>^ De repente, veio do céu um barulho, bem semelhante ao de uma forte rajada de vento, e encheu toda a casa onde estavam sentados.
+
+[[v44-2-3]]
+
+^<<v44-2-3,3>>^ E eles começaram a ver o que pareciam ser línguas de fogo, e elas se espalharam e pousaram, uma sobre cada um deles;
+
+[[v44-2-4]]
+
+^<<v44-2-4,4>>^ e todos ficaram cheios de espírito santo e começaram a falar em línguas, assim como o espírito os capacitava.
+
+[TIP]
+====
+- *línguas*: A palavra grega para “língua” é glóssa. Na Bíblia, ela pode ser usada tanto em sentido literal, se referindo ao órgão da fala (Mr 7:33; Lu 1:64; 16:24), como em sentido figurado, se referindo a um idioma ou a um povo que fala determinado idioma (Ap 5:9; 7:9; 13:7). Essa mesma palavra grega aparece no versículo 3, que diz que os discípulos viram “o que pareciam ser línguas de fogo”. Assim, duas coisas mostraram que o espírito santo tinha sido derramado: as “línguas de fogo” que pousaram sobre cada um dos discípulos e o fato de eles começarem a falar em línguas.
+====
+
+[[v44-2-5]]
+
+^<<v44-2-5,5>>^ Naquela ocasião estavam em Jerusalém judeus devotos, de toda nação debaixo do céu.
+
+[[v44-2-6]]
+
+^<<v44-2-6,6>>^ Assim, quando se ouviu aquele som, uma multidão se ajuntou e ficou surpresa, porque cada um ouviu os discípulos falar no seu próprio idioma.
+
+[[v44-2-7]]
+
+^<<v44-2-7,7>>^ Realmente, ficaram muito espantados e disseram: “Não são galileus todos esses que estão falando?
+
+[[v44-2-8]]
+
+^<<v44-2-8,8>>^ Como é que cada um de nós está ouvindo a sua língua nativa?
+
+[TIP]
+====
+- *a sua língua nativa*: Lit.: “a nossa própria língua em que nascemos”. A palavra grega traduzida aqui como “língua” é diálektos. (Veja a nota de estudo em At 2:4.) É possível que muitos dos que estavam ouvindo os discípulos falassem uma língua usada internacionalmente, talvez o grego. Já que At 2:5 diz que eles eram “judeus devotos”, pode ser que eles também entendessem o hebraico, que era o idioma usado nas cerimônias realizadas no templo em Jerusalém. Mas ouvir as boas novas na sua língua materna chamou sua atenção.
+====
+
+[[v44-2-9]]
+
+^<<v44-2-9,9>>^ Entre nós há partos, medos e elamitas, habitantes da Mesopotâmia, da Judeia e da Capadócia, de Ponto e da província da Ásia,
+
+[TIP]
+====
+- *província da Ásia*: Veja o Glossário, “Ásia”.
+====
+
+[[v44-2-10]]
+
+^<<v44-2-10,10>>^ da Frígia e da Panfília, do Egito e das regiões da Líbia próximas a Cirene, visitantes vindos de Roma, tanto judeus como prosélitos,
+
+[TIP]
+====
+- *prosélitos*: Veja a nota de estudo em Mt 23:15.
+====
+
+[[v44-2-11]]
+
+^<<v44-2-11,11>>^ cretenses e também árabes. Nós os ouvimos falar em nossas línguas sobre as coisas magníficas de Deus.”
+
+[[v44-2-12]]
+
+^<<v44-2-12,12>>^ Sim, todos ficaram admirados e perplexos, e diziam uns aos outros: “O que significa isso?”
+
+[[v44-2-13]]
+
+^<<v44-2-13,13>>^ No entanto, outros zombavam deles e diziam: “Estão cheios de vinho doce.”
+
+[TIP]
+====
+- *vinho doce*: Ou: “vinho novo”. Esta é a única vez que a palavra grega gleúkos aparece nas Escrituras Gregas Cristãs. Ela se refere a vinho novo, doce, que ainda está em processo de fermentação.
+====
+
+[[v44-2-14]]
+
+^<<v44-2-14,14>>^ Mas Pedro se pôs de pé com os Onze e lhes falou bem alto: “Homens da Judeia e todos vocês, habitantes de Jerusalém, prestem atenção e ouçam bem as minhas palavras:
+
+[[v44-2-15]]
+
+^<<v44-2-15,15>>^ Na verdade, estas pessoas não estão bêbadas, como vocês supõem, pois é a terceira hora do dia.
+
+[TIP]
+====
+- *a terceira hora do dia*: Ou seja, por volta das 9 horas da manhã. No século 1 d.C., os judeus dividiam o período de luz do dia em 12 horas. (Jo 11:9) Esse período começava com o nascer do sol, por volta das 6 horas da manhã. Assim, a terceira hora seria por volta das 9 da manhã, a sexta hora seria por volta do meio-dia e a nona hora seria por volta das 3 da tarde. As pessoas daquela época não tinham instrumentos precisos para marcar o tempo. Por isso, os relatos bíblicos geralmente mencionam apenas o horário aproximado dos eventos. — Jo 1:39; 4:6; 19:14; At 10:3, 9.
+====
+
+[[v44-2-16]]
+
+^<<v44-2-16,16>>^ Ao contrário, isto é o que foi dito por meio do profeta Joel:
+
+[[v44-2-17]]
+
+^<<v44-2-17,17>>^ ‘“Nos últimos dias”, diz Deus, “derramarei do meu espírito sobre todo tipo de pessoas, e os filhos e as filhas de vocês profetizarão, os jovens entre vocês terão visões e os homens idosos entre vocês terão sonhos,
+
+[TIP]
+====
+- *Nos últimos dias*: Nessa ocasião, Pedro estava citando a profecia de Joel, mas foi inspirado a fazer uma pequena mudança. Em vez de começar a citação com “depois disso”, como aparece no texto hebraico original e na Septuaginta (Jl 2:28 [3:1, LXX]), Pedro disse “nos últimos dias”. A profecia de Joel se cumpriu quando o espírito santo foi derramado naquele dia de Pentecostes. O fato de Pedro ter relacionado o que tinha acabado de acontecer com os “últimos dias” indicava que esse período marcante já tinha começado e que ele viria antes do “grande e glorioso dia de Jeová”. Esse “dia de Jeová” pelo visto encerraria aqueles “últimos dias”. (At 2:20) Já que todos os que estavam ouvindo Pedro eram judeus ou prosélitos, seria de esperar que o cumprimento inicial das palavras inspiradas de Pedro se aplicasse a eles. Sua declaração, pelo visto, indicava que os judeus estavam vivendo “nos últimos dias” do sistema de coisas judaico, que tinha Jerusalém como seu centro de adoração. O próprio Jesus já tinha predito que Jerusalém e seu templo seriam destruídos. (Lu 19:41-44; 21:5, 6) Essa destruição aconteceu em 70 d.C.
+- *meu espírito*: Neste contexto, a palavra grega traduzida como “espírito”, pneúma, se refere ao espírito santo, ou força ativa, de Deus. Pedro estava citando Jl 2:28, onde aparece a palavra hebraica correspondente, rúahh. Tanto a palavra hebraica como a palavra grega se referem basicamente a algo invisível aos olhos humanos e passam a ideia de uma força em ação. — Veja o Glossário, “Espírito”.
+- *todo tipo de pessoas*: Ou: “todo tipo de carne”. Lit.: “toda carne”. A palavra grega sarx (muitas vezes traduzida como “carne”) se refere aqui a humanos. Assim, a expressão literal “toda carne” normalmente poderia ser entendida como “toda a humanidade”. (Veja a nota de estudo em Jo 17:2.) Mas, neste contexto, a expressão grega para “toda carne” foi usada com um sentido mais específico. Deus não derramou seu espírito sobre todas as pessoas da Terra, nem mesmo sobre todas as pessoas de Israel. Assim, a expressão “toda carne” não se refere aqui a todas as pessoas, sem exceção, mas a todo tipo de pessoas. Deus foi imparcial e derramou seu espírito santo sobre ‘filhos e filhas, jovens e homens idosos, escravos e escravas’, ou seja, sobre todo tipo de pessoas. (At 2:17, 18) A palavra grega pas (“todo[s]; toda[s]”) é usada de forma parecida em 1Ti 2:3, 4, que diz que Deus deseja que “todo tipo de pessoas sejam salvas”. — Veja a nota de estudo em Jo 12:32.
+- *profetizarão*: A palavra grega usada aqui, profeteúo, significa literalmente “falar abertamente”. Nas Escrituras, ela é usada com o sentido de “tornar conhecidas mensagens de Deus”. A palavra muitas vezes inclui a ideia de prever o futuro, mas esse não é o seu sentido básico. Ela pode se referir também a dar uma informação por revelação divina. (Veja as notas de estudo em Mt 26:68; Mr 14:65; Lu 22:64.) Na ocasião mencionada aqui, o espírito santo fez com que alguns discípulos profetizassem. Ao declarar “as coisas magníficas” que Jeová tinha feito e ainda faria, eles serviriam como porta-vozes do Deus Altíssimo. (At 2:11) A palavra hebraica para “profetizar” é usada de forma parecida. Por exemplo, quando a Bíblia diz em Êx 7:1 que Arão seria “profeta” de Moisés, isso significava que Arão serviria de porta-voz para Moisés, e não que ele iria predizer o futuro.
+- *os homens idosos*: Ou: “os homens mais velhos; os anciãos”. A palavra grega que aparece aqui, presbýteros, provavelmente se refere a homens de idade, em contraste com “os jovens” mencionados antes neste versículo. Em outros contextos, a palavra é usada para se referir a homens que têm autoridade e responsabilidade numa comunidade ou nação. — At 4:5; 11:30; 14:23; 15:2; 20:17; veja a nota de estudo em Mt 16:21.
+====
+
+[[v44-2-18]]
+
+^<<v44-2-18,18>>^ e até mesmo sobre os meus escravos e sobre as minhas escravas derramarei do meu espírito naqueles dias, e eles profetizarão.
+
+[[v44-2-19]]
+
+^<<v44-2-19,19>>^ E realizarei milagres em cima, no céu, e sinais embaixo, na terra: sangue, fogo e nuvens de fumaça.
+
+[TIP]
+====
+- *milagres*: Ou: “presságios”. A palavra grega traduzida aqui como “milagres” é o plural de téras. Nas Escrituras Gregas Cristãs, ela é usada junto com a palavra semeíon (“sinal”), as duas sempre no plural. (Mt 24:24; Jo 4:48; At 7:36; 14:3; 15:12; 2Co 12:12) Basicamente, téras se refere a qualquer coisa que cause espanto ou admiração. Quando fica claro que o “milagre” indica um acontecimento futuro, como ocorre neste versículo, a nota de estudo apresentará a tradução alternativa “Ou: presságios”.
+====
+
+[[v44-2-20]]
+
+^<<v44-2-20,20>>^ O sol será transformado em escuridão e a lua em sangue, antes de vir o grande e glorioso dia de Jeová.
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Jl 2:31. No texto hebraico original de Joel, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v44-2-21]]
+
+^<<v44-2-21,21>>^ E todo aquele que invocar o nome de Jeová será salvo.”’
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Jl 2:32. No texto hebraico original de Joel, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v44-2-22]]
+
+^<<v44-2-22,22>>^ “Homens de Israel, ouçam estas palavras: Jesus, o Nazareno, foi um homem que Deus aprovou diante de vocês com obras poderosas, milagres e sinais que Deus fez por meio dele entre vocês, conforme sabem.
+
+[TIP]
+====
+- *o Nazareno*: Veja a nota de estudo em Mr 10:47.
+- *milagres*: Ou: “presságios”. O fato de Deus ter dado a Jesus o poder de realizar milagres provava que Jesus tinha sido enviado por ele. Esses milagres, que incluíam curas e ressurreições, mostravam o que Jesus faria em escala muito maior no futuro. — Veja a nota de estudo em At 2:19.
+====
+
+[[v44-2-23]]
+
+^<<v44-2-23,23>>^ Esse homem, que foi entregue pela estabelecida vontade e presciência de Deus, vocês pregaram numa estaca pelas mãos de transgressores e o mataram.
+
+[TIP]
+====
+- *pela estabelecida vontade*: Ou: “pelo estabelecido conselho”. A palavra grega boulé, traduzida aqui como “vontade”, também pode ser traduzida como “orientação; conselho” (Lu 7:30, nota de rodapé) e “propósito” (He 6:17). — Veja a nota de estudo em At 20:27.
+====
+
+[[v44-2-24]]
+
+^<<v44-2-24,24>>^ Mas Deus o ressuscitou, livrando-o das dores da morte, porque não era possível que ela o mantivesse preso.
+
+[TIP]
+====
+- *das dores da morte*: A Bíblia deixa claro que, quando uma pessoa morre, ela não está mais consciente de nada e não é capaz de sentir dor. (Sal 146:4; Ec 9:5, 10) Mas aqui o versículo usa a expressão “dores da morte”. É provável que essa expressão tenha sido usada porque a Bíblia fala da morte como algo amargo e aflitivo. (1Sa 15:32, nota de rodapé; Sal 55:4; Ec 7:26) Isso é verdade não apenas por causa da dor que geralmente antecede a morte (Sal 73:4, 5), mas também porque a morte rouba a liberdade dos que estão em suas garras, tirando deles todo o poder de agir (Sal 6:5; 88:10). Pelo visto, era isso o que Pedro tinha em mente quando disse que Jesus foi libertado “das dores da morte”. A ressurreição libertou Jesus da triste condição de inatividade de quem é prisioneiro da morte. A palavra grega traduzida aqui como “dores” é odín. Apesar de ela, às vezes, ter o sentido mais específico de dores de parto (1Te 5:3), odín pode também se referir a dores, calamidades ou aflições em sentido geral (Mt 24:8). A expressão grega para “dores da morte” aparece na Septuaginta em 2Sa 22:6 e no Sal 18:4 (17:5, LXX). Nesses versículos, o texto massorético das Escrituras Hebraicas usa as expressões “cordas da Sepultura” e “cordas da morte”. É interessante que, nos manuscritos hebraicos mais antigos (de quando o hebraico era escrito apenas com consoantes), a palavra hebraica para “corda” (hhével) é escrita do mesmo jeito que a palavra hebraica para “dor”. Isso talvez explique a tradução grega usada na Septuaginta. De qualquer forma, as expressões “dores da morte” e “cordas da morte” passam a mesma ideia geral, ou seja, de que a morte é algo amargo e aflitivo.
+====
+
+[[v44-2-25]]
+
+^<<v44-2-25,25>>^ Pois Davi diz a respeito dele: ‘Mantenho Jeová constantemente diante de mim,^&#42;1^ pois ele está à minha direita para que eu nunca seja abalado.
+
+[NOTE]
+====
+. Ou: “diante dos meus olhos”.
+====
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação do Sal 16:8. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v44-2-26]]
+
+^<<v44-2-26,26>>^ Por essa razão, meu coração ficou animado e minha língua se alegrou muito. E eu viverei em esperança;
+
+[TIP]
+====
+- *eu viverei*: Lit.: “a minha carne morará”. Esta é uma citação do Sal 16. No versículo anterior (At 2:25), Pedro introduziu a citação com as palavras “Davi diz a respeito dele”, ou seja, a respeito do Messias, Jesus. A palavra grega traduzida aqui como “eu” e a palavra hebraica correspondente usada no Sal 16:9 significam literalmente “carne” e podem se referir ao corpo de uma pessoa ou à própria pessoa. Embora Jesus soubesse que seria morto como sacrifício de resgate, ele viveu em esperança. Ele sabia que seria ressuscitado pelo Pai, que seu sacrifício resgataria a humanidade e que sua carne, ou corpo, não conheceria a decomposição. — At 2:27, 31.
+====
+
+[[v44-2-27]]
+
+^<<v44-2-27,27>>^ porque não me deixarás na Sepultura nem permitirás que o teu leal conheça a decomposição.
+
+[TIP]
+====
+- *não me deixarás*: Ou: “não deixarás a minha alma”. Esta é uma citação do Sal 16:10. Nas edições anteriores da Tradução do Novo Mundo, a palavra grega traduzida aqui como “me” (psykhé) e a palavra hebraica correspondente usada no Sal 16:10 (néfesh) foram traduzidas como “alma”. O escritor desse salmo, Davi, usou a palavra “alma” para se referir a ele mesmo. Mas, aqui em Atos, ao falar aos judeus no dia de Pentecostes sobre a ressurreição de Jesus Cristo, Pedro aplicou as palavras desse salmo a Jesus. — At 2:24, 25; veja o Glossário, “Alma” e o Apêndice A2.
+- *na Sepultura*: Ou: “no Hades”. A palavra grega haídes, que talvez signifique “o lugar não visto”, aparece dez vezes nas Escrituras Gregas Cristãs. (Veja Mt 11:23; 16:18; Lu 10:15; 16:23; At 2:27, 31; Ap 1:18; 6:8; 20:13, 14.) Este versículo é uma citação do Sal 16:10, onde aparece a palavra hebraica correspondente, sheʼóhl, que também foi traduzida como “Sepultura”. A Septuaginta geralmente usa haídes para traduzir sheʼóhl. Na Bíblia, essas duas palavras se referem ao lugar simbólico (ou condição) em que estão os mortos em geral. Para se referir a uma sepultura individual, a Bíblia usa outras palavras. Algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J7, 8, 11, 12, 14-18, 22 no Apêndice C4) usam sheʼóhl aqui em At 2:27. — Veja o Apêndice A2.
+====
+
+[[v44-2-28]]
+
+^<<v44-2-28,28>>^ Tu me fizeste conhecer os caminhos da vida; tu me encherás de alegria na tua presença.’
+
+[TIP]
+====
+- *na tua presença*: Lit.: “com a (diante da) tua face”. Esta é uma citação do Sal 16:11. A expressão grega que aparece aqui é uma tradução literal da expressão idiomática hebraica que foi usada no salmo. Em hebraico, “com a face de alguém” significa “na presença de alguém”.
+====
+
+[[v44-2-29]]
+
+^<<v44-2-29,29>>^ “Homens, irmãos, permitam-me falar-lhes com franqueza sobre o patriarca Davi: ele morreu e foi enterrado, e seu túmulo está entre nós até o dia de hoje.
+
+[[v44-2-30]]
+
+^<<v44-2-30,30>>^ Visto que era profeta e sabia que Deus lhe havia jurado que faria um dos seus descendentes se sentar no seu trono,
+
+[TIP]
+====
+- *Deus*: Os manuscritos gregos disponíveis usam aqui a palavra Theós (Deus). É interessante que algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J7, 8, 10 no Apêndice C4) usam o Tetragrama neste versículo.
+- *um dos seus descendentes*: Deus jurou ao rei Davi que o “descendente” messiânico prometido em Gên 3:15 seria um dos descendentes dele. (2Sa 7:12, 13; Sal 89:3, 4; 132:11) Esse descendente foi Jesus. Tanto a mãe de Jesus como o pai adotivo dele eram descendentes de Davi. A expressão grega traduzida aqui como “descendentes” vem de uma expressão idiomática hebraica que significa literalmente “fruto dos seus lombos”. Na Bíblia, a palavra “lombos” se refere à região abdominal e à área dos quadris do corpo humano, onde ficam os órgãos reprodutivos. (Veja as notas de rodapé em Gên 35:11 e 1Rs 8:19.) A Bíblia também se refere à descendência de uma pessoa como “o fruto do ventre [ou: “corpo”]”, e usa outras expressões parecidas em que a palavra “fruto” se refere ao resultado da reprodução humana. — Sal 127:3; Lu 1:42; notas de rodapé em Gên 30:2; De 7:13; La 2:20.
+====
+
+[[v44-2-31]]
+
+^<<v44-2-31,31>>^ ele previu a ressurreição do Cristo e falou sobre ela, que ele não seria abandonado na Sepultura e que a sua carne não conheceria a decomposição.
+
+[TIP]
+====
+- *na Sepultura*: Ou: “no Hades”. Ou seja, no lugar simbólico (ou condição) em que estão os mortos em geral. — Veja a nota de estudo em At 2:27 e o Glossário, “Sepultura”.
+- *a sua carne não conheceria a decomposição*: Ou: “o seu corpo não entraria em decomposição”. Jeová não permitiu que o corpo de Jesus entrasse em decomposição e virasse pó, como tinha acontecido com os corpos de Moisés e Davi, homens que prefiguraram Jesus Cristo. (De 34:5, 6; At 2:27; 13:35, 36) Para que Jesus pudesse ser “o último Adão” (1Co 15:45) e servir como “resgate correspondente” por toda a humanidade (1Ti 2:5, 6; Mt 20:28), ele precisava ter um corpo humano de carne e osso. Esse corpo tinha que ser perfeito porque seria o preço pago a Jeová Deus para comprar de volta o que Adão tinha perdido. (He 9:14; 1Pe 1:18, 19) Nenhum descendente imperfeito de Adão podia servir como resgate. (Sal 49:7-9) Por isso, Jesus não foi concebido da maneira normal. Em vez disso, Jeová cuidou de que ele tivesse um corpo humano perfeito, que pudesse ser dado em sacrifício. O texto de He 10:5 mostra que o próprio Jesus disse a seu Pai, pelo visto quando se apresentou para o batismo: “Preparaste-me um corpo.” Quando os discípulos foram ao túmulo de Jesus, eles viram que o corpo de Jesus tinha desaparecido, mas que os panos de linho usados para enrolar o corpo ainda estavam ali. Tudo indica que Jeová se desfez do corpo humano de seu amado Filho antes que começasse a se decompor. — Lu 24:3-6; Jo 20:2-9.
+====
+
+[[v44-2-32]]
+
+^<<v44-2-32,32>>^ Deus ressuscitou a esse Jesus, e disso todos nós somos testemunhas.
+
+[[v44-2-33]]
+
+^<<v44-2-33,33>>^ Portanto, visto que ele foi enaltecido à^&#42;1^ direita de Deus e recebeu do Pai o prometido espírito santo, derramou o que vocês estão vendo e ouvindo.
+
+[NOTE]
+====
+. Ou, possivelmente: “pela”.
+====
+
+[[v44-2-34]]
+
+^<<v44-2-34,34>>^ Pois Davi não subiu aos céus, mas ele diz: ‘Jeová disse ao meu Senhor: “Sente-se à minha direita
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação do Sal 110:1. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Mas a maioria das traduções da Bíblia não usa o nome de Deus nas Escrituras Gregas Cristãs (conhecidas como Novo Testamento) nem mesmo em citações das Escrituras Hebraicas. (Veja o Apêndice A5.) É interessante, porém, que algumas edições do século 17 da King James Version usam a tradução “o SENHOR” em maiúscula e versaletes (maiúsculas menores) neste e em outros três versículos das Escrituras Gregas Cristãs que citam o Sal 110:1. (Mt 22:44; Mr 12:36; Lu 20:42) Outras edições lançadas mais tarde fizeram o mesmo. Já que os tradutores da King James Version usaram “o SENHOR” para indicar onde o nome de Deus aparece no texto original das Escrituras Hebraicas, é lógico concluir que eles tenham usado “o SENHOR” nas Escrituras Gregas Cristãs porque entenderam que o texto grego original se refere a Jeová. Também é interessante notar que a New King James Version, publicada pela primeira vez em 1979, passou a usar “o SENHOR” nas Escrituras Gregas Cristãs para substituir o nome de Deus em todas as citações das Escrituras Hebraicas. — Veja o Apêndice C1.
+====
+
+[[v44-2-35]]
+
+^<<v44-2-35,35>>^ até que eu ponha os seus inimigos debaixo dos seus pés.”’^&#42;1^
+
+[NOTE]
+====
+. Ou: “como escabelo para os seus pés”.
+====
+
+[[v44-2-36]]
+
+^<<v44-2-36,36>>^ Portanto, que toda a casa de Israel tenha a plena certeza de que Deus o fez Senhor e Cristo, a esse Jesus, que vocês mataram numa estaca.”
+
+[TIP]
+====
+- *mataram numa estaca*: Ou: “prenderam numa estaca (num poste)”. — Veja a nota de estudo em Mt 20:19 e o Glossário, “Madeiro; Estaca”; “Estaca de Tortura”.
+====
+
+[[v44-2-37]]
+
+^<<v44-2-37,37>>^ Quando ouviram isso, ficaram com o coração aflito e disseram a Pedro e aos outros apóstolos: “Homens, irmãos, o que devemos fazer?”
+
+[[v44-2-38]]
+
+^<<v44-2-38,38>>^ Pedro lhes disse: “Arrependam-se, e cada um de vocês seja batizado em nome de Jesus Cristo, para o perdão dos seus pecados, e vocês receberão a dádiva^&#42;1^ do espírito santo.
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+====
+
+[TIP]
+====
+- *Arrependam-se*: A palavra grega que aparece aqui, metanoéo, pode ser traduzida literalmente como “mudar de ideia” e se refere a uma mudança no modo de pensar, nas atitudes ou nos objetivos de uma pessoa. Antes, João Batista já tinha ‘pregado o batismo em símbolo de arrependimento para o perdão de pecados’. (Veja a nota de estudo em Mr 1:4.) O batismo de João demonstrava que as pessoas estavam arrependidas de terem se desviado da Lei mosaica, e esse arrependimento preparou o povo de Deus para o que estava para acontecer. (Mr 1:2-4) Mas aqui Pedro mostrou que, de acordo com a ordem de Jesus em Mt 28:19, o povo de Deus agora precisaria ser batizado em nome de Jesus Cristo, para o perdão de . . . pecados. Já que os judeus tinham rejeitado Jesus como o Messias, eles precisavam se arrepender e exercer fé nele. Essa era uma nova exigência para se buscar e receber o perdão de Deus. Eles podiam demonstrar publicamente sua fé em Jesus Cristo por serem batizados em água em nome dele. Esse batismo serviria de símbolo da sua dedicação pessoal a Deus por meio de Cristo. — Veja as notas de estudo em Mt 3:8, 11 e o Glossário, “Arrependimento”.
+====
+
+[[v44-2-39]]
+
+^<<v44-2-39,39>>^ Porque a promessa é para vocês e para os seus filhos, e para todos os que estão longe, todos os que Jeová, nosso Deus, chamar para si.”
+
+[TIP]
+====
+- *Jeová*: Os manuscritos gregos disponíveis usam aqui a palavra Kýrios (Senhor). Mas, como explicado no Apêndice C1, há bons motivos para acreditar que o nome de Deus aparecia no texto original deste versículo e que mais tarde foi substituído pelo título “Senhor”. Por isso, o nome “Jeová” é usado no texto principal deste versículo. Os versículos 33 a 38 mostram que a promessa que Pedro mencionou aqui é a que aparece em Jl 2:28-32 sobre o derramamento do espírito santo. Assim, a frase todos os que Jeová, nosso Deus, chamar para si parece ser uma referência às palavras finais de Jl 2:32. O texto hebraico de Jl 2:32 usa o nome de Deus três vezes e diz especificamente que quem está chamando é Jeová. — Veja o Apêndice C3 (introdução e At 2:39).
+====
+
+[[v44-2-40]]
+
+^<<v44-2-40,40>>^ E ele dava um testemunho cabal e os exortava com muitas outras palavras, dizendo: “Sejam salvos desta geração pervertida.”
+
+[[v44-2-41]]
+
+^<<v44-2-41,41>>^ Assim, os que aceitaram com alegria as suas palavras foram batizados, e naquele dia cerca de 3.000 pessoas se juntaram a eles.
+
+[TIP]
+====
+- *pessoas*: Ou: “almas”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, aparece aqui no plural e se refere a pessoas. — Veja o Glossário, “Alma”.
+====
+
+[[v44-2-42]]
+
+^<<v44-2-42,42>>^ Dedicavam-se assim aos ensinamentos dos apóstolos, à convivência uns com os outros, a tomar refeições juntos e às orações.
+
+[TIP]
+====
+- *à convivência uns com os outros*: Ou: “a partilhar uns com os outros”. O sentido básico da palavra grega koinonía é “partilhar; ter companheirismo”. Essa palavra também foi usada várias vezes nas cartas de Paulo. (1Co 1:9 [“estarem em união”]; 10:16 [“uma participação”]; 2Co 6:14 [“em comum”]; 13:14 [“participação”]) O contexto mostra que o companheirismo que existia entre os cristãos não era algo superficial. Ele envolvia uma forte amizade.
+- *a tomar refeições juntos*: Lit.: “a partir o pão”. — Veja a nota de estudo em At 20:7.
+====
+
+[[v44-2-43]]
+
+^<<v44-2-43,43>>^ Realmente, todos ficaram com medo, e muitos milagres e sinais começaram a ocorrer por meio dos apóstolos.
+
+[TIP]
+====
+- *todos*: Ou: “todas as almas”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, aparece aqui no plural e se refere a pessoas. — Veja o Glossário, “Alma”.
+- *milagres*: Ou: “presságios”. — Veja a nota de estudo em At 2:19.
+====
+
+[[v44-2-44]]
+
+^<<v44-2-44,44>>^ Todos os que se tornaram crentes estavam juntos e compartilhavam todas as coisas uns com os outros;
+
+[[v44-2-45]]
+
+^<<v44-2-45,45>>^ vendiam seus bens e propriedades e repartiam entre todos o valor recebido, de acordo com a necessidade de cada um.
+
+[[v44-2-46]]
+
+^<<v44-2-46,46>>^ Estavam constantemente no templo, dia após dia, unidos no mesmo propósito; tomavam as refeições nas casas uns dos outros e compartilhavam seu alimento com grande alegria e sinceridade de coração,
+
+[TIP]
+====
+- *nas casas uns dos outros*: Ou: “de casa em casa”. O modo como a preposição katá foi usada na frase grega katʼ oíkon (lit.: “segundo a casa”) permite que ela seja entendida em sentido distributivo. Tudo indica que, por causa da necessidade que surgiu, os cristãos se reuniam e tomavam refeições nas casas de seus companheiros de fé que moravam em Jerusalém e na região ao redor. — Veja as notas de estudo em At 5:42; 20:20.
+====
+
+[[v44-2-47]]
+
+^<<v44-2-47,47>>^ louvando a Deus e cativando a simpatia de todo o povo. Ao mesmo tempo, Jeová diariamente continuava a lhes acrescentar os que estavam sendo salvos.
+
+[TIP]
+====
+- *Jeová*: Os manuscritos gregos disponíveis usam aqui a expressão “o Senhor” (em grego, ho . . . Kýrios). Mas, como explicado no Apêndice C1, há vários motivos para acreditar que o nome de Deus aparecia no texto original deste versículo e que mais tarde foi substituído pelo título “Senhor”. Por isso, o nome “Jeová” é usado aqui no texto principal. — Veja o Apêndice C3 (introdução e At 2:47).
+====
+
+'''
+
+xref:044-atos/044-atos-001.adoc#v44-1-0[&#60; Capítulo Anterior] | <<v44-2-0,Topo>> | xref:044-atos/044-atos-003.adoc#v44-3-0[Próximo Capítulo &#62;]

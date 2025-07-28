@@ -1,0 +1,294 @@
+include::./index.adoc[]
+
+[[v44-9-0]]
+=== Atos dos Apóstolos, 9
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. A pregação chega a Samaria e a lugares mais distantes; conversão de Saulo (8:1–9:43)
+* Começa uma grande perseguição em Jerusalém; os irmãos da congregação local são espalhados (8:1-4)
+* Ministério produtivo de Filipe em Samaria (8:5-13)
+* Pedro e João são enviados a Samaria; samaritanos recebem espírito santo (8:14-17)
+* Simão, que antes praticava artes mágicas, tenta comprar o dom do espírito santo (8:18-24)
+* Filipe é enviado para pregar ao eunuco etíope (8:25-40)
+* Saulo viaja para Damasco para perseguir os discípulos (9:1, 2)
+* Uma luz vinda do céu brilha em volta de Saulo e Jesus se revela a ele (9:3-9)
+* O discípulo Ananias é enviado para ajudar Saulo (9:10-19a)
+* Saulo prega sobre Jesus em Damasco (9:19b-25)
+* Saulo vai a Jerusalém e fala corajosamente no nome de Jesus (9:26-30)
+* A congregação por toda a Judeia, Galileia e Samaria entra num período de paz (9:31)
+* Pedro realiza seu ministério nas cidades da planície costeira; ele cura Eneias em Lida (9:32-35)
+* Em Jope, Pedro ressuscita Dorcas, uma cristã generosa (9:36-43)
+****
+
+[[v44-9-1]]
+
+^<<v44-9-1,1>>^ Saulo, porém, respirando ainda ameaça e morte contra os discípulos do Senhor, foi ao sumo sacerdote
+
+[TIP]
+====
+- *Saulo*: Veja a nota de estudo em At 7:58.
+- *ao sumo sacerdote*: Ou seja, a Caifás. — Veja a nota de estudo em At 4:6.
+====
+
+[[v44-9-2]]
+
+^<<v44-9-2,2>>^ e lhe pediu cartas dirigidas às sinagogas em Damasco, a fim de que pudesse levar amarrados para Jerusalém todos os que encontrasse que pertenciam ao Caminho, tanto homens como mulheres.
+
+[TIP]
+====
+- *cartas*: No século 1 d.C., cartas de fontes confiáveis serviam para apresentar pessoas e confirmar a identidade delas ou o grau de autoridade que elas tinham. (Ro 16:1; 2Co 3:1-3) Em certa ocasião, os judeus de Roma mencionaram esse tipo de carta. (At 28:21) As cartas que Saulo pediu ao sumo sacerdote, dirigidas às sinagogas em Damasco, o autorizavam a perseguir os cristãos judeus naquela cidade. (At 9:1, 2) Pelo visto, essas cartas pediam que as sinagogas ajudassem Saulo em sua campanha contra os cristãos.
+- *Damasco*: Esta cidade fica no território da atual Síria. Acredita-se que ela esteja entre as cidades mais antigas do mundo ocupadas continuamente desde sua fundação. Quando o patriarca Abraão viajou em direção ao sul, para Canaã, ele talvez tenha passado por Damasco ou perto dali. Em algum momento, Eliézer, “um homem de Damasco”, se tornou servo de Abraão. (Gên 15:2) A Bíblia só volta a mencionar Damasco quase 1.000 anos depois. (Veja o Glossário, “Arã; Arameus”.) Naquela época, os sírios (arameus) estavam em guerra com Israel, e as duas nações se tornaram inimigas. (1Rs 11:23-25) No século 1 d.C., Damasco fazia parte da província romana da Síria. É possível que uns 20.000 judeus morassem na cidade, que tinha várias sinagogas. Saulo pode ter concentrado sua perseguição nos cristãos de Damasco porque várias rotas importantes de viagem passavam pela cidade e ele talvez tivesse medo de que isso ajudaria os ensinos cristãos a se espalhar rapidamente. — Veja o Apêndice B13.
+- *Caminho*: No livro de Atos, o termo “Caminho” é usado para se referir à congregação cristã daquela época e ao modo de vida cristão. Esse uso do termo talvez tenha vindo das palavras de Jesus em Jo 14:6: “Eu sou o caminho.” Os que se tornavam seguidores de Jesus seguiam o seu exemplo, andando no caminho que ele deixou e, por isso, se dizia que eles pertenciam ao “Caminho”. (At 19:9) Para Jesus, a coisa mais importante na vida era adorar o único Deus verdadeiro, Jeová. No caso dos cristãos, também passou a ser necessário ter fé em Jesus Cristo. Em algum momento depois de 44 d.C., na cidade de Antioquia da Síria, os discípulos de Jesus, “por direção divina, foram chamados de cristãos”. (At 11:26) Mas mesmo depois disso Lucas continuou a se referir à congregação como o “Caminho”. — At 19:23; 22:4; 24:22; veja as notas de estudo At 18:25; 19:23.
+====
+
+[[v44-9-3]]
+
+^<<v44-9-3,3>>^ Durante a viagem, quando ele se aproximava de Damasco, de repente brilhou em volta dele uma luz vinda do céu,
+
+[[v44-9-4]]
+
+^<<v44-9-4,4>>^ e ele caiu no chão e ouviu uma voz lhe dizer: “Saulo, Saulo, por que você me persegue?”
+
+[[v44-9-5]]
+
+^<<v44-9-5,5>>^ Ele perguntou: “Quem é o senhor?” Ele respondeu: “Eu sou Jesus, a quem você persegue.
+
+[[v44-9-6]]
+
+^<<v44-9-6,6>>^ Mas levante-se, entre na cidade, e lá dirão a você o que deve fazer.”
+
+[[v44-9-7]]
+
+^<<v44-9-7,7>>^ E os homens que viajavam com ele ficaram parados sem fala e realmente ouviram o som de uma voz, mas não viram ninguém.
+
+[TIP]
+====
+- *ouviram o som de uma voz*: Em At 22:6-11, Lucas registra as palavras do próprio Paulo sobre o que aconteceu na estrada a caminho de Damasco. Juntando o relato de At 22 com as informações que aparecem aqui, é possível entender melhor o que aconteceu. Nos dois casos aparece a mesma palavra grega, foné, que pode ser traduzida tanto como “som” quanto como “voz”. Mas há uma diferença gramatical no texto grego dos dois relatos. Aqui em At 9:7, a palavra foné está no caso genitivo e, por isso, foi traduzida como “som de uma voz”. Em At 22:9, ela está no caso acusativo e foi traduzida como “voz”. Assim, levando em conta os dois relatos, os homens que estavam com Paulo ouviram o som de uma voz, mas pelo visto ouviram sem entender o que estava sendo dito. Eles não ouviram a voz da mesma forma que Paulo ouviu. — At 26:14; veja a nota de estudo em At 22:9.
+====
+
+[[v44-9-8]]
+
+^<<v44-9-8,8>>^ Saulo então se levantou do chão, e, embora seus olhos estivessem abertos, não conseguia ver nada. De modo que o pegaram pela mão e o levaram a Damasco.
+
+[[v44-9-9]]
+
+^<<v44-9-9,9>>^ Ele não viu nada por três dias, e não comeu nem bebeu.
+
+[[v44-9-10]]
+
+^<<v44-9-10,10>>^ Em Damasco havia um discípulo chamado Ananias, e o Senhor lhe disse numa visão: “Ananias!” Ele respondeu: “Aqui estou, Senhor.”
+
+[[v44-9-11]]
+
+^<<v44-9-11,11>>^ O Senhor lhe disse: “Prepare-se e vá à rua chamada Direita; na casa de Judas, procure um homem chamado Saulo, de Tarso. Pois agora mesmo ele está orando
+
+[TIP]
+====
+- *à rua chamada Direita*: Esta rua de Damasco é a única rua mencionada por nome nas Escrituras Gregas Cristãs. No século 1 d.C., a cidade de Damasco era formada por ruas paralelas e transversais que se cruzavam lembrando o desenho de uma grade. Acredita-se que a rua mencionada aqui fosse a rua principal que atravessava a cidade de leste a oeste. Ela tinha cerca de 1,5 quilômetro de comprimento e 26 metros de largura, com espaço reservado para pedestres e, possivelmente, tinha colunas ao longo de sua extensão. Hoje, ainda existe uma rua principal que atravessa o que restou da antiga cidade romana, seguindo o mesmo trajeto da Via Recta, ou Rua Direita.
+====
+
+[[v44-9-12]]
+
+^<<v44-9-12,12>>^ e, numa visão, viu um homem chamado Ananias entrar e pôr as mãos sobre ele, para que recuperasse a vista.”
+
+[TIP]
+====
+- *numa visão*: Estas palavras aparecem em vários manuscritos muito antigos.
+====
+
+[[v44-9-13]]
+
+^<<v44-9-13,13>>^ Mas Ananias respondeu: “Senhor, eu ouvi muitos falarem desse homem, de todo o mal que ele fez aos seus santos em Jerusalém.
+
+[[v44-9-14]]
+
+^<<v44-9-14,14>>^ E aqui ele tem autoridade dada pelos principais sacerdotes para prender a todos os que invocam o nome do senhor.”
+
+[TIP]
+====
+- *prender*: Ou: “encarcerar”. Lit.: “acorrentar; pôr em correntes”. — Compare com Col 4:3.
+====
+
+[[v44-9-15]]
+
+^<<v44-9-15,15>>^ Mas o Senhor lhe disse: “Vá, porque esse homem é para mim um vaso escolhido^&#42;1^ para levar o meu nome às nações, bem como a reis e aos filhos de Israel.
+
+[NOTE]
+====
+. Ou: “uma ferramenta escolhida; um instrumento escolhido”.
+====
+
+[TIP]
+====
+- *aos filhos de Israel*: Ou: “ao povo de Israel; aos israelitas”. — Veja o Glossário, “Israel”.
+====
+
+[[v44-9-16]]
+
+^<<v44-9-16,16>>^ Pois eu mostrarei claramente a ele quantas coisas ele terá de sofrer pelo meu nome.”
+
+[[v44-9-17]]
+
+^<<v44-9-17,17>>^ Assim, Ananias foi; entrou na casa, pôs as mãos sobre ele e disse: “Saulo, irmão, o Senhor Jesus, que lhe apareceu na estrada por onde você vinha, me enviou para que você recupere a vista e fique cheio de espírito santo.”
+
+[[v44-9-18]]
+
+^<<v44-9-18,18>>^ Imediatamente caíram dos olhos dele o que pareciam escamas, e ele recuperou a vista. Ele então se levantou, foi batizado,
+
+[[v44-9-19]]
+
+^<<v44-9-19,19>>^ se alimentou e recuperou as forças.
+Ele ficou alguns dias com os discípulos em Damasco
+
+[[v44-9-20]]
+
+^<<v44-9-20,20>>^ e imediatamente, nas sinagogas, começou a pregar sobre Jesus, que ele é o Filho de Deus.
+
+[[v44-9-21]]
+
+^<<v44-9-21,21>>^ Mas todos os que o ouviam ficavam pasmados, e diziam: “Não é este o homem que perseguia ferozmente em Jerusalém os que invocavam esse nome? Ele não veio para cá com o objetivo de prendê-los e levá-los^&#42;1^ aos principais sacerdotes?”
+
+[NOTE]
+====
+. Lit.: “de levá-los acorrentados”.
+====
+
+[[v44-9-22]]
+
+^<<v44-9-22,22>>^ No entanto, Saulo se fortalecia cada vez mais e deixava perplexos os judeus que moravam em Damasco, ao provar de forma lógica que Jesus é o Cristo.
+
+[[v44-9-23]]
+
+^<<v44-9-23,23>>^ Então, depois de se passarem muitos dias, os judeus tramaram matá-lo.
+
+[[v44-9-24]]
+
+^<<v44-9-24,24>>^ No entanto, Saulo ficou sabendo dessa trama contra ele. Eles também vigiavam atentamente os portões, dia e noite, a fim de matá-lo.
+
+[[v44-9-25]]
+
+^<<v44-9-25,25>>^ De modo que seus discípulos o levaram e, de noite, o fizeram descer num cesto por uma abertura na muralha.
+
+[TIP]
+====
+- *num cesto*: Lucas usa aqui a palavra grega sfyrís. Essa mesma palavra foi usada nos Evangelhos de Mateus e de Marcos para se referir aos sete cestos usados para recolher as sobras quando Jesus alimentou uns 4.000 homens. (Veja a nota de estudo em Mt 15:37.) Ela passa a ideia de um cesto grande. Quando o próprio apóstolo Paulo contou aos cristãos em Corinto sobre sua fuga de Damasco, ele usou a palavra grega sargáne, que se refere a um “cesto de vime” ou a um cesto feito com cordas ou ramos entrelaçados. As duas palavras gregas podem ser corretamente usadas para se referir ao cesto grande usado nessa ocasião. — 2Co 11:32, 33 e a nota de estudo.
+====
+
+[[v44-9-26]]
+
+^<<v44-9-26,26>>^ Ao chegar a Jerusalém, ele tentou se juntar aos discípulos, mas todos estavam com medo dele, porque não acreditavam que fosse discípulo.
+
+[[v44-9-27]]
+
+^<<v44-9-27,27>>^ De modo que Barnabé foi ajudá-lo e o levou aos apóstolos; então lhes contou em detalhes como, na estrada, Saulo tinha visto o Senhor, como o Senhor tinha falado com ele, e como em Damasco Saulo havia falado corajosamente no nome de Jesus.
+
+[[v44-9-28]]
+
+^<<v44-9-28,28>>^ Então Saulo permaneceu com eles, andando livremente em Jerusalém e falando corajosamente no nome do Senhor.
+
+[TIP]
+====
+- *andando livremente*: Ou: “realizando as atividades do dia a dia”. Lit.: “entrando e saindo”. A expressão grega que foi usada aqui vem de uma expressão idiomática semítica que inclui a ideia de realizar livremente as atividades normais do dia a dia ou passar tempo com outros sem restrições. — Compare com as notas de rodapé em De 28:6, 19; Sal 121:8; veja a nota de estudo em At 1:21.
+====
+
+[[v44-9-29]]
+
+^<<v44-9-29,29>>^ Ele falava e discutia com os judeus de língua grega, mas estes tentavam matá-lo.
+
+[TIP]
+====
+- *os judeus de língua grega*: Lit.: “os helenistas”. Tudo indica que a palavra grega que aparece aqui se refere a judeus que usavam a língua grega para se comunicar, em vez do hebraico. É provável que esses judeus que estavam em Jerusalém fossem de diferentes partes do Império Romano. Embora essa palavra tenha sido usada em At 6:1 para se referir a cristãos, aqui em At 9:29 ela obviamente não se refere a discípulos de Cristo, como mostra o contexto. Na colina de Ofel, em Jerusalém, foi encontrada a Inscrição de Teódoto, que prova que muitos judeus que falavam grego iam a Jerusalém. — Veja a nota de estudo em At 6:1.
+====
+
+[[v44-9-30]]
+
+^<<v44-9-30,30>>^ Quando os irmãos descobriram isso, levaram-no para baixo, a Cesareia, e o enviaram a Tarso.
+
+[[v44-9-31]]
+
+^<<v44-9-31,31>>^ Então a congregação por toda a Judeia, Galileia e Samaria entrou num período de paz, e era edificada. E, como andava no temor de Jeová e no consolo do espírito santo, se multiplicava.
+
+[TIP]
+====
+- *temor de Jeová*: A expressão “temor de Jeová” ocorre muitas vezes nas Escrituras Hebraicas e é formada pela palavra hebraica para “temor” e o Tetragrama. (Algumas dessas ocorrências estão em 2Cr 19:7, 9; Sal 19:9; 111:10; Pr 2:5; 8:13; 9:10; 10:27; 19:23 e Is 11:2, 3.) Por outro lado, a expressão “temor do Senhor” não aparece nenhuma vez nas Escrituras Hebraicas. Os motivos que levaram a Tradução do Novo Mundo a usar a expressão “temor de Jeová” no texto principal deste versículo, apesar de a maioria dos manuscritos gregos de At 9:31 usarem “temor do Senhor”, são explicados nos Apêndices C1 e C3 (introdução e At 9:31).
+====
+
+[[v44-9-32]]
+
+^<<v44-9-32,32>>^ Visto que Pedro estava viajando por toda a região, desceu também para visitar os santos que moravam em Lida.
+
+[[v44-9-33]]
+
+^<<v44-9-33,33>>^ Ali ele encontrou um homem chamado Eneias, que já por oito anos estava confinado à cama, pois era paralítico.
+
+[[v44-9-34]]
+
+^<<v44-9-34,34>>^ Pedro lhe disse: “Eneias, Jesus Cristo cura você. Levante-se e arrume a sua cama.” Ele se levantou imediatamente.
+
+[[v44-9-35]]
+
+^<<v44-9-35,35>>^ Quando todos os que moravam em Lida e na planície de Sarom o viram, converteram-se ao Senhor.
+
+[[v44-9-36]]
+
+^<<v44-9-36,36>>^ Em Jope havia uma discípula chamada Tabita, nome que traduzido é Dorcas. Eram muitas as boas obras que ela fazia e a ajuda que dava aos pobres.
+
+[TIP]
+====
+- *Tabita*: Este nome aramaico significa “gazela” e, pelo visto, corresponde à palavra hebraica tseviyáh, que significa “fêmea de gazela”. (Cân 4:5; 7:3) O nome grego Dorcas também significa “gazela”. Jope era uma cidade portuária e tinha uma população mista de judeus e não judeus. Assim, pode ser que Tabita fosse conhecida pelos dois nomes e que usasse um ou outro, dependendo do idioma falado. Outra possibilidade é que Lucas tenha simplesmente traduzido o nome para ajudar os leitores não judeus.
+- *a ajuda que dava aos pobres*: Ou: “as suas dádivas de misericórdia”. — Veja o Glossário, “Dádivas de misericórdia”.
+====
+
+[[v44-9-37]]
+
+^<<v44-9-37,37>>^ Mas naqueles dias ela adoeceu e morreu. Então a lavaram e a colocaram numa sala do andar de cima.
+
+[[v44-9-38]]
+
+^<<v44-9-38,38>>^ Como Jope ficava perto de Lida, quando os discípulos ouviram que Pedro estava nesta cidade, enviaram a ele dois homens para lhe pedir: “Por favor, venha sem demora.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Por favor, não demore para vir”.
+====
+
+[[v44-9-39]]
+
+^<<v44-9-39,39>>^ Em vista disso, Pedro se aprontou e foi com eles. Ao chegar, levaram-no à sala do andar de cima, e todas as viúvas o rodearam, chorando e mostrando muitas capas e outras roupas que Dorcas havia feito enquanto estava com elas.
+
+[TIP]
+====
+- *capas*: Ou: “roupas exteriores”. A palavra grega que aparece aqui, himátion, muitas vezes se refere a um tecido retangular semelhante a uma manta. Mas, pelo visto, aqui ela se refere a um tipo de colete aberto e comprido.
+====
+
+[[v44-9-40]]
+
+^<<v44-9-40,40>>^ Pedro mandou então que todos saíssem e, ajoelhando-se, orou. Depois, virando-se para o corpo, disse: “Tabita, levante-se!” Ela abriu os olhos e, ao ver Pedro, se sentou.
+
+[TIP]
+====
+- *Tabita, levante-se!*: Pedro realizou a ressurreição de Tabita de um modo parecido com o modo em que Jesus ressuscitou a filha de Jairo. (Mr 5:38-42; Lu 8:51-55) Essa é a primeira ressureição feita por um apóstolo registrada na Bíblia. Por causa dessa ressurreição, muitos em Jope se tornaram cristãos. — At 9:39-42.
+====
+
+[[v44-9-41]]
+
+^<<v44-9-41,41>>^ Pegando-a pela mão, ele a levantou; então chamou os santos e as viúvas, e a apresentou viva.
+
+[[v44-9-42]]
+
+^<<v44-9-42,42>>^ Toda a cidade de Jope soube disso, e muitos se tornaram crentes no Senhor.
+
+[[v44-9-43]]
+
+^<<v44-9-43,43>>^ E ele ficou muitos dias em Jope, com um curtidor de couro chamado Simão.
+
+[TIP]
+====
+- *um curtidor de couro chamado Simão*: Veja a nota de estudo em At 10:6.
+====
+
+'''
+
+xref:044-atos/044-atos-008.adoc#v44-8-0[&#60; Capítulo Anterior] | <<v44-9-0,Topo>> | xref:044-atos/044-atos-010.adoc#v44-10-0[Próximo Capítulo &#62;]

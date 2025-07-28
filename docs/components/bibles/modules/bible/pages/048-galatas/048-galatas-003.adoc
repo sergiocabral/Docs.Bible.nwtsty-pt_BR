@@ -1,0 +1,279 @@
+include::./index.adoc[]
+
+[[v48-3-0]]
+=== Aos Gálatas, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* C. A PESSOA NÃO PODE SER DECLARADA JUSTA POR MEIO DAS OBRAS DA LEI, MAS APENAS POR MEIO DA FÉ EM CRISTO (2:15–4:20)
+* Se a justiça vem por meio de lei, Cristo morreu em vão (2:15-21)
+* Contraste entre as obras da Lei e a fé (3:1-14)
+* As promessas a Abraão não se baseiam na Lei (3:15-18)
+* O objetivo da Lei mosaica (3:19-25)
+* Não mais escravos, mas filhos de Deus (3:26–4:7)
+* Apelo de Paulo para que os gálatas não voltem a ser escravos das coisas fracas e mesquinhas (4:8-11)
+* Preocupação de Paulo com os cristãos da Galácia (4:12-20)
+****
+
+[[v48-3-1]]
+
+^<<v48-3-1,1>>^ Ó gálatas insensatos! Quem foi que sujeitou vocês a essa má influência, vocês que receberam uma explicação tão clara sobre a morte de Jesus Cristo na estaca?
+
+[TIP]
+====
+- *Ó gálatas insensatos!*: A palavra grega que foi traduzida aqui como “insensatos” é anóetos. Ela não se refere necessariamente a uma limitação mental. Um léxico explica que, neste contexto, ela passa a ideia de “alguém que não está disposto a usar sua capacidade mental para entender”. Paulo tinha acabado de lembrar aos cristãos da Galácia que eles tinham sido declarados justos por causa de sua fé em Jesus Cristo, e não por seguirem a Lei mosaica. (Gál 2:15-21) Eles tinham sido livrados por Jesus da condenação da Lei. (Veja a nota de estudo em Gál 2:21.) De forma tola, alguns gálatas estavam abrindo mão dessa preciosa liberdade para seguir uma lei que, além de ter se tornado obsoleta, só iria condená-los. (Gál 1:6) Assim, com as palavras “ó gálatas insensatos!”, Paulo estava repreendendo esses cristãos por seu retrocesso.
+- *gálatas*: Pelo visto, aqui Paulo está se referindo aos cristãos das congregações do sul da Galácia, onde ele tinha pregado. — Veja a nota de estudo em Gál 1:2.
+- *sujeitou vocês a essa má influência*: Lit.: “enfeitiçou vocês”. O verbo grego que aparece nesta expressão é baskaíno. Esta é a única ocorrência desse verbo nas Escrituras Gregas Cristãs. Ele às vezes era usado em sentido literal, passando a ideia de “enfeitiçar” ou “encantar”, e é assim que várias Bíblias em português traduzem baskaíno. Mas ele nem sempre se referia a usar poderes mágicos para enganar alguém. No grego antigo, esse verbo também era usado em sentido figurado, como Paulo faz aqui, passando a ideia de desencaminhar ou influenciar outros para o mal. Essa era uma forma impactante de descrever a má influência dos que estavam tentando desencaminhar os gálatas.
+====
+
+[[v48-3-2]]
+
+^<<v48-3-2,2>>^ Há uma coisa que eu quero lhes perguntar:^&#42;1^ Foi por meio de obras exigidas por lei que vocês receberam o espírito, ou foi por causa da fé no que ouviram?
+
+[NOTE]
+====
+. Lit.: “quero aprender de vocês”.
+====
+
+[[v48-3-3]]
+
+^<<v48-3-3,3>>^ Será que vocês são tão insensatos? Depois de terem começado num caminho espiritual, estão terminando num caminho carnal?
+
+[TIP]
+====
+- *Depois de terem começado num caminho espiritual*: Lit.: “Depois de terem começado em espírito”. No início, os cristãos da Galácia estavam crescendo espiritualmente, avançando no caminho da madureza espiritual. Eles agiam em harmonia com a orientação do espírito santo e aceitavam sua direção.
+- *estão terminando num caminho carnal?*: Lit.: “estão sendo completados na carne?” “Depois de terem começado num caminho espiritual”, os cristãos da Galácia passaram a ser influenciados por homens que não eram guiados pelo espírito de Deus, em especial os que diziam que os cristãos precisavam ser circuncidados e obedecer à Lei mosaica. (Gál 3:1; 5:2-6) Seguir esse “caminho carnal” não só impediria os gálatas de atingir a madureza espiritual, mas também poderia fazê-los perder a vida eterna. — Gál 6:8.
+====
+
+[[v48-3-4]]
+
+^<<v48-3-4,4>>^ Será que foi em vão que vocês sofreram tantas coisas? Tenho certeza de que não foi em vão!
+
+[[v48-3-5]]
+
+^<<v48-3-5,5>>^ Portanto, será que aquele que lhes fornece o espírito e realiza obras poderosas^&#42;1^ entre vocês faz isso por causa das suas obras exigidas por lei, ou por causa da sua fé no que ouviram?
+
+[NOTE]
+====
+. Ou: “realiza milagres”.
+====
+
+[[v48-3-6]]
+
+^<<v48-3-6,6>>^ É como aconteceu com Abraão: ele “depositou fé em Jeová, e isso lhe foi creditado como justiça”.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e foi considerado justo”.
+====
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Gên 15:6. No texto hebraico original de Gênesis, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). (Veja os Apêndices C1 e C2.) Os manuscritos gregos de Gálatas disponíveis hoje usam aqui a palavra Theós (“Deus”), talvez porque essa seja a palavra usada em cópias da Septuaginta em Gên 15:6. Isso pode explicar por que a maioria das traduções diz “Deus” aqui. Mas, visto que o Tetragrama aparece no texto hebraico do versículo citado por Paulo, o nome de Deus foi usado no texto principal. A mesma frase de Gên 15:6 também é citada em Ro 4:3 e Tg 2:23.
+====
+
+[[v48-3-7]]
+
+^<<v48-3-7,7>>^ Certamente vocês sabem que os que têm^&#42;1^ fé é que são filhos de Abraão.
+
+[NOTE]
+====
+. Ou: “aderem à”.
+====
+
+[TIP]
+====
+- *filhos de Abraão*: O pacto da circuncisão foi feito originalmente com Abraão. Pelo visto, alguns “falsos irmãos” estavam dizendo que os cristãos só poderiam ser considerados “filhos de Abraão” se seguissem a Lei. (Gál 2:4; 3:1, 2; Gên 17:10; veja o Glossário, “Circuncisão”.) Mas Paulo explica aqui que os verdadeiros “filhos de Abraão” são os que têm fé, ou seja, os que têm uma fé como a de Abraão. — Gál 3:9; veja a nota de estudo em Gál 3:29.
+====
+
+[[v48-3-8]]
+
+^<<v48-3-8,8>>^ Certa passagem das Escrituras, prevendo que Deus declararia justas pessoas das nações por meio da fé, declarou com antecedência as boas novas a Abraão, dizendo: “Por meio de você todas as nações serão abençoadas.”
+
+[[v48-3-9]]
+
+^<<v48-3-9,9>>^ Portanto, os que têm^&#42;1^ fé são abençoados junto com Abraão, que tinha fé.
+
+[NOTE]
+====
+. Ou: “aderem à”.
+====
+
+[TIP]
+====
+- *que tinha fé*: Neste versículo, a palavra grega pistós passa a ideia de alguém que confia, ou tem fé, em uma pessoa ou coisa. Mas ela também pode ser usada para se referir a alguém “fiel”. — Veja a nota de estudo em 2Co 6:15.
+====
+
+[[v48-3-10]]
+
+^<<v48-3-10,10>>^ Todos os que confiam em obras exigidas por lei estão sob maldição, pois está escrito: “Maldito é todo aquele que não continua em todas as coisas escritas no rolo da Lei, deixando de fazê-las.”
+
+[TIP]
+====
+- *está escrito*: “Maldito é todo aquele que”: Aqui, Paulo está citando De 27:26. Os judeus tinham concordado em seguir a Lei mosaica. (Êx 24:3) Quando fizeram isso, eles passaram a estar sujeitos às maldições mencionadas nela caso a desobedecessem. A palavra “maldito” (em grego, epikatáratos) passa a ideia de ser condenado por Deus. (Veja o Glossário, “Amaldiçoar; Maldição”.) Paulo mostra que todos os judeus precisavam ser resgatados, não apenas do pecado herdado de Adão, mas também da maldição da Lei. — Ro 5:12; Gál 3:10-13; veja a nota de estudo em Gál 3:13.
+====
+
+[[v48-3-11]]
+
+^<<v48-3-11,11>>^ Além disso, é evidente que por lei ninguém é declarado justo diante de Deus, pois “o justo viverá em razão da fé”.
+
+[TIP]
+====
+- *o justo viverá em razão da fé*: Aqui, Paulo cita Hab 2:4 para destacar que a base para os cristãos serem declarados justos é a fé em Cristo Jesus, e não as obras da Lei mosaica. — Ro 10:3, 4; veja as notas de estudo em Ro 1:17.
+====
+
+[[v48-3-12]]
+
+^<<v48-3-12,12>>^ Ora, a Lei não se baseia em fé. Em vez disso, “quem fizer estas coisas viverá por meio delas”.
+
+[[v48-3-13]]
+
+^<<v48-3-13,13>>^ Cristo nos comprou, livrando-nos da maldição da Lei por se tornar maldição em nosso lugar, pois está escrito: “Maldito é todo aquele pendurado num madeiro.”
+
+[TIP]
+====
+- *se tornar maldição em nosso lugar*: A Lei mosaica dizia que os que estavam debaixo do pacto da Lei e que não cumprissem seus mandamentos seriam amaldiçoados. (Veja a nota de estudo em Gál 3:10.) Neste versículo, Paulo está citando De 21:22, 23, que menciona a prática de pendurar num madeiro os cadáveres dos que eram ‘amaldiçoados por Deus’. Assim, para livrar os judeus, Jesus precisava ser pendurado num madeiro como um criminoso amaldiçoado. Ao fazer isso, ele assumiu a culpa dos judeus e a maldição da Lei. Sua morte tornou possível que qualquer judeu que exercesse fé nele como Messias fosse livrado dessa maldição. As palavras de Paulo aqui podem lembrar o que Jesus disse ao fariseu Nicodemos. — Veja a nota de estudo em Jo 3:14.
+- *num madeiro*: Veja a nota de estudo em At 5:30.
+====
+
+[[v48-3-14]]
+
+^<<v48-3-14,14>>^ Isso aconteceu para que a bênção de Abraão se estendesse às nações por meio de Cristo Jesus, a fim de que recebêssemos o espírito prometido por meio da nossa fé.
+
+[[v48-3-15]]
+
+^<<v48-3-15,15>>^ Irmãos, falo usando uma ilustração humana: uma vez que um pacto é validado, mesmo que por um simples homem, ninguém o anula nem faz acréscimos a ele.
+
+[TIP]
+====
+- *um pacto*: A palavra grega diathéke aparece 33 vezes nas Escrituras Gregas Cristãs, sempre com o sentido de “pacto” ou “acordo”. (Mt 26:28; Lu 22:20; 1Co 11:25; Gál 3:17; 4:24; He 8:6, 8; 10:16, 29; 12:24) Neste versículo, várias Bíblias traduzem diathéke como “testamento”. Mas, visto que no contexto Paulo está falando do pacto que Deus fez com Abraão (Gál 3:16-18), a tradução “pacto” faz sentido aqui também. — Veja a nota de estudo em Gál 3:17.
+====
+
+[[v48-3-16]]
+
+^<<v48-3-16,16>>^ Ora, as promessas foram feitas a Abraão e ao seu descendente. As Escrituras não dizem “e aos seus descendentes”, como se fossem muitos. Em vez disso, dizem “e ao seu descendente”, indicando um só, que é Cristo.
+
+[TIP]
+====
+- *as promessas foram feitas a Abraão e ao seu descendente*: Paulo foi inspirado a identificar Jesus Cristo como a parte principal do descendente de Abraão. (Quando a palavra grega spérma [lit.: “semente”] é usada com relação às promessas de Jeová sobre o Messias, ela muitas vezes é traduzida como “descendente; descendência”.) Depois da rebelião no Éden, Jeová prometeu que uma “mulher” geraria um “descendente” que esmagaria a cabeça da serpente, Satanás. (Gên 3:15) Quando Jeová fez seu pacto com Abraão, ele prometeu que o descendente de Abraão traria bênçãos para humanidade. (Gên 12:1-3, 7; 13:14, 15; 17:7; 22:15-18; 24:7; Gál 3:8) Mais tarde, Deus revelou que o descendente viria por meio do rei Davi, da tribo de Judá; isso se cumpriu em Jesus. (Gên 49:10; Sal 89:3, 4; Lu 1:30-33; veja a nota de estudo em descendentes . . . descendente neste versículo.) Em Gál 3:26-29, Paulo indica que, no cumprimento espiritual da promessa de Deus a Abraão, o descendente de Abraão teria uma parte secundária. — Veja a nota de estudo em Gál 3:29.
+- *As Escrituras não dizem*: Ou, possivelmente: “Ele não diz”. Em grego, o sujeito do verbo está oculto e, por isso, o texto grego pode ser entendido de duas formas: 1) “As Escrituras não dizem”, se referindo ao texto que Paulo cita, ou 2) “Ele não diz”, se referindo a Deus.
+- *descendentes . . . descendente*: Lit.: “sementes . . . semente”. Aqui, Paulo está falando das promessas que Deus fez a Abraão e a seu “descendente”. (Gên 12:7; 13:14, 15; 17:7; 22:17, 18; 24:7) Nos textos que falam dessas promessas, tanto a palavra grega como a hebraica para “descendente” (lit.: “semente”) aparecem no singular, mas elas com frequência se referem a um descendente coletivo, uma descendência. Neste versículo, Paulo faz um contraste entre o plural da palavra grega spérma (traduzida como “descendentes”) e o seu singular (traduzida como “descendente”). Ele destaca essa diferença para mostrar que, quando Deus falou das bênçãos que viriam por meio do descendente de Abraão, Deus estava se referindo primariamente a uma pessoa, Cristo. Quando prometeu a Abraão que todas as famílias da Terra seriam abençoadas por meio de seu “descendente”, Deus não estava dizendo que todos os descendentes de Abraão seriam usados para abençoar a humanidade. Uma prova disso é que nem os descendentes do primeiro filho de Abraão, Ismael, nem os dos filhos de Abraão com Quetura foram usados para cumprir a promessa. Deus primeiro determinou que o descendente viria por meio de Isaque (Gên 21:12; He 11:18); depois, dentre os filhos de Isaque, ele escolheu Jacó (Gên 28:13, 14); depois, a tribo de Judá (Gên 49:10) e, finalmente, a linhagem de Davi (2Sa 7:12-16). Foi exatamente dessa linhagem da família de Abraão que Jesus veio. (Mt 1:1-16; Lu 3:23-34) Embora os judeus do século 1 d.C. pensassem que eles, como descendentes literais de Abraão, fossem o povo favorecido de Deus e, por consequência, filhos de Deus (Jo 8:39-41), eles estavam aguardando a vinda de uma única pessoa como Messias, ou Cristo, para livrá-los. — Lu 3:15; Jo 1:25; 7:41, 42.
+====
+
+[[v48-3-17]]
+
+^<<v48-3-17,17>>^ Além disso, digo o seguinte: A Lei, que veio à existência 430 anos depois, não invalida o pacto anteriormente feito por Deus, de modo a anular a promessa.
+
+[TIP]
+====
+- *430 anos*: Aqui, Paulo está se referindo ao tempo que se passou entre o início do pacto com Abraão e o início do pacto da Lei mosaica. Pelo visto, o pacto com Abraão entrou em vigor em 1943 a.C., quando ele e sua família atravessaram o rio Eufrates a caminho de Canaã, a terra que Deus tinha prometido dar aos descendentes dele. (Gên 12:4, 5, 7) Tudo indica que isso aconteceu no dia 14 do mês que mais tarde ficou conhecido como nisã, já que Êx 12:41 diz que Jeová libertou seu povo da escravidão no Egito “no dia em que se completaram os 430 anos”, ou seja, em 14 de nisã de 1513 a.C. Naquele mesmo ano, o pacto da Lei entrou em vigor.
+- *o pacto*: Ou: “o acordo”. (Veja a nota de estudo em Gál 3:15 e o Glossário, “Pacto”.) Os cristãos do século 1 d.C. estavam acostumados a ver a palavra grega diathéke (“pacto”) ser usada na Septuaginta como tradução da palavra hebraica beríth. Nas Escrituras Hebraicas, beríth aparece mais de 250 vezes com o sentido de “pacto” ou “acordo”. — Êx 24:7, 8; Sal 25:10; 83:5, nota de rodapé; veja a nota de estudo em 2Co 3:14.
+- *o pacto anteriormente feito por Deus*: Estas palavras se referem ao pacto que Deus fez com Abraão. Esse pacto, pelo visto, entrou em vigor em 1943 a.C., quando Abraão atravessou o rio Eufrates. (Gên 12:1-7) O pacto da Lei, feito 430 anos depois, em 1513 a.C., não invalidou, ou anulou, o pacto abraâmico; na verdade, foi acrescentado a ele. O pacto da Lei serviu para conduzir as pessoas ao descendente prometido de Abraão, Jesus Cristo. — Gál 3:15, 16; veja a nota de estudo em Gál 3:24.
+====
+
+[[v48-3-18]]
+
+^<<v48-3-18,18>>^ Pois, se a herança se baseia numa lei, não se baseia mais numa promessa; mas Deus a deu bondosamente a Abraão por meio de uma promessa.
+
+[[v48-3-19]]
+
+^<<v48-3-19,19>>^ Por que, então, a Lei? Ela foi acrescentada para tornar conhecidas as transgressões, até que chegasse o descendente a quem a promessa havia sido feita; e ela foi transmitida por meio de anjos, pela mão de um mediador.
+
+[TIP]
+====
+- *foi acrescentada*: A palavra grega que aparece aqui pelo visto foi usada por Paulo para destacar a natureza temporária da Lei mosaica, especialmente quando comparada com a duração do pacto que Deus fez com Abraão e seu cumprimento com relação ao “descendente” prometido. — Gên 3:15; 22:18; Gál 3:29.
+- *para tornar conhecidas as transgressões*: Aqui, Paulo mostra que um dos principais objetivos da Lei mosaica era “tornar conhecidas as transgressões”, deixando claro que tanto Israel como o restante da humanidade eram pecadores aos olhos de Deus. (Para uma explicação sobre a palavra grega para “transgressão”, veja a nota de estudo em Ro 4:15.) A Lei deixava claro o que Deus considerava pecado, alistando como pecados diversas ações e até mesmo maneiras de pensar que antes talvez não fossem vistas assim. Por isso, o apóstolo Paulo podia dizer que a Lei fez com que as falhas e o pecado “se multiplicassem”. (Ro 5:20; 7:7-11; veja a nota de estudo em 1Co 15:56; compare com o Sal 40:12.) Todos os que tentavam seguir a Lei acabavam sendo condenados por ela. A Lei mostrava que eles eram pecadores, e os sacrifícios exigidos por ela eram um lembrete constante disso. (He 10:1-4, 11) Os humanos precisavam de um sacrifício perfeito, capaz de cobrir completamente seus pecados. — Ro 10:4; veja a nota de estudo em o descendente neste versículo.
+- *até que*: O fato de Paulo ter usado aqui a expressão “até que” indica que a Lei não foi criada para durar para sempre. Depois de cumprir seu propósito, o pacto da Lei perdeu a validade. — Ro 7:6; Gál 3:24, 25.
+- *o descendente*: Lit.: “a semente”. Neste contexto, a expressão “o descendente” se refere a Jesus Cristo. — Veja as notas de estudo em Gál 3:16.
+- *transmitida por meio de anjos*: As Escrituras Hebraicas não dizem especificamente que o pacto da Lei foi transmitido por meio de anjos. Mas as declarações inspiradas encontradas aqui, em At 7:53 (veja a nota de estudo) e em He 2:2, 3 deixam isso claro. Pelo visto, Jeová autorizou anjos a falarem com Moisés como seus representantes e depois a darem a ele as duas tábuas do Testemunho. (Êx 19:9, 11, 18-20; 24:12; 31:18) Mesmo assim, o verdadeiro Legislador por trás da Lei era Jeová; ele escolheu Moisés para ser o mediador de seu pacto com Israel.
+- *um mediador*: O mediador mencionado aqui foi Moisés. Ele agiu como intermediário entre Jeová e a nação de Israel quando o pacto, ou acordo legal, entre eles foi feito. (Veja o Glossário, “Mediador”.) A palavra grega mesítes (“mediador”) aparece seis vezes nas Escrituras Gregas Cristãs. (Gál 3:19, 20; 1Ti 2:5; He 8:6; 9:15; 12:24) Ela é um termo jurídico. De acordo com um léxico, ela se refere a “alguém que age entre duas partes, seja para estabelecer ou restaurar a paz e a amizade seja para criar um acordo ou validar um pacto”. Como mediador do pacto da Lei, Moisés ajudou Israel a cumprir sua parte no pacto e a receber os benefícios dele. Por exemplo, Moisés realizou a cerimônia de inauguração do pacto. (Êx 24:3-8; He 9:18-22) Ele também fez a ordenação dos sacerdotes e deu início aos trabalhos deles. (Le 8:1-36; He 7:11) Além disso, Moisés transmitiu aos israelitas as mais de 600 leis que faziam parte do pacto e, em mais de uma ocasião, suplicou a Jeová para que ele não os destruísse. — Núm 16:20-22; 21:7; De 9:18-20, 25-29.
+====
+
+[[v48-3-20]]
+
+^<<v48-3-20,20>>^ Ora, não há mediador quando apenas uma pessoa está envolvida, mas Deus é apenas um.
+
+[TIP]
+====
+- *não há mediador quando apenas uma pessoa está envolvida*: Aqui, Paulo está falando do pacto que Jeová fez com Abraão. Esse pacto era, na verdade, uma promessa, já que Jeová não estabeleceu nenhuma condição que Abraão precisasse cumprir. Cabia apenas a Jeová fazer a parte dele. (Gál 3:18) O pacto da Lei, por outro lado, envolvia duas partes (Jeová e a nação de Israel) e tinha Moisés como mediador. (Veja a nota de estudo em Gál 3:19.) Os israelitas concordaram com os termos do pacto e fizeram uma promessa solene de obedecer à Lei. — Êx 24:3-8; Gál 3:17, 19; veja o Glossário “Pacto”.
+- *Deus é apenas um*: Aqui, os manuscritos gregos dizem “Deus”, mas algumas poucas traduções das Escrituras Gregas Cristãs para o hebraico e para outros idiomas usam o nome de Deus. Esta declaração de Paulo faz lembrar as palavras de De 6:4, que diz: “Jeová, nosso Deus, é um só Jeová.” Esse mesmo versículo de Deuteronômio foi citado por Jesus, conforme registrado em Mr 12:29. (Veja as notas de estudo.) Paulo também faz referência a De 6:4 em Ro 3:30 e 1Co 8:4.
+====
+
+[[v48-3-21]]
+
+^<<v48-3-21,21>>^ Será que a Lei, então, é contra as promessas de Deus? De modo algum! Pois, se tivesse sido dada uma lei que fosse capaz de dar vida, a justiça teria realmente vindo por meio de lei.
+
+[[v48-3-22]]
+
+^<<v48-3-22,22>>^ Mas as Escrituras entregaram tudo à custódia do pecado, para que a promessa resultante da fé em Jesus Cristo fosse dada aos que exercessem fé.
+
+[TIP]
+====
+- *custódia do pecado*: O verbo grego traduzido como “entregar à custódia de” significa “fechar junto; cercar” e passa a ideia de que há pouca ou nenhuma chance de escapar. Ele às vezes era usado em sentido literal para se referir a apanhar peixes em uma rede. (Lu 5:6) Assim, ele descreve muito bem a condição dos humanos imperfeitos, que estão como que presos pelo pecado. Paulo diz aqui que “as Escrituras entregaram tudo”, ou seja, todos os descendentes de Adão e Eva, “à custódia do pecado”. A Lei, que faz parte das Escrituras, deixava claro o quanto cada humano era pecador aos olhos de Deus. (Veja a nota de estudo em Gál 3:19.) A única esperança de alguém conseguir escapar dessa terrível condição era Cristo.
+====
+
+[[v48-3-23]]
+
+^<<v48-3-23,23>>^ No entanto, antes de chegar a fé, estávamos sendo guardados debaixo de lei, entregues à custódia, aguardando a fé que estava para ser revelada.
+
+[TIP]
+====
+- *antes de chegar a fé*: Ou seja, a fé em Jesus Cristo.
+- *entregues à custódia*: O verbo grego para “entregar à custódia de” também foi usado no versículo anterior, onde Paulo diz que os humanos foram entregues “à custódia do pecado”. (Veja a nota de estudo em Gál 3:22.) Mas aqui ele usa esse verbo para destacar outro ponto. Os israelitas estavam sendo guardados pela Lei mosaica, e essa Lei os guiou até “a fé [em Cristo] que estava para ser revelada”.
+====
+
+[[v48-3-24]]
+
+^<<v48-3-24,24>>^ A Lei, portanto, tornou-se o nosso tutor, conduzindo a Cristo, para que fôssemos declarados justos por meio da fé.
+
+[TIP]
+====
+- *o nosso tutor, conduzindo a Cristo*: A palavra grega para “tutor” é paidagogós. Ela significa literalmente “guia de criança” e também poderia ser traduzida como “guardião”. Essa palavra aparece apenas neste versículo, no versículo 25 e em 1Co 4:15, onde Paulo compara ministros cristãos a tutores. (Veja a nota de estudo em 1Co 4:15.) Aqui, Paulo cria um belo quadro mental ao chamar a Lei mosaica de tutor. Nos tempos antigos, o tutor de um menino o acompanhava todos os dias até a escola. Ele não era o professor do menino; em vez disso, ele era o responsável por protegê-lo, por ajudá-lo a seguir os padrões de conduta determinados pela família e por discipliná-lo. De forma parecida, a Lei mosaica tinha defendido os padrões de Deus e ajudado os israelitas a ver o quanto eram pecadores, incapazes de seguir a Lei de Deus de forma perfeita. Aqueles que foram humildes e deixaram que esse “tutor” os guiasse entenderam que precisavam do Messias, ou Cristo, o único meio de salvação dado por Deus. — At 4:12.
+====
+
+[[v48-3-25]]
+
+^<<v48-3-25,25>>^ Mas, agora que chegou a fé, não estamos mais debaixo de um tutor.
+
+[TIP]
+====
+- *agora que chegou a fé*: Jesus Cristo foi a única pessoa capaz de cumprir a Lei de forma perfeita. E foi só depois de Cristo ter vindo que muitas coisas escritas na Bíblia puderam ser entendidas. Por isso, Paulo podia dizer que a fé, ou seja, a fé perfeita, tinha chegado. Além disso, por cumprir a Lei, Jesus deu a seus seguidores a oportunidade de ter a aprovação de Deus. Dessa forma, ele se tornou o “Aperfeiçoador da nossa fé”. (He 12:2) Já que Jesus prometeu que estaria com seus discípulos “todos os dias, até o final do sistema de coisas” (Mt 28:20), não era necessário que eles voltassem a estar debaixo de um tutor. (Veja a nota de estudo em Gál 3:24.) Ao dar essa explicação, Paulo mostra de forma clara que, com a chegada da fé perfeita que se baseia em Jesus Cristo, a Lei mosaica se tornou obsoleta.
+====
+
+[[v48-3-26]]
+
+^<<v48-3-26,26>>^ Todos vocês são, de fato, filhos de Deus, por meio da sua fé em Cristo Jesus.
+
+[[v48-3-27]]
+
+^<<v48-3-27,27>>^ Pois todos vocês, que foram batizados em Cristo, se revestiram de Cristo.
+
+[TIP]
+====
+- *batizados em Cristo*: Esta expressão indica que, quando um cristão é ungido, ou batizado com espírito santo, ele entra em um relacionamento especial com Jesus Cristo, seu Senhor. Ele passa a fazer parte da congregação de cristãos ungidos, que na Bíblia é chamada de “um só corpo”; Cristo é a cabeça desse corpo. (1Co 12:13; Mr 1:8; At 1:5; Ap 20:6; veja a nota de estudo em Ro 6:3.) Em 1Co 10:2, Paulo usou essa mesma ideia de pessoas serem ‘batizadas em’ um líder ou libertador. — Veja a nota de estudo em 1Co 10:2.
+- *se revestiram de Cristo*: Ou: “vestiram Cristo”. O mesmo verbo grego traduzido neste versículo como “se revestir de” também foi usado em Col 3:10, 12. Um léxico explica que a expressão que Paulo usa aqui significa “ser tomado de tal forma pela mente de Cristo que se passa a pensar, sentir e agir como ele, como que reproduzindo a vida que ele levou”. Em sua carta aos romanos, Paulo usou esse mesmo verbo grego em uma expressão parecida. — Veja a nota de estudo em Ro 13:14.
+====
+
+[[v48-3-28]]
+
+^<<v48-3-28,28>>^ Não há nem judeu nem grego, nem escravo nem homem livre, nem homem nem mulher; pois todos vocês são um só em união com Cristo Jesus.
+
+[TIP]
+====
+- *nem judeu nem grego*: Aqui, a palavra “judeu” se refere especificamente aos que eram descendentes biológicos de judeus, os israelitas. (Veja o Glossário, “Judeu”.) Por outro lado, a palavra “grego” pelo visto foi usada com um sentido amplo para se referir a todos os povos não judeus. (Veja a nota de estudo em Ro 1:16.) Assim, Paulo estava destacando que, para Deus, o fato de alguém ser ou não descendente biológico de Abraão não era mais o que definia se ele fazia parte da “descendência de Abraão”. Como Paulo mostra, a raça e a nacionalidade da pessoa não importam entre o povo de Deus, porque todos “são um só”. (Gál 3:26-29; Col 3:11) Deus mostrou sua imparcialidade por escolher uma nova nação, “o Israel de Deus”, que é formada tanto por judeus como por não judeus. (Ef 2:11-18; veja a nota de estudo em Gál 6:16.) Era apropriado Paulo destacar essa verdade para os cristãos da província da Galácia, já que ali havia uma mistura de judeus, gregos, romanos e nativos.
+- *nem escravo nem homem livre*: Um “escravo” era alguém que pertencia a outra pessoa. Por outro lado, um “homem livre” era alguém que tinha nascido livre e que possuía plenos direitos de cidadania. (Veja o Glossário, “Livre; Liberto”.) Do ponto de vista de Deus, não existia nenhuma diferença entre um cristão que era escravo e um que era “homem livre”. Todos os cristãos tinham sido comprados com o sangue precioso de Jesus e eram escravos dele e de Deus. — 1Co 7:22 (veja a nota de estudo), 23; 1Pe 1:18, 19; 2:16.
+====
+
+[[v48-3-29]]
+
+^<<v48-3-29,29>>^ Além disso, se vocês pertencem a Cristo, são realmente a descendência de Abraão, herdeiros segundo uma promessa.
+
+[TIP]
+====
+- *são realmente a descendência de Abraão*: A parte principal do descendente de Abraão é Cristo. (Gên 22:17; veja a nota de estudo em Gál 3:16.) As palavras de Paulo aqui indicam que outras pessoas, que “pertencem a Cristo”, foram acrescentadas como uma parte secundária da “descendência de Abraão” (lit.: “semente de Abraão”). (Mr 9:41; 1Co 15:23) Essa parte secundária é formada por 144.000 cristãos ungidos com espírito santo. (Ap 5:9, 10; 14:1, 4) Alguns deles são judeus, mas a maioria não é. — At 3:25, 26; Gál 3:8, 9, 28.
+====
+
+'''
+
+xref:048-galatas/048-galatas-002.adoc#v48-2-0[&#60; Capítulo Anterior] | <<v48-3-0,Topo>> | xref:048-galatas/048-galatas-004.adoc#v48-4-0[Próximo Capítulo &#62;]

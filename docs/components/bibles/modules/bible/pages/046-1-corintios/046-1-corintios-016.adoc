@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v46-16-0]]
+=== A Primeira aos Coríntios, 16
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. COMENTÁRIOS FINAIS (16:1-24)
+* Coleta para os cristãos de Jerusalém (16:1-4)
+* Planos de viagem de Paulo (16:5-9)
+* Visitas futuras de Timóteo e de Apolo (16:10-12)
+* Exortações e saudações (16:13-24)
+****
+
+[[v46-16-1]]
+
+^<<v46-16-1,1>>^ Agora, quanto à coleta para os santos, vocês podem seguir as orientações que dei às congregações da Galácia.
+
+[TIP]
+====
+- *à coleta*: A palavra grega logía, traduzida aqui como “coleta”, aparece apenas duas vezes na Bíblia: aqui e em 1Co 16:2. O contexto e a escolha de palavras de Paulo indicam que essa era uma coleta de dinheiro, não de alimentos ou roupas. O fato de Paulo se referir a ela como ‘a coleta’ mostra que ele estava falando de uma coleta específica que já era do conhecimento dos coríntios. Tudo indica que o objetivo principal dessa coleta era ajudar os cristãos da Judeia, que estavam passando necessidade. — 1Co 16:3; Gál 2:10.
+====
+
+[[v46-16-2]]
+
+^<<v46-16-2,2>>^ Todo primeiro dia da semana, cada um de vocês deve pôr algo à parte, conforme os seus recursos, para que as coletas não sejam feitas quando eu chegar.
+
+[TIP]
+====
+- *Todo primeiro dia da semana*: Aqui, Paulo provavelmente está se referindo ao dia que vinha depois do sábado judaico. Ao pedir que, logo no início da semana, cada cristão em Corinto pusesse algo à parte para os necessitados, Paulo estava mostrando que eles deviam encarar esse assunto como uma prioridade. Cada cristão faria sua doação em particular, de acordo com seus recursos. (1Co 16:1) Paulo não estava dizendo, como alguns sugerem, que o domingo deveria se tornar um dia especial para os cristãos, assim como o sábado era para os judeus. — Col 2:16, 17.
+====
+
+[[v46-16-3]]
+
+^<<v46-16-3,3>>^ Mas, quando eu chegar aí, enviarei a Jerusalém os homens que vocês aprovarem por cartas, para que levem a bondosa dádiva de vocês.
+
+[TIP]
+====
+- *enviarei a Jerusalém os homens . . . para que levem a bondosa dádiva de vocês*: Por volta de 55 d.C., os cristãos na Judeia estavam passando necessidade. Por isso, Paulo supervisionou uma coleta entre as congregações da Galácia, da Macedônia e da Acaia para enviar ajuda financeira para aqueles irmãos. (1Co 16:1, 2; 2Co 8:1, 4; 9:1, 2) Em 56 d.C., quando Paulo partiu em sua longa viagem para entregar essa ajuda em Jerusalém, diversos irmãos o acompanharam. Várias congregações tinham doado o dinheiro que eles estavam levando e é possível que cada uma delas tenha enviado representantes para acompanhar Paulo. (At 20:3, 4; Ro 15:25, 26) Pode ser que fosse necessário viajar em um grupo grande por motivos de segurança, já que poderia haver ladrões no caminho. (2Co 11:26) Visto que apenas homens que tinham sido aprovados para essa tarefa estavam acompanhando Paulo, não havia nenhum motivo para suspeitar que o dinheiro pudesse ser desviado. Os irmãos podiam ter certeza que seus donativos seriam bem usados. — 2Co 8:20.
+====
+
+[[v46-16-4]]
+
+^<<v46-16-4,4>>^ No entanto, se parecer apropriado que eu também vá para lá, eles irão comigo.
+
+[[v46-16-5]]
+
+^<<v46-16-5,5>>^ Mas vou visitar vocês depois de ter passado pela Macedônia, pois vou passar pela Macedônia;
+
+[TIP]
+====
+- *Macedônia*: Veja o Glossário, “Macedônia”, e o Apêndice B13.
+====
+
+[[v46-16-6]]
+
+^<<v46-16-6,6>>^ e talvez fique algum tempo com vocês, ou até passe o inverno aí, para que depois vocês me acompanhem parte do caminho para onde eu for.
+
+[[v46-16-7]]
+
+^<<v46-16-7,7>>^ Pois não quero agora vê-los só de passagem; espero passar algum tempo com vocês, se Jeová permitir.
+
+[TIP]
+====
+- *se Jeová permitir*: Esta e outras expressões parecidas usadas nas Escrituras Gregas Cristãs mostram que é necessário levar em conta a vontade de Deus ao planejar ou fazer qualquer coisa. — He 6:3; Tg 4:15; veja a nota de estudo em 1Co 4:19; para uma explicação sobre os motivos de o nome de Deus ter sido usado nesta expressão, veja o Apêndice C3 ( introdução e 1Co 16:7).
+====
+
+[[v46-16-8]]
+
+^<<v46-16-8,8>>^ No entanto, vou permanecer em Éfeso até a Festividade de Pentecostes,
+
+[TIP]
+====
+- *vou permanecer em Éfeso*: Estas palavras de Paulo são uma forte evidência de que ele escreveu esta carta em Éfeso. Algo que também apoia essa conclusão é o fato de que, em 1Co 16:19, Paulo inclui as saudações de Áquila e Prisca (Priscila). De acordo com At 18:18, 19, esse casal tinha se mudado de Corinto para Éfeso.
+- *a Festividade de Pentecostes*: Veja o Glossário, “Pentecostes”, e o Apêndice B15.
+====
+
+[[v46-16-9]]
+
+^<<v46-16-9,9>>^ porque me foi aberta uma porta ampla para atividade, mas há muitos opositores.
+
+[TIP]
+====
+- *uma porta ampla para atividade*: Esta é uma das três vezes que Paulo usa a palavra “porta” em sentido figurado. (2Co 2:12; Col 4:3; veja a nota de estudo em At 14:27.) As atividades de Paulo em Éfeso tiveram um grande impacto na obra de pregação em toda aquela região. Ele passou uns três anos em Éfeso (cerca de 52-55 d.C.) e, como resultado, as boas novas do Reino se espalharam por toda a província romana da Ásia. (At 19:10, 26; veja o Glossário, “Ásia”.) Tudo indica que Paulo não visitou pessoalmente as cidades de Colossos, Laodiceia e Hierápolis, que ficavam no interior. Mesmo assim, essas cidades ouviram as boas novas. Pode ser que Paulo tenha enviado Epafras para pregar ali. (Col 4:12, 13) Também pode ter sido nessa época de grande atividade que as boas novas chegaram em Filadélfia, Tiatira e Sardes.
+====
+
+[[v46-16-10]]
+
+^<<v46-16-10,10>>^ Se Timóteo chegar aí, tomem providências para que ele não tenha nada a temer enquanto estiver entre vocês, pois ele está realizando a obra de Jeová, assim como eu.
+
+[TIP]
+====
+- *a obra de Jeová*: Aqui, Paulo está se referindo à obra, ou ministério, que Deus tinha dado a ele e a Timóteo. Como Paulo diz em 1Co 3:9, os cristãos têm o privilégio de serem “colaboradores de Deus”. — Para uma explicação sobre os motivos de o nome de Deus ter sido usado nesta expressão, veja o Apêndice C3 (introdução e 1Co 16:10).
+====
+
+[[v46-16-11]]
+
+^<<v46-16-11,11>>^ Portanto, que ninguém o menospreze. Encaminhem-no em paz em sua viagem, para que ele venha me encontrar, pois estou esperando por ele junto com os irmãos.
+
+[[v46-16-12]]
+
+^<<v46-16-12,12>>^ Quanto a Apolo, nosso irmão, insisti muito que ele fosse visitar vocês com os irmãos. Ele não tem intenção de ir agora, mas irá quando tiver oportunidade.
+
+[TIP]
+====
+- *Quanto a Apolo, nosso irmão*: Pelo visto, quando Paulo escreveu 1 Coríntios, Apolo também estava em Éfeso ou perto dali. Apolo já tinha pregado em Corinto (At 18:24–19:1a) e os irmãos ali tinham grande admiração por ele. Apesar de Paulo ter insistido para Apolo visitar a congregação em Corinto, Apolo preferiu não ir naquele momento. Ele talvez estivesse com medo de aumentar as divisões que já existiam na congregação (1Co 1:10-12), ou pode ser que ele ainda tivesse trabalho para fazer onde estava. De qualquer forma, as palavras de Paulo “Apolo, nosso irmão” mostram que, ao contrário do que alguns comentaristas bíblicos sugerem, esses dois missionários zelosos não tinham permitido que as divisões na congregação afetassem a união entre eles. — 1Co 3:4-9, 21-23; 4:6, 7.
+- *com os irmãos*: Alguns sugerem que os “irmãos” mencionados aqui sejam Estéfanas, Fortunato e Acaico, que visitaram Paulo em Éfeso. (1Co 16:17, 18) É possível que Paulo tenha pedido para eles levarem esta carta aos coríntios.
+====
+
+[[v46-16-13]]
+
+^<<v46-16-13,13>>^ Fiquem despertos, mantenham-se firmes na fé, sejam corajosos, tornem-se poderosos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “sejam (tornem-se) fortes”.
+====
+
+[TIP]
+====
+- *sejam corajosos*: Lit.: “ajam como homens”. O verbo grego que aparece aqui, andrízomai, vem do substantivo anér, que significa “homem; pessoa do sexo masculino”. Apesar de seu sentido literal ser o de “agir como homem”, a ideia principal que ele passa é a de ser corajoso. Visto que Paulo escreveu estas palavras para toda a congregação em Corinto, o incentivo que ele deu também se aplicava às mulheres. Embora aqui Paulo incentive os cristãos a serem como homens corajosos, em 1Te 2:7 ele descreve a si mesmo e a seus companheiros como “meigos” e diz que eles cuidavam da congregação como uma “mãe que amamenta”. Esta é a única vez que o verbo andrízomai aparece nas Escrituras Gregas Cristãs. Mas ele foi usado mais de 20 vezes na Septuaginta para traduzir expressões hebraicas que significam “ser corajoso; ser forte”. Por exemplo, ele aparece três vezes em De 31:6, 7, 23, onde Moisés diz ao povo e a Josué para ‘serem corajosos’. Ele também foi usado três vezes em Jos 1:6, 7, 9, onde Jeová diz a Josué: “Seja . . . forte”.
+====
+
+[[v46-16-14]]
+
+^<<v46-16-14,14>>^ Que tudo que vocês fizerem seja com amor.
+
+[[v46-16-15]]
+
+^<<v46-16-15,15>>^ Tenho uma exortação a dar a vocês, irmãos: vocês sabem que os da casa de Estéfanas são os primeiros frutos da Acaia e que eles se dedicaram a servir os santos.
+
+[TIP]
+====
+- *Tenho uma exortação a dar*: Ou: “Tenho um pedido a fazer”. — Para uma explicação sobre o verbo grego que aparece aqui, parakaléo, veja a nota de estudo em Ro 12:8.
+- *Acaia*: Veja a nota de estudo em At 18:12.
+====
+
+[[v46-16-16]]
+
+^<<v46-16-16,16>>^ Que vocês também se sujeitem a pessoas como eles e a todos os que cooperam e trabalham arduamente.
+
+[[v46-16-17]]
+
+^<<v46-16-17,17>>^ Mas eu me alegro com a presença de Estéfanas, de Fortunato e de Acaico, porque compensaram a ausência de vocês aqui.
+
+[TIP]
+====
+- *a presença de*: Aqui, ao falar que três cristãos estavam com ele, Paulo usa a palavra grega parousía. Essa palavra é usada com um sentido parecido outras cinco vezes nas Escrituras Gregas Cristãs. (2Co 7:6, 7; 10:10; Fil 1:26; 2:12) Ela também é usada em contextos que falam da presença invisível de Jesus Cristo. (Mt 24:3; 1Co 15:23) O fato de parousía poder se referir a uma presença invisível pode ser visto nos escritos gregos do historiador judeu Josefo, que usou essa palavra ao falar sobre a presença de Deus no monte Sinai. Embora a presença de Deus tenha sido invisível, os trovões e relâmpagos deixaram claro que ele estava presente. (Jewish Antiquities, III, 80 [v, 2]) Em 1Co 5:3, Paulo usa o verbo relacionado páreimi (“estar presente”) quando fala sobre estar “presente em espírito”, apesar de “ausente em corpo”. Muitas Bíblias traduzem parousía aqui como “chegada” ou “vinda”. Mas a tradução “presença” tem o apoio de Fil 2:12, onde Paulo usa parousía ao fazer um contraste entre sua “presença” e sua “ausência”. — Veja a nota de estudo em 1Co 15:23.
+====
+
+[[v46-16-18]]
+
+^<<v46-16-18,18>>^ Pois eles reanimaram o meu espírito e o de vocês. Portanto, reconheçam o valor de homens como esses.
+
+[[v46-16-19]]
+
+^<<v46-16-19,19>>^ As congregações da Ásia lhes mandam saudações. Áquila e Prisca, junto com a congregação que se reúne na casa deles, enviam a vocês calorosas saudações no Senhor.
+
+[TIP]
+====
+- *As congregações da Ásia*: Ou seja, da província romana da Ásia. (Veja o Glossário, “Ásia”.) De acordo com At 19:10, durante o tempo em que Paulo ficou em Éfeso, “todos os que moravam na província da Ásia . . . ouviram a palavra do Senhor”. Paulo escreveu 1 Coríntios em Éfeso, por volta de 55 d.C. Naquela época, “as congregações da Ásia” a que Paulo estava se referindo provavelmente eram as de Colossos, Laodiceia e Hierápolis. (Col 4:12-16) Mas o livro de Apocalipse cita outras congregações dessa região que talvez já existissem e que poderiam estar incluídas na saudação de Paulo, como as congregações de Esmirna, Pérgamo, Sardes, Tiatira e Filadélfia. — Ap 1:4, 11.
+- *Áquila e Prisca*: Veja a nota de estudo em At 18:2.
+- *a congregação que se reúne na casa deles*: Os cristãos do século 1 d.C. muitas vezes usavam a casa de um deles como local de reuniões. (Ro 16:3, 5; Col 4:15; Flm 2) A palavra grega para “congregação” (ekklesía) se refere a um grupo de pessoas reunidas com o mesmo objetivo. (1Co 12:28; 2Co 1:1) Algumas Bíblias traduzem a palavra grega ekklesía neste e em outros versículos como “igreja”. Mas muitas pessoas relacionam “igreja” com o local de adoração, em vez de com os adoradores. Assim, a tradução “congregação” parece transmitir melhor o sentido original.
+====
+
+[[v46-16-20]]
+
+^<<v46-16-20,20>>^ Todos os irmãos lhes enviam saudações. Cumprimentem uns aos outros com beijo santo.
+
+[TIP]
+====
+- *beijo santo*: Veja a nota de estudo em Ro 16:16.
+====
+
+[[v46-16-21]]
+
+^<<v46-16-21,21>>^ Aqui estão as minhas saudações, as de Paulo, pela minha própria mão.
+
+[TIP]
+====
+- *pela minha própria mão*: Veja a nota de estudo em 1Co 1:1.
+====
+
+[[v46-16-22]]
+
+^<<v46-16-22,22>>^ Se alguém não amar o Senhor, seja amaldiçoado. Venha, nosso Senhor!
+
+[TIP]
+====
+- *Venha, nosso Senhor!*: Aqui, Paulo usa a expressão grega Marána tha, que é a transliteração de uma expressão aramaica. O fato de Paulo não ter dado nenhuma explicação sobre essa expressão indica que ela era conhecida pelos cristãos, assim como era o caso de outras expressões de origem semítica como amén (“amém”) e hallelouiá (“aleluia”). Ela transmite uma ideia parecida com a das palavras do apóstolo João em Ap 22:20: “Amém! Venha, Senhor Jesus.” De acordo com alguns estudiosos, a maneira correta de transliterar a expressão aramaica seria Marán athá. Nesse caso, o significado seria: “Nosso Senhor está vindo” ou “Nosso Senhor veio”.
+====
+
+[[v46-16-23]]
+
+^<<v46-16-23,23>>^ Que a bondade imerecida do Senhor Jesus esteja com vocês.
+
+[[v46-16-24]]
+
+^<<v46-16-24,24>>^ Que o meu amor esteja com todos vocês em união com Cristo Jesus.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-015.adoc#v46-15-0[&#60; Capítulo Anterior] | <<v46-16-0,Topo>> | xref:047-2-corintios/047-2-corintios-001.adoc#v47-1-0[Próximo Capítulo &#62;]

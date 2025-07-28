@@ -1,0 +1,301 @@
+include::./index.adoc[]
+
+[[v45-9-0]]
+=== A Carta aos Romanos, 9
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-9-1]]
+
+^<<v45-9-1,1>>^ Digo a verdade em Cristo; não estou mentindo, visto que a minha consciência dá testemunho comigo, em espírito santo:
+
+[[v45-9-2]]
+
+^<<v45-9-2,2>>^ tenho uma grande tristeza e uma dor incessante no coração.
+
+[[v45-9-3]]
+
+^<<v45-9-3,3>>^ Pois desejaria que eu mesmo fosse separado do Cristo como amaldiçoado em favor dos meus irmãos, meus parentes segundo a carne,
+
+[TIP]
+====
+- *separado . . . como amaldiçoado*: Ou seja, amaldiçoado por Deus. Paulo usa aqui uma hipérbole e diz que estava disposto a ser amaldiçoado no lugar de seus irmãos, ou seja, os judeus que não acreditavam em Jesus e que o rejeitaram como o prometido Messias. (Compare com Gál 3:13.) Na verdade, Paulo queria dizer que estava disposto a fazer tudo o que estivesse ao seu alcance para ajudar os judeus a se beneficiarem do meio escolhido por Deus para dar salvação.
+====
+
+[[v45-9-4]]
+
+^<<v45-9-4,4>>^ os israelitas. A eles pertencem a adoção como filhos, a glória, os pactos, a concessão da Lei, o serviço sagrado e as promessas.
+
+[TIP]
+====
+- *a adoção como filhos*: Neste versículo, esta expressão é usada em sentido figurado e se refere aos israelitas literais. Parece que aqui Paulo usa esta expressão para falar do relacionamento único que eles tinham com Deus enquanto o pacto de Deus com a nação de Israel estava em vigor. Por causa desse relacionamento, as Escrituras Hebraicas às vezes se referem aos israelitas como filhos de Deus. (Êx 4:22, 23; De 14:1, 2; Is 43:6; Je 31:9; Os 1:10; 11:1) Mas eles só poderiam ser filhos de Deus no pleno sentido depois que Jesus desse a sua vida como sacrifício de resgate. Além disso, eles precisariam aceitar esse sacrifício e exercer fé nele. — Jo 1:12, 13; 2Co 6:16-18; Gál 4:4, 5.
+- *o serviço sagrado*: Ou: “a adoração”. Aqui, esta expressão se refere ao serviço sagrado que fazia parte das exigências do pacto da Lei. Paulo usa essa mesma expressão em He 9:1, 6, onde ele descreve a adoração que era prestada no tabernáculo enquanto o pacto da Lei estava em vigor e que incluía os sacrifícios feitos a favor de Israel. Em Ro 12:1, Paulo também usa a expressão “serviço sagrado”, mas ali ele está se referindo à adoração que os cristãos prestam a Deus. — Veja a nota de estudo em Ro 12:1.
+====
+
+[[v45-9-5]]
+
+^<<v45-9-5,5>>^ A eles pertencem os patriarcas e deles descendeu o Cristo segundo a carne. Deus, que está sobre tudo, seja louvado para sempre. Amém.
+
+[TIP]
+====
+- *Deus, que está sobre tudo, seja louvado para sempre*: Esta frase se refere a Jeová Deus; ela incentiva a dar louvor a Deus por tudo o que ele fez por seu povo, incluindo as coisas mencionadas antes nessa passagem. Mas a forma como algumas Bíblias traduzem este versículo dá a impressão de que Jesus Cristo é o Deus Todo-Poderoso. Por exemplo, uma das traduções usadas é “Cristo, que é Deus acima de tudo”. Apesar de a gramática grega permitir uma tradução com esse sentido, é preciso levar em conta o contexto. Os versículos anteriores falam das provisões amorosas que Deus fez para seu povo. Além disso, Ro 9:6-13 mostra que as escolhas que Deus faz ao realizar seu propósito não são baseadas na linhagem segundo a carne, mas na vontade de Deus. Nos versículos 14-18, Paulo fala da mensagem de Deus a Faraó, registrada em Êx 9:16, para mostrar que Deus está sobre tudo. E, nos versículos 19-24, Paulo destaca ainda mais a superioridade de Deus na ilustração de um oleiro que faz vasos de barro. Assim, levando em conta todo esse contexto, é lógico concluir que Paulo tenha dito “Deus, que está sobre tudo”. Além disso, é interessante que, na maioria das vezes que Paulo usa expressões de louvor em seus escritos, essas expressões são dirigidas a Deus, e não a Jesus Cristo. (Ro 11:34-36; 16:27; Gál 1:4, 5; Fil 4:20; 1Ti 1:17) Em outras passagens, Paulo faz uma clara diferença entre Jesus e Jeová Deus, como, por exemplo, em Ro 15:5, 6, onde ele diz aos cristãos em Roma: “Glorifiquem ao Deus e Pai do nosso Senhor Jesus Cristo.” (2Co 1:3; Ef 1:3) As palavras de Paulo em 1Co 15: 27, 28 também dão forte apoio para a tradução usada aqui no texto principal. — Para encontrar mais informações sobre Ro 9:5, veja o Apêndice 6D, “Deus, que é sobre todos”, na Tradução do Novo Mundo com Referências.
+- *Amém*: Nas cartas inspiradas das Escrituras Gregas Cristãs, os escritores muitas vezes usam a palavra “amém” logo depois de expressões de louvor a Deus. — Ro 16:27; Ef 3:21; 1Pe 4:11; veja a nota de estudo em Ro 1:25.
+====
+
+[[v45-9-6]]
+
+^<<v45-9-6,6>>^ No entanto, não é que a palavra de Deus tenha falhado. Pois nem todos os que são descendentes de Israel são realmente “Israel”.
+
+[[v45-9-7]]
+
+^<<v45-9-7,7>>^ Nem são todos eles filhos por serem descendência^&#42;1^ de Abraão; em vez disso: “O que será chamado sua descendência^&#42;2^ virá por meio de Isaque.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Lit.: “semente”.
+====
+
+[[v45-9-8]]
+
+^<<v45-9-8,8>>^ Quer dizer, os filhos na carne não são realmente os filhos de Deus, mas os filhos da^&#42;1^ promessa é que são considerados a descendência.^&#42;2^
+
+[NOTE]
+====
+. Ou: “pela”.
+. Lit.: “semente”.
+====
+
+[[v45-9-9]]
+
+^<<v45-9-9,9>>^ Pois a palavra da promessa era a seguinte: “Virei nesta época e Sara já terá um filho.”
+
+[[v45-9-10]]
+
+^<<v45-9-10,10>>^ Isso aconteceu não apenas naquela ocasião, mas também quando Rebeca concebeu filhos^&#42;1^ de um só homem, Isaque, nosso antepassado;
+
+[NOTE]
+====
+. Ou: “gêmeos”.
+====
+
+[[v45-9-11]]
+
+^<<v45-9-11,11>>^ pois, quando os filhos ainda não tinham nascido nem praticado nada de bom ou de ruim — a fim de que o propósito de Deus com respeito à escolha continuasse a depender não de obras, mas Daquele que chama —,
+
+[[v45-9-12]]
+
+^<<v45-9-12,12>>^ foi dito a ela: “O mais velho será escravo do mais novo.”
+
+[[v45-9-13]]
+
+^<<v45-9-13,13>>^ Assim como está escrito: “Amei a Jacó, mas odiei a Esaú.”
+
+[[v45-9-14]]
+
+^<<v45-9-14,14>>^ O que diremos então? Há injustiça da parte de Deus? Certamente que não!
+
+[[v45-9-15]]
+
+^<<v45-9-15,15>>^ Pois ele diz a Moisés: “Terei misericórdia de quem eu tiver misericórdia, e terei compaixão de quem eu tiver compaixão.”
+
+[[v45-9-16]]
+
+^<<v45-9-16,16>>^ De modo que isso não depende da vontade da pessoa ou do seu esforço, mas de Deus, que tem misericórdia.
+
+[TIP]
+====
+- *não depende da vontade da pessoa ou do seu esforço*: Lit.: “não daquele que deseja, nem daquele que corre”. A expressão “daquele que corre” é usada aqui em sentido figurado e se refere a alguém que faz um grande esforço para alcançar um objetivo. Nas suas cartas, Paulo usa várias vezes a metáfora de um competidor participando de uma corrida. (1Co 9:24-26; Gál 5:7; Fil 2:16) Ao falar sobre como Deus escolhe os membros do Israel espiritual, Paulo diz que os israelitas literais confiavam no fato de serem descendentes de Abraão e nos esforços que eles faziam para ser considerados justos por meio da Lei de Moisés. Eles estavam correndo, ou ‘se empenhando pela justiça’, mas da forma errada. (Ro 9:30-32) Os membros do “Israel” verdadeiro, ou seja, do Israel espiritual, não deviam confiar nos seus próprios esforços ou realizações, mas na misericórdia de Deus. (Ro 9:6, 7) É verdade que eles precisavam se esforçar no serviço de Deus, mas sem a misericórdia dele todos os seus esforços seriam em vão.
+====
+
+[[v45-9-17]]
+
+^<<v45-9-17,17>>^ Pois certa passagem das Escrituras diz a Faraó: “É exatamente por esta razão que deixei você permanecer: para que, no seu caso, eu mostre o meu poder e para que o meu nome seja declarado em toda a terra.”
+
+[TIP]
+====
+- *certa passagem das Escrituras diz a Faraó*: As palavras de Paulo que aparecem a seguir são uma citação de Êx 9:16. Esse versículo de Êxodo faz parte de uma mensagem que Jeová mandou Moisés declarar ao Faraó do Egito. (Êx 9:13-19) Aqui, Paulo usa uma figura de linguagem chamada personificação. Ele fala das “Escrituras” como se elas fossem uma pessoa que estava falando com Faraó. Paulo também personifica a Lei, quando diz sobre ela em Ro 3:19: “Tudo o que a Lei diz, ela dirige aos que estão debaixo da Lei.” O uso que Paulo faz dessa figura de linguagem nessas passagens é apropriado, porque as Escrituras Hebraicas, incluindo a Lei, eram reconhecidas como a palavra de Deus; na prática, era como se o próprio Deus estivesse falando. De forma parecida, Jesus às vezes falava do espírito santo como se ele fosse uma pessoa, dizendo por exemplo, que ele iria ‘ensinar’ e ‘dar testemunho’. — Jo 14:26; 15:26.
+- *deixei você permanecer*: Muitas Bíblias traduzem estas palavras como “levantei você”. Essa tradução pode passar a ideia de que foi Deus quem colocou Faraó em sua posição de governante. Mas aqui Paulo está citando Êx 9:16, e o contexto desse versículo de Êxodo mostra qual era o real sentido dessas palavras. Quando Deus anunciou a sétima praga, ele disse a Faraó: “Eu já poderia ter estendido a mão para atingir você . . . , e você teria sido eliminado da face da terra.” (Êx 9:15) Mas, em vez de eliminar Faraó, Deus escolheu poupá-lo e falou a ele: “[Eu] o deixei vivo [ou: “o deixei permanecer”; lit.: “o mantive em pé”].” (Êx 9:16) Também é interessante que a Septuaginta grega traduz essas palavras de Jeová a Faraó como “você foi preservado”. Assim, tanto o contexto das Escrituras Hebraicas como a tradução que aparece na Septuaginta apoiam o entendimento de que as palavras em Ro 9:17 significam que Deus deixou Faraó “permanecer” até ter mostrado a ele o Seu poder.
+- *para que o meu nome seja declarado em toda a terra*: Aqui, Paulo está citando Êx 9:16. Estas palavras fazem parte da mensagem que Jeová mandou Moisés declarar a Faraó depois da sexta praga. (Êx 9:8-15) Na Bíblia, a palavra “nome” às vezes se refere à própria pessoa, à sua reputação e a tudo o que ela afirma ser. (Êx 34:5, 6; veja as notas de estudo em Mt 6:9; Jo 17:6, 26.) A ideia de santificar ou vindicar o nome de Deus é destacada em toda a Bíblia. Por exemplo, o escritor do Salmo 83 disse em oração: “Que as pessoas saibam que tu, cujo nome é Jeová, somente tu és o Altíssimo sobre toda a terra.” (Sal 83:18) No livro de Ezequiel, a expressão “terão de saber que eu sou Jeová” e outras expressões semelhantes aparecem mais de 50 vezes. (Ez 6:7; 38:23) Jesus ensinou seus discípulos a orar pedindo que o nome de Deus fosse santificado. (Mt 6:9) O apóstolo Paulo incentivou os cristãos a declarar o nome de Deus publicamente. (He 13:15) E o texto de Ap 15:4 faz a pergunta: “Quem realmente não te temerá, Jeová, e não glorificará o teu nome?”
+====
+
+[[v45-9-18]]
+
+^<<v45-9-18,18>>^ Portanto, ele tem misericórdia de quem ele quer, mas deixa ficar obstinado a quem ele quer.
+
+[[v45-9-19]]
+
+^<<v45-9-19,19>>^ Você me dirá, então: “Por que ele ainda acusa as pessoas? Pois quem pode ir contra a vontade dele?”
+
+[[v45-9-20]]
+
+^<<v45-9-20,20>>^ Mas quem é você, ó homem, para discutir com Deus? Será que a coisa moldada diz àquele que a moldou: “Por que você me fez assim?”
+
+[[v45-9-21]]
+
+^<<v45-9-21,21>>^ O quê? Será que o oleiro não tem autoridade sobre o barro, para fazer da mesma massa um vaso para uso honroso e outro para uso desonroso?
+
+[TIP]
+====
+- *o oleiro*: A palavra grega usada aqui, kerameús, se refere a um fabricante de panelas, pratos, vasos e outros recipientes de barro. Ela vem de uma raiz que significa “misturar”, talvez se referindo ao fato de que, para que a terra ou a argila possam ser moldadas, elas precisam ser misturadas com água. A palavra hebraica para “oleiro” (yohtsér) significa literalmente “formador” ou “aquele que forma (molda)”. Nas Escrituras Hebraicas, a autoridade, ou direito, que o oleiro tem sobre o barro muitas vezes é usada para ilustrar a soberania de Jeová sobre pessoas e nações. — Is 29:16; 45:9; 64:8; Je 18:1-12.
+====
+
+[[v45-9-22]]
+
+^<<v45-9-22,22>>^ Que diremos então se Deus, mesmo querendo demonstrar a sua ira e dar a conhecer o seu poder, tolerou com muita paciência os vasos da ira, preparados para a destruição?
+
+[TIP]
+====
+- *os vasos*: Neste versículo, Paulo continua com a ilustração do oleiro. (Veja a nota de estudo em Ro 9:21.) A palavra grega skeúos (traduzida aqui como “vasos”) era usada para se referir a recipientes de vários tipos. Nas Escrituras, ela também é muitas vezes usada em sentido figurado para se referir a pessoas. (Veja as notas de rodapé em At 9:15 e 2Ti 2:20, 21.) Por exemplo, os cristãos são comparados a vasos de barro que guardam um tesouro de enorme valor: o ministério. (2Co 4:​1, 7) Aqui em Ro 9:21-23, Paulo explica que o fato de Deus ainda não ter destruído os vasos da ira (as pessoas más) permite que ele poupe pessoas que têm disposição correta, já que dá a elas tempo para serem moldadas como “vasos de misericórdia”. — Ro 9:23.
+====
+
+[[v45-9-23]]
+
+^<<v45-9-23,23>>^ E que dizer se ele fez isso a fim de dar a conhecer as riquezas da sua glória nos vasos de misericórdia, que ele preparou antecipadamente para glória,
+
+[[v45-9-24]]
+
+^<<v45-9-24,24>>^ isto é, em nós, a quem ele chamou não somente dentre os judeus, mas também dentre as nações?
+
+[[v45-9-25]]
+
+^<<v45-9-25,25>>^ É conforme ele diz também em Oseias: “Aos que não são meu povo, eu chamarei de ‘meu povo’; e àquela que não era amada, de ‘amada’.
+
+[[v45-9-26]]
+
+^<<v45-9-26,26>>^ E, no lugar onde foi dito a eles: ‘Vocês não são o meu povo’, ali serão chamados de ‘filhos do Deus vivente’.”
+
+[[v45-9-27]]
+
+^<<v45-9-27,27>>^ Além disso, Isaías clama a respeito de Israel: “Embora o número dos filhos de Israel seja como a areia do mar, apenas o restante será salvo.
+
+[TIP]
+====
+- *Isaías clama a respeito de Israel*: Neste versículo e no próximo, Paulo está citando Is 10:22, 23. Esses versículos de Isaías predisseram o que aconteceu em 607 a.C., quando Jeová usou o Império Babilônico para punir o povo de Israel. Todo o país, incluindo Jerusalém, foi conquistado. Os judeus foram levados para Babilônia como cativos e permaneceram ali por 70 anos. Depois disso, “apenas um restante” voltou para restaurar a adoração verdadeira em Jerusalém. Aqui em sua carta aos romanos, Paulo mostra que a profecia de Isaías estava tendo um segundo cumprimento no século 1 d.C. Naquela época, relativamente poucos judeus (“um restante”) se tornaram seguidores de Jesus e voltaram para Jeová em sentido espiritual. (Ro 11:4, 5) Com o tempo, não judeus também se tornaram seguidores de Jesus e se juntaram a eles, formando uma nação espiritual, “o Israel de Deus”. — Gál 6:16.
+====
+
+[[v45-9-28]]
+
+^<<v45-9-28,28>>^ Pois Jeová exigirá uma prestação de contas dos habitantes da terra, de forma completa e sem demora.”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Is 10:23. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *de forma completa e sem demora*: Ou: “executando-a rapidamente”. Lit.: “concluindo e abreviando”. Aqui, Paulo está citando as palavras de Is 10:22, 23, conforme elas aparecem na Septuaginta. Jeová cumpriu essa profecia quando executou julgamento contra Jerusalém de forma completa e sem demora, primeiro em 607 a.C. e depois em 70 d.C.
+====
+
+[[v45-9-29]]
+
+^<<v45-9-29,29>>^ Também, conforme Isaías predisse: “Se Jeová dos exércitos não nos tivesse deixado uma descendência,^&#42;1^ teríamos ficado como Sodoma, e nos teríamos tornado semelhantes a Gomorra.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Is 1:9. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *Jeová dos exércitos*: Esta expressão tem origem nas Escrituras Hebraicas, onde ela aparece 283 vezes (com algumas variações), sendo a primeira delas em 1Sa 1:3. A expressão hebraica é formada pelo Tetragrama mais a palavra hebraica para “exércitos” (tsevaʼóhth). Nas Escrituras Gregas Cristãs, a expressão grega equivalente aparece apenas aqui e em Tg 5:4. Nessas passagens, tanto Paulo como Tiago estão fazendo referência a profecias das Escrituras Hebraicas. Nos dois casos, a palavra hebraica tsevaʼóhth (“exércitos”) foi transliterada para o grego como Sabaóth. Apesar de os manuscritos gregos dizerem literalmente “Senhor Sabaoth” (em grego, Kýrios Sabaóth), um léxico diz que Sabaóth faz parte de “um nome aplicado a Deus . . . =יהוה צְבָאוֹת [YHWH tsevaʼóhth] Yahweh Senhor dos Exércitos, Senhor das Hostes”. (A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3.ª edição) Outros motivos que levaram a Tradução do Novo Mundo a usar o nome de Deus aqui no texto principal são explicados no Apêndice C1.
+- *exércitos*: Ou: “exércitos celestiais”. A palavra grega que aparece aqui, Sabaóth, é uma transliteração da palavra hebraica tsevaʼóhth. Essa palavra hebraica é o plural de tsaváʼ, que se refere a um exército literal de soldados. (Gên 21:22; De 20:9; veja a nota de estudo em Jeová dos exércitos neste versículo.) Parece que os “exércitos” mencionados aqui se referem principalmente (ou talvez exclusivamente) a forças angélicas. Assim, a expressão “Jeová dos exércitos” chama atenção ao poder que está nas mãos do Governante Soberano do Universo, que controla enormes exércitos de criaturas espirituais. (Sal 103:20, 21; 148:1, 2; Is 1:24; Je 32:17, 18) Por outro lado, alguns sugerem que, na expressão “Jeová dos exércitos”, a palavra “exércitos” se refira não apenas aos exércitos de anjos, mas também ao exército de Israel e às estrelas e outros corpos celestes.
+====
+
+[[v45-9-30]]
+
+^<<v45-9-30,30>>^ O que diremos então? O seguinte: pessoas das nações, embora não se empenhassem pela justiça, alcançaram a justiça, a justiça que resulta da fé;
+
+[[v45-9-31]]
+
+^<<v45-9-31,31>>^ mas Israel, embora se empenhasse por uma lei de justiça, não alcançou essa lei.
+
+[[v45-9-32]]
+
+^<<v45-9-32,32>>^ Por que não? Porque se empenharam por ela não por meio da fé, mas como se pudessem alcançá-la por meio de obras. Tropeçaram na “pedra de tropeço”,
+
+[[v45-9-33]]
+
+^<<v45-9-33,33>>^ conforme está escrito: “Vejam! Eu ponho em Sião uma pedra de tropeço e uma rocha que faz cair,^&#42;1^ mas quem basear nela a sua fé não ficará decepcionado.”
+
+[NOTE]
+====
+. Ou: “rocha de ofensa”.
+====
+
+[TIP]
+====
+- *nela*: Ou seja, na pedra simbólica mencionada em Is 28:16, o texto que Paulo está citando aqui. O modo como a profecia de Isaías é aplicada em Ro 10:11 e 1Pe 2:6 deixa claro que essa pedra se refere a Jesus Cristo. Por isso, o texto grego também permitiria a tradução “nele”, como acontece em Ro 10:11, onde Paulo cita parte dessa mesma profecia de Isaías, mas não menciona a “pedra”. Assim, as palavras inspiradas de Isaías, Paulo e Pedro dão a garantia de que quem exercer fé em Jesus não ficará decepcionado.
+- *não ficará decepcionado*: Aqui, Paulo está citando as palavras de Is 28:16, conforme elas aparecem na Septuaginta. A expressão grega usada aqui tem o sentido básico de “não ficar envergonhado”. Ela destaca que aqueles que exercem fé em Jesus Cristo, a pedra simbólica da profecia de Isaías, não sentirão a vergonha e a decepção que serão sentidas pelos que descobrirem que sua fé foi em vão. Essa mesma expressão grega aparece em Ro 10:11 e 1Pe 2:6.
+====
+
+'''
+
+xref:045-romanos/045-romanos-008.adoc#v45-8-0[&#60; Capítulo Anterior] | <<v45-9-0,Topo>> | xref:045-romanos/045-romanos-010.adoc#v45-10-0[Próximo Capítulo &#62;]

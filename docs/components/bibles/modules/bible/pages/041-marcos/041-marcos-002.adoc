@@ -1,0 +1,248 @@
+include::./index.adoc[]
+
+[[v41-2-0]]
+=== As Boas Novas Segundo Marcos, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. Começo do ministério de Jesus, principalmente ao redor do mar da Galileia (1:14–3:35)
+* Jesus começa a pregar na Galileia (1:14, 15)
+* Chama os primeiros quatro discípulos para serem pescadores de homens (1:16-20)
+* Jesus ensina na sinagoga de Cafarnaum; expulsa um espírito impuro (1:21-28)
+* Jesus cura a sogra de Pedro e muitos outros em Cafarnaum (1:29-34)
+* Jesus ora num lugar isolado (1:35-39)
+* Leproso é curado (1:40-45)
+* Jesus cura um paralítico em Cafarnaum (2:1-12)
+* Jesus chama Levi para ser seu seguidor (2:13-17)
+* Pergunta sobre o jejum (2:18-22)
+* Jesus, ‘Senhor do sábado’ (2:23-28)
+* Homem com a mão atrofiada é curado no sábado (3:1-6)
+* Grande multidão junto ao mar; muitos são curados (3:7-12)
+* Escolha dos 12 apóstolos (3:13-19)
+* Blasfêmia contra o espírito santo (3:20-30)
+* Mãe e irmãos de Jesus (3:31-35)
+****
+
+[[v41-2-1]]
+
+^<<v41-2-1,1>>^ No entanto, depois de alguns dias, ele entrou novamente em Cafarnaum, e a notícia de que ele estava em casa se espalhou.
+
+[TIP]
+====
+- *Cafarnaum*: Veja a nota de estudo em Mt 4:​13.
+- *em casa*: Jesus passou a maior parte de seu ministério de três anos e meio na Galileia e perto dali. Nessa região, ele ficava em Cafarnaum entre uma viagem e outra, talvez morando na casa de Simão Pedro e André. — Mr 1:​29; veja a nota de estudo em Mt 9:1.
+====
+
+[[v41-2-2]]
+
+^<<v41-2-2,2>>^ Então tantas pessoas se ajuntaram que não havia mais lugar, nem mesmo perto da porta, e ele começou a lhes falar a palavra.
+
+[[v41-2-3]]
+
+^<<v41-2-3,3>>^ E lhe trouxeram um paralítico, carregado por quatro homens.
+
+[[v41-2-4]]
+
+^<<v41-2-4,4>>^ Mas eles não podiam levá-lo diretamente a Jesus por causa da multidão; assim, removeram o telhado acima de onde Jesus estava e, depois de fazer uma abertura, baixaram a maca em que o paralítico estava deitado.
+
+[TIP]
+====
+- *removeram o telhado . . . fazer uma abertura*: No século 1 d.C., muitas casas em Israel tinham telhados planos que serviam como terraços. As pessoas podiam subir ao terraço por meio de escadas comuns ou por meio de uma escada de mão colocada do lado de fora da casa. O relato de Marcos não diz exatamente de que material era feito o telhado dessa casa. Mas o telhado das casas geralmente era construído com vigas de madeira cobertas por galhos, canas e uma camada de barro que servia como reboco. Algumas casas tinham telhas. O relato de Lucas diz que o homem foi baixado por “entre as telhas”. (Veja a nota de estudo em Lu 5:​19.) Nesses tipos de telhado, não seria difícil fazer uma abertura grande o suficiente para baixar a maca dentro da casa onde Jesus estava.
+====
+
+[[v41-2-5]]
+
+^<<v41-2-5,5>>^ Quando Jesus viu a fé que tinham, disse ao paralítico: “Filho, seus pecados estão perdoados.”
+
+[TIP]
+====
+- *viu a fé que tinham*: Veja a nota de estudo em Mt 9:2.
+- *Filho*: Veja a nota de estudo em Mt 9:2.
+====
+
+[[v41-2-6]]
+
+^<<v41-2-6,6>>^ Porém, alguns escribas estavam ali sentados e raciocinavam no coração:
+
+[TIP]
+====
+- *escribas*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+====
+
+[[v41-2-7]]
+
+^<<v41-2-7,7>>^ “Por que este homem fala dessa maneira? Ele está blasfemando. Quem pode perdoar pecados a não ser um só, Deus?”
+
+[[v41-2-8]]
+
+^<<v41-2-8,8>>^ Mas Jesus imediatamente discerniu em seu espírito que estavam raciocinando desse modo entre eles e lhes disse: “Por que vocês estão raciocinando essas coisas no coração?
+
+[TIP]
+====
+- *em seu espírito*: Ou: “em seu íntimo (em sua própria mente)”. Aqui a palavra grega pneúma pelo visto se refere à capacidade de discernimento de Jesus. O texto de Is 11:​2, 3 predisse sobre o Messias: “O espírito de Jeová estará sobre ele . . . Ele não julgará pelas aparências.” Então, Jesus era capaz de discernir os pensamentos e as motivações de outros. — Jo 2:​24, 25.
+====
+
+[[v41-2-9]]
+
+^<<v41-2-9,9>>^ O que é mais fácil dizer ao paralítico: ‘Seus pecados estão perdoados’, ou: ‘Levante-se, apanhe a sua maca e ande’?
+
+[TIP]
+====
+- *O que é mais fácil*: Dizer “seus pecados estão perdoados” seria mais fácil porque a pessoa não precisaria dar uma prova visível de que podia mesmo perdoar pecados. Mas mandar um paralítico se levantar e andar exigiria um milagre, por isso seria mais difícil. Este relato e a profecia de Is 33:24 mostram que existe uma ligação entre as doenças e o pecado que herdamos de Adão. O fato de Jesus poder curar aquele paralítico deixava claro que ele tinha autoridade para perdoar pecados.
+====
+
+[[v41-2-10]]
+
+^<<v41-2-10,10>>^ Mas, a fim de que vocês saibam que o Filho do Homem tem autoridade para perdoar pecados na terra . . .”, ele disse ao paralítico:
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:​20.
+- *para perdoar pecados na terra . . .*: Veja a nota de estudo em Mt 9:6.
+====
+
+[[v41-2-11]]
+
+^<<v41-2-11,11>>^ “Eu lhe digo: Levante-se, apanhe a sua maca e vá para casa.”
+
+[[v41-2-12]]
+
+^<<v41-2-12,12>>^ Com isso, ele se levantou, apanhou imediatamente a sua maca e saiu andando na frente de todos. Assim, todos ficaram maravilhados e glorificaram a Deus, dizendo: “Nunca vimos nada igual.”
+
+[[v41-2-13]]
+
+^<<v41-2-13,13>>^ Novamente, ele foi para a beira do mar; toda a multidão ia ao seu encontro, e ele começou a ensiná-los.
+
+[TIP]
+====
+- *do mar*: Ou seja, do mar da Galileia. — Mr 1:​16; veja a nota de estudo em Mt 4:​18.
+====
+
+[[v41-2-14]]
+
+^<<v41-2-14,14>>^ Enquanto caminhava, ele viu Levi, filho de Alfeu, sentado na coletoria, e lhe disse: “Seja meu seguidor.” Então ele se levantou e o seguiu.
+
+[TIP]
+====
+- *Levi*: No relato paralelo em Mt 9:9, esse discípulo é chamado de Mateus. Tanto Marcos como Lucas o chamam de “Levi” quando mencionam que ele era cobrador de impostos (Lu 5:​27, 29), mas eles o chamam de “Mateus” quando o mencionam como um dos apóstolos (Mr 3:​18; Lu 6:​15; At 1:​13). A Bíblia não explica se Levi já era chamado de Mateus antes de se tornar discípulo de Jesus. O Evangelho de Marcos é o único que diz que Mateus Levi era filho de Alfeu. — Veja a nota de estudo em Mr 3:​18.
+- *Alfeu*: Tudo indica que esse não é o mesmo Alfeu mencionado em Mr 3:​18 (veja a nota de estudo em Mr 3:​18), que era pai de Tiago, o nono apóstolo dos 12 alistados. — Mt 10:3; Lu 6:​15.
+- *coletoria*: Ou: “posto de coleta de impostos”. Talvez fosse uma pequena construção ou uma tenda onde o cobrador de impostos ficava. Ele recolhia os impostos sobre produtos importados, exportados ou transportados pelo país. Levi, também chamado de Mateus, trabalhava numa coletoria em Cafarnaum ou perto dali.
+- *Seja meu seguidor*: O verbo grego usado aqui tem o sentido básico de “seguir; ir atrás”, mas neste contexto significa “seguir alguém como discípulo”.
+====
+
+[[v41-2-15]]
+
+^<<v41-2-15,15>>^ Mais tarde, Jesus estava comendo na casa de Levi, e muitos cobradores de impostos e pecadores estavam comendo com Jesus e seus discípulos, pois muitos deles o seguiam.
+
+[TIP]
+====
+- *comendo*: Ou: “se recostando à mesa”. Quando as pessoas se ‘recostavam à mesa’ juntas, isso indicava que queriam passar tempo na companhia umas das outras. Na época de Jesus, os judeus dificilmente se recostariam à mesa, ou tomariam uma refeição, com pessoas de outras nações.
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:46.
+- *pecadores*: Veja a nota de estudo em Mt 9:​10.
+====
+
+[[v41-2-16]]
+
+^<<v41-2-16,16>>^ Mas, quando os escribas dos fariseus viram que ele comia com os pecadores e os cobradores de impostos, perguntaram aos discípulos: “Ele come com cobradores de impostos e pecadores?”
+
+[TIP]
+====
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:​46.
+====
+
+[[v41-2-17]]
+
+^<<v41-2-17,17>>^ Ao ouvir isso, Jesus lhes disse: “Os que têm saúde não precisam de médico, mas sim os doentes. Eu não vim chamar os justos, mas os pecadores.”
+
+[[v41-2-18]]
+
+^<<v41-2-18,18>>^ Os discípulos de João e os fariseus praticavam o jejum. Assim, aproximaram-se de Jesus e lhe perguntaram: “Por que os discípulos de João e os discípulos dos fariseus praticam o jejum, mas os seus discípulos não praticam o jejum?”
+
+[TIP]
+====
+- *praticavam o jejum*: Veja a nota de estudo em Mt 6:16.
+====
+
+[[v41-2-19]]
+
+^<<v41-2-19,19>>^ Então Jesus lhes disse: “Será que os amigos do noivo têm motivo para jejuar enquanto o noivo está com eles? Enquanto eles têm o noivo consigo, não podem jejuar.
+
+[TIP]
+====
+- *amigos do noivo*: Veja a nota de estudo em Mt 9:​15.
+====
+
+[[v41-2-20]]
+
+^<<v41-2-20,20>>^ Mas virão dias em que o noivo será tirado deles, e então, naquele dia, jejuarão.
+
+[[v41-2-21]]
+
+^<<v41-2-21,21>>^ Ninguém costura um remendo de pano novo^&#42;1^ numa roupa velha. Se fizer isso, o remendo de pano novo repuxará a roupa velha, e o rasgão ficará pior.
+
+[NOTE]
+====
+. Ou: “pano não pré-encolhido”.
+====
+
+[[v41-2-22]]
+
+^<<v41-2-22,22>>^ Também, ninguém põe vinho novo em odres velhos. Se fizer isso, o vinho arrebentará os odres, e tanto o vinho como os odres serão perdidos. Mas põe-se vinho novo em odres novos.”
+
+[TIP]
+====
+- *vinho . . . em odres*: Veja a nota de estudo em Mt 9:17.
+====
+
+[[v41-2-23]]
+
+^<<v41-2-23,23>>^ Ele estava passando pelos campos de cereais no sábado, e seus discípulos começaram a arrancar espigas enquanto caminhavam.
+
+[TIP]
+====
+- *pelos campos de cereais*: Veja a nota de estudo em Mt 12:1.
+- *sábado*: Veja o Glossário.
+====
+
+[[v41-2-24]]
+
+^<<v41-2-24,24>>^ De modo que os fariseus lhe disseram: “Veja! Por que eles estão fazendo o que não é permitido no sábado?”
+
+[TIP]
+====
+- *o que não é permitido*: Veja a nota de estudo em Mt 12:2.
+====
+
+[[v41-2-25]]
+
+^<<v41-2-25,25>>^ Mas ele lhes disse: “Vocês nunca leram o que Davi fez numa situação de necessidade, quando ele e seus homens ficaram com fome?
+
+[[v41-2-26]]
+
+^<<v41-2-26,26>>^ Como, no relato sobre Abiatar, o principal sacerdote, ele entrou na casa de Deus e comeu os pães da apresentação, os quais a ninguém é permitido comer, a não ser aos sacerdotes, e deu também deles aos homens que estavam com ele?”
+
+[TIP]
+====
+- *no relato sobre*: Essa expressão traduz a preposição grega epí, que pode ser usada para situar algo na corrente do tempo ou para indicar localização, por exemplo, para indicar o lugar onde certa informação está nas Escrituras. A maioria dos tradutores entende que, nesta passagem, epí se refere à ideia de tempo, e muitos deles usam algo como “no tempo em que Abiatar era . . .”. Mas, como explica a nota Abiatar, o principal sacerdote, o acontecimento que Jesus estava citando (1Sa 21:1-6) torna mais provável que epí indique uma localização, ou seja, uma parte das Escrituras. A mesma preposição grega é usada de forma parecida em Mr 12:26 e Lu 20:37, e nesses versículos muitas traduções dizem “na passagem (no relato) da”.
+- *Abiatar, o principal sacerdote*: Aqui é usada uma palavra grega que também pode ser traduzida como “sumo sacerdote”. A opção “principal sacerdote” é mais apropriada, porque Abiatar não era o sumo sacerdote quando Davi comeu os pães da apresentação. Naquela ocasião, o sumo sacerdote era Aimeleque, pai de Abiatar. (1Sa 21:​1-6) Abiatar é mencionado pela primeira vez logo depois de Davi ter entrado na casa de Deus e comido os pães da apresentação. Parece que, por ser filho do sumo sacerdote, Abiatar já estava servindo como um sacerdote principal naquela época. Ele foi o único filho de Aimeleque que sobreviveu ao massacre cometido por Doegue, o edomita. (1Sa 22:18-​20) Abiatar mais tarde se tornou o sumo sacerdote, muito provavelmente durante o reinado de Davi. Assim, mesmo que a tradução usada seja “no relato sobre Abiatar, o sumo sacerdote”, ela ainda pode estar de acordo com o relato bíblico. A preposição grega epí é abrangente, e pode estar se referindo a todo o trecho envolvendo os capítulos 21 a 23 de 1 Samuel, onde são feitas várias referências a Abiatar, que mais tarde ficou muito conhecido como sumo sacerdote. Há também alguns estudiosos do grego que preferem a tradução “no tempo de Abiatar, o sumo sacerdote”. Mesmo essa opção não entraria necessariamente em conflito com o relato bíblico, já que a expressão “no tempo de” é abrangente e pode se referir a todo o período da história de Abiatar, tanto antes como depois de se tornar sumo sacerdote. Seja qual for o ponto de vista, podemos ter certeza de que a declaração de Jesus estava de acordo com os fatos históricos.
+- *casa de Deus*: Aqui essa expressão se refere ao tabernáculo. O acontecimento mencionado por Jesus (1Sa 21:​1-6) ocorreu quando o tabernáculo estava localizado em Nobe, uma cidade que pelo visto ficava no território de Benjamim, perto de Jerusalém. — Veja o Apêndice B7 (parte ampliada do mapa).
+- *pães da apresentação*: Veja a nota de estudo em Mt 12:4 e o Glossário, “Pães da proposição; Pães da apresentação”.
+====
+
+[[v41-2-27]]
+
+^<<v41-2-27,27>>^ E acrescentou: “O sábado veio à existência por causa do homem, e não o homem por causa do sábado.
+
+[[v41-2-28]]
+
+^<<v41-2-28,28>>^ Portanto, o Filho do Homem é Senhor até mesmo do sábado.”
+
+[TIP]
+====
+- *Senhor . . . do sábado*: Jesus usou essa expressão para se referir a si mesmo (Mt 12:8; Lu 6:5), indicando que ele tinha autoridade para realizar no sábado o trabalho que Jeová tinha dado a ele. (Compare com Jo 5:19; 10:37, 38.) Jesus realizou no dia de sábado alguns dos seus milagres mais impressionantes, incluindo curas surpreendentes. (Lu 13:10-13; Jo 5:5-9; 9:1-14) É bem provável que isso apontasse para o alívio que ele vai trazer durante o seu reinado, que será como um sábado de descanso. — He 10:1.
+====
+
+'''
+
+xref:041-marcos/041-marcos-001.adoc#v41-1-0[&#60; Capítulo Anterior] | <<v41-2-0,Topo>> | xref:041-marcos/041-marcos-003.adoc#v41-3-0[Próximo Capítulo &#62;]

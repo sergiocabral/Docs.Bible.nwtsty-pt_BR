@@ -1,0 +1,517 @@
+include::./index.adoc[]
+
+[[v42-9-0]]
+=== As Boas Novas Segundo Lucas, 9
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Jesus continua seu ministério na Galileia e inclui outras regiões (7:1–9:50)
+* Oficial do exército demonstra fé (7:1-10)
+* Jesus ressuscita o filho de uma viúva em Naim (7:11-17)
+* João Batista pergunta se Jesus é “Aquele Que Vem” (7:18-23)
+* Jesus elogia João Batista (7:24-30)
+* Geração indiferente é condenada (7:31-35)
+* Mulher pecadora derrama óleo perfumado sobre os pés de Jesus (7:36-50)
+* Mulheres acompanham Jesus (8:1-3)
+* Ilustração do semeador (8:4-8)
+* Por que Jesus usa ilustrações (8:9, 10)
+* Jesus explica a ilustração do semeador (8:11-15)
+* Lâmpada não deve ser coberta (8:16-18)
+* Mãe e irmãos de Jesus (8:19-21)
+* Jesus acalma uma tempestade no mar da Galileia (8:22-25)
+* Jesus cura um homem possesso e permite que demônios entrem em porcos (8:26-39)
+* Filha de Jairo é ressuscitada; mulher toca na roupa de Jesus (8:40-56)
+* Os Doze são instruídos para o ministério (9:1-6)
+* Herodes fica perplexo com Jesus (9:7-9)
+* Jesus alimenta cerca de 5.000 homens (9:10-17)
+* Pedro identifica Jesus como o Cristo (9:18-20)
+* Jesus prediz sua morte e ressurreição (9:21, 22)
+* Requisitos para ser um verdadeiro discípulo (9:23-27)
+* Transfiguração de Jesus (9:28-36)
+* Jesus cura um menino possesso de demônio (9:37-43a)
+* Jesus prediz pela segunda vez sua morte (9:43b-45)
+* Discípulos discutem sobre quem é o maior (9:46-48)
+* “Quem não é contra vocês é a favor de vocês” (9:49, 50)
+* H. Jesus se dirige para Jerusalém; Jesus continua seu ministério, principalmente na Judeia e na Pereia (9:51–19:27)
+* Aldeia samaritana rejeita Jesus (9:51-56)
+* Requisitos para seguir Jesus (9:57-62)
+* Jesus envia os 70 (10:1-12)
+* Corazim, Betsaida e Cafarnaum são repreendidas por não se arrependerem (10:13-16)
+* Os 70 voltam (10:17-20)
+* Jesus louva seu Pai por favorecer os humildes (10:21-24)
+* Ilustração do bom samaritano (10:25-37)
+* Jesus visita Marta e Maria (10:38-42)
+* Jesus ensina a oração-modelo (11:1-4)
+* Ilustração do amigo persistente (11:5-13)
+* Jesus explica que os demônios são expulsos “por meio do dedo de Deus” (11:14-23)
+* Jesus fala da volta de um espírito impuro (11:24-26)
+* Explicação sobre a verdadeira felicidade (11:27, 28)
+* Sinal de Jonas (11:29-32)
+* Olho é a lâmpada do corpo (11:33-36)
+* Jesus come com um fariseu; ai dos religiosos hipócritas (11:37-54)
+* “Tomem cuidado com o fermento dos fariseus” (12:1-3)
+* Temer a Deus, não a homens (12:4-7)
+* Declarar que está em união com Cristo (12:8-12)
+* Ilustração do rico insensato (12:13-21)
+* “Parem de se preocupar tanto com a sua vida” (12:22-31)
+* “Não tema, pequeno rebanho” (12:32-34)
+* Manter a vigilância (12:35-40)
+* Identificação do administrador fiel e características de um escravo infiel (12:41-48)
+* Não paz, mas divisão (12:49-53)
+* Necessidade de examinar os tempos (12:54-56)
+* Resolver disputas (12:57-59)
+* Arrepender-se ou ser destruído (13:1-5)
+* Ilustração da figueira infrutífera (13:6-9)
+* Jesus cura no sábado uma mulher encurvada (13:10-17)
+* Ilustrações do grão de mostarda e do fermento (13:18-21)
+* É preciso esforço para entrar pela porta estreita (13:22-30)
+* Jesus chama Herodes de ‘aquela raposa’ (13:31-33)
+* Jesus lamenta por Jerusalém (13:34, 35)
+* Jesus cura no sábado um homem com hidropisia (14:1-6)
+* Ser um convidado humilde (14:7-11)
+* Convidar os que não podem recompensar (14:12-14)
+* Ilustração dos convidados que recusam o convite (14:15-24)
+* Custo de ser discípulo (14:25-33)
+* Sal que perde a força (14:34, 35)
+* Ilustração da ovelha perdida (15:1-7)
+* Ilustração da moeda perdida (15:8-10)
+* Ilustração do filho pródigo (15:11-32)
+* Ilustração do administrador injusto (16:1-13)
+* A Lei e o Reino de Deus (16:14-18)
+* Ilustração do rico e Lázaro (16:19-31)
+* Jesus ensina sobre tropeços, perdão e fé (17:1-6)
+* Ilustração do escravo que serve primeiro seu senhor (17:7-10)
+* Jesus cura dez leprosos (17:11-19)
+* Vinda do Reino de Deus (17:20-37)
+* Ilustração da viúva persistente (18:1-8)
+* Ilustração do fariseu e do cobrador de impostos (18:9-14)
+* Jesus e as criancinhas (18:15-17)
+* Líder rico pergunta sobre a vida eterna (18:18-30)
+* Jesus prediz novamente sua morte e ressurreição (18:31-34)
+* Jesus cura um mendigo cego perto de Jericó (18:35-43)
+* Jesus visita o cobrador de impostos Zaqueu (19:1-10)
+* Ilustração das dez minas (19:11-27)
+****
+
+[[v42-9-1]]
+
+^<<v42-9-1,1>>^ Ele convocou então os Doze e lhes deu poder e autoridade sobre todos os demônios, e também para curar doenças.
+
+[[v42-9-2]]
+
+^<<v42-9-2,2>>^ E os enviou para pregar o Reino de Deus e para curar,
+
+[[v42-9-3]]
+
+^<<v42-9-3,3>>^ e lhes disse: “Não levem nada para a viagem: nem bastão, nem bolsa de provisões, nem pão, nem dinheiro; nem tenham roupa extra.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “duas túnicas”.
+====
+
+[TIP]
+====
+- *Não levem nada para a viagem*: Quando Jesus enviou seus apóstolos numa viagem para “pregar o Reino de Deus” (Lu 9:2), ele deu instruções sobre como realizar esse trabalho tão importante. Essas instruções aparecem nos três Evangelhos sinópticos (Mateus, Marcos e Lucas). (Mt 10:8-10; Mr 6:8, 9; Lu 9:3) Embora os relatos não usem exatamente as mesmas palavras, a mensagem é a mesma. Os apóstolos não deviam desviar sua atenção do que era realmente importante por comprarem coisas além do que já tinham, visto que Jeová cuidaria deles. Os três Evangelhos mencionam que os apóstolos não deviam ‘adquirir [‘levar’ ou ‘ter’] roupa extra’, ou seja, uma roupa além daquela que estavam vestindo. Lucas registra aqui que Jesus disse a seus apóstolos: “Não levem nada para a viagem: nem bastão.” Mas, pelo visto, levar um bastão ao viajar era comum entre os israelitas (Gên 32:10), e o relato paralelo em Mr 6:8 diz que Jesus “lhes deu ordens para não levarem nada para a viagem, a não ser um bastão”. Assim, é possível que Jesus estivesse apenas dizendo que eles não deviam levar nenhum bastão extra, além daquele que já tinham. Em outras palavras, os discípulos deviam levar o mínimo de bagagem possível e evitar levar coisas extras que dificultariam sua viagem, já que Jeová cuidaria de que eles tivessem tudo o que precisassem. — Para ver uma ocasião em que Jesus deu instruções parecidas ao enviar 70 discípulos, veja a nota de estudo em Lu 10:4.
+- *dinheiro*: Lit.: “prata”. Ou seja, prata usada como dinheiro.
+====
+
+[[v42-9-4]]
+
+^<<v42-9-4,4>>^ Mas, em qualquer casa em que entrarem, fiquem ali até partirem.
+
+[TIP]
+====
+- *fiquem ali*: Veja a nota de estudo em Mr 6:10.
+====
+
+[[v42-9-5]]
+
+^<<v42-9-5,5>>^ E onde quer que não os receberem, ao saírem daquela cidade, sacudam o pó dos seus pés em testemunho contra eles.”
+
+[TIP]
+====
+- *sacudam o pó dos seus pés*: Quando judeus devotos viajavam por outros países, eles sacudiam o pó supostamente impuro de suas sandálias antes de entrar de novo no território dos judeus. Mas o significado da instrução de Jesus era diferente. Ao sacudir o pó de seus pés, os discípulos mostrariam que não eram responsáveis pelo que aconteceria com aquelas pessoas quando fossem julgadas por Deus. Uma expressão parecida é usada em Mt 10:14 e em Mr 6:11. Marcos acrescenta as palavras “em testemunho para eles”, e Lucas acrescenta as palavras em testemunho contra eles. Paulo e Barnabé seguiram essa instrução em Antioquia da Pisídia (At 13:51), e Paulo fez algo parecido em Corinto, quando sacudiu sua roupa. Nessa ocasião, Paulo explicou seu gesto dizendo: “Que o sangue de vocês recaia sobre a sua própria cabeça. Eu estou limpo.” — At 18:6.
+====
+
+[[v42-9-6]]
+
+^<<v42-9-6,6>>^ Então, eles partiram e passaram pelo território, de aldeia em aldeia, declarando as boas novas e realizando curas em toda a parte.
+
+[[v42-9-7]]
+
+^<<v42-9-7,7>>^ E Herodes, o governador distrital, ouviu falar de tudo que estava acontecendo e ficou muito perplexo, porque alguns diziam que João havia sido levantado dentre os mortos,
+
+[TIP]
+====
+- *Herodes*: Veja a nota de estudo em Mt 14:1.
+- *governador distrital*: Veja a nota de estudo em Mt 14:1.
+====
+
+[[v42-9-8]]
+
+^<<v42-9-8,8>>^ mas outros diziam que Elias havia aparecido, e ainda outros que um dos antigos profetas tinha se levantado.
+
+[[v42-9-9]]
+
+^<<v42-9-9,9>>^ Herodes disse: “Eu decapitei João. Então, quem é esse de quem ouço falar essas coisas?” De modo que procurava vê-lo.
+
+[[v42-9-10]]
+
+^<<v42-9-10,10>>^ Quando voltaram, os apóstolos contaram a Jesus tudo que tinham feito. Então, levando-os consigo, ele se retirou, à parte, para uma cidade chamada Betsaida.
+
+[[v42-9-11]]
+
+^<<v42-9-11,11>>^ Mas as multidões, ao saberem disso, o seguiram. E ele as recebeu bondosamente, e começou a lhes falar do Reino de Deus, e curou os que precisavam de cura.
+
+[[v42-9-12]]
+
+^<<v42-9-12,12>>^ Chegando então o fim do dia, os Doze se aproximaram dele e lhe disseram: “Dispense a multidão, para que possam ir às aldeias e à zona rural ao redor, a fim de conseguirem hospedagem e algo para comer, porque aqui estamos num lugar isolado.”
+
+[[v42-9-13]]
+
+^<<v42-9-13,13>>^ Mas ele lhes disse: “Deem-lhes vocês algo para comer.” Eles disseram: “Não temos nada mais do que cinco pães e dois peixes, a menos que talvez nós mesmos vamos e compremos alimento para todas essas pessoas.”
+
+[TIP]
+====
+- *Deem-lhes vocês algo para comer*: O milagre de Jesus descrito a seguir é o único que foi registrado pelos quatro escritores dos Evangelhos. — Mt 14:15-21; Mr 6:35-44; Lu 9:10-17; Jo 6:1-13.
+====
+
+[[v42-9-14]]
+
+^<<v42-9-14,14>>^ De fato, havia ali cerca de 5.000 homens. Mas ele disse aos seus discípulos: “Façam que eles se sentem em grupos de cerca de 50 pessoas.”
+
+[[v42-9-15]]
+
+^<<v42-9-15,15>>^ E eles fizeram isso e mandaram que todos se sentassem.
+
+[[v42-9-16]]
+
+^<<v42-9-16,16>>^ Pegando então os cinco pães e os dois peixes, ele olhou para o céu e deu graças.^&#42;1^ Depois os partiu e começou a dá-los aos discípulos, para que os servissem à multidão.
+
+[NOTE]
+====
+. Ou: “e os abençoou”.
+====
+
+[TIP]
+====
+- *os partiu*: O verbo grego traduzido como “partiu” significa literalmente “quebrou”. Naquela época, os pães tinham o formato achatado e eram assados até ficarem duros. Por isso, as pessoas tinham o costume de quebrar o pão para comer. — Mt 14:19; 15:36; 26:26; Mr 6:41; 8:6.
+====
+
+[[v42-9-17]]
+
+^<<v42-9-17,17>>^ Assim, todos comeram e ficaram satisfeitos; e eles recolheram os pedaços que sobraram, 12 cestos.
+
+[TIP]
+====
+- *cestos*: Veja a nota de estudo em Mt 14:20.
+====
+
+[[v42-9-18]]
+
+^<<v42-9-18,18>>^ Mais tarde, enquanto estava orando sozinho, os discípulos se aproximaram dele,^&#42;1^ e ele lhes perguntou: “Quem as multidões dizem que eu sou?”
+
+[NOTE]
+====
+. Ou, possivelmente: “se juntaram a ele; estavam com ele”.
+====
+
+[TIP]
+====
+- *estava orando sozinho*: Isso aconteceu perto de Cesareia de Filipe. (Mt 16:13; Mr 8:27) Lucas é o único escritor dos Evangelhos que menciona que Jesus estava orando sozinho. — Veja a nota de estudo em Lu 3:21.
+====
+
+[[v42-9-19]]
+
+^<<v42-9-19,19>>^ Em resposta, eles disseram: “João Batista; mas outros dizem que é Elias; e ainda outros dizem que um dos antigos profetas se levantou.”
+
+[TIP]
+====
+- *João Batista*: Veja a nota de estudo em Mt 3:1.
+- *Elias*: Veja a nota de estudo em Mt 11:14.
+====
+
+[[v42-9-20]]
+
+^<<v42-9-20,20>>^ Então ele lhes perguntou: “E vocês, quem dizem que eu sou?” Pedro respondeu: “O Cristo de Deus.”
+
+[TIP]
+====
+- *O Cristo de Deus*: Pedro diz que Jesus é “o Cristo de Deus” (em grego, ho Khristós tou Theoú). O título “Cristo” equivale a “Messias” (que vem do hebraico mashíahh). Tanto “Cristo” como “Messias” significam “ungido”. Lucas usa aqui o artigo definido em grego antes do título “Cristo”. Ele provavelmente fez isso para destacar o papel de Jesus como o Messias. — Veja as notas de estudo em Mt 1:1; 2:4.
+====
+
+[[v42-9-21]]
+
+^<<v42-9-21,21>>^ Depois, numa conversa séria com eles, lhes ordenou que não contassem isso a ninguém,
+
+[[v42-9-22]]
+
+^<<v42-9-22,22>>^ mas disse: “O Filho do Homem tem de sofrer muitas coisas e ser rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas, e tem de ser morto e no terceiro dia ser levantado.”
+
+[TIP]
+====
+- *anciãos*: Lit.: “homens idosos”. Na Bíblia, a palavra grega presbýteros se refere principalmente a uma pessoa que tem autoridade e responsabilidade numa comunidade ou nação. Embora essa palavra possa ser usada às vezes para indicar idade (como acontece em Lu 15:25 e At 2:17), ela não se refere apenas a quem é idoso. Neste versículo, a palavra “anciãos” se refere a homens de autoridade entre os judeus. Muitas vezes eles são mencionados junto com outros dois grupos: os principais sacerdotes e os escribas. O Sinédrio era formado por homens desses três grupos. — Lu 20:1; 22:52, 66; veja o Glossário, “Ancião; Homem idoso”.
+- *principais sacerdotes*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+- *escribas*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+====
+
+[[v42-9-23]]
+
+^<<v42-9-23,23>>^ Então ele disse também a todos: “Se alguém quer ser meu seguidor, negue a si mesmo, apanhe sua estaca de tortura dia após dia e siga-me sempre.
+
+[TIP]
+====
+- *negue a si mesmo*: Ou: “renuncie seus direitos sobre si mesmo”. A expressão grega usada aqui indica que a pessoa deve estar disposta a abrir mão completamente de sua vontade e entregar o controle de sua vida a Deus. Essa expressão também pode ser traduzida como “diga não a si mesmo”, porque seguir a Cristo pode envolver dizer não a desejos pessoais, ambições ou preferências. (2Co 5:14, 15) Lucas usa o verbo grego traduzido aqui como “negue” e um verbo relacionado quando fala sobre Pedro negar que conhecia Jesus. — Lu 22:34, 57, 61; veja a nota de estudo em Mt 16:24.
+- *estaca de tortura*: Veja a nota de estudo em Mt 16:24.
+====
+
+[[v42-9-24]]
+
+^<<v42-9-24,24>>^ Pois quem quiser salvar a sua vida a perderá; mas quem perder a sua vida por minha causa é o que a salvará.
+
+[TIP]
+====
+- *vida*: Ou “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v42-9-25]]
+
+^<<v42-9-25,25>>^ Realmente, de que adianta o homem ganhar o mundo inteiro, se ele perder a si mesmo ou causar sua própria ruína?
+
+[TIP]
+====
+- *o mundo inteiro*: O sentido básico da palavra grega kósmos, que na maioria das vezes é traduzida como “mundo”, é “ordem” ou “estrutura”. A palavra às vezes aparece na literatura grega transmitindo a ideia de “sociedade humana”, e é usada muitas vezes nas Escrituras Gregas Cristãs com esse mesmo sentido. (Veja as notas de estudo em Jo 1:9, 10; 3:16.) Mas kósmos não é simplesmente um sinônimo de “humanidade”. Na Bíblia, a palavra mantém seu sentido básico de “ordem” ou “estrutura”, já que a sociedade humana está, de certa forma, organizada em diversas culturas, tribos, nações e sistemas econômicos. (1Jo 3:17; Ap 7:9; 14:6) É esse o sentido que a palavra “mundo” tem aqui e em alguns outros contextos. Essa “estrutura” em que a humanidade está organizada fica cada vez mais complexa conforme o tempo passa e a população aumenta. — Veja a nota de estudo em Jo 16:21.
+====
+
+[[v42-9-26]]
+
+^<<v42-9-26,26>>^ Pois quem se envergonhar de mim e das minhas palavras, dessa pessoa o Filho do Homem se envergonhará quando vier na sua glória e na glória do Pai e dos santos anjos.
+
+[[v42-9-27]]
+
+^<<v42-9-27,27>>^ Mas eu lhes digo a verdade: Há alguns dos que estão aqui que de modo algum provarão a morte antes de verem o Reino de Deus.”
+
+[[v42-9-28]]
+
+^<<v42-9-28,28>>^ Na realidade, cerca de oito dias depois de dizer essas palavras, ele levou consigo Pedro, João e Tiago, e subiu ao monte para orar.
+
+[TIP]
+====
+- *cerca de oito dias depois de dizer essas palavras*: Os Evangelhos de Mateus e Marcos dizem “seis dias depois”. (Mt 17:1; Mr 9:2) Lucas contou os dias de maneira diferente de Mateus e Marcos. Pelo visto, ele contou o dia em que Jesus fez a promessa (Lu 9:27) e o dia em que a transfiguração ocorreu. Mateus e Marcos, por outro lado, contaram apenas os seis dias de espera. É interessante notar que Lucas diz “cerca de oito dias”, mostrando que esse número era apenas aproximado.
+- *para orar*: Apenas Lucas menciona que, na ocasião da transfiguração, Jesus tinha subido ao monte para orar. O próximo versículo também fala que Jesus estava orando. (Lu 9:29) Outras ocasiões em que Jesus orou e que são mencionadas apenas por Lucas estão em Lu 3:21; 5:16; 6:12; 9:18; 11:1; 23:46.
+====
+
+[[v42-9-29]]
+
+^<<v42-9-29,29>>^ E, enquanto ele orava, a aparência do seu rosto mudou e a sua roupa se tornou de um branco cintilante.^&#42;1^
+
+[NOTE]
+====
+. Ou: “se tornou tão brilhante quanto um relâmpago”.
+====
+
+[[v42-9-30]]
+
+^<<v42-9-30,30>>^ E apareceram dois homens conversando com ele: eram Moisés e Elias.
+
+[[v42-9-31]]
+
+^<<v42-9-31,31>>^ Esses apareceram com glória e começaram a falar sobre a partida dele, que ele estava para realizar em Jerusalém.
+
+[TIP]
+====
+- *a partida dele*: A palavra grega usada aqui, éxodos, também aparece em He 11:22 (êxodo) e em 2Pe 1:15 (partida). A partida, ou êxodo, de Jesus pelo visto envolvia sua morte e sua ressurreição para a vida espiritual.
+====
+
+[[v42-9-32]]
+
+^<<v42-9-32,32>>^ Pedro e os que estavam com ele haviam sido vencidos pelo sono, mas, quando despertaram completamente, viram a glória dele e os dois homens em pé com ele.
+
+[[v42-9-33]]
+
+^<<v42-9-33,33>>^ E, enquanto esses se afastavam dele, Pedro disse a Jesus: “Instrutor, é bom que estejamos aqui. Vamos armar, então, três tendas: uma para o senhor, uma para Moisés e uma para Elias.” Ele não se dava conta do que estava dizendo.
+
+[[v42-9-34]]
+
+^<<v42-9-34,34>>^ Mas, enquanto dizia isso, formou-se uma nuvem e começou a cobri-los. Quando a nuvem os envolveu, ficaram com medo.
+
+[[v42-9-35]]
+
+^<<v42-9-35,35>>^ Então uma voz saiu da nuvem, dizendo: “Este é meu Filho, aquele que foi escolhido. Escutem-no.”
+
+[TIP]
+====
+- *uma voz saiu da nuvem*: Esta é a segunda das três vezes que os Evangelhos relatam que Jeová falou diretamente com humanos. — Veja as notas de estudo em Lu 3:22; Jo 12:28.
+====
+
+[[v42-9-36]]
+
+^<<v42-9-36,36>>^ No momento em que a voz falou, Jesus ficou sozinho. Mas eles ficaram calados e não contaram a ninguém, naqueles dias, nenhuma das coisas que viram.
+
+[[v42-9-37]]
+
+^<<v42-9-37,37>>^ No dia seguinte, quando desceram do monte, uma grande multidão foi ao encontro dele.
+
+[[v42-9-38]]
+
+^<<v42-9-38,38>>^ E então um homem gritou dentre a multidão: “Instrutor, imploro-lhe que veja o meu filho, porque ele é o meu filho único.
+
+[TIP]
+====
+- *único*: A palavra grega monogenés foi traduzida como “unigênito; unigênita” em todas as ocorrências nas edições anteriores da Tradução do Novo Mundo. Ela pode ser definida como “único de sua espécie; sem igual; único de uma classe ou espécie; ímpar”. Aqui, ela é usada com o sentido de “filho único”, mas pode se referir tanto a filhos como a filhas. Essa mesma palavra grega é usada para falar do filho “único” de uma viúva em Naim e da filha “única” de Jairo. (Lu 7:12; 8:41, 42) A Septuaginta usa monogenés para se referir à filha de Jefté em Jz 11:34, que diz: “Ela era sua filha única; além dela, ele não tinha nem filho nem filha.” Nos livros bíblicos que o apóstolo João escreveu, ele usou monogenés cinco vezes ao falar de Jesus. — Para informações sobre o significado desse termo quando usado para se referir a Jesus, veja as notas de estudo em Jo 1:14; 3:16.
+====
+
+[[v42-9-39]]
+
+^<<v42-9-39,39>>^ Vem um espírito e se apodera dele, e ele grita de repente, e o espírito o lança em convulsões e faz a sua boca espumar; só com dificuldade o espírito o deixa, depois de machucá-lo.
+
+[[v42-9-40]]
+
+^<<v42-9-40,40>>^ Supliquei aos seus discípulos que expulsassem o espírito, mas eles não conseguiram.”
+
+[[v42-9-41]]
+
+^<<v42-9-41,41>>^ Em resposta, Jesus disse: “Ó geração sem fé e pervertida, até quando terei de continuar com vocês e terei de suportá-los? Traga seu filho para cá.”
+
+[[v42-9-42]]
+
+^<<v42-9-42,42>>^ E, enquanto o menino se aproximava, o demônio o lançou no chão e lhe causou violentas convulsões. Mas Jesus censurou o espírito impuro e curou o menino, e o entregou ao seu pai.
+
+[[v42-9-43]]
+
+^<<v42-9-43,43>>^ E todos ficaram assombrados com o poder majestoso de Deus.
+Enquanto todos se maravilhavam com tudo o que ele fazia, ele disse aos seus discípulos:
+
+[TIP]
+====
+- *o poder majestoso de Deus*: Ou: “a grandiosidade (majestade) de Deus”. Quando Jesus curava as pessoas, ele não procurava destaque. Em vez disso, ele mostrava que o poder que tinha para fazer esses milagres vinha de Deus.
+====
+
+[[v42-9-44]]
+
+^<<v42-9-44,44>>^ “Ouçam atentamente e lembrem-se destas palavras: O Filho do Homem será entregue^&#42;1^ às mãos dos homens.”
+
+[NOTE]
+====
+. Ou: “traído”.
+====
+
+[[v42-9-45]]
+
+^<<v42-9-45,45>>^ Mas não entenderam o que ele dizia. De fato, isso foi escondido deles para que não compreendessem, e tinham medo de lhe perguntar sobre essa declaração.
+
+[[v42-9-46]]
+
+^<<v42-9-46,46>>^ Então surgiu entre eles uma discussão sobre qual deles era o maior.
+
+[[v42-9-47]]
+
+^<<v42-9-47,47>>^ Jesus, conhecendo os raciocínios do coração deles, pegou uma criancinha, colocou-a ao seu lado
+
+[[v42-9-48]]
+
+^<<v42-9-48,48>>^ e lhes disse: “Quem recebe esta criancinha em meu nome recebe também a mim; e quem me recebe, recebe também Aquele que me enviou. Pois quem se comporta como menor entre todos vocês é o que é grande.”
+
+[[v42-9-49]]
+
+^<<v42-9-49,49>>^ Em vista disso, João disse: “Instrutor, vimos alguém expulsar demônios usando o seu nome e tentamos impedi-lo, porque ele não segue o senhor conosco.”
+
+[[v42-9-50]]
+
+^<<v42-9-50,50>>^ Mas Jesus lhe disse: “Não tentem impedi-lo, pois quem não é contra vocês é a favor de vocês.”
+
+[[v42-9-51]]
+
+^<<v42-9-51,51>>^ Aproximando-se^&#42;1^ o tempo de ser levado para cima, ele partiu resolutamente^&#42;2^ para Jerusalém.
+
+[NOTE]
+====
+. Lit.: “Completando-se; Como estava para se completar”.
+. Lit.: “fixou a sua face”.
+====
+
+[TIP]
+====
+- *de ser levado para cima*: Esta é única vez que a palavra grega análempsis aparece nas Escrituras Gregas Cristãs. Os estudiosos em geral concordam que ela se refere à volta de Jesus para o céu. Um verbo relacionado com análempsis é usado em At 1:2, 11, 22, onde foi traduzido como “foi levado para cima; foi levado para o céu”.
+====
+
+[[v42-9-52]]
+
+^<<v42-9-52,52>>^ E enviou mensageiros na sua frente, que foram e entraram numa aldeia de samaritanos, para fazer os preparativos para ele.
+
+[[v42-9-53]]
+
+^<<v42-9-53,53>>^ Mas os samaritanos não o receberam, porque ele estava indo para Jerusalém.
+
+[TIP]
+====
+- *ele estava indo*: Lit.: “sua face estava indo para [ou “direcionada para”]”. (Compare com a nota de rodapé em Lu 9:51.) Existem expressões parecidas nas Escrituras Hebraicas com o sentido de fixar os olhos em um alvo, um objetivo ou um desejo. (Veja as notas de rodapé em 1Rs 2:15 e 2Rs 12:17.) Essas expressões passam a ideia de estar decidido ou determinado a fazer algo. — Veja as notas de rodapé em 2Cr 20:3; Da 11:17.
+====
+
+[[v42-9-54]]
+
+^<<v42-9-54,54>>^ Quando os discípulos Tiago e João viram isso, disseram: “Senhor, quer que mandemos que desça fogo do céu e os destrua?”
+
+[[v42-9-55]]
+
+^<<v42-9-55,55>>^ Ele, porém, se virou e os censurou.
+
+[[v42-9-56]]
+
+^<<v42-9-56,56>>^ Assim, foram a outra aldeia.
+
+[[v42-9-57]]
+
+^<<v42-9-57,57>>^ Então, enquanto caminhavam pela estrada, alguém lhe disse: “Eu seguirei o senhor para onde quer que vá.”
+
+[[v42-9-58]]
+
+^<<v42-9-58,58>>^ No entanto, Jesus lhe disse: “As raposas têm tocas e as aves do céu têm ninhos, mas o Filho do Homem não tem onde deitar a cabeça.”
+
+[TIP]
+====
+- *não tem onde deitar a cabeça*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v42-9-59]]
+
+^<<v42-9-59,59>>^ Então ele disse a outro: “Seja meu seguidor.” O homem disse: “Senhor, permita-me primeiro ir enterrar meu pai.”
+
+[TIP]
+====
+- *Senhor*: Alguns manuscritos não usam “Senhor” aqui, mas a palavra aparece em vários dos manuscritos mais antigos e confiáveis.
+- *enterrar meu pai*: Pelo visto, o homem não estava dizendo que seu pai tinha acabado de morrer e que ele precisava apenas de tempo para providenciar o funeral. Se esse fosse o caso, seria pouco provável que ele estivesse ali conversando com Jesus. No antigo Oriente Médio, o funeral era realizado pela família logo depois da morte da pessoa, geralmente no mesmo dia. Assim, o pai daquele homem talvez estivesse doente ou fosse idoso, mas provavelmente não tinha morrido. E com certeza outros parentes poderiam cuidar do pai daquele homem, já que Jesus não mandaria ninguém deixar sem cuidados um pai que estivesse doente e necessitado. (Mr 7:9-13) Então, o que o homem realmente estava dizendo era: ‘Eu vou seguir o senhor, mas não enquanto meu pai estiver vivo. Espere até ele morrer e ser enterrado.’ Mas para Jesus aquele homem estava perdendo uma oportunidade de colocar o Reino de Deus em primeiro lugar na vida. — Lu 9:60, 62.
+====
+
+[[v42-9-60]]
+
+^<<v42-9-60,60>>^ No entanto, ele lhe disse: “Deixe que os mortos enterrem seus mortos, mas você, vá e divulgue o Reino de Deus.”
+
+[TIP]
+====
+- *Deixe que os mortos enterrem seus mortos*: Conforme explicado na nota de estudo em Lu 9:59, o pai do homem provavelmente estava doente ou era idoso, mas ainda não tinha morrido. Pelo visto, Jesus estava dizendo: ‘Deixe que as pessoas que estão espiritualmente mortas enterrem seus mortos.’ Ou seja, aquele homem não devia deixar para seguir Jesus só depois que seu pai morresse, já que, pelo visto, havia outros parentes que poderiam cuidar dele. Se aquele homem se tornasse discípulo de Jesus, ele teria a esperança de vida eterna e não estaria entre os que Deus considera espiritualmente mortos. Com sua resposta, Jesus mostrou que colocar o Reino de Deus em primeiro lugar na vida e divulgar a mensagem do Reino é essencial para continuar vivo em sentido espiritual.
+====
+
+[[v42-9-61]]
+
+^<<v42-9-61,61>>^ E ainda outro disse: “Eu o seguirei, Senhor, mas permita-me primeiro me despedir da minha família.^&#42;1^”
+
+[NOTE]
+====
+. Ou: “dos da minha casa”.
+====
+
+[[v42-9-62]]
+
+^<<v42-9-62,62>>^ Jesus lhe disse: “Ninguém que tiver posto a mão num arado e olhar para trás está apto para o Reino de Deus.”
+
+[TIP]
+====
+- *que tiver posto a mão num arado e olhar para trás*: Jesus estava falando com um homem que disse que o seguiria, mas que só faria isso depois de se despedir de sua família. (Lu 9:61) Para mostrar que era muito importante que seus discípulos o seguissem de todo o coração, Jesus falou sobre o trabalho de arar o solo. Se o lavrador se distraísse enquanto estivesse arando o solo, os sulcos ficariam tortos. E, se ele parasse de arar para olhar para trás, seu trabalho iria atrasar. A lição é que, se um discípulo de Cristo se distrair ou deixar de lado suas responsabilidades como cristão, ele não vai poder entrar no Reino de Deus.
+====
+
+'''
+
+xref:042-lucas/042-lucas-008.adoc#v42-8-0[&#60; Capítulo Anterior] | <<v42-9-0,Topo>> | xref:042-lucas/042-lucas-010.adoc#v42-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v45-13-0]]
+=== A Carta aos Romanos, 13
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* C. COMO OS VERDADEIROS CRISTÃOS DEVEM VIVER (12:1–15:13)
+* 1. Adorar a Deus de todo o coração e tratar bem os irmãos e as outras pessoas (12:1-21)
+* Apresentem o seu corpo como sacrifício vivo, santo, com a sua faculdade de raciocínio (12:1, 2)
+* Os cristãos têm dons diferentes, mas fazem parte de um só corpo (12:3-8)
+* Amem e honrem os irmãos; sirvam a Jeová com zelo, perseverança e submissão (12:9-16)
+* “Continue vencendo o mal com o bem” (12:17-21)
+* 2. Os cristãos verdadeiros e o governo humano (13:1-7)
+* Sujeição “às autoridades superiores”; elas atuam como servas de Deus (13:1-4)
+* Deem às autoridades o que lhes é devido (13:5-7)
+* 3. Cumprir a lei do amor e ficar despertos (13:8-14)
+* Não devam nada a ninguém, a não ser amar uns aos outros; o amor cumpre a Lei (13:8-10)
+* Andem decentemente como em pleno dia e imitem Jesus (13:11-14)
+* 4. Empenhar-se pela união; o Reino de Deus significa justiça, paz e alegria (14:1–15:13)
+* Não julguem uns aos outros (14:1-12)
+* Não façam outros tropeçar (14:13-18)
+* Empenhem-se pela paz e pelas coisas que edificam uns aos outros (14:19-23)
+* Sigam o exemplo de Cristo, que não agradou a si mesmo (15:1-6)
+* “Acolham uns aos outros”; as nações glorificarão a Deus (15:7-13)
+****
+
+[[v45-13-1]]
+
+^<<v45-13-1,1>>^ Todos estejam sujeitos às autoridades superiores, pois não há autoridade sem a permissão de Deus; as autoridades existentes foram colocadas por Deus em suas posições relativas.
+
+[TIP]
+====
+- *Todos estejam sujeitos*: Ou: “Todas as almas estejam sujeitas”. Aqui, a palavra grega psykhé (traduzida como “alma” em algumas Bíblias) se refere a pessoas. — Veja o Glossário, “Alma”.
+- *às autoridades superiores*: Ou seja, aos governantes e outras autoridades humanas. A palavra grega traduzida aqui como “autoridades” é o plural da palavra exousía. É provável que os leitores da Septuaginta já estivessem familiarizados com o uso de exousía para se referir a domínio ou autoridade. (Veja Da 7:6, 14, 27; 11:5, onde a palavra exousía foi usada na Septuaginta para traduzir palavras em hebraico e aramaico que significam “autoridade para governar; domínio; autoridade”.) Em Lu 12:11, exousía aparece na expressão “funcionários do governo e autoridades”. A palavra grega traduzida aqui como “superiores” está relacionada com uma palavra que aparece em 1Ti 2:2, na frase “com respeito a reis e a todos os que estão em altos postos [ou: “em posições de autoridade”, nota de rodapé]”. Em alguns contextos, ela se refere a estar numa posição de controle, tendo poder e autoridade sobre outros, mas ela não passa a ideia de que essa autoridade é “suprema”. Isso fica claro no uso dessa palavra em Fil 2:3, que diz que os cristãos devem considerar os outros como “superiores” a eles.
+- *foram colocadas por Deus em suas posições relativas*: Lit.: “foram colocadas em ordem por Deus”. Ou seja, por permissão de Deus. A palavra grega traduzida aqui como “foram colocadas . . . em suas posições relativas” é tásso. Alguns léxicos definem essa palavra como “criar uma ordem, colocando as coisas em uma determinada sequência; estabelecer; dispor em uma certa ordem; designar”. Em Lu 7:8, Lucas usa essa mesma palavra grega ao registrar as palavras de um oficial do exército, que disse: “Eu também sou homem sujeito a [lit.: “colocado (uma forma de tásso) debaixo de”] autoridade [uma forma de exousía, a mesma palavra traduzida como “autoridade(s)” em Ro 13:1-3] e tenho soldados sob as minhas ordens.” Esse oficial do exército estava sujeito à autoridade de alguém e tinha soldados que estavam ‘sob suas ordens’; assim, ele tinha uma “autoridade” relativa em comparação com a autoridade de outros. Isso indica que a palavra tásso às vezes se refere a mais do que apenas “estabelecer”. Ela também pode se referir a ser colocado em uma determinada posição em relação a outros. Muitas Bíblias traduzem as palavras de Ro 13:1 como “foram ordenadas (“instituídas”; “estabelecidas”) por Deus”, o que pode dar a impressão de que Deus é o principal responsável por colocar governantes humanos no poder. Mas, levando em conta o significado da palavra tásso, o contexto deste versículo e o que o restante da Bíblia ensina (Pr 21:1; Ec 5:8; Da 4:32; Jo 19:11), a Tradução do Novo Mundo usa as palavras “foram colocadas por Deus em suas posições relativas”. Deus permite que os governos humanos ocupem posições “relativas” de autoridade, superiores ou inferiores em relação uns aos outros, mas sempre inferiores à autoridade suprema dele, o Soberano do Universo.
+====
+
+[[v45-13-2]]
+
+^<<v45-13-2,2>>^ Portanto, quem toma posição contra a^&#42;1^ autoridade toma posição contra a ordem estabelecida por Deus; os que tomam posição contra ela trarão condenação sobre si mesmos.
+
+[NOTE]
+====
+. Ou: “quem resiste à”.
+====
+
+[TIP]
+====
+- *a ordem estabelecida por Deus*: Ou: “o arranjo de Deus”. A expressão grega que aparece aqui passa a ideia de algo que foi decretado ou determinado por Deus. Ele está permitindo que as “autoridades superiores” existam temporariamente. (Ro 13:1) Durante esse tempo, ele usa essas autoridades humanas como um instrumento para manter a ordem na sociedade. Visto que nenhuma dessas autoridades existiria se não fosse pela permissão de Deus (Jo 19:11), pode-se dizer que, em certo sentido, as autoridades superiores fazem parte do propósito de Deus. Na época em que Paulo escreveu sua carta aos romanos, as autoridades superiores com quem os cristãos tinham de lidar eram principalmente os representantes do governo romano do imperador Nero, que governou de 54 a 68 d.C. É claro que Paulo sabia que o governo de Deus é muito superior aos governos humanos e que a humanidade precisa desse governo. (At 28:31; 1Co 15:24) Assim, o que Paulo está dizendo aqui é simplesmente que, enquanto Jeová permitir que os governos humanos existam, os cristãos devem aceitar e respeitar “a ordem estabelecida por Deus”.
+====
+
+[[v45-13-3]]
+
+^<<v45-13-3,3>>^ Pois os governantes não são temidos por aqueles que praticam boas ações, mas por aqueles que praticam más ações. Você quer ficar livre do medo da autoridade? Faça sempre o bem, e receberá louvor dela;
+
+[[v45-13-4]]
+
+^<<v45-13-4,4>>^ pois ela é serva de Deus para você, para o seu bem. Mas, se você faz o que é mau, tenha medo, porque não é sem motivo que a autoridade traz a espada. Ela está a serviço^&#42;1^ de Deus, para executar vingança e expressar ira contra quem pratica o que é mau.
+
+[NOTE]
+====
+. Lit.: “é serva”. Ou: “é ministra”.
+====
+
+[TIP]
+====
+- *ela é serva de Deus*: Ou: “ela é ministra de Deus”. Estas palavras se referem à “autoridade” mencionada em Ro 13:1-3, ou seja, aos governantes e outras autoridades humanas. A palavra grega traduzida aqui como “serva” é diákonos. A Bíblia às vezes usa essa palavra para se referir a “servos” ou a pessoas ‘que servem’ outros. (Mt 22:13; Jo 2:5, 9) O verbo relacionado diakonéo (“servir; ministrar”) também é usado para se referir a vários serviços de natureza pessoal prestados a outros. (Veja a nota de estudo em Lu 8:3.) É nesse sentido específico que as autoridades podem ser chamadas de ‘servas’. E, visto que elas só podem cumprir essa função porque Deus está permitindo que elas continuem existindo por um tempo, pode-se dizer que elas, em certo sentido, são ‘servas de Deus’. Elas prestam alguns serviços para o bem do povo, em muitos casos ajudando a manter a ordem e impedindo que atos contra a lei sejam praticados. Além disso, a Bíblia mostra que algumas autoridades foram usadas como servas de Deus de outras maneiras. Por exemplo: O rei persa Ciro incentivou os judeus a deixarem Babilônia para reconstruir a casa de Deus em Jerusalém. (Esd 1:1-4; Is 44:28) O rei persa Artaxerxes enviou Esdras com uma contribuição para ajudar nessa reconstrução e depois designou Neemias para reconstruir as muralhas de Jerusalém. (Esd 7:11-26; 8:25-30; Ne 2:1-8) E Paulo foi ajudado por autoridades romanas quando foi atacado por uma turba em Jerusalém e, também, depois de sofrer um naufrágio. As autoridades romanas também permitiram que ele ficasse em prisão domiciliar em uma casa alugada enquanto aguardava para ser julgado por César. — At 21:31, 32; 28:7-10, 30, 31.
+- *a espada*: Aqui, a palavra “espada” se refere ao direito ou poder que as autoridades têm de punir quem pratica o que é mau. Quando elas usam esse poder corretamente, isso reprime a ação de criminosos, contribuindo para a ordem na sociedade. Deus exigirá que as autoridades prestem contas pela maneira como usam esse poder. O rei Herodes Antipas mandou que João Batista fosse decapitado, usando mal o poder que tinha. (Mt 14:1-12) Da mesma forma, o rei Herodes Agripa I abusou de sua autoridade quando “mandou matar à espada Tiago, irmão de João”. (At 12:1, 2) Quando autoridades humanas tentam fazer os cristãos violarem uma lei de Deus registrada nas Escrituras, elas não estão agindo a serviço de Deus.
+- *expressar ira*: Quando uma pessoa é punida pelos “governantes” por desobedecer a uma lei humana (que não vai contra as leis de Deus), essa punição é uma expressão indireta da ira de Deus contra quem pratica o que é mau. (Ro 13:3) Aqui, a expressão grega para “expressar ira” também poderia ser traduzida como “trazer punição”.
+====
+
+[[v45-13-5]]
+
+^<<v45-13-5,5>>^ Portanto, é necessário que vocês estejam em sujeição, não somente por causa dessa ira, mas também por causa da sua consciência.
+
+[TIP]
+====
+- *é necessário*: A palavra grega que aparece aqui, anágke, significa literalmente “necessidade”. Este versículo mostra que o principal motivo para os cristãos obedecerem às leis de César e pagarem impostos deve ser a sua consciência, e não o medo de serem punidos pela “espada” das autoridades. (Veja as notas de estudo em Ro 13:4.) Assim, os cristãos obedecem às leis dos governos humanos sempre que elas não vão contra as leis de Deus.
+====
+
+[[v45-13-6]]
+
+^<<v45-13-6,6>>^ É por isso também que vocês pagam impostos; porque eles estão a serviço de Deus e prestam esse serviço constantemente.
+
+[TIP]
+====
+- *estão a serviço*: Ou: “são servidores públicos”. A palavra grega usada aqui é o plural de leitourgós (“servidor público”). Essa palavra e as palavras leitourgéo (“prestar serviço público”) e leitourgía (“serviço público”) eram usadas pelos gregos e romanos para se referir a serviços prestados ao governo ou a autoridades civis em benefício do povo. (Essas três palavras gregas vêm das palavras laós, “povo”, e érgon, “trabalho”.) As autoridades humanas podem ser consideradas “servidores públicos” a serviço de Deus no sentido de que elas prestam serviços em benefício do povo. Nas Escrituras Gregas Cristãs, essas palavras gregas são usadas muitas vezes para se referir ao serviço que era prestado no templo e ao ministério cristão. — Para ver exemplos desse uso, veja as notas de estudo em Lu 1:23; At 13:2; Ro 15:16.
+- *prestam esse serviço constantemente*: Ou: “se dedicam com esse mesmo objetivo”. Os versículos anteriores mostram alguns dos deveres que as autoridades humanas têm. Elas “estão a serviço de Deus”, prestando serviços que beneficiam o povo.
+====
+
+[[v45-13-7]]
+
+^<<v45-13-7,7>>^ Deem a todos o que lhes é devido: a quem exigir imposto, o imposto; a quem exigir tributo, o tributo; a quem exigir temor, tal temor; a quem exigir honra, tal honra.
+
+[TIP]
+====
+- *Deem*: Lit.: “Devolvam”. O verbo grego que aparece aqui é apodídomi. Esse mesmo verbo foi usado em Mt 22:21; Mr 12:17 e Lu 20:25, na frase “paguem a César o que é de César”. — Veja a nota de estudo em Mt 22:21.
+====
+
+[[v45-13-8]]
+
+^<<v45-13-8,8>>^ Não devam nada a ninguém, a não ser amar uns aos outros, pois quem ama o seu próximo cumpre a Lei.
+
+[[v45-13-9]]
+
+^<<v45-13-9,9>>^ Pois os mandamentos — “não cometa adultério, não assassine, não furte, não cobice”, e qualquer outro mandamento que exista — se resumem nestas palavras: “Ame o seu próximo como a si mesmo.”
+
+[TIP]
+====
+- *não cometa adultério*: Veja a nota de estudo em Ro 2:22.
+====
+
+[[v45-13-10]]
+
+^<<v45-13-10,10>>^ O amor não faz o mal contra o próximo; portanto, o amor é o cumprimento da lei.
+
+[[v45-13-11]]
+
+^<<v45-13-11,11>>^ E façam isso porque vocês sabem em que época estamos, que já é hora de despertarem do sono, pois agora a nossa salvação está mais próxima do que quando nos tornamos crentes.
+
+[[v45-13-12]]
+
+^<<v45-13-12,12>>^ A noite está bem avançada; o dia está próximo. Portanto, rejeitemos as obras da escuridão e revistamo-nos das armas da luz.
+
+[[v45-13-13]]
+
+^<<v45-13-13,13>>^ Andemos decentemente, como em pleno dia, não em festas descontroladas e bebedeiras, nem em relações sexuais imorais e conduta insolente, nem em brigas e ciúmes.
+
+[TIP]
+====
+- *festas descontroladas*: Ou: “farras”. A palavra grega kómos é usada três vezes nas Escrituras Gregas Cristãs, sempre em sentido negativo. (Gál 5:21; 1Pe 4:3) Ela pode ser definida como “festas caracterizadas por consumo excessivo e irrestrito de bebidas alcóolicas e por comportamento imoral”. A palavra kómos foi usada em escritos gregos antigos para se referir a festas de rua descontroladas em honra a deuses pagãos, como Dionísio (ou Baco), o deus do vinho, em que as pessoas ficavam cantando até tarde da noite. No tempo dos apóstolos, esse tipo de festa e de comportamento indecente era comum em cidades gregas, incluindo cidades da Ásia Menor. (1Pe 1:1) Quando Pedro escreveu sua carta para os irmãos daquela região, ele disse que, antes de se tornarem cristãos, eles “viviam . . . em paixões desenfreadas, em embriaguez, em festas descontroladas, em bebedeiras e em idolatrias ilícitas”. (1Pe 4:3, 4) Paulo incluiu “festas descontroladas” entre as “obras da carne” e disse que os que praticavam essas coisas ‘não herdariam o Reino de Deus’. (Gál 5:19-21) Nos versículos em que Paulo e Pedro usam a palavra kómos, ela aparece junto com coisas como bebedeiras, relações sexuais imorais, imoralidade sexual, impureza, conduta insolente e paixões desenfreadas.
+- *conduta insolente*: Ou: “atos de conduta desavergonhada”. No texto grego, a palavra asélgeia, traduzida aqui como “conduta insolente”, está no plural. Essa palavra indica um tipo de conduta que viola gravemente as leis de Deus e que reflete uma atitude descarada ou atrevida de desrespeito. — Veja o Glossário.
+====
+
+[[v45-13-14]]
+
+^<<v45-13-14,14>>^ Mas revistam-se do Senhor Jesus Cristo e não fiquem premeditando como satisfazer os desejos da carne.
+
+[TIP]
+====
+- *revistam-se do Senhor*: Ou: “imitem as qualidades (os modos) do Senhor”. A palavra grega para “revestir-se de” significa literalmente “vestir”. (Lu 15:22; At 12:21) Neste versículo, ela foi usada em sentido figurado e transmite a ideia de passar a ter as mesmas qualidades de outra pessoa. Essa mesma palavra grega aparece em Col 3:10, 12. Aqui, em Ro 13:14, Paulo está incentivando os cristãos a se esforçarem para seguir de perto a Jesus, como que “vestindo” o exemplo dele e o seu modo de pensar, e se tornando cada vez mais parecidos com ele.
+====
+
+'''
+
+xref:045-romanos/045-romanos-012.adoc#v45-12-0[&#60; Capítulo Anterior] | <<v45-13-0,Topo>> | xref:045-romanos/045-romanos-014.adoc#v45-14-0[Próximo Capítulo &#62;]

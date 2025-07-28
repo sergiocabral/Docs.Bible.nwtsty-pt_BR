@@ -1,0 +1,339 @@
+include::./index.adoc[]
+
+[[v43-5-0]]
+=== As Boas Novas Segundo João, 5
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* F. Ministério de Jesus a partir de uma festividade dos judeus, provavelmente a Páscoa de 31 d.C. (5:1-47)
+* No sábado, Jesus cura um homem doente no reservatório de Betezata (5:1-18)
+* Jesus fala da autoridade que ele recebeu do Pai (5:19-24)
+* Mortos em sentido espiritual que derem atenção à voz de Jesus viverão (5:25-27)
+* Os que estão nos túmulos memoriais serão ressuscitados (5:28-30)
+* João Batista, as obras de Jesus, o Pai e as Escrituras dão testemunho sobre Jesus (5:31-47)
+****
+
+[[v43-5-1]]
+
+^<<v43-5-1,1>>^ Depois disso houve uma festividade dos judeus, e Jesus subiu a Jerusalém.
+
+[TIP]
+====
+- *uma festividade dos judeus*: João não informa qual é a festividade de que ele está falando, mas há bons motivos para acreditar que seja a Páscoa do ano 31 d.C. A maior parte do Evangelho de João foi escrita em ordem cronológica. E o contexto indica que não passou muito tempo entre Jesus dizer que faltavam “quatro meses para chegar a colheita” (Jo 4:35) e a festividade mencionada aqui. A colheita, mais especificamente a colheita da cevada, começava na época da Páscoa, que caía no dia 14 de nisã. Assim, parece que Jesus falou essas palavras mais ou menos no mês de quisleu (novembro/dezembro), uns quatro meses antes da Páscoa. No período entre quisleu e nisã, aconteciam duas outras festividades, a Festividade da Dedicação e a Festividade de Purim, mas a Lei não exigia que os israelitas subissem a Jerusalém para participar dessas festividades. Por outro lado, a Lei exigia que os israelitas fossem a Jerusalém para a Páscoa (De 16:16), o que torna provável que ela seja a “festividade dos judeus” mencionada aqui. É verdade que o relato de João cita poucos acontecimentos entre a festividade mencionada aqui e a Páscoa mencionada em Jo 6:4, mas isso não quer dizer que não tenha passado um ano entre elas. João resumiu os primeiros anos do ministério de Jesus e não mencionou muitos acontecimentos que já tinham sido relatados nos outros Evangelhos, conforme mostram as tabelas no Apêndice A7. Na verdade, os outros Evangelhos mostram que muita coisa aconteceu entre a Páscoa mencionada em Jo 2:13 e a mencionada em Jo 6:4. Isso apoia a conclusão de que outra Páscoa ocorreu entre elas. — Veja o Apêndice A7 e a nota de estudo em Jo 2:13.
+====
+
+[[v43-5-2]]
+
+^<<v43-5-2,2>>^ Em Jerusalém, junto ao Portão das Ovelhas, há um reservatório com cinco pórticos,^&#42;1^ chamado em hebraico de Betezata.
+
+[NOTE]
+====
+. Ou: “colunatas”.
+====
+
+[TIP]
+====
+- *hebraico*: Nas Escrituras Gregas Cristãs, os escritores inspirados da Bíblia chamaram de “hebraico” o idioma falado pelos judeus (Jo 19:13, 17, 20; At 21:40; 22:2; Ap 9:11; 16:16) e usado pelo glorificado Jesus ao falar com Saulo de Tarso (At 26:14, 15). O texto de At 6:1 diferencia os “judeus que falavam hebraico” dos “judeus que falavam grego”. Alguns estudiosos afirmam que todas essas ocorrências da palavra “hebraico” deveriam ser traduzidas como “aramaico”, mas há bons motivos para acreditar que a palavra realmente se refere ao idioma hebraico. Por exemplo, o médico Lucas diz em Atos que o apóstolo Paulo falou ao povo de Jerusalém “no idioma hebraico”. Paulo estava falando com pessoas que gastavam grande parte de seu tempo estudando a Lei de Moisés, em hebraico. Além disso, os Rolos do Mar Morto (um conjunto de muitos fragmentos e manuscritos bíblicos e não bíblicos), em sua maior parte, foram escritos em hebraico, mostrando que o idioma era usado pelos judeus no dia a dia. Também foram encontrados alguns fragmentos em aramaico, mas isso mostra apenas que os dois idiomas eram usados. Assim, parece muito improvável que os escritores bíblicos usassem a palavra “hebraico” para se referir ao idioma aramaico, ou siríaco. (At 21:40; 22:2; compare com At 26:14.) Em 2Rs 18:26, as Escrituras Hebraicas diferenciam o “aramaico” do “idioma dos judeus”. E o historiador judeu Josefo, comentando sobre esse mesmo relato de 2 Reis, fala do “aramaico” e do “hebraico” como dois idiomas diferentes. (Jewish Antiquities, X, 8 [i, 2]) É verdade que o hebraico e o aramaico têm algumas palavras bem parecidas e que algumas palavras hebraicas vêm do aramaico. Mas parece não haver motivo para os escritores das Escrituras Gregas Cristãs terem usado “hebraico” se estivessem se referindo ao “aramaico”.
+- *Betezata*: Nome de origem hebraica que significa “casa da oliva [ou: de olivas]”. Alguns manuscritos chamam o reservatório de “Betesda”, que possivelmente significa “casa de misericórdia”. Outros manuscritos dizem “Betsaida”, que significa “casa do caçador [ou: pescador]”. Mas muitos estudiosos hoje preferem o nome Betezata.
+====
+
+[[v43-5-3]]
+
+^<<v43-5-3,3>>^ Naquele lugar se deitava uma multidão de doentes, cegos, mancos e pessoas que tinham membros atrofiados.^&#42;1^
+
+[NOTE]
+====
+. Ou: “paralisados”. Lit.: “ressequidos”.
+====
+
+[TIP]
+====
+- *se deitava uma multidão de doentes*: Muitos acreditavam que a pessoa seria curada se entrasse no reservatório quando a água estava agitada. (Jo 5:7) Era por isso que os doentes se juntavam no local. Mas a Bíblia não diz que um anjo de Deus fazia milagres no reservatório de Betezata. (Veja a nota de estudo em Jo 5:4.) Quem realmente fez um milagre nesse local foi Jesus. É interessante que o homem foi curado imediatamente, sem ter que entrar na água.
+====
+
+[[v43-5-4]]
+
+^<<v43-5-4,4>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos acrescentam as palavras a seguir (ou parte delas), começando no final do versículo 3*: “esperando que a água se movesse. 4 Porque um anjo do Senhor [ou: “de Jeová”] costumava descer de tempos em tempos ao reservatório e agitar a água; o primeiro que entrasse após a agitação da água ficava bom, livre de qualquer doença que tivesse.” Mas essas palavras não aparecem nos manuscritos mais antigos e confiáveis e provavelmente não fazem parte do texto original do Evangelho de João. (Veja o Apêndice A3.) Algumas traduções das Escrituras Gregas Cristãs para o hebraico que incluem essas palavras (chamadas de J9, 22, 23 no Apêndice C4) dizem “um anjo de Jeová”, em vez de “um anjo do Senhor”.
+====
+
+[[v43-5-5]]
+
+^<<v43-5-5,5>>^ E ali havia um homem que já estava doente por 38 anos.
+
+[[v43-5-6]]
+
+^<<v43-5-6,6>>^ Vendo aquele homem deitado ali, e sabendo que ele já estava doente por muito tempo, Jesus lhe disse: “Você quer ficar bom?”
+
+[[v43-5-7]]
+
+^<<v43-5-7,7>>^ O doente respondeu: “Senhor, não tenho ninguém para me colocar no reservatório quando a água fica agitada; mas, quando eu estou indo, outro desce na minha frente.”
+
+[[v43-5-8]]
+
+^<<v43-5-8,8>>^ Jesus lhe disse: “Levante-se! Pegue a sua esteira e ande.”
+
+[TIP]
+====
+- *esteira*: Ou: “cama”. Nas terras bíblicas, a cama muitas vezes era uma esteira simples, feita de palha ou junco, que às vezes era acolchoada ou utilizada com algum tipo de colchão para dar conforto. Quando a cama não estava sendo usada, ela podia ser enrolada e guardada. Neste contexto, tudo indica que a palavra grega krábattos se refere ao tipo de cama usado por uma pessoa pobre. No relato de Mr 2:4-12, a mesma palavra grega se refere a um tipo de “maca” em que um homem paralítico estava sendo carregado.
+====
+
+[[v43-5-9]]
+
+^<<v43-5-9,9>>^ E o homem ficou imediatamente bom, pegou a sua esteira e começou a andar.
+Aquele dia era sábado.
+
+[[v43-5-10]]
+
+^<<v43-5-10,10>>^ Por isso, os judeus começaram a dizer ao homem que havia sido curado: “Hoje é sábado; não é permitido que você carregue a esteira.”
+
+[TIP]
+====
+- *os judeus*: No Evangelho de João, a palavra “judeus” pode ter significados diferentes, dependendo do contexto. Ela pode se referir aos judeus em geral, aos habitantes da região da Judeia ou aos que moravam em Jerusalém ou perto dali. A palavra “judeus” também pode se referir aos judeus que odiavam Jesus e se apegavam às tradições humanas acrescentadas à Lei mosaica. Neste contexto, pode ser que a expressão “os judeus” se refira às autoridades judaicas, os líderes religiosos dos judeus. Ou ela pode ter sido usada em sentido mais amplo para se referir, não só a essas autoridades, mas também a outros judeus que seguiam zelosamente as tradições.
+====
+
+[[v43-5-11]]
+
+^<<v43-5-11,11>>^ Mas ele lhes respondeu: “O mesmo homem que me curou disse: ‘Pegue a sua esteira e ande.’”
+
+[[v43-5-12]]
+
+^<<v43-5-12,12>>^ Eles lhe perguntaram: “Quem é o homem que lhe disse: ‘Pegue-a e ande’?”
+
+[[v43-5-13]]
+
+^<<v43-5-13,13>>^ Mas o homem que havia sido curado não sabia quem ele era, pois Jesus tinha desaparecido no meio da multidão que estava ali.
+
+[[v43-5-14]]
+
+^<<v43-5-14,14>>^ Depois disso, Jesus o encontrou no templo e lhe disse: “Veja, você ficou bom. Não peque mais, para que não lhe aconteça algo pior.”
+
+[TIP]
+====
+- *Não peque mais*: Estas palavras de Jesus não significam que o homem tinha ficado doente como castigo por algum pecado. Na verdade, a doença que ele teve por 38 anos era resultado da imperfeição herdada de Adão. (Jo 5:5-9; compare com Jo 9:1-3.) Depois de mostrar misericórdia e curar o homem, Jesus deu um conselho a ele. Dali em diante, o homem deveria seguir o caminho da salvação e não deveria pecar de forma intencional, já que isso poderia resultar em algo pior do que uma doença: a destruição eterna. — He 10:26, 27.
+====
+
+[[v43-5-15]]
+
+^<<v43-5-15,15>>^ O homem foi embora e disse aos judeus que tinha sido Jesus quem o havia curado.
+
+[[v43-5-16]]
+
+^<<v43-5-16,16>>^ Por isso os judeus perseguiam Jesus, porque ele fazia essas coisas durante o sábado.
+
+[TIP]
+====
+- *perseguiam*: O modo como o verbo grego foi conjugado aqui indica que os judeus (talvez os líderes judaicos ou os judeus que se apegavam a tradições humanas acrescentadas à Lei mosaica) começaram a perseguir Jesus e continuaram a fazer isso.
+====
+
+[[v43-5-17]]
+
+^<<v43-5-17,17>>^ Ele lhes disse então: “Meu Pai está trabalhando até agora, e eu estou trabalhando.”
+
+[[v43-5-18]]
+
+^<<v43-5-18,18>>^ É por isso que os judeus procuravam ainda mais matá-lo, porque ele não somente violava o sábado, mas também chamava a Deus de seu próprio Pai, fazendo-se igual a Deus.
+
+[TIP]
+====
+- *fazendo-se igual a Deus*: Jesus era o Filho de Deus e, por isso, podia chamar a Deus de seu Pai. Mas ele nunca afirmou que era igual a Deus. (Jo 5:17) Na verdade, foram os judeus que disseram que Jesus estava se fazendo igual a Deus por chamá-lo de Pai. Mas eles estavam errados ao fazer essa acusação, assim como estavam errados quando diziam que Jesus violava o sábado. Nos versículos 19 a 24, Jesus deixou claro que não podia fazer nem uma única coisa de sua própria iniciativa. Assim, é óbvio que ele não estava dizendo que era igual a Deus. — Jo 14:28.
+====
+
+[[v43-5-19]]
+
+^<<v43-5-19,19>>^ Em vista disso, Jesus lhes disse: “Digo-lhes com toda a certeza: O Filho não pode fazer nem uma única coisa de sua própria iniciativa, mas somente o que ele vê o Pai fazer. Pois as coisas que Ele faz, o Filho também faz da mesma maneira.
+
+[TIP]
+====
+- *de sua própria iniciativa*: Ou: “por conta própria”. Ou seja, de maneira independente. Lit.: “de si mesmo”. Como Jesus é o Principal Representante de Deus, ele sempre ouve a voz de Jeová e fala aquilo que Jeová o orienta a falar.
+====
+
+[[v43-5-20]]
+
+^<<v43-5-20,20>>^ Pois o Pai ama o Filho e lhe mostra todas as coisas que Ele mesmo faz, e lhe mostrará obras maiores do que essas, para que vocês fiquem maravilhados.
+
+[TIP]
+====
+- *o Pai ama o Filho*: Ou: “o Pai tem afeição pelo Filho”. Aqui, Jesus descreve a forte união e amizade que existem entre ele e o seu Pai desde o princípio da criação. (Pr 8:30) Quando João registrou estas palavras de Jesus, ele usou uma forma do verbo grego filéo, que envolve sentimentos de carinho e afeto. Esse verbo muitas vezes descreve um forte apego, do tipo que verdadeiros amigos têm um pelo outro. Por exemplo, ele é usado para descrever o que Jesus sentia por seu amigo Lázaro. (Jo 11:3, 36) Esse verbo também é usado para descrever os sentimentos entre pais e filhos. (Mt 10:37) Além disso, filéo é usado para falar do forte apego que Jeová tem por cada um dos seguidores de seu Filho e também para falar dos sentimentos que esses seguidores têm pelo Filho de Deus. — Jo 16:27.
+====
+
+[[v43-5-21]]
+
+^<<v43-5-21,21>>^ Pois, assim como o Pai levanta os mortos e lhes dá vida, assim também o Filho dá vida a quem ele quer.
+
+[[v43-5-22]]
+
+^<<v43-5-22,22>>^ Pois o Pai não julga a ninguém, mas confiou todo o julgamento ao Filho,
+
+[[v43-5-23]]
+
+^<<v43-5-23,23>>^ para que todos honrem o Filho, assim como honram o Pai. Quem não honra o Filho não honra o Pai, que o enviou.
+
+[[v43-5-24]]
+
+^<<v43-5-24,24>>^ Digo-lhes com toda a certeza: Quem ouve as minhas palavras e acredita naquele que me enviou tem vida eterna, e não será julgado, mas passou da morte para a vida.
+
+[TIP]
+====
+- *julgado*: A palavra grega usada aqui (krísis) pode ter diversas variações de sentido e seu significado depende do contexto. Por exemplo, ela pode se referir ao ato ou processo de julgar ou avaliar (Jo 5:22, 27, 29 e a nota de estudo), à qualidade da justiça (Mt 23:23; Lu 11:42) ou a um tribunal de justiça (Mt 5:21). Ela também pode se referir a um julgamento, tanto favorável quanto desfavorável. Mas, na maioria das vezes que a palavra krísis aparece nas Escrituras Gregas Cristãs, ela se refere a um julgamento que leva à condenação. Neste versículo as palavras “julgado” e morte são usadas em contraste com vida e vida eterna. Isso mostra que aqui a palavra krísis se refere a um julgamento que leva à morte. — 2Pe 2:9; 3:7.
+- *passou da morte para a vida*: Pelo visto, Jesus estava falando de pessoas que estão mortas em sentido espiritual, mas que, ao ouvirem as palavras dele, exercem fé e param de praticar o pecado. (Ef 2:1, 2, 4-6) Pode-se dizer que elas passam “da morte para a vida” porque estavam condenadas à morte, mas passaram a ter esperança de vida eterna por causa de sua fé em Deus. Em outra ocasião, quando um homem judeu disse para Jesus que queria ir para casa enterrar seu pai, Jesus disse: “Deixe que os mortos enterrem seus mortos.” (Lu 9:60) Tudo indica que, quando falou isso, Jesus também estivesse se referindo aos que estão mortos em sentido espiritual. — Veja as notas de estudo em Lu 9:60; Jo 5:25.
+====
+
+[[v43-5-25]]
+
+^<<v43-5-25,25>>^ “Digo-lhes com toda a certeza: Vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que tiverem dado atenção viverão.
+
+[TIP]
+====
+- *os mortos*: Quando Jesus usou as palavras agora é, ele estava dizendo que já tinha chegado a hora, ou o tempo, para os mortos ‘ouvirem a voz’ dele. Assim, ele só poderia estar falando de pessoas mortas em sentido espiritual, ou seja, de humanos que estavam condenados à morte por causa do pecado herdado de Adão. (Ro 5:12) Do ponto de vista de Deus, a humanidade em geral não tem direito à vida porque “o salário” que o pecado paga é a morte. (Ro 6:23) Mas, quando uma pessoa ouve as “palavras” de Jesus e as segue, ela pode, por assim dizer, ‘passar da morte para a vida’. (Veja a nota de estudo em Jo 5:24.) Na Bíblia, as palavras “escutar” e “ouvir” são usadas com frequência com o sentido de “dar atenção” ou “obedecer”.
+====
+
+[[v43-5-26]]
+
+^<<v43-5-26,26>>^ Pois assim como o Pai tem vida em si mesmo, assim concedeu também ao Filho ter vida em si mesmo.
+
+[TIP]
+====
+- *tem vida em si mesmo*: Ou: “tem em si mesmo o dom da vida”. Jesus tem “vida em si mesmo” porque seu Pai, Jeová, deu a Jesus autoridade e poder para fazer coisas que antes só ele fazia. Por exemplo, Jesus pode ajudar os humanos a ganhar a vida eterna por dar a eles a oportunidade de ter a aprovação de Deus. Jesus também recebeu o poder de dar vida aos mortos por meio da ressurreição. Cerca de um ano depois de dizer as palavras registradas aqui, Jesus indicou que seus seguidores poderiam ter vida em si mesmos em outro sentido. — Para entender o significado da expressão “ter vida em si mesmo” quando se refere aos seguidores de Jesus, veja a nota de estudo em Jo 6:53.
+====
+
+[[v43-5-27]]
+
+^<<v43-5-27,27>>^ E deu a ele autoridade para julgar, porque ele é o Filho do Homem.
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v43-5-28]]
+
+^<<v43-5-28,28>>^ Não fiquem admirados com isso, pois vem a hora em que todos os que estão nos túmulos memoriais ouvirão a voz dele
+
+[TIP]
+====
+- *nos túmulos memoriais*: A palavra grega mnemeíon, traduzida aqui como “túmulos memoriais”, vem do verbo grego mimnéskomai, que significa “lembrar-se; recordar-se”. Ela se refere a um túmulo ou a uma sepultura. Assim, mnemeíon inclui a ideia de continuar se lembrando de uma pessoa que morreu. Neste contexto, ela indica que a pessoa é lembrada por Deus. Entender que a palavra grega usada aqui tem esse sentido torna o pedido do criminoso que foi executado ao lado de Jesus ainda mais significativo. Ele pediu: “Lembre-se [uma forma do verbo mimnéskomai] de mim quando entrar no seu Reino.” — Lu 23:42.
+====
+
+[[v43-5-29]]
+
+^<<v43-5-29,29>>^ e sairão: os que fizeram coisas boas, para uma ressurreição de vida; e os que praticaram coisas ruins, para uma ressurreição de julgamento.
+
+[TIP]
+====
+- *uma ressurreição*: Veja a nota de estudo em Mt 22:23.
+- *uma ressurreição de vida*: Os que “fizeram coisas boas” antes de morrer vão receber “uma ressurreição de vida”. O propósito de Deus para esses fiéis é tão certo que, mesmo enquanto ainda estão mortos, “para [Deus], todos eles vivem”; os nomes deles estão escritos “no rolo [ou: “livro”] da vida”, que existe desde “a fundação do mundo”. (Lu 20:38 e a nota de estudo; Ap 17:8; veja também Fil 4:3 e a nota de estudo.) Pelo visto, eles são os mesmos que os “justos” mencionados em At 24:15, que serão ressuscitados. De acordo com Ro 6:7, “quem morreu foi absolvido do seu pecado”. Os pecados que esses justos cometeram foram cancelados, ou apagados, mas o seu histórico de fidelidade não. (He 6:10) É claro que esses justos precisarão permanecer fiéis depois de serem ressuscitados para que seus nomes continuem no “rolo [ou: “livro”] da vida” e, assim, eles possam receber a “vida eterna”. — Ap 20:12; Jo 3:36.
+- *uma ressurreição de julgamento*: Os que “praticaram coisas ruins” antes de morrer vão receber “uma ressurreição de julgamento”. A palavra grega traduzida aqui como “julgamento” (krísis) pode ter diversas variações de sentido e seu significado depende do contexto. (Veja a nota de estudo em Jo 5:24.) Neste versículo, ela parece ter sido usada para se referir a um processo de avaliação e teste ou, como diz um léxico grego, um “exame detalhado de conduta”. Pelo visto, os que vão receber “uma ressurreição de julgamento” são os mesmos que At 24:15 chama de “injustos”. Esses injustos serão julgados com base no que fizerem durante o governo de Cristo e daqueles que serão juízes junto com ele. (Lu 22:30; Ro 6:7) Nesse período de avaliação, os injustos serão “julgados individualmente segundo as suas ações”. (Ap 20:12, 13) Para que eles possam ter seus nomes incluídos “no livro da vida” e receber a “vida eterna”, eles precisarão rejeitar o modo de vida injusto que tinham antes de morrer. — Ap 20:15; Jo 3:36.
+====
+
+[[v43-5-30]]
+
+^<<v43-5-30,30>>^ Não posso fazer nem uma única coisa de minha própria iniciativa. Assim como ouço, eu julgo, e o meu julgamento é justo, porque não procuro fazer a minha própria vontade, mas a vontade daquele que me enviou.
+
+[TIP]
+====
+- *de minha própria iniciativa*: Ou: “por conta própria”. Ou seja, de maneira independente. Lit.: “de mim mesmo”. Como Jesus é o Principal Representante de Deus, ele sempre ouve a voz de Jeová e fala aquilo que Jeová o orienta a falar.
+- *Assim como ouço*: Ou seja, o que Jesus ouve do Pai, o Juiz Supremo.
+====
+
+[[v43-5-31]]
+
+^<<v43-5-31,31>>^ “Se apenas eu der testemunho de mim, o meu testemunho não é verdadeiro.
+
+[[v43-5-32]]
+
+^<<v43-5-32,32>>^ Há outro que dá testemunho de mim, e eu sei que o testemunho que ele dá de mim é verdadeiro.
+
+[TIP]
+====
+- *outro*: Jesus sem dúvida estava se referindo ao Pai. — Jo 5:34, 37.
+====
+
+[[v43-5-33]]
+
+^<<v43-5-33,33>>^ Vocês enviaram homens a João, e ele deu testemunho da verdade.
+
+[[v43-5-34]]
+
+^<<v43-5-34,34>>^ No entanto, não aceito o testemunho de um homem, mas digo essas coisas para que vocês sejam salvos.
+
+[[v43-5-35]]
+
+^<<v43-5-35,35>>^ Aquele homem era uma lâmpada acesa e brilhante, e por pouco tempo vocês estavam dispostos a se alegrar muito na sua luz.
+
+[[v43-5-36]]
+
+^<<v43-5-36,36>>^ Mas eu tenho um testemunho maior do que o de João, porque as próprias obras que o meu Pai me designou para realizar, as obras que eu faço, dão testemunho de que o Pai me enviou.
+
+[[v43-5-37]]
+
+^<<v43-5-37,37>>^ E o próprio Pai, que me enviou, deu testemunho de mim. Vocês jamais ouviram a voz dele nem viram a sua forma,
+
+[[v43-5-38]]
+
+^<<v43-5-38,38>>^ e a palavra dele não reside em vocês, porque vocês não acreditam naquele que ele enviou.
+
+[[v43-5-39]]
+
+^<<v43-5-39,39>>^ “Vocês pesquisam as Escrituras porque pensam que terão vida eterna por meio delas, e são elas mesmas que dão testemunho de mim.
+
+[TIP]
+====
+- *as Escrituras*: Esta expressão muitas vezes se refere às Escrituras Hebraicas como um todo. Para os judeus que pesquisavam as Escrituras, deveria ser fácil perceber que Jesus era o Messias. Eles só precisavam comparar o que as Escrituras diziam com a vida e os ensinamentos de Jesus. Mas eles não estavam dispostos a examinar com sinceridade as muitas profecias que provavam que Jesus era o prometido Messias. Apesar de acreditarem que teriam vida eterna por meio das Escrituras, os judeus se negavam a aceitar o caminho verdadeiro para a vida eterna indicado por elas. — De 18:15; Lu 11:52; Jo 7:47, 48.
+- *elas*: As Escrituras tinham profecias sobre o Messias. Essas profecias deixavam claro que Jesus era o prometido Messias e que era por meio dele que as pessoas poderiam ter “vida eterna”.
+====
+
+[[v43-5-40]]
+
+^<<v43-5-40,40>>^ Contudo, vocês não querem vir a mim para que possam ter vida.
+
+[[v43-5-41]]
+
+^<<v43-5-41,41>>^ Não aceito glória de homens,^&#42;1^
+
+[NOTE]
+====
+. Ou: “de pessoas; de humanos”.
+====
+
+[[v43-5-42]]
+
+^<<v43-5-42,42>>^ mas eu bem sei que vocês não têm dentro de si o amor de^&#42;1^ Deus.
+
+[NOTE]
+====
+. Ou: “a”.
+====
+
+[[v43-5-43]]
+
+^<<v43-5-43,43>>^ Vim em nome do meu Pai, mas vocês não me receberam. Se outro viesse no seu próprio nome, vocês o receberiam.
+
+[[v43-5-44]]
+
+^<<v43-5-44,44>>^ Como vocês podem crer, se aceitam glória uns dos outros e não procuram a glória que vem do único Deus?
+
+[TIP]
+====
+- *do único Deus*: Alguns dos manuscritos mais antigos não incluem aqui a palavra “Deus”. Seguindo esses manuscritos, a tradução ficaria “do Único”. Mas a palavra “Deus” aparece em outros manuscritos que também estão entre os mais antigos e mais confiáveis.
+====
+
+[[v43-5-45]]
+
+^<<v43-5-45,45>>^ Não pensem que eu os acusarei perante o Pai; há alguém que os acusa: Moisés, em quem vocês depositaram a sua esperança.
+
+[[v43-5-46]]
+
+^<<v43-5-46,46>>^ De fato, se acreditassem em Moisés, vocês acreditariam em mim, porque ele escreveu a meu respeito.
+
+[[v43-5-47]]
+
+^<<v43-5-47,47>>^ Mas, se vocês não acreditam nos escritos dele, como acreditarão no que eu digo?”
+
+'''
+
+xref:043-joao/043-joao-004.adoc#v43-4-0[&#60; Capítulo Anterior] | <<v43-5-0,Topo>> | xref:043-joao/043-joao-006.adoc#v43-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v50-3-0]]
+=== Aos Filipenses, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. AVISO CONTRA “OS QUE MUTILAM A CARNE” (3:1-11)
+* “Os que têm a verdadeira circuncisão” servem pelo espírito de Deus e não se orgulham da carne (3:1-4a)
+* Tipo de vida que Paulo tinha no passado e que agora ele considera como lixo (3:4b-11)
+* F. O EXEMPLO DE PAULO PARA OS FILIPENSES (3:12–4:1)
+* Esquecendo-se das coisas atrás, Paulo agora se estica para alcançar as coisas à frente (3:12-16)
+* Aviso contra os “inimigos da estaca”; a verdadeira cidadania dos cristãos está nos céus (3:17–4:1)
+****
+
+[[v50-3-1]]
+
+^<<v50-3-1,1>>^ Por fim, meus irmãos, continuem a se alegrar no Senhor. Não é incômodo para mim lhes escrever as mesmas coisas, e é para a sua segurança.
+
+[TIP]
+====
+- *continuem a se alegrar no Senhor*: Na sua carta aos filipenses, Paulo fala várias vezes da sua própria alegria e incentiva seus irmãos a se alegrarem. (Fil 1:18; 2:17, 18, 28, 29; 4:1, 4, 10) O fato de Paulo destacar a alegria é impressionante, já que tudo indica que ele escreveu esta carta enquanto estava em prisão domiciliar. A expressão “no Senhor” pode significar, entre outras coisas, “com relação ao [ou: “em união com o”] Senhor” ou “por causa do Senhor”. É verdade que neste contexto o título “Senhor” poderia se referir tanto a Jeová Deus como a Jesus Cristo. Mas aqui Paulo talvez estivesse se referindo a conselhos parecidos encontrados nas Escrituras Hebraicas e que se relacionam a Jeová. — Sal 32:11; 97:12; veja “Introdução a Filipenses” e a nota de estudo em Fil 4:4.
+====
+
+[[v50-3-2]]
+
+^<<v50-3-2,2>>^ Cuidado com os cães; cuidado com os que causam dano; cuidado com os que mutilam a carne.
+
+[TIP]
+====
+- *Cuidado com*: Neste versículo, o verbo grego traduzido como “cuidado com” aparece três vezes seguido de palavras que começam com a mesma consoante grega. (Veja a Kingdom Interlinear.) Esse recurso literário deu mais destaque e importância às palavras de Paulo. Além disso, Paulo descreve de três modos diferentes o grupo que estava ameaçando a fé dos filipenses. Isso faz um contraste com os três modos diferentes em que os fiéis são descritos no versículo 3.
+- *os cães*: Aqui, Paulo usou a palavra “cães” em sentido figurado para alertar os filipenses contra falsos instrutores. Muitos desses falsos instrutores eram judaizantes, que insistiam que os cristãos deviam seguir a Lei mosaica. De acordo com a Lei, os cães eram animais impuros. Por isso, nas Escrituras essa palavra geralmente tem um sentido bem negativo. (Le 11:27; veja a nota de estudo em Mt 7:6.) Nas cidades, os cachorros muitas vezes se alimentavam de restos de comida que encontravam no lixo. Assim, eles eram conhecidos por comerem alimentos que as pessoas consideravam detestáveis, especialmente aquelas que tinham sido ensinadas a obedecer à Lei mosaica. (Êx 22:31; 1Rs 14:11; 21:19; Pr 26:11) Nas Escrituras Hebraicas, os inimigos dos servos fiéis de Deus às vezes são comparados a cachorros. (Sal 22:16; 59:5, 6) Ao dizer que os falsos instrutores eram como cães, Paulo queria mostrar que eles não eram puros e não estavam em condições de transmitir a outros os ensinamentos de Cristo.
+- *os que mutilam a carne*: Para se referir aos que apoiavam a circuncisão, Paulo usou a expressão “os que mutilam a carne” (lit.: “o corte”). Ele talvez tenha feito um jogo de palavras com a expressão “os que têm a verdadeira circuncisão” (lit.: “o corte em volta”) que aparece no versículo 3. — Veja a nota de estudo em Fil 3:3.
+====
+
+[[v50-3-3]]
+
+^<<v50-3-3,3>>^ Pois os que têm a verdadeira circuncisão somos nós, que prestamos serviço sagrado pelo espírito de Deus e nos orgulhamos em Cristo Jesus, e que não baseamos a nossa confiança na carne,
+
+[TIP]
+====
+- *os que têm a verdadeira circuncisão somos nós*: Essa frase pode ser traduzida literalmente como “nós somos a circuncisão”. Aqui, Paulo se refere aos cristãos como o grupo que tinha a única circuncisão que agora era exigida e aprovada por Deus: a circuncisão do coração. (Veja a nota de estudo em Ro 2:29.) Talvez Paulo estivesse finalizando o jogo de palavras iniciado no versículo 2. — Veja a nota de estudo em Fil 3:2.
+- *prestamos serviço sagrado*: Ou: “servimos (adoramos)”. O verbo grego usado aqui, latreúo, tem o sentido básico de “servir”. Na Bíblia, ele se refere a servir a Deus ou trabalhar em coisas relacionadas com a adoração dele. — Mt 4:10; Lu 2:37; At 7:7; Ro 1:9; 2Ti 1:3; He 9:14; Ap 22:3.
+====
+
+[[v50-3-4]]
+
+^<<v50-3-4,4>>^ apesar de que eu, mais do que ninguém, tenho motivos para confiar na carne.
+Se algum outro homem acha que tem motivos para confiar na carne, eu tenho mais:
+
+[TIP]
+====
+- *tenho motivos para confiar na carne*: Ao usar a palavra “carne”, Paulo se referiu a coisas que, do ponto de vista humano, ou carnal, teriam dado vantagens para ele. Ele cita algumas dessas coisas em Fil 3:5, 6.
+====
+
+[[v50-3-5]]
+
+^<<v50-3-5,5>>^ circuncidado no oitavo dia, da nação de Israel, da tribo de Benjamim, hebreu nascido de hebreus; com respeito à Lei, fariseu;
+
+[TIP]
+====
+- *da tribo de Benjamim*: Neste versículo e em Ro 11:1, Paulo revela que é da tribo de Benjamim. Ele faz isso para destacar um aspecto da sua origem judaica. Benjamim era uma tribo muito respeitada. Em seu leito de morte, o patriarca Jacó tinha profetizado o seguinte sobre os descendentes de Benjamim: “Benjamim continuará a dilacerar como um lobo. De manhã comerá a presa e ao anoitecer repartirá o despojo.” (Gên 49:27) E, daquela tribo, realmente tinham saído muitos guerreiros valentes e habilidosos que lutaram como lobos para defender o povo de Jeová. Alguns benjaminitas cumpriram essa profecia “de manhã”, ou seja, quando Jeová estabeleceu seu reinado em Israel; outros fizeram isso “ao anoitecer”, ou seja, depois que aquele reinado tinha sido interrompido. (1Sa 9:15-17; 1Cr 12:2; Est 2:5-7) Em sentido espiritual, Paulo também foi um grande guerreiro, lutando contra doutrinas e práticas erradas. E ele teve um papel importante em ensinar inúmeros cristãos a ser bem-sucedidos nessa luta. — Ef 6:11-17.
+- *hebreu nascido de hebreus*: Aqui, Paulo explica o mesmo ponto de 2Co 11:22, destacando sua origem judaica. (Veja a nota de estudo.) Em outras palavras, ele estava dizendo que era hebreu de verdade e não de uma linhagem de não judeus. Paulo talvez tenha dito isso por causa de falsos instrutores que se gabavam por ter uma formação judaica e que questionavam se ele era mesmo judeu. No entanto, Paulo enfatiza que coisas como essa tinham pouca importância para ele. — Veja as notas de estudo em Fil 3:7, 8.
+- *com respeito à Lei, fariseu*: Aqui, Paulo fala sobre a sua formação no judaísmo. Ele provavelmente queria dizer que tinha sido criado por pais que seguiam de perto o ensino dos fariseus, um ramo do judaísmo. (Veja a nota de estudo em At 23:6.) Outros cristãos também já tinham sido fariseus. O texto de At 15:5 (veja a nota de estudo) se refere a eles como “alguns da seita dos fariseus”.
+====
+
+[[v50-3-6]]
+
+^<<v50-3-6,6>>^ com respeito ao zelo, perseguidor da congregação; com respeito à justiça baseada na Lei, alguém que se mostrou irrepreensível.
+
+[TIP]
+====
+- *justiça*: Veja o Glossário.
+====
+
+[[v50-3-7]]
+
+^<<v50-3-7,7>>^ Contudo, as coisas que para mim eram ganho, eu considerei como perda^&#42;1^ por causa do Cristo.
+
+[NOTE]
+====
+. Ou, possivelmente: “eu voluntariamente abandonei”.
+====
+
+[TIP]
+====
+- *ganho . . . perda*: Os termos que Paulo usou para “ganho” e “perda” eram bem usados no mundo comercial. Ele usou esses termos para se referir às coisas que considerava importantes na vida. Paulo foi criado como fariseu. (Fil 3:5, 6) Ele já nasceu com todos os privilégios e direitos de um cidadão romano. (At 22:28) Como aluno de Gamaliel, ele tinha um alto grau de instrução e era fluente tanto em grego como em hebraico. Paulo poderia ter se destacado muito no judaísmo. (At 21:37, 40; 22:3) Mas ele abriu mão dessas vantagens e oportunidades; ele as considerou como perda para poder se tornar um seguidor fiel de Cristo. Paulo viveu de acordo com o conselho que Jesus deu a seus discípulos: eles deviam avaliar com cuidado suas prioridades a respeito do que consideravam ganhos e perdas. — Mt 16:26.
+====
+
+[[v50-3-8]]
+
+^<<v50-3-8,8>>^ Mais do que isso, considero realmente todas as coisas como perda, por causa do valor superior do conhecimento de Cristo Jesus, meu Senhor. Por causa dele aceitei a perda de todas as coisas e as considero simplesmente como lixo, para poder ganhar a Cristo
+
+[TIP]
+====
+- *lixo*: A palavra traduzida aqui como “lixo” só aparece neste versículo nas Escrituras Gregas Cristãs. Ela também pode ser traduzida como “resto”, “refugo” e até “esterco”. Por usar essa palavra, Paulo mostrou de forma bem expressiva o valor relativo que passou a dar às vantagens e oportunidades que eram tão importantes para ele antes de se tornar cristão. (Veja a nota de estudo em Fil 3:5.) Ele mostrou que estava determinado a se apegar à sua decisão de deixar para trás aquelas vantagens, sem nunca se arrepender. Tudo aquilo que um dia tinha sido importante para ele agora não passava de lixo quando comparado ao “valor superior do conhecimento de Cristo Jesus”.
+====
+
+[[v50-3-9]]
+
+^<<v50-3-9,9>>^ e ser achado em união com ele, não por causa da minha própria justiça por seguir a Lei, mas por causa da justiça que vem por meio da fé em Cristo, a justiça que procede de Deus e se baseia na fé.
+
+[TIP]
+====
+- *da justiça que vem por meio da fé em Cristo*: Veja a nota de estudo em Gál 2:16.
+====
+
+[[v50-3-10]]
+
+^<<v50-3-10,10>>^ O que eu quero é conhecer a ele e o poder da sua ressurreição, e participar nos seus sofrimentos, submetendo-me a uma morte semelhante à dele,
+
+[TIP]
+====
+- *submetendo-me a uma morte semelhante à dele*: Os cristãos ungidos aceitam sofrer uma morte como a de Jesus no sentido de que passam a viver uma vida de sacrifícios, o que inclui abrir mão da esperança de viver para sempre na Terra. Durante toda a sua vida, eles mantêm a integridade ao passar por provações; eles participam nos sofrimentos de Cristo, e alguns deles até mesmo enfrentam a morte diariamente. O modo de vida desses cristãos resulta em sua morte como servos fiéis de Deus, uma morte como a de Cristo. Depois, eles são ressuscitados como criaturas espirituais. — Mr 10:38, 39; Ro 6:4, 5; veja a nota de estudo em Ro 6:3.
+====
+
+[[v50-3-11]]
+
+^<<v50-3-11,11>>^ para ver se de algum modo consigo alcançar a ressurreição dentre os mortos que ocorrerá mais cedo.
+
+[TIP]
+====
+- *a ressurreição . . . que ocorrerá mais cedo*: Muitas traduções dizem apenas “ressurreição”. No entanto, Paulo não usou a palavra grega geralmente usada para ressurreição (anástasis), mas uma bem relacionada a ela (exanástasis; lit.: “fora-ressurreição”, Kingdom Interlinear), que só aparece aqui nas Escrituras Gregas Cristãs. Por isso, vários estudiosos dizem que essa expressão se refere a uma ressurreição especial. Na literatura grega clássica, esse termo era usado para se referir à ideia de levantar cedo de manhã. O fato de Paulo ter usado essa palavra específica dá a entender que ele estava pensando numa ressurreição que ocorreria mais cedo na corrente do tempo (1Co 15:23; 1Te 4:16), antes da ressurreição geral dos mortos para viver na Terra (Jo 5:28, 29; At 24:15). Essa ressurreição que ia ocorrer mais cedo também é chamada de “a primeira ressurreição”; ela envolve a ressurreição dos seguidores ungidos de Cristo para viver no céu. — Ap 20:4-6.
+====
+
+[[v50-3-12]]
+
+^<<v50-3-12,12>>^ Não é que eu já tenha recebido isso, ou que eu já tenha me tornado perfeito, mas me empenho para, se possível, obter aquilo para o qual Cristo Jesus me escolheu.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “me obteve”.
+====
+
+[TIP]
+====
+- *Cristo Jesus*: Alguns manuscritos dizem apenas “Cristo”. Mas a frase mais longa, que inclui “Jesus”, aparece em vários manuscritos bem antigos e confiáveis.
+====
+
+[[v50-3-13]]
+
+^<<v50-3-13,13>>^ Irmãos, não me considero ainda como o tendo obtido; mas uma coisa é certa: esquecendo-me das coisas atrás e esticando-me para alcançar as coisas à frente,
+
+[TIP]
+====
+- *esquecendo-me das coisas atrás*: A palavra grega que foi traduzida aqui como “esquecendo” pode significar “não se preocupar”. É claro que Paulo não tinha apagado da memória as “coisas atrás”; afinal, ele tinha acabado de alistar algumas delas. (Veja a nota de estudo em Fil 3:5.) Mas, ao se tornar cristão, ele escolheu se concentrar no que estava por vir, assim como um corredor que se concentra no trecho da corrida que está à sua frente. (Veja a nota de estudo em esticando-me para alcançar as coisas à frente neste versículo.) Fazer isso ajudou Paulo a se esquecer das “coisas atrás”, ou seja, a não se preocupar com as vantagens e oportunidades que tinha quando era um grande defensor do judaísmo. Ele se recusou a ficar pensando nelas já que não eram mais importantes para ele. — Veja a nota de estudo em Fil 3:8.
+- *esticando-me para alcançar as coisas à frente*: As palavras de Paulo dão a entender que ele está se comparando a um corredor, talvez fazendo uma referência indireta aos atletas nos jogos gregos. (Veja as notas de estudo em 1Co 9:24.) As pessoas no mundo greco-romano estavam bem familiarizadas com as corridas, e os corredores costumavam ser representados em estátuas e em vasos. Os participantes de uma corrida a pé não se concentravam no que estava atrás deles; isso só iria fazê-los diminuir o ritmo. Falando sobre os corredores, o escritor grego Luciano, do século 2 d.C., disse: “Um bom corredor desde o momento [da largada] só pensa em avançar, fixa sua mente na linha de chegada e conta com as suas pernas para vencer.” O corredor faria todo o esforço possível e imaginável para alcançar seu objetivo: a linha de chegada. Paulo manteve o foco, não nas coisas que tinha deixado para trás, mas na recompensa que tinha à frente. — Veja a nota de estudo em Fil 3:14.
+====
+
+[[v50-3-14]]
+
+^<<v50-3-14,14>>^ empenho-me para alcançar o alvo, a fim de receber o prêmio da chamada para cima da parte de Deus, por meio de Cristo Jesus.
+
+[TIP]
+====
+- *o prêmio da chamada para cima*: Paulo sabia que sua esperança era a mesma dos outros cristãos ungidos: governar com Cristo no céu no Reino messiânico. (2Ti 2:12; Ap 20:6) A “chamada para cima” é, na verdade, um convite para fazer parte do Reino celestial. No entanto, para receber “o prêmio”, os “participantes da chamada [ou: “do convite”] celestial” precisam “se assegurar da sua chamada e escolha” por permanecer “fiéis”. — He 3:1, 2, nota de rodapé; 2Pe 1:10; Ap 17:14; veja a nota de estudo em Fil 3:20.
+====
+
+[[v50-3-15]]
+
+^<<v50-3-15,15>>^ Então, que todos nós que somos maduros tenhamos essa atitude; e, se em algum sentido vocês pensarem de outra maneira, Deus lhes revelará a atitude correta.^&#42;1^
+
+[NOTE]
+====
+. Ou: “acima”.
+====
+
+[[v50-3-16]]
+
+^<<v50-3-16,16>>^ De qualquer modo, seja qual for o progresso que já fizemos, prossigamos andando nesse mesmo rumo.
+
+[TIP]
+====
+- *prossigamos andando nesse mesmo rumo*: O verbo grego traduzido aqui como “andando [ou: “andando ordeiramente”] nesse mesmo rumo” tem o sentido básico de “estar numa fila; alinhado”. No contexto militar, esse verbo era usado para descrever a forma unida e organizada como os soldados da linha de frente marchavam nos tempos antigos. Com o tempo, passou a ser usado em sentido figurado para passar a ideia de “seguir; estar de acordo com; apegar-se a” certo rumo ou padrão. Ao que tudo indica, Paulo estava se referindo a avançar seguindo certo rumo. Os cristãos filipenses precisavam continuar no rumo de vida cristão, se apegando às verdades e aos padrões de comportamento que tinham aprendido. As expressões ‘andar corretamente’ (At 21:24) e ‘andar ordeiramente’ (notas de rodapé em Ro 4:12; Gál 5:25; 6:16) também são usadas para traduzir esse verbo nas outras vezes em que ele aparece nas Escrituras Gregas Cristãs.
+====
+
+[[v50-3-17]]
+
+^<<v50-3-17,17>>^ Irmãos, tornem-se unidamente meus imitadores, e observem os que andam de um modo que está de acordo com o exemplo que nós demos a vocês.
+
+[[v50-3-18]]
+
+^<<v50-3-18,18>>^ Pois há muitos — eu os mencionava muitas vezes, mas agora os menciono também chorando — que andam como inimigos da estaca do Cristo.
+
+[TIP]
+====
+- *inimigos da estaca do Cristo*: Essa expressão se refere àqueles que tinham se tornado cristãos, mas que depois abandonaram a fé, praticando o pecado e buscando seus próprios interesses. Isso fez com que eles se tornassem inimigos da adoração verdadeira. (Fil 3:19) O termo grego staurós, traduzido aqui como “estaca” (ou: “estaca de tortura”), é usado para representar a morte de Jesus como sacrifício na estaca. (Veja o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.) Jesus morreu dessa forma para que a humanidade não fosse mais escrava do pecado e pudesse se reconciliar com Deus e ter uma forte amizade com Ele. Mas as ações daqueles “inimigos da estaca” mostravam que eles não davam valor aos benefícios que a morte de Jesus tornava possível. — He 10:29.
+====
+
+[[v50-3-19]]
+
+^<<v50-3-19,19>>^ O fim deles é a destruição, o seu deus é o ventre, eles se orgulham do que deveriam se envergonhar e fixam a mente em coisas terrenas.
+
+[TIP]
+====
+- *fim*: Ou: “fim definitivo; fim completo”. Isso quer dizer que o fim dos “inimigos da estaca do Cristo” é a “destruição”. — Fil 3:18.
+- *o seu deus é o ventre*: Em sentido literal, a palavra grega koilía, traduzida como “ventre”, se refere ao “estômago” ou às entranhas de uma pessoa. Aqui, ela é usada em sentido figurado para se referir ao apetite, ou desejo, carnal de uma pessoa. (Veja a nota de estudo em Ro 16:18.) Nos dias de Paulo, algumas peças de teatro gregas faziam referência a um “deus do ventre”, e os personagens dessas peças diziam que seu ventre era “a maior das divindades”. O filósofo Sêneca, que viveu na mesma época de Paulo, criticava quem era “escravo de sua barriga”. Parece que, para aqueles mencionados em Fil 3:18, se entregar aos desejos da carne era mais importante do que servir a Jeová. Alguns talvez se excedessem na comida ou na bebida a ponto de se tornarem glutões ou beberrões. (Pro. 23:20, 21; veja também De 21:18-21.) Outros, em vez de dar prioridade ao serviço de Jeová, talvez tenham preferido buscar as oportunidades oferecidas pelo mundo daquela época. Alguns estudiosos sugerem que aqui Paulo estava se referindo àquelas pessoas que seguiam rigorosamente as leis judaicas sobre alimentação. A preocupação delas com essas leis era tão grande que a comida se tornou algo muito importante para elas, se tornou o seu deus.
+====
+
+[[v50-3-20]]
+
+^<<v50-3-20,20>>^ Mas a nossa cidadania está nos céus, de onde aguardamos ansiosamente um salvador, o Senhor Jesus Cristo,
+
+[TIP]
+====
+- *nossa cidadania*: A cidade de Filipos era uma colônia romana, e seus habitantes tinham muitos privilégios. (Veja as notas de estudo em At 16:12, 21.) Alguns da congregação em Filipos talvez tivessem um tipo de cidadania romana, o que era muito valorizado. A distinção entre cidadãos e não cidadãos era uma questão importante. Mas aqui Paulo se refere à cidadania no céu, algo muito superior. (Ef 2:19) Ele incentiva os cristãos ungidos a se concentrar, não em coisas terrenas (Fil 3:19), mas em sua vida futura como “cidadãos” do céu. — Veja a nota de estudo em Fil 1:27.
+====
+
+[[v50-3-21]]
+
+^<<v50-3-21,21>>^ que transformará nosso corpo humilde e o tornará como o seu corpo glorioso por meio do seu grande poder, que o torna capaz de sujeitar todas as coisas a si mesmo.
+
+[TIP]
+====
+- *transformará nosso corpo humilde e o tornará como o seu corpo glorioso*: Paulo aqui se refere à transformação pela qual os cristãos ungidos precisam passar para viver no céu como herdeiros junto com o Senhor Jesus Cristo. Primeiro, eles precisam morrer como humanos. Daí, no tempo determinado por Deus, ele os traz de volta à vida em um corpo totalmente novo. (2Co 5:1, 2) Eles recebem um corpo espiritual imperecível e imortal. (1Co 15:42-44, 53; veja a nota de estudo em 1Co 15:38.) Desse modo, o corpo humano humilde e imperfeito deles é substituído por um que é “como o” (lit.: “conformado ao”) corpo espiritual glorioso de Cristo. — Ro 8:14-18; 1Jo 3:2.
+====
+
+'''
+
+xref:050-filipenses/050-filipenses-002.adoc#v50-2-0[&#60; Capítulo Anterior] | <<v50-3-0,Topo>> | xref:050-filipenses/050-filipenses-004.adoc#v50-4-0[Próximo Capítulo &#62;]
