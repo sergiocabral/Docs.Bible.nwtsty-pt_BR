@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v44-24-0]]
+=== Atos dos Apóstolos, 24
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* N. Paulo fica preso em Cesareia (24:1–26:32)
+* Os judeus apresentam acusações contra Paulo (24:1-9)
+* Defesa de Paulo diante de Félix (24:10-21)
+* O caso de Paulo é adiado por dois anos (24:22-27)
+* Julgamento de Paulo diante de Festo; “Apelo para César!” (25:1-12)
+* Festo consulta o rei Agripa sobre o caso de Paulo (25:13-22)
+* Paulo faz sua defesa diante de Agripa (25:23–26:11)
+* Em seu discurso diante de Agripa, Paulo descreve como ele se converteu (26:12-23)
+* Reações de Festo e Agripa (26:24-32)
+****
+
+[[v44-24-1]]
+
+^<<v44-24-1,1>>^ Cinco dias depois, o sumo sacerdote Ananias desceu com alguns anciãos e um orador chamado Tértulo, e eles apresentaram ao governador queixa contra Paulo.
+
+[TIP]
+====
+- *anciãos*: Neste versículo, a palavra “anciãos” se refere a homens de autoridade entre os judeus. Muitas vezes eles são mencionados junto com outros dois grupos: os principais sacerdotes e os escribas. — Veja a nota de estudo em Mt 16:21.
+- *um orador*: Ou: “um advogado”. O significado original da palavra grega rhétor era “orador”, mas com o tempo ela também passou a significar “alguém que fala em um tribunal; um advogado”. Tértulo apresentou a queixa dos judeus contra Paulo ao governador Félix em Cesareia.
+====
+
+[[v44-24-2]]
+
+^<<v44-24-2,2>>^ Ao ser chamado, Tértulo começou a acusação, dizendo:
+“Desfrutamos de grande paz por meio de Vossa Excelência, e pela sua prudência se realizam reformas nesta nação;
+
+[[v44-24-3]]
+
+^<<v44-24-3,3>>^ em todas as ocasiões e também em todos os lugares, nós reconhecemos isso, Excelentíssimo Félix, com muita gratidão.
+
+[[v44-24-4]]
+
+^<<v44-24-4,4>>^ Mas, para não tomar mais do seu tempo, solicito que, na sua bondade, nos ouça brevemente.
+
+[[v44-24-5]]
+
+^<<v44-24-5,5>>^ Pois nós constatamos que este homem é uma praga e atiça sedições entre todos os judeus, por toda a terra habitada, e ele é um dos líderes da seita dos nazarenos.
+
+[TIP]
+====
+- *uma praga*: Ou: “um agitador”. Lit.: “uma peste; uma pestilência”. A palavra grega traduzida aqui como “praga” aparece nas Escrituras Gregas Cristãs apenas mais uma vez, em Lu 21:11, onde ela é usada em sentido literal e se refere a pestilências, ou epidemias. Aqui, em At 24:5, ela é usada em sentido figurado para se referir a uma pessoa que é vista como “uma praga”, alguém que causa problemas, uma ameaça para as pessoas a sua volta.
+- *a terra habitada*: Veja a nota de estudo em Lu 2:1.
+- *seita*: A palavra grega traduzida aqui como “seita” é haíresis (de onde vem a palavra “heresia”, em português) e seu significado original pelo visto era “escolha”. Ela foi usada com esse sentido em Le 22:18 na Septuaginta, que fala sobre os israelitas fazerem ofertas “de acordo com toda a sua escolha”. Nas Escrituras Gregas Cristãs, haíresis se refere a um grupo de pessoas que têm doutrinas e pontos de vista diferentes dos outros. Ela é usada para se referir aos dois grupos principais do judaísmo — os fariseus e os saduceus. (At 5:17; 15:5; 26:5) Os cristãos também eram chamados pelos não cristãos de “seita” ou “seita dos nazarenos”, talvez porque fossem considerados como um grupo que tinha saído do judaísmo. (At 24:5, 14; 28:22) A palavra haíresis também era usada para falar de grupos que surgiram dentro da congregação cristã. Jesus deixou claro que era muito importante que seus seguidores fossem unidos e orou sobre isso. (Jo 17:21) E os apóstolos se esforçaram para preservar a união na congregação. (1Co 1:10; Ju 17-19) Essa união seria prejudicada se surgissem divisões, com grupos defendendo ideias diferentes. Assim, a palavra haíresis passou a ser usada na congregação em sentido negativo para se referir a um grupo que causa divisões, uma seita. Se os cristãos não tivessem as mesmas crenças, isso poderia levar a fortes discussões, discórdias e até mesmo inimizades. (Compare com At 23:7-10.) Por isso, não deveriam existir seitas na congregação, e a formação de seitas foi incluída entre as “obras da carne”. — Gál 5:19-21; 1Co 11:19; 2Pe 2:1.
+- *dos nazarenos*: Veja a nota de estudo em Mr 10:47.
+====
+
+[[v44-24-6]]
+
+^<<v44-24-6,6>>^ Ele também tentou profanar o templo; então nós o agarramos.
+
+[[v44-24-7]]
+
+^<<v44-24-7,7>>^ ——
+
+[TIP]
+====
+- *Alguns poucos manuscritos gregos e algumas traduções antigas para outros idiomas acrescentam (com algumas variações) as seguintes palavras aos versículos 6-8*: “e queríamos julgar segundo a nossa Lei. (7) Mas Lísias, o comandante militar, subiu e tirou-o com muita força das nossas mãos, (8) ordenando que seus acusadores se apresentassem a ti.” Mas essas palavras não aparecem nos manuscritos mais antigos e mais confiáveis e, pelo visto, não faziam parte do texto original de Atos. — Veja o Apêndice A3.
+====
+
+[[v44-24-8]]
+
+^<<v44-24-8,8>>^ Vossa Excelência, quando o interrogar, verificará todas essas coisas de que o acusamos.”
+
+[[v44-24-9]]
+
+^<<v44-24-9,9>>^ Então os judeus também apoiaram a acusação, garantindo que essas coisas eram verdade.
+
+[[v44-24-10]]
+
+^<<v44-24-10,10>>^ Quando o governador lhe acenou com a cabeça para que falasse, Paulo respondeu:
+“Sabendo muito bem que esta nação o tem como juiz há muitos anos, falo prontamente em minha defesa.
+
+[[v44-24-11]]
+
+^<<v44-24-11,11>>^ Como Vossa Excelência pode verificar por si mesmo, não faz mais de 12 dias que subi para adorar em Jerusalém.
+
+[[v44-24-12]]
+
+^<<v44-24-12,12>>^ E eles não me encontraram discutindo com ninguém no templo, nem atiçando uma turba nas sinagogas ou em outro lugar da cidade.
+
+[[v44-24-13]]
+
+^<<v44-24-13,13>>^ Nem podem lhe provar as acusações que estão fazendo contra mim agora.
+
+[[v44-24-14]]
+
+^<<v44-24-14,14>>^ Mas eu admito o seguinte: é segundo o caminho que eles chamam de seita que eu presto serviço sagrado ao Deus dos meus antepassados, crendo em tudo que está declarado na Lei e que está escrito nos Profetas.
+
+[TIP]
+====
+- *eu presto serviço sagrado*: Ou: “eu adoro”. O verbo grego usado aqui, latreúo, tem o sentido básico de “servir”, mas em certos contextos pode ser traduzido como “adorar”. Na Bíblia, latreúo geralmente se refere a prestar serviço a Deus ou a trabalhar em serviços relacionados com a adoração dele (Mt 4:10; Lu 1:74; 2:37; 4:8; Ro 1:9; Fil 3:3; 2Ti 1:3; He 9:14; 12:28; Ap 7:15; 22:3), como, por exemplo, os serviços que eram feitos no santuário ou no templo (He 8:5; 9:9; 10:2; 13:10). Em alguns poucos casos, essa palavra é usada com relação à adoração falsa, ou seja, a servir ou adorar coisas criadas. — At 7:42; Ro 1:25.
+====
+
+[[v44-24-15]]
+
+^<<v44-24-15,15>>^ E eu tenho esperança em Deus, esperança que esses homens também têm, de que haverá uma ressurreição tanto de justos como de injustos.
+
+[TIP]
+====
+- *ressurreição*: A palavra grega que aparece aqui, anástasis, significa literalmente “levantar; ficar de pé”. Ela é usada umas 40 vezes nas Escrituras Gregas Cristãs para se referir à ressurreição dos mortos. (Alguns exemplos estão em Mt 22:31; At 2:31; 4:2; 17:18, 32; 23:6 e 1Co 15:12, 13.) Em Is 26:19, a Septuaginta usa um verbo derivado de anástasis para traduzir o verbo hebraico que significa “viver” na expressão: “Os seus mortos viverão.” — Veja o Glossário.
+====
+
+[[v44-24-16]]
+
+^<<v44-24-16,16>>^ Por causa disso, eu sempre me esforço para manter uma consciência limpa^&#42;1^ diante de Deus e dos homens.
+
+[NOTE]
+====
+. Ou: “irrepreensível”.
+====
+
+[[v44-24-17]]
+
+^<<v44-24-17,17>>^ Depois de vários anos, vim a Jerusalém para trazer uma contribuição à minha nação e fazer ofertas.
+
+[TIP]
+====
+- *uma contribuição*: Ou: “dádivas de misericórdia”. — Veja o Glossário, “Dádivas de misericórdia”.
+====
+
+[[v44-24-18]]
+
+^<<v44-24-18,18>>^ Enquanto eu cuidava desses assuntos, eles me encontraram cerimonialmente puro no templo, mas não com uma multidão nem causando tumulto. No entanto, lá havia alguns judeus da província da Ásia
+
+[[v44-24-19]]
+
+^<<v44-24-19,19>>^ que deviam estar presentes diante de Vossa Excelência para me acusar, se realmente tivessem algo contra mim.
+
+[[v44-24-20]]
+
+^<<v44-24-20,20>>^ Ou, que estes homens aqui digam que crime acharam em mim quando eu estava perante o Sinédrio.
+
+[[v44-24-21]]
+
+^<<v44-24-21,21>>^ A não ser que se trate desta única frase que clamei quando estava no meio deles: ‘É por causa da ressurreição dos mortos que hoje estou sendo julgado diante dos senhores!’”
+
+[[v44-24-22]]
+
+^<<v44-24-22,22>>^ No entanto, visto que Félix estava bem informado a respeito desse Caminho, adiou a questão, dizendo: “Quando Lísias, o comandante militar, descer, decidirei essas questões de vocês.”
+
+[[v44-24-23]]
+
+^<<v44-24-23,23>>^ Ele ordenou então ao oficial do exército que o mantivesse preso, mas que lhe desse certa liberdade e permitisse que os do seu povo cuidassem de suas necessidades.
+
+[TIP]
+====
+- *ao oficial do exército*: Ou: “ao centurião”. Um oficial que comandava cerca de 100 soldados do exército romano.
+====
+
+[[v44-24-24]]
+
+^<<v44-24-24,24>>^ Alguns dias depois, Félix veio com Drusila, sua esposa, que era judia; mandou buscar Paulo e o ouviu falar sobre a crença em Cristo Jesus.
+
+[TIP]
+====
+- *Drusila*: Esta mulher, que nasceu por volta de 38 d.C., era a mais nova das filhas de Herodes Agripa I, mencionado em At 12:1. Além de suas irmãs, Berenice e Mariamne III, ela também tinha um irmão, Agripa II. (Veja a nota de estudo em At 25:13 e o Glossário, “Herodes”.) O governador Félix foi seu segundo marido. Ela foi casada com o rei sírio Aziz de Emesa, mas se divorciou dele e casou com Félix quando tinha uns 16 anos, por volta de 54 d.C. É possível que ela estivesse presente quando Paulo falou a Félix “sobre a justiça, o autodomínio e o julgamento por vir”. (At 24:25) Quando Félix passou o cargo de governador para Festo, ele deixou Paulo preso para “ganhar o favor dos judeus”. Alguns entendem que ele fez isso para agradar sua jovem esposa, que era judia. — At 24:27.
+====
+
+[[v44-24-25]]
+
+^<<v44-24-25,25>>^ Mas, quando Paulo começou a falar sobre a justiça, o autodomínio e o julgamento por vir, Félix ficou com medo e disse: “Por enquanto, pode se retirar, mas, quando eu tiver uma oportunidade, mandarei buscá-lo novamente.”
+
+[[v44-24-26]]
+
+^<<v44-24-26,26>>^ Ao mesmo tempo, esperava que Paulo lhe desse dinheiro. Por isso mandava buscá-lo ainda mais frequentemente e conversava com ele.
+
+[[v44-24-27]]
+
+^<<v44-24-27,27>>^ Mas, passados dois anos, Félix foi sucedido por Pórcio Festo; e, visto que desejava ganhar o favor dos judeus, Félix deixou Paulo na prisão.
+
+'''
+
+xref:044-atos/044-atos-023.adoc#v44-23-0[&#60; Capítulo Anterior] | <<v44-24-0,Topo>> | xref:044-atos/044-atos-025.adoc#v44-25-0[Próximo Capítulo &#62;]

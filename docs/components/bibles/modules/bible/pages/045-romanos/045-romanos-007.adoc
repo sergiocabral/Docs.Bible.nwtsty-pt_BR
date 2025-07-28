@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v45-7-0]]
+=== A Carta aos Romanos, 7
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-7-1]]
+
+^<<v45-7-1,1>>^ Será que vocês não sabem, irmãos (pois estou falando aos que têm conhecimento de leis), que a Lei domina sobre o homem enquanto ele vive?
+
+[[v45-7-2]]
+
+^<<v45-7-2,2>>^ Por exemplo, a mulher casada^&#42;1^ está amarrada por lei ao seu marido enquanto ele viver; mas, se o marido morrer, ela ficará livre da lei do seu marido.
+
+[NOTE]
+====
+. Ou: “a mulher que está sujeita ao marido”.
+====
+
+[[v45-7-3]]
+
+^<<v45-7-3,3>>^ Por isso, enquanto o seu marido viver, ela será chamada de adúltera caso se torne de outro homem. Mas, se o marido morrer, ela ficará livre da lei dele, de modo que não será adúltera caso se torne de outro homem.
+
+[[v45-7-4]]
+
+^<<v45-7-4,4>>^ Assim, meus irmãos, vocês também morreram para a Lei, por meio do corpo do Cristo, para pertencerem a outro, àquele que foi levantado dentre os mortos, a fim de produzirmos fruto para Deus.
+
+[[v45-7-5]]
+
+^<<v45-7-5,5>>^ Pois, quando vivíamos de acordo com a carne, os desejos pecaminosos despertados pela Lei agiam em nosso corpo para produzir frutos que levam à morte.
+
+[TIP]
+====
+- *nosso corpo*: Lit.: “nossos membros”. — Veja a nota de estudo em Ro 6:13.
+====
+
+[[v45-7-6]]
+
+^<<v45-7-6,6>>^ Mas agora fomos libertados da Lei, porque morremos para aquilo que nos restringia, a fim de sermos escravos num novo sentido, por meio do espírito, e não no velho sentido, por meio do código escrito.
+
+[TIP]
+====
+- *fomos libertados da Lei*: Em Ro 7:1-6, Paulo faz uma ilustração para explicar como os cristãos judeus foram libertados da Lei mosaica. Ele raciocina que a esposa está presa ao seu marido enquanto ele viver. Mas, se o marido morrer, a situação muda; o casamento que ela tinha deixa de valer e ela está livre para casar novamente. Essa mudança de situação é parecida com a mudança pela qual os cristãos judeus passavam quando ‘morriam com relação ao pecado’. (Ro 6:2, 11) Eles ‘morriam para a Lei, por meio do corpo do Cristo’ (que serviu como resgate) e isso permitia que eles ‘pertencessem a outro’, ou seja, a Cristo. (Ro 7:4) Em Gál 3:13, Paulo explica: “Cristo nos comprou, livrando-nos da maldição da Lei por se tornar maldição em nosso lugar.” A pessoa que mostrava fé em Cristo ‘morria’ com relação à sua situação anterior e não tinha mais as mesmas obrigações. Assim, ela podia se tornar escrava “num novo sentido”. (Ro 7:6) Quem passava por essa morte figurativa estava livre para seguir a Cristo como um escravo da justiça. — Ro 6:18-20; Gál 5:1.
+- *sermos escravos*: Uma tradução das Escrituras Gregas Cristãs para o hebraico (chamada de J18 no Apêndice C4) diz “sermos servos de Jeová”.
+====
+
+[[v45-7-7]]
+
+^<<v45-7-7,7>>^ O que diremos então? Será que a Lei é pecado? Certamente que não! Na verdade, eu não teria conhecido o pecado se não fosse a Lei. Por exemplo, eu não teria conhecido a cobiça se a Lei não dissesse: “Não cobice.”
+
+[[v45-7-8]]
+
+^<<v45-7-8,8>>^ Mas o pecado, aproveitando-se da oportunidade dada pelo mandamento, produziu em mim todo tipo de cobiça, pois sem lei o pecado estava morto.
+
+[[v45-7-9]]
+
+^<<v45-7-9,9>>^ De fato, antes, sem lei, eu estava vivo. No entanto, ao chegar o mandamento, o pecado voltou a viver, mas eu morri.
+
+[[v45-7-10]]
+
+^<<v45-7-10,10>>^ E o mandamento que era para levar à vida, descobri que levava à morte.
+
+[[v45-7-11]]
+
+^<<v45-7-11,11>>^ Pois o pecado, aproveitando-se da oportunidade dada pelo mandamento, me seduziu e, por meio deste, me matou.
+
+[[v45-7-12]]
+
+^<<v45-7-12,12>>^ Assim, a Lei em si mesma é santa, e o mandamento é santo, justo e bom.
+
+[[v45-7-13]]
+
+^<<v45-7-13,13>>^ Portanto, será que o que é bom causou a minha morte? Certamente que não! Mas o pecado fez isso, para que fosse exposto como pecado, produzindo em mim a morte por meio do que é bom, de modo que, por meio do mandamento, o pecado se tornasse muito mais pecaminoso.
+
+[[v45-7-14]]
+
+^<<v45-7-14,14>>^ Pois sabemos que a Lei é espiritual, mas eu sou carnal, vendido como escravo ao pecado.
+
+[[v45-7-15]]
+
+^<<v45-7-15,15>>^ Pois não entendo por que ajo assim. Pois não pratico o que quero,^&#42;1^ mas faço aquilo que odeio.
+
+[NOTE]
+====
+. Ou: “desejo”.
+====
+
+[[v45-7-16]]
+
+^<<v45-7-16,16>>^ No entanto, se faço aquilo que não quero, concordo que a Lei é boa.
+
+[[v45-7-17]]
+
+^<<v45-7-17,17>>^ Mas então não sou mais eu quem está agindo; é o pecado que mora em mim.
+
+[[v45-7-18]]
+
+^<<v45-7-18,18>>^ Porque eu sei que em mim, isto é, na minha carne, não mora nada de bom; pois tenho o desejo de fazer o que é bom, mas não tenho a capacidade de realizá-lo.
+
+[[v45-7-19]]
+
+^<<v45-7-19,19>>^ Pois não faço o bem que quero, mas o mal que não quero é o que pratico.
+
+[[v45-7-20]]
+
+^<<v45-7-20,20>>^ Se, então, faço o que não quero, já não sou eu quem o faz; é o pecado que mora em mim.
+
+[[v45-7-21]]
+
+^<<v45-7-21,21>>^ Percebo assim a seguinte lei no meu caso: quando quero fazer o que é certo, está presente em mim o que é mau.
+
+[[v45-7-22]]
+
+^<<v45-7-22,22>>^ Eu realmente tenho prazer na lei de Deus segundo o homem que sou no íntimo,
+
+[[v45-7-23]]
+
+^<<v45-7-23,23>>^ mas vejo em meu corpo outra lei guerreando contra a lei da minha mente e me levando cativo à lei do pecado que está no meu corpo.
+
+[TIP]
+====
+- *meu corpo*: Lit.: “meus membros”. — Veja a nota de estudo em Ro 6:13.
+====
+
+[[v45-7-24]]
+
+^<<v45-7-24,24>>^ Homem miserável que eu sou! Quem me livrará do corpo que é submetido a essa morte?
+
+[[v45-7-25]]
+
+^<<v45-7-25,25>>^ Dou graças a Deus, por meio de Jesus Cristo, nosso Senhor! Assim, com a minha mente, eu mesmo sou escravo da lei de Deus, mas, com a minha carne, escravo da lei do pecado.
+
+'''
+
+xref:045-romanos/045-romanos-006.adoc#v45-6-0[&#60; Capítulo Anterior] | <<v45-7-0,Topo>> | xref:045-romanos/045-romanos-008.adoc#v45-8-0[Próximo Capítulo &#62;]

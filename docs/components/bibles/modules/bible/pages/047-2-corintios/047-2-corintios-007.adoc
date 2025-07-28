@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v47-7-0]]
+=== A Segunda aos Coríntios, 7
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. PAULO CONFIRMA SEU AMOR PELOS CRISTÃOS EM CORINTO E FALA DO MINISTÉRIO DELE (1:12–7:16)
+* 1. Mudança nos planos de viagem de Paulo (1:12-24)
+* Paulo fala de sua conduta em relação aos coríntios (1:12-14)
+* Paulo se defende da acusação de não ser confiável (1:15-24)
+* 2. O interesse de Paulo no bem-estar dos cristãos em Corinto (2:1-13)
+* Paulo deseja dar alegria aos coríntios (2:1-4)
+* Um pecador é perdoado e aceito de volta na congregação (2:5-11)
+* Paulo não teve alívio porque não encontrou Tito em Trôade (2:12, 13)
+* 3. O ministério glorioso de Paulo e de seus companheiros (2:14–4:6)
+* O ministério é comparado a um desfile triunfal (2:14-17)
+* Cartas de recomendação (3:1-3)
+* Deus qualifica cristãos para serem servos do novo pacto (3:4-6)
+* A glória do ministério do novo pacto é superior (3:7-18)
+* O ministério que faz a luz brilhar por meio do conhecimento glorioso de Deus (4:1-6)
+* 4. Mesmo sendo vasos de barro, Paulo e seus companheiros suportam muitas provações (4:7-18)
+* Com o poder além do normal é possível suportar dificuldades (4:7-15)
+* O sofrimento é momentâneo, mas produz uma glória eterna (4:16-18)
+* 5. O desejo de Paulo de receber sua recompensa celestial (5:1-10)
+* Corpo espiritual será superior (5:1-5)
+* Enquanto estão na Terra, os cristãos ungidos andam pela fé, não pela vista (5:6-10)
+* 6. O ministério da reconciliação (5:11–6:2)
+* O amor que Cristo mostrou impele os cristãos (5:11-15)
+* Os cristãos ungidos estão em união com Cristo e são uma nova criação (5:16-19)
+* Embaixadores substituindo a Cristo suplicam: “Sejam reconciliados com Deus” (5:20, 21)
+* Não se deve perder de vista o objetivo da bondade imerecida de Deus (6:1, 2)
+* 7. Paulo fala de seu ministério (6:3-13)
+* Como os cristãos se recomendam como ministros de Deus (6:3-10)
+* Paulo fala do carinho que tem pelos irmãos em Corinto (6:11-13)
+* 8. Alertas sobre impureza espiritual e idolatria (6:14–7:1)
+* “Não se ponham em jugo desigual com descrentes” (6:14-18)
+* “Purifiquemo-nos de toda imundície da carne e do espírito” (7:1)
+* 9. Paulo se alegra por causa dos coríntios (7:2-16)
+* Paulo tem orgulho dos irmãos em Corinto (7:2-4)
+* Paulo foi consolado com a presença de Tito e com seu bom relato (7:5-7)
+* Tristeza segundo a vontade de Deus e arrependimento levam à salvação (7:8-13a)
+* Paulo se alegra ao saber do bom relacionamento entre Tito e os coríntios (7:13b-16)
+****
+
+[[v47-7-1]]
+
+^<<v47-7-1,1>>^ Portanto, amados, visto que temos essas promessas, purifiquemo-nos de toda imundície da carne e do espírito, aperfeiçoando a santidade no temor de Deus.
+
+[TIP]
+====
+- *purifiquemo-nos de toda imundície*: O verbo grego traduzido aqui como “purificar” e outras palavras relacionadas (traduzidas, por exemplo, como “limpar”, “purificar”, “purificação” e “puro”) têm um sentido bem amplo. Essas palavras podem se referir à limpeza física (Mt 23:25), à limpeza cerimonial (Lu 2:22; 5:14; Jo 11:55), a ser purificado dos pecados (2Pe 1:9) ou a ter a mente, o coração e a consciência puros, ou limpos (1Ti 1:5; Tit 1:15; He 9:14). Esse verbo grego também pode se referir a curar uma doença. (Mt 8:2; 11:5; Mr 1:40-42; Lu 17:14; veja a nota de estudo em Lu 4:27.) Aqui, Paulo usou esse verbo no seu sentido mais amplo para se referir à limpeza física, moral e espiritual.
+- *da carne e do espírito*: A imundície da carne está ligada a práticas que poluem ou causam dano ao corpo. Por outro lado, a imundície do espírito envolve ir contra as doutrinas e os valores morais ensinados nas Escrituras. Ela afeta o “espírito”, ou seja, a atitude mental da pessoa. A expressão “da carne e do espírito” inclui tudo aquilo que pode afetar a vida de um cristão, seja em sentido físico seja em sentido moral.
+- *aperfeiçoando a santidade no temor de Deus*: Nas Escrituras Gregas Cristãs, as palavras traduzidas como “santo” e “santidade” passam a ideia de estar separado para o serviço de Jeová. Neste e em outros versículos da Bíblia, o significado dessas palavras também inclui a ideia de manter uma conduta pura. (Mr 6:20; 1Pe 1:15, 16) A forma do verbo grego traduzido aqui como “aperfeiçoando” pode passar a ideia de levar algo gradativamente a um estado completo. Isso indica que a santidade não é alcançada de uma hora para outra. Em vez disso, os cristãos passam por um processo contínuo em que vão se tornando cada vez melhores conforme se esforçam para viver de acordo com os padrões perfeitos de Deus. O que motiva o cristão a fazer esse esforço é o “temor de Deus”, um temor sadio que vem do profundo amor e reverência, ou respeito, que o cristão sente por ele. — Sal 89:7.
+====
+
+[[v47-7-2]]
+
+^<<v47-7-2,2>>^ Deem lugar a nós no seu coração. Não fizemos injustiça a ninguém, não corrompemos a ninguém, não nos aproveitamos de ninguém.
+
+[TIP]
+====
+- *Deem lugar a nós no seu coração*: Ou: “Abram o seu coração para nós; Acolham-nos”. O verbo grego traduzido aqui como “deem lugar . . . no seu coração” é khoréo. Ele significa literalmente “dar (abrir) lugar para”. De acordo com um léxico, esse verbo foi usado aqui em sentido figurado e passa a ideia de “ter coração aberto, ter um ‘grande coração’”.
+====
+
+[[v47-7-3]]
+
+^<<v47-7-3,3>>^ Não digo isso para condenar vocês. Pois eu já disse que vocês estão no nosso coração, para morrer conosco e para viver conosco.
+
+[[v47-7-4]]
+
+^<<v47-7-4,4>>^ Uso de muita franqueza ao falar com vocês. Tenho muito orgulho de vocês. Estou plenamente consolado; estou transbordando de alegria em toda a nossa aflição.
+
+[TIP]
+====
+- *franqueza ao falar*: Ou: “liberdade ao falar; confiança ao falar”. A palavra grega que aparece aqui, parresía, tem o sentido básico de “coragem no falar”. Em outras palavras, Paulo estava dizendo aos coríntios: “Eu posso falar com vocês com muita liberdade.” — Veja a nota de estudo em At 28:31.
+====
+
+[[v47-7-5]]
+
+^<<v47-7-5,5>>^ De fato, quando chegamos à Macedônia, não tivemos alívio, mas continuamos a ser afligidos de todos os modos — havia lutas por fora, temores por dentro.
+
+[TIP]
+====
+- *não tivemos*: Ou: “nosso corpo não teve”. Lit.: “nossa carne não teve”. A palavra grega para “carne” (sarx) é usada aqui para se referir ao corpo humano.
+- *continuamos a ser afligidos*: Enquanto estava em Éfeso, Paulo tinha escrito sua primeira carta inspirada aos coríntios e enviado Tito para ajudar aquela congregação. Depois disso, ele ficou esperando ansiosamente que Tito lhe contasse qual tinha sido a reação dos coríntios. Mas Paulo e Tito não conseguiram se encontrar tão cedo quanto esperavam. Em 2Co 2:12, 13, Paulo disse que seu ‘espírito não teve alívio porque não achou Tito’. (Veja a nota de estudo em 2Co 2:13.) Aqui em 2Co 7:5, Paulo explica que depois que chegou à Macedônia, ele ficou ainda mais ansioso por causa da intensa oposição ao seu ministério. Havia lutas por fora, ou seja, uma forte perseguição que colocou em perigo a vida de Paulo e de seus companheiros. (2Co 1:8) Além disso, Paulo também tinha que lidar com temores por dentro, que envolviam a preocupação que ele tinha com as congregações, incluindo a de Corinto. Quando Tito finalmente chegou e contou a Paulo que os coríntios tinham reagido bem à sua carta, Paulo e seus companheiros se sentiram aliviados, tanto em sentido físico como emocional. — 2Co 7:6.
+====
+
+[[v47-7-6]]
+
+^<<v47-7-6,6>>^ Mas Deus, que consola os desanimados, nos consolou com a presença de Tito;
+
+[TIP]
+====
+- *a presença de*: Aqui, Paulo usa a palavra grega parousía ao falar de Tito, um de seus colaboradores. Muitas Bíblias traduzem parousía aqui como “chegada” ou “vinda”. Mas a tradução “presença” tem o apoio de Fil 2:12, onde Paulo usa parousía ao fazer um contraste entre sua “presença” e sua “ausência”. — Veja a nota de estudo em 1Co 15:23.
+====
+
+[[v47-7-7]]
+
+^<<v47-7-7,7>>^ e não somente com a presença dele, mas também com o consolo que ele recebeu por causa de vocês, pois ele nos contou do seu desejo de me ver, da sua profunda tristeza, da sua sincera preocupação por mim; de modo que me alegrei ainda mais.
+
+[TIP]
+====
+- *da sua sincera preocupação*: Lit.: “do seu zelo”. A palavra grega traduzida aqui como “sincera preocupação” foi traduzida como “zelo” em 2Co 7:11. Aqui, Paulo usa o mesmo pronome grego (traduzido como “seu; sua”) três vezes. Alguns estudiosos acreditam que o fato de Paulo ter repetido esse pronome mostra que ele estava convencido de que os coríntios sentiam saudade dele e se importavam com ele de coração. Paulo se sentiu tocado ao ouvir que eles tinham ficado tristes por fazê-lo sofrer. Ele os amava, e saber como os coríntios se sentiam trouxe alívio para ele e o deixou muito feliz.
+====
+
+[[v47-7-8]]
+
+^<<v47-7-8,8>>^ Pois, mesmo que eu os tenha entristecido com a minha carta, não lamento isso. Embora a princípio eu tenha lamentado (porque vejo que a carta os entristeceu, ainda que por pouco tempo),^&#42;1^
+
+[NOTE]
+====
+. Ou: “por uma hora”.
+====
+
+[[v47-7-9]]
+
+^<<v47-7-9,9>>^ agora me alegro, não porque vocês foram entristecidos, mas porque a sua tristeza os levou ao arrependimento. Pois vocês foram entristecidos segundo a vontade de Deus, e assim não foram prejudicados em nada por nossa causa.
+
+[TIP]
+====
+- *entristecidos segundo a vontade de Deus*: Ou seja, os cristãos em Corinto não ficaram simplesmente tristes; sua tristeza os levou ao arrependimento. Na sua carta anterior, Paulo tinha repreendido a congregação porque eles estavam aceitando em seu meio um homem que praticava imoralidade sexual. (1Co 5:1, 2, 13) A congregação reagiu bem ao conselho de Paulo e parou de tolerar aquele pecado. Além disso, aquele homem imoral se arrependeu sinceramente do que tinha feito. (2Co 2:6-8; 7:11) A tristeza daqueles cristãos foi “segundo a vontade de Deus” no sentido de que os motivou a buscar o perdão de Deus e a corrigir sua atitude para que estivesse de acordo com a vontade de Deus. — Veja a nota de estudo em 2Co 7:10.
+====
+
+[[v47-7-10]]
+
+^<<v47-7-10,10>>^ Porque a tristeza segundo a vontade de Deus produz o arrependimento que leva à salvação, e disso ninguém se lamentará; mas a tristeza do mundo produz a morte.
+
+[TIP]
+====
+- *a tristeza segundo a vontade de Deus . . . a tristeza do mundo*: Aqui, Paulo faz um contraste entre esses dois tipos de tristeza. “A tristeza segundo a vontade de Deus” produz o arrependimento. A pessoa sente essa tristeza quando reconhece que o seu erro é um pecado contra Deus. Isso a motiva a buscar o perdão de Deus e corrigir sua conduta. Foi esse tipo de tristeza que os cristãos em Corinto sentiram, e por causa disso eles continuaram na estrada que leva à salvação. (2Co 7:8, 9, 11; veja a nota de estudo em 2Co 7:9.) Já no caso da “tristeza do mundo”, a pessoa pode até ficar triste porque seu erro foi descoberto ou por ter que arcar com as consequências dele. Mas ela não sente arrependimento sincero pelo pecado em si ou pelo fato de ele ter abalado sua amizade com Deus. Essa tristeza não motiva a pessoa a buscar o perdão de Deus e, no fim, “produz a morte”.
+- *o arrependimento*: A palavra grega metánoia passa a ideia de mudar o modo de pensar, as atitudes ou os objetivos na vida. Aqui, o arrependimento envolve o desejo de restaurar ou reparar a amizade com Deus. Um pecador que está arrependido de verdade lamenta profundamente o caminho errado que tomou e está decidido a não repetir seus erros. Ele muda seu modo de agir. Paulo diz aqui que esse tipo de arrependimento leva à salvação. — Veja o Glossário.
+====
+
+[[v47-7-11]]
+
+^<<v47-7-11,11>>^ Pois vejam que diligência a sua tristeza segundo a vontade de Deus^&#42;1^ produziu em vocês: fez com que se reabilitassem, que ficassem indignados, que tivessem temor, desejo sincero e zelo, que corrigissem o erro! Vocês demonstraram em todos os sentidos que são puros nesse assunto.
+
+[NOTE]
+====
+. Ou: “tristeza piedosa”.
+====
+
+[TIP]
+====
+- *puros*: Ou: “castos; inocentes”. A congregação em Corinto agiu de acordo com o conselho que Paulo tinha dado em sua carta anterior e removeu o homem imoral do seu meio. (1Co 5:1-5, 13; veja a nota de estudo em 2Co 7:9.) Assim, a congregação podia novamente ser considerada pura ou inocente, livre de culpa quanto àquele pecado. Mas Paulo sabia que, para continuarem puros, eles não podiam baixar a guarda em relação à imoralidade sexual. Mais tarde, nessa mesma carta, ele expressa sua preocupação nesse sentido. — 2Co 12:20, 21.
+====
+
+[[v47-7-12]]
+
+^<<v47-7-12,12>>^ Embora eu tenha escrito a vocês, não fiz isso por causa daquele que cometeu o erro, nem daquele contra quem se cometeu o erro, mas para que ficasse clara entre vocês, à vista de Deus, a sua diligência em nos obedecer.
+
+[[v47-7-13]]
+
+^<<v47-7-13,13>>^ É por isso que fomos consolados.
+Mas, além do consolo que recebemos, nós nos alegramos ainda mais por causa da alegria de Tito, porque todos vocês reanimaram o espírito dele.
+
+[[v47-7-14]]
+
+^<<v47-7-14,14>>^ Pois, se eu falei de vocês para ele com orgulho, não fui envergonhado; mas, assim como tudo o que dissemos a vocês era verdade, também se mostrou verdadeiro aquilo que falamos a Tito com orgulho.
+
+[[v47-7-15]]
+
+^<<v47-7-15,15>>^ Além disso, os ternos sentimentos dele por vocês aumentam quando ele se lembra da obediência de todos vocês, de como o receberam com temor e tremor.
+
+[TIP]
+====
+- *obediência*: O substantivo grego para “obediência” está relacionado com o verbo hypakoúo, que significa literalmente “ouvir debaixo”, ou seja, ouvir (escutar) de forma submissa. Jesus foi um exemplo perfeito de obediência a seu Pai e, “por meio da obediência” dele, muitos foram abençoados. (Ro 5:19) Neste contexto, o substantivo grego se refere à obediência àqueles que Deus escolheu como seus representantes. Aqui, Paulo elogia os cristãos em Corinto por terem respeitado Tito, o ancião que ele tinha enviado para ajudá-los, e terem seguido as orientações dele. — 2Co 7:13-16.
+====
+
+[[v47-7-16]]
+
+^<<v47-7-16,16>>^ Eu me alegro porque em tudo posso ter confiança em vocês.
+
+[TIP]
+====
+- *posso ter confiança em vocês*: Ou, possivelmente: “posso ter bom ânimo por causa de vocês”. Nesta passagem, Paulo elogiou os cristãos em Corinto por terem respeitado Tito, o ancião que ele tinha enviado para ajudá-los, e terem seguido as orientações dele. (2Co 7:13-15) A atitude dos coríntios teve um efeito positivo sobre Paulo; ele se alegrou porque viu que podia “ter confiança” neles.
+====
+
+'''
+
+xref:047-2-corintios/047-2-corintios-006.adoc#v47-6-0[&#60; Capítulo Anterior] | <<v47-7-0,Topo>> | xref:047-2-corintios/047-2-corintios-008.adoc#v47-8-0[Próximo Capítulo &#62;]

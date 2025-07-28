@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v40-28-0]]
+=== As Boas Novas Segundo Mateus, 28
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* N. Jesus é ressuscitado; dá a ordem de fazer discípulos (28:1-20)
+* Jesus é ressuscitado; aparece para seus discípulos (28:1-10)
+* Soldados aceitam suborno para mentir sobre a ressurreição de Jesus (28:11-15)
+* Jesus dá a ordem de fazer discípulos (28:16-20)
+****
+
+[[v40-28-1]]
+
+^<<v40-28-1,1>>^ Depois do sábado, quando amanhecia o primeiro dia da semana, Maria Madalena e a outra Maria foram ver a sepultura.
+
+[TIP]
+====
+- *do sábado*: Lit.: “dos sábados”. Neste versículo, a palavra grega sábbaton aparece no plural duas vezes, com dois significados diferentes. Na primeira vez, ela se refere a um dia de sábado, o sétimo dia da semana, e foi traduzida como “do sábado”. Na segunda vez, ela se refere a um período de sete dias, e por isso foi traduzida como da semana. O sábado 15 de nisã terminou ao pôr do sol. Alguns acham que os eventos descritos aqui por Mateus devem ter ocorrido em algum momento do anoitecer, logo “depois do sábado”. Mas os outros Evangelhos deixam bem claro que as mulheres foram ver a sepultura “cedo” na manhã de 16 de nisã, “depois de o sol se levantar”. — Mr 16:​1, 2; Lu 24:1; Jo 20:1; veja também o Glossário e o Apêndice B12-B.
+- *o primeiro dia da semana*: Ou seja, 16 de nisã. Para os judeus, o dia que vinha logo depois do sábado era o primeiro dia da semana.
+- *a outra Maria*: Veja a nota de estudo em Mt 27:61.
+====
+
+[[v40-28-2]]
+
+^<<v40-28-2,2>>^ Um grande terremoto tinha ocorrido, pois o anjo de Jeová havia descido do céu, chegado ao túmulo e rolado a pedra, e ele estava sentado sobre ela.
+
+[TIP]
+====
+- *anjo de Jeová*: Veja a nota de estudo em Mt 1:20 e os Apêndices C1 e C3 (introdução e Mt 28:2).
+====
+
+[[v40-28-3]]
+
+^<<v40-28-3,3>>^ Sua aparência era como um relâmpago e sua roupa era branca como a neve.
+
+[[v40-28-4]]
+
+^<<v40-28-4,4>>^ Com medo dele, os vigias tremeram e ficaram como que mortos.
+
+[[v40-28-5]]
+
+^<<v40-28-5,5>>^ Mas o anjo disse às mulheres: “Não tenham medo, pois eu sei que vocês estão procurando Jesus, que foi morto na estaca.
+
+[[v40-28-6]]
+
+^<<v40-28-6,6>>^ Ele não está aqui, pois foi levantado, assim como ele tinha dito. Venham, vejam o lugar onde ele estava deitado.
+
+[[v40-28-7]]
+
+^<<v40-28-7,7>>^ Depois vão depressa e digam aos discípulos dele: ‘Ele foi levantado dentre os mortos e agora está indo adiante de vocês para a Galileia. Ali o verão.’ Isso é o que eu vim lhes dizer.”
+
+[TIP]
+====
+- *digam aos discípulos dele*: ‘Ele foi levantado’: Aquelas duas discípulas foram as primeiras pessoas que ficaram sabendo da ressurreição de Jesus. Além disso, elas receberam a instrução de avisar os outros discípulos. (Mt 28:2, 5, 7) De acordo com tradições judaicas que não tinham base nas Escrituras, o testemunho de uma mulher não era válido em um julgamento no tribunal. Mas o anjo de Jeová deu àquelas duas mulheres a honra de contar aos outros essa notícia tão alegre.
+====
+
+[[v40-28-8]]
+
+^<<v40-28-8,8>>^ Assim, deixando rapidamente o túmulo memorial, com temor e grande alegria, correram para contar isso aos discípulos dele.
+
+[[v40-28-9]]
+
+^<<v40-28-9,9>>^ Nisto, Jesus foi ao encontro delas e disse: “Bom dia!” Elas se aproximaram, abraçaram os pés dele e lhe prestaram homenagem.
+
+[TIP]
+====
+- *lhe prestaram homenagem*: Ou: “se curvaram diante dele; se prostraram diante dele”. — Veja as notas de estudo em Mt 8:2; 14:33; 15:25.
+====
+
+[[v40-28-10]]
+
+^<<v40-28-10,10>>^ Jesus lhes disse então: “Não tenham medo! Vão, contem isso a meus irmãos, para que eles vão para a Galileia, e ali me verão.”
+
+[TIP]
+====
+- *meus irmãos*: Aqui Jesus estava se referindo aos seus discípulos. (Veja Mt 28:16.) Ele os chamou de “irmãos” porque eles eram seus irmãos em sentido espiritual. — Veja também Mt 25:40; Jo 20:17; He 2:10-12.
+====
+
+[[v40-28-11]]
+
+^<<v40-28-11,11>>^ Enquanto elas estavam a caminho, alguns guardas foram à cidade e comunicaram aos principais sacerdotes tudo o que tinha acontecido.
+
+[[v40-28-12]]
+
+^<<v40-28-12,12>>^ Depois de estes terem se reunido com os anciãos para decidir o que fazer, deram aos soldados uma boa quantidade de moedas de prata
+
+[TIP]
+====
+- *anciãos*: Veja a nota de estudo em Mt 16:21.
+====
+
+[[v40-28-13]]
+
+^<<v40-28-13,13>>^ e disseram: “Digam: ‘Os discípulos dele vieram de noite e o furtaram enquanto estávamos dormindo.’
+
+[[v40-28-14]]
+
+^<<v40-28-14,14>>^ E, se isso chegar aos ouvidos do governador, nós lhe daremos explicações,^&#42;1^ e vocês não precisarão se preocupar.”
+
+[NOTE]
+====
+. Lit.: “nós persuadiremos”.
+====
+
+[TIP]
+====
+- *isso*: Ou seja, a história falsa de que eles estavam dormindo. Se um soldado romano dormisse no posto, ele poderia ser condenado à morte.
+- *governador*: O governador mencionado aqui é Pôncio Pilatos.
+====
+
+[[v40-28-15]]
+
+^<<v40-28-15,15>>^ Assim, eles pegaram as moedas de prata e fizeram como lhes mandaram, e essa história se tem espalhado entre os judeus até o dia de hoje.
+
+[[v40-28-16]]
+
+^<<v40-28-16,16>>^ No entanto, os 11 discípulos foram para a Galileia, para o monte que Jesus lhes havia indicado.
+
+[TIP]
+====
+- *foram para a Galileia*: Pelo visto, mais de 500 discípulos estiveram presentes nessa ocasião em que Jesus apareceu na Galileia. — 1Co 15:6.
+====
+
+[[v40-28-17]]
+
+^<<v40-28-17,17>>^ Quando o viram, curvaram-se diante dele, mas alguns duvidaram.
+
+[TIP]
+====
+- *alguns duvidaram*: Levando-se em conta o que diz 1Co 15:6, é provável que os que duvidaram nessa ocasião não fosse nenhum dos apóstolos, mas sim discípulos na Galileia que ainda não tinham visto Jesus ressuscitado.
+====
+
+[[v40-28-18]]
+
+^<<v40-28-18,18>>^ Jesus se aproximou e lhes disse: “Foi-me dada toda a autoridade no céu e na terra.
+
+[[v40-28-19]]
+
+^<<v40-28-19,19>>^ Portanto, vão e façam discípulos de pessoas de todas as nações, batizando-as em nome do Pai, e do Filho, e do espírito santo,
+
+[TIP]
+====
+- *façam discípulos*: Ou: “façam alunos”. O verbo grego usado aqui, matheteúo, tem o sentido básico de “ensinar” com o objetivo de levar outros a se tornarem alunos ou discípulos. Em Mt 13:52, o mesmo verbo foi traduzido como “é ensinado”, e em Mt 27:57 como “tinha se tornado discípulo”. Em At 14:21, matheteúo foi usado ao dizer que Paulo e Barnabé ‘fizeram um bom número de discípulos’ em Derbe. Os verbos traduzidos como “batizando” e “ensinando”, usados aqui neste versículo e no próximo, mostram o que está envolvido na ordem de ‘fazer discípulos’. — Para uma explicação sobre o substantivo grego relacionado, mathetés, veja a nota de estudo em Mt 5:1.
+- *pessoas de todas as nações*: A tradução literal dessa expressão seria apenas “todas as nações”, mas o contexto mostra que ela se refere a pessoas de todas as nações, e não a nações inteiras. Isso fica evidente na continuação do versículo, que diz batizando-as. O pronome grego traduzido aqui como “as” é do gênero masculino. Por isso, não pode se referir a “nações”, que em grego é do gênero neutro e exigiria um pronome do gênero neutro. Essa ordem de ir a “pessoas de todas as nações” era algo novo. As Escrituras mostram que, antes de Jesus começar sua pregação, pessoas de outras nações podiam vir adorar a Jeová como parte da nação de Israel. (1Rs 8:41-43) Mas agora Jesus estava mandando seus discípulos ir pregar, e não só para os judeus, mas também para “pessoas de todas as nações”. Com essa ordem, Jesus mostrou que o trabalho de fazer discípulos seria realizado no mundo inteiro. — Mt 10:1, 5-7; Ap 7:9; veja a nota de estudo em Mt 24:14.
+- *em nome do*: A palavra grega para “nome” (ónoma) pode significar mais do que o nome de uma pessoa; pode se referir, por exemplo, a autoridade ou posição. Neste texto, ser ‘batizado em nome de’ significa reconhecer a autoridade e a posição do Pai e do Filho, e o modo como Deus usa o espírito santo. Quando a pessoa reconhece isso, ela passa a ter uma nova base para seu relacionamento com Deus. — Veja também a nota de estudo em Mt 10:41.
+- *do Pai, e do Filho, e do espírito santo*: É claro que devemos reconhecer a autoridade do Pai, Jeová Deus, porque ele é o Criador e foi ele que nos deu a vida. (Sal 36:7, 9; Ap 4:11) Mas a Bíblia mostra também que ninguém pode ser salvo se não reconhecer a importância do Filho, Jesus, no propósito de Jeová. (Jo 14:6; At 4:12) Também é essencial reconhecer as diversas maneiras como Deus usa o seu espírito santo, por exemplo: para dar vida (Jó 33:4), para inspirar os escritores da Bíblia (2Pe 1:21) e para dar aos seus servos a força necessária para fazer a vontade dele (Ro 15:19). Alguns afirmam que este versículo apoia a doutrina da Trindade porque menciona o Pai, o Filho e o espírito santo juntos. Mas em nenhum lugar a Bíblia fala que os três são iguais em eternidade, poder e autoridade. O fato de os três serem mencionados juntos no mesmo versículo não prova que os três são pessoas divinas, eternas e iguais. — Mr 13:32; Col 1:15; 1Ti 5:21.
+- *do espírito santo*: Ou: “da santa força ativa”. A palavra “espírito” (que é do gênero neutro em grego) não se refere a uma pessoa, mas sim a uma força ativa que vem de Deus. — Veja o Glossário, “Espírito santo”; “Espírito”.
+====
+
+[[v40-28-20]]
+
+^<<v40-28-20,20>>^ ensinando-as a obedecer a todas as coisas que lhes ordenei. E saibam que eu estou com vocês todos os dias, até o final do sistema de coisas.”
+
+[TIP]
+====
+- *ensinando-as*: A palavra grega traduzida como “ensinar” envolve instruir, explicar, dar argumentos convincentes e provar o que se diz. (Veja as notas de estudo em Mt 3:1; 4:23.) Ensinar pessoas a obedecer a todas as coisas que Jesus ordenou seria um processo contínuo. Incluiria ensinar a elas o que Jesus ensinou e ajudá-las a colocar em prática esses ensinos e a seguir o exemplo dele. — Jo 13:17; Ef 4:21; 1Pe 2:21.
+- *E saibam*: Ou: “Vejam!” Veja a nota de estudo em Mt 1:23.
+- *final*: Veja a nota de estudo em Mt 24:3 e o Glossário, “Final do sistema de coisas”.
+- *do sistema de coisas*: Ou: “da época”. — Veja o Glossário, “Sistema(s) de coisas”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-027.adoc#v40-27-0[&#60; Capítulo Anterior] | <<v40-28-0,Topo>> | xref:041-marcos/041-marcos-001.adoc#v41-1-0[Próximo Capítulo &#62;]

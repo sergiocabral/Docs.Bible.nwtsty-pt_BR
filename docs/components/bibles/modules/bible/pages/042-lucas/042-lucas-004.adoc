@@ -1,0 +1,357 @@
+include::./index.adoc[]
+
+[[v42-4-0]]
+=== As Boas Novas Segundo Lucas, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Acontecimentos anteriores ao ministério de Jesus (3:1–4:13)
+* Início do ministério de João (3:1, 2)
+* João prega o batismo (3:3-20)
+* Batismo de Jesus (3:21, 22)
+* Genealogia de Jesus Cristo (3:23-38)
+* Jesus rejeita as tentações do Diabo (4:1-13)
+* E. Começo do ministério de Jesus, principalmente na Galileia (4:14–6:11)
+* Jesus começa a pregar na Galileia (4:14, 15)
+* Jesus é rejeitado em Nazaré (4:16-30)
+* Jesus ensina na sinagoga em Cafarnaum (4:31-37)
+* Jesus cura a sogra de Simão e outras pessoas (4:38-41)
+* Multidões encontram Jesus num lugar isolado (4:42-44)
+* Pesca milagrosa; Jesus chama os primeiros discípulos (5:1-11)
+* Jesus cura um homem que está coberto de lepra (5:12-16)
+* Jesus perdoa os pecados de um paralítico e o cura (5:17-26)
+* Jesus chama Levi para ser seu seguidor (5:27-32)
+* Pergunta sobre o jejum (5:33-39)
+* Jesus é “Senhor do sábado” (6:1-5)
+* Jesus cura no sábado um homem que tem a mão atrofiada (6:6-11)
+****
+
+[[v42-4-1]]
+
+^<<v42-4-1,1>>^ Então Jesus, cheio de espírito santo, se afastou do Jordão e foi conduzido pelo espírito, no deserto,
+
+[TIP]
+====
+- *conduzido pelo espírito*: A palavra grega pneúma se refere aqui ao espírito de Deus, que pode atuar como uma força que impele ou motiva a pessoa a fazer as coisas de acordo com a vontade de Deus. — Mr 1:12; veja o Glossário, “Espírito”.
+====
+
+[[v42-4-2]]
+
+^<<v42-4-2,2>>^ por 40 dias, e foi tentado pelo Diabo. Ele não comeu nada naqueles dias; assim, quando terminaram, ele sentiu fome.
+
+[TIP]
+====
+- *Diabo*: Veja a nota de estudo em Mt 4:1.
+====
+
+[[v42-4-3]]
+
+^<<v42-4-3,3>>^ O Diabo lhe disse então: “Se você é filho de Deus, diga a esta pedra que se transforme em pão.”
+
+[[v42-4-4]]
+
+^<<v42-4-4,4>>^ Mas Jesus lhe respondeu: “Está escrito: ‘O homem não deve viver somente de pão.’”
+
+[TIP]
+====
+- *O homem não deve viver somente de pão*: Tanto Mateus como Lucas mostram que Jesus respondeu ao Diabo citando as palavras de De 8:3, mas a citação em Lucas é mais curta do que a em Mateus. Algumas traduções e manuscritos bem antigos completam a citação em Lucas com as palavras “mas de toda palavra de Deus”, fazendo com que ela fique parecida com a citação em Mt 4:4. Mas em manuscritos mais antigos de Lucas essas palavras não aparecem. Mesmo assim, é interessante que várias traduções das Escrituras Gregas Cristãs para o hebraico que têm a versão mais longa deste versículo (chamadas de J7, 8, 10, 14, 15, 17 no Apêndice C4) usam o Tetragrama. Essas traduções terminam a citação de De 8:3 com as palavras “mas de tudo que vem da boca de Jeová”.
+====
+
+[[v42-4-5]]
+
+^<<v42-4-5,5>>^ Assim ele o levou para cima e lhe mostrou todos os reinos da terra habitada, num instante.
+
+[TIP]
+====
+- *Assim ele o levou para cima*: O relato paralelo em Mt 4:8 acrescenta o detalhe de que o Diabo levou Jesus para “uma montanha extraordinariamente alta”. A ordem em que Lucas relata as tentações é diferente da de Mateus. É provável que, nesse caso, Mateus tenha relatado os acontecimentos na ordem em que eles realmente ocorreram. (Mt 4:1-11) Parece lógico que Satanás tenha começado as duas primeiras tentações com o desafio sutil “se você é filho de Deus”, e terminado com seu ataque mais direto, pedindo claramente que Jesus desobedecesse o primeiro dos Dez Mandamentos. (Êx 20:2, 3) Também parece lógico que Jesus tenha dito “Vá embora, Satanás!” depois do último dos três testes. (Mt 4:10) Além disso, alguns estudiosos perceberam que, em grego, Mt 4:5 começa com a palavra grega tóte, enquanto Lu 4:5 começa com a palavra kai. Apesar de isso não provar qual foi a sequência das tentações, a palavra grega tóte talvez seja um pouco mais específica com relação à sequência de acontecimentos do que a palavra grega kai. É verdade que Lucas escreveu seu Evangelho “em ordem lógica”, mas isso não significa necessariamente que ele sempre seguiu uma ordem cronológica rígida. — Veja a nota de estudo em Lu 1:3.
+- *lhe mostrou*: Veja a nota de estudo em Mt 4:8.
+- *reinos*: Veja a nota de estudo em Mt 4:8.
+====
+
+[[v42-4-6]]
+
+^<<v42-4-6,6>>^ Então, o Diabo lhe disse: “Eu lhe darei toda esta autoridade, bem como a glória destes reinos, porque ela me foi entregue e a dou a quem eu quiser.
+
+[[v42-4-7]]
+
+^<<v42-4-7,7>>^ Portanto, se você fizer um ato de adoração diante de mim, tudo será seu.”
+
+[TIP]
+====
+- *fizer um ato de adoração*: Veja a nota de estudo em Mt 4:9.
+====
+
+[[v42-4-8]]
+
+^<<v42-4-8,8>>^ Em resposta, Jesus lhe disse: “Está escrito: ‘Adore a Jeová, seu Deus, e preste serviço sagrado apenas a ele.’”^&#42;1^
+
+[NOTE]
+====
+. Ou: “e sirva apenas a ele”.
+====
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de De 6:13. No texto hebraico original de Deuteronômio, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v42-4-9]]
+
+^<<v42-4-9,9>>^ Ele o levou então a Jerusalém, colocou-o sobre o parapeito do templo e lhe disse: “Se você é filho de Deus, jogue-se daqui para baixo,
+
+[TIP]
+====
+- *parapeito do templo*: Veja a nota de estudo em Mt 4:5.
+====
+
+[[v42-4-10]]
+
+^<<v42-4-10,10>>^ pois está escrito: ‘Ele dará aos seus anjos uma ordem referente a você, para protegê-lo’,
+
+[[v42-4-11]]
+
+^<<v42-4-11,11>>^ e: ‘Eles o carregarão nas mãos, para que não bata com o pé numa pedra.’”
+
+[[v42-4-12]]
+
+^<<v42-4-12,12>>^ Em resposta, Jesus lhe disse: “Foi dito: ‘Não ponha Jeová, seu Deus, à prova.’”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de De 6:16. No texto hebraico original de Deuteronômio, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v42-4-13]]
+
+^<<v42-4-13,13>>^ Assim, depois de terminar toda a tentação, o Diabo o deixou até outra ocasião conveniente.
+
+[[v42-4-14]]
+
+^<<v42-4-14,14>>^ Jesus voltou então no poder do espírito^&#42;1^ para a Galileia. E boas notícias sobre ele se espalharam por toda a região ao redor.
+
+[NOTE]
+====
+. Ou: “cheio do poder do espírito”.
+====
+
+[[v42-4-15]]
+
+^<<v42-4-15,15>>^ Também, ele começou a ensinar nas sinagogas deles, e era honrado por todos.
+
+[TIP]
+====
+- *sinagogas*: Veja o Glossário.
+====
+
+[[v42-4-16]]
+
+^<<v42-4-16,16>>^ Então ele foi para Nazaré, onde tinha sido criado, e, segundo o seu costume no dia de sábado, entrou na sinagoga e se levantou para ler.
+
+[TIP]
+====
+- *segundo o seu costume no dia de sábado*: Não existe nada que indique que os judeus se reunissem em sinagogas para guardar o sábado antes do exílio em Babilônia. Mas, com o tempo, os judeus desenvolveram esse hábito, provavelmente a partir da época de Esdras e Neemias. Não é de surpreender que Jesus também seguisse esse costume, que ajudava a fortalecer a espiritualidade. Durante a infância de Jesus, sua família costumava ir à sinagoga em Nazaré. Mais tarde, os cristãos também adotaram o costume de se reunir para adorar a Jeová.
+- *se levantou para ler*: De acordo com estudiosos, esta é a primeira descrição conhecida de como eram as reuniões nas sinagogas. A história judaica diz que as reuniões normalmente começavam com as pessoas fazendo suas orações pessoais enquanto todos entravam. Depois, as palavras de De 6:4-9 e 11:13-21 eram recitadas. Daí, eram feitas orações públicas e uma parte do Pentateuco era lida em voz alta, seguindo uma programação. De acordo com At 15:21, essa leitura era feita “todo sábado”. Depois, vinha a parte da reunião que este versículo parece mencionar, a leitura de um trecho dos livros escritos pelos profetas junto com uma aplicação do que tinha sido lido. O leitor normalmente ficava de pé para ler, e é possível que ele pudesse escolher a passagem profética que leria. — Veja a nota de estudo em At 13:15.
+====
+
+[[v42-4-17]]
+
+^<<v42-4-17,17>>^ Assim, foi-lhe entregue o rolo do profeta Isaías, e ele abriu o rolo e achou o lugar onde estava escrito:
+
+[TIP]
+====
+- *o rolo do profeta Isaías*: O Rolo do Mar Morto de Isaías é feito de 17 tiras de pergaminho costuradas uma na outra, formando um rolo de 7,3 metros de comprimento, com 54 colunas de texto. É possível que o rolo usado na sinagoga em Nazaré tivesse um tamanho parecido. No século 1 d.C., os livros bíblicos ainda não tinham sido divididos em capítulos e versículos. O fato de que Jesus, mesmo sem essas divisões, achou o lugar onde estavam aquelas palavras proféticas mostra que ele conhecia muito bem a Palavra de Deus.
+====
+
+[[v42-4-18]]
+
+^<<v42-4-18,18>>^ “O espírito de Jeová está sobre mim, porque Ele me ungiu para declarar boas novas aos pobres. Enviou-me para proclamar liberdade aos cativos e recuperação da visão aos cegos, para dar livramento aos esmagados,
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de Is 61:1. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *Ele me ungiu*: Lucas cita aqui as palavras da profecia de Isaías como aparecem na Septuaginta: “Ele me ungiu.” Mas é provável que Jesus tenha lido essa passagem de Isaías (61:1, 2) em hebraico, onde o verbo traduzido como “ungiu” aparece junto com as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Várias traduções das Escrituras Gregas Cristãs em hebraico (chamadas de J7, 8, 10, 14, 15 no Apêndice C4) usam o nome divino e dizem “Jeová me ungiu”.
+- *para proclamar liberdade aos cativos*: Jesus citou aqui as palavras da profecia de Isaías, que alguns judeus talvez entendessem de maneira literal. (Is 61:1) Mas o ministério de Jesus se concentrou em ajudar os que estavam cativos em sentido espiritual. Assim, a liberdade que ele proclamou não era literal, mas espiritual. Tanto a profecia de Isaías como a aplicação que Jesus fez dela ao seu ministério parecem fazer referência à proclamação de liberdade que era feita no Jubileu. Durante o ano do Jubileu, que era comemorado a cada 50 anos, se proclamava liberdade aos cativos em toda a terra de Israel. — Le 25:8-12.
+====
+
+[[v42-4-19]]
+
+^<<v42-4-19,19>>^ para pregar o ano aceitável de Jeová.”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de Is 61:2. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *o ano aceitável de Jeová*: Ou: “o ano do favor de Jeová”. Jesus citou aqui as palavras de Is 61:1, 2. O texto de Lucas, que foi escrito em grego, usa a expressão “ano aceitável”. Em Is 61:2, a Septuaginta usa a mesma expressão grega para traduzir a expressão hebraica “ano de boa vontade [ou: “favor”, nota de rodapé]”. Jesus aplicou esse versículo a si mesmo, mostrando que seu ministério, que dava às pessoas a chance de serem salvas, marcou o começo desse “ano”. Aos olhos de Jeová, esse período seria um “ano aceitável”, ou apropriado, para que ele mostrasse sua boa vontade e aceitasse como seus servos os que quisessem servi-lo. Jesus interrompeu sua leitura logo antes das palavras de Isaías sobre o “dia de vingança”. Parece que ele fez isso para manter o foco no “ano aceitável”, um período mais longo em que Deus mostraria seu favor para as pessoas que o procurassem em busca de salvação. — Lu 19:9, 10; Jo 12:47.
+====
+
+[[v42-4-20]]
+
+^<<v42-4-20,20>>^ Com isso, enrolou o rolo, entregou-o de volta ao assistente e se sentou; e os olhos de todos na sinagoga estavam atentamente fixos nele.
+
+[TIP]
+====
+- *e se sentou*: Ao se sentar, Jesus estava indicando que começaria a ensinar. De acordo com o costume, depois que alguém fazia a leitura em voz alta, ele devia se sentar para ensinar algo sobre o que tinha lido. Mas, em vez de voltar para onde estava sentado antes, o leitor se sentava em um local onde “todos na sinagoga” pudessem vê-lo. — Compare com a nota de estudo em Mt 5:1.
+====
+
+[[v42-4-21]]
+
+^<<v42-4-21,21>>^ Então ele começou a lhes dizer: “Hoje se cumpriu essa passagem das Escrituras que vocês acabam de ouvir.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “essa escritura nos seus ouvidos”.
+====
+
+[[v42-4-22]]
+
+^<<v42-4-22,22>>^ E todos começaram a falar bem dele e a se maravilhar com as palavras cativantes que saíam da sua boca, e diziam: “Não é este o filho de José?”
+
+[[v42-4-23]]
+
+^<<v42-4-23,23>>^ Em vista disso, ele lhes disse: “Sem dúvida vocês aplicarão a mim o seguinte ditado: ‘Médico, cure a si mesmo’, e dirão: ‘Faça também aqui na sua própria cidade as coisas que ouvimos dizer que foram feitas em Cafarnaum.’”
+
+[TIP]
+====
+- *ditado*: Ou: “provérbio; parábola; comparação”. A palavra grega parabolé significa literalmente “colocar ao lado (junto)”, e pode se referir a um ditado, um provérbio, uma parábola ou uma comparação. — Veja a nota de estudo em Mt 13:3.
+- *na sua própria cidade*: Ou: “no seu próprio território”. Lit.: “no lugar do seu pai”. Ou seja, Nazaré, a cidade onde Jesus cresceu. Neste contexto, parece que a palavra grega patrís, traduzida aqui como “própria cidade”, se refere a uma área relativamente pequena — a cidade onde Jesus viveu junto com sua família. Mas essa palavra também pode ser usada para se referir a uma área maior, por exemplo, a terra ou país de origem de uma pessoa. Em Jo 4:43, 44, a palavra patrís parece se referir a toda a Galileia e, por isso, foi traduzida como “[sua própria] terra”.
+====
+
+[[v42-4-24]]
+
+^<<v42-4-24,24>>^ Então ele disse: “Eu lhes digo a verdade: Nenhum profeta é aceito na sua própria terra.
+
+[[v42-4-25]]
+
+^<<v42-4-25,25>>^ Garanto a vocês que havia muitas viúvas em Israel nos dias de Elias, quando o céu se fechou por três anos e seis meses e houve uma grande fome em toda aquela terra.
+
+[TIP]
+====
+- *por três anos e seis meses*: De acordo com 1Rs 18:1, foi “no terceiro ano” que Elias anunciou o fim da seca. Por isso alguns afirmam que essas palavras de Jesus contradizem o relato de 1 Reis. Mas o relato de 1 Reis não indica que a seca durou menos de três anos. A expressão “no terceiro ano” pelo visto se refere ao período que começou quando Elias anunciou a seca a Acabe. (1Rs 17:1) É provável que Elias tenha feito esse anúncio depois que a estação seca já tivesse começado. Essa estação costuma durar até seis meses, mas talvez tenha durado mais naquele ano. Além disso, a seca não terminou imediatamente quando Elias falou com Acabe “no terceiro ano”, mas só depois da ocasião em que Jeová fez descer fogo do céu no monte Carmelo. (1Rs 18:18-45) Tiago, meio irmão de Jesus, também fala que a seca dos dias de Elias durou três anos e seis meses. (Tg 5:17) Mas, conforme explicado, as palavras de Jesus e de Tiago não contradizem o relato de 1Rs 18:1.
+====
+
+[[v42-4-26]]
+
+^<<v42-4-26,26>>^ Mesmo assim, Elias não foi enviado a nenhuma dessas mulheres, mas apenas a uma viúva de Sarefá, na terra de Sídon.
+
+[TIP]
+====
+- *Sarefá*: Nome de origem hebraica de uma cidade não israelita localizada na Fenícia, entre as cidades de Tiro e Sídon, na costa do mar Mediterrâneo. Esse nome aparece também em 1Rs 17:9, 10 e Ob 20. O nome grego da cidade era Sarepta. Existe hoje no Líbano uma cidade com um nome parecido, Sarafand, que fica 13 quilômetros ao sudoeste de Sídon, na costa do mar Mediterrâneo. O local original de Sarefá talvez ficasse a uma curta distância dali. — Veja o Apêndice B10.
+====
+
+[[v42-4-27]]
+
+^<<v42-4-27,27>>^ Havia também muitos leprosos em Israel no tempo de Eliseu, o profeta; contudo, nenhum deles foi purificado, mas apenas Naamã, o sírio.”
+
+[TIP]
+====
+- *purificado*: Ou: “curado”. Aqui a palavra traduzida como “purificado” é usada para se referir à cura de Naamã, que tinha lepra. (2Rs 5:3-10, 14) De acordo com a Lei mosaica, a lepra tornava a pessoa impura. (Le 13:1-59) Assim, essa palavra grega é muitas vezes usada para se referir à cura de leprosos. — Mt 8:3; 10:8; Mr 1:40, 41.
+====
+
+[[v42-4-28]]
+
+^<<v42-4-28,28>>^ E todos os que ouviam essas coisas na sinagoga ficaram cheios de ira,
+
+[[v42-4-29]]
+
+^<<v42-4-29,29>>^ e se levantaram, o conduziram às pressas para fora da cidade e o levaram à beira da montanha^&#42;1^ em que a sua cidade se situava, a fim de lançá-lo para baixo.
+
+[NOTE]
+====
+. Ou: “da colina”.
+====
+
+[TIP]
+====
+- *a fim de lançá-lo para baixo*: De acordo com a tradição judaica, que mais tarde foi registrada no Talmude, às vezes, quando alguém era condenado por um crime, ele era jogado de um penhasco. Depois ele era apedrejado para garantir que estivesse morto. Não é possível afirmar se era isso o que aquelas pessoas queriam fazer com Jesus, mas fica claro que elas queriam matá-lo.
+====
+
+[[v42-4-30]]
+
+^<<v42-4-30,30>>^ Mas ele passou pelo meio deles e seguiu caminho.
+
+[[v42-4-31]]
+
+^<<v42-4-31,31>>^ Ele desceu então a Cafarnaum, uma cidade da Galileia. Ele os estava ensinando no sábado,
+
+[TIP]
+====
+- *Cafarnaum*: Vem de um nome hebraico que significa “aldeia de Naum” ou “aldeia de consolo”. (Na 1:1, nota de rodapé) Cafarnaum ficava na margem noroeste do mar da Galileia. Muitos acontecimentos importantes do ministério de Jesus ocorreram ali, e em Mt 9:1 ela é chamada de “sua própria cidade”. O relato diz que Jesus desceu a Cafarnaum. Essa informação está correta, já que ele estava em Nazaré, cerca de 360 metros acima do nível do mar, e Cafarnaum ficava mais de 200 metros abaixo do nível do mar.
+====
+
+[[v42-4-32]]
+
+^<<v42-4-32,32>>^ e eles estavam maravilhados com o seu modo de ensinar, porque ele falava com autoridade.
+
+[[v42-4-33]]
+
+^<<v42-4-33,33>>^ Havia na sinagoga um homem com um espírito, um demônio impuro, e ele gritou bem alto:
+
+[TIP]
+====
+- *com um espírito, um demônio impuro*: Ou: “com um espírito demoníaco impuro”. — Veja o Glossário, “Espírito”.
+====
+
+[[v42-4-34]]
+
+^<<v42-4-34,34>>^ “Ah! o que você quer conosco, Jesus Nazareno? Veio nos destruir? Eu sei exatamente quem você é: o Santo de Deus.”
+
+[TIP]
+====
+- *o que você quer conosco, . . . ?*: Ou: “o que nós temos a ver com você, . . .?”. — Veja a nota de estudo em Mt 8:29.
+====
+
+[[v42-4-35]]
+
+^<<v42-4-35,35>>^ Mas Jesus o censurou, dizendo: “Cale-se e saia dele.” Assim, depois de lançar o homem no chão no meio deles, o demônio saiu dele sem feri-lo.
+
+[[v42-4-36]]
+
+^<<v42-4-36,36>>^ Em vista disso, todos ficaram pasmados e começaram a dizer uns aos outros: “Que palavras são essas? Pois ele dá ordens aos espíritos impuros, com autoridade e poder, e eles saem!”
+
+[[v42-4-37]]
+
+^<<v42-4-37,37>>^ De modo que as notícias sobre ele se espalhavam por todos os lugares da região ao redor.
+
+[[v42-4-38]]
+
+^<<v42-4-38,38>>^ Depois de sair da sinagoga, ele entrou na casa de Simão. A sogra de Simão estava sofrendo, com uma febre alta, e pediram a ele que a ajudasse.
+
+[TIP]
+====
+- *A sogra de Simão*: Ou seja, a sogra de Pedro, que também era chamado de Cefas. (Jo 1:42) As palavras de Lucas estão de acordo com 1Co 9:5, onde Paulo fala que Cefas era casado. Tudo indica que a sogra de Pedro morava com ele na casa que ele dividia com seu irmão, André. — Mr 1:29-31; para mais informações sobre os diferentes nomes do apóstolo Pedro, veja a nota de estudo em Mt 10:2.
+- *sofrendo, com uma febre alta*: Tanto Mateus como Marcos dizem que a sogra de Pedro estava “de cama e com febre”. (Mt 8:14; Mr 1:30) Mas Lucas, talvez porque fosse médico, é o único que destaca a gravidade do estado dela, dizendo que ela estava com “febre alta”. — Veja a “Introdução a Lucas”.
+====
+
+[[v42-4-39]]
+
+^<<v42-4-39,39>>^ Então ele se inclinou sobre ela e censurou a febre, que a deixou. Ela se levantou no mesmo instante e começou a servi-los.
+
+[[v42-4-40]]
+
+^<<v42-4-40,40>>^ Mas, ao pôr do sol, todos os que tinham consigo doentes, com as mais variadas enfermidades, os levaram a ele. Ele punha as mãos sobre cada um deles e os curava.
+
+[[v42-4-41]]
+
+^<<v42-4-41,41>>^ Demônios também saíam de muitos, gritando: “Você é o Filho de Deus.” Mas ele os censurava e não permitia que falassem, pois sabiam que ele era o Cristo.
+
+[[v42-4-42]]
+
+^<<v42-4-42,42>>^ No entanto, quando o dia amanheceu, ele saiu e foi para um lugar isolado. As multidões, porém, começaram a procurar por ele e chegaram até onde ele estava, e tentaram impedir que ele as deixasse.
+
+[[v42-4-43]]
+
+^<<v42-4-43,43>>^ Mas ele lhes disse: “Tenho de declarar as boas novas do Reino de Deus também a outras cidades, porque fui enviado para isso.”
+
+[TIP]
+====
+- *declarar as boas novas*: O verbo grego usado aqui, euaggelízomai (“declarar boas novas”), aparece 54 vezes nas Escrituras Gregas Cristãs, muitas delas nos livros escritos por Lucas. (Lu 1:19; 2:10; 3:18; 4:18; 8:1; 9:6; 20:1; At 5:42; 8:4; 10:36; 11:20; 13:32; 14:15, 21; 15:35; 16:10; 17:18) Existe uma diferença entre o verbo grego kerýsso, “pregar; proclamar” (Mt 3:1; 4:17; 24:14; Lu 4:18, 19; 8:1, 39; 9:2; 24:47; At 8:5; 28:31; Ap 5:2) e o verbo euaggelízomai, “declarar boas novas”. O primeiro verbo destaca como a proclamação é feita, ou seja, em público, com autorização. O segundo destaca o conteúdo da proclamação, “as boas novas”. O substantivo relacionado euaggélion (“boas novas”) aparece 76 vezes nas Escrituras Gregas Cristãs. — Veja as notas de estudo em Mt 4:23; 24:14 e o Glossário, “Boas novas”.
+- *Reino de Deus*: Nas Escrituras Gregas Cristãs, as boas novas estão fortemente ligadas ao Reino de Deus, que era o tema principal do que Jesus pregava e ensinava. A expressão “Reino de Deus” aparece 32 vezes em Lucas, 14 vezes em Marcos e 4 vezes em Mateus. Mas Mateus usa a expressão paralela “Reino dos céus” umas 30 vezes. — Veja as notas de estudo em Mt 3:2; 24:14; Mr 1:15.
+====
+
+[[v42-4-44]]
+
+^<<v42-4-44,44>>^ Assim, ele seguiu pregando nas sinagogas da Judeia.
+
+'''
+
+xref:042-lucas/042-lucas-003.adoc#v42-3-0[&#60; Capítulo Anterior] | <<v42-4-0,Topo>> | xref:042-lucas/042-lucas-005.adoc#v42-5-0[Próximo Capítulo &#62;]

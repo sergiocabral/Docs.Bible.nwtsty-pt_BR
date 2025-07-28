@@ -1,0 +1,263 @@
+include::./index.adoc[]
+
+[[v40-1-0]]
+=== As Boas Novas Segundo Mateus, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* Mateus: Provavelmente, o nome grego traduzido como “Mateus” é uma forma mais curta do nome hebraico traduzido como “Matitias” (1Cr 15:18), que significa “presente de Jeová”.
+* As Boas Novas Segundo Mateus: Em nenhum dos Evangelhos o escritor se identifica e, pelo visto, os textos originais não tinham títulos. Em alguns manuscritos do Evangelho de Mateus, o título que aparece é: Euaggélion Katá Maththaíon (As Boas Novas [ou: O Evangelho] Segundo Mateus). Outros manuscritos usam um título mais curto: Katá Maththaíon (Segundo Mateus). Não se sabe exatamente quando os títulos começaram a ser usados ou quando foram adicionados aos manuscritos dos Evangelhos. Alguns acreditam que foi no século 2 d.C., porque existem manuscritos datados de entre o fim do século 2 d.C. e o começo do século 3 d.C. que já usavam títulos longos. Alguns estudiosos sugerem que os relatos sobre a vida de Jesus começaram a ser chamados de “Evangelhos” (que, em grego, significa literalmente “boas novas”) por causa das palavras iniciais do livro de Marcos (“Princípio das boas novas a respeito de Jesus Cristo, o Filho de Deus”). É possível que as pessoas tenham começado a usar esses títulos, que incluíam o nome do escritor, porque era mais fácil para identificar os livros.
+****
+
+.Notas do capítulo
+****
+* A. Genealogia de Jesus Cristo (1:1-17)
+* B. Do nascimento ao batismo de Jesus (1:18–3:17)
+* Maria fica grávida por espírito santo; reação de José (1:18-25)
+* Visita dos astrólogos; plano de Herodes (2:1-12)
+* José e Maria fogem com seu filho para o Egito (2:13-15)
+* Herodes mata meninos em Belém e nos arredores (2:16-18)
+* Família de Jesus se muda para Nazaré (2:19-23)
+* Pregação de João Batista (3:1-12)
+* Batismo de Jesus (3:13-17)
+****
+
+[[v40-1-1]]
+
+^<<v40-1-1,1>>^ O livro da história^&#42;1^ de Jesus Cristo, filho de Davi, filho de Abraão:
+
+[NOTE]
+====
+. Ou: “genealogia; linhagem; origem”.
+====
+
+[TIP]
+====
+- *livro da história*: As primeiras palavras do texto grego de Mateus, Bíblos genéseos (variação de génesis), também podem ser traduzidas como “registro histórico” ou “registro da genealogia”. A palavra grega génesis significa literalmente “origem; nascimento; linhagem”. Ela é usada na Septuaginta grega para traduzir a palavra hebraica toledhóth, que tem um significado parecido e é geralmente traduzida como “história” no livro de Gênesis. — Gên 2:4; 5:1; 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2.
+- *história de Jesus Cristo*: Mateus mostra que Jesus é descendente de Davi por meio de Salomão, filho de Davi. Já Lucas mostra que Jesus é descendente de Davi por meio de Natã, outro filho de Davi. (Mt 1:6, 7; Lu 3:31) Na genealogia registrada por Mateus, ele mostra que José, o pai adotivo de Jesus, é descendente de Salomão. Por ser legalmente filho de José, Jesus tinha o direito legal ao trono de Davi. Tudo indica que o livro de Lucas traça a genealogia de Jesus por meio de Maria, mostrando que Jesus era descendente biológico de Davi.
+- *Cristo*: Esse título vem da palavra grega Khristós e equivale ao título “Messias” (do hebraico mashíahh). Tanto a palavra grega como a hebraica significam “ungido”. É uma referência a uma cerimônia que existia nos tempos bíblicos: quando um governante era escolhido, alguém o ungia, ou seja, derramava óleo em sua cabeça.
+- *filho*: Nas listas genealógicas da Bíblia, a palavra “filho” pode se referir a um filho, um neto ou um descendente.
+- *filho de Davi*: Essa expressão indica que Jesus é o herdeiro do pacto que Jeová fez com Davi. Jeová tinha prometido que o herdeiro do Reino seria descendente de Davi. — 2Sa 7:11-16; Sal 89:3, 4.
+- *filho de Abraão*: Os judeus conheciam a promessa de Deus de que por meio de Abraão todas as nações seriam abençoadas. Pensando nos leitores judeus, Mateus traça a genealogia de Jesus destacando que ele é o descendente legítimo de Abraão e o herdeiro da promessa.
+====
+
+[[v40-1-2]]
+
+^<<v40-1-2,2>>^ Abraão tornou-se pai de Isaque;
+Isaque tornou-se pai de Jacó;
+Jacó tornou-se pai de Judá e de seus irmãos;
+
+[TIP]
+====
+- *pai*: Na expressão tornou-se pai de (lit.: “gerou”), a palavra “pai” pode significar pai, avô ou até mesmo um antepassado mais distante. — Mt 1:8, 11.
+====
+
+[[v40-1-3]]
+
+^<<v40-1-3,3>>^ Judá tornou-se pai de Peres e de Zerá por meio de Tamar;
+Peres tornou-se pai de Esrom;
+Esrom tornou-se pai de Rão;
+
+[TIP]
+====
+- *Tamar*: A primeira de cinco mulheres que Mateus menciona na genealogia do Messias. As outras quatro são Raabe e Rute, que não eram israelitas (versículo 5); Bate-Seba, a “esposa de Urias” (versículo 6); e Maria (versículo 16). Essas são as únicas mulheres mencionadas nesta genealogia. Provavelmente elas foram incluídas porque cada uma delas se tornou antepassada de Jesus de um modo incomum.
+====
+
+[[v40-1-4]]
+
+^<<v40-1-4,4>>^ Rão tornou-se pai de Aminadabe;
+Aminadabe tornou-se pai de Nasom;
+Nasom tornou-se pai de Salmom;
+
+[[v40-1-5]]
+
+^<<v40-1-5,5>>^ Salmom tornou-se pai de Boaz por meio de Raabe;
+Boaz tornou-se pai de Obede por meio de Rute;
+Obede tornou-se pai de Jessé;
+
+[[v40-1-6]]
+
+^<<v40-1-6,6>>^ Jessé tornou-se pai de Davi, o rei.
+Davi tornou-se pai de Salomão por meio da esposa de Urias;^&#42;1^
+
+[NOTE]
+====
+. Ou: “por meio daquela que pertencia a Urias”.
+====
+
+[TIP]
+====
+- *Davi, o rei*: Embora vários reis apareçam nesta genealogia, Davi é o único chamado pelo título de “rei”. A linhagem de reis descendentes de Davi era conhecida como “a casa de Davi”. (1Rs 12:19, 20) Ao chamar Jesus de “filho de Davi” no versículo 1, Mateus destaca o tema do Reino e mostra que Jesus é o herdeiro do Reino que Jeová prometeu no pacto com Davi. — 2Sa 7:11-16.
+- *esposa de Urias*: Ou seja, Bate-Seba, esposa de Urias, o hitita, um dos guerreiros estrangeiros de Davi. — 2Sa 11:3; 23:8, 39.
+====
+
+[[v40-1-7]]
+
+^<<v40-1-7,7>>^ Salomão tornou-se pai de Roboão;
+Roboão tornou-se pai de Abias;
+Abias tornou-se pai de Asa;
+
+[[v40-1-8]]
+
+^<<v40-1-8,8>>^ Asa tornou-se pai de Jeosafá;
+Jeosafá tornou-se pai de Jeorão;
+Jeorão tornou-se pai de Uzias;
+
+[TIP]
+====
+- *Jeorão tornou-se pai de Uzias*: A palavra “pai” é usada aqui no sentido de “antepassado”, como muitas vezes acontece em listas genealógicas na Bíblia. A lista dos descendentes de Davi em 1Cr 3:11, 12 mostra que houve três reis maus (Acazias, Jeoás e Amazias) entre Jeorão e Uzias (também chamado de Azarias), mas Mateus omitiu o nome deles.
+====
+
+[[v40-1-9]]
+
+^<<v40-1-9,9>>^ Uzias tornou-se pai de Jotão;
+Jotão tornou-se pai de Acaz;
+Acaz tornou-se pai de Ezequias;
+
+[[v40-1-10]]
+
+^<<v40-1-10,10>>^ Ezequias tornou-se pai de Manassés;
+Manassés tornou-se pai de Amom;
+Amom tornou-se pai de Josias;
+
+[[v40-1-11]]
+
+^<<v40-1-11,11>>^ Josias tornou-se pai de Jeconias e de seus irmãos, na época da deportação para Babilônia.
+
+[TIP]
+====
+- *pai*: Essa palavra é usada aqui no sentido de “avô”, porque, na verdade, o filho de Josias era Jeoiaquim, e Jeoiaquim era o pai de Jeconias, também chamado de Joaquim e de Conias. — 2Rs 24:6; 1Cr 3:15-17; Est 2:6; Je 22:24.
+====
+
+[[v40-1-12]]
+
+^<<v40-1-12,12>>^ Depois da deportação para Babilônia, Jeconias tornou-se pai de Sealtiel;
+Sealtiel tornou-se pai de Zorobabel;
+
+[TIP]
+====
+- *Sealtiel tornou-se pai de Zorobabel*: Muitos textos bíblicos mencionam que o pai de Zorobabel era Sealtiel. (Esd 3:2, 8; 5:2; Ne 12:1; Ag 1:1, 12, 14; 2:2, 23; Lu 3:27) Mas há um texto que diz que o pai de Zorobabel era Pedaías, irmão de Sealtiel. (1Cr 3:19) Provavelmente, Zorobabel era filho biológico de Pedaías, mas pelo visto foi reconhecido legalmente como filho de Sealtiel. — Veja as notas de estudo em Lu 3:27.
+====
+
+[[v40-1-13]]
+
+^<<v40-1-13,13>>^ Zorobabel tornou-se pai de Abiúde;
+Abiúde tornou-se pai de Eliaquim;
+Eliaquim tornou-se pai de Azor;
+
+[[v40-1-14]]
+
+^<<v40-1-14,14>>^ Azor tornou-se pai de Sadoque;
+Sadoque tornou-se pai de Aquim;
+Aquim tornou-se pai de Eliúde;
+
+[[v40-1-15]]
+
+^<<v40-1-15,15>>^ Eliúde tornou-se pai de Eleazar;
+Eleazar tornou-se pai de Matã;
+Matã tornou-se pai de Jacó;
+
+[[v40-1-16]]
+
+^<<v40-1-16,16>>^ Jacó tornou-se pai de José, marido de Maria, da qual nasceu Jesus, que é chamado Cristo.
+
+[TIP]
+====
+- *José*: O relato de Mateus não diz que José “tornou-se pai de” Jesus. (Veja a nota de estudo em Mt 1:2.) Diz apenas que José era o marido de Maria, da qual nasceu Jesus. O pronome grego que foi traduzido aqui como “da qual” é feminino e só pode se referir a Maria. Assim, a genealogia traçada por Mateus destaca que, embora Jesus não fosse filho biológico de José, ele era filho adotivo de José e, por isso, era herdeiro legal do trono de Davi. Já a genealogia traçada por Lucas destaca que Jesus era descendente biológico de Davi por meio de Maria.
+- *Cristo*: Veja a nota de estudo em Mt 1:1 e o Glossário.
+====
+
+[[v40-1-17]]
+
+^<<v40-1-17,17>>^ Assim, todas as gerações, desde Abraão até Davi, foram 14 gerações; desde Davi até a deportação para Babilônia, 14 gerações; desde a deportação para Babilônia até o Cristo, 14 gerações.
+
+[[v40-1-18]]
+
+^<<v40-1-18,18>>^ Foi assim que o nascimento de Jesus Cristo aconteceu: durante o tempo em que sua mãe, Maria, estava prometida em casamento a José, ela ficou grávida por espírito santo, antes de se unirem.
+
+[TIP]
+====
+- *prometida em casamento*: Estar ‘prometido em casamento’, ou seja, estar noivo, era considerado um compromisso muito sério entre os judeus. Um homem e uma mulher que estavam noivos já eram considerados marido e esposa, embora eles só fossem morar juntos depois de cumprirem todas as formalidades do casamento.
+- *espírito*: Esta é a primeira vez que a palavra grega pneúma aparece nas Escrituras Gregas Cristãs. Aqui ela se refere à força ativa de Deus. — Veja o Glossário.
+====
+
+[[v40-1-19]]
+
+^<<v40-1-19,19>>^ No entanto, visto que José, seu marido, era justo e não queria expô-la^&#42;1^ publicamente, ele pretendia se divorciar dela^&#42;2^ em segredo.
+
+[NOTE]
+====
+. Ou: “desonrá-la”.
+. Ou: “mandá-la embora; liberá-la”.
+====
+
+[TIP]
+====
+- *marido . . . divorciar*: Um homem e uma mulher que estavam noivos já eram considerados casados. Por isso, José podia ser chamado de marido de Maria, e Maria de esposa de José. (Mt 1:20) Um casal só podia terminar o noivado por meio de um divórcio.
+====
+
+[[v40-1-20]]
+
+^<<v40-1-20,20>>^ Mas, depois de ter cogitado essas coisas, o anjo de Jeová apareceu-lhe num sonho, dizendo: “José, filho de Davi, não tenha medo de levar para casa Maria, sua esposa, pois o que foi concebido nela é por espírito santo.
+
+[TIP]
+====
+- *anjo de Jeová*: Essa expressão aparece pela primeira vez em Gên 16:7 e é usada muitas vezes nas Escrituras Hebraicas. Em cópias mais antigas da Septuaginta grega, a expressão aparece formada pela palavra grega ággelos (anjo; mensageiro) seguida pelo nome de Deus em letras hebraicas. Um exemplo disso é o texto de Za 3:5, 6 numa cópia da Septuaginta encontrada em Nahal Hever, Israel, datada de entre 50 a.C. e 50 d.C. (Veja o Apêndice C1.) Várias traduções da Bíblia mantiveram o nome de Deus neste versículo ao traduzir a expressão “anjo de Jeová”. — Veja o Apêndice A5 e o Apêndice C3 (introdução e Mt 1:20).
+- *Jeová*: Esta é a primeira das 237 vezes em que o nome de Deus, Jeová, aparece nas Escrituras Gregas Cristãs no texto principal da Tradução do Novo Mundo. — Veja o Apêndice C1.
+- *filho de Davi*: Para indicar a José o tipo de notícia que daria a ele, o anjo o chamou de “filho de Davi”. Isso deve ter feito José se lembrar da promessa que Jeová fez no pacto com Davi. — Veja as notas de estudo em Mt 1:1, 6.
+- *levar para casa Maria, sua esposa*: Para os judeus, o casamento começava quando o casal ficava noivo. O marido terminava de cumprir as formalidades do casamento quando levava a noiva para morar na casa dele. Isso geralmente acontecia num dia marcado, e parentes e amigos eram convidados para uma festa. Assim, o homem tornava público que a mulher era agora sua esposa, e a união era registrada e considerada oficial. — Gên 24:67; veja as notas de estudo em Mt 1:​18, 19.
+- *concebido*: Ou: “gerado”. O verbo grego usado aqui foi traduzido como “nasceu” em uma ocorrência do versículo 16. Nos versículos 2 a 16, quando ele aparece na voz ativa em grego, ele foi traduzido como “tornou-se pai de”. — Veja a nota de estudo em Mt 1:2.
+====
+
+[[v40-1-21]]
+
+^<<v40-1-21,21>>^ Ela dará à luz um filho, e você deve lhe dar o nome de Jesus, pois ele salvará seu povo dos pecados deles.”
+
+[TIP]
+====
+- *Jesus*: Corresponde ao nome hebraico Jesua ou Josué, que significa “Jeová é salvação”.
+====
+
+[[v40-1-22]]
+
+^<<v40-1-22,22>>^ Tudo isso aconteceu realmente para cumprir o que Jeová tinha dito por meio do seu profeta:
+
+[TIP]
+====
+- *para cumprir o que Jeová tinha dito por meio do seu profeta*: Mateus usa muitas vezes essa expressão e outras parecidas. Pelo visto, ele queria deixar claro para os leitores judeus que Jesus era o Messias prometido. — Mt 2:15, 23; 4:14; 8:17; 12:17; 13:35; 21:4; 26:56; 27:9.
+- *Jeová*: O versículo seguinte, o 23, faz uma citação direta de Is 7:14, que diz que foi Jeová quem deu o sinal. (Veja o Apêndice C3 [introdução e Mt 1:22].) Esta é a primeira citação que Mateus faz das Escrituras Hebraicas.
+====
+
+[[v40-1-23]]
+
+^<<v40-1-23,23>>^ “Vejam! A virgem ficará grávida e dará à luz um filho, e lhe darão o nome de Emanuel”, que traduzido quer dizer “Deus está conosco”.
+
+[TIP]
+====
+- *Vejam!*: A palavra grega idoú, que às vezes é traduzida como “veja” ou “vejam”, costuma ser usada para chamar a atenção do leitor para o que vai ser dito em seguida. Ela incentiva o leitor a visualizar a cena ou a observar algum detalhe da narrativa. Também é usada para enfatizar algo ou para apresentar algo novo ou surpreendente. Nas Escrituras Gregas Cristãs, os livros de Mateus, Lucas e Apocalipse são os que mais usam essa palavra. Em hebraico existe uma expressão equivalente, e ela é usada muitas vezes nas Escrituras Hebraicas.
+- *virgem*: Mateus cita aqui Is 7:14. O texto original em hebraico usa a palavra ʽalmáh, que tem um significado mais amplo. Pode significar “virgem” ou simplesmente “mulher jovem”. Mas Mateus cita o texto como aparece na Septuaginta, que usa uma palavra grega mais específica, parthénos. Essa palavra grega significa “pessoa que nunca teve relações sexuais”. Sob inspiração, Mateus usou a palavra parthénos para se referir à mãe de Jesus.
+- *Emanuel*: Nome hebraico que aparece em Is 7:14 e 8:8, 10. Emanuel é um dos nomes proféticos do Messias.
+====
+
+[[v40-1-24]]
+
+^<<v40-1-24,24>>^ José acordou então do sono e fez conforme o anjo de Jeová lhe havia orientado, e levou sua esposa para casa.
+
+[TIP]
+====
+- *Jeová*: Veja a nota de estudo em Mt 1:20 e o Apêndice C3 (introdução e Mt 1:24).
+====
+
+[[v40-1-25]]
+
+^<<v40-1-25,25>>^ Mas não teve relações com ela até ela dar à luz um filho, e ele lhe deu o nome de Jesus.
+
+[TIP]
+====
+- *não teve relações com*: Lit.: “não conheceu”. No grego bíblico, o verbo para “conhecer” às vezes é usado como um eufemismo, ou uma forma mais suave, para se referir às relações sexuais. O mesmo acontece com o verbo hebraico para “conhecer”, que foi traduzido em Gên 4:1, 1Sa 1:19 e outros textos como “ter relações [sexuais] com”.
+====
+
+'''
+
+xref:039-malaquias/039-malaquias-004.adoc#v39-4-0[&#60; Capítulo Anterior] | <<v40-1-0,Topo>> | xref:040-mateus/040-mateus-002.adoc#v40-2-0[Próximo Capítulo &#62;]

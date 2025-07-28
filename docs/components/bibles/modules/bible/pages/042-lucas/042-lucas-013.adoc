@@ -1,0 +1,295 @@
+include::./index.adoc[]
+
+[[v42-13-0]]
+=== As Boas Novas Segundo Lucas, 13
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Jesus se dirige para Jerusalém; Jesus continua seu ministério, principalmente na Judeia e na Pereia (9:51–19:27)
+* Aldeia samaritana rejeita Jesus (9:51-56)
+* Requisitos para seguir Jesus (9:57-62)
+* Jesus envia os 70 (10:1-12)
+* Corazim, Betsaida e Cafarnaum são repreendidas por não se arrependerem (10:13-16)
+* Os 70 voltam (10:17-20)
+* Jesus louva seu Pai por favorecer os humildes (10:21-24)
+* Ilustração do bom samaritano (10:25-37)
+* Jesus visita Marta e Maria (10:38-42)
+* Jesus ensina a oração-modelo (11:1-4)
+* Ilustração do amigo persistente (11:5-13)
+* Jesus explica que os demônios são expulsos “por meio do dedo de Deus” (11:14-23)
+* Jesus fala da volta de um espírito impuro (11:24-26)
+* Explicação sobre a verdadeira felicidade (11:27, 28)
+* Sinal de Jonas (11:29-32)
+* Olho é a lâmpada do corpo (11:33-36)
+* Jesus come com um fariseu; ai dos religiosos hipócritas (11:37-54)
+* “Tomem cuidado com o fermento dos fariseus” (12:1-3)
+* Temer a Deus, não a homens (12:4-7)
+* Declarar que está em união com Cristo (12:8-12)
+* Ilustração do rico insensato (12:13-21)
+* “Parem de se preocupar tanto com a sua vida” (12:22-31)
+* “Não tema, pequeno rebanho” (12:32-34)
+* Manter a vigilância (12:35-40)
+* Identificação do administrador fiel e características de um escravo infiel (12:41-48)
+* Não paz, mas divisão (12:49-53)
+* Necessidade de examinar os tempos (12:54-56)
+* Resolver disputas (12:57-59)
+* Arrepender-se ou ser destruído (13:1-5)
+* Ilustração da figueira infrutífera (13:6-9)
+* Jesus cura no sábado uma mulher encurvada (13:10-17)
+* Ilustrações do grão de mostarda e do fermento (13:18-21)
+* É preciso esforço para entrar pela porta estreita (13:22-30)
+* Jesus chama Herodes de ‘aquela raposa’ (13:31-33)
+* Jesus lamenta por Jerusalém (13:34, 35)
+* Jesus cura no sábado um homem com hidropisia (14:1-6)
+* Ser um convidado humilde (14:7-11)
+* Convidar os que não podem recompensar (14:12-14)
+* Ilustração dos convidados que recusam o convite (14:15-24)
+* Custo de ser discípulo (14:25-33)
+* Sal que perde a força (14:34, 35)
+* Ilustração da ovelha perdida (15:1-7)
+* Ilustração da moeda perdida (15:8-10)
+* Ilustração do filho pródigo (15:11-32)
+* Ilustração do administrador injusto (16:1-13)
+* A Lei e o Reino de Deus (16:14-18)
+* Ilustração do rico e Lázaro (16:19-31)
+* Jesus ensina sobre tropeços, perdão e fé (17:1-6)
+* Ilustração do escravo que serve primeiro seu senhor (17:7-10)
+* Jesus cura dez leprosos (17:11-19)
+* Vinda do Reino de Deus (17:20-37)
+* Ilustração da viúva persistente (18:1-8)
+* Ilustração do fariseu e do cobrador de impostos (18:9-14)
+* Jesus e as criancinhas (18:15-17)
+* Líder rico pergunta sobre a vida eterna (18:18-30)
+* Jesus prediz novamente sua morte e ressurreição (18:31-34)
+* Jesus cura um mendigo cego perto de Jericó (18:35-43)
+* Jesus visita o cobrador de impostos Zaqueu (19:1-10)
+* Ilustração das dez minas (19:11-27)
+****
+
+[[v42-13-1]]
+
+^<<v42-13-1,1>>^ Naquela ocasião, alguns que estavam presentes lhe contaram sobre os galileus cujo sangue Pilatos havia misturado com os sacrifícios deles.
+
+[[v42-13-2]]
+
+^<<v42-13-2,2>>^ Ele lhes disse em resposta: “Vocês acham que esses galileus eram mais pecadores do que todos os outros galileus, porque sofreram essas coisas?
+
+[[v42-13-3]]
+
+^<<v42-13-3,3>>^ Eu lhes digo que não; mas, a menos que se arrependam, todos vocês serão destruídos do mesmo modo.
+
+[[v42-13-4]]
+
+^<<v42-13-4,4>>^ Ou aqueles 18 sobre os quais caiu a torre de Siloé, matando-os — vocês acham que eles eram mais culpados do que todos os outros homens que moram em Jerusalém?
+
+[TIP]
+====
+- *sobre os quais caiu a torre de Siloé*: Para dar força ao seu argumento, Jesus citou essa tragédia que talvez tivesse acontecido pouco tempo antes ou que, pelo menos, ainda estava viva na memória das pessoas. Parece que essa torre ficava perto do reservatório de Siloé, localizado na parte sudeste de Jerusalém. — Veja o mapa “Jerusalém e proximidades”, no Apêndice B12-A.
+====
+
+[[v42-13-5]]
+
+^<<v42-13-5,5>>^ Eu lhes digo que não; mas, a menos que se arrependam, todos vocês serão destruídos, como eles foram.”
+
+[[v42-13-6]]
+
+^<<v42-13-6,6>>^ Então, contou a seguinte ilustração: “Um homem tinha uma figueira plantada no seu vinhedo e foi procurar fruto nela, mas não achou nenhum.
+
+[TIP]
+====
+- *uma figueira plantada no seu vinhedo*: Era comum plantar figueiras e oliveiras nos vinhedos. Assim, mesmo que a safra das uvas fosse ruim, os figos e as azeitonas ainda trariam alguma renda para o dono do vinhedo.
+====
+
+[[v42-13-7]]
+
+^<<v42-13-7,7>>^ Ele disse então ao homem que cuidava do vinhedo: ‘Agora já faz três anos que venho procurar fruto nesta figueira, mas não achei nenhum. Corte-a! Por que ela devia ocupar o solo inutilmente?’
+
+[TIP]
+====
+- *três anos*: Normalmente, dois ou três anos depois que uma muda de figueira é plantada, ela já produz pelo menos alguns frutos. Quando Jesus fez essa ilustração, ele já estava pregando por cerca de três anos e, pelo visto, os três anos que a árvore da ilustração tinha ficado sem produzir representavam esse período. Durante esse tempo, ele tinha se esforçado para cultivar a fé dos judeus, mas relativamente poucos deles se tornaram seus discípulos. A nação de Israel era como uma figueira improdutiva. O trabalho de pregação e ensino que Jesus realizou na Judeia e na Pereia durante o quarto ano de seu ministério era como o esforço extra que o homem da ilustração fez, cavando em volta da figueira e colocando adubo. Como apenas alguns poucos judeus corresponderam aos esforços de Jesus, a nação de Israel foi cortada, como uma árvore improdutiva.
+====
+
+[[v42-13-8]]
+
+^<<v42-13-8,8>>^ Em resposta, o homem lhe disse: ‘Senhor, deixe-a por mais um ano. Eu vou cavar em volta dela e pôr estrume;
+
+[[v42-13-9]]
+
+^<<v42-13-9,9>>^ se no futuro ela produzir fruto, muito bem, mas, se não, pode cortá-la.’”
+
+[[v42-13-10]]
+
+^<<v42-13-10,10>>^ Ele estava ensinando numa das sinagogas, no sábado.
+
+[[v42-13-11]]
+
+^<<v42-13-11,11>>^ E havia ali uma mulher que tinha um espírito de fraqueza havia 18 anos; ela estava encurvada e não conseguia de modo algum se endireitar.
+
+[TIP]
+====
+- *um espírito de fraqueza*: Ou: “um espírito incapacitante”. Ao que tudo indica, se refere a um demônio que estava causando o problema daquela mulher. Em Lu 13:16, Jesus falou que ela foi ‘mantida presa’ por Satanás.
+====
+
+[[v42-13-12]]
+
+^<<v42-13-12,12>>^ Quando a viu, Jesus lhe dirigiu a palavra, dizendo: “Mulher, você está livre da sua fraqueza.”
+
+[[v42-13-13]]
+
+^<<v42-13-13,13>>^ E ele pôs as mãos sobre ela, e ela se endireitou instantaneamente e começou a glorificar a Deus.
+
+[[v42-13-14]]
+
+^<<v42-13-14,14>>^ Em vista disso, porém, o presidente da sinagoga, indignado porque Jesus havia feito a cura no sábado, disse à multidão: “Há seis dias em que se deve trabalhar; portanto, venham nesses dias e sejam curados, e não no dia de sábado.”
+
+[[v42-13-15]]
+
+^<<v42-13-15,15>>^ O Senhor, porém, respondeu-lhe: “Hipócritas! Cada um de vocês, no sábado, não desata o seu touro ou o seu jumento da baia e o leva para beber água?
+
+[[v42-13-16]]
+
+^<<v42-13-16,16>>^ Não deveria esta mulher, que é filha de Abraão e a quem Satanás manteve presa por 18 anos, ser libertada dessa prisão no dia de sábado?”
+
+[[v42-13-17]]
+
+^<<v42-13-17,17>>^ Quando ele disse isso, todos os seus opositores ficaram envergonhados, mas toda a multidão se alegrava com todas as coisas gloriosas que ele fazia.
+
+[[v42-13-18]]
+
+^<<v42-13-18,18>>^ Assim, ele acrescentou: “A que é semelhante o Reino de Deus, e com que posso compará-lo?
+
+[[v42-13-19]]
+
+^<<v42-13-19,19>>^ Ele é semelhante a um grão de mostarda que um homem pegou e plantou na sua horta; o grão cresceu e se tornou uma árvore, e as aves do céu fizeram ninhos nos seus ramos.”
+
+[TIP]
+====
+- *grão de mostarda*: Embora existam várias espécies silvestres de pé de mostarda em Israel, a mostarda-preta (Brassica nigra) é a variedade geralmente cultivada na região. A semente da mostarda-preta é redonda, mede entre 1 e 1,6 milímetro e pesa 1 miligrama. Apesar de ser bem pequena, a semente de mostarda pode se tornar uma planta do tamanho de uma árvore. Algumas variedades de pé de mostarda podem chegar a 4,5 metros de altura. A semente de mostarda é chamada em Mt 13:32 e Mr 4:31 de “a menor de todas as sementes”. Em alguns textos judaicos antigos, ela era usada como figura de linguagem para se referir a algo extremamente pequeno. Existem outras sementes menores do que a de mostarda, mas parece que a semente de mostarda era a menor semente que os lavradores israelitas plantavam nos dias de Jesus.
+====
+
+[[v42-13-20]]
+
+^<<v42-13-20,20>>^ E, novamente, ele disse: “Com que posso comparar o Reino de Deus?
+
+[[v42-13-21]]
+
+^<<v42-13-21,21>>^ Ele é semelhante ao fermento que uma mulher pegou e misturou com três grandes medidas de farinha, até que a massa inteira ficou fermentada.”
+
+[TIP]
+====
+- *grandes medidas*: Veja a nota de estudo em Mt 13:33.
+====
+
+[[v42-13-22]]
+
+^<<v42-13-22,22>>^ E ele viajou de cidade em cidade e de aldeia em aldeia, ensinando e seguindo caminho para Jerusalém.
+
+[[v42-13-23]]
+
+^<<v42-13-23,23>>^ Então, um homem lhe disse: “Senhor, são poucos os que estão sendo salvos?” Ele lhes disse:
+
+[TIP]
+====
+- *são poucos os que estão sendo salvos?*: O número de pessoas que seriam salvas era um dos assuntos que causavam mais polêmica entre os líderes religiosos judaicos dos tempos antigos. Mais tarde, surgiram até mesmo seitas místicas que tentavam calcular exatamente quantos seriam salvos atribuindo um número para cada letra de vários textos sagrados. Além de especular sobre quantos seriam salvos, a pergunta daquele homem envolvia o modo de Deus julgar as pessoas. Em vez de entrar nesses detalhes, Jesus deu uma resposta que destacou que cada pessoa tem a responsabilidade de se esforçar para ser salva.
+====
+
+[[v42-13-24]]
+
+^<<v42-13-24,24>>^ “Esforcem-se vigorosamente para entrar pela porta estreita, pois eu lhes digo que muitos procurarão entrar, mas não poderão.
+
+[TIP]
+====
+- *Esforcem-se vigorosamente*: Ou: “Continuem lutando”. Esse conselho de Jesus destaca que é preciso se esforçar de toda a alma para entrar pela “porta estreita”. Várias obras de referência sugerem traduções como “Esforcem-se ao máximo; Façam todo o esforço”. O verbo grego usado aqui, agonízomai, é relacionado com o substantivo grego agón, que muitas vezes era usado para se referir a competições de atletismo. Em He 12:1, o substantivo agón é usado para descrever a “corrida” cristã para ganhar a vida. Ele também é usado com o sentido mais geral de “luta”. (Fil 1:​30; Col 2:1; 1Ti 6:​12; 2Ti 4:7) O verbo agonízomai também é traduzido como ‘participar numa competição’ (1Co 9:​25), ‘esforçar-se’ (Col 1:​29; 1Ti 4:​10), ‘[orar] com fervor’ (Col 4:​12) e ‘travar [a luta]’ (1Ti 6:12). Visto que esse verbo tem a ver com competições de atletismo, alguns sugerem que o esforço mencionado por Jesus pode ser comparado ao de um atleta que se esforça vigorosamente, com toda sua força, para ganhar o prêmio.
+====
+
+[[v42-13-25]]
+
+^<<v42-13-25,25>>^ Depois que o dono da casa tiver se levantado e trancado a porta, vocês ficarão do lado de fora batendo na porta e dizendo: ‘Senhor, abra para nós’; mas ele lhes responderá: ‘Não sei de onde vocês são.’
+
+[[v42-13-26]]
+
+^<<v42-13-26,26>>^ Então vocês começarão a dizer: ‘Comemos e bebemos na sua presença, e o senhor ensinou nas nossas ruas principais.’
+
+[TIP]
+====
+- *ruas principais*: Ou: “ruas largas”. A palavra grega usada aqui se refere às ruas principais, que no tempo de Jesus, ficavam mais largas nas áreas centrais das cidades e serviam como praças públicas. Essas “ruas principais” eram diferentes da maioria das outras ruas, que eram estreitas e sinuosas.
+====
+
+[[v42-13-27]]
+
+^<<v42-13-27,27>>^ Mas ele lhes dirá: ‘Não sei de onde vocês são. Afastem-se de mim, todos vocês que fazem o que é injusto!’
+
+[[v42-13-28]]
+
+^<<v42-13-28,28>>^ Ali é que haverá o seu choro e o ranger dos seus dentes, quando vocês virem Abraão, Isaque, Jacó e todos os profetas no Reino de Deus, mas vocês mesmos lançados fora.
+
+[TIP]
+====
+- *ranger dos seus dentes*: Ou: “apertar os seus dentes”. Expressão que pode indicar sentimentos de angústia, raiva e desespero, possivelmente acompanhados por palavras ofensivas e violência.
+====
+
+[[v42-13-29]]
+
+^<<v42-13-29,29>>^ Além disso, virão pessoas do leste e do oeste, do norte e do sul, e se recostarão à mesa no Reino de Deus.
+
+[TIP]
+====
+- *do leste e do oeste, do norte e do sul*: Ao citar as quatro direções, Jesus incluiu a Terra inteira. Em outras palavras, pessoas de todas as nações poderiam ter esse privilégio.
+- *se recostarão à mesa*: Veja a nota de estudo em Mt 8:11.
+====
+
+[[v42-13-30]]
+
+^<<v42-13-30,30>>^ Escutem: Há últimos que serão primeiros, e há primeiros que serão últimos.”
+
+[[v42-13-31]]
+
+^<<v42-13-31,31>>^ Naquela mesma hora, alguns fariseus se aproximaram e lhe disseram: “Saia e vá embora daqui, porque Herodes quer matá-lo.”
+
+[TIP]
+====
+- *Herodes*: Ou seja, Herodes Antipas, filho de Herodes, o Grande. — Veja o Glossário.
+====
+
+[[v42-13-32]]
+
+^<<v42-13-32,32>>^ E ele lhes disse: “Vão dizer àquela raposa: ‘Veja, estou expulsando demônios e curando pessoas hoje e amanhã, e no terceiro dia terei terminado.’
+
+[TIP]
+====
+- *àquela raposa*: As raposas são conhecidas por serem animais espertos e traiçoeiros, e Jesus talvez estivesse pensando nessas características quando chamou Herodes de raposa. Na literatura judaica, a raposa era usada para representar homens relativamente fracos (compare com Ne 4:3), mas que agiam com esperteza e oportunismo. Em contraste, o poderoso leão era usado para representar a grandeza e o poder de um governante confiante. (Compare com Pr 28:1; Je 50:17; Ez 32:2.) Assim, alguns estudiosos acreditam que, quando Jesus chamou Herodes de raposa, ele estivesse se referindo tanto às características traiçoeiras da raposa como à insignificância e à fraqueza que ela podia representar. Se essa foi mesmo a intenção de Jesus, ele estava dizendo em outras palavras que Herodes era um governante traiçoeiro que achava que tinha grande valor, mas que era insignificante aos olhos de Deus. É provável que essa conversa dos fariseus com Jesus tenha acontecido quando ele estava passando pela Pereia, que era governada por Herodes, a caminho de Jerusalém. Pode ser que o próprio Herodes tenha dado início a esse boato, com a esperança de que Jesus ficasse com medo e fugisse dali. Parece que Jesus e seu ministério deixaram Herodes preocupado. Algum tempo antes, Herodes tinha sido influenciado por sua esposa a matar João Batista, e pode ser que ele estivesse com medo de matar outro profeta de Deus. — Mt 14:1, 2; Mr 6:16.
+- *hoje e amanhã, e no terceiro dia terei terminado*: Jesus não estava falando em sentido literal. Na verdade, ele estava simplesmente indicando que faltava pouco tempo para ele ir para Jerusalém, onde seria morto. As palavras de Jesus também mostravam que a duração de seu ministério messiânico já tinha sido determinada e que não poderia ser abreviada, controlada ou alterada por causa dos interesses políticos de um governante humano.
+====
+
+[[v42-13-33]]
+
+^<<v42-13-33,33>>^ Contudo, preciso continuar hoje, amanhã e no dia seguinte, porque é inadmissível que um profeta seja morto fora de Jerusalém.
+
+[TIP]
+====
+- *é inadmissível*: Ou: “é inconcebível (impensável)”. Nenhuma profecia bíblica diz claramente que o Messias morreria em Jerusalém, mas Da 9:​24-​26 pode sugerir isso. Além disso, seria de esperar que, se os judeus fossem matar um profeta, principalmente o Messias, eles fariam isso em Jerusalém. O Sinédrio, o supremo tribunal judaico formado por 71 membros, se reunia em Jerusalém. Assim, qualquer um que fosse acusado de ser falso profeta seria julgado ali. Talvez Jesus também tivesse em mente que era em Jerusalém que os judeus ofereciam sacrifícios a Deus e abatiam o cordeiro pascoal. Com o tempo, as palavras de Jesus se cumpriram. Ele foi levado diante do Sinédrio em Jerusalém e foi condenado. E foi em Jerusalém, do lado de fora dos muros da cidade, que ele morreu como “cordeiro pascoal”. — 1Co 5:7.
+====
+
+[[v42-13-34]]
+
+^<<v42-13-34,34>>^ Jerusalém, Jerusalém, que mata os profetas e apedreja os que lhe são enviados . . . Quantas vezes eu quis ajuntar seus filhos, assim como a galinha ajunta sua ninhada de pintinhos debaixo das asas! Mas vocês não quiseram.
+
+[TIP]
+====
+- *Jerusalém, Jerusalém*: A declaração de Jesus sobre Jerusalém que aparece a seguir foi feita enquanto ele estava na Pereia. (Veja o Apêndice A7-F.) Jesus fez uma declaração muito parecida no dia 11 de nisã, quando estava em Jerusalém durante a última semana de seu ministério. — Mt 23:37.
+====
+
+[[v42-13-35]]
+
+^<<v42-13-35,35>>^ Agora a sua casa ficará abandonada. Eu lhes digo: Vocês de modo algum me verão, até que digam: ‘Bendito é aquele que vem em nome de Jeová!’”
+
+[TIP]
+====
+- *casa*: Ou seja, o templo.
+- *Jeová*: Esta é uma citação direta do Sal 118:26. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+'''
+
+xref:042-lucas/042-lucas-012.adoc#v42-12-0[&#60; Capítulo Anterior] | <<v42-13-0,Topo>> | xref:042-lucas/042-lucas-014.adoc#v42-14-0[Próximo Capítulo &#62;]

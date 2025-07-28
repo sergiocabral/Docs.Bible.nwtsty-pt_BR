@@ -1,0 +1,269 @@
+include::./index.adoc[]
+
+[[v45-3-0]]
+=== A Carta aos Romanos, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-3-1]]
+
+^<<v45-3-1,1>>^ Qual é então a vantagem do judeu, ou qual é o valor da circuncisão?
+
+[[v45-3-2]]
+
+^<<v45-3-2,2>>^ Grande, em todos os sentidos. Em primeiro lugar, aos judeus foram confiadas as proclamações sagradas de Deus.
+
+[TIP]
+====
+- *aos judeus foram confiadas*: Em De 29:29, Moisés escreveu: “As coisas reveladas pertencem a nós [os israelitas] e a nossos descendentes para sempre.” E o Sal 147:19, 20 diz que Deus declarou “sua palavra . . . a Israel” e acrescenta que ele não tinha feito isso “com nenhuma outra nação”. Jesus também fez referência ao fato de Deus ter confiado sua palavra de salvação e a adoração verdadeira aos judeus. Em Jo 4:22, ele disse: “A salvação se origina dos judeus.” (Veja a nota de estudo.) Aqui, Paulo confirma que foi aos judeus que Jeová deu a responsabilidade de escrever a parte hebraica e aramaica das Escrituras inspiradas. Além disso, todos os livros das Escrituras Gregas Cristãs foram escritos por discípulos de Jesus que eram judeus. Assim, além de os judeus terem servido como guardiões do conhecimento das Escrituras, eles escreveram todos os livros do cânon da Bíblia. — Veja as notas de estudo em Lu Título; 24:44 e o Glossário, “Judeu”.
+- *proclamações sagradas*: A palavra grega traduzida aqui como “proclamações sagradas” ocorre apenas quatro vezes nas Escrituras Gregas Cristãs e é o plural de lógion (“pequena palavra”), um diminutivo de lógos (“palavra”). No início, a palavra lógion era usada apenas para se referir a declarações sagradas que eram curtas, mas depois passou a se referir a qualquer comunicação da parte de Deus. Aqui, Paulo está se referindo às Escrituras Hebraicas como um todo e, pelo visto, também à parte das Escrituras Gregas Cristãs que já existia naquela época. A responsabilidade de escrever o conjunto das Escrituras inspiradas foi confiada aos judeus, que escreviam “conforme eram movidos por espírito santo”. (2Pe 1:20, 21) A palavra lógion foi usada várias vezes na Septuaginta em passagens onde o texto hebraico se refere a declarações de Deus, assim como acontece no Sal 12:6 (11:7 [6], LXX): “As declarações de Jeová são puras.”
+====
+
+[[v45-3-3]]
+
+^<<v45-3-3,3>>^ O que acontece então? Se alguns não tiveram fé, será que a falta de fé deles anulará a fidelidade de Deus?
+
+[[v45-3-4]]
+
+^<<v45-3-4,4>>^ Certamente que não! Mas seja Deus verdadeiro, mesmo que todo homem seja mentiroso, assim como está escrito: “Para que fique provado que és justo nas tuas palavras e venças quando fores julgado.”
+
+[TIP]
+====
+- *Certamente que não!*: Estas palavras são a tradução de uma expressão grega que Paulo usa dez vezes na sua carta aos romanos. Ela também é traduzida como “de modo algum!”. (Ro 3:4, 6, 31; 6:2, 15; 7:7, 13; 9:14; 11:1, 11) Uma tradução mais literal seria “que isso nunca aconteça!”. A expressão muitas vezes era usada para responder a perguntas retóricas de forma negativa e enfática. Ela mostrava uma forte rejeição pela ideia que tinha sido sugerida. Era como se a pessoa respondesse: “Nem pensar!”
+- *seja Deus verdadeiro*: Quando Paulo disse as palavras que aparecem no início deste versículo (“Certamente que não!”), ele estava respondendo a pergunta que ele mesmo tinha feito no versículo anterior: “Se alguns não tiveram fé, será que a falta de fé deles anulará a fidelidade de Deus?” A maioria dos judeus daqueles dias teve falta de fé, especialmente quando eles rejeitaram as profecias das Escrituras Hebraicas que mostravam que Jesus era o Messias. (Ro 3:21) As “proclamações sagradas” sobre o Messias tinham sido confiadas aos judeus. (Ro 3:2) Quando eles rejeitaram a Jesus, eles deram a entender que Jeová não tinha sido fiel às suas promessas. Mas isso não era verdade. Jeová tinha cumprido suas promessas por meio de Jesus Cristo. Ao defender o argumento de que Deus é confiável, Paulo cita as palavras do rei Davi, conforme elas aparecem na Septuaginta: “Para que fique provado que [tu, Deus,] és justo nas tuas palavras.” (Sal 51:4 [50:6, LXX]) Nesse salmo, Davi admitiu seu erro e reconheceu que Deus é justo e verdadeiro. Ele não tentou se justificar e colocar a culpa em Deus. Aqui, Paulo usa as palavras de Davi para mostrar que Deus é sempre leal e verdadeiro, não importa quantos digam o contrário nem quem eles sejam.
+====
+
+[[v45-3-5]]
+
+^<<v45-3-5,5>>^ No entanto, o que diremos, se a nossa injustiça ressalta a justiça de Deus? Será que Deus é injusto quando expressa a sua ira? (Estou falando em termos humanos.)
+
+[[v45-3-6]]
+
+^<<v45-3-6,6>>^ De modo algum! Senão, como Deus julgará o mundo?
+
+[[v45-3-7]]
+
+^<<v45-3-7,7>>^ Mas, se pela minha mentira a verdade de Deus tem sido ainda mais destacada para a glória dele, por que, então, eu sou condenado como pecador?
+
+[[v45-3-8]]
+
+^<<v45-3-8,8>>^ E por que não dizer, assim como alguns falsamente afirmam que dizemos: “Façamos coisas más, para que venham coisas boas”? A condenação desses homens está de acordo com a justiça.
+
+[[v45-3-9]]
+
+^<<v45-3-9,9>>^ Então, o que concluímos? Estamos em melhor situação? De jeito nenhum! Pois já provamos que tanto os judeus como os gregos estão todos debaixo do pecado,
+
+[TIP]
+====
+- *debaixo do pecado*: Ou seja, debaixo do poder do pecado. Aqui, a preposição grega hypó (“debaixo de”) passa a ideia de estar debaixo do controle de alguém ou de algo. A Bíblia fala do pecado como se ele fosse um senhor, ou amo, que mantém os humanos em escravidão. (Jo 8:34; Ro 6:16-20; 7:14) De forma parecida, Paulo fala do pecado como se ele fosse um rei, dizendo que ‘o pecado reina’. — Ro 5:21.
+- *pecado*: Nas Escrituras Gregas Cristãs, a palavra “pecado” é geralmente uma tradução da palavra grega hamartía. Esta é a primeira vez que ela é usada no livro de Romanos. O verbo grego relacionado, hamartáno, significa literalmente “errar”, no sentido de errar um alvo ou não alcançar uma meta. Por exemplo, escritores gregos usaram hamartáno para falar de soldados que erravam o alvo ao arremessar a lança. As palavras hebraicas correspondentes hhattáʼth (“pecado”) e hhatáʼ (“pecar”) têm um sentido parecido. Em Jz 20:16, a palavra hhatáʼ é usada junto com uma palavra hebraica que significa “não” para dizer que todo soldado da tribo de Benjamim “conseguia, com uma funda, atirar uma pedra num fio de cabelo sem errar”. Tanto a palavra hebraica quanto a grega podiam se referir não apenas a errar um alvo literal, mas também a deixar de alcançar metas ou objetivos morais ou intelectuais. Mas, nas Escrituras, essas palavras se referem principalmente a pecar, ou seja, a falhar em viver ou agir de acordo com os padrões de moral estabelecidos pelo Criador. (Gên 39:9; 1Sa 7:6; Sal 51:4; Da 9:8; Lu 15:18; Ro 2:12; 5:12) A Septuaginta muitas vezes usa hamartáno para traduzir o verbo hebraico hhatáʼ. — Veja a nota de estudo em Ro 3:23.
+====
+
+[[v45-3-10]]
+
+^<<v45-3-10,10>>^ assim como está escrito: “Não há nenhum justo, nem sequer um;
+
+[TIP]
+====
+- *assim como está escrito*: Nos versículos 10 a 18, Paulo cita várias passagens das Escrituras Hebraicas para provar que “tanto os judeus como os gregos estão todos debaixo do pecado”. (Ro 3:9) Nos versículos 10 a 12, ele cita o Sal 14:1-3 e o Sal 53:1-3; no versículo 13, ele cita o Sal 5:9 e o Sal 140:3; no versículo 14, ele cita o Sal 10:7; nos versículos 15 a 17, ele cita Pr 1:16 e Is 59:7, 8; e, no versículo 18, ele cita o Sal 36:1. — Veja a nota de estudo em Ro 1:17.
+====
+
+[[v45-3-11]]
+
+^<<v45-3-11,11>>^ não há quem tenha entendimento;^&#42;1^ não há quem procure a Deus.
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+====
+
+[[v45-3-12]]
+
+^<<v45-3-12,12>>^ Todos se desviaram, todos eles se tornaram inúteis; não há quem mostre bondade, nem mesmo um só.”
+
+[[v45-3-13]]
+
+^<<v45-3-13,13>>^ “Sua garganta é uma sepultura aberta; eles enganam com sua língua.” “Há veneno de serpente atrás dos seus lábios.”
+
+[[v45-3-14]]
+
+^<<v45-3-14,14>>^ “E sua boca está cheia de maldições e de amargura.”
+
+[[v45-3-15]]
+
+^<<v45-3-15,15>>^ “Seus pés são velozes para derramar sangue.”
+
+[[v45-3-16]]
+
+^<<v45-3-16,16>>^ “Há ruína e desgraça nos seus caminhos,
+
+[[v45-3-17]]
+
+^<<v45-3-17,17>>^ e não conhecem o caminho da paz.”
+
+[[v45-3-18]]
+
+^<<v45-3-18,18>>^ “Não há temor de Deus diante dos seus olhos.”
+
+[[v45-3-19]]
+
+^<<v45-3-19,19>>^ Ora, nós sabemos que tudo o que a Lei diz, ela dirige aos que estão debaixo da Lei, a fim de que toda boca se cale, e o mundo inteiro fique sujeito à punição diante de Deus.
+
+[TIP]
+====
+- *a Lei*: Veja a nota de estudo em Ro 2:12.
+====
+
+[[v45-3-20]]
+
+^<<v45-3-20,20>>^ Portanto, ninguém será declarado justo diante dele por obras exigidas por lei, pois o que vem por meio da Lei é a plena consciência^&#42;1^ do pecado.
+
+[NOTE]
+====
+. Ou: “o conhecimento exato”.
+====
+
+[TIP]
+====
+- *ninguém será declarado justo*: Ou: “nenhuma carne será declarada justa”. A palavra grega para “carne” (sarx) é usada aqui para se referir a humanos, feitos de carne e osso. — Veja as notas de estudo em Jo 3:6; 17:2.
+====
+
+[[v45-3-21]]
+
+^<<v45-3-21,21>>^ Mas agora, sem depender de lei, foi revelada a justiça de Deus, da qual a Lei e os Profetas dão testemunho,
+
+[[v45-3-22]]
+
+^<<v45-3-22,22>>^ sim, a justiça de Deus por meio da fé em Jesus Cristo, para todos os que têm fé. Porque não há distinção.
+
+[[v45-3-23]]
+
+^<<v45-3-23,23>>^ Pois todos pecaram e não atingem a glória de Deus,
+
+[TIP]
+====
+- *todos pecaram*: Paulo expressa esta mesma ideia em Ro 3:9, 12 e 5:12. A palavra grega traduzida aqui como não atingem também poderia ser traduzida como “falham em atingir” ou “deixam de alcançar”. Deus criou os humanos “à sua imagem”, ou seja, deu a eles a capacidade de refletir sua personalidade e suas qualidades. (Gên 1:26, 27) Mas, quando os primeiros humanos, Adão e Eva, desobedeceram a Deus (Gên 2:15-17; 3:1-6), eles falharam em refletir a glória de Deus, o que inclui as qualidades gloriosas dele. Já que todos os descendentes de Adão herdaram o pecado e, como consequência, a morte, nenhum humano é capaz de refletir as qualidades de Deus como deveria.
+====
+
+[[v45-3-24]]
+
+^<<v45-3-24,24>>^ e é como dádiva^&#42;1^ que são declarados justos pela Sua bondade imerecida, por meio do livramento pelo resgate pago por Cristo Jesus.
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+====
+
+[TIP]
+====
+- *são declarados justos*: Nas Escrituras Gregas Cristãs, o verbo grego dikaióo (que muitas Bíblias traduzem como “justificar”) e os substantivos relacionados dikaíoma e dikaíosis (que muitas Bíblias traduzem como “justificação”) têm o sentido básico de absolver alguém de qualquer acusação, considerar a pessoa como inocente e, por isso, declarar que ela é justa e tratá-la como justa. Por exemplo, o apóstolo Paulo diz que quem morreu foi “absolvido [uma forma de dikaióo] do seu pecado”, já que pagou o preço exigido, a morte. (Ro 6:7, 23) Mas esse não é o único sentido que essas palavras gregas têm nas Escrituras. Elas também são usadas com um sentido especial e se referem a Deus considerar como inocentes as pessoas imperfeitas que exercem fé. — At 13:38, 39; Ro 8:33.
+- *do livramento pelo resgate pago por Cristo Jesus*: Ou: “da redenção que há em (por) Cristo Jesus”. A palavra grega traduzida aqui como “livramento pelo resgate” (apolýtrosis) está relacionada com várias outras palavras ligadas ao resgate. — Veja a nota de estudo em Mt 20:28.
+====
+
+[[v45-3-25]]
+
+^<<v45-3-25,25>>^ Deus apresentou Cristo como oferta para propiciação por meio da fé no seu sangue. Deus fez isso para demonstrar sua própria justiça, pois, na sua tolerância, estava perdoando os pecados cometidos no passado.
+
+[TIP]
+====
+- *oferta para propiciação*: Ou: “oferta para expiação (reconciliação)”. A palavra grega hilastérion, traduzida aqui como “oferta para propiciação”, e a palavra relacionada hilasmós, traduzida como “sacrifício propiciatório” em 1Jo 2:2 e 4:10, podem se referir a um meio de se fazer as pazes com alguém. Nas Escrituras, essas palavras são usadas para se referir ao ser humano recuperar o seu bom relacionamento com Deus. Quando Adão foi criado como “filho [terrestre] de Deus”, ele tinha um relacionamento de amizade com o Criador. (Lu 3:38) Mas Adão perdeu sua vida humana perfeita e seu bom relacionamento com Deus quando desobedeceu a ele e pecou. O que Adão fez também afetou seus descendentes, que foram condenados a ser escravos do pecado e da morte. (Ro 5:12) Por causa da justiça perfeita de Deus, para que a humanidade voltasse a ter um bom relacionamento com ele, era necessário pagar um valor equivalente ao que tinha sido perdido. (Êx 21:23-25; De 19:21) O sacrifício que Jesus fez, dando sua vida humana perfeita, atendeu os padrões de justiça de Jeová e deu a ele uma base justa para perdoar pecados. Assim, Deus podia ‘ser justo também ao declarar justo o homem [imperfeito] que tem fé em Jesus’. (Ro 3:26) O sacrifício de Jesus serviu como “oferta para propiciação”. Em outras palavras, seu sacrifício criou condições propícias, ou favoráveis, para que os humanos conseguissem recuperar a amizade com Jeová. (Ef 1:7) Em He 9:4, 5, a palavra hilastérion se refere à tampa da “Arca do Pacto” e é traduzida como “tampa propiciatória” ou, como diz a nota de rodapé, “lugar de expiação”.
+- *tolerância*: Ou: “indulgência”. — Veja a nota de estudo em Ro 2:4.
+- *estava perdoando os pecados cometidos no passado*: Jeová já estava perdoando pecados antes de Jesus dar sua vida como resgate para livrar os descendentes de Adão da imperfeição, da morte e do pecado. Isso se tornou possível a partir do momento em que ele começou a revelar seu propósito de providenciar um “descendente” que salvaria os humanos que exercessem fé. (Gên 3:15; 22:18; Is 53:5, 6, 10-12; Mt 20:28; Gál 3:19) Do ponto de vista do Deus Todo-Poderoso, era como se o resgate já estivesse pago; ele tinha certeza absoluta de que seu Filho estaria disposto a dar sua vida como sacrifício. (Sal 40:6-8; He 10:7-10) Nada poderia impedir Deus de cumprir o seu propósito. (Núm 23:19; Is 46:10; Tit 1:2) Assim, Deus podia perdoar pecadores arrependidos sem comprometer sua própria justiça. (De 32:4; Sal 32:1, 2, 5; Is 1:18) Ele também não estava ferindo seus padrões de justiça quando declarava como justos (em sentido relativo) os humanos obedientes. (Gên 15:1, 6; Ez 14:14; Mt 23:35; Tg 2:23-25) Pelos mesmos motivos, quando Jesus esteve na Terra como representante de Deus, ele tinha autoridade para perdoar os pecados dos que tinham fé, usando o valor do sacrifício que ele ainda iria fazer. — Mt 9:2-6; Lu 7:36-50; He 2:9; veja o Glossário, “Resgate”, “Justiça”.
+====
+
+[[v45-3-26]]
+
+^<<v45-3-26,26>>^ Fez isso para demonstrar a sua justiça no presente, de modo que ele fosse justo também ao declarar justo o homem que tem fé em Jesus.
+
+[[v45-3-27]]
+
+^<<v45-3-27,27>>^ Onde está então o motivo para se orgulhar? Foi eliminado. Por meio de que lei? A das obras? Não! Por meio da lei da fé.
+
+[[v45-3-28]]
+
+^<<v45-3-28,28>>^ Pois nós concluímos que o homem é declarado justo pela fé, sem depender de obras exigidas por lei.
+
+[[v45-3-29]]
+
+^<<v45-3-29,29>>^ Ou será que Deus é somente Deus dos judeus? Não é também Deus de pessoas das nações? Sim, também de pessoas das nações.
+
+[[v45-3-30]]
+
+^<<v45-3-30,30>>^ Visto que Deus é um só, ele declarará justos os circuncisos em resultado da fé, e os incircuncisos por meio da sua fé.
+
+[[v45-3-31]]
+
+^<<v45-3-31,31>>^ Então, abolimos a lei por meio da nossa fé? De modo algum! Pelo contrário, confirmamos a lei.
+
+'''
+
+xref:045-romanos/045-romanos-002.adoc#v45-2-0[&#60; Capítulo Anterior] | <<v45-3-0,Topo>> | xref:045-romanos/045-romanos-004.adoc#v45-4-0[Próximo Capítulo &#62;]

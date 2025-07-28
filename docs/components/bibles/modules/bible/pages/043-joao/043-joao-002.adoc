@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v43-2-0]]
+=== As Boas Novas Segundo João, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Primeiros milagres de Jesus; da época da Páscoa de 30 d.C. em diante (2:1–3:36)
+* Jesus transforma água em vinho num casamento em Caná da Galileia (2:1-12)
+* Jesus purifica o templo em Jerusalém (2:13-17)
+* Jesus fala a judeus opositores sobre levantar o templo em três dias (2:18-22)
+* Muitos passam a ter fé em Jesus por causa dos sinais que ele realiza (2:23-25)
+* Jesus fala a Nicodemos sobre nascer da água e do espírito (3:1-13)
+* O Filho do Homem será erguido, assim como a serpente foi erguida no deserto (3:14, 15)
+* Deus enviou seu Filho unigênito, não para julgar o mundo, mas para salvá-lo (3:16-21)
+* Último testemunho de João sobre Jesus (3:22-30)
+* Exercer fé no Filho, que vem do alto, leva à vida eterna (3:31-36)
+****
+
+[[v43-2-1]]
+
+^<<v43-2-1,1>>^ No terceiro dia se realizou uma festa de casamento em Caná da Galileia, e a mãe de Jesus estava lá.
+
+[TIP]
+====
+- *Caná*: Este nome provavelmente vem da palavra hebraica qanéh (em português, “cana”) e significa “lugar de canas”. João é o único escritor dos Evangelhos que menciona essa cidade. Ele sempre a chama de Caná da Galileia (Jo 2:11; 4:46; 21:2), provavelmente para que não fosse confundida com a Caná (em hebraico, Qanáh) que ficava no território da tribo de Aser (Jos 19:24, 28). Muitos estudiosos acreditam que Caná ficava no local que hoje é chamado de Khirbet Qana, onde foram encontradas as ruínas de uma antiga aldeia. As ruínas ficam em uma colina no limite norte do vale de Bet Netofa (planície de el-Battuf), cerca de 13 quilômetros ao norte de Nazaré. Elas incluem os restos do que estudiosos acreditam ter sido uma sinagoga (datada do fim do século 1 d.C., ou do século 2 d.C.) e de algumas cisternas antigas. Também foram encontrados ali fragmentos de vasos de barro e moedas que parecem ser do século 1 d.C. O lugar ainda é conhecido em árabe como Qana el-Jelil, que significa “Caná da Galileia”. Esse nome combina muito bem com o lugar, já que perto dali há uma planície onde canas crescem em grande quantidade. Por outro lado, a tradição da Igreja diz que Caná ficava num local que hoje é chamado de Kafr Kanna, 6,5 quilômetros ao nordeste de Nazaré. Mas estudiosos acham que não há ligação linguística entre o nome desse local e o nome Caná da Galileia, mencionado na Bíblia. É possível que a Igreja tenha favorecido a escolha de Kafr Kanna pensando na facilidade que os peregrinos teriam para ir de Nazaré até esse local.
+====
+
+[[v43-2-2]]
+
+^<<v43-2-2,2>>^ Jesus e seus discípulos também foram convidados para a festa de casamento.
+
+[[v43-2-3]]
+
+^<<v43-2-3,3>>^ Quando o vinho estava acabando, a mãe de Jesus lhe disse: “Eles não têm vinho.”
+
+[[v43-2-4]]
+
+^<<v43-2-4,4>>^ Mas Jesus respondeu: “O que eu e a senhora temos a ver com isso? Minha hora ainda não chegou.”
+
+[TIP]
+====
+- *O que eu e a senhora*: Ou: “Mulher, o que eu e você”. O texto grego diz que Jesus se dirigiu à sua mãe usando a palavra “mulher”, e Maria não foi a única a ser chamada assim por Jesus. (Jo 4:21) Pelo visto, em muitos contextos esse era um modo respeitoso de se dirigir a uma mulher (Mt 15:28) e nunca era considerado algo grosseiro ou insensível. Foi assim que anjos e o próprio Jesus se dirigiram a Maria Madalena quando ela estava chorando em frente ao túmulo de Jesus. É óbvio que eles não falariam de maneira dura nem desrespeitosa numa situação dessas. (Jo 20:13, 15) Jesus também chamou sua mãe de “mulher” quando estava na estaca de tortura e a deixou aos cuidados de seu amado apóstolo João. (Jo 19:26, nota de rodapé) Naquela ocasião, Jesus mostrou que se preocupava muito com Maria e que seguia o mandamento das Escrituras de honrar pai e mãe. (Êx 20:12; De 5:16; Mt 15:4) Várias obras de referência confirmam que a palavra “mulher” podia ser usada de forma respeitosa e até carinhosa.
+- *O que . . . temos a ver com isso?*: Quando Maria disse a Jesus “eles não têm vinho” (Jo 2:3), ela na verdade estava sugerindo que ele fizesse algo para resolver o problema. O fato de Maria ter sugerido isso é interessante, já que Jesus não tinha realizado nenhum milagre até então. Jesus respondeu usando uma expressão idiomática semítica que significa literalmente “o que para mim e para você?”. Essa expressão era usada para mostrar que a pessoa não estava totalmente de acordo com algo e, dependendo do contexto, podia expressar agressividade e rejeição. (Mt 8:29; Mr 1:24; 5:7; Lu 4:34; 8:28) Mas aqui ela parece ter sido usada por Jesus para rejeitar educadamente a sugestão de sua mãe. (Alguns textos das Escrituras Hebraicas em que essa expressão foi usada de modo mais suave são 2Sa 16:9, 10 e 1Rs 17:18, nota de rodapé.) Jesus indicou o motivo de não querer se envolver quando disse: Minha hora ainda não chegou. Apesar disso, a resposta de Jesus a Maria deve ter indicado de alguma forma que ele ainda poderia ajudar, conforme mostra o versículo 5.
+====
+
+[[v43-2-5]]
+
+^<<v43-2-5,5>>^ Sua mãe disse então aos que serviam: “Façam o que ele lhes disser.”
+
+[[v43-2-6]]
+
+^<<v43-2-6,6>>^ Havia ali seis jarros de pedra, para água, conforme exigido pelas regras de purificação dos judeus; a capacidade de cada jarro era de duas ou três medidas de líquidos.
+
+[TIP]
+====
+- *medidas de líquidos*: Em grego, metretés. Muitos estudiosos consideram que a medida de líquidos mencionada aqui seja equivalente a uma unidade hebraica de medida que se chamava “bato”. Foram encontrados alguns fragmentos de jarros com a palavra “bato” escrita em letras hebraicas antigas e, com base neles, alguns estudiosos calculam que um bato tinha cerca de 22 litros. (1Rs 7:26; Esd 7:22; Ez 45:14) Se eles estiverem certos, cada um dos jarros mencionados neste versículo teria entre 44 e 66 litros de capacidade. Assim, a capacidade total dos seis jarros seria de aproximadamente 260 a 390 litros. Mas outros estudiosos acreditam que metretés se refira a uma unidade grega de medida maior (de até 40 litros). — Veja o Apêndice B14-A.
+====
+
+[[v43-2-7]]
+
+^<<v43-2-7,7>>^ Jesus disse a eles: “Encham os jarros com água.” E eles os encheram até a borda.
+
+[[v43-2-8]]
+
+^<<v43-2-8,8>>^ Então ele lhes disse: “Agora tirem um pouco e levem ao diretor da festa.” E eles fizeram isso.
+
+[[v43-2-9]]
+
+^<<v43-2-9,9>>^ Quando o diretor da festa provou a água que tinha sido transformada em vinho, sem saber de onde o vinho tinha vindo (embora os servos que haviam tirado a água soubessem), o diretor da festa chamou o noivo
+
+[[v43-2-10]]
+
+^<<v43-2-10,10>>^ e lhe disse: “Todos servem primeiro o vinho bom e, quando as pessoas ficam embriagadas, o inferior. Você guardou o vinho bom até agora.”
+
+[[v43-2-11]]
+
+^<<v43-2-11,11>>^ Jesus fez isso em Caná da Galileia como o início dos seus sinais, e revelou a sua glória, e seus discípulos depositaram fé nele.
+
+[TIP]
+====
+- *como o início dos seus sinais*: A transformação de água em vinho foi o primeiro sinal, ou milagre, que Jesus fez. João foi o único a registrar esse acontecimento.
+====
+
+[[v43-2-12]]
+
+^<<v43-2-12,12>>^ Depois disso, ele, sua mãe, seus irmãos e seus discípulos desceram para Cafarnaum, mas não ficaram ali muitos dias.
+
+[[v43-2-13]]
+
+^<<v43-2-13,13>>^ Aproximava-se então a Páscoa dos judeus, e Jesus subiu para Jerusalém.
+
+[TIP]
+====
+- *a Páscoa*: Jesus iniciou seu ministério depois de seu batismo, que aconteceu por volta do mês de outubro de 29 d.C. Visto que a Páscoa mencionada aqui foi celebrada pouco tempo depois, tudo indica que ela tenha sido a Páscoa de nisã (março/abril) do ano 30 d.C. (Veja a nota de estudo em Lu 3:1 e o Apêndice A7-B.) Quando os quatro Evangelhos são analisados juntos, há fortes indicações de que foram celebradas quatro Páscoas durante o ministério de Jesus. Assim, é possível concluir que o seu ministério tenha durado três anos e meio. A única Páscoa mencionada nos Evangelhos de Mateus, Marcos e Lucas (também conhecidos como Evangelhos sinópticos) é a da ocasião da morte de Jesus. O Evangelho de João fala de modo específico de três Páscoas. (Jo 2:13; 6:4; 11:55) E, em Jo 5:1, é bem provável que João estivesse falando de mais uma Páscoa quando usou a expressão “uma festividade dos judeus”. Esse exemplo mostra como é importante comparar os Evangelhos para ter uma visão mais completa da vida de Jesus. — Veja as notas de estudo em Jo 5:1; 6:4; 11:55.
+====
+
+[[v43-2-14]]
+
+^<<v43-2-14,14>>^ Ele encontrou no templo os que vendiam bois, ovelhas e pombas, e os cambistas nos seus assentos.
+
+[TIP]
+====
+- *no templo*: Aqui a palavra “templo” provavelmente se refere à parte do templo conhecida como Pátio dos Gentios. — Veja o Apêndice B11.
+- *os que vendiam bois, ovelhas e pombas*: A Lei de Deus exigia que os israelitas oferecessem sacrifícios no templo em Jerusalém. Para obedecer à Lei, alguns deles precisavam viajar muito. Por isso, a Lei permitia que, em vez de viajarem levando seus animais e aquilo que seus campos tinham produzido, eles os vendessem e levassem o dinheiro até Jerusalém. Ali, eles poderiam comprar suas ofertas, como por exemplo, bois, ovelhas, cabras ou pombas, além de alimentos e outras coisas que eles precisassem enquanto estivessem na cidade. (De 14:23-26) Com o tempo, comerciantes começaram a vender dentro da área do templo animais para sacrifício. (Veja a nota de estudo em no templo neste versículo.) É provável que alguns desses comerciantes fossem desonestos, cobrando muito mais do que era justo.
+====
+
+[[v43-2-15]]
+
+^<<v43-2-15,15>>^ Assim, depois de fazer um chicote de cordas, expulsou a todos do templo, com as ovelhas e os bois, espalhou as moedas dos cambistas e derrubou as suas mesas.
+
+[TIP]
+====
+- *um chicote de cordas*: A palavra grega para “corda” (skhoiníon) pode se referir a uma corda feita de canas, juncos ou outros materiais. Tudo indica que Jesus não tenha usado o chicote contra os comerciantes. É provável que ele o tenha usado apenas para expulsar “as ovelhas e os bois” e que, como seria de esperar, os comerciantes tenham ido atrás de seus animais. Isso faz sentido, já que o versículo seguinte não fala nada sobre Jesus ter usado o chicote quando ordenou que os vendedores de pombas saíssem do templo. De qualquer forma, os que estavam lucrando às custas da adoração verdadeira foram obrigados a deixar a área do templo.
+- *expulsou a todos do templo, com as ovelhas e os bois*: Enquanto estava na Terra, Jesus purificou o templo duas vezes por expulsar os que faziam comércio ali. Este versículo descreve a primeira dessas ocasiões, que aconteceu quando Jesus foi a Jerusalém para a Páscoa do ano 30 d.C. Essa foi a primeira vez que Jesus visitou a cidade depois de ter sido ungido como Filho de Deus. (Veja o Apêndice A7-B.) Jesus purificou o templo pela segunda vez em 10 de nisã de 33 d.C. O relato desse acontecimento está nos Evangelhos de Mateus (21:12, 13), Marcos (11:15-18) e Lucas (19:45, 46). — Veja o Apêndice A7-G.
+- *cambistas*: Veja a nota de estudo em Mt 21:12.
+====
+
+[[v43-2-16]]
+
+^<<v43-2-16,16>>^ E disse aos que vendiam as pombas: “Tirem estas coisas daqui! Parem de fazer da casa do meu Pai uma casa de comércio!”
+
+[TIP]
+====
+- *uma casa de comércio*: Ou: “um mercado; um negócio”. A expressão grega oíkon emporíou, traduzida aqui como “uma casa de comércio”, significa “um lugar em que se fazem negócios; um mercado”. Esta é a única vez que a expressão aparece nas Escrituras Gregas Cristãs. A venda de animais para sacrifício que acontecia dentro da área do templo era uma das principais fontes de renda da rica e poderosa casa do principal sacerdote Anás.
+====
+
+[[v43-2-17]]
+
+^<<v43-2-17,17>>^ Seus discípulos se lembraram de que está escrito: “O zelo pela tua casa me consumirá.”
+
+[TIP]
+====
+- *O zelo pela tua casa*: Neste versículo, a palavra traduzida como “zelo” (zélos) passa a ideia de um interesse positivo, intenso e ardente, motivado por um senso de devoção. O texto de que os discípulos lembraram foi o Sal 69:9. Ali, o substantivo hebraico traduzido como “zelo” (qinʼáh) pode significar, entre outras coisas, “insistência em devoção exclusiva; não tolerar rivalidade”. Jesus, com toda a razão, ficou indignado ao ver que a área do templo estava sendo usada para comércio, e seu zelo o motivou a agir.
+====
+
+[[v43-2-18]]
+
+^<<v43-2-18,18>>^ Em vista disso, os judeus lhe perguntaram: “Que sinal você pode nos mostrar como prova de que tem autoridade para fazer essas coisas?”
+
+[[v43-2-19]]
+
+^<<v43-2-19,19>>^ Jesus lhes respondeu: “Derrubem este templo, e em três dias eu o levantarei.”
+
+[TIP]
+====
+- *Derrubem este templo, e em três dias eu o levantarei*: O apóstolo João foi o único que registrou estas palavras de Jesus. Os judeus pensaram que Jesus estivesse falando do templo de Herodes. Mais tarde, quando Jesus foi julgado, os que o acusaram distorceram o que ele disse. (Mt 26:61; 27:40; Mr 14:58) Mas, como mostra Jo 2:21, Jesus estava falando em sentido figurado. Ele estava comparando seu corpo com o templo, e a demolição e reconstrução do templo representavam a morte e a ressurreição dele. As Escrituras mostram que, quando Jesus disse “eu o levantarei”, ele não queria dizer que ressuscitaria a si mesmo; foi Deus quem o ressuscitou. (At 10:40; Ro 8:11; He 13:20) Depois de morrer e de ser ressuscitado no terceiro dia (Mt 16:21; Lu 24:7, 21, 46), Jesus recebeu um novo corpo. Esse corpo não era algo físico, como o templo em Jerusalém que tinha sido feito por mãos humanas, mas era um corpo espiritual, feito por seu Pai. (At 2:24; 1Pe 3:18) Esta não é a única vez que as Escrituras se referem a pessoas como um templo ou parte dele. Elas diziam que o Messias se tornaria “a principal pedra angular” (Sal 118:22; Is 28:16, 17; At 4:10, 11), e tanto Paulo quanto Pedro fizeram comparações parecidas envolvendo Jesus e seus seguidores em 1Co 3:16, 17; 6:19; Ef 2:20 e 1Pe 2:6, 7.
+====
+
+[[v43-2-20]]
+
+^<<v43-2-20,20>>^ Então os judeus disseram: “Este templo foi construído em 46 anos, e você o levantará em três dias?”
+
+[TIP]
+====
+- *Este templo foi construído em 46 anos*: Os judeus estavam se referindo à obra de reconstrução do templo feita pelo rei Herodes. O primeiro templo em Jerusalém foi construído por Salomão, mas foi destruído pelos babilônios em 607 a.C. Depois que os judeus foram libertados de Babilônia, o templo foi reconstruído sob a supervisão de Zorobabel. (Esd 6:13-15; Ag 2:2-4) De acordo com Josefo (Jewish Antiquities, XV, 380 [xi, 1]), Herodes começou um novo projeto de reconstrução e ampliação do templo no 18.º ano de seu reinado. Considerando o modo como os judeus contavam os anos de reinado de seus reis, o 18.º ano do reinado de Herodes seria por volta de 18 ou 17 a.C. Na verdade, as obras de ampliação continuaram até seis anos antes da destruição do templo em 70 d.C.
+====
+
+[[v43-2-21]]
+
+^<<v43-2-21,21>>^ Mas o templo de que ele falava era o seu corpo.
+
+[TIP]
+====
+- *o templo . . . era o seu corpo*: Este comentário de João mostra que Jesus não estava falando do templo literal. Na verdade, ele estava comparando sua morte e ressurreição com a demolição e a reconstrução de um prédio.
+====
+
+[[v43-2-22]]
+
+^<<v43-2-22,22>>^ Quando ele foi levantado dentre os mortos, porém, seus discípulos se lembraram de que ele dizia isso, e eles acreditaram na passagem das Escrituras e no que Jesus tinha dito.
+
+[[v43-2-23]]
+
+^<<v43-2-23,23>>^ No entanto, quando ele estava em Jerusalém, na Festividade da Páscoa, muitos depositaram fé no nome dele ao observarem os sinais que ele realizava.
+
+[[v43-2-24]]
+
+^<<v43-2-24,24>>^ Mas Jesus não confiava totalmente neles,^&#42;1^ porque conhecia a todos
+
+[NOTE]
+====
+. Ou: “não se confiava a eles”.
+====
+
+[[v43-2-25]]
+
+^<<v43-2-25,25>>^ e porque não precisava que ninguém lhe desse testemunho sobre os homens, pois ele sabia o que havia nos homens.
+
+[TIP]
+====
+- *ele sabia o que havia nos homens*: Jesus tinha a capacidade de saber o que os outros estavam pensando e quais eram as suas motivações. O texto de Is 11:2, 3 tinha predito sobre o Messias: “O espírito de Jeová estará sobre ele . . . Ele não julgará pelas aparências.” — Is 11:2, 3; Mt 9:4; veja a nota de estudo em Mr 2:8.
+====
+
+'''
+
+xref:043-joao/043-joao-001.adoc#v43-1-0[&#60; Capítulo Anterior] | <<v43-2-0,Topo>> | xref:043-joao/043-joao-003.adoc#v43-3-0[Próximo Capítulo &#62;]

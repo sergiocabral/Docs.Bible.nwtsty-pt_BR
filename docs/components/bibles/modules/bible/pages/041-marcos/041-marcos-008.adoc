@@ -1,0 +1,323 @@
+include::./index.adoc[]
+
+[[v41-8-0]]
+=== As Boas Novas Segundo Marcos, 8
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Jesus expande seu ministério na Galileia e visita regiões ao norte e ao leste (6:1–9:50)
+* Jesus é rejeitado em sua própria cidade (6:1-6)
+* Jesus dá instruções aos Doze sobre o ministério e os envia (6:7-13)
+* Morte de João, o Batizador (6:14-29)
+* Jesus alimenta cerca de 5.000 homens (6:30-44)
+* Jesus anda sobre a água (6:45-52)
+* Curas em Genesaré (6:53-56)
+* Tradições de homens são expostas por Jesus (7:1-13)
+* Impureza vem do coração (7:14-23)
+* Jesus cura a filha da mulher siro-fenícia (7:24-30)
+* Jesus cura um surdo em Decápolis (7:31-37)
+* Jesus alimenta cerca de 4.000 homens (8:1-10)
+* Fariseus pedem um sinal do céu (8:11-13)
+* Jesus avisa sobre o fermento dos fariseus e de Herodes (8:14-21)
+* Cego é curado em Betsaida (8:22-26)
+* No caminho para Cesareia de Filipe, Pedro identifica Jesus como o Cristo (8:27-30)
+* Jesus prediz sua morte e ressurreição (8:31-33)
+* Requisitos para ser um verdadeiro discípulo (8:34–9:1)
+* Transfiguração de Jesus (9:2-8)
+* Vinda de Elias (9:9-13)
+* Jesus cura um menino possesso de demônio (9:14-29)
+* Jesus prediz pela segunda vez sua morte e ressurreição (9:30-32)
+* Discípulos discutem sobre quem é o maior (9:33-37)
+* “Quem não é contra nós é a favor de nós” (9:38-41)
+* Pedras de tropeço (9:42-48)
+* “Tenham sal em vocês mesmos” (9:49, 50)
+****
+
+[[v41-8-1]]
+
+^<<v41-8-1,1>>^ Naqueles dias, havia novamente uma grande multidão, e eles não tinham nada para comer. Então ele convocou os discípulos e lhes disse:
+
+[[v41-8-2]]
+
+^<<v41-8-2,2>>^ “Tenho pena da multidão, porque já estão comigo há três dias, e eles não têm nada para comer.
+
+[TIP]
+====
+- *Tenho pena*: Ou: “Tenho compaixão”. — Veja a nota de estudo em Mt 9:36.
+====
+
+[[v41-8-3]]
+
+^<<v41-8-3,3>>^ Se eu os mandar para casa com fome,^&#42;1^ desfalecerão na estrada, e alguns deles vieram de longe.”
+
+[NOTE]
+====
+. Ou: “sem comida; em jejum”.
+====
+
+[[v41-8-4]]
+
+^<<v41-8-4,4>>^ Mas os seus discípulos lhe responderam: “Onde alguém poderia encontrar neste lugar isolado pão suficiente para satisfazê-los?”
+
+[[v41-8-5]]
+
+^<<v41-8-5,5>>^ Com isso ele lhes perguntou: “Quantos pães vocês têm?” Disseram: “Sete.”
+
+[[v41-8-6]]
+
+^<<v41-8-6,6>>^ E mandou a multidão se sentar no chão. Então pegou os sete pães, deu graças, partiu-os e começou a dá-los aos seus discípulos, para que os servissem, e eles os serviram à multidão.
+
+[[v41-8-7]]
+
+^<<v41-8-7,7>>^ Tinham também alguns peixinhos e, depois de dar graças por estes,^&#42;1^ disse-lhes que os servissem também.
+
+[NOTE]
+====
+. Ou: “de abençoá-los”.
+====
+
+[[v41-8-8]]
+
+^<<v41-8-8,8>>^ Assim, comeram e ficaram satisfeitos, e recolheram sete cestos grandes, cheios dos pedaços que sobraram.
+
+[TIP]
+====
+- *cestos grandes*: Ou: “cestos de provisões”. A palavra grega usada aqui, sfyrís, parece se referir a um tipo de cesto maior do que aqueles que foram usados quando Jesus alimentou cerca de 5.000 homens. (Veja a nota de estudo em Mr 6:​43.) O texto de At 9:25 (veja a nota de estudo) usa essa mesma palavra grega ao dizer que os discípulos ‘fizeram Paulo descer num cesto por uma abertura na muralha’ para tirá-lo de Damasco.
+====
+
+[[v41-8-9]]
+
+^<<v41-8-9,9>>^ Havia cerca de 4.000 homens. Então ele os dispensou.
+
+[TIP]
+====
+- *cerca de 4.000 homens*: Apenas o relato paralelo de Mt 15:38 menciona mulheres e crianças ao relatar esse milagre. É possível que nessa ocasião Jesus tenha alimentado mais de 12.000 pessoas.
+====
+
+[[v41-8-10]]
+
+^<<v41-8-10,10>>^ Ele entrou imediatamente no barco com seus discípulos e chegou à região de Dalmanuta.
+
+[TIP]
+====
+- *Dalmanuta*: Esse nome não é mencionado em nenhuma outra parte da Bíblia e também não aparece em fontes não bíblicas, mas foi preservado no Evangelho de Marcos. Não se sabe exatamente onde esse lugar ficava, mas parece que era perto da margem oeste do mar da Galileia, visto que o relato paralelo de Mateus chama a região aonde Jesus chegou de Magadã. (Veja a nota de estudo em Mt 15:39.) Assim, Dalmanuta pode ter sido outro nome da região de Magadã.
+====
+
+[[v41-8-11]]
+
+^<<v41-8-11,11>>^ Ali os fariseus se aproximaram e começaram a discutir com ele, pedindo-lhe um sinal^&#42;1^ do céu, para o porem à prova.
+
+[NOTE]
+====
+. Ou: “uma prova milagrosa”.
+====
+
+[[v41-8-12]]
+
+^<<v41-8-12,12>>^ Então ele suspirou profundamente^&#42;1^ e disse: “Por que esta geração busca um sinal? Eu lhes digo a verdade: Nenhum sinal será dado a esta geração.”
+
+[NOTE]
+====
+. Lit.: “suspirou profundamente no seu espírito”.
+====
+
+[TIP]
+====
+- *suspirou profundamente*: Marcos se refere com frequência aos sentimentos e às reações de Jesus. (Mr 3:5; 7:​34; 9:​36; 10:13-​16, 21) Aqui Marcos usa um verbo grego que não é usado em nenhum outro lugar das Escrituras Gregas Cristãs. Esse verbo é uma forma intensificada de um verbo relacionado, usado em Mr 7:​34 (veja a nota de estudo), e expressa uma forte reação emocional. Esse suspiro profundo talvez mostrasse como Jesus estava frustrado com a atitude dos fariseus, que insistiam em pedir um sinal do céu, desconsiderando as claras demonstrações de poder que já tinham visto.
+====
+
+[[v41-8-13]]
+
+^<<v41-8-13,13>>^ Com isso os deixou, embarcou novamente e foi para a margem oposta.
+
+[[v41-8-14]]
+
+^<<v41-8-14,14>>^ No entanto, eles se esqueceram de levar pães e não tinham nada consigo no barco, a não ser um pão.
+
+[[v41-8-15]]
+
+^<<v41-8-15,15>>^ E ele lhes advertiu claramente: “Mantenham os olhos abertos; cuidado com o fermento dos fariseus e com o fermento de Herodes.”
+
+[TIP]
+====
+- *fermento*: Ou: “levedo”. A Bíblia muitas vezes usa a palavra “fermento” para representar coisas negativas como o pecado e a maldade, e aqui ela representa a influência e os ensinos prejudiciais das pessoas de quem Jesus estava falando. (Mt 16:​6, 11, 12; 1Co 5:​6-8) A repetição dessa palavra neste versículo indica que o “fermento” dos fariseus era diferente do “fermento” de Herodes e de seus partidários, os herodianos. O grupo dos herodianos era mais político do que religioso. Um exemplo do seu “fermento” está em Mr 12:13-​15, quando eles e os fariseus armaram uma armadilha para Jesus, tentando envolvê-lo na questão política do pagamento de impostos.
+- *Herodes*: Alguns manuscritos bem antigos dizem “herodianos”. — Veja o Glossário, “Partidários de Herodes”.
+====
+
+[[v41-8-16]]
+
+^<<v41-8-16,16>>^ Então eles começaram a discutir entre si sobre o fato de não terem pães.
+
+[[v41-8-17]]
+
+^<<v41-8-17,17>>^ Notando isso, ele lhes disse: “Por que vocês estão discutindo sobre não terem pães? Ainda não percebem e não entendem? Seu coração ainda está fechado ao entendimento?
+
+[[v41-8-18]]
+
+^<<v41-8-18,18>>^ ‘Embora tenham olhos, não veem; e embora tenham ouvidos, não ouvem?’ Não se lembram
+
+[[v41-8-19]]
+
+^<<v41-8-19,19>>^ de quantos cestos cheios de pedaços vocês recolheram, quando parti os cinco pães para os 5.000 homens?” Disseram-lhe: “Doze.”
+
+[TIP]
+====
+- *cestos*: Ao relatar as duas vezes em que Jesus fez o milagre de alimentar as multidões (veja as notas de estudo em Mr 6:​43; 8:​8, 20 e os relatos paralelos em Mt 14:20; 15:37; 16:​9, 10), os Evangelhos de Mateus e de Marcos descrevem da mesma forma o tipo de cesto que foi usado em cada ocasião. No relato em que Jesus alimentou uns 5.000 homens, tanto Mateus como Marcos usam a palavra grega kófinos (traduzida como “cesto”). No relato em que ele alimentou uns 4.000 homens, os dois Evangelhos usam a palavra grega sfyrís (traduzida como “cesto grande”). Isso indica que Mateus e Marcos estavam presentes nas duas ocasiões ou que souberam desses detalhes por meio de pessoas que presenciaram o milagre.
+====
+
+[[v41-8-20]]
+
+^<<v41-8-20,20>>^ “E quando parti os sete pães para os 4.000 homens, quantos cestos grandes, cheios de pedaços, vocês recolheram?” Responderam-lhe: “Sete.”
+
+[TIP]
+====
+- *cestos grandes*: Ou: “cestos de provisões”. — Veja as notas de estudo em Mr 8:​8, 19.
+====
+
+[[v41-8-21]]
+
+^<<v41-8-21,21>>^ Com isso lhes disse: “Vocês ainda não entendem?”
+
+[[v41-8-22]]
+
+^<<v41-8-22,22>>^ Chegaram então a Betsaida. Ali levaram a ele um cego e lhe suplicaram que tocasse nele.
+
+[TIP]
+====
+- *um cego*: O Evangelho de Marcos é o único que relata que Jesus curou esse cego. — Mr 8:​22-​26.
+====
+
+[[v41-8-23]]
+
+^<<v41-8-23,23>>^ E ele pegou o cego pela mão e o levou para fora da aldeia. Depois de cuspir nos olhos dele, pôs as mãos sobre ele e lhe perguntou: “Vê alguma coisa?”
+
+[[v41-8-24]]
+
+^<<v41-8-24,24>>^ O homem olhou para cima^&#42;1^ e disse: “Vejo pessoas, mas elas parecem árvores andando.”
+
+[NOTE]
+====
+. Ou: “recuperou a visão; voltou a enxergar”.
+====
+
+[[v41-8-25]]
+
+^<<v41-8-25,25>>^ Ele pôs de novo as mãos sobre os olhos do homem, e o homem viu claramente. Sua visão foi restabelecida, e ele podia ver tudo nitidamente.
+
+[[v41-8-26]]
+
+^<<v41-8-26,26>>^ Assim, mandou-o para casa, dizendo: “Não entre na aldeia.”
+
+[[v41-8-27]]
+
+^<<v41-8-27,27>>^ Jesus e seus discípulos partiram então para as aldeias de Cesareia de Filipe, e, no caminho, ele perguntou aos seus discípulos: “Quem as pessoas dizem que eu sou?”
+
+[TIP]
+====
+- *Cesareia de Filipe*: Veja a nota de estudo em Mt 16:13.
+====
+
+[[v41-8-28]]
+
+^<<v41-8-28,28>>^ Responderam-lhe: “João Batista; mas outros dizem que é Elias; e ainda outros, um dos profetas.”
+
+[TIP]
+====
+- *João Batista*: Veja as notas de estudo em Mt 3:1; Mr 1:4.
+- *Elias*: Veja a nota de estudo em Mt 11:14.
+====
+
+[[v41-8-29]]
+
+^<<v41-8-29,29>>^ E ele lhes perguntou: “E vocês, quem dizem que eu sou?” Pedro lhe respondeu: “O senhor é o Cristo.”
+
+[TIP]
+====
+- *o Cristo*: Veja a nota de estudo em Mt 16:16.
+====
+
+[[v41-8-30]]
+
+^<<v41-8-30,30>>^ Então ele lhes ordenou com firmeza que não contassem a ninguém sobre ele.
+
+[[v41-8-31]]
+
+^<<v41-8-31,31>>^ Também, ele começou a lhes ensinar que o Filho do Homem tinha de sofrer muitas coisas e ser rejeitado pelos anciãos, pelos principais sacerdotes e pelos escribas, e que tinha de ser morto e ser levantado três dias depois.
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:​20.
+- *anciãos*: Lit.: “homens idosos”. Na Bíblia, a palavra grega presbýteros se refere principalmente a uma pessoa que tem autoridade e responsabilidade numa comunidade ou nação. Embora essa palavra possa ser usada às vezes para indicar idade (como acontece em Lu 15:25 e At 2:17), ela não se refere apenas a quem é idoso. Neste versículo, a palavra “anciãos” se refere a homens de autoridade entre os judeus. Muitas vezes eles são mencionados junto com outros dois grupos: os principais sacerdotes e os escribas. O Sinédrio era formado por homens desses três grupos. — Mr 11:27; 14:43, 53; 15:1; veja a nota de estudo em Mt 16:21 e o Glossário, “Ancião; Homem idoso”.
+- *principais sacerdotes*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+- *escribas*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+====
+
+[[v41-8-32]]
+
+^<<v41-8-32,32>>^ De fato, fez essa declaração abertamente. Mas Pedro o levou à parte e começou a censurá-lo.
+
+[[v41-8-33]]
+
+^<<v41-8-33,33>>^ Com isso ele se virou, olhou para os seus discípulos e censurou Pedro, dizendo: “Para trás de mim, Satanás! Porque você não tem os pensamentos de Deus, mas os de homens.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “não tem a mente de Deus, mas a de humanos”.
+====
+
+[TIP]
+====
+- *Para trás de mim*: De acordo com o relato paralelo em Mt 16:23, Jesus disse também: “Você é uma pedra de tropeço para mim.” (Veja a nota de estudo em Mt 18:7.) Com essas palavras, Jesus censurou Pedro de modo firme. Jesus não aceitaria que nada o impedisse de cumprir a vontade de seu Pai. Essas palavras também podem ter lembrado Pedro de que, como seguidor de Jesus, ele devia apoiá-lo.
+- *Satanás*: Veja a nota de estudo em Mt 16:23.
+====
+
+[[v41-8-34]]
+
+^<<v41-8-34,34>>^ Chamou então a multidão, junto com seus discípulos, e lhes disse: “Se alguém quer ser meu seguidor, negue a si mesmo, apanhe sua estaca de tortura e siga-me sempre.
+
+[TIP]
+====
+- *negue a si mesmo*: Ou: “renuncie seus direitos sobre si mesmo”. A expressão grega usada aqui indica que a pessoa deve estar disposta a abrir mão completamente de sua vontade e entregar o controle de sua vida a Deus. Essa expressão também pode ser traduzida como “diga não a si mesmo”, porque seguir a Cristo pode envolver dizer não a desejos pessoais, ambições ou preferências. (2Co 5:14, 15) Mateus usa o mesmo verbo grego traduzido como “negar” quando fala sobre Pedro negar que conhecia Jesus. — Mr 14:30, 31, 72.
+- *estaca de tortura*: Veja a nota de estudo em Mt 16:24.
+====
+
+[[v41-8-35]]
+
+^<<v41-8-35,35>>^ Pois quem quiser salvar a sua vida a perderá, mas quem perder a sua vida por minha causa e por causa das boas novas a salvará.
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v41-8-36]]
+
+^<<v41-8-36,36>>^ Realmente, de que adianta o homem ganhar o mundo inteiro e perder a sua vida?
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v41-8-37]]
+
+^<<v41-8-37,37>>^ O que, realmente, o homem daria em troca da sua vida?
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v41-8-38]]
+
+^<<v41-8-38,38>>^ Pois quem se envergonhar de mim e das minhas palavras entre esta geração adúltera e pecadora, desse o Filho do Homem também se envergonhará quando vier na glória do seu Pai, com os santos anjos.”
+
+[TIP]
+====
+- *adúltera*: Ou: “infiel”. Assim como uma esposa que é infiel ao marido é considerada adúltera, uma pessoa que está num pacto com Deus, mas é infiel, é considerada adúltera em sentido espiritual. Os israelitas eram culpados de adultério espiritual porque violaram o pacto da Lei, misturando a religião falsa com a adoração de Jeová. (Je 3:​8, 9; 5:​7, 8; 9:2; 13:27; 23:10; Os 7:4) Por motivos parecidos, Jesus chamou de adúltera a geração de judeus de seus dias. (Mt 12:39; 16:4) Se um cristão que faz parte do novo pacto se contaminar com este mundo, ele estará cometendo adultério em sentido espiritual. De certa forma, isso também se aplica a todos os que se dedicaram a Jeová. — Tg 4:4.
+====
+
+'''
+
+xref:041-marcos/041-marcos-007.adoc#v41-7-0[&#60; Capítulo Anterior] | <<v41-8-0,Topo>> | xref:041-marcos/041-marcos-009.adoc#v41-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,393 @@
+include::./index.adoc[]
+
+[[v42-3-0]]
+=== As Boas Novas Segundo Lucas, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Acontecimentos anteriores ao ministério de Jesus (3:1–4:13)
+* Início do ministério de João (3:1, 2)
+* João prega o batismo (3:3-20)
+* Batismo de Jesus (3:21, 22)
+* Genealogia de Jesus Cristo (3:23-38)
+* Jesus rejeita as tentações do Diabo (4:1-13)
+****
+
+[[v42-3-1]]
+
+^<<v42-3-1,1>>^ No décimo quinto ano do reinado de Tibério César^&#42;1^ — quando Pôncio Pilatos era governador da Judeia, Herodes era governador distrital da Galileia, seu irmão Filipe era governador distrital da região da Itureia e de Traconites, e Lisânias era governador distrital de Abilene —,
+
+[NOTE]
+====
+. Ou: “do imperador Tibério”.
+====
+
+[TIP]
+====
+- *No décimo quinto ano do reinado de Tibério*: César Augusto morreu em 17 de agosto de 14 d.C. (calendário gregoriano). No dia 15 de setembro, Tibério aceitou que o senado romano o proclamasse imperador. Se os anos do reinado de Tibério forem contados a partir da morte de Augusto, o 15.º ano de seu reinado iria de agosto de 28 d.C. a agosto de 29 d.C. Se eles forem contados a partir de quando ele foi oficialmente proclamado imperador, o 15.º ano iria de setembro de 28 d.C. a setembro de 29 d.C. João iniciou seu ministério dentro do 15.º ano do reinado de Tibério, ao que tudo indica, na primavera em Israel (por volta de abril) no ano 29 d.C. Nessa época, João teria cerca de 30 anos, que era a idade em que os levitas iniciavam seu serviço no templo. (Núm 4:2, 3) De acordo com Lu 3:21-23, Jesus também “tinha cerca de 30 anos de idade” quando foi batizado por João e “começou a sua obra”. Jesus morreu no mês de nisã, durante a primavera em Israel. Assim, ao que tudo indica, o ministério de Jesus (que durou três anos e meio) começou no outono de 29 d.C., por volta do mês judaico de etanim (setembro/outubro). João provavelmente era seis meses mais velho do que Jesus e, pelo visto, começou seu ministério seis meses antes dele. (Lucas, capítulo 1) Assim, parece razoável concluir que João iniciou mesmo seu ministério por volta de abril de 29 d.C. — Veja as notas de estudo em Lu 3:23; Jo 2:13.
+- *Herodes*: Ou seja, Herodes Antipas, filho de Herodes, o Grande. — Veja o Glossário.
+- *era governador distrital*: Lit.: “era tetrarca”. Esse era o título dado ao governante de um distrito ou príncipe regente de um território. A autoridade do tetrarca era limitada, e ele só governava com permissão das autoridades romanas. — Veja as notas de estudo em Mt 14:1; Mr 6:14.
+- *seu irmão Filipe*: Filipe era meio-irmão de Herodes Antipas. Ele era filho de Herodes, o Grande, com Cleópatra, de Jerusalém. Ele às vezes é chamado de Filipe, o Tetrarca, para diferenciá-lo de um de seus meios-irmãos que também tinha o nome Filipe (às vezes chamado de Herodes Filipe), mencionado em Mt 14:3 e Mr 6:17. — Veja também a nota de estudo em Mt 16:13.
+- *Itureia*: Um pequeno território com limites incertos que ficava ao nordeste do mar da Galileia, pelo visto, próximo às cadeias de montanhas do Líbano e do Antilíbano. — Veja o Apêndice B10.
+- *Traconites*: Esse nome vem de uma raiz grega que significa “áspero; acidentado”, provavelmente fazendo referência ao terreno acidentado da região. Traconites tinha uma área de apenas 900 quilômetros quadrados e fazia parte do território que antes era conhecido como Basã (De 3:3-14), ao leste da Itureia. O limite norte do território de Traconites ficava cerca de 40 quilômetros ao sudeste de Damasco.
+- *Lisânias*: De acordo com o relato de Lucas, Lisânias “era governador distrital” [lit.: “era tetrarca”] do distrito romano de Abilene quando João Batista iniciou seu ministério. Um rei chamado Lisânias governou uma região vizinha, chamada Cálcis, e morreu por volta de 34 a.C., muito antes da época mencionada por Lucas. Alguns críticos achavam que o Lisânias mencionado por Lucas fosse esse rei e, por isso, afirmavam que Lucas estava errado. Mas uma inscrição encontrada em Abila, a capital de Abilene, perto de Damasco, na Síria (veja o Apêndice B10), confirma que um tetrarca chamado Lisânias governou durante o período em que Tibério foi imperador, mostrando que os críticos estavam errados.
+- *Abilene*: Um distrito romano, ou tetrarquia, que recebeu esse nome por causa de sua capital, Abila. Esse distrito ficava na região das montanhas do Antilíbano, ao norte do monte Hermom. — Veja o Glossário, “Cadeia de montanhas do Líbano”.
+====
+
+[[v42-3-2]]
+
+^<<v42-3-2,2>>^ nos dias do principal sacerdote Anás, e de Caifás, a declaração de Deus chegou a João, filho de Zacarias, no deserto.
+
+[TIP]
+====
+- *do principal sacerdote Anás, e de Caifás*: Lucas menciona que João iniciou seu ministério nos dias em que os sacerdotes judaicos eram liderados por dois homens poderosos. Anás foi designado sumo sacerdote por Quirino, governador romano da Síria, por volta de 6 ou 7 d.C., e serviu nessa função até cerca de 15 d.C. Parece que mesmo depois de Anás ser deposto pelos romanos, deixando de ser oficialmente o sumo sacerdote, ele continuou tendo o mesmo poder e respeito, e era a autoridade judaica mais influente. Cinco dos filhos de Anás foram sumos sacerdotes, e seu genro, Caifás, serviu nessa posição de cerca de 18 d.C. a cerca de 36 d.C. Assim, o sumo sacerdote em 29 d.C. era Caifás. Mas, por causa da importância de Anás, ele podia ser chamado de “principal sacerdote”. — Jo 18:13, 24; At 4:6.
+- *João*: Apenas Lucas chama João de filho de Zacarias. (Veja a nota de estudo em Lu 1:5.) Além disso, apenas ele menciona que a declaração de Deus chegou a João. Essas palavras são parecidas com as que a Septuaginta usa ao se referir ao profeta Elias (1Rs 17:2; 21:28 [20:28, LXX]), que prefigurou João. (Mt 11:14; 17:10-13) Os três Evangelhos sinópticos (Mateus, Marcos e Lucas) dizem que João estava no deserto, mas apenas Mateus especifica que ele estava “no deserto da Judeia”, uma área pouco habitada e quase sem vegetação na encosta leste das montanhas da Judeia, que desce uns 1.200 metros em direção à margem oeste do rio Jordão e do Mar Morto. — Veja a nota de estudo em Mt 3:1.
+====
+
+[[v42-3-3]]
+
+^<<v42-3-3,3>>^ Assim, ele percorreu toda a região em volta do Jordão, pregando o batismo em símbolo de arrependimento para o perdão de pecados,
+
+[TIP]
+====
+- *o batismo em símbolo de arrependimento*: Veja a nota de estudo em Mr 1:4.
+====
+
+[[v42-3-4]]
+
+^<<v42-3-4,4>>^ conforme está escrito no livro das palavras de Isaías, o profeta: “A voz de alguém está clamando no deserto: ‘Preparem o caminho para Jeová! Endireitem as suas estradas.
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de Is 40:3. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). (Veja o Apêndice C1.) Lucas aplicou a profecia de Isaías a João Batista. Pode-se dizer que João preparou o caminho para Jeová porque seu ministério abriu caminho para Jesus, que veio à Terra em nome de Jeová e serviu como representante dele. (Jo 5:43; 8:29) Em Jo 1:23, João Batista explicou que a profecia de Isaías se cumpriu nele.
+- *Endireitem as suas estradas*: Veja a nota de estudo em Mt 3:3.
+====
+
+[[v42-3-5]]
+
+^<<v42-3-5,5>>^ Todos os vales têm de ser aterrados, e todos os montes e colinas têm de ser nivelados; os caminhos tortuosos têm de se tornar retos, e os caminhos acidentados têm de se tornar planos;
+
+[[v42-3-6]]
+
+^<<v42-3-6,6>>^ e todos verão^&#42;1^ a salvação por Deus.’”^&#42;2^
+
+[NOTE]
+====
+. Ou: “toda a humanidade verá”. Lit.: “toda carne verá”.
+. Ou: “o meio de Deus salvar”.
+====
+
+[[v42-3-7]]
+
+^<<v42-3-7,7>>^ Então ele dizia às multidões que se aproximavam para ser batizadas por ele: “Descendência de víboras, quem disse que vocês podem fugir da ira que virá?
+
+[TIP]
+====
+- *batizadas*: Ou: “imersas; mergulhadas”. — Veja a nota de estudo em Mt 3:11.
+- *Descendência de víboras*: Veja a nota de estudo em Mt 3:7.
+====
+
+[[v42-3-8]]
+
+^<<v42-3-8,8>>^ Portanto, produzam frutos próprios do arrependimento. Não comecem a dizer a si mesmos: ‘Temos Abraão como pai.’ Pois eu lhes digo que Deus pode fazer surgir destas pedras filhos a Abraão.
+
+[TIP]
+====
+- *frutos próprios do arrependimento*: Aqui, a palavra grega para “fruto” (karpós) aparece no plural e é usada em sentido figurado. As pessoas que ouviam João precisavam produzir “frutos”, ou seja, mostrar por suas ações que tinham mudado seu modo de pensar e suas atitudes. — Mt 3:8; At 26:20; veja as notas de estudo em Mt 3:2, 11 e o Glossário, “Arrependimento”.
+====
+
+[[v42-3-9]]
+
+^<<v42-3-9,9>>^ Realmente, o machado já está posto à raiz das árvores. Portanto, toda árvore que não produz bom fruto será cortada e lançada no fogo.”
+
+[[v42-3-10]]
+
+^<<v42-3-10,10>>^ E as multidões lhe perguntavam: “O que devemos fazer, então?”
+
+[[v42-3-11]]
+
+^<<v42-3-11,11>>^ Em resposta, ele lhes dizia: “Aquele que tem duas peças de roupa^&#42;1^ partilhe com aquele que não tem nenhuma, e aquele que tem algo para comer faça o mesmo.”
+
+[NOTE]
+====
+. Ou: “uma roupa extra”.
+====
+
+[[v42-3-12]]
+
+^<<v42-3-12,12>>^ Até mesmo cobradores de impostos chegaram para ser batizados, e lhe perguntaram: “Instrutor, o que devemos fazer?”
+
+[TIP]
+====
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:46.
+====
+
+[[v42-3-13]]
+
+^<<v42-3-13,13>>^ Ele lhes disse: “Não exijam^&#42;1^ mais do que o imposto determinado.”
+
+[NOTE]
+====
+. Ou: “Não recolham”.
+====
+
+[[v42-3-14]]
+
+^<<v42-3-14,14>>^ Também os soldados lhe perguntavam: “O que devemos fazer?” E ele lhes dizia: “Não hostilizem a^&#42;1^ ninguém e não acusem a ninguém falsamente, mas contentem-se com o que ganham.”
+
+[NOTE]
+====
+. Ou: “Não cometam extorsão usando violência contra; Não intimidem; Não ameacem”.
+====
+
+[TIP]
+====
+- *os soldados*: Esses soldados pelo visto eram judeus que talvez trabalhassem em algum tipo de fiscalização policial que envolvia cobrar taxas de alfândega ou outros impostos. Por serem judeus, eles faziam parte de uma nação que tinha um pacto com Jeová. Os soldados em geral eram conhecidos por praticar certos crimes, como a extorsão. Se os soldados judeus quisessem ser batizados em símbolo de arrependimento, eles precisavam mudar sua conduta e parar de cometer esses crimes. — Mt 3:8.
+- *não acusem a ninguém falsamente*: O termo grego traduzido aqui como “acusem . . . falsamente” (sykofantéo) é traduzido em Lu 19:8 como “tenha extorquido” (ou: “tenha extorquido por acusação falsa”, veja a nota de estudo em Lu 19:8). De acordo com estudiosos, esse verbo significa literalmente “tomar por mostrar o figo”. Existem várias explicações sobre a origem desse termo. Uma delas diz que antigamente era proibido exportar figos de Atenas e que quem acusava outros de tentar exportar figos era chamado de “mostrador de figo”. A palavra sykofantéo passou a ser usada para se referir a uma pessoa que acusava outros falsamente para obter lucro, um chantagista.
+- *o que ganham*: Ou: “o salário; o pagamento”. A palavra grega que aparece aqui foi usada como um termo militar e pode se referir a salário, ajuda para alimentação ou auxílio para outras despesas. Pode ser que no início os soldados recebessem alimentos e outras provisões como parte de seu pagamento. Os soldados judeus que foram até João talvez trabalhassem em serviços relacionados com fiscalização policial, em especial serviços ligados com alfândega ou coleta de impostos. João pode ter dado esse conselho porque a maioria dos soldados ganhava pouco e, pelo visto, muitos tinham a tendência de abusar de seu poder para conseguir mais dinheiro. Em 1Co 9:7, onde Paulo fala do pagamento que um “soldado” cristão merece, a mesma palavra é usada na expressão “com os seus próprios recursos”.
+====
+
+[[v42-3-15]]
+
+^<<v42-3-15,15>>^ O povo estava em expectativa e todos raciocinavam no coração sobre João: “Será ele o Cristo?”
+
+[TIP]
+====
+- *estava em expectativa*: Ou: “estava aguardando com expectativa”. Pode ser que o povo estivesse em expectativa por causa da declaração feita pelos anjos, que depois foi transmitida a outros pelos pastores. (Lu 2:8-11, 17, 18) Algum tempo depois, a profetisa Ana falou abertamente sobre Jesus no templo. (Lu 2:36-38) Além disso, os astrólogos explicaram que tinham ido a Jerusalém para prestar homenagem àquele “que nasceu para ser rei dos judeus”. E essa declaração teve um grande efeito em Herodes, nos principais sacerdotes, nos escribas e em todo o povo de Jerusalém. — Mt 2:1-4.
+====
+
+[[v42-3-16]]
+
+^<<v42-3-16,16>>^ João deu a resposta, dizendo a todos: “Eu batizo vocês com água, mas vem aquele que é mais forte do que eu, e não sou digno de desamarrar o cordão das suas sandálias. Ele os batizará com espírito santo e com fogo.
+
+[TIP]
+====
+- *batizo vocês*: Veja a nota de estudo em Mt 3:11.
+- *sandálias*: Veja a nota de estudo em Mt 3:11.
+====
+
+[[v42-3-17]]
+
+^<<v42-3-17,17>>^ Ele tem na mão a sua pá para separar o trigo da palha. E ele limpará completamente a sua eira e ajuntará o trigo no seu celeiro, mas a palha ele queimará num fogo que não pode ser apagado.”
+
+[TIP]
+====
+- *pá para separar o trigo da palha*: Veja a nota de estudo em Mt 3:12.
+- *palha*: Veja a nota de estudo em Mt 3:12.
+- *fogo que não pode ser apagado*: Veja a nota de estudo em Mt 3:12.
+====
+
+[[v42-3-18]]
+
+^<<v42-3-18,18>>^ João deu também muitas outras exortações e continuou a declarar as boas novas ao povo.
+
+[[v42-3-19]]
+
+^<<v42-3-19,19>>^ Mas ele repreendia Herodes, o governador distrital, por causa de Herodias, esposa do irmão de Herodes, e por causa de todas as coisas más que ele havia feito.
+
+[TIP]
+====
+- *governador distrital*: Veja a nota de estudo em Mt 14:1.
+====
+
+[[v42-3-20]]
+
+^<<v42-3-20,20>>^ Por isso, Herodes acrescentou a todas essas ações a seguinte: pôs João na prisão.
+
+[[v42-3-21]]
+
+^<<v42-3-21,21>>^ Então, quando todo o povo havia sido batizado, Jesus também foi batizado. Enquanto ele orava, o céu se abriu,
+
+[TIP]
+====
+- *Enquanto ele orava*: Em seu Evangelho, Lucas dá atenção especial para as orações. Muitas orações de Jesus são mencionadas apenas por ele. Por exemplo, Lucas menciona aqui que Jesus estava orando durante seu batismo. Parece que algumas das partes mais significativas dessa oração foram mais tarde registradas por Paulo. (He 10:5-9) Outras ocasiões em que Jesus orou e que são mencionadas apenas por Lucas estão em Lu 5:16; 6:12; 9:18, 28; 11:1 e 23:46.
+- *o céu*: Veja a nota de estudo em Mt 3:16.
+- *o céu se abriu*: Parece que nesse momento Jeová fez com que Jesus se lembrasse das verdades que tinha aprendido com ele enquanto ainda estava no céu. Talvez Jeová também tenha permitido que ele se lembrasse de detalhes da vida que tinha tido antes de vir para a Terra. As coisas que Jesus falou a partir de seu batismo, especialmente na oração em que ele abriu o coração para seu Pai na noite da Páscoa de 33 d.C., mostram que ele sabia que tinha vivido no céu. Essa oração também mostra que Jesus se lembrava de coisas que tinha ouvido de seu Pai, do que tinha visto seu Pai fazer e da glória que tinha tido no céu. (Jo 6:46; 7:28, 29; 8:26, 28, 38; 14:2; 17:5) Pode ser que, quando Jesus foi batizado e ungido, Jeová tenha feito com que ele se lembrasse de todas essas coisas.
+====
+
+[[v42-3-22]]
+
+^<<v42-3-22,22>>^ e o espírito santo desceu sobre ele em forma corpórea, como pomba, e uma voz saiu do céu: “Você é meu Filho, o amado; eu o aprovo.”
+
+[TIP]
+====
+- *como pomba*: As pombas eram usadas na adoração a Deus. Elas podiam ser oferecidas como sacrifício. (Mr 11:15; Jo 2:14-16) Também serviam para simbolizar inocência e pureza. (Mt 10:16) A pomba que Noé soltou de dentro da arca trouxe de volta uma folha de oliveira. Isso indicava que as águas do Dilúvio estavam baixando (Gên 8:11) e que a Terra estava entrando num período de paz e descanso (Gên 5:29). É possível que Jeová tenha usado a pomba no batismo de Jesus para deixar claro que ele era o Messias, o Filho de Deus puro e sem pecado que daria a vida pela humanidade e traria um período de paz e descanso quando fosse Rei. O modo como o espírito santo, ou a força ativa de Deus, desceu sobre Jesus pode ter lembrado uma pomba batendo rapidamente suas asas ao se aproximar de seu ninho.
+- *uma voz saiu do céu*: Esta é a primeira das três vezes em que os Evangelhos relatam que humanos ouviram o próprio Jeová falar. — Veja as notas de estudo em Lu 9:35; Jo 12:28.
+- *Você é meu Filho*: Veja a nota de estudo em Mr 1:11.
+- *eu o aprovo*: Veja a nota de estudo em Mr 1:11.
+====
+
+[[v42-3-23]]
+
+^<<v42-3-23,23>>^ Quando Jesus começou a sua obra, tinha cerca de 30 anos de idade. Ele era, conforme se pensava,
+filho de José,
+filho de Eli,
+
+[TIP]
+====
+- *começou a sua obra*: Ou: “iniciou seu ministério; começou a ensinar”. Lit.: “iniciou; começou”. Lucas usa a mesma palavra grega em At 1:21, 22 e 10:37, 38 para se referir ao início do ministério de Jesus na Terra. O ministério público de Jesus envolvia pregar, ensinar e fazer discípulos.
+- *Ele era, conforme se pensava, filho de José*: José era, na verdade, o pai adotivo de Jesus, já que Jesus foi gerado por espírito santo. Mas as pessoas de Nazaré tinham visto José e Maria criarem Jesus. Assim, era natural que elas o considerassem filho de José. Outros textos também mostram que os moradores de Nazaré pensavam assim, como Mt 13:55 e Lu 4:22, onde Jesus é chamado por eles de “filho do carpinteiro” e de “filho de José”. Certa vez, algumas pessoas que tropeçaram por causa das palavras de Jesus disseram: “Este não é Jesus, filho de José? Não conhecemos o pai e a mãe dele?” (Jo 6:42) Além disso, Filipe disse para Natanael: “Achamos . . . Jesus, filho de José.” (Jo 1:45) Ao dizer que Jesus “era, conforme se pensava, filho de José”, Lucas mostra que Jesus era chamado assim simplesmente porque essa era a opinião das pessoas em geral.
+- *conforme se pensava*: Ou, possivelmente: “conforme determinado por lei”. A expressão grega permite esse último entendimento, que é defendido por alguns estudiosos. Neste contexto, a tradução “conforme determinado por lei” indicaria que era isso o que os registros disponíveis na época diziam. Mas a maioria dos estudiosos apoia a tradução usada aqui no texto principal da Tradução do Novo Mundo.
+- *José, filho de Eli*: De acordo com Mt 1:16, “Jacó tornou-se pai de José, marido de Maria”. Mas, no relato de Lucas, José é chamado de “filho de Eli”, pelo visto porque ele era genro de Eli. (Para um caso semelhante, veja a nota de estudo em Lu 3:27.) Ao traçar a genealogia de alguém, era comum que os judeus se concentrassem nos homens da família. Por exemplo, se a linhagem familiar do avô para o neto fosse por meio de uma filha, era comum citar o genro e não a filha. Pode ser por isso que Lucas substituiu o nome de Maria pelo nome de seu marido. Ao que tudo indica, Lucas traçou a genealogia de Jesus por meio de Maria e, nesse caso, Eli era o pai de Maria e avô de Jesus. — Veja as notas de estudo em Mt 1:1, 16; Lu 3:27.
+====
+
+[[v42-3-24]]
+
+^<<v42-3-24,24>>^ filho de Matate,
+filho de Levi,
+filho de Melqui,
+filho de Janai,
+filho de José,
+
+[[v42-3-25]]
+
+^<<v42-3-25,25>>^ filho de Matatias,
+filho de Amós,
+filho de Naum,
+filho de Esli,
+filho de Nagai,
+
+[[v42-3-26]]
+
+^<<v42-3-26,26>>^ filho de Maate,
+filho de Matatias,
+filho de Semei,
+filho de Joseque,
+filho de Jodá,
+
+[[v42-3-27]]
+
+^<<v42-3-27,27>>^ filho de Joanã,
+filho de Resa,
+filho de Zorobabel,
+filho de Sealtiel,
+filho de Neri,
+
+[TIP]
+====
+- *Zorobabel, filho de Sealtiel*: Muitos textos bíblicos mencionam que Zorobabel era “filho de Sealtiel”. (Esd 3:2, 8; 5:2; Ne 12:1; Ag 1:1, 12, 14; 2:2, 23; Mt 1:12) Mas há um texto que diz que Zorobabel era um dos “filhos de Pedaías”, irmão de Sealtiel. (1Cr 3:17-19) Zorobabel provavelmente era filho biológico de Pedaías, mas pelo visto foi reconhecido legalmente como filho de Sealtiel. Uma possível explicação para isso é que Pedaías tenha morrido enquanto Zorobabel ainda era uma criança e que Zorobabel tenha sido criado por Sealtiel, o irmão mais velho de Pedaías. Outra possibilidade é que Sealtiel tenha morrido sem filhos e que Pedaías tenha realizado um casamento de cunhado. Assim, o filho de Pedaías seria reconhecido oficialmente como herdeiro legítimo de Sealtiel.
+- *Sealtiel, filho de Neri*: De acordo com 1Cr 3:17 e Mt 1:12, Sealtiel era filho de Jeconias, não de Neri. Pode ser que Sealtiel fosse casado com a filha de Neri e, por isso, podia ser chamado de “filho de Neri”. Nas listas genealógicas hebraicas era comum alistar o genro como filho. Da mesma forma, Lucas chamou José de “filho de Eli”, que, pelo visto, era pai de Maria. — Veja a nota de estudo em Lu 3:23. 
+====
+
+[[v42-3-28]]
+
+^<<v42-3-28,28>>^ filho de Melqui,
+filho de Adi,
+filho de Cosã,
+filho de Elmadã,
+filho de Er,
+
+[[v42-3-29]]
+
+^<<v42-3-29,29>>^ filho de Jesus,
+filho de Eliézer,
+filho de Jorim,
+filho de Matate,
+filho de Levi,
+
+[TIP]
+====
+- *Jesus*: Ou: “Josué (Jesua)”. Alguns manuscritos bem antigos dizem “José(s)”. — Veja a nota de estudo em Mt 1:21.
+====
+
+[[v42-3-30]]
+
+^<<v42-3-30,30>>^ filho de Simeão,
+filho de Judas,
+filho de José,
+filho de Jonã,
+filho de Eliaquim,
+
+[[v42-3-31]]
+
+^<<v42-3-31,31>>^ filho de Meleá,
+filho de Mena,
+filho de Matatá,
+filho de Natã,
+filho de Davi,
+
+[TIP]
+====
+- *Natã*: Antepassado de Maria e filho de Davi com Bate-Seba. (2Sa 5:13, 14; 1Cr 3:5) Esta é a única vez que ele é mencionado nas Escrituras Gregas Cristãs. A genealogia de Jesus que aparece em Lucas é diferente da que aparece em Mateus. Mas praticamente todas as diferenças podem ser explicadas quando se leva em conta que Lucas traçou a genealogia de Jesus por meio de um filho de Davi, Natã, enquanto Mateus a traçou por meio de outro filho, Salomão. (Mt 1:6, 7) Tudo indica que Lucas registrou a genealogia pelo lado de Maria, mostrando que Jesus era descendente biológico de Davi. Mateus fez seu registro pelo lado de José, que era legalmente o pai de Jesus, mostrando que Jesus era herdeiro legal do trono de Davi. Tanto Mateus como Lucas indicam que José era pai adotivo de Jesus. — Veja as notas de estudo em Mt 1:1, 16; Lu 3:23.
+====
+
+[[v42-3-32]]
+
+^<<v42-3-32,32>>^ filho de Jessé,
+filho de Obede,
+filho de Boaz,
+filho de Salmom,
+filho de Nasom,
+
+[TIP]
+====
+- *Salmom*: Esse nome aparece em alguns manuscritos gregos como “Sala”, e em outros como “Salmom”. Salmom se casou com Raabe, de Jericó, e eles tiveram um filho chamado Boaz. (Ru 4:20-22; Mt 1:4, 5) Em 1Cr 2:11, o nome de Salmom aparece em hebraico, escrito de uma forma diferente. O versículo diz: “Salma tornou-se pai de Boaz.”
+====
+
+[[v42-3-33]]
+
+^<<v42-3-33,33>>^ filho de Aminadabe,
+filho de Arni,
+filho de Esrom,
+filho de Peres,
+filho de Judá,
+
+[TIP]
+====
+- *Arni*: Essa é uma forma do nome Rão (em grego, Arám), que aparece em Mt 1:3, 4. Em 1Cr 2:9, ele é incluído entre “os filhos que nasceram a Esrom”, e Ru 4:19 diz que “Esrom tornou-se pai de Rão”. Alguns manuscritos usam aqui em Lucas a forma “Rão”, mas vários manuscritos confiáveis apoiam o uso de “Arni”.
+====
+
+[[v42-3-34]]
+
+^<<v42-3-34,34>>^ filho de Jacó,
+filho de Isaque,
+filho de Abraão,
+filho de Tera,
+filho de Naor,
+
+[[v42-3-35]]
+
+^<<v42-3-35,35>>^ filho de Serugue,
+filho de Reú,
+filho de Pelegue,
+filho de Éber,
+filho de Selá,
+
+[[v42-3-36]]
+
+^<<v42-3-36,36>>^ filho de Cainã,
+filho de Arpaxade,
+filho de Sem,
+filho de Noé,
+filho de Lameque,
+
+[TIP]
+====
+- *filho de Cainã*: Alguns poucos manuscritos bem antigos omitem as palavras “filho de Cainã”. Eles estão de acordo com o texto massorético de Gên 10:24; 11:12, 13 e 1Cr 1:18, que diz que Selá era filho de Arpaxade. Mas o nome Cainã aparece nesses versículos em cópias da Septuaginta, como o Códice Alexandrino, do século 5 d.C. Um grande número de manuscritos do Evangelho de Lucas apoia o uso da expressão “filho de Cainã” e por isso ela aparece na maioria das traduções da Bíblia.
+====
+
+[[v42-3-37]]
+
+^<<v42-3-37,37>>^ filho de Metusalém,
+filho de Enoque,
+filho de Jarede,
+filho de Malaleel,
+filho de Cainã,
+
+[[v42-3-38]]
+
+^<<v42-3-38,38>>^ filho de Enos,
+filho de Sete,
+filho de Adão,
+filho de Deus.
+
+[TIP]
+====
+- *filho de Adão*: Lucas traça a genealogia de Jesus até Adão, o pai de toda a humanidade. Isso está de acordo com o objetivo de Lucas, que escreveu seu Evangelho para todas as pessoas, tanto judeus como não judeus. Por outro lado, parece que Mateus escreveu seu Evangelho principalmente para os judeus e, talvez por isso, tenha traçado a genealogia de Jesus apenas até Abraão. Lucas destaca que o que Jesus fez e ensinou podia beneficiar todas as pessoas, não importava se fosse um leproso samaritano, um rico cobrador de impostos ou até mesmo um criminoso morrendo na estaca. (Lu 17:11-19; 19:2-10; 23:39-43) Isso mostra que Lucas queria tocar o coração de todo tipo de pessoas.
+- *Adão, filho de Deus*: Essas palavras de Lucas fazem referência ao início da criação humana e estão de acordo com o relato de Gênesis, que diz que Adão foi criado por Deus e “à imagem de Deus”. (Gên 1:26, 27; 2:7) Elas também ajudam a entender outros versículos bíblicos, como Ro 5:12; 8:20, 21 e 1Co 15:22, 45.
+====
+
+'''
+
+xref:042-lucas/042-lucas-002.adoc#v42-2-0[&#60; Capítulo Anterior] | <<v42-3-0,Topo>> | xref:042-lucas/042-lucas-004.adoc#v42-4-0[Próximo Capítulo &#62;]

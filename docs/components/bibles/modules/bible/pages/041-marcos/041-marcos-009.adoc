@@ -1,0 +1,352 @@
+include::./index.adoc[]
+
+[[v41-9-0]]
+=== As Boas Novas Segundo Marcos, 9
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Jesus expande seu ministério na Galileia e visita regiões ao norte e ao leste (6:1–9:50)
+* Jesus é rejeitado em sua própria cidade (6:1-6)
+* Jesus dá instruções aos Doze sobre o ministério e os envia (6:7-13)
+* Morte de João, o Batizador (6:14-29)
+* Jesus alimenta cerca de 5.000 homens (6:30-44)
+* Jesus anda sobre a água (6:45-52)
+* Curas em Genesaré (6:53-56)
+* Tradições de homens são expostas por Jesus (7:1-13)
+* Impureza vem do coração (7:14-23)
+* Jesus cura a filha da mulher siro-fenícia (7:24-30)
+* Jesus cura um surdo em Decápolis (7:31-37)
+* Jesus alimenta cerca de 4.000 homens (8:1-10)
+* Fariseus pedem um sinal do céu (8:11-13)
+* Jesus avisa sobre o fermento dos fariseus e de Herodes (8:14-21)
+* Cego é curado em Betsaida (8:22-26)
+* No caminho para Cesareia de Filipe, Pedro identifica Jesus como o Cristo (8:27-30)
+* Jesus prediz sua morte e ressurreição (8:31-33)
+* Requisitos para ser um verdadeiro discípulo (8:34–9:1)
+* Transfiguração de Jesus (9:2-8)
+* Vinda de Elias (9:9-13)
+* Jesus cura um menino possesso de demônio (9:14-29)
+* Jesus prediz pela segunda vez sua morte e ressurreição (9:30-32)
+* Discípulos discutem sobre quem é o maior (9:33-37)
+* “Quem não é contra nós é a favor de nós” (9:38-41)
+* Pedras de tropeço (9:42-48)
+* “Tenham sal em vocês mesmos” (9:49, 50)
+****
+
+[[v41-9-1]]
+
+^<<v41-9-1,1>>^ Ele lhes disse também: “Digo a verdade a vocês: Há alguns dos que estão aqui que de modo algum provarão a morte antes de verem o Reino de Deus já vindo em poder.”
+
+[[v41-9-2]]
+
+^<<v41-9-2,2>>^ Seis dias depois, Jesus chamou Pedro, Tiago e João, e os levou a sós a um alto monte. E ele foi transfigurado diante deles;
+
+[TIP]
+====
+- *um alto monte*: Possivelmente o monte Hermom, que fica perto de Cesareia de Filipe. (Mr 8:​27; veja a nota de estudo em Mt 16:13.) O pico do monte Hermom fica a 2.814 metros de altitude. Mas é possível que a transfiguração não tenha acontecido no ponto mais alto do monte, e sim num de seus contrafortes, ou encostas. — Veja o Apêndice B10.
+- *ele foi transfigurado*: Veja a nota de estudo em Mt 17:2.
+====
+
+[[v41-9-3]]
+
+^<<v41-9-3,3>>^ suas roupas se tornaram cintilantes e ficaram muito mais brancas do que qualquer lavadeiro na terra poderia alvejar.
+
+[[v41-9-4]]
+
+^<<v41-9-4,4>>^ Também lhes apareceu Elias com Moisés, e eles estavam conversando com Jesus.
+
+[[v41-9-5]]
+
+^<<v41-9-5,5>>^ Então Pedro disse a Jesus: “Rabi, é bom que estejamos aqui. Vamos armar, então, três tendas: uma para o senhor, uma para Moisés e uma para Elias.”
+
+[TIP]
+====
+- *Rabi*: Lit.: “meu grande”. Vem da palavra hebraica rav, que significa “grande”. No uso comum, “Rabi” significava “instrutor”. — Jo 1:​38.
+====
+
+[[v41-9-6]]
+
+^<<v41-9-6,6>>^ Na verdade, não sabia como reagir, pois eles estavam com muito medo.
+
+[[v41-9-7]]
+
+^<<v41-9-7,7>>^ E formou-se uma nuvem, encobrindo-os, e uma voz saiu da nuvem: “Este é meu Filho, o amado. Escutem-no.”
+
+[TIP]
+====
+- *uma voz*: Esta é a segunda das três vezes em que os Evangelhos relatam que Jeová falou diretamente com humanos. — Veja as notas de estudo em Mr 1:​11; Jo 12:28.
+====
+
+[[v41-9-8]]
+
+^<<v41-9-8,8>>^ De repente, então, olharam em volta e não viram mais ninguém com eles, a não ser Jesus.
+
+[[v41-9-9]]
+
+^<<v41-9-9,9>>^ Enquanto desciam do monte, Jesus lhes ordenou com firmeza que não contassem a ninguém o que tinham visto, até que o Filho do Homem fosse levantado dentre os mortos.
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v41-9-10]]
+
+^<<v41-9-10,10>>^ Eles obedeceram às suas palavras,^&#42;1^ mas discutiram entre si o que significava ele ser levantado dentre os mortos.
+
+[NOTE]
+====
+. Ou, possivelmente: “guardaram o assunto para si”.
+====
+
+[[v41-9-11]]
+
+^<<v41-9-11,11>>^ E lhe perguntaram: “Por que os escribas dizem que Elias tem de vir primeiro?”
+
+[[v41-9-12]]
+
+^<<v41-9-12,12>>^ Ele lhes respondeu: “Elias realmente vem primeiro e restabelece todas as coisas. Mas como é que está escrito a respeito do Filho do Homem que ele tem de sofrer muitas coisas e ser tratado com desprezo?
+
+[[v41-9-13]]
+
+^<<v41-9-13,13>>^ Porém, eu lhes digo que Elias, de fato, já veio, e fizeram com ele tudo o que quiseram, assim como está escrito a respeito dele.”
+
+[[v41-9-14]]
+
+^<<v41-9-14,14>>^ Ao chegarem onde estavam os outros discípulos, notaram uma grande multidão em volta deles, e havia escribas discutindo com eles.
+
+[[v41-9-15]]
+
+^<<v41-9-15,15>>^ Mas, assim que as pessoas da multidão o viram, ficaram admiradas e correram para cumprimentá-lo.
+
+[[v41-9-16]]
+
+^<<v41-9-16,16>>^ Então ele lhes perguntou: “Sobre o que vocês estão discutindo com eles?”
+
+[[v41-9-17]]
+
+^<<v41-9-17,17>>^ E alguém da multidão lhe respondeu: “Instrutor, eu trouxe meu filho para o senhor, porque ele tem um espírito mudo.
+
+[TIP]
+====
+- *um espírito mudo*: Ou seja, um demônio que deixa a pessoa muda.
+====
+
+[[v41-9-18]]
+
+^<<v41-9-18,18>>^ Onde quer que esse espírito o apanhe, lança-o no chão, e ele espuma pela boca, range os dentes e perde a força. Eu pedi aos seus discípulos que expulsassem o espírito, mas eles não foram capazes de fazer isso.”
+
+[[v41-9-19]]
+
+^<<v41-9-19,19>>^ Em resposta, ele lhes disse: “Ó geração sem fé, até quando terei de continuar com vocês? Até quando terei de suportá-los? Tragam-no a mim.”
+
+[[v41-9-20]]
+
+^<<v41-9-20,20>>^ De modo que o levaram a ele, mas, ao ver Jesus, o espírito lançou o menino imediatamente em convulsões. Depois de cair no chão, ele ficou rolando e espumando pela boca.
+
+[TIP]
+====
+- *convulsões*: Embora a ação do demônio sobre esse menino tenha feito com que ele tivesse sintomas de epilepsia, a Bíblia não sugere que a epilepsia ou qualquer outra doença sejam sempre causadas por demônios. Por exemplo, a Bíblia fala de demônios que deixaram pessoas mudas e surdas (Mr 9:17, 25), mas isso obviamente não quer dizer que os demônios estejam sempre por trás dessas deficiências. Além disso, quando Mt 4:​24 relata que as pessoas levaram a Jesus “todos os que sofriam de várias doenças”, o texto menciona “os possessos de demônios” e “os epiléticos” separadamente, mostrando que essas pessoas tinham problemas diferentes. — Veja a nota de estudo em Mt 4:​24. 
+====
+
+[[v41-9-21]]
+
+^<<v41-9-21,21>>^ Então Jesus perguntou ao pai: “Há quanto tempo isso acontece com ele?” Ele respondeu: “Desde a infância,
+
+[[v41-9-22]]
+
+^<<v41-9-22,22>>^ e o espírito o lança muitas vezes no fogo e também na água, para matá-lo. Mas, se o senhor puder fazer algo, tenha pena de nós e ajude-nos.”
+
+[[v41-9-23]]
+
+^<<v41-9-23,23>>^ Jesus lhe disse: “Esta expressão: ‘Se puder’! Ora, tudo é possível para quem tem fé.”
+
+[[v41-9-24]]
+
+^<<v41-9-24,24>>^ Imediatamente, o pai do menino clamou: “Eu tenho fé! Ajude-me onde preciso de fé!”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Ajude a minha falta de fé!”
+====
+
+[[v41-9-25]]
+
+^<<v41-9-25,25>>^ Observando então que uma multidão estava rapidamente se aproximando deles, Jesus censurou o espírito impuro, dizendo-lhe: “Espírito mudo e surdo, eu lhe ordeno que saia dele e não entre nele novamente!”
+
+[TIP]
+====
+- *Espírito mudo e surdo*: Ou seja, um demônio que deixa a pessoa muda e surda.
+====
+
+[[v41-9-26]]
+
+^<<v41-9-26,26>>^ Depois de clamar e de causar muitas convulsões no menino, o espírito saiu; e o menino parecia morto, de modo que a maioria das pessoas dizia: “Ele está morto!”
+
+[[v41-9-27]]
+
+^<<v41-9-27,27>>^ Mas Jesus o pegou pela mão e o levantou, e ele ficou de pé.
+
+[[v41-9-28]]
+
+^<<v41-9-28,28>>^ Assim, depois de entrar numa casa, seus discípulos lhe perguntaram em particular: “Por que nós não conseguimos expulsá-lo?”
+
+[[v41-9-29]]
+
+^<<v41-9-29,29>>^ Ele lhes respondeu: “Essa espécie só sai por oração.”
+
+[TIP]
+====
+- *por oração*: Em alguns manuscritos aparecem aqui as palavras “e jejum”. Mas essas palavras não estão nos manuscritos mais antigos e mais confiáveis. Pelo visto, as palavras “e jejum” foram acrescentadas por copistas que promoviam e praticavam o jejum. Eles incluíram várias referências ao jejum onde manuscritos mais antigos não continham essa ideia. — Veja a nota de estudo em Mt 17:21.
+====
+
+[[v41-9-30]]
+
+^<<v41-9-30,30>>^ Partiram dali e atravessaram a Galileia, mas ele não quis que ninguém soubesse disso,
+
+[[v41-9-31]]
+
+^<<v41-9-31,31>>^ pois estava ensinando os seus discípulos. E lhes dizia: “O Filho do Homem será entregue^&#42;1^ às mãos dos homens, e eles o matarão, mas, embora seja morto, será levantado três dias depois.”
+
+[NOTE]
+====
+. Ou: “traído”.
+====
+
+[[v41-9-32]]
+
+^<<v41-9-32,32>>^ No entanto, não entendiam o que ele lhes dizia e tinham medo de perguntar.
+
+[[v41-9-33]]
+
+^<<v41-9-33,33>>^ E entraram em Cafarnaum. Então, quando estava dentro da casa, ele lhes perguntou: “Sobre o que vocês estavam discutindo na estrada?”
+
+[[v41-9-34]]
+
+^<<v41-9-34,34>>^ Eles ficaram calados, pois na estrada tinham discutido entre si sobre quem era o maior.
+
+[[v41-9-35]]
+
+^<<v41-9-35,35>>^ Então ele se sentou, chamou os Doze e lhes disse: “Se alguém quer ser o primeiro, tem de ser o último de todos e servo^&#42;1^ de todos.”
+
+[NOTE]
+====
+. Ou: “ministro”.
+====
+
+[[v41-9-36]]
+
+^<<v41-9-36,36>>^ Então ele pegou uma criancinha e a colocou no meio deles; pôs os braços em volta dela e lhes disse:
+
+[[v41-9-37]]
+
+^<<v41-9-37,37>>^ “Quem recebe uma destas criancinhas em meu nome recebe também a mim; e quem me recebe, recebe não só a mim, mas também Aquele que me enviou.”
+
+[[v41-9-38]]
+
+^<<v41-9-38,38>>^ João lhe disse: “Instrutor, vimos alguém expulsar demônios usando o seu nome e tentamos impedi-lo, porque ele não estava nos acompanhando.”
+
+[[v41-9-39]]
+
+^<<v41-9-39,39>>^ Mas Jesus disse: “Não tentem impedi-lo, porque ninguém que faça uma obra poderosa em meu nome pode logo depois falar mal de mim.
+
+[[v41-9-40]]
+
+^<<v41-9-40,40>>^ Pois quem não é contra nós é a favor de nós.
+
+[[v41-9-41]]
+
+^<<v41-9-41,41>>^ E eu garanto a vocês que quem lhes der um copo de água para beber, por vocês pertencerem a Cristo, de modo algum perderá sua recompensa.
+
+[[v41-9-42]]
+
+^<<v41-9-42,42>>^ Mas quem fizer tropeçar um destes pequenos que têm fé, seria melhor para ele que pusessem no seu pescoço uma pedra de moinho daquelas que o jumento faz girar, e que fosse lançado no mar.
+
+[TIP]
+====
+- *fizer tropeçar*: Ou: “colocar uma pedra de tropeço em frente de”. A palavra grega skandalízo, traduzida aqui como “fizer tropeçar”, é usada nas Escrituras Gregas Cristãs em sentido figurado. Neste versículo, ela se refere às diversas maneiras em que uma pessoa poderia ser um obstáculo para a fé de alguém que, sem a sua influência, teria seguido a Jesus e acreditado nele. Também pode incluir a ideia de levar uma pessoa a pecar ou de se tornar uma armadilha para ela. Alguém poderia “tropeçar” por perder a fé, aceitar ensinamentos falsos ou desobedecer a uma das leis de moral de Deus. (Veja a nota de estudo em Mt 18:7.) Os pequenos que Jesus mencionou eram os discípulos dele, que para o mundo podiam parecer pessoas de pouca importância, mas eram preciosos aos olhos de Deus.
+- *uma pedra de moinho daquelas que o jumento faz girar*: Veja a nota de estudo em Mt 18:6.
+====
+
+[[v41-9-43]]
+
+^<<v41-9-43,43>>^ “Se a sua mão faz você tropeçar, corte-a. É melhor para você entrar na vida aleijado do que ir com as duas mãos para a Geena, para o fogo que não pode ser apagado.
+
+[TIP]
+====
+- *faz você tropeçar*: Neste contexto, a palavra grega skandalízo também poderia ser traduzida como “se torna uma armadilha para você; leva você a pecar”. — Veja a nota de estudo em Mt 18:7.
+- *corte-a*: É claro que Jesus não estava incentivando a automutilação nem dando a entender que partes do corpo, como as mãos, os pés ou os olhos, teriam controle sobre as ações da pessoa. (Mr 9:​45, 47) Na verdade, Jesus usou aqui uma hipérbole. Ele estava dizendo que um cristão devia estar disposto a cortar de sua vida qualquer coisa que poderia fazê-lo tropeçar e se tornar infiel, mesmo que fosse algo tão importante como uma mão, um pé ou um olho. Seria melhor um cristão ‘fazer morrer um membro do corpo’, ou tratá-lo como se tivesse sido cortado do corpo, do que usá-lo para cometer um pecado. (Veja Col 3:5.) O cristão não deve permitir que nada o impeça de ganhar o prêmio da vida.
+- *Geena*: Veja a nota de estudo em Mt 5:​22 e o Glossário.
+====
+
+[[v41-9-44]]
+
+^<<v41-9-44,44>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos dizem neste versículo*: “onde seu verme não morre e o fogo não se apaga”. Mas essas palavras não aparecem em importantes manuscritos mais antigos. Palavras parecidas podem ser encontradas no versículo 48, onde não existem dúvidas sobre o texto original. De acordo com as evidências, parece que um ou mais escribas inseriram as palavras do versículo 48 nos versículos 44 e 46. — Veja o Apêndice A3.
+====
+
+[[v41-9-45]]
+
+^<<v41-9-45,45>>^ E, se o seu pé o faz tropeçar, corte-o. É melhor para você entrar na vida manco do que ser lançado com os dois pés na Geena.
+
+[TIP]
+====
+- *o faz tropeçar*: Veja a nota de estudo em Mr 9:43.
+- *Geena*: Veja a nota de estudo em Mt 5:​22 e o Glossário.
+====
+
+[[v41-9-46]]
+
+^<<v41-9-46,46>>^ ——
+
+[TIP]
+====
+- *Veja a nota de estudo em Mr 9*:​44.
+====
+
+[[v41-9-47]]
+
+^<<v41-9-47,47>>^ E, se o seu olho o faz tropeçar, lance-o para longe. É melhor para você entrar no Reino de Deus com um olho só do que ser lançado com os dois olhos na Geena,
+
+[TIP]
+====
+- *o faz tropeçar*: Veja a nota de estudo em Mr 9:43.
+- *Geena*: Veja a nota de estudo em Mt 5:​22 e o Glossário.
+====
+
+[[v41-9-48]]
+
+^<<v41-9-48,48>>^ onde os vermes não morrem e o fogo não é apagado.
+
+[TIP]
+====
+- *onde*: Refere-se à “Geena”, mencionada no versículo anterior. “Geena” era o nome grego do vale de Hinom. Conforme explicado na nota de estudo em Mt 5:​22, na época de Jesus, o vale de Hinom era usado para queimar lixo. Tudo indica que, quando Jesus disse que os vermes não morrem e o fogo não é apagado, ele estava fazendo referência às palavras proféticas de Is 66:24. Essa profecia não fala de pessoas vivas serem torturadas. Ela prediz o que aconteceria com “os cadáveres dos homens” que se rebelassem contra Jeová. Os vermes se multiplicariam onde o fogo não alcançasse, e tudo o que não fosse consumido pelo fogo seria consumido pelos vermes. Assim, ao falar que as pessoas condenadas por Deus seriam lançadas na Geena, Jesus estava explicando que elas sofreriam destruição total, não que elas iriam para um lugar de tormento.
+====
+
+[[v41-9-49]]
+
+^<<v41-9-49,49>>^ “Pois todos têm de ser salgados com fogo.
+
+[TIP]
+====
+- *salgados com fogo*: Essa figura de linguagem pode ser entendida de duas maneiras: (1) Pode estar ligada ao que Jesus tinha acabado de dizer em Mr 9:​43-​48 e se referir à destruição com o fogo da Geena. Jesus talvez estivesse fazendo uma referência ao que aconteceu com Sodoma e Gomorra, que ficavam perto do Mar Morto (Salgado). Deus “fez chover fogo e enxofre” sobre essas cidades. (Gên 19:24) Se esse for o sentido da expressão, quando Jesus disse “todos têm de ser salgados com fogo”, ele estava se referindo a todos os que permitissem que ‘suas mãos, pés ou olhos’ fizessem eles mesmos ou outros tropeçar e ser infiéis. Essas pessoas seriam salgadas com o fogo da Geena, ou seja, seriam destruídas para sempre. (2) A expressão “salgados com fogo” pode estar ligada ao que Jesus disse em seguida, em Mr 9:​50, talvez se referindo a um fogo que refinaria ou purificaria seus discípulos, promovendo a paz entre eles. Se esse for o caso, quando Jesus usou neste versículo a palavra “todos”, ele estava se referindo a todos os seus discípulos. Eles seriam purificados pela Palavra de Jeová, que é como um fogo que queima e elimina completamente mentiras e erros. (Je 20:​8, 9; 23:29) Também seriam purificados pelas perseguições e dificuldades, que são como um fogo que refina, mostrando se a lealdade e a devoção de cada discípulo são realmente puras. (1Pe 1:​6, 7; 4:​12, 13) Se Jesus estava falando sobre seus discípulos, é bem possível que ele tivesse em mente a purificação tanto pela Palavra de Jeová como pelas perseguições e dificuldades.
+====
+
+[[v41-9-50]]
+
+^<<v41-9-50,50>>^ O sal é bom, mas, se o sal perder a sua salinidade, o que farão para recuperar o seu sabor? Tenham sal em vocês mesmos e mantenham a paz uns com os outros.”
+
+[TIP]
+====
+- *sal*: Além de dar sabor aos alimentos, o sal pode ser usado para conservá-los. — Veja a nota de estudo em Mt 5:​13.
+- *perder a sua salinidade*: Ou: “perder a sua força”. Na época de Jesus, o sal geralmente vinha da região do Mar Morto e estava misturado com outros minerais. Se todo o sal fosse tirado dessa mistura, sobraria apenas uma substância sem gosto que não serviria para nada.
+- *Tenham sal em vocês mesmos*: Pelo visto, Jesus usou aqui o “sal” para se referir à característica própria dos cristãos que os leva a fazer e a dizer coisas construtivas, de bom gosto, que mostram consideração e que contribuem para conservar, ou salvar, a vida de outros. Ao dar esse conselho, Jesus talvez tivesse em mente as discussões dos seus apóstolos sobre quem era o maior entre eles. Se eles ‘tivessem sal neles mesmos’, falariam uns com os outros de um modo mais fácil de aceitar e conservariam, ou manteriam, a paz. O apóstolo Paulo usou a palavra “sal” de modo parecido em Col 4:6.
+====
+
+'''
+
+xref:041-marcos/041-marcos-008.adoc#v41-8-0[&#60; Capítulo Anterior] | <<v41-9-0,Topo>> | xref:041-marcos/041-marcos-010.adoc#v41-10-0[Próximo Capítulo &#62;]

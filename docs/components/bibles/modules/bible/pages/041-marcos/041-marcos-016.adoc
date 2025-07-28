@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v41-16-0]]
+=== As Boas Novas Segundo Marcos, 16
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Jesus é sepultado e ressuscitado (15:42–16:8)
+* José de Arimateia e o sepultamento de Jesus (15:42-47)
+* Mulheres encontram o túmulo vazio (16:1-8)
+****
+
+[[v41-16-1]]
+
+^<<v41-16-1,1>>^ Então, passado o sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compraram aromas para passar no corpo dele.
+
+[TIP]
+====
+- *sábado*: O sábado 15 de nisã terminou com o pôr do sol. Os quatro Evangelhos relatam a ressurreição de Jesus. — Mt 28:​1-​10; Mr 16:​1-8; Lu 24:​1-​12; Jo 20:​1-​29.
+- *Maria Madalena*: Veja a nota de estudo em Mt 27:56.
+- *Tiago*: Ou seja, Tiago, o Menor. — Veja a nota de estudo em Mr 15:40.
+- *Salomé*: Veja a nota de estudo em Mr 15:40.
+- *compraram aromas para passar no corpo dele*: Antes de Jesus ser sepultado, seu corpo foi preparado ‘da maneira como os judeus costumavam preparar o corpo para o sepultamento’. (Jo 19:39, 40) Mas essa preparação deve ter sido feita às pressas, já que Jesus morreu cerca de três horas antes do início do sábado, e os judeus não podiam realizar esse trabalho durante o sábado. No primeiro dia depois do sábado (o terceiro dia desde a morte de Jesus) as mulheres foram ao túmulo levando mais ervas aromáticas e óleos perfumados, talvez para preservar o corpo de Jesus por um período mais longo. (Lu 23:50–​24:1) É provável que elas fossem passar esses aromas e óleos nos panos que envolviam o corpo.
+====
+
+[[v41-16-2]]
+
+^<<v41-16-2,2>>^ E, no primeiro dia da semana, chegaram bem cedo ao túmulo, depois de o sol se levantar.
+
+[TIP]
+====
+- *no primeiro dia da semana*: Veja a nota de estudo em Mt 28:1.
+- *túmulo*: Veja a nota de estudo em Mt 27:60.
+====
+
+[[v41-16-3]]
+
+^<<v41-16-3,3>>^ Diziam umas às outras: “Quem rolará a pedra da entrada do túmulo para nós?”
+
+[TIP]
+====
+- *a pedra*: Devia ser uma pedra circular, já que este versículo diz que as mulheres se perguntaram quem ‘rolaria’ a pedra para abrir o túmulo e o versículo 4 diz que ela já tinha sido “rolada”. Essa pedra talvez pesasse uma tonelada ou mais. O relato de Mateus a descreve como “uma grande pedra”. — Mt 27:60.
+====
+
+[[v41-16-4]]
+
+^<<v41-16-4,4>>^ Mas, ao levantarem os olhos, viram que a pedra, embora muito grande, tinha sido rolada.
+
+[[v41-16-5]]
+
+^<<v41-16-5,5>>^ Quando elas entraram no túmulo, viram um jovem sentado à direita, usando uma veste comprida, branca, e ficaram espantadas.
+
+[[v41-16-6]]
+
+^<<v41-16-6,6>>^ Ele lhes disse: “Não se assustem. Vocês estão procurando Jesus, o Nazareno, que foi morto na estaca. Ele foi levantado; não está aqui. Vejam, este é o lugar onde o colocaram.
+
+[[v41-16-7]]
+
+^<<v41-16-7,7>>^ Agora vão, digam aos discípulos dele e a Pedro: ‘Ele está indo adiante de vocês para a Galileia. Ali o verão, assim como ele lhes disse.’”
+
+[TIP]
+====
+- *digam aos discípulos dele*: Veja a nota de estudo em Mt 28:7.
+- *e a Pedro*: O Evangelho de Marcos é o único que inclui o detalhe de que Pedro foi mencionado por nome pelo anjo. (Compare com o relato paralelo em Mt 28:7.) O texto de Jo 20:2 diz que Maria Madalena transmitiu essa mensagem a ‘Simão Pedro e ao outro discípulo’, ou seja, João. Em algum momento antes de Jesus aparecer para os seus discípulos como grupo, ele apareceu para Pedro, pelo visto enquanto Pedro estava sozinho. (Lu 24:34; 1Co 15:5) A atenção pessoal que Jesus deu a Pedro e o fato de ele ter sido citado por nome na mensagem do anjo com certeza ajudaram Pedro a ver que ele tinha sido perdoado por ter negado três vezes seu amigo Jesus. — Mt 26:73-75.
+====
+
+[[v41-16-8]]
+
+^<<v41-16-8,8>>^ Então elas saíram e fugiram do túmulo, tremendo e tomadas de emoção. E não disseram nada a ninguém, pois estavam com medo.
+
+[TIP]
+====
+- *pois estavam com medo*: De acordo com os manuscritos mais antigos disponíveis que incluem a parte final do Evangelho de Marcos, o livro termina com as palavras do versículo 8. Alguns afirmam que essa conclusão é brusca demais para ser a conclusão original. Mas, como Marcos costumava escrever de modo breve e resumido, esse argumento não é necessariamente válido. Além disso, Jerônimo e Eusébio, estudiosos do século 4 d.C., indicam que o relato original termina com as palavras “pois estavam com medo”.
+- *Vários manuscritos gregos e antigas traduções em outros idiomas incluem uma conclusão longa ou uma conclusão curta depois do versículo 8. A conclusão longa (que tem 12 versículos) aparece no Códice Alexandrino, no Códice Ephraemi Syri rescriptus e no Códice Bezae Cantabrigiensis, todos do século 5 d.C. Também aparece na Vulgata latina, no texto siríaco curetoniano e na Peshitta siríaca. Mas a conclusão longa não aparece em dois manuscritos gregos mais antigos, do século 4 d.C.*: o Códice Sinaítico e o Códice Vaticano. Também não aparece no Códice Sinaítico Siríaco, do século 4 ou 5 d.C., nem no manuscrito mais antigo de Marcos em copta saídico, do século 5 d.C. Além disso, os manuscritos mais antigos de Marcos em armênio e georgiano também não incluem nenhuma conclusão depois do versículo 8.
+- A conclusão curta (que tem apenas duas frases) aparece em alguns manuscritos gregos e antigas traduções em outros idiomas que foram produzidos nos séculos seguintes. O Códice Regius, do século 8 d.C., inclui as duas conclusões, primeiro a curta e depois a longa. Antes de cada conclusão, há uma nota que indica que elas eram aceitas por alguns na época, mas o códice não afirma que nenhuma das duas conclusões é autêntica.
+- CONCLUSÃO CURTA
+- *A conclusão curta depois de Mr 16*:8 não faz parte das Escrituras inspiradas. Ela diz:
+- Mas elas relataram brevemente aos em volta de Pedro todas as coisas que lhes tinham sido ordenadas. Além disso, depois dessas coisas, o próprio Jesus enviou por meio deles, do leste ao oeste, a santa e imperecível proclamação da salvação eterna.
+- CONCLUSÃO LONGA
+- *A conclusão longa depois de Mr 16*:8 não faz parte das Escrituras inspiradas. Ela diz:
+- *9 Depois que ele foi levantado, logo cedo no primeiro dia da semana, apareceu primeiro a Maria Madalena, da qual ele tinha expulsado sete demônios. 10 Ela foi e relatou isso aos que tinham estado com ele, pois estavam lamentando e chorando. 11 Mas eles, quando ouviram que ele estava vivo e que ela o tinha visto, não acreditaram. 12 Além disso, depois dessas coisas, ele apareceu em outra forma a dois deles que estavam andando, enquanto estavam indo para o campo; 13 eles voltaram e relataram isso aos outros. Também não acreditaram neles. 14 Mas depois ele apareceu aos onze, quando eles estavam recostados à mesa, e os censurou por sua falta de fé e pela dureza de seus corações, porque não tinham acreditado nos que o tinham visto depois que ele foi levantado dentre os mortos. 15 E ele lhes disse*: “Vão ao mundo inteiro e preguem as boas novas a toda a criação. 16 Quem crer e for batizado será salvo, mas quem não crer será condenado. 17 Além disso, os seguintes sinais acompanharão os que crerem: Pelo uso do meu nome expulsarão demônios, falarão em línguas, 18 com suas mãos apanharão serpentes, e, se beberem algo mortífero, isso não lhes fará nenhum mal. Porão suas mãos sobre doentes, e eles ficarão bons.”
+- 19 Depois de falar com eles, o Senhor Jesus foi levado para o céu e se sentou à direita de Deus. 20 Então eles saíram e pregaram em toda a parte, e o Senhor cooperava com eles e confirmava a mensagem deles por meio dos sinais que a acompanhavam.
+====
+
+'''
+
+xref:041-marcos/041-marcos-015.adoc#v41-15-0[&#60; Capítulo Anterior] | <<v41-16-0,Topo>> | xref:042-lucas/042-lucas-001.adoc#v42-1-0[Próximo Capítulo &#62;]

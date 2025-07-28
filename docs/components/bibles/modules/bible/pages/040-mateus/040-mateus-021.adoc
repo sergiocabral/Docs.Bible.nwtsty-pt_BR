@@ -1,0 +1,338 @@
+include::./index.adoc[]
+
+[[v40-21-0]]
+=== As Boas Novas Segundo Mateus, 21
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Jesus termina sua pregação em Jerusalém (21:1–23:39)
+* Entrada triunfal de Jesus em Jerusalém (21:1-11)
+* Jesus purifica o templo (21:12-17)
+* Jesus amaldiçoa uma figueira (21:18-22)
+* Sacerdotes e anciãos questionam autoridade de Jesus (21:23-27)
+* Ilustração do pai e dos dois filhos (21:28-32)
+* Ilustração dos lavradores maus (21:33-46)
+* Ilustração da festa de casamento (22:1-14)
+* Deus e César (22:15-22)
+* Pergunta sobre a ressurreição (22:23-33)
+* Dois maiores mandamentos (22:34-40)
+* O Cristo é filho de Davi? (22:41-46)
+* Não imitem os escribas e os fariseus (23:1-12)
+* Ai dos escribas e dos fariseus (23:13-36)
+* Jesus lamenta por Jerusalém (23:37-39)
+****
+
+[[v40-21-1]]
+
+^<<v40-21-1,1>>^ Quando se aproximaram de Jerusalém e chegaram a Betfagé, no monte das Oliveiras, Jesus enviou dois discípulos,
+
+[TIP]
+====
+- *Betfagé*: Aldeia que ficava no monte das Oliveiras. Seu nome vem do hebraico e provavelmente significa “casa dos primeiros figos”. Acredita-se que ela ficava na encosta sudeste do monte das Oliveiras, perto do topo, a cerca de 1 quilômetro de Jerusalém, no caminho para Betânia. — Mr 11:1; Lu 19:29; veja o Mapa 6 no Apêndice A7-G.
+====
+
+[[v40-21-2]]
+
+^<<v40-21-2,2>>^ dizendo-lhes: “Vão à aldeia que está ao alcance da vista e logo acharão uma jumenta amarrada, e um jumentinho com ela. Desamarrem-nos e tragam-nos para mim.
+
+[TIP]
+====
+- *uma jumenta amarrada, e um jumentinho com ela*: Apenas Mateus menciona tanto a jumenta quanto o jumentinho. Os relatos paralelos em Mr 11:2-7; Lu 19:30-35 e Jo 12:14, 15 falam apenas do jumentinho, pelo visto porque foi nele que Jesus montou. — Veja a nota de estudo em Mt 21:5.
+====
+
+[[v40-21-3]]
+
+^<<v40-21-3,3>>^ Se alguém lhes disser alguma coisa, digam: ‘O Senhor precisa deles.’ Com isso, imediatamente os deixará trazê-los.”
+
+[[v40-21-4]]
+
+^<<v40-21-4,4>>^ Isso aconteceu para que se cumprissem as palavras do profeta, que disse:
+
+[TIP]
+====
+- *para que se cumprissem as palavras do profeta*: Tudo indica que a primeira parte das “palavras do profeta” registradas em Mt 21:5 foi tirada de Is 62:11 e a segunda parte, de Za 9:9. — Veja a nota de estudo em Mt 1:22.
+====
+
+[[v40-21-5]]
+
+^<<v40-21-5,5>>^ “Digam à filha de Sião: ‘Veja! Seu rei está vindo a você, de temperamento brando e montado num jumento, sim, num jumentinho, filho de um animal de carga.’”
+
+[TIP]
+====
+- *filha de Sião*: A Bíblia muitas vezes personifica cidades como se fossem mulheres. Aqui, a palavra “filha” pode representar a própria cidade ou o povo da cidade. O nome Sião era geralmente usado para se referir à cidade de Jerusalém.
+- *de temperamento brando*: Ou: “humilde”. — Veja a nota de estudo em Mt 5:5.
+- *num jumento, sim, num jumentinho*: Os versículos 2 e 7 de Mt 21 mencionam uma jumenta e um jumentinho. Mas a profecia em Za 9:9 citada aqui dizia que o rei estaria montado num jumentinho. — Veja a nota de estudo em Mt 21:2.
+====
+
+[[v40-21-6]]
+
+^<<v40-21-6,6>>^ Os discípulos foram então e fizeram conforme Jesus lhes havia ordenado.
+
+[[v40-21-7]]
+
+^<<v40-21-7,7>>^ Trouxeram a jumenta e seu jumentinho, colocaram sobre eles suas capas, e ele se sentou nelas.
+
+[TIP]
+====
+- *a jumenta e seu jumentinho*: Veja as notas de estudo em Mt 21:2, 5.
+====
+
+[[v40-21-8]]
+
+^<<v40-21-8,8>>^ A maior parte da multidão estendeu suas capas na estrada, ao passo que outros cortavam ramos das árvores e os espalhavam pela estrada.
+
+[[v40-21-9]]
+
+^<<v40-21-9,9>>^ Além disso, as multidões que iam na frente dele e as que o seguiam gritavam: “Salva, rogamos, o Filho de Davi! Bendito é aquele que vem em nome de Jeová! Salva-o, rogamos, nas maiores alturas!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “nos lugares mais altos”.
+====
+
+[TIP]
+====
+- *Salva, rogamos*: Lit.: “Hosana”. Essa palavra grega vem de uma expressão hebraica que significa “salva, rogamos” ou “salva, por favor”. Aqui, a palavra é uma súplica para que Deus dê salvação ou vitória, e poderia ser traduzida como “por favor, dá salvação para”. Com o tempo, além de ser usada para fazer súplicas, ela também passou a ser usada para louvar uma pessoa. A expressão hebraica que corresponde à palavra grega pode ser encontrada no Sal 118:25, que faz parte dos Salmos de Halel. Os israelitas sempre cantavam esses salmos na época da Páscoa, e por isso essas palavras vieram à mente das pessoas que receberam Jesus. Uma das maneiras como Deus respondeu a esse pedido e salvou Jesus, o Filho de Davi, foi quando o ressuscitou. Em Mt 21:42, o próprio Jesus citou o Sal 118:22, 23 e deu a entender que essas palavras se cumpririam nele como o Messias.
+- *Filho de Davi*: As pessoas usaram essa expressão para mostrar que reconheciam que Jesus era descendente de Davi e o Messias prometido. — Veja as notas de estudo em Mt 1:1, 6; 15:25; 20:30.
+- *Jeová*: Esta é uma citação direta do Sal 118:25, 26. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v40-21-10]]
+
+^<<v40-21-10,10>>^ Quando ele entrou em Jerusalém, a cidade inteira ficou em alvoroço, e diziam: “Quem é este?”
+
+[TIP]
+====
+- *ficou em alvoroço*: Ou: “foi sacudida; ficou agitada”. Mateus usa aqui um verbo grego que, em sentido literal, descreve os efeitos de um terremoto ou de uma tempestade. Neste contexto, o verbo foi usado em sentido figurado para mostrar o impacto da entrada de Jesus sobre os moradores da cidade. (Mt 27:51; Ap 6:13) O substantivo grego relacionado, seismós, é traduzido como “tempestade” ou “terremoto”. — Mt 8:24; 24:7; 27:54; 28:2.
+====
+
+[[v40-21-11]]
+
+^<<v40-21-11,11>>^ As multidões respondiam: “Este é o profeta Jesus, de Nazaré da Galileia!”
+
+[[v40-21-12]]
+
+^<<v40-21-12,12>>^ Jesus entrou no templo, expulsou todos os que vendiam e compravam no templo, e derrubou as mesas dos cambistas e as cadeiras dos que vendiam pombas.
+
+[TIP]
+====
+- *templo*: Aqui essa palavra provavelmente se refere à parte conhecida como Pátio dos Gentios. — Veja o Apêndice B11.
+- *expulsou todos os que vendiam*: Veja a nota de estudo em Lu 19:45.
+- *cambistas*: Havia muitas moedas diferentes em circulação, mas parece que apenas um tipo de moeda era aceito para pagar o imposto anual do templo ou para comprar animais para fazer sacrifícios. Por isso, os judeus que viajavam para Jerusalém tinham que trocar o dinheiro que traziam de outros lugares por moedas que eram aceitas no templo. Pelo visto, Jesus achou que as taxas que os cambistas cobravam eram um absurdo; para ele, aquilo era praticamente um roubo.
+====
+
+[[v40-21-13]]
+
+^<<v40-21-13,13>>^ E lhes disse: “Está escrito: ‘Minha casa será chamada casa de oração’, mas vocês fazem dela um abrigo de ladrões.”
+
+[TIP]
+====
+- *abrigo de ladrões*: Ou: “caverna de bandidos”. Jesus fez aqui uma referência a Je 7:11. Ele provavelmente chamou os vendedores e os cambistas de “ladrões” porque eles vendiam animais para sacrifício a preços altíssimos e cobravam taxas absurdas pela troca de moedas. Jesus também ficou indignado ao ver que a casa de oração, ou o lugar de adoração a Jeová, tinha sido transformada em um centro de comércio.
+====
+
+[[v40-21-14]]
+
+^<<v40-21-14,14>>^ Também, cegos e mancos se aproximaram dele no templo, e ele os curou.
+
+[TIP]
+====
+- *templo*: Provavelmente se refere ao Pátio dos Gentios. (Compare com a nota de estudo em Mt 21:12.) Apenas Mateus fala que cegos e mancos foram até Jesus no templo e que ele os curou, assim como já tinha feito em outra ocasião. (Mt 15:30) Alguns afirmam que de acordo com a tradição judaica os cegos e os mancos eram proibidos de entrar em algumas partes do templo. Mas as Escrituras Hebraicas não falam especificamente dessa proibição. Seja como for, o relato de Mateus pode indicar que o zelo de Jesus durante os últimos dias de seu ministério o motivou não apenas a purificar o templo, mas também a curar os cegos e os mancos que foram até ele ali. — Veja o Apêndice A7-G.
+====
+
+[[v40-21-15]]
+
+^<<v40-21-15,15>>^ Quando os principais sacerdotes e os escribas viram as coisas maravilhosas que ele fazia e os meninos que gritavam no templo: “Salva, rogamos, o Filho de Davi!”, ficaram indignados
+
+[TIP]
+====
+- *Salva, rogamos, o Filho de Davi*: Veja a nota de estudo em Mt 21:9.
+====
+
+[[v40-21-16]]
+
+^<<v40-21-16,16>>^ e lhe disseram: “Está ouvindo o que eles estão dizendo?” Jesus lhes disse: “Sim. Vocês nunca leram o seguinte: ‘Da boca de crianças e de bebês fizeste sair louvor’?”
+
+[[v40-21-17]]
+
+^<<v40-21-17,17>>^ E, deixando-os para trás, saiu da cidade para Betânia e passou a noite ali.
+
+[TIP]
+====
+- *Betânia*: Uma aldeia na encosta leste do monte das Oliveiras. Ficava a uns 3 quilômetros de distância de Jerusalém. (Jo 11:18) Marta, Maria e Lázaro moravam em Betânia, e parece que Jesus ficava hospedado na casa deles quando estava na Judeia. (Jo 11:1) No local onde ficava Betânia, existe hoje uma cidade com um nome árabe que significa “o lugar de Lázaro”.
+====
+
+[[v40-21-18]]
+
+^<<v40-21-18,18>>^ Ao voltar à cidade de manhã cedo, sentiu fome.
+
+[[v40-21-19]]
+
+^<<v40-21-19,19>>^ Ele viu uma figueira à beira da estrada e se dirigiu a ela, mas não encontrou nada, a não ser folhas, e lhe disse: “Nunca mais produza fruto algum.” E a figueira secou instantaneamente.
+
+[TIP]
+====
+- *não encontrou nada, a não ser folhas*: As figueiras não costumavam dar fruto naquela época do ano, mas aquela já tinha folhas, o que geralmente era um sinal de que a árvore já teria produzido figos. Como aquela figueira só tinha folhas, Jesus sabia que ela não daria frutos; por isso, sua aparência era enganosa. Então Jesus amaldiçoou a figueira e a fez secar.
+====
+
+[[v40-21-20]]
+
+^<<v40-21-20,20>>^ Quando os discípulos viram isso, ficaram admirados e disseram: “Como é que a figueira secou instantaneamente?”
+
+[[v40-21-21]]
+
+^<<v40-21-21,21>>^ Em resposta, Jesus lhes disse: “Eu lhes digo a verdade: Se tiverem fé e não duvidarem, vocês não só farão o que eu fiz à figueira, mas até mesmo se disserem a este monte: ‘Levante-se e jogue-se no mar’, isso acontecerá.
+
+[TIP]
+====
+- *Eu lhes digo a verdade*: Veja a nota de estudo em Mt 5:18.
+====
+
+[[v40-21-22]]
+
+^<<v40-21-22,22>>^ E tudo o que pedirem em oração, tendo fé, vocês receberão.”
+
+[[v40-21-23]]
+
+^<<v40-21-23,23>>^ Depois de ele entrar no templo, os principais sacerdotes e os anciãos do povo se aproximaram dele, enquanto ensinava, e perguntaram: “Com que autoridade você faz essas coisas? E quem lhe deu essa autoridade?”
+
+[TIP]
+====
+- *principais sacerdotes*: Veja a nota de estudo em Mt 2:4.
+- *anciãos*: Veja a nota de estudo em Mt 16:21.
+====
+
+[[v40-21-24]]
+
+^<<v40-21-24,24>>^ Jesus lhes disse em resposta: “Eu também lhes perguntarei uma coisa. Se me responderem, então eu lhes direi com que autoridade faço essas coisas:
+
+[[v40-21-25]]
+
+^<<v40-21-25,25>>^ O batismo de João, de onde se originou? Do céu ou dos homens?”^&#42;1^ Mas eles começaram a raciocinar entre si, dizendo: “Se dissermos: ‘Do céu’, ele nos dirá: ‘Então, por que vocês não acreditaram nele?’
+
+[NOTE]
+====
+. Ou: “de origem humana”.
+====
+
+[[v40-21-26]]
+
+^<<v40-21-26,26>>^ Mas, se dissermos: ‘Dos homens’, temos a multidão para temer, porque todos eles consideram João como profeta.”
+
+[[v40-21-27]]
+
+^<<v40-21-27,27>>^ Assim, responderam a Jesus: “Não sabemos.” Ele, por sua vez, lhes disse: “Então eu também não lhes digo com que autoridade faço essas coisas.
+
+[[v40-21-28]]
+
+^<<v40-21-28,28>>^ “O que vocês acham? Um homem tinha dois filhos. Dirigindo-se ao primeiro, disse: ‘Filho, vá trabalhar hoje no vinhedo.’
+
+[[v40-21-29]]
+
+^<<v40-21-29,29>>^ Em resposta, esse lhe disse: ‘Não irei’, mas depois se arrependeu e foi.
+
+[TIP]
+====
+- *esse lhe disse*: ‘Não irei’: Em alguns manuscritos gregos, os dois filhos da ilustração de Mt 21:28-31 aparecem numa ordem diferente. (Veja a tradução em edições anteriores da Tradução do Novo Mundo.) A ideia geral é a mesma, mas um número maior de manuscritos mais antigos apoia a ordem dos eventos usada nesta revisão.
+====
+
+[[v40-21-30]]
+
+^<<v40-21-30,30>>^ Aproximando-se do segundo, o pai disse a mesma coisa. Esse respondeu: ‘Sim, senhor’, mas não foi.
+
+[[v40-21-31]]
+
+^<<v40-21-31,31>>^ Qual dos dois fez a vontade do pai?” Eles disseram: “O primeiro.” Jesus lhes disse: “Garanto a vocês que os cobradores de impostos e as prostitutas entrarão antes de vocês no Reino de Deus.
+
+[TIP]
+====
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:46.
+====
+
+[[v40-21-32]]
+
+^<<v40-21-32,32>>^ Porque João veio a vocês num caminho de justiça, mas vocês não acreditaram nele. No entanto os cobradores de impostos e as prostitutas acreditaram nele; e nem mesmo depois de verem isso vocês se arrependeram a ponto de acreditar nele.
+
+[[v40-21-33]]
+
+^<<v40-21-33,33>>^ “Ouçam outra ilustração: havia um homem, um proprietário, que plantou um vinhedo, pôs uma cerca em volta dele, cavou um lagar de vinho e ergueu uma torre; então arrendou o vinhedo a lavradores e viajou para fora.
+
+[TIP]
+====
+- *ilustração*: Ou: “parábola”. — Veja a nota de estudo em Mt 13:3.
+- *torre*: Esse tipo de torre servia de posto de observação para os vigias, a fim de proteger o vinhedo de ladrões ou animais. — Is 5:2.
+- *arrendou*: Esse era um costume bem comum em Israel nos dias de Jesus. Nessa ilustração, o homem tinha investido muito esforço no vinhedo. Assim, ele tinha bons motivos para esperar que, na época da colheita, os lavradores dessem a parte dele.
+====
+
+[[v40-21-34]]
+
+^<<v40-21-34,34>>^ Quando chegou a estação dos frutos, enviou seus escravos aos lavradores, para receber seus frutos.
+
+[[v40-21-35]]
+
+^<<v40-21-35,35>>^ No entanto, os lavradores pegaram os escravos dele, e a um espancaram, a outro mataram e a outro apedrejaram.
+
+[[v40-21-36]]
+
+^<<v40-21-36,36>>^ Enviou novamente outros escravos, em maior número do que no primeiro grupo, mas fizeram-lhes o mesmo.
+
+[[v40-21-37]]
+
+^<<v40-21-37,37>>^ Por fim enviou a eles seu filho, dizendo: ‘Respeitarão o meu filho.’
+
+[[v40-21-38]]
+
+^<<v40-21-38,38>>^ Ao verem o filho, os lavradores disseram entre si: ‘Este é o herdeiro. Venham, vamos matá-lo e ficar com a sua herança!’
+
+[[v40-21-39]]
+
+^<<v40-21-39,39>>^ Assim, eles o pegaram, o lançaram para fora do vinhedo e o mataram.
+
+[[v40-21-40]]
+
+^<<v40-21-40,40>>^ Portanto, quando o dono do vinhedo voltar, o que fará com aqueles lavradores?”
+
+[[v40-21-41]]
+
+^<<v40-21-41,41>>^ Disseram-lhe: “Por serem maus, trará sobre eles uma destruição terrível e arrendará o vinhedo a outros lavradores, que lhe darão os frutos no seu tempo devido.”
+
+[TIP]
+====
+- *uma destruição terrível*: Ou: “uma destruição cruel”. O texto grego faz aqui um jogo de palavras: ele usa duas palavras com a mesma raiz para que a mensagem de julgamento soe mais forte: “Por serem cruéis, trará sobre eles uma destruição cruel.”
+====
+
+[[v40-21-42]]
+
+^<<v40-21-42,42>>^ Jesus lhes disse: “Vocês nunca leram nas Escrituras: ‘A pedra que os construtores rejeitaram, essa se tornou a principal pedra angular. Isso procede de Jeová e é maravilhoso aos nossos olhos’?
+
+[TIP]
+====
+- *nas Escrituras*: Expressão muitas vezes usada para se referir às Escrituras Hebraicas como um todo.
+- *a principal pedra angular*: Ou: “a pedra mais importante”. A expressão hebraica que aparece no Sal 118:22 e a expressão grega usada aqui significam literalmente “a cabeça do cunhal”. Embora existam opiniões diferentes sobre o significado dessa expressão, ela aparentemente se refere à pedra que era colocada em cima da quina formada por duas paredes. Essa pedra unia firmemente as duas paredes. Jesus citou essa profecia e explicou que ele mesmo era “a principal pedra angular”. Assim como essa pedra no topo de uma construção era bem visível, Jesus seria a pedra mais destacada e importante da congregação de cristãos ungidos, que é comparada a um templo ou casa espiritual.
+- *Jeová*: Esta é uma citação direta do Sal 118:22, 23. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+[[v40-21-43]]
+
+^<<v40-21-43,43>>^ É por isso que lhes digo: O Reino de Deus será tirado de vocês e será dado a uma nação que produza os seus frutos.
+
+[[v40-21-44]]
+
+^<<v40-21-44,44>>^ Também, quem cair sobre essa pedra será despedaçado. Quanto àquele sobre quem ela cair, será esmagado.”
+
+[[v40-21-45]]
+
+^<<v40-21-45,45>>^ Quando os principais sacerdotes e os fariseus ouviram as ilustrações dele, sabiam que falava deles.
+
+[[v40-21-46]]
+
+^<<v40-21-46,46>>^ Embora quisessem prendê-lo,^&#42;1^ tinham medo das multidões, porque elas o consideravam como profeta.
+
+[NOTE]
+====
+. Ou: “pegá-lo”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-020.adoc#v40-20-0[&#60; Capítulo Anterior] | <<v40-21-0,Topo>> | xref:040-mateus/040-mateus-022.adoc#v40-22-0[Próximo Capítulo &#62;]

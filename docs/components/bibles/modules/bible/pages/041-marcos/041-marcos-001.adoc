@@ -1,0 +1,429 @@
+include::./index.adoc[]
+
+[[v41-1-0]]
+=== As Boas Novas Segundo Marcos, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* Marcos: Do latim Marcus. Marcos era o sobrenome romano do “João” mencionado em At 12:12. Sua mãe se chamava Maria. Ela já era discípula havia algum tempo e morava em Jerusalém. João Marcos era “primo de Barnabé” (Col 4:10), com quem ele viajou. Marcos também viajou com Paulo e outros dos primeiros missionários cristãos. (At 12:25; 13:5, 13; 2Ti 4:11) O escritor desse Evangelho não se identifica, mas escritos dos séculos 2 e 3 d.C. afirmam que Marcos foi o escritor.
+* As Boas Novas Segundo Marcos: Em nenhum dos Evangelhos o escritor se identifica e, pelo visto, os textos originais não tinham títulos. Em alguns manuscritos do Evangelho de Marcos, o título que aparece é: Euaggélion Katá Márkon (As Boas Novas [ou: O Evangelho] Segundo Marcos). Outros manuscritos usam um título mais curto: Katá Márkon (Segundo Marcos). Não se sabe exatamente quando os títulos começaram a ser usados ou quando foram adicionados aos manuscritos dos Evangelhos. Alguns acreditam que foi no século 2 d.C., porque existem manuscritos datados de entre o fim do século 2 d.C. e o começo do século 3 d.C. que já usavam títulos longos. Alguns estudiosos sugerem que os relatos sobre a vida de Jesus começaram a ser chamados de “Evangelhos” (que, em grego, significa literalmente “boas novas”) por causa das palavras iniciais do livro de Marcos (“Princípio das boas novas a respeito de Jesus Cristo, o Filho de Deus”). É possível que as pessoas tenham começado a usar esses títulos, que incluíam o nome do escritor, porque assim era mais fácil identificar os livros.
+****
+
+.Notas do capítulo
+****
+* A. Acontecimentos que ocorreram antes do ministério de Jesus (1:1-13)
+* Pregação de João, o Batizador (1:1-8)
+* Batismo de Jesus (1:9-11)
+* Jesus é tentado por Satanás (1:12, 13)
+* B. Começo do ministério de Jesus, principalmente ao redor do mar da Galileia (1:14–3:35)
+* Jesus começa a pregar na Galileia (1:14, 15)
+* Chama os primeiros quatro discípulos para serem pescadores de homens (1:16-20)
+* Jesus ensina na sinagoga de Cafarnaum; expulsa um espírito impuro (1:21-28)
+* Jesus cura a sogra de Pedro e muitos outros em Cafarnaum (1:29-34)
+* Jesus ora num lugar isolado (1:35-39)
+* Leproso é curado (1:40-45)
+* Jesus cura um paralítico em Cafarnaum (2:1-12)
+* Jesus chama Levi para ser seu seguidor (2:13-17)
+* Pergunta sobre o jejum (2:18-22)
+* Jesus, ‘Senhor do sábado’ (2:23-28)
+* Homem com a mão atrofiada é curado no sábado (3:1-6)
+* Grande multidão junto ao mar; muitos são curados (3:7-12)
+* Escolha dos 12 apóstolos (3:13-19)
+* Blasfêmia contra o espírito santo (3:20-30)
+* Mãe e irmãos de Jesus (3:31-35)
+****
+
+[[v41-1-1]]
+
+^<<v41-1-1,1>>^ Princípio das boas novas a respeito de Jesus Cristo, o Filho de Deus.
+
+[TIP]
+====
+- *boas novas*: Veja as notas de estudo em Mt 4:23; 24:14 e o Glossário.
+- *boas novas a respeito de Jesus Cristo*: Essa expressão grega também poderia ser traduzida como “boas novas de Jesus Cristo”, ou seja, as boas novas que Jesus pregou.
+- *o Filho de Deus*: Alguns manuscritos omitem a expressão “o Filho de Deus”, mas ela aparece num número maior de manuscritos mais antigos.
+====
+
+[[v41-1-2]]
+
+^<<v41-1-2,2>>^ Conforme está escrito em Isaías, o profeta: “(Veja! Enviarei o meu mensageiro na sua frente,^&#42;1^ o qual preparará o seu caminho.)
+
+[NOTE]
+====
+. Lit.: “à frente da sua face”.
+====
+
+[TIP]
+====
+- *Isaías, o profeta*: A citação que vem depois dessas palavras é uma combinação das profecias de Mal 3:1 e Is 40:3. As duas profecias se cumprem em João, o Batizador. O trecho entre parênteses é de Malaquias e destaca o papel de João como mensageiro. O trecho de Isaías começa no versículo 3 e chama atenção para o conteúdo da mensagem de João. A citação inteira é atribuída a Isaías, talvez porque o trecho de Isaías seja o que contém a parte principal.
+- *Veja!*: A palavra grega idoú, que às vezes é traduzida como “veja” ou “vejam”, costuma ser usada para chamar a atenção do leitor para o que vai ser dito em seguida. Ela incentiva o leitor a visualizar a cena ou a observar algum detalhe da narrativa. Também é usada para enfatizar algo ou para apresentar algo novo ou surpreendente. Nas Escrituras Gregas Cristãs, os livros de Mateus, Lucas e Apocalipse são os que mais usam essa palavra. Em hebraico existe uma expressão equivalente, e ela é usada muitas vezes nas Escrituras Hebraicas.
+====
+
+[[v41-1-3]]
+
+^<<v41-1-3,3>>^ A voz de alguém está clamando no deserto: ‘Preparem o caminho para Jeová! Endireitem as suas estradas.’”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de Is 40:3. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). (Veja o Apêndice C1.) Marcos explica que a profecia de Isaías predisse o que “João, o Batizador” (Mr 1:4) faria para preparar o caminho para Jesus, o representante de Deus. — Veja as notas de estudo em Mt 3:3; Jo 1:23.
+- *Endireitem as suas estradas*: Veja a nota de estudo em Mt 3:3.
+====
+
+[[v41-1-4]]
+
+^<<v41-1-4,4>>^ João, o Batizador, estava no deserto, pregando o batismo em símbolo de arrependimento para o perdão de pecados.
+
+[TIP]
+====
+- *o Batizador*: Ou: “o Imersor; o Mergulhador”. A palavra traduzida como “Batizador” aqui e em Mr 6:​14, 24 é um verbo grego no particípio. Essa forma do verbo também poderia ser traduzida como “aquele que batiza”. Ela é um pouco diferente do substantivo grego Baptistés, que foi traduzido como “Batista” em Mr 6:​25; 8:​28, em Mateus e em Lucas. Tanto “Batizador” como “Batista” são usados para se referir a João em Mr 6:​24, 25. — Veja a nota de estudo em Mt 3:1.
+- *no deserto*: Ou seja, no deserto da Judeia. — Veja a nota de estudo em Mt 3:1.
+- *batismo em símbolo de arrependimento*: Lit.: “batismo de arrependimento”. O batismo realizado por João não lavava, ou eliminava, os pecados daquelas pessoas. Em vez disso, servia como demonstração pública de que elas estavam arrependidas dos pecados que tinham cometido contra a Lei e que estavam decididas a mudar seu modo de agir. Esse arrependimento ajudou a conduzir aquelas pessoas ao Cristo. (Gál 3:​24) Assim o trabalho de João estava preparando um povo para ver, ou reconhecer, “a salvação” que Deus tinha providenciado. — Lu 3:​3-6; veja as notas de estudo em Mt 3:​2, 8, 11 e o Glossário, “Batismo; Batizar”; “Arrependimento”.
+====
+
+[[v41-1-5]]
+
+^<<v41-1-5,5>>^ E todo o território da Judeia e todos os habitantes de Jerusalém iam ao encontro dele e eram batizados por ele no rio Jordão, confessando abertamente os seus pecados.
+
+[TIP]
+====
+- *todo o território . . . todos os habitantes*: As palavras “todo” e “todos” são uma hipérbole para enfatizar que muitas pessoas deram atenção à pregação de João. Não quer dizer que todos os habitantes da Judeia ou de Jerusalém realmente foram vê-lo.
+- *batizados*: Ou “imersos; mergulhados”. — Veja a nota de estudo em Mt 3:​11 e o Glossário, “Batismo; Batizar”.
+- *confessando abertamente os seus pecados*: Veja a nota de estudo em Mt 3:6.
+====
+
+[[v41-1-6]]
+
+^<<v41-1-6,6>>^ João usava roupa de pelo de camelo e um cinto de couro na cintura, e comia gafanhotos e mel silvestre.
+
+[TIP]
+====
+- *roupa de pelo de camelo*: Veja a nota de estudo em Mt 3:4.
+- *gafanhotos*: Veja a nota de estudo em Mt 3:4.
+- *mel silvestre*: Veja a nota de estudo em Mt 3:4.
+====
+
+[[v41-1-7]]
+
+^<<v41-1-7,7>>^ Ele pregava: “Alguém mais forte do que eu vem depois de mim, e não sou digno de me abaixar e desamarrar o cordão das suas sandálias.
+
+[TIP]
+====
+- *mais forte*: Veja a nota de estudo em Mt 3:​11.
+- *sandálias*: Veja a nota de estudo em Mt 3:​11.
+====
+
+[[v41-1-8]]
+
+^<<v41-1-8,8>>^ Eu batizei vocês com água, mas ele os batizará com espírito santo.”
+
+[TIP]
+====
+- *batizei vocês*: Ou: “mergulhei vocês”. — Veja a nota de estudo em Mt 3:​11 e o Glossário, “Batismo; Batizar”.
+- *os batizará com espírito santo*: Ou: “mergulhará vocês na santa força ativa”. João anunciou aqui que Jesus realizaria um novo tipo de batismo, o batismo com espírito santo. Os que são batizados com espírito santo se tornam filhos de Deus gerados por espírito e passam a ter a esperança de viver no céu e reinar sobre a terra. — Ap 5:​9, 10.
+====
+
+[[v41-1-9]]
+
+^<<v41-1-9,9>>^ No decorrer daqueles dias, Jesus chegou de Nazaré, da Galileia, e foi batizado por João no Jordão.
+
+[TIP]
+====
+- *daqueles dias*: De acordo com Lu 3:​1-3, João, o Batizador, começou seu ministério “no décimo quinto ano do reinado de Tibério César”, ou seja, por volta de abril de 29 d.C. (Veja a nota de estudo em Lu 3:1.) Cerca de seis meses depois, por volta de outubro de 29 d.C., Jesus foi até João para ser batizado por ele. — Veja o Apêndice A7-B.
+====
+
+[[v41-1-10]]
+
+^<<v41-1-10,10>>^ Imediatamente, ao sair da água, viu os céus se abrindo e o espírito descer como pomba sobre ele.
+
+[TIP]
+====
+- *Imediatamente*: Esta é a primeira das 11 ocorrências da palavra grega euthýs no capítulo 1 de Marcos. (Mr 1:​10, 12, 18, 20, 21, 23, 28, 29, 30, 42, 43) Essa palavra grega é traduzida de várias formas dependendo do contexto, incluindo “imediatamente; sem demora; assim que; logo”. O fato de Marcos usar essa palavra muitas vezes — mais de 40 vezes no seu Evangelho — dá mais vida ao seu relato e o torna dinâmico.
+- *viu*: Pelo visto, se refere a Jesus. Conforme Jo 1:​32, 33, João, o Batizador, também viu a mesma coisa. Mas o relato de Marcos parece descrever o que aconteceu do ponto de vista de Jesus.
+- *os céus*: Veja a nota de estudo em Mt 3:16.
+- *os céus se abrindo*: Parece que nesse momento Jeová fez com que Jesus se lembrasse das verdades que tinha aprendido com seu Pai enquanto ainda estava nos céus. Talvez Jeová também tenha permitido que ele se lembrasse de detalhes da vida que tinha tido antes de vir para a Terra. As coisas que Jesus falou a partir de seu batismo, especialmente na oração em que ele abriu o coração para seu Pai na noite da Páscoa de 33 d.C., mostram que ele sabia de sua vida anterior nos céus. Essa oração também mostra que Jesus se lembrava de coisas que tinha ouvido de seu Pai, do que viu seu Pai fazer e da glória que tinha tido nos céus. (Jo 6:46; 7:28, 29; 8:26, 28, 38; 14:2; 17:5) Pode ser que, quando Jesus foi batizado e ungido, Jeová tenha feito com que ele se lembrasse de todas essas coisas.
+- *como pomba*: As pombas eram usadas na adoração a Deus. Elas podiam ser oferecidas como sacrifício. (Mr 11:15; Jo 2:14-16) Também serviam para simbolizar inocência e pureza. (Mt 10:16) A pomba que Noé soltou da arca trouxe de volta uma folha de oliveira. Isso indicava que as águas do Dilúvio estavam baixando (Gên 8:11) e que a Terra estava entrando num período de paz e descanso (Gên 5:29). É possível que Jeová tenha usado a pomba no batismo de Jesus para deixar claro que ele era o Messias, o Filho de Deus puro e sem pecado que daria a vida pela humanidade e traria um período de paz e descanso quando fosse Rei. O modo como o espírito de Deus, ou sua força ativa, desceu sobre Jesus pode ter lembrado uma pomba batendo rapidamente suas asas ao se aproximar de seu ninho.
+- *sobre ele*: Ou: “para dentro dele”, ou seja, para entrar nele.
+====
+
+[[v41-1-11]]
+
+^<<v41-1-11,11>>^ E uma voz saiu dos céus: “Você é meu Filho, o amado; eu o aprovo.”
+
+[TIP]
+====
+- *uma voz saiu dos céus*: Esta é a primeira das três vezes em que os Evangelhos relatam que Jeová falou diretamente com humanos. — Veja as notas de estudo em Mr 9:7; Jo 12:28.
+- *Você é meu Filho*: Enquanto vivia no céu, Jesus já era o Filho de Deus. (Jo 3:16) E, quando nasceu como humano, Jesus era um “filho de Deus”, assim como Adão era antes de pecar. (Lu 1:35; 3:38) Mas parece razoável concluir que aqui, quando Jeová disse “você é meu Filho”, ele não estava apenas confirmando quem Jesus era. Pelo visto, o fato de Jeová ter dito essas palavras enquanto derramava o espírito santo indicava que Jesus tinha se tornado seu Filho gerado por espírito. Naquele momento, Jesus ‘nasceu de novo’ com a esperança de voltar a viver no céu e foi ungido, ou escolhido, para ser Rei e Sumo Sacerdote. — Jo 3:3-6; 6:51; veja também Lu 1:31-33; He 2:17; 5:1, 4-10; 7:1-3.
+- *eu o aprovo*: Ou: “você me agrada muito; você me dá muita alegria”. A mesma expressão é usada em Mt 12:18, que cita a profecia de Is 42:1 sobre o Messias, ou Cristo. Quando falou que aprovava seu Filho e o ungiu com espírito santo, Jeová deixou bem claro que Jesus era o Messias prometido. — Veja as notas de estudo em Mt 3:​17; 12:18.
+====
+
+[[v41-1-12]]
+
+^<<v41-1-12,12>>^ E o espírito o impeliu imediatamente a ir ao deserto.
+
+[TIP]
+====
+- *o espírito o impeliu . . . a ir*: Ou: “a força ativa o fez ir”. A palavra grega pneúma se refere aqui ao espírito de Deus, que pode atuar como uma força que impele ou motiva a pessoa a fazer as coisas de acordo com a vontade de Deus. — Lu 4:1; veja o Glossário, “Espírito”.
+====
+
+[[v41-1-13]]
+
+^<<v41-1-13,13>>^ Assim, ele ficou no deserto por 40 dias, e foi tentado por Satanás. Ele estava com os animais selvagens, mas os anjos o serviam.
+
+[TIP]
+====
+- *Satanás*: Veja a nota de estudo em Mt 4:​10.
+- *os animais selvagens*: Na época de Jesus, havia muito mais animais selvagens naquela região do que há hoje. O deserto era o habitat de hienas, javalis, leões, leopardos e lobos. Marcos é o único dos escritores dos Evangelhos que diz que havia animais selvagens naquela região. Pelo visto, ele escreveu pensando principalmente nos leitores não judeus, incluindo romanos e outros que talvez não conhecessem bem a geografia de Israel.
+====
+
+[[v41-1-14]]
+
+^<<v41-1-14,14>>^ Então, depois de João ter sido preso, Jesus entrou na Galileia, pregando as boas novas de Deus
+
+[[v41-1-15]]
+
+^<<v41-1-15,15>>^ e dizendo: “Chegou o tempo determinado, e o Reino de Deus está próximo. Arrependam-se e tenham fé nas boas novas.”
+
+[TIP]
+====
+- *Chegou o tempo determinado*: Neste contexto, o “tempo determinado” (em grego, kairós) se refere ao tempo predito nas Escrituras para Jesus começar seu ministério na Terra, dando às pessoas a oportunidade de ter fé nas boas novas. A mesma palavra grega é usada para se referir ao “tempo” de inspeção que chegou com o ministério de Jesus (Lu 12:56; 19:44) e ao “tempo determinado” da sua morte. — Mt 26:18.
+- *o Reino de Deus*: A expressão “Reino de Deus” ocorre 14 vezes no Evangelho de Marcos. Mateus só usa essa expressão quatro vezes. (Mt 12:28; 19:24; 21:31; 21:43) Mas Mateus usa umas 30 vezes a expressão paralela “Reino dos céus”. (Compare Mr 10:23 com Mt 19:23, 24.) O Reino era o tema da pregação de Jesus. (Lu 4:​43) Os quatro Evangelhos mencionam o Reino mais de 100 vezes, a maioria delas em frases ditas por Jesus. — Veja as notas de estudo em Mt 3:2; 4:​17; 25:34.
+====
+
+[[v41-1-16]]
+
+^<<v41-1-16,16>>^ Enquanto andava à beira do mar da Galileia, ele viu Simão e André, irmão de Simão, lançando suas redes no mar, pois eram pescadores.
+
+[TIP]
+====
+- *mar da Galileia*: Veja a nota de estudo em Mt 4:​18.
+- *lançando suas redes*: Veja a nota de estudo em Mt 4:18.
+- *pescadores*: Veja a nota de estudo em Mt 4:18.
+====
+
+[[v41-1-17]]
+
+^<<v41-1-17,17>>^ De modo que Jesus lhes disse: “Sigam-me, e eu farei de vocês pescadores de homens.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “pessoas”.
+====
+
+[TIP]
+====
+- *pescadores de homens*: Veja a nota de estudo em Mt 4:​19.
+====
+
+[[v41-1-18]]
+
+^<<v41-1-18,18>>^ E eles abandonaram imediatamente as suas redes e o seguiram.
+
+[TIP]
+====
+- *o seguiram*: Veja a nota de estudo em Mt 4:20.
+====
+
+[[v41-1-19]]
+
+^<<v41-1-19,19>>^ Depois de ir um pouco mais à frente, ele viu Tiago, filho de Zebedeu, e seu irmão João, enquanto estavam no seu barco consertando as suas redes,
+
+[TIP]
+====
+- *Tiago . . . e seu irmão João*: Veja a nota de estudo em Mt 4:​21.
+- *Zebedeu*: Veja a nota de estudo em Mt 4:21.
+====
+
+[[v41-1-20]]
+
+^<<v41-1-20,20>>^ e sem demora ele os chamou. Então eles deixaram seu pai, Zebedeu, no barco com os empregados e o seguiram.
+
+[TIP]
+====
+- *com os empregados*: Apenas Marcos menciona que o negócio de pesca de Zebedeu e seus filhos tinha “empregados”. Pedro, que pelo visto era sócio deles e presenciou a maior parte dos acontecimentos que Marcos registrou, pode ter passado para Marcos essa informação. (Lu 5:​5-​11; veja também a “Introdução a Marcos”.) Além de Zebedeu e seus filhos terem empregados, de acordo com o relato de Lucas, eles tinham mais de um barco. Isso indica que o negócio deles estava indo bem. — Veja a nota de estudo em Mt 4:​18.
+====
+
+[[v41-1-21]]
+
+^<<v41-1-21,21>>^ E entraram em Cafarnaum.
+Assim que chegou o sábado, ele entrou na sinagoga e começou a ensinar.
+
+[TIP]
+====
+- *Cafarnaum*: Veja a nota de estudo em Mt 4:​13.
+- *sinagoga*: Veja o Glossário.
+====
+
+[[v41-1-22]]
+
+^<<v41-1-22,22>>^ E as pessoas ficaram maravilhadas com o seu modo de ensinar, pois ele as ensinava como quem tinha autoridade, e não como os escribas.
+
+[TIP]
+====
+- *seu modo de ensinar*: Essa expressão, que também pode ser traduzida como “seus ensinos”, se refere não apenas ao modo como Jesus ensinou, mas também às coisas que ele ensinou.
+- *não como os escribas*: Os escribas tinham o costume de citar rabinos respeitados para apoiar seus ensinos. Mas Jesus citava a Palavra de Deus quando ensinava. Ele falava como um representante de Jeová e, por isso, ensinava como quem tinha autoridade. — Jo 7:​16.
+====
+
+[[v41-1-23]]
+
+^<<v41-1-23,23>>^ Naquele momento havia na sinagoga deles um homem sob o poder de um espírito impuro, e ele gritou:
+
+[TIP]
+====
+- *um espírito impuro*: Marcos usa essa expressão e a palavra “demônio” como sinônimos. (Compare Mr 1:​23, 26, 27 com 1:​34, 39 e também Mr 3:​11, 30 com 3:​15, 22.) Essa expressão destaca a impureza moral e espiritual dos demônios e a má influência deles sobre os humanos.
+- *ele gritou*: Quando o homem gritou as palavras registradas no versículo 24, Jesus censurou o espírito impuro, não o homem, já que era o espírito quem estava por trás daquelas palavras. — Mr 1:​25; Lu 4:​35.
+====
+
+[[v41-1-24]]
+
+^<<v41-1-24,24>>^ “O que você quer conosco, Jesus Nazareno? Veio nos destruir? Eu sei exatamente quem você é: o Santo de Deus!”
+
+[TIP]
+====
+- *O que você quer conosco, . . . ?*: Veja a nota de estudo em Mt 8:​29.
+- *conosco . . . Eu*: Visto que o versículo 23 só menciona um espírito impuro, esse espírito impuro deve ter usado o plural “conosco” para se referir aos demônios em geral e o singular “eu” para se referir apenas a si mesmo.
+====
+
+[[v41-1-25]]
+
+^<<v41-1-25,25>>^ Mas Jesus o censurou, dizendo: “Cale-se e saia dele!”
+
+[TIP]
+====
+- *Cale-se*: Lit.: “Seja amordaçado”. Aquele espírito impuro sabia que Jesus era o Cristo, ou Messias, e o chamou de “o Santo de Deus” no versículo 24. Mas Jesus não permitia que os demônios dessem testemunho sobre ele. — Mr 1:​34; 3:​11, 12.
+====
+
+[[v41-1-26]]
+
+^<<v41-1-26,26>>^ E o espírito impuro, depois de lançar o homem em convulsão e gritar ao máximo da sua voz, saiu dele.
+
+[[v41-1-27]]
+
+^<<v41-1-27,27>>^ Pois bem, todos ficaram tão pasmados que começaram a discutir o que tinha acontecido, dizendo: “O que é isso? Um novo ensinamento! Ele dá ordens com autoridade até mesmo a espíritos impuros, e eles lhe obedecem.”
+
+[[v41-1-28]]
+
+^<<v41-1-28,28>>^ De modo que o relato sobre ele se espalhou rapidamente em todas as direções, por toda a região da Galileia.
+
+[[v41-1-29]]
+
+^<<v41-1-29,29>>^ Depois saíram da sinagoga e foram à casa de Simão e André, com Tiago e João.
+
+[[v41-1-30]]
+
+^<<v41-1-30,30>>^ A sogra de Simão estava de cama, com febre, e falaram dela a Jesus imediatamente.
+
+[TIP]
+====
+- *sogra de Simão*: Veja a nota de estudo em Lu 4:38.
+- *com febre*: Veja a nota de estudo em Lu 4:38.
+====
+
+[[v41-1-31]]
+
+^<<v41-1-31,31>>^ Ele se dirigiu a ela, pegou-a pela mão e a levantou. A febre a deixou, e ela começou a servi-los.
+
+[[v41-1-32]]
+
+^<<v41-1-32,32>>^ Ao anoitecer, após o pôr do sol, as pessoas levaram a ele todos os doentes e os possessos de demônios;
+
+[TIP]
+====
+- *após o pôr do sol*: O sábado judaico terminava no pôr do sol. (Le 23:32; Mr 1:​21; veja as notas de estudo em Mt 8:​16; 26:20.) Depois desse horário, todos os judeus podiam levar seus doentes para ser curados, sem medo de serem repreendidos por outros. — Veja também Mr 2:​1-5; Lu 4:​31-​40.
+- *os doentes e os possessos de demônios*: Às vezes os demônios causavam problemas físicos nas pessoas que eles controlavam. (Mt 12:22; 17:15-​18) Nesses casos, a Bíblia deixa claro que a causa daqueles problemas de saúde eram os demônios e não uma doença. Mas Jesus curava as pessoas qualquer que fosse a causa do sofrimento delas. — Mt 4:​24; 8:​16; Mr 1:​34.
+====
+
+[[v41-1-33]]
+
+^<<v41-1-33,33>>^ e a cidade toda estava reunida na frente da porta.
+
+[TIP]
+====
+- *a cidade toda*: A palavra “toda” provavelmente é usada aqui como uma hipérbole, da mesma forma que as palavras “todo” e “todos” em Mr 1:5. É uma maneira bem expressiva de falar de um grande número de pessoas.
+====
+
+[[v41-1-34]]
+
+^<<v41-1-34,34>>^ Assim, ele curou a muitos que sofriam de várias doenças e expulsou muitos demônios, mas não deixava os demônios falar, pois sabiam que ele era Cristo.
+
+[TIP]
+====
+- *sabiam que ele era Cristo*: Alguns manuscritos gregos dizem “eles o conheciam”, o que poderia ser traduzido como “eles sabiam quem ele era”. O relato paralelo em Lu 4:​41 diz: “Sabiam que ele era o Cristo.”
+====
+
+[[v41-1-35]]
+
+^<<v41-1-35,35>>^ De manhã cedo, quando ainda estava escuro, ele se levantou, saiu e foi para um lugar isolado, e ali começou a orar.
+
+[[v41-1-36]]
+
+^<<v41-1-36,36>>^ No entanto, Simão e os que estavam com ele foram à sua procura.
+
+[[v41-1-37]]
+
+^<<v41-1-37,37>>^ Ao encontrá-lo, disseram-lhe: “Todos estão procurando o senhor.”
+
+[TIP]
+====
+- *Todos*: Sem dúvida uma hipérbole para enfatizar que muitas pessoas estavam procurando Jesus.
+====
+
+[[v41-1-38]]
+
+^<<v41-1-38,38>>^ Mas ele lhes disse: “Vamos a outro lugar, às cidades vizinhas, para que eu também pregue ali, pois foi por isso que vim.”
+
+[[v41-1-39]]
+
+^<<v41-1-39,39>>^ E ele foi, pregando nas sinagogas deles, em toda a Galileia, e expulsando os demônios.
+
+[TIP]
+====
+- *pregando . . . em toda a Galileia*: Essa ocasião marca o começo da primeira viagem de pregação de Jesus pela Galileia com os quatro discípulos que ele tinha acabado de escolher — Pedro, André, Tiago e João. — Mr 1:​16-​20; veja o Apêndice A7-C.
+====
+
+[[v41-1-40]]
+
+^<<v41-1-40,40>>^ Aproximou-se dele também um leproso, suplicando-lhe até de joelhos: “Se o senhor apenas quiser, pode me purificar.”
+
+[TIP]
+====
+- *um leproso*: Veja a nota de estudo em Mt 8:2 e o Glossário, “Lepra; Leproso”.
+- *de joelhos*: No Antigo Oriente Próximo, as pessoas se ajoelhavam para mostrar respeito, principalmente se estivessem fazendo um pedido a alguém com mais autoridade. Marcos é o único escritor dos Evangelhos que diz especificamente que o leproso se ajoelhou.
+====
+
+[[v41-1-41]]
+
+^<<v41-1-41,41>>^ Em vista disso, ele teve pena; e estendeu a mão, tocou no homem e lhe disse: “Eu quero! Seja purificado.”
+
+[TIP]
+====
+- *teve pena*: Ou: “teve compaixão”. (Veja a nota de estudo em Mt 9:​36.) Algumas traduções modernas da Bíblia dizem que Jesus ficou irritado ou que “ficou cheio de ira”. Mas a maioria dos manuscritos bem antigos, incluindo os mais antigos e mais confiáveis, diz “teve pena (compaixão)”. Além disso, o contexto indica que Jesus agiu motivado por compaixão, não por raiva.
+- *tocou no homem*: Veja a nota de estudo em Mt 8:3.
+- *Eu quero*: Veja a nota de estudo em Mt 8:3.
+====
+
+[[v41-1-42]]
+
+^<<v41-1-42,42>>^ Imediatamente a lepra desapareceu dele, e ele ficou purificado.
+
+[[v41-1-43]]
+
+^<<v41-1-43,43>>^ Então Jesus o mandou logo embora, depois de lhe ordenar com firmeza:
+
+[[v41-1-44]]
+
+^<<v41-1-44,44>>^ “Tenha o cuidado de não contar nada a ninguém, mas vá, mostre-se ao sacerdote e ofereça pela sua purificação o que Moisés determinou, em testemunho para eles.”
+
+[TIP]
+====
+- *não contar nada a ninguém*: Jesus provavelmente deu essa ordem porque não queria glória para si mesmo. Ele não queria fazer nada que desviasse a atenção das pessoas de Jeová Deus e das boas novas do Reino. Agindo assim, ele cumpriu a profecia de Is 42:​1, 2, que diz que o servo de Jeová ‘não faria que sua voz fosse ouvida na rua’, ou seja, não tentaria chamar atenção. (Mt 12:15-​19) A atitude humilde de Jesus era muito diferente da atitude orgulhosa daqueles hipócritas que oravam “nas esquinas das ruas principais, para serem vistos pelos homens”. (Mt 6:5) Parece que Jesus queria que as pessoas chegassem à conclusão de que ele era o Cristo com base em provas concretas, não em relatos sensacionalistas de seus milagres.
+- *mostre-se ao sacerdote*: De acordo com a Lei mosaica, quando um leproso achava que estava curado, um sacerdote precisava examiná-lo para confirmar isso. Além disso, o leproso tinha que ir até o templo e apresentar como oferta o que Moisés determinou, conforme descrito em Le 14:​2-​32.
+====
+
+[[v41-1-45]]
+
+^<<v41-1-45,45>>^ Mas, depois de se afastar, o homem começou a proclamar e a divulgar amplamente o acontecido, de modo que Jesus não podia mais entrar abertamente numa cidade, mas ficava fora, em lugares isolados. Contudo, as pessoas continuavam a vir a ele de todas as partes.
+
+'''
+
+xref:040-mateus/040-mateus-028.adoc#v40-28-0[&#60; Capítulo Anterior] | <<v41-1-0,Topo>> | xref:041-marcos/041-marcos-002.adoc#v41-2-0[Próximo Capítulo &#62;]

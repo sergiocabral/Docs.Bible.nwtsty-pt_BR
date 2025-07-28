@@ -1,0 +1,443 @@
+include::./index.adoc[]
+
+[[v43-6-0]]
+=== As Boas Novas Segundo João, 6
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Da época da Páscoa de 32 d.C. em diante (6:1–7:1)
+* Jesus alimenta cerca de 5.000 homens no mar da Galileia (6:1-13)
+* Jesus se retira quando o povo tenta fazer dele um rei (6:14, 15)
+* Jesus anda sobre a água (6:16-21)
+* Jesus diz para as pessoas trabalharem pelo alimento que permanece para a vida eterna (6:22-27)
+* Jesus é “o pão da vida” (6:28-59)
+* Muitos discípulos tropeçam por causa das palavras de Jesus, mas Pedro reconhece que Jesus é “o Santo de Deus” (6:60–7:1)
+****
+
+[[v43-6-1]]
+
+^<<v43-6-1,1>>^ Depois disso, Jesus partiu para o outro lado do mar da Galileia, ou de Tiberíades.
+
+[TIP]
+====
+- *do mar da Galileia, ou de Tiberíades*: O mar da Galileia era, às vezes, chamado de mar de Tiberíades, por causa da cidade com o mesmo nome que ficava em sua margem oeste. (Jo 6:23) A cidade recebeu esse nome em homenagem ao imperador romano Tibério César. O mar da Galileia é chamado de mar de Tiberíades neste versículo e em Jo 21:1. — Veja a nota de estudo em Mt 4:18.
+====
+
+[[v43-6-2]]
+
+^<<v43-6-2,2>>^ E uma grande multidão o seguia, porque observavam os sinais milagrosos que ele realizava, curando os doentes.
+
+[[v43-6-3]]
+
+^<<v43-6-3,3>>^ Assim, Jesus subiu a um monte e sentou ali com os seus discípulos.
+
+[[v43-6-4]]
+
+^<<v43-6-4,4>>^ Aproximava-se a Páscoa, a festividade dos judeus.
+
+[TIP]
+====
+- *a Páscoa*: Pelo visto, se refere à Páscoa de 32 d.C., a terceira Páscoa celebrada durante o ministério de Jesus. — Veja as notas de estudo em Jo 2:13; 5:1; 11:55 e o Apêndice A7-D.
+====
+
+[[v43-6-5]]
+
+^<<v43-6-5,5>>^ Quando Jesus levantou os olhos e viu que uma grande multidão se aproximava dele, perguntou a Filipe: “Onde vamos comprar pão para eles comerem?”
+
+[TIP]
+====
+- *Onde vamos comprar pão para eles comerem?*: O milagre de Jesus descrito a seguir é o único que foi registrado por todos os escritores dos Evangelhos. — Mt 14:15-21; Mr 6:35-44; Lu 9:10-17; Jo 6:1-13.
+====
+
+[[v43-6-6]]
+
+^<<v43-6-6,6>>^ No entanto, dizia isso para testá-lo, pois ele sabia o que ia fazer.
+
+[[v43-6-7]]
+
+^<<v43-6-7,7>>^ Filipe lhe respondeu: “Pães no valor de 200 denários não são suficientes nem para que cada um coma um pouco.”
+
+[TIP]
+====
+- *denários*: Veja o Glossário e o Apêndice B14-B.
+====
+
+[[v43-6-8]]
+
+^<<v43-6-8,8>>^ Um dos seus discípulos, André, que era irmão de Simão Pedro, lhe disse:
+
+[[v43-6-9]]
+
+^<<v43-6-9,9>>^ “Há aqui um menino que tem cinco pães de cevada e dois peixinhos. Mas o que é isso para tanta gente?”
+
+[[v43-6-10]]
+
+^<<v43-6-10,10>>^ Jesus disse: “Mandem as pessoas se sentar.” Havia muita grama naquele lugar; assim, cerca de 5.000 homens se sentaram ali.
+
+[TIP]
+====
+- *Mandem as pessoas se sentar*: Ou: “Mandem as pessoas se recostar”. A palavra grega traduzida aqui como “pessoas” é uma forma da palavra ánthropos, que muitas vezes se refere tanto a homens como a mulheres. Já a palavra grega que foi traduzida neste versículo como “homens” é uma forma da palavra anér. O relato paralelo em Mt 14:21 mostra que aqui anér se refere apenas aos homens adultos que estavam presentes. — Veja a nota de estudo em Mt 14:21.
+- *cerca de 5.000 homens se sentaram ali*: Todos os escritores dos Evangelhos relatam este milagre, mas apenas Mateus acrescenta as palavras “além de mulheres e crianças”. (Mt 14:21) É possível que Jesus tenha alimentado de modo milagroso bem mais de 15.000 pessoas.
+====
+
+[[v43-6-11]]
+
+^<<v43-6-11,11>>^ Jesus pegou os pães e, depois de dar graças, distribuiu-os aos que estavam sentados ali; fez o mesmo com os peixinhos, e eles comeram tanto quanto quiseram.
+
+[[v43-6-12]]
+
+^<<v43-6-12,12>>^ Mas, quando ficaram satisfeitos, ele disse aos seus discípulos: “Juntem os pedaços que sobraram, para que nada se desperdice.”
+
+[[v43-6-13]]
+
+^<<v43-6-13,13>>^ Portanto, eles juntaram os pedaços e encheram 12 cestos com as sobras deixadas pelas pessoas que haviam comido dos cinco pães de cevada.
+
+[[v43-6-14]]
+
+^<<v43-6-14,14>>^ Quando o povo viu o sinal que ele realizou, começaram a dizer: “Este é realmente o Profeta que devia vir ao mundo.”
+
+[TIP]
+====
+- *o Profeta*: Muitos judeus do século 1 d.C. achavam que a profecia em De 18:15, 18, sobre um profeta semelhante a Moisés, se referia ao Messias. Neste contexto, a expressão vir ao mundo parece se referir ao aparecimento do Messias, algo que os judeus estavam aguardando. João é o único escritor dos Evangelhos que registra o que o povo disse sobre Jesus. — Veja a nota de estudo em Jo 1:9.
+====
+
+[[v43-6-15]]
+
+^<<v43-6-15,15>>^ Então Jesus, sabendo que estavam para vir pegá-lo a fim de fazê-lo rei, retirou-se novamente para o monte, sozinho.
+
+[TIP]
+====
+- *a fim de fazê-lo rei*: João é o único escritor dos Evangelhos que registra este acontecimento. Jesus se recusou a se envolver na política de sua nação. Ele só aceitaria ser rei da maneira que Deus queria e no tempo que Deus tinha determinado. Mais tarde, Jesus deixou claro que seus seguidores também não deveriam se envolver na política. — Jo 15:19; 17:14, 16; 18:36.
+====
+
+[[v43-6-16]]
+
+^<<v43-6-16,16>>^ Quando caiu a noite, seus discípulos desceram para o mar,
+
+[[v43-6-17]]
+
+^<<v43-6-17,17>>^ entraram num barco e partiram, atravessando o mar rumo a Cafarnaum. Já havia escurecido, e Jesus ainda não tinha ido ao encontro deles.
+
+[TIP]
+====
+- *o mar*: Ou seja, o mar da Galileia. — Veja as notas de estudo em Mt 4:18; Jo 6:1.
+====
+
+[[v43-6-18]]
+
+^<<v43-6-18,18>>^ E o mar estava ficando agitado, porque soprava um vento forte.
+
+[[v43-6-19]]
+
+^<<v43-6-19,19>>^ No entanto, depois de remarem uns cinco ou seis quilômetros, viram Jesus andando sobre o mar e se aproximando do barco, e ficaram com medo.
+
+[TIP]
+====
+- *uns cinco ou seis quilômetros*: Lit.: “uns 25 ou 30 estádios”. Um estádio (em grego, stádion) equivalia a um oitavo de 1 milha romana, ou seja, a 185 metros. Visto que o mar da Galileia tem cerca de 12 quilômetros de largura, os discípulos talvez estivessem bem no meio dele. — Mr 6:47; veja a nota de estudo em Mt 4:18 e os Apêndices A7-D e B14-A.
+====
+
+[[v43-6-20]]
+
+^<<v43-6-20,20>>^ Mas ele lhes disse: “Sou eu; não tenham medo!”
+
+[[v43-6-21]]
+
+^<<v43-6-21,21>>^ Então eles resolveram recebê-lo no barco, e o barco logo chegou à terra para onde estavam indo.
+
+[[v43-6-22]]
+
+^<<v43-6-22,22>>^ No dia seguinte, a multidão que tinha ficado do outro lado do mar percebeu que ali não havia nenhum barco. Um pequeno barco havia estado ali, mas Jesus não tinha entrado naquele barco com seus discípulos, porque os discípulos tinham partido sozinhos.
+
+[[v43-6-23]]
+
+^<<v43-6-23,23>>^ No entanto, barcos de Tiberíades chegaram perto do lugar onde eles haviam comido os pães depois de o Senhor ter dado graças.
+
+[TIP]
+====
+- *Tiberíades*: Uma cidade que ficava na margem oeste do mar da Galileia, uns 15 quilômetros ao sul de Cafarnaum. Logo ao sul de Tiberíades, havia algumas fontes termais famosas nos tempos antigos. A cidade foi construída por Herodes Antipas em algum momento entre 18 d.C. e 26 d.C. para servir como capital de seu governo e local de sua residência. Ele deu esse nome para a cidade em homenagem a Tibério Cesar, que na época era o imperador romano. A cidade ainda é chamada de Tiberíades (em hebraico, Teverya). Ela era a maior cidade da região, mas esta é a única vez que ela é mencionada nas Escrituras. Não há registro bíblico de que Jesus tenha visitado Tiberíades, e é possível que ele realmente não tenha feito isso, talvez por causa do grande número de não judeus que viviam ali. (Compare com Mt 10:5-7.) De acordo com Josefo, a cidade foi construída em um local cheio de sepulturas e, por isso, muitos judeus não queriam morar ali. (Núm 19:11-14) Depois da revolta dos judeus no século 2 d.C., eles declararam que Tiberíades estava purificada. A cidade passou a ser então o principal centro de estudos dos judeus, além de se tornar o local onde o Sinédrio se reunia. Foi em Tiberíades que a Mishná e o Talmude Palestino (ou Talmude de Jerusalém) foram produzidos. Foi ali também que foi produzido o texto massorético das Escrituras Hebraicas que mais tarde foi usado para traduzi-las para outras línguas. — Veja o Apêndice B10.
+====
+
+[[v43-6-24]]
+
+^<<v43-6-24,24>>^ Então, quando a multidão viu que nem Jesus nem seus discípulos estavam ali, entraram nos seus barcos e foram a Cafarnaum, para procurar Jesus.
+
+[[v43-6-25]]
+
+^<<v43-6-25,25>>^ Ao acharem Jesus do outro lado do mar, disseram-lhe: “Rabi, quando o senhor chegou aqui?”
+
+[[v43-6-26]]
+
+^<<v43-6-26,26>>^ Jesus lhes respondeu: “Digo-lhes com toda a certeza: Vocês estão me procurando, não porque viram sinais, mas porque comeram dos pães e ficaram satisfeitos.
+
+[[v43-6-27]]
+
+^<<v43-6-27,27>>^ Trabalhem, não pelo alimento que perece, mas pelo alimento que permanece para a vida eterna, que o Filho do Homem lhes dará; pois o Pai, o próprio Deus, colocou nele o seu selo de aprovação.”
+
+[TIP]
+====
+- *alimento que perece . . . alimento que permanece para a vida eterna*: Jesus sabia que algumas das pessoas que estavam se associando com ele e com seus discípulos estavam pensando apenas no que podiam ganhar em sentido material. É verdade que o alimento físico sustenta a vida do ser humano por um tempo, mas apenas o “alimento” espiritual que vem da Palavra de Deus é capaz de dar vida eterna. Jesus incentivou a multidão a trabalhar . . . pelo “alimento que permanece para a vida eterna”. Em outras palavras, eles deveriam se esforçar para satisfazer sua necessidade espiritual e para exercer fé nas coisas que aprendessem. — Mt 4:4; 5:3; Jo 6:28-39.
+====
+
+[[v43-6-28]]
+
+^<<v43-6-28,28>>^ Então lhe perguntaram: “O que devemos fazer para realizar as obras de Deus?”
+
+[[v43-6-29]]
+
+^<<v43-6-29,29>>^ Jesus lhes respondeu: “Esta é a obra de Deus: que vocês exerçam fé naquele que ele enviou.”
+
+[[v43-6-30]]
+
+^<<v43-6-30,30>>^ Disseram-lhe então: “Que sinal o senhor realizará, para que possamos ver e acreditar no senhor? Que obra o senhor fará?
+
+[[v43-6-31]]
+
+^<<v43-6-31,31>>^ Nossos antepassados comeram o maná no deserto, assim como está escrito: ‘Ele lhes deu pão do céu para comer.’”
+
+[TIP]
+====
+- *Nossos antepassados comeram o maná*: Os judeus queriam um Rei messiânico que lhes desse alimento. Para justificar o pedido que tinham feito a Jesus, eles mencionaram que Deus tinha dado o maná aos antepassados deles no deserto do Sinai. Citando o Sal 78:24, eles chamaram o maná de pão [ou: “cereal”] do céu. Quando pediram que Jesus realizasse um “sinal” (Jo 6:30), eles talvez estivessem pensando no milagre que Jesus tinha feito no dia anterior, quando ele multiplicou cinco pães de cevada e dois peixinhos e alimentou milhares de pessoas. — Jo 6:9-12.
+====
+
+[[v43-6-32]]
+
+^<<v43-6-32,32>>^ Então Jesus lhes disse: “Digo-lhes com toda a certeza: Moisés não lhes deu o pão do céu, mas o meu Pai lhes dá o verdadeiro pão do céu.
+
+[[v43-6-33]]
+
+^<<v43-6-33,33>>^ Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo.”
+
+[TIP]
+====
+- *ao mundo*: Nas Escrituras Gregas Cristãs, a palavra grega kósmos geralmente se refere à humanidade como um todo ou a uma parte dela. (Veja a nota de estudo em Jo 1:10.) Em Jo 1:29, Jesus é chamado de “o Cordeiro de Deus, que tira o pecado do mundo”. E, aqui em Jo 6:33, Jesus é chamado de o pão de Deus. Jeová usa Jesus para dar vida e bênçãos à humanidade.
+====
+
+[[v43-6-34]]
+
+^<<v43-6-34,34>>^ Disseram-lhe, portanto: “Senhor, dê-nos sempre desse pão.”
+
+[[v43-6-35]]
+
+^<<v43-6-35,35>>^ Jesus lhes disse: “Eu sou o pão da vida. Quem vem a mim não terá mais fome, e quem exerce fé em mim nunca mais terá sede.
+
+[TIP]
+====
+- *o pão da vida*: Esta expressão aparece apenas duas vezes nas Escrituras. (Jo 6:35, 48) Aqui, a palavra vida se refere à “vida eterna”. (Jo 6:40, 47, 54) Nesta conversa com os judeus, Jesus chamou a si mesmo de “o verdadeiro pão do céu” (Jo 6:32), “o pão de Deus” (Jo 6:33) e “o pão vivo” (Jo 6:51). Ele lembrou seus ouvintes de que, apesar de Deus ter alimentado milagrosamente os israelitas no deserto (Ne 9:20), o maná não lhes deu vida eterna (Jo 6:49). Por outro lado, os seguidores fiéis de Cristo têm acesso ao maná do céu, ou “pão da vida” (Jo 6:48-51, 58), que pode lhes dar vida eterna. Os seguidores de Jesus ‘comem desse pão’ quando exercem fé no poder que a carne e o sangue de Jesus têm de libertá-los do pecado e da morte.
+====
+
+[[v43-6-36]]
+
+^<<v43-6-36,36>>^ Mas, como eu lhes disse, vocês me viram, e mesmo assim não creem.
+
+[[v43-6-37]]
+
+^<<v43-6-37,37>>^ Todos os que o Pai me dá virão a mim, e eu nunca rejeitarei aquele que vem a mim;
+
+[[v43-6-38]]
+
+^<<v43-6-38,38>>^ pois desci do céu não para fazer a minha própria vontade, mas a vontade daquele que me enviou.
+
+[[v43-6-39]]
+
+^<<v43-6-39,39>>^ Esta é a vontade daquele que me enviou: que eu não perca nenhum de todos os que ele me deu, mas que eu os ressuscite no último dia.
+
+[TIP]
+====
+- *eu os ressuscite no último dia*: Durante esta conversa, Jesus falou quatro vezes que iria ressuscitar pessoas no último dia. (Jo 6:40, 44, 54) Em Jo 11:24, Marta também falou da “ressurreição, no último dia”. (Compare com Da 12:13; veja a nota de estudo em Jo 11:24.) O texto de Jo 12:48 relaciona o “último dia” com um tempo de julgamento, pelo visto, se referindo ao Reinado de Mil Anos de Cristo. Nesse período, Jesus vai julgar a humanidade, incluindo todos os que tiverem sido ressuscitados. — Ap 20:4-6.
+====
+
+[[v43-6-40]]
+
+^<<v43-6-40,40>>^ Pois esta é a vontade do meu Pai: que todo aquele que reconhece o Filho e exerce fé nele tenha vida eterna, e eu o ressuscitarei no último dia.”
+
+[TIP]
+====
+- *vida eterna*: Nesta ocasião, a expressão “vida eterna” foi usada quatro vezes por Jesus (Jo 6:27, 40, 47, 54) e uma vez por um de seus discípulos (Jo 6:68). Nos Evangelhos de Mateus, Marcos e Lucas, essa expressão aparece um total de 8 vezes, mas em João ela foi usada 17 vezes.
+====
+
+[[v43-6-41]]
+
+^<<v43-6-41,41>>^ Então os judeus começaram a falar contra ele, porque ele tinha dito: “Eu sou o pão que desceu do céu.”
+
+[[v43-6-42]]
+
+^<<v43-6-42,42>>^ E começaram a dizer: “Este não é Jesus, filho de José? Não conhecemos o pai e a mãe dele? Como é que agora ele diz: ‘Eu desci do céu’?”
+
+[[v43-6-43]]
+
+^<<v43-6-43,43>>^ Em resposta, Jesus lhes disse: “Parem de resmungar entre si.
+
+[[v43-6-44]]
+
+^<<v43-6-44,44>>^ Ninguém pode vir a mim, a menos que o Pai, que me enviou, o atraia, e eu o ressuscitarei no último dia.
+
+[TIP]
+====
+- *o atraia*: Lit.: “o puxe; o arraste”. O verbo grego que aparece aqui é usado para se referir à ação de puxar ou recolher uma rede de pesca. (Jo 21:6, 11) Mas isso não quer dizer que Deus force as pessoas a fazer algo que elas não queiram. Esse verbo também pode significar “atrair” e Jesus talvez estivesse fazendo referência indireta a Je 31:3, onde Jeová disse à nação de Israel: “Eu a atraí a mim com amor leal.” (A Septuaginta usa o mesmo verbo grego nesse texto.) O texto de Jo 12:32 (veja a nota de estudo) mostra que, de forma parecida, Jesus atrai a ele todo tipo de pessoas. As Escrituras explicam que Jeová deu aos humanos liberdade para tomar suas próprias decisões. Todos podem escolher se querem ou não servir a Jeová. (De 30:19, 20) Ele atrai de forma bondosa os que têm o coração sincero. (Sal 11:5; Pr 21:2; At 13:48) Jeová faz isso por meio da Bíblia e do espírito santo. A profecia de Is 54:13, citada em Jo 6:45, se cumpre nos que são atraídos pelo Pai. — Compare com Jo 6:65.
+====
+
+[[v43-6-45]]
+
+^<<v43-6-45,45>>^ Está escrito nos Profetas: ‘Todos eles serão ensinados^&#42;1^ por Jeová.’ Todo aquele que ouve o Pai e aprende vem a mim.
+
+[NOTE]
+====
+. Ou: “serão os ensinados”.
+====
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de Is 54:13. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Os manuscritos gregos disponíveis hoje do Evangelho de João usam aqui a palavra theós (talvez porque essa seja a palavra usada em cópias da Septuaginta em Is 54:13). Isso explica por que a maioria das traduções diz aqui “Deus”. Mas, visto que no texto hebraico do versículo citado por Jesus aparece o nome de Deus, ele foi usado aqui no texto principal. — Veja o Apêndice C1.
+====
+
+[[v43-6-46]]
+
+^<<v43-6-46,46>>^ Não é que alguém tenha visto o Pai, exceto aquele que vem de Deus. Esse viu o Pai.
+
+[[v43-6-47]]
+
+^<<v43-6-47,47>>^ Digo-lhes com toda a certeza: Quem crê, tem vida eterna.
+
+[[v43-6-48]]
+
+^<<v43-6-48,48>>^ “Eu sou o pão da vida.
+
+[[v43-6-49]]
+
+^<<v43-6-49,49>>^ Seus antepassados comeram o maná no deserto, no entanto morreram.
+
+[[v43-6-50]]
+
+^<<v43-6-50,50>>^ Este é o pão que desce do céu, para que todo aquele que comer dele não morra.
+
+[[v43-6-51]]
+
+^<<v43-6-51,51>>^ Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre; de fato, o pão que eu darei é a minha carne a favor da vida do mundo.”
+
+[[v43-6-52]]
+
+^<<v43-6-52,52>>^ Então os judeus começaram a discutir entre si, dizendo: “Como este homem pode nos dar sua carne para comer?”
+
+[[v43-6-53]]
+
+^<<v43-6-53,53>>^ Assim, Jesus lhes disse: “Digo-lhes com toda a certeza: A menos que comam a carne do Filho do Homem e bebam o seu sangue, vocês não têm vida em si mesmos.
+
+[TIP]
+====
+- *vida em si mesmos*: Antes disso, em Jo 5:26, Jesus disse que tinha recebido o privilégio de ter “vida em si mesmo” assim como o Pai tem “vida em si mesmo”. (Veja a nota de estudo em Jo 5:26.) Agora, cerca de um ano mais tarde, Jesus usou a mesma expressão em relação a seus seguidores. Aqui, ele usou ‘ter vida em si mesmo’ como equivalente a ‘ter vida eterna’. (Jo 6:54) Assim, parece que neste versículo a expressão ‘ter vida em si mesmo’ não se refere ao poder de dar vida, mas a ter vida de modo pleno, completo, ou seja, a estar completamente vivo. Os cristãos ungidos se tornam completamente vivos quando são ressuscitados para a vida imortal no céu. Os servos fiéis de Deus com a esperança de viver para sempre na Terra vão se tornar completamente vivos depois de passar no teste final logo depois do fim do Reinado de Mil Anos de Cristo. — 1Co 15:52, 53; Ap 20:5, 7-10.
+====
+
+[[v43-6-54]]
+
+^<<v43-6-54,54>>^ Quem se alimenta da minha carne e bebe o meu sangue tem vida eterna, e eu o ressuscitarei no último dia,
+
+[TIP]
+====
+- *se alimenta da minha carne e bebe o meu sangue*: O contexto indica que Jesus Cristo não estava falando sobre comer sua carne e beber seu sangue em sentido literal, mas sobre exercer fé nele. (Jo 6:35, 40) Jesus disse isso em 32 d.C. Visto que a Ceia do Senhor só começaria a ser celebrada um ano depois, Jesus não podia estar se referindo a ela. Ele fez essa declaração logo antes da “Páscoa, a festividade dos judeus”. (Jo 6:4) Por isso, as pessoas que ouviram Jesus provavelmente se lembraram da Páscoa e do significado do sangue do cordeiro, que salvou vidas na noite em que os israelitas saíram do Egito. (Êx 12:24-27) Jesus estava destacando que, da mesma forma, seu sangue seria fundamental para que seus discípulos pudessem ganhar a vida eterna.
+====
+
+[[v43-6-55]]
+
+^<<v43-6-55,55>>^ pois a minha carne é verdadeiro alimento, e o meu sangue é verdadeira bebida.
+
+[[v43-6-56]]
+
+^<<v43-6-56,56>>^ Quem se alimenta da minha carne e bebe o meu sangue permanece em união comigo, e eu em união com ele.
+
+[TIP]
+====
+- *em união comigo*: Ou: “em mim”. Esta expressão passa a ideia de proximidade, harmonia e união.
+====
+
+[[v43-6-57]]
+
+^<<v43-6-57,57>>^ Assim como o Pai, que vive, me enviou e eu vivo por causa do Pai, assim também aquele que se alimenta de mim viverá por causa de mim.
+
+[[v43-6-58]]
+
+^<<v43-6-58,58>>^ Este é o pão que desceu do céu. Não é como quando os seus antepassados comeram e mesmo assim morreram. Quem se alimentar deste pão viverá para sempre.”
+
+[[v43-6-59]]
+
+^<<v43-6-59,59>>^ Ele disse essas coisas enquanto estava ensinando numa sinagoga em Cafarnaum.
+
+[TIP]
+====
+- *sinagoga*: Ou, possivelmente: “assembleia pública”. A palavra grega usada aqui, synagogé, significa literalmente “um ajuntamento; uma assembleia”. Mas, na maioria das vezes que essa palavra aparece nas Escrituras Gregas Cristãs, ela se refere ao prédio ou local onde os judeus se reuniam para a leitura das Escrituras, instrução e oração. (Veja o Glossário, “Sinagoga”.) Embora o contexto permita que synagogé tenha sido usada aqui em sentido literal para se referir a uma reunião aberta ao público em geral, é mais provável que a palavra se refira ao local onde os judeus se reuniam, ou seja, a uma “sinagoga”. Nesse caso, Jesus estaria falando com pessoas que estavam debaixo da Lei mosaica.
+====
+
+[[v43-6-60]]
+
+^<<v43-6-60,60>>^ Ao ouvirem isso, muitos dos seus discípulos disseram: “Essas palavras são chocantes. Quem pode escutar isso?”
+
+[[v43-6-61]]
+
+^<<v43-6-61,61>>^ Mas, percebendo que seus discípulos estavam murmurando por causa disso, Jesus lhes disse: “Isso os faz tropeçar?
+
+[TIP]
+====
+- *Isso os faz tropeçar?*: Ou: “Isso os faz ficar ofendidos?; Isso os faz deixar de acreditar?” Nas Escrituras Gregas Cristãs, a palavra grega skandalízo se refere a tropeçar em sentido figurado, e muitas vezes envolve pecar ou levar alguém a pecar. Dependendo do contexto, o “tropeço” poderia ser perder a fé, aceitar ensinamentos falsos, desobedecer a uma das leis de moral de Deus ou ficar ofendido. — Veja as notas de estudo em Mt 5:29; 18:7.
+====
+
+[[v43-6-62]]
+
+^<<v43-6-62,62>>^ O que aconteceria então se vocês vissem o Filho do Homem subir para onde estava antes?
+
+[[v43-6-63]]
+
+^<<v43-6-63,63>>^ É o espírito que dá vida; a carne não é de nenhum valor. As declarações que eu lhes fiz são espírito e são vida.
+
+[TIP]
+====
+- *o espírito*: Tudo indica que aqui a palavra “espírito” se refira ao espírito santo de Deus. Jesus explicou que a carne, quando comparada com o poder e a sabedoria que Deus dá por meio de seu espírito, não é de nenhum valor. Isso indica que as coisas produzidas pelo poder e pela sabedoria do homem, como seus escritos, suas filosofias e seus ensinos, não são capazes de levar à vida eterna.
+- *a carne*: Pelo visto, esta expressão foi usada aqui com um sentido amplo e se refere às limitações humanas. Os humanos não conseguem entender tudo o que gostariam nem conseguem realizar tudo aquilo que desejam. Mesmo que toda a experiência e sabedoria humanas sejam somadas, incluindo todos os escritos, as filosofias e os ensinos humanos, isso não é de nenhum valor para ajudar o homem a ter vida eterna.
+- *são espírito e são vida*: A palavra grega traduzida aqui como “são” (estín) talvez tenha sido usada com o sentido de “significam”. Assim, a tradução poderia ser “significam espírito e significam vida”. (Veja as notas de estudo em Mt 12:7; 26:26.) Jesus pelo visto estava dizendo que suas declarações eram inspiradas pelo espírito santo e podiam dar vida eterna.
+====
+
+[[v43-6-64]]
+
+^<<v43-6-64,64>>^ Mas há alguns de vocês que não creem.” Pois Jesus sabia desde o princípio quem eram os que não criam e quem o trairia.
+
+[TIP]
+====
+- *Jesus sabia . . . quem o trairia*: Jesus sabia que o traidor seria Judas Iscariotes. Antes de escolher os 12 apóstolos, Jesus passou a noite inteira orando a seu Pai. (Lu 6:12-16) Assim, quando Judas foi escolhido, ele era fiel a Deus. Mas Jesus sabia, com base nas Escrituras Hebraicas, que seria traído por uma pessoa bem próxima. (Sal 41:9; 109:8; Jo 13:18, 19) Visto que Jesus podia perceber o que as pessoas tinham na mente e no coração, ele percebeu quando Judas começou a se tornar mau. (Mt 9:4) É verdade que, quando Deus inspirou as Escrituras Hebraicas, ele usou sua capacidade de prever o futuro para saber que um dos amigos de confiança de Jesus se tornaria um traidor. Mas a ideia de que Judas estava predestinado a ser o traidor não está em harmonia com as qualidades de Deus e com o modo como Deus sempre agiu com as pessoas.
+- *desde o princípio*: Esta expressão não se refere ao nascimento de Judas. Também não se refere a quando ele foi escolhido como apóstolo, já que Jesus orou a noite inteira antes de escolher os 12 apóstolos. (Lu 6:12-16) Ela se refere à época em que Judas começou a agir como um traidor, algo que Jesus percebeu imediatamente. (Jo 2:24, 25; Ap 1:1; 2:23; veja as notas de estudo em Jo 6:70; 13:11.) Judas planejou sua traição, e a mudança gradual que o levou a fazer isso começou bem antes de ele trair Jesus. A palavra grega traduzida aqui como “princípio” é arkhé, e seu significado nas Escrituras Gregas Cristãs depende do contexto. No texto de 2Pe 3:4, “princípio” se refere ao início da criação. Mas na maioria das vezes essa palavra se refere a algo mais específico. Por exemplo, Pedro disse que o espírito santo desceu sobre os não judeus “da mesma forma como tinha descido sobre nós no princípio”. (At 11:15) Pedro não estava falando de quando ele nasceu nem de quando se tornou apóstolo. Ele estava se referindo ao dia de Pentecostes de 33 d.C. Essa ocasião foi o “princípio” no sentido de que foi a primeira vez que o espírito santo foi derramado com aquele objetivo especial. (At 2:1-4) Outros exemplos de como o contexto influencia o significado da palavra arkhé são Lu 1:2; Jo 15:27 e 1Jo 2:7.
+====
+
+[[v43-6-65]]
+
+^<<v43-6-65,65>>^ Ele acrescentou: “É por isso que eu lhes disse: Ninguém pode vir a mim, a menos que isso lhe seja concedido pelo Pai.”
+
+[[v43-6-66]]
+
+^<<v43-6-66,66>>^ Por causa disso, muitos dos seus discípulos foram embora para as coisas deixadas atrás e não andavam mais com ele.
+
+[[v43-6-67]]
+
+^<<v43-6-67,67>>^ Portanto, Jesus disse aos Doze: “Será que vocês também querem ir?”
+
+[[v43-6-68]]
+
+^<<v43-6-68,68>>^ Simão Pedro lhe respondeu: “Senhor, para quem iremos? O senhor tem declarações de vida eterna.
+
+[[v43-6-69]]
+
+^<<v43-6-69,69>>^ Nós cremos e sabemos que o senhor é o Santo de Deus.”
+
+[[v43-6-70]]
+
+^<<v43-6-70,70>>^ Jesus lhes respondeu: “Não fui eu que escolhi vocês doze? Contudo, um de vocês é um caluniador.”
+
+[TIP]
+====
+- *um caluniador*: Ou: “um diabo”. A palavra grega diábolos, que na maioria das vezes se refere ao Diabo, significa “caluniador”. Nas outras três vezes que ela não se refere ao Diabo, ela foi traduzida como “caluniadoras” (1Ti 3:11; Tit 2:3) ou “caluniadores” (2Ti 3:3). Em grego, o artigo definido quase sempre é usado antes da palavra quando ela se refere ao Diabo. (Veja a nota de estudo em Mt 4:1 e o Glossário, “Artigo definido”.) Aqui, diábolos foi usada com respeito a Judas Iscariotes, que tinha desenvolvido uma característica ruim. É possível que naquele momento Jesus tivesse percebido que Judas começava a se desviar. Mais tarde, isso permitiu que Satanás usasse Judas como seu cúmplice para fazer com que Jesus fosse morto. — Jo 13:2, 11.
+====
+
+[[v43-6-71]]
+
+^<<v43-6-71,71>>^ Na verdade, ele estava falando de Judas, filho de Simão Iscariotes, porque esse homem ia traí-lo, embora fosse um dos Doze.
+
+'''
+
+xref:043-joao/043-joao-005.adoc#v43-5-0[&#60; Capítulo Anterior] | <<v43-6-0,Topo>> | xref:043-joao/043-joao-007.adoc#v43-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v44-18-0]]
+=== Atos dos Apóstolos, 18
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Segunda viagem missionária de Paulo (15:36–18:22)
+* Paulo e Barnabé se separam (15:36-41)
+* Paulo escolhe Timóteo como companheiro de viagem (16:1-5)
+* Visão sobre o homem macedônio; a pregação chega à Europa (16:6-10)
+* Em Filipos, Lídia se converte (16:11-15)
+* Paulo e Silas são presos em Filipos (16:16-24)
+* O carcereiro e os da sua casa são batizados (16:25-34)
+* Paulo exige uma retratação oficial (16:35-40)
+* Paulo e Silas em Tessalônica (17:1-9)
+* Paulo e Silas em Bereia (17:10-15)
+* Paulo em Atenas (17:16-22a)
+* Discurso de Paulo no Areópago (17:22b-31)
+* Diferentes reações ao discurso de Paulo; alguns se tornam crentes (17:32-34)
+* Ministério de Paulo em Corinto (18:1-17)
+* Paulo volta a Antioquia da Síria passando por Éfeso (18:18-22)
+* L. Terceira viagem missionária de Paulo (18:23–21:17)
+* Paulo parte para a Galácia e a Frígia (18:23)
+* Apolo, um homem eloquente, recebe ajuda de Priscila e Áquila e depois vai para a Acaia (18:24-28)
+* Paulo chega a Éfeso; alguns discípulos são batizados novamente, dessa vez, em nome de Jesus (19:1-7)
+* Atividades de Paulo em Éfeso (19:8-10)
+* Apesar do ocultismo em Éfeso, a palavra de Jeová prevalece (19:11-20)
+* Confusão em Éfeso; a multidão entra correndo no teatro (19:21-34)
+* O administrador da cidade de Éfeso acalma a multidão (19:35-41)
+* Paulo na Macedônia e na Grécia (20:1-6)
+* Êutico é ressuscitado em Trôade (20:7-12)
+* Paulo sai de Trôade e vai a Mileto (20:13-16)
+* Paulo incentiva os anciãos de Éfeso a prestarem atenção a si mesmos e a todo o rebanho de Deus (20:17-38)
+* Paulo continua sua viagem a Jerusalém (21:1-14)
+* Chegada em Jerusalém (21:15-17)
+****
+
+[[v44-18-1]]
+
+^<<v44-18-1,1>>^ Depois disso, ele partiu de Atenas e chegou a Corinto.
+
+[TIP]
+====
+- *Corinto*: Esta era uma das cidades mais antigas e importantes da Grécia antiga. Ela ficava cerca de 5 quilômetros ao sudoeste de onde hoje fica a Corinto moderna. A importância e a riqueza da cidade vinham, em grande parte, da sua localização estratégica. Corinto ficava no istmo (uma estreita faixa de terra) que liga a Grécia continental, ao norte, com a península do Peloponeso, ao sul. Assim, a cidade controlava o fluxo de mercadorias entre o norte e o sul da Grécia. Corinto também controlava as rotas comerciais entre o leste e o oeste do mar Mediterrâneo, já que era mais seguro fazer essa parte da viagem por terra, através do istmo, do que contornar a Grécia pelo mar. Corinto era a capital da Acaia, que era como os romanos chamavam a província que abrangia toda a Grécia, com exceção da Macedônia. Durante o reinado de César Augusto, a Acaia se tornou uma província senatorial e Corinto foi escolhida como sua capital. (Veja a nota de estudo em At 18:12.) Um grande número de judeus morava em Corinto e eles tinham estabelecido uma sinagoga ali, o que atraiu alguns gregos à fé judaica. (At 18:4) A presença de judeus na Corinto antiga é comprovada pelos escritos de Fílon, do século 1 d.C., e por uma antiga inscrição grega feita em uma peça de mármore. Essa peça foi encontrada perto do portão que dava para o porto de Lecaion e tem as seguintes palavras: “[Syna]gogé Hebr[aíon]” (“Sinagoga dos Hebreus”). Alguns estudiosos sugerem que essa peça de mármore seja da época de Paulo, mas a maioria acredita que ela seja de um período posterior. — Veja o Apêndice B13.
+====
+
+[[v44-18-2]]
+
+^<<v44-18-2,2>>^ Encontrou ali um judeu chamado Áquila, natural de Ponto, que tinha chegado recentemente da Itália com Priscila, sua esposa, pois Cláudio tinha ordenado que todos os judeus deixassem Roma. Então ele foi visitá-los
+
+[TIP]
+====
+- *Áquila*: Este cristão fiel e sua leal esposa, Priscila (também chamada de Prisca), são descritos como “colaboradores” de Paulo. (Ro 16:3) Esse casal é mencionado seis vezes nas Escrituras Gregas Cristãs, sempre juntos. (At 18:18, 26; 1Co 16:19; 2Ti 4:19) O nome Priscila é o diminutivo do nome Prisca. Paulo usou a forma “Prisca” em suas cartas. Já Lucas usou “Priscila”. Esse tipo de variação era comum nos nomes romanos. No ano 49 ou no início do ano 50 d.C., o imperador Cláudio emitiu um decreto expulsando os judeus de Roma. Por causa disso, Áquila e Priscila se mudaram para Corinto. Alguns meses mais tarde, ainda no ano 50 d.C., Paulo chegou a Corinto e passou a trabalhar com o casal, já que os três eram fabricantes de tendas. Áquila e Priscila sem dúvida ajudaram Paulo a fortalecer a nova congregação naquela cidade. Áquila era natural de Ponto, uma região que ficava no norte da Ásia Menor, às margens do Mar Negro. — Veja o Apêndice B13.
+====
+
+[[v44-18-3]]
+
+^<<v44-18-3,3>>^ e, visto que tinham a mesma profissão, ficou na casa deles e trabalhou com eles, pois eram fabricantes de tendas.
+
+[TIP]
+====
+- *fabricantes de tendas*: A palavra grega que aparece aqui é skenopoiós. Ela foi usada para se referir à profissão de Paulo, Áquila e Priscila. Existem diferentes opiniões sobre o tipo exato de artesão a que essa palavra grega se refere (fabricante de tendas, tecelão de tapeçarias ou fabricante de cordas). Mas vários estudiosos acreditam que o significado mais provável seja “fabricante de tendas”. Paulo era de Tarso, na Cilícia, uma região famosa por fabricar um tecido chamado cilicium, que era feito de pelos de cabra e era usado para fabricar tendas. (At 21:39) Os judeus do século 1 d.C. achavam bom que os meninos aprendessem um trabalho manual, mesmo que depois fossem receber educação superior. Assim, é possível que Paulo tenha aprendido a fabricar tendas enquanto ainda era jovem. O trabalho não era nada fácil. Pelo que parece, o cilicium normalmente era grosso e áspero e, por isso, era um material difícil de cortar e costurar.
+====
+
+[[v44-18-4]]
+
+^<<v44-18-4,4>>^ Todo sábado ele dava um discurso na sinagoga e persuadia judeus e gregos.
+
+[TIP]
+====
+- *dava um discurso*: Ou: “raciocinava com as pessoas”. O verbo grego dialégomai pode ser definido como “conversar; discutir”. Ele pode passar a ideia tanto de um discurso como de uma interação entre pessoas em que há troca de opiniões. Esse mesmo verbo grego aparece em At 17:2, 17; 18:19; 19:8, 9 e 20:7, 9.
+====
+
+[[v44-18-5]]
+
+^<<v44-18-5,5>>^ Quando Silas e Timóteo desceram da Macedônia, Paulo passou a se dedicar inteiramente à pregação da palavra, testemunhando aos judeus e provando que Jesus é o Cristo.
+
+[TIP]
+====
+- *se dedicar inteiramente à pregação da palavra*: Ou: “se ocupar intensamente com a palavra”. Isso indica que Paulo passou a dedicar todo o seu tempo à pregação.
+====
+
+[[v44-18-6]]
+
+^<<v44-18-6,6>>^ Visto, porém, que eles continuavam se opondo a ele e dizendo insultos, ele sacudiu a roupa e lhes disse: “Que o sangue de vocês recaia sobre a sua própria cabeça. Eu estou limpo. De agora em diante irei às pessoas das nações.”
+
+[TIP]
+====
+- *ele sacudiu a roupa*: Paulo fez isso para indicar que ele não era responsável pelo que poderia acontecer com aqueles judeus em Corinto. Eles tinham se recusado a aceitar a mensagem sobre Cristo, uma mensagem que significava salvação. Já que Paulo tinha cumprido sua obrigação, ele não precisaria mais prestar contas pela vida deles. (Veja a nota de estudo em Que o sangue de vocês recaia sobre a sua própria cabeça neste versículo.) As Escrituras mostram que esse gesto de Paulo não era algo novo. Por exemplo, nos dias de Neemias, os judeus que tinham voltado para Jerusalém fizeram uma promessa e Neemias sacudiu as dobras da sua roupa para indicar que quem não cumprisse o que tinha prometido seria rejeitado por Deus. (Ne 5:13) O próprio Paulo já tinha feito algo parecido em Antioquia, na Pisídia, quando ‘sacudiu o pó dos seus pés’ em testemunho contra os que se opuseram a ele. — Veja as notas de estudo em At 13:51; Lu 9:5.
+- *Que o sangue de vocês recaia sobre a sua própria cabeça*: Paulo usou essas palavras para mostrar que não seria responsável pelo que acontecesse com aqueles judeus que não quiseram aceitar a mensagem sobre Jesus, o Messias. As Escrituras Hebraicas também têm passagens que indicam que, quando uma pessoa escolhe fazer algo que merece a morte, ela mesma é responsável pela perda de sua vida. (Jos 2:19; 2Sa 1:16; 1Rs 2:37; Ez 33:2-4; veja a nota de estudo em Mt 27:25.) Paulo acrescentou: Eu estou limpo, ou seja, “Eu sou inocente [“não tenho culpa; estou livre de responsabilidade”]”. — Veja a nota de estudo em At 20:26.
+====
+
+[[v44-18-7]]
+
+^<<v44-18-7,7>>^ Assim, saiu dali e entrou na casa de um homem chamado Tício Justo, adorador de Deus; a casa dele ficava ao lado da sinagoga.
+
+[TIP]
+====
+- *saiu dali*: Ou seja, saiu da sinagoga. Paulo foi então para a casa de Tício Justo, onde continuou pregando. Paulo continuou morando com Áquila e Priscila enquanto estava em Corinto, mas, pelo visto, a casa de Tício Justo se tornou o centro de suas atividades de pregação. — At 18:3.
+- *Tício Justo*: Este cristão de Corinto é chamado aqui de adorador de Deus, o que indica que ele era um prosélito. — Veja as notas de estudo em At 13:43; 16:14.
+====
+
+[[v44-18-8]]
+
+^<<v44-18-8,8>>^ Mas Crispo, presidente da sinagoga, tornou-se crente no Senhor, junto com todos os da sua casa. E muitos coríntios que tinham ouvido a palavra passaram a crer e foram batizados.
+
+[[v44-18-9]]
+
+^<<v44-18-9,9>>^ Além disso, o Senhor disse a Paulo numa visão, à noite: “Não tenha medo, mas persista em falar e não fique calado,
+
+[[v44-18-10]]
+
+^<<v44-18-10,10>>^ porque eu estou com você e ninguém o atacará de modo a lhe fazer mal. Pois muitas pessoas nesta cidade pertencem a mim.”
+
+[[v44-18-11]]
+
+^<<v44-18-11,11>>^ Assim, ele permaneceu ali um ano e seis meses, ensinando a palavra de Deus entre eles.
+
+[[v44-18-12]]
+
+^<<v44-18-12,12>>^ Enquanto Gálio era procônsul da Acaia, os judeus, num esforço conjunto, atacaram Paulo e o levaram ao tribunal,
+
+[TIP]
+====
+- *procônsul*: Este era o título dado aos governantes das províncias que ficavam debaixo da autoridade do Senado romano, chamadas de províncias senatoriais. Aqui, Lucas diz que Gálio era o procônsul da província da Acaia. Lucas estava correto ao usar o termo “procônsul”, já que a Acaia realmente foi uma província senatorial entre 27 a.C. e 15 d.C. e, novamente, depois de 44 d.C. (Veja a nota de estudo em At 13:7.) Na cidade de Delfos, foi encontrada uma inscrição que menciona o procônsul Gálio. Ela não apenas comprova a exatidão do relato de Lucas como também ajuda a determinar o período do governo de Gálio.
+- *Acaia*: Nas Escrituras Gregas Cristãs, o nome Acaia se refere à província romana da parte sul da Grécia. A capital da Acaia era Corinto. Em 27 a.C., quando César Augusto reorganizou os territórios das duas províncias da Grécia (Macedônia e Acaia), o nome Acaia se referia a toda a península do Peloponeso e parte da Grécia continental. A província da Acaia estava debaixo da autoridade do Senado romano e era governada desde sua capital por um procônsul. (2Co 1:1) Outras cidades da província da Acaia mencionadas nas Escrituras Gregas Cristãs são Atenas e Cencreia. (At 18:1, 18; Ro 16:1) A Acaia muitas vezes é citada junto com a Macedônia, a província vizinha que ficava ao norte. — At 19:21; Ro 15:26; 1Te 1:7, 8; veja o Apêndice B13.
+====
+
+[[v44-18-13]]
+
+^<<v44-18-13,13>>^ dizendo: “Este homem está persuadindo as pessoas a adorar a Deus de uma maneira contrária à lei.”
+
+[[v44-18-14]]
+
+^<<v44-18-14,14>>^ Mas, quando Paulo ia começar a falar, Gálio disse aos judeus: “Se isso se tratasse realmente de algo errado ou de um crime grave, seria razoável que eu os ouvisse pacientemente.
+
+[[v44-18-15]]
+
+^<<v44-18-15,15>>^ Mas, se são controvérsias sobre palavras, sobre nomes e sobre a sua própria lei, isso é com vocês. Não quero ser juiz dessas coisas.”
+
+[[v44-18-16]]
+
+^<<v44-18-16,16>>^ Então os expulsou do tribunal.
+
+[[v44-18-17]]
+
+^<<v44-18-17,17>>^ Assim, agarraram Sóstenes, presidente da sinagoga, e começaram a espancá-lo diante do tribunal. Mas Gálio não queria se envolver com essas coisas.
+
+[[v44-18-18]]
+
+^<<v44-18-18,18>>^ Depois de ficar ali vários dias, Paulo se despediu dos irmãos e navegou para a Síria, acompanhado de Priscila e Áquila. Em Cencreia cortou rente o cabelo, pois tinha feito um voto.
+
+[TIP]
+====
+- *Cencreia*: Este era um dos portos que serviam à cidade de Corinto, que ficava num istmo (uma estreita faixa de terra). Cencreia ficava uns 11 quilômetros ao leste de Corinto, no lado do istmo que dá para o golfo Sarônico. O porto de Cencreia atendia às rotas marítimas para destinos ao leste da Grécia. No outro lado do istmo, o porto de Lecaion atendia às rotas para a Itália e outros destinos ao oeste da Grécia. Na região onde ficava Cencreia, próximo ao local onde hoje está a vila de Kehries (Kechriais), existem ruínas que incluem construções e quebra-mares. De acordo com Ro 16:1, existia uma congregação em Cencreia. — Veja o Apêndice B13.
+====
+
+[[v44-18-19]]
+
+^<<v44-18-19,19>>^ Assim, chegaram a Éfeso, e ele os deixou ali. Ele, porém, entrou na sinagoga e raciocinou com os judeus.
+
+[[v44-18-20]]
+
+^<<v44-18-20,20>>^ Embora lhe pedissem que ficasse por mais tempo, ele não aceitou,
+
+[[v44-18-21]]
+
+^<<v44-18-21,21>>^ mas se despediu e lhes disse: “Voltarei novamente para cá, se Jeová quiser.” Então embarcou em Éfeso
+
+[TIP]
+====
+- *se Jeová quiser*: Esta expressão mostra que é necessário levar em conta a vontade de Deus ao fazer ou planejar algo. O apóstolo Paulo tinha bem em mente esse princípio. (1Co 4:19; 16:7; He 6:3) O discípulo Tiago também incentivou seus leitores a dizer: “Se Jeová quiser, viveremos e faremos isso ou aquilo.” (Tg 4:15) Essas expressões não devem ser algo apenas da boca para fora; quem é sincero ao dizer “se Jeová quiser” precisa se esforçar em agir de acordo com a vontade de Jeová. A pessoa nem sempre precisa dizer essas palavras em voz alta; isso muitas vezes é feito só no coração. — Veja as notas de estudo em At 21:14; 1Co 4:19; Tg 4:15 e o Apêndice C3 (introdução e At 18:21).
+====
+
+[[v44-18-22]]
+
+^<<v44-18-22,22>>^ e desceu a Cesareia. Subiu, cumprimentou a congregação e então desceu para Antioquia.
+
+[TIP]
+====
+- *Subiu*: Aqui, o texto grego não especifica para onde Paulo estava indo, mas tudo indica que ele foi para Jerusalém. Já que Jerusalém ficava uns 750 metros acima do nível do mar, a Bíblia muitas vezes diz que as pessoas ‘subiam para Jerusalém’. Na verdade, o verbo grego anabaíno (“subir”) aparece em muitas passagens em que fica claro que Jerusalém era o destino da viagem. (Mt 20:17; Mr 10:32; Lu 18:31; 19:28; Jo 2:13; 5:1; 11:55; At 11:2; 21:12; 24:11; 25:1, 9; Gál 2:1) Além disso, neste versículo também aparece um verbo grego que significa “descer” (katabaíno) e que às vezes era usado para se referir a sair de Jerusalém. — Mr 3:22; Lu 10:30, 31; At 24:1, 22; 25:7.
+====
+
+[[v44-18-23]]
+
+^<<v44-18-23,23>>^ Depois de passar algum tempo ali, ele partiu e foi de um lugar a outro por toda a região da Galácia e da Frígia, fortalecendo todos os discípulos.
+
+[[v44-18-24]]
+
+^<<v44-18-24,24>>^ Enquanto isso, um judeu chamado Apolo, natural de Alexandria, chegou a Éfeso; era um homem eloquente que tinha grande conhecimento das Escrituras.
+
+[TIP]
+====
+- *Apolo*: Este cristão judeu, pelo visto, tinha sido criado na cidade de Alexandria, que era a capital da província romana do Egito. A cidade era um centro de educação superior, famosa pela sua grande biblioteca. Alexandria era a segunda maior cidade do Império Romano (depois de Roma) e tinha uma grande população de judeus. Ela era um dos mais importantes centros de cultura e ensino, tanto para judeus como para gregos. A tradução das Escrituras Hebraicas para o grego conhecida como Septuaginta foi feita ali. Esses fatos talvez ajudem a explicar por que o versículo diz que Apolo tinha grande conhecimento das [lit.: “era poderoso nas”] Escrituras, ou seja, as Escrituras Hebraicas.
+====
+
+[[v44-18-25]]
+
+^<<v44-18-25,25>>^ Esse homem tinha sido instruído no caminho de Jeová e, fervoroso no espírito, falava e ensinava sobre Jesus com exatidão, mas conhecia apenas o batismo de João.
+
+[TIP]
+====
+- *instruído*: O verbo grego katekhéo significa literalmente “fazer ressoar” e pode incluir a ideia de instruir oralmente. Quando se faz “ressoar” as verdades da Palavra de Deus constantemente na mente e no coração de um estudante, ele se torna qualificado para ensinar outros. — Compare com Gál 6:6, onde o mesmo verbo grego foi usado duas vezes.
+- *caminho de Jeová*: No versículo seguinte, foi usada a expressão paralela “caminho de Deus”. O modo de vida cristão gira em torno da adoração ao único Deus verdadeiro, Jeová, e da fé em seu Filho, Jesus Cristo. O livro de Atos chama esse modo de vida simplesmente de o “Caminho”. (At 19:9, 23; 22:4; 24:22; veja a nota de estudo em At 9:2.) Além disso, a mesma expressão grega aparece quatro vezes nos Evangelhos, onde é parte de uma citação de Is 40:3 e foi traduzida como “caminho para Jeová”. (Veja as notas de estudo em Mt 3:3; Mr 1:3; Lu 3:4; Jo 1:23.) No texto hebraico original de Is 40:3, aparece o Tetragrama. A expressão “caminho de Jeová” também aparece em Jz 2:22 e Je 5:4, 5. — Veja a nota de estudo em At 19:23 e o Apêndice C3 (introdução e At 18:25).
+- *fervoroso no espírito*: Lit.: “fervente ao espírito”. A palavra grega traduzida aqui como “fervoroso” significa literalmente “ferver”. Mas neste versículo ela é usada como uma metáfora e passa a ideia de transbordar ou irradiar zelo e entusiasmo. Nessa expressão, a palavra grega para “espírito” (pneúma), pelo visto, se refere ao espírito santo de Deus, que pode atuar como uma força que impele alguém, motivando a pessoa e dando a ela poder para fazer as coisas de acordo com a vontade de Jeová. (Veja a nota de estudo em Mr 1:12.) Por outro lado, a palavra “espírito” também pode se referir à força que vem do coração figurativo da pessoa e que a motiva a falar e fazer coisas de certo modo. Assim, neste versículo o sentido poderia ser uma combinação dessas duas ideias, ou seja, que a pessoa mostra zelo e entusiasmo pelo que é certo, ao passo que é guiada pelo espírito de Deus. Mas alguns estudiosos acreditam que neste contexto “fervente ao espírito” seja simplesmente uma expressão idiomática que se refere a alguém muito disposto e cheio de entusiasmo. Se esse for o caso, isso talvez explique por que Apolo podia ser “fervoroso no espírito”, apesar de ainda não conhecer o batismo em nome de Jesus. De qualquer forma, era necessário que o espírito de Deus influenciasse o espírito de Apolo para que ele tivesse entusiasmo pelas coisas certas e estivesse disposto a aceitar ensinos mais exatos. — Veja o Glossário, “Espírito”.
+- *o batismo de João*: Este batismo era uma demonstração pública de que a pessoa estava arrependida dos pecados que tinha cometido contra a Lei que Jeová deu a Moisés, uma lei que os judeus tinham concordado em seguir. (Êx 24:7, 8) Mas o batismo de João deixou de ser válido depois do Pentecostes de 33 d.C., quando o pacto da Lei foi abolido. (Ro 10:4; Gál 3:13; Ef 2:13-15; Col 2:13, 14) Dali em diante, o único batismo aprovado por Jeová passou a ser o batismo que Jesus instruiu seus discípulos a realizar. (Mt 28:19, 20) Os acontecimentos envolvendo Apolo que são descritos aqui ocorreram por volta de 52 d.C.
+====
+
+[[v44-18-26]]
+
+^<<v44-18-26,26>>^ Ele começou a falar corajosamente na sinagoga e, quando Priscila e Áquila o ouviram, chamaram-no em particular e lhe explicaram com mais exatidão o caminho de Deus.
+
+[[v44-18-27]]
+
+^<<v44-18-27,27>>^ Além disso, como ele queria ir para a Acaia, os irmãos escreveram aos discípulos pedindo que o recebessem bondosamente. Quando chegou lá, ajudou muito os que haviam se tornado crentes pela bondade imerecida de Deus;
+
+[TIP]
+====
+- *de Deus*: Estas palavras não estão no texto grego, mas muitos estudiosos concordam que elas estão subentendidas. Na maioria das vezes que a expressão “bondade imerecida” aparece no livro de Atos, ela se refere à bondade imerecida de “Deus”. — At 11:23; 13:43; 14:26; 20:24, 32.
+====
+
+[[v44-18-28]]
+
+^<<v44-18-28,28>>^ pois, em público e com grande determinação, ele provava plenamente que os judeus estavam errados, demonstrando-lhes pelas Escrituras que Jesus é o Cristo.
+
+'''
+
+xref:044-atos/044-atos-017.adoc#v44-17-0[&#60; Capítulo Anterior] | <<v44-18-0,Topo>> | xref:044-atos/044-atos-019.adoc#v44-19-0[Próximo Capítulo &#62;]

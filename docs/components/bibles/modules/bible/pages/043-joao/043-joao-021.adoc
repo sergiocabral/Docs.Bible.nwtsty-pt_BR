@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v43-21-0]]
+=== As Boas Novas Segundo João, 21
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* L. O Cristo aparece depois de ser ressuscitado (20:1–21:25)
+* Discípulos encontram túmulo de Jesus vazio (20:1-10)
+* Dois anjos e Jesus falam com Maria Madalena (20:11-18)
+* Discípulos reunidos com portas trancadas; Jesus aparece a eles (20:19-23)
+* Tomé duvida, mas depois se convence (20:24-29)
+* João explica o objetivo ‘deste rolo’ (20:30, 31)
+* Jesus aparece aos discípulos na Galileia (21:1-14)
+* Pedro confirma seu amor por Jesus (21:15-19)
+* Jesus prediz o futuro do discípulo amado (21:20-23)
+* Observações finais sobre o escritor (21:24, 25)
+****
+
+[[v43-21-1]]
+
+^<<v43-21-1,1>>^ Depois disso, Jesus apareceu novamente aos discípulos junto ao mar de Tiberíades. Ele apareceu do seguinte modo:
+
+[[v43-21-2]]
+
+^<<v43-21-2,2>>^ estavam juntos Simão Pedro, Tomé (que era chamado Gêmeo), Natanael, de Caná da Galileia, os filhos de Zebedeu e mais dois dos seus discípulos.
+
+[[v43-21-3]]
+
+^<<v43-21-3,3>>^ Simão Pedro lhes disse: “Vou pescar.” Eles lhe disseram: “Nós vamos com você.” Assim, foram e entraram no barco, mas durante aquela noite não apanharam nada.
+
+[[v43-21-4]]
+
+^<<v43-21-4,4>>^ Ao amanhecer, Jesus estava na praia, mas os discípulos não perceberam que era Jesus.
+
+[[v43-21-5]]
+
+^<<v43-21-5,5>>^ Então Jesus lhes perguntou: “Filhos, vocês têm alguma coisa para comer?” Eles responderam: “Não.”
+
+[TIP]
+====
+- *Filhos*: Ou: “Filhinhos”. A palavra grega usada aqui, paidíon (diminutivo de pais, “filho; criança”), era uma forma carinhosa de se dirigir a alguém e podia indicar uma preocupação amorosa, como a de um pai por um filho. Aqui, ela foi usada para expressar amor e amizade.
+- *alguma coisa para comer*: Ou: “algum peixe”. Esta é a única vez que a palavra grega prosfágion aparece nas Escrituras Gregas Cristãs. Em escritos não bíblicos, essa palavra é usada para se referir a algo que pode ser comido junto com pão. Tudo indica que aqui ela se refira a peixes, já que Jesus estava falando com pescadores.
+====
+
+[[v43-21-6]]
+
+^<<v43-21-6,6>>^ Ele lhes disse: “Lancem a rede do lado direito do barco e acharão.” Então eles a lançaram, mas não conseguiram recolhê-la, por causa da grande quantidade de peixes.
+
+[[v43-21-7]]
+
+^<<v43-21-7,7>>^ Então, o discípulo a quem Jesus amava disse a Pedro: “É o Senhor!” Ao ouvir que era o Senhor, Simão Pedro vestiu^&#42;1^ sua roupa, pois estava nu, e se lançou no mar.
+
+[NOTE]
+====
+. Ou: “amarrou no corpo; cingiu-se de”.
+====
+
+[TIP]
+====
+- *o discípulo a quem Jesus amava*: Ou seja, aquele a quem Jesus amava especialmente. Esta é a quarta das cinco vezes que este Evangelho menciona um discípulo “a quem Jesus amava”. (Jo 13:23; 19:26; 20:2; 21:7, 20) Acredita-se que esse discípulo seja o apóstolo João, filho de Zebedeu e irmão de Tiago. — Mt 4:21; Mr 1:19; Lu 5:10; Jo 21:2; para uma explicação sobre os motivos que levam a essa conclusão, veja as notas de estudo em Jo 13:23; 21:20.
+- *nu*: Ou: “pouco vestido”. A palavra grega gymnós pode ter o sentido de “pouco vestido; só com a roupa de baixo”. — Tg 2:15, nota de rodapé; veja a nota de estudo em Mt 25:36.
+====
+
+[[v43-21-8]]
+
+^<<v43-21-8,8>>^ Mas os outros discípulos vieram no pequeno barco, arrastando a rede cheia de peixes, pois não estavam longe da terra, a apenas cerca de 90 metros.
+
+[TIP]
+====
+- *cerca de 90 metros*: Lit.: “cerca de 200 côvados”. A palavra grega pékhys (traduzida como “côvado(s)” em Mt 6:27; Lu 12:25; Ap 21:17) se refere a uma medida que corresponde aproximadamente à distância entre o cotovelo e a ponta do dedo médio. Em geral, os israelitas usavam um côvado de cerca de 44,5 centímetros. — Veja o Glossário, “Côvado”, e o Apêndice B14-A.
+====
+
+[[v43-21-9]]
+
+^<<v43-21-9,9>>^ Quando desembarcaram em terra, viram ali um fogo, com peixe sobre as brasas, e pão.
+
+[[v43-21-10]]
+
+^<<v43-21-10,10>>^ Jesus lhes disse: “Tragam alguns dos peixes que vocês acabaram de apanhar.”
+
+[[v43-21-11]]
+
+^<<v43-21-11,11>>^ Então Simão Pedro subiu a bordo e puxou a rede para a terra; ela estava cheia de peixes, 153 peixes grandes. Embora houvesse tantos, a rede não se rompeu.
+
+[[v43-21-12]]
+
+^<<v43-21-12,12>>^ Jesus lhes disse: “Venham comer.” Nenhum dos discípulos tinha coragem de lhe perguntar quem ele era, porque sabiam que era o Senhor.
+
+[[v43-21-13]]
+
+^<<v43-21-13,13>>^ Jesus foi, pegou o pão e deu a eles, e fez o mesmo com o peixe.
+
+[[v43-21-14]]
+
+^<<v43-21-14,14>>^ Essa foi a terceira vez que Jesus apareceu aos discípulos depois de ter sido levantado dentre os mortos.
+
+[[v43-21-15]]
+
+^<<v43-21-15,15>>^ Quando terminaram de comer, Jesus perguntou a Simão Pedro: “Simão, filho de João, você me ama mais do que a estes?” Ele lhe respondeu: “Sim, Senhor; o senhor sabe que eu o amo.”^&#42;1^ Ele lhe disse: “Alimente os meus cordeiros.”
+
+[NOTE]
+====
+. Ou: “que eu tenho afeição pelo senhor”.
+====
+
+[TIP]
+====
+- *Jesus perguntou a Simão Pedro*: Nesta conversa, Jesus perguntou três vezes o que Pedro sentia por ele, até que “Pedro ficou triste”. (Jo 21:17) Ela aconteceu pouco tempo depois de Pedro ter negado Jesus três vezes. O relato de Jo 21:15-17 usa dois verbos gregos que foram traduzidos como amar em português, agapáo e filéo. Nas duas primeiras vezes que Jesus perguntou a Pedro “você me ama?”, ele usou o verbo agapáo. Pedro respondeu usando o verbo filéo, que inclui sentimentos de carinho e afeto. Na terceira vez, tanto Jesus como Pedro usaram o verbo filéo. O relato mostra que, cada vez que Pedro reafirmou seu amor, Jesus respondeu enfatizando que o amor de Pedro devia motivá-lo a alimentar e ‘pastorear’ espiritualmente os discípulos de Jesus, que ele chamou de seus cordeiros, ou “ovelhinhas”. (Jo 21:16, 17; 1Pe 5:1-3) Jesus deu a Pedro a oportunidade de confirmar seu amor por ele três vezes e, então, lhe deu a responsabilidade de cuidar de suas ovelhas. Assim, Pedro, que tinha negado Jesus três vezes, pôde ter certeza absoluta de que Jesus tinha lhe perdoado.
+- *João*: De acordo com alguns manuscritos bem antigos, este versículo diz que o nome do pai do apóstolo Pedro era João. Mas, em outros manuscritos bem antigos, o pai dele é chamado de Jona. E, em Mt 16:17, Jesus chama Pedro de “Simão, filho de Jonas”. (Veja a nota de estudo em Mt 16:17.) Alguns estudiosos dizem que as formas gregas dos nomes João, Jona e Jonas podem ser apenas maneiras diferentes de escrever o mesmo nome hebraico.
+- *você me ama mais do que a estes?*: De acordo com a gramática grega, a frase “mais do que a estes” pode ter mais de um sentido. Alguns estudiosos preferem opções como “você me ama mais do que ama estes outros discípulos?” ou “você me ama mais do que estes discípulos me amam?” Mas é provável que o sentido seja “você me ama mais do que a estas coisas?”, se referindo aos peixes que os discípulos tinham pegado ou às coisas relacionadas ao negócio de pesca. Então, a ideia geral deste versículo parece ser: ‘Você me ama mais do que ama as coisas materiais e a busca por essas coisas? Se a resposta for sim, alimente meus cordeiros.’ Isso faria sentido por causa do passado de Pedro. Ele foi um dos primeiros discípulos de Jesus (Jo 1:35-42), mas não tomou logo a decisão de seguir a Jesus por tempo integral e voltou à pesca. Alguns meses depois, Jesus convidou Pedro a deixar para trás seu negócio de pesca e se tornar um ‘pescador de homens’. (Mt 4:18-20; Lu 5:1-11) Na ocasião registrada aqui, que aconteceu pouco depois da morte de Jesus, Pedro tinha novamente ido pescar e os outros apóstolos o acompanharam. (Jo 21:2, 3) Então, parece provável que Jesus estivesse deixando claro para Pedro que ele tinha que decidir, de uma vez por todas, o que viria em primeiro lugar em sua vida: a carreira na pesca (representada pelos peixes na sua frente) ou o trabalho de alimentar espiritualmente os cordeiros, ou seja, os seguidores de Jesus. — Jo 21:4-8.
+====
+
+[[v43-21-16]]
+
+^<<v43-21-16,16>>^ Novamente ele lhe perguntou, pela segunda vez: “Simão, filho de João, você me ama?” Ele lhe respondeu: “Sim, Senhor; o senhor sabe que eu o amo.”^&#42;1^ Ele lhe disse: “Pastoreie as minhas ovelhinhas.”
+
+[NOTE]
+====
+. Ou: “que eu tenho afeição pelo senhor”.
+====
+
+[TIP]
+====
+- *ama . . . amo*: Veja a nota de estudo em Jo 21:15.
+- *ovelhinhas*: A palavra grega probátion, traduzida aqui e no versículo 17 como “ovelhinhas”, é o diminutivo da palavra grega para “ovelhas”. Nas Escrituras Gregas Cristãs, o diminutivo muitas vezes é usado para indicar carinho e intimidade. — Veja o Glossário, “Diminutivo”.
+====
+
+[[v43-21-17]]
+
+^<<v43-21-17,17>>^ Ele lhe perguntou pela terceira vez: “Simão, filho de João, você me ama?”^&#42;1^ Pedro ficou triste por ele lhe perguntar pela terceira vez: “Você me ama?”^&#42;2^ Por isso, ele lhe disse: “Senhor, o senhor sabe todas as coisas. O senhor sabe que eu o amo.”^&#42;3^ Jesus lhe disse: “Alimente as minhas ovelhinhas.
+
+[NOTE]
+====
+. Ou: “você tem afeição por mim”.
+. Ou: “Você tem afeição por mim?”
+. Ou: “que eu tenho afeição pelo senhor”.
+====
+
+[TIP]
+====
+- *pela terceira vez*: Pedro tinha negado seu Senhor três vezes e Jesus lhe deu a oportunidade de confirmar seu amor por ele três vezes. Quando Pedro confirmou seu amor, Jesus disse que ele devia mostrar esse amor colocando o serviço a Deus acima de todas as outras coisas. Pedro estava entre os irmãos que tomariam a liderança e iriam alimentar, fortalecer e pastorear o rebanho de seguidores fiéis de Cristo. Apesar de serem ungidos, esses seguidores ainda precisariam ser alimentados em sentido espiritual. — Lu 22:32.
+====
+
+[[v43-21-18]]
+
+^<<v43-21-18,18>>^ Digo-lhe com toda a certeza: Quando você era mais jovem, você se vestia e andava por onde queria. Mas, quando envelhecer, estenderá as mãos, e outro homem o vestirá e o levará para onde você não quer.”
+
+[[v43-21-19]]
+
+^<<v43-21-19,19>>^ Disse isso para indicar com que tipo de morte ele glorificaria a Deus. Depois de dizer isso, disse-lhe: “Continue a me seguir.”
+
+[[v43-21-20]]
+
+^<<v43-21-20,20>>^ Pedro se virou e viu que o discípulo que Jesus amava os seguia, aquele que na refeição havia se encostado no peito dele e dito: “Senhor, quem é que o trai?”
+
+[TIP]
+====
+- *o discípulo que Jesus amava*: Ou seja, aquele que Jesus amava especialmente. Esta é a última das cinco vezes que este Evangelho menciona um discípulo “que Jesus amava”. (Jo 13:23; 19:26; 20:2; 21:7, 20) Acredita-se que esse discípulo seja o apóstolo João, filho de Zebedeu e irmão de Tiago. (Mt 4:21; Mr 1:19; Lu 5:10; Jo 21:2) Como mostra o contexto (Jo 21:20-24), “o discípulo que Jesus amava” era também “o discípulo . . . que escreveu essas coisas”, ou seja, o escritor do Evangelho de João. — Veja as notas de estudo em Jo Título; 1:6; 13:23.
+- *aquele que . . . havia se encostado no peito dele*: Veja a nota de estudo em Jo 13:23.
+====
+
+[[v43-21-21]]
+
+^<<v43-21-21,21>>^ Portanto, quando o viu, Pedro disse a Jesus: “Senhor, e o que acontecerá a este homem?”
+
+[[v43-21-22]]
+
+^<<v43-21-22,22>>^ Jesus lhe disse: “Se eu quiser que ele permaneça até eu vir, o que importa isso a você? Continue você a me seguir.”
+
+[TIP]
+====
+- *até eu vir*: Estas palavras de Jesus podem ter dado aos outros apóstolos a impressão de que João viveria mais do que eles. João continuou servindo fielmente por mais uns 70 anos e provavelmente foi mesmo o último apóstolo a morrer. Além disso, a expressão “até eu vir” pode ter lembrado os apóstolos do que Jesus tinha falado sobre “o Filho do Homem vir no seu Reino”. (Mt 16:28) Em certo sentido, João realmente permaneceu até Jesus vir. Quando João estava exilado na ilha de Patmos, já perto do fim de sua vida, ele recebeu as visões do livro de Apocalipse. E os impressionantes sinais proféticos dessas visões se referiam ao que iria acontecer durante o “dia do Senhor”, quando Jesus viria como Rei do Reino de Deus. João ficou tão emocionado com as visões que teve que, quando Jesus disse “sim, venho depressa”, ele exclamou: “Amém! Venha, Senhor Jesus.” — Ap 1:1, 9, 10; 22:20.
+====
+
+[[v43-21-23]]
+
+^<<v43-21-23,23>>^ Assim, espalhou-se entre os irmãos que esse discípulo não ia morrer. No entanto, Jesus não lhe disse que ele não ia morrer, mas disse: “Se eu quiser que ele permaneça até eu vir, o que importa isso a você?”
+
+[[v43-21-24]]
+
+^<<v43-21-24,24>>^ Esse é o discípulo que dá testemunho dessas coisas e que escreveu essas coisas, e nós sabemos que o testemunho dele é verdadeiro.
+
+[[v43-21-25]]
+
+^<<v43-21-25,25>>^ De fato, há também muitas outras coisas que Jesus fez. Se fossem escritas em todos os detalhes, suponho que o próprio mundo não poderia conter os rolos escritos.
+
+[TIP]
+====
+- *muitas outras coisas que Jesus fez*: Usando uma hipérbole, João disse que nem o próprio mundo teria espaço para guardar os rolos (o tipo de registro escrito usado na época) necessários para relatar todos os detalhes da vida de Jesus. Talvez João tenha usado aqui a palavra grega para “mundo” (kósmos) para se referir à humanidade como um todo (com todas as bibliotecas daquela época). Mas essa palavra era às vezes usada em escritos gregos não bíblicos para se referir ao inteiro Universo, ou seja, ao maior espaço que alguém poderia imaginar. (Compare com a nota de estudo em At 17:24.) O argumento de João era que havia muito mais sobre a vida de Jesus a ser escrito, mas que o “rolo” que ele escreveu e o restante das Escrituras eram mais do que suficientes para provar que “Jesus é o Cristo, o Filho de Deus”. (Jo 20:30, 31) O Evangelho de João é relativamente curto, mas faz um belo retrato de quem é o Filho de Deus.
+====
+
+'''
+
+xref:043-joao/043-joao-020.adoc#v43-20-0[&#60; Capítulo Anterior] | <<v43-21-0,Topo>> | xref:044-atos/044-atos-001.adoc#v44-1-0[Próximo Capítulo &#62;]

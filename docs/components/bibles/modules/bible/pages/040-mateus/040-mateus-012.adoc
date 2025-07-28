@@ -1,0 +1,395 @@
+include::./index.adoc[]
+
+[[v40-12-0]]
+=== As Boas Novas Segundo Mateus, 12
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Jesus viaja pela Galileia para ensinar (11:2–12:50)
+* João Batista pergunta sobre “Aquele Que Vem” (11:2-6)
+* Jesus elogia João Batista (11:7-15)
+* Geração indiferente (11:16-19)
+* Jesus condena Corazim, Betsaida e Cafarnaum (11:20-24)
+* Jesus louva seu Pai por revelar a verdade aos humildes (11:25-27)
+* Aceitar o jugo de Jesus e aprender dele reanima (11:28-30)
+* Jesus é “Senhor do sábado” (12:1-8)
+* Jesus cura no sábado um homem com a mão atrofiada (12:9-14)
+* Jesus é o servo amado de Deus (12:15-21)
+* Jesus expulsa demônios por meio do espírito santo, não por meio de Belzebu (12:22-30)
+* Pecado imperdoável (12:31, 32)
+* É pelo fruto que se conhece a árvore (12:33-37)
+* Sinal de Jonas (12:38-42)
+* Quando um espírito impuro volta (12:43-45)
+* Mãe e irmãos de Jesus (12:46-50)
+****
+
+[[v40-12-1]]
+
+^<<v40-12-1,1>>^ Naquela ocasião, Jesus passou pelos campos de cereais no sábado. Seus discípulos ficaram com fome e começaram a arrancar espigas e a comer.
+
+[TIP]
+====
+- *pelos campos de cereais*: Talvez usando trilhas que separavam os campos ou as propriedades.
+- *sábado*: Veja o Glossário.
+====
+
+[[v40-12-2]]
+
+^<<v40-12-2,2>>^ Vendo isso, os fariseus lhe disseram: “Veja! Seus discípulos estão fazendo o que não é permitido fazer no sábado.”
+
+[TIP]
+====
+- *o que não é permitido*: Jeová tinha ordenado aos israelitas que eles não trabalhassem no sábado. (Êx 20:8-10) Os líderes religiosos judaicos achavam que tinham o direito de definir em detalhes o que devia ser considerado trabalho. Na opinião deles, os discípulos de Jesus estavam desobedecendo à Lei por arrancar e esfregar cereais nas mãos. Para aqueles líderes religiosos, isso era equivalente a colher e debulhar. (Lu 6:1, 2) Mas essa interpretação da Lei ia além do que Jeová tinha ordenado.
+====
+
+[[v40-12-3]]
+
+^<<v40-12-3,3>>^ Ele lhes disse: “Vocês não leram o que Davi fez quando ele e seus homens ficaram com fome?
+
+[[v40-12-4]]
+
+^<<v40-12-4,4>>^ Como ele entrou na casa de Deus, e eles comeram os pães da apresentação, algo que não era permitido comer, nem a ele nem aos que estavam com ele, mas apenas aos sacerdotes?
+
+[TIP]
+====
+- *casa de Deus*: Veja a nota de estudo em Mr 2:26.
+- *pães da apresentação*: Ou: “pães da proposição”. A expressão grega usada aqui traduz uma expressão hebraica que significa literalmente “pão da face”. Era como se o pão oferecido regularmente a Jeová ficasse diante da face dele. — Êx 25:30; veja o Glossário e o Apêndice B5.
+====
+
+[[v40-12-5]]
+
+^<<v40-12-5,5>>^ Ou não leram na Lei que, nos sábados, os sacerdotes no templo violam o sábado e permanecem sem culpa?
+
+[TIP]
+====
+- *violam o sábado*: Ou seja, eles trabalhavam no sábado como se fosse qualquer outro dia. Eles abatiam animais e realizavam outras atividades relacionadas com os sacrifícios oferecidos no templo. — Núm 28:9, 10.
+====
+
+[[v40-12-6]]
+
+^<<v40-12-6,6>>^ Mas eu lhes digo que algo maior do que o templo está aqui.
+
+[[v40-12-7]]
+
+^<<v40-12-7,7>>^ No entanto, se vocês tivessem entendido o que significa: ‘Quero misericórdia, e não sacrifício’, não teriam condenado os inocentes.
+
+[TIP]
+====
+- *significa*: Lit.: “é”. Aqui o verbo grego estín é usado com o sentido de “significa”. — Veja a nota de estudo em Mt 26:26.
+- *misericórdia, e não sacrifício*: Veja a nota de estudo em Mt 9:13.
+====
+
+[[v40-12-8]]
+
+^<<v40-12-8,8>>^ Porque o Filho do Homem é Senhor do sábado.”
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *Senhor do sábado*: Jesus usou essa expressão para se referir a si mesmo (Mr 2:28; Lu 6:5), indicando que ele tinha autoridade para realizar no sábado o trabalho que Jeová tinha dado a ele. (Compare com Jo 5:19; 10:37, 38.) Jesus realizou alguns dos seus milagres mais impressionantes, incluindo curar pessoas doentes, no dia de sábado. (Lu 13:10-13; Jo 5:5-9; 9:1-14) É bem provável que isso apontasse para o alívio que ele vai trazer durante o seu reinado, que será como um sábado de descanso. — He 10:1.
+====
+
+[[v40-12-9]]
+
+^<<v40-12-9,9>>^ Depois de partir daquele lugar, entrou na sinagoga deles,
+
+[[v40-12-10]]
+
+^<<v40-12-10,10>>^ e havia ali um homem com a mão atrofiada.^&#42;1^ Assim, para que pudessem acusá-lo, perguntaram-lhe: “É permitido curar no sábado?”
+
+[NOTE]
+====
+. Ou: “paralisada”.
+====
+
+[TIP]
+====
+- *mão*: A palavra grega traduzida como “mão” é bem abrangente e pode se referir ao braço, à mão e aos dedos. — Veja também Mt 12:13.
+====
+
+[[v40-12-11]]
+
+^<<v40-12-11,11>>^ Ele lhes disse: “Se um de vocês tiver uma ovelha, e essa ovelha cair num buraco no sábado, será que não vai agarrá-la e tirá-la dali?
+
+[[v40-12-12]]
+
+^<<v40-12-12,12>>^ Quanto mais vale um homem do que uma ovelha! Por isso, é permitido fazer algo bom no sábado.”
+
+[TIP]
+====
+- *Quanto mais*: Veja a nota de estudo em Mt 7:11.
+====
+
+[[v40-12-13]]
+
+^<<v40-12-13,13>>^ Disse então ao homem: “Estenda a mão.” Ele a estendeu, e ela foi restabelecida e ficou boa como a outra mão.
+
+[[v40-12-14]]
+
+^<<v40-12-14,14>>^ Mas os fariseus saíram e começaram a conspirar contra ele, para o matar.
+
+[[v40-12-15]]
+
+^<<v40-12-15,15>>^ Ao saber disso, Jesus se retirou dali. Também, muitos o seguiram, e ele curou a todos,
+
+[[v40-12-16]]
+
+^<<v40-12-16,16>>^ mas lhes ordenou com firmeza que não dissessem a outros quem ele era,
+
+[TIP]
+====
+- *não dissessem a outros quem ele era*: Veja a nota de estudo em Mr 3:12.
+====
+
+[[v40-12-17]]
+
+^<<v40-12-17,17>>^ para que se cumprissem as palavras de Isaías, o profeta, que disse:
+
+[TIP]
+====
+- *para que se cumprissem as palavras de Isaías, o profeta*: Veja a nota de estudo em Mt 1:22.
+====
+
+[[v40-12-18]]
+
+^<<v40-12-18,18>>^ “Vejam o meu servo a quem escolhi, meu amado, a quem aprovo! Porei sobre ele o meu espírito, e ele esclarecerá às nações o que é justiça.
+
+[TIP]
+====
+- *Vejam*: Veja a nota de estudo em Mt 1:23.
+- *aprovo*: Ou: “minha alma aprova”. Mateus cita aqui Is 42:1 usando a palavra grega psykhé para traduzir a palavra hebraica néfesh. Essas duas palavras foram traduzidas para o português como “alma” em todas as ocorrências nas edições anteriores da Tradução do Novo Mundo. — Veja o Glossário, “Alma”.
+- *a quem aprovo*: Ou: “que me agrada muito”. — Veja a nota de estudo em Mt 3:17.
+====
+
+[[v40-12-19]]
+
+^<<v40-12-19,19>>^ Não discutirá, nem gritará, e ninguém ouvirá a sua voz nas ruas principais.
+
+[[v40-12-20]]
+
+^<<v40-12-20,20>>^ Não esmagará nenhuma cana machucada, nem apagará um pavio que ainda estiver fumegando, até trazer a justiça com êxito.
+
+[TIP]
+====
+- *um pavio que ainda estiver fumegando*: A lâmpada que as pessoas usavam em casa era um pequeno recipiente de barro. Elas colocavam azeite dentro da lâmpada, e um pavio de linho sugava o azeite para alimentar a chama. A expressão grega traduzida como “um pavio que ainda estiver fumegando” pode se referir a uma lâmpada que está quase apagando ou já apagou, mas que está soltando fumaça porque o pavio ainda está queimando. Mateus cita aqui a profecia de Is 42:3, que predisse que o Messias sentiria compaixão pelas pessoas. Ele nunca seria responsável por acabar com o último fio de esperança das pessoas humildes e oprimidas.
+- *com êxito*: Ou: “à vitória”. A palavra grega níkos é traduzida como “vitória” em 1Co 15:55, 57.
+====
+
+[[v40-12-21]]
+
+^<<v40-12-21,21>>^ Realmente, em seu nome as nações esperarão.”
+
+[[v40-12-22]]
+
+^<<v40-12-22,22>>^ Levaram-lhe então um homem possesso de demônio, que era cego e mudo, e ele o curou, de modo que o mudo pôde falar e ver.
+
+[[v40-12-23]]
+
+^<<v40-12-23,23>>^ Ora, todas as multidões ficaram maravilhadas e começaram a dizer: “Será que este não é o Filho de Davi?”
+
+[[v40-12-24]]
+
+^<<v40-12-24,24>>^ Ouvindo isso, os fariseus disseram: “Esse homem não expulsa os demônios senão por meio de Belzebu, o governante dos demônios.”
+
+[TIP]
+====
+- *Belzebu*: Nome usado para se referir a Satanás. — Veja a nota de estudo em Mt 10:25.
+====
+
+[[v40-12-25]]
+
+^<<v40-12-25,25>>^ Conhecendo os pensamentos deles, ele lhes disse: “Todo reino dividido contra si mesmo cai em ruína, e toda cidade ou casa dividida contra si mesma não ficará de pé.
+
+[TIP]
+====
+- *casa*: No idioma original, a palavra traduzida como “casa” pode se referir apenas aos membros de uma família ou incluir também escravos e empregados. Às vezes, se referia aos que moravam ou trabalhavam no palácio do rei. (At 7:10; Fil 4:22) A mesma palavra era usada para se referir a famílias reais como a dos Herodes e a dos Césares, onde brigas e divisões eram comuns e contribuíram para a sua queda. Aqui no relato de Mateus, a palavra “casa” aparece junto com a palavra cidade, indicando que divisões podem levar à queda de grupos de pessoas, tanto pequenos como grandes.
+====
+
+[[v40-12-26]]
+
+^<<v40-12-26,26>>^ Do mesmo modo, se Satanás expulsa a Satanás, ele ficou dividido contra si mesmo. Então, como o seu reino ficará de pé?
+
+[TIP]
+====
+- *Satanás*: Veja a nota de estudo em Mt 4:10.
+====
+
+[[v40-12-27]]
+
+^<<v40-12-27,27>>^ Além disso, se eu expulso os demônios por meio de Belzebu, por meio de quem seus filhos os expulsam? É por isso que eles julgarão vocês.
+
+[TIP]
+====
+- *filhos*: Aqui, a palavra é usada no sentido de “seguidores; discípulos”.
+- *eles*: Ou seja, “seus filhos”.
+- *julgarão vocês*: Ou seja, o que os “filhos” dos fariseus faziam mostrava que aquela acusação não fazia sentido.
+====
+
+[[v40-12-28]]
+
+^<<v40-12-28,28>>^ Mas, se é por meio do espírito de Deus que eu expulso os demônios, o Reino de Deus realmente alcançou vocês.^&#42;1^
+
+[NOTE]
+====
+. Ou: “já chegou até vocês; pegou vocês de surpresa”.
+====
+
+[TIP]
+====
+- *do espírito de Deus*: Ou: “da força ativa de Deus”. Em uma conversa parecida que Jesus teve em uma ocasião posterior (Lu 11:20), ele falou sobre expulsar demônios “por meio do dedo de Deus”. — Veja a nota de estudo em Lu 11:20.
+====
+
+[[v40-12-29]]
+
+^<<v40-12-29,29>>^ Ou como pode alguém invadir a casa de um homem forte e se apoderar de seus bens, a menos que primeiro amarre o homem forte? Só então poderá saquear a casa dele.
+
+[[v40-12-30]]
+
+^<<v40-12-30,30>>^ Quem não está do meu lado está contra mim, e quem comigo não ajunta, espalha.
+
+[[v40-12-31]]
+
+^<<v40-12-31,31>>^ “Por essa razão, eu lhes digo: Todo tipo de pecados e blasfêmias será perdoado aos homens, mas a blasfêmia contra o espírito não será perdoada.
+
+[TIP]
+====
+- *blasfêmia*: Inclui dizer coisas que ofendem ou difamam a Deus ou falar com desrespeito de coisas sagradas. Visto que o espírito santo vem do próprio Deus, a pessoa que intencionalmente age contra o espírito ou não reconhece sua atuação está blasfemando contra Deus. Conforme Mt 12:24, 28, os líderes religiosos judaicos viam Jesus realizar milagres por meio do espírito santo de Deus, mas atribuíam esse poder a Satanás, o Diabo.
+====
+
+[[v40-12-32]]
+
+^<<v40-12-32,32>>^ Por exemplo, quem falar uma palavra contra o Filho do Homem será perdoado; mas quem falar contra o espírito santo não será perdoado, não, nem neste sistema de coisas, nem no que virá.
+
+[TIP]
+====
+- *sistema de coisas*: A palavra grega usada aqui, aión, tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. Jesus estava dizendo que a blasfêmia contra o espírito santo não seria perdoada nem agora, neste sistema perverso governado por Satanás (2Co 4:4; Ef 2:2; Tit 2:12), nem no futuro sistema de coisas governado por Deus, onde as pessoas terão “vida eterna” (Lu 18:29, 30). — Veja o Glossário.
+====
+
+[[v40-12-33]]
+
+^<<v40-12-33,33>>^ “Se vocês cultivarem uma árvore boa, o fruto será bom; se cultivarem uma árvore ruim,^&#42;1^ o fruto será ruim.^&#42;2^ Pois é pelo fruto que se conhece a árvore.
+
+[NOTE]
+====
+. Ou: “podre”.
+. Ou: “podre”.
+====
+
+[[v40-12-34]]
+
+^<<v40-12-34,34>>^ Descendência de víboras, como vocês podem falar coisas boas se são maus? Pois a boca fala do que o coração está cheio.
+
+[TIP]
+====
+- *Descendência de víboras*: Veja a nota de estudo em Mt 23:33.
+====
+
+[[v40-12-35]]
+
+^<<v40-12-35,35>>^ O homem bom, do seu bom tesouro, faz sair coisas boas, ao passo que o homem mau, do seu mau tesouro, faz sair coisas más.
+
+[[v40-12-36]]
+
+^<<v40-12-36,36>>^ Eu lhes digo que os homens prestarão contas no Dia do Julgamento por toda declaração sem valor^&#42;1^ que fizerem;
+
+[NOTE]
+====
+. Ou: “inútil”.
+====
+
+[[v40-12-37]]
+
+^<<v40-12-37,37>>^ pois pelas suas palavras você será declarado justo e pelas suas palavras será condenado.”
+
+[[v40-12-38]]
+
+^<<v40-12-38,38>>^ Em vista disso, alguns escribas e fariseus disseram: “Instrutor, queremos ver um sinal da sua parte.”
+
+[[v40-12-39]]
+
+^<<v40-12-39,39>>^ Em resposta, ele lhes disse: “Uma geração má e adúltera persiste em buscar um sinal,^&#42;1^ mas nenhum sinal lhe será dado, exceto o sinal de Jonas, o profeta.
+
+[NOTE]
+====
+. Ou: “uma prova milagrosa”.
+====
+
+[TIP]
+====
+- *adúltera*: Assim como uma esposa adúltera não é fiel ao marido, aquela geração era adúltera em sentido espiritual porque não era fiel a Deus. — Veja a nota de estudo em Mr 8:38.
+- *sinal de Jonas*: Para Jonas, ser libertado da barriga do peixe depois de “três dias e três noites” foi como ser ressuscitado da Sepultura. (Jon 1:17–2:2) A ressurreição de Jesus da sepultura literal seria tão real quanto Jonas ter sido libertado da barriga do peixe. Mas, mesmo depois da ressurreição de Jesus no terceiro dia, aqueles críticos teimosos não tiveram fé nele.
+====
+
+[[v40-12-40]]
+
+^<<v40-12-40,40>>^ Porque, assim como Jonas esteve três dias e três noites no ventre do enorme peixe, assim o Filho do Homem estará três dias e três noites no coração da terra.
+
+[TIP]
+====
+- *três dias e três noites*: Outros textos da Bíblia indicam que essa expressão nem sempre se refere a três dias completos. Às vezes, pode-se encarar parte de um dia como um dia inteiro. — Gên 42:17, 18; 1Rs 12:5, 12; Mt 27:62-66; 28:1-6.
+====
+
+[[v40-12-41]]
+
+^<<v40-12-41,41>>^ Homens de Nínive se levantarão no julgamento com esta geração e a condenarão, porque eles se arrependeram com o que Jonas pregou. Mas agora alguém maior do que Jonas está aqui.
+
+[[v40-12-42]]
+
+^<<v40-12-42,42>>^ A rainha do sul será levantada no julgamento com esta geração e a condenará, porque ela veio dos confins da terra para ouvir a sabedoria de Salomão. Mas agora alguém maior do que Salomão está aqui.
+
+[TIP]
+====
+- *rainha do sul*: Ou seja, a rainha de Sabá. Acredita-se que o reino dela ficava no sudoeste da Arábia. — 1Rs 10:1.
+====
+
+[[v40-12-43]]
+
+^<<v40-12-43,43>>^ “Quando um espírito impuro sai de um homem, ele passa por lugares áridos procurando onde descansar e não acha nada.
+
+[[v40-12-44]]
+
+^<<v40-12-44,44>>^ Então diz: ‘Voltarei para a minha casa, da qual me mudei’; e, ao chegar, acha a casa desocupada, varrida e decorada.
+
+[[v40-12-45]]
+
+^<<v40-12-45,45>>^ Então vai e traz consigo outros sete espíritos, piores do que ele mesmo, e, depois de entrarem, ficam morando ali; e a situação final desse homem se torna pior do que no início. É assim que será também com esta geração má.”
+
+[[v40-12-46]]
+
+^<<v40-12-46,46>>^ Enquanto ainda falava às multidões, sua mãe e seus irmãos ficaram parados do lado de fora, querendo falar com ele.
+
+[TIP]
+====
+- *irmãos*: Ou seja, os meios-irmãos de Jesus. O nome deles aparece em Mt 13:55 e em Mr 6:3. — Para mais informações sobre a palavra “irmão”, veja a nota de estudo em Mt 13:55.
+====
+
+[[v40-12-47]]
+
+^<<v40-12-47,47>>^ Portanto, alguém lhe disse: “Veja! Sua mãe e seus irmãos estão lá fora, querendo falar com o senhor.”
+
+[TIP]
+====
+- *Portanto, alguém . . . com o senhor*: Este versículo não aparece em alguns manuscritos bem antigos.
+====
+
+[[v40-12-48]]
+
+^<<v40-12-48,48>>^ Ele respondeu ao que lhe falou: “Quem é minha mãe e quem são meus irmãos?”
+
+[[v40-12-49]]
+
+^<<v40-12-49,49>>^ E, estendendo a mão para seus discípulos, disse: “Aqui estão a minha mãe e os meus irmãos!
+
+[TIP]
+====
+- *Aqui estão a minha mãe e os meus irmãos!*: Jesus fez aqui um contraste entre seus irmãos de sangue e seus irmãos espirituais, os discípulos. Pelo visto, alguns dos meios-irmãos de Jesus não tinham fé nele. (Jo 7:5) Por outro lado, seus discípulos se esforçavam em fazer ‘a vontade do Pai’. (Mt 12:50) Jesus mostrou que, por mais que amasse os membros de sua família, o amor que sentia por seus discípulos era ainda maior.
+====
+
+[[v40-12-50]]
+
+^<<v40-12-50,50>>^ Pois quem faz a vontade do meu Pai, que está no céu, esse é meu irmão, minha irmã e minha mãe.”
+
+'''
+
+xref:040-mateus/040-mateus-011.adoc#v40-11-0[&#60; Capítulo Anterior] | <<v40-12-0,Topo>> | xref:040-mateus/040-mateus-013.adoc#v40-13-0[Próximo Capítulo &#62;]

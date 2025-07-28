@@ -1,0 +1,516 @@
+include::./index.adoc[]
+
+[[v42-12-0]]
+=== As Boas Novas Segundo Lucas, 12
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Jesus se dirige para Jerusalém; Jesus continua seu ministério, principalmente na Judeia e na Pereia (9:51–19:27)
+* Aldeia samaritana rejeita Jesus (9:51-56)
+* Requisitos para seguir Jesus (9:57-62)
+* Jesus envia os 70 (10:1-12)
+* Corazim, Betsaida e Cafarnaum são repreendidas por não se arrependerem (10:13-16)
+* Os 70 voltam (10:17-20)
+* Jesus louva seu Pai por favorecer os humildes (10:21-24)
+* Ilustração do bom samaritano (10:25-37)
+* Jesus visita Marta e Maria (10:38-42)
+* Jesus ensina a oração-modelo (11:1-4)
+* Ilustração do amigo persistente (11:5-13)
+* Jesus explica que os demônios são expulsos “por meio do dedo de Deus” (11:14-23)
+* Jesus fala da volta de um espírito impuro (11:24-26)
+* Explicação sobre a verdadeira felicidade (11:27, 28)
+* Sinal de Jonas (11:29-32)
+* Olho é a lâmpada do corpo (11:33-36)
+* Jesus come com um fariseu; ai dos religiosos hipócritas (11:37-54)
+* “Tomem cuidado com o fermento dos fariseus” (12:1-3)
+* Temer a Deus, não a homens (12:4-7)
+* Declarar que está em união com Cristo (12:8-12)
+* Ilustração do rico insensato (12:13-21)
+* “Parem de se preocupar tanto com a sua vida” (12:22-31)
+* “Não tema, pequeno rebanho” (12:32-34)
+* Manter a vigilância (12:35-40)
+* Identificação do administrador fiel e características de um escravo infiel (12:41-48)
+* Não paz, mas divisão (12:49-53)
+* Necessidade de examinar os tempos (12:54-56)
+* Resolver disputas (12:57-59)
+* Arrepender-se ou ser destruído (13:1-5)
+* Ilustração da figueira infrutífera (13:6-9)
+* Jesus cura no sábado uma mulher encurvada (13:10-17)
+* Ilustrações do grão de mostarda e do fermento (13:18-21)
+* É preciso esforço para entrar pela porta estreita (13:22-30)
+* Jesus chama Herodes de ‘aquela raposa’ (13:31-33)
+* Jesus lamenta por Jerusalém (13:34, 35)
+* Jesus cura no sábado um homem com hidropisia (14:1-6)
+* Ser um convidado humilde (14:7-11)
+* Convidar os que não podem recompensar (14:12-14)
+* Ilustração dos convidados que recusam o convite (14:15-24)
+* Custo de ser discípulo (14:25-33)
+* Sal que perde a força (14:34, 35)
+* Ilustração da ovelha perdida (15:1-7)
+* Ilustração da moeda perdida (15:8-10)
+* Ilustração do filho pródigo (15:11-32)
+* Ilustração do administrador injusto (16:1-13)
+* A Lei e o Reino de Deus (16:14-18)
+* Ilustração do rico e Lázaro (16:19-31)
+* Jesus ensina sobre tropeços, perdão e fé (17:1-6)
+* Ilustração do escravo que serve primeiro seu senhor (17:7-10)
+* Jesus cura dez leprosos (17:11-19)
+* Vinda do Reino de Deus (17:20-37)
+* Ilustração da viúva persistente (18:1-8)
+* Ilustração do fariseu e do cobrador de impostos (18:9-14)
+* Jesus e as criancinhas (18:15-17)
+* Líder rico pergunta sobre a vida eterna (18:18-30)
+* Jesus prediz novamente sua morte e ressurreição (18:31-34)
+* Jesus cura um mendigo cego perto de Jericó (18:35-43)
+* Jesus visita o cobrador de impostos Zaqueu (19:1-10)
+* Ilustração das dez minas (19:11-27)
+****
+
+[[v42-12-1]]
+
+^<<v42-12-1,1>>^ Enquanto isso, quando uma multidão de muitos milhares havia se ajuntado a ponto de atropelarem uns aos outros, ele começou a falar, dirigindo-se primeiro aos discípulos: “Tomem cuidado com o fermento dos fariseus, que é a hipocrisia.
+
+[TIP]
+====
+- *de muitos milhares*: Lit.: “das miríades”. O sentido literal da palavra grega usada aqui é “miríade” (grupo de 10.000), mas ela também pode ser usada para representar um número muito grande e indeterminado.
+- *fermento*: Ou: “levedo”. A Bíblia muitas vezes usa a palavra “fermento” para representar coisas negativas, como o pecado e a maldade. Aqui, ela representa a influência e os ensinos prejudiciais das pessoas de quem Jesus estava falando. — Mt 16:6, 11, 12; 1Co 5:6-8.
+====
+
+[[v42-12-2]]
+
+^<<v42-12-2,2>>^ Mas não há nada cuidadosamente oculto que não venha a ser revelado, e não há nada secreto que não se torne conhecido.
+
+[[v42-12-3]]
+
+^<<v42-12-3,3>>^ Portanto, tudo que vocês dizem na escuridão será ouvido na luz, e o que sussurram^&#42;1^ em aposentos reservados será pregado dos terraços das casas.
+
+[NOTE]
+====
+. Lit.: “falaram ao ouvido”.
+====
+
+[TIP]
+====
+- *na luz*: Ou seja, abertamente, em público.
+- *pregado dos terraços das casas*: Veja a nota de estudo em Mt 10:27.
+====
+
+[[v42-12-4]]
+
+^<<v42-12-4,4>>^ Além disso, eu lhes digo, meus amigos: Não temam os que matam o corpo e depois disso não podem fazer mais nada.
+
+[[v42-12-5]]
+
+^<<v42-12-5,5>>^ Mas eu lhes mostrarei a quem vocês devem temer: temam Aquele que, depois de matar, tem autoridade para lançar na Geena. Sim, eu lhes digo, temam a esse.
+
+[TIP]
+====
+- *Geena*: Veja a nota de estudo em Mt 5:22.
+====
+
+[[v42-12-6]]
+
+^<<v42-12-6,6>>^ Não se vendem cinco pardais por duas moedas de pequeno valor? Contudo, nem mesmo um deles é esquecido por Deus.^&#42;1^
+
+[NOTE]
+====
+. Ou: “é negligenciado por Deus; passa despercebido por Deus”.
+====
+
+[TIP]
+====
+- *pardais*: Veja a nota de estudo em Mt 10:29.
+- *por duas moedas de pequeno valor*: Lit.: “por dois assários”. Antes disso, quando Jesus estava fazendo sua terceira viagem pela Galileia, ele tinha dito que dois pardais custavam um assário. (Mt 10:29) Um assário era o valor equivalente a 45 minutos de trabalho. (Veja o Apêndice B14-B.) Jesus fez a declaração registrada aqui por Lucas provavelmente um ano mais tarde, enquanto estava pregando na Judeia. Dessa vez, ele disse que cinco pardais podiam ser comprados por dois assários. Comparando os dois relatos, parece que os pardais valiam tão pouco que, se alguém comprasse quatro pardais, podia levar mais um de graça.
+====
+
+[[v42-12-7]]
+
+^<<v42-12-7,7>>^ Mas até mesmo os cabelos da cabeça de vocês estão todos contados. Não tenham medo; vocês valem mais do que muitos pardais.
+
+[TIP]
+====
+- *até mesmo os cabelos da cabeça de vocês estão todos contados*: Veja a nota de estudo em Mt 10:30.
+====
+
+[[v42-12-8]]
+
+^<<v42-12-8,8>>^ “Eu lhes digo: Todo aquele que declarar diante dos homens que está em união comigo, o Filho do Homem também declarará, diante dos anjos de Deus, estar em união com ele.
+
+[[v42-12-9]]
+
+^<<v42-12-9,9>>^ Mas quem me negar diante dos homens será negado diante dos anjos de Deus.
+
+[[v42-12-10]]
+
+^<<v42-12-10,10>>^ E todo aquele que disser uma palavra contra o Filho do Homem será perdoado; mas quem blasfemar contra o espírito santo não será perdoado.
+
+[[v42-12-11]]
+
+^<<v42-12-11,11>>^ Quando levarem vocês diante de assembleias públicas, funcionários do governo e autoridades, não fiquem preocupados^&#42;1^ com o que falar ou como falar em sua defesa, ou com o que vocês dirão,
+
+[NOTE]
+====
+. Ou: “ansiosos”.
+====
+
+[TIP]
+====
+- *assembleias públicas*: Ou, possivelmente: “sinagogas”. A palavra grega usada aqui, synagogé, significa literalmente “um ajuntamento; uma assembleia”. Na maioria das vezes que essa palavra aparece nas Escrituras Gregas Cristãs, ela se refere ao prédio ou local onde os judeus se reuniam para a leitura das Escrituras, instrução e oração. (Veja o Glossário, “Sinagoga”.) Já que havia tribunais locais que funcionavam nas sinagogas, é possível que Jesus estivesse se referindo a elas neste versículo. (Veja a nota de estudo em Mt 10:17.) Mas é mais provável que aqui synagogé tenha sido usada com um sentido mais amplo e se refira a um tipo de reunião aberta ao público em geral, tanto a judeus como a não judeus. Assembleias públicas desse tipo realmente eram realizadas com o objetivo de abrir processos contra os cristãos, e pode ser até que nessas assembleias se pudesse tomar certas decisões judiciais contra os cristãos por causa de sua fé.
+====
+
+[[v42-12-12]]
+
+^<<v42-12-12,12>>^ pois o espírito santo lhes ensinará naquela mesma hora o que devem dizer.”
+
+[[v42-12-13]]
+
+^<<v42-12-13,13>>^ Então alguém na multidão lhe disse: “Instrutor, diga a meu irmão que divida comigo a herança.”
+
+[TIP]
+====
+- *divida comigo a herança*: A Lei mosaica tinha regras bem claras sobre como as heranças deviam ser divididas entre os irmãos. O filho mais velho recebia “uma porção dupla” (duas partes) da herança, porque assumia as responsabilidades de chefe da família. (De 21:17) O restante da herança era dividido entre os outros herdeiros. É provável que o homem citado neste versículo fosse ganancioso e quisesse receber mais do que a Lei determinava. Isso talvez explique a atitude desrespeitosa que ele teve quando interrompeu Jesus, que estava falando sobre assuntos espirituais, para fazer um pedido relacionado a dinheiro. Depois de sabiamente se recusar a se envolver no assunto, Jesus deu um alerta contra a ganância.
+====
+
+[[v42-12-14]]
+
+^<<v42-12-14,14>>^ Ele lhe respondeu: “Homem, quem me designou como juiz ou me deu o direito de repartir os bens entre vocês dois?”
+
+[TIP]
+====
+- *me deu o direito de repartir os bens*: Ou: “me designou como árbitro”. Jesus reconheceu que não precisava se envolver naquele assunto, já que a Lei mosaica era clara sobre o que devia ser feito. Além disso, a Lei determinava que eram os anciãos que deviam cuidar dos desentendimentos relacionados com assuntos financeiros. E Jesus sabia que tinha sido enviado para a Terra para pregar as boas novas do Reino de Deus, e não para se envolver em assuntos como esse.
+====
+
+[[v42-12-15]]
+
+^<<v42-12-15,15>>^ Então lhes disse: “Mantenham os olhos abertos e resguardem-se de todo tipo de ganância, porque, mesmo quando alguém tem abundância, sua vida não vem das coisas que possui.”
+
+[TIP]
+====
+- *ganância*: Ou: “cobiça”. A palavra grega usada aqui, pleonexía, significa literalmente “ter mais”. Ela transmite a ideia de desejar ter sempre mais, sem nunca ficar satisfeito. A mesma palavra grega é usada em Ef 4:19 e 5:3. No texto de Col 3:5, depois de mencionar a ganância (pleonexía), Paulo acrescenta que ela “é idolatria”.
+====
+
+[[v42-12-16]]
+
+^<<v42-12-16,16>>^ Com isso, contou-lhes uma ilustração, dizendo: “A terra de um homem rico produziu bem.
+
+[TIP]
+====
+- *uma ilustração*: Veja a nota de estudo em Mt 13:3.
+====
+
+[[v42-12-17]]
+
+^<<v42-12-17,17>>^ Por isso, ele começou a raciocinar no íntimo: ‘O que farei agora que não tenho onde ajuntar minhas safras?’
+
+[[v42-12-18]]
+
+^<<v42-12-18,18>>^ E disse: ‘Farei o seguinte: derrubarei os meus celeiros e construirei maiores, e ali ajuntarei todo o meu cereal e todos os meus bens;
+
+[[v42-12-19]]
+
+^<<v42-12-19,19>>^ e direi a mim mesmo: “Você tem muitas coisas boas armazenadas para muitos anos. Descanse, coma, beba, divirta-se.”’
+
+[TIP]
+====
+- *a mim mesmo*: Ou: “à minha alma”. A palavra grega psykhé, traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, aparece três vezes nos versículos 19 e 20. O significado dessa palavra varia de acordo com o contexto. (Veja o Glossário, “Alma”.) Aqui “alma” se refere à pessoa em si — de carne e osso, que se pode ver e tocar — e não a algo invisível que supostamente exista dentro do corpo humano. Assim, “à minha alma” e “a mim mesmo” significam basicamente a mesma coisa. — Veja a nota de estudo em Você tem neste versículo e a nota de estudo em Lu 12:20.
+- *Você tem*: Ou: “Alma, você tem”. Aqui, o homem insensato estava falando com ele mesmo. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, se refere aqui à pessoa em si, como mostra a nota de estudo em a mim mesmo neste versículo. — Veja o Glossário, “Alma”.
+====
+
+[[v42-12-20]]
+
+^<<v42-12-20,20>>^ Mas Deus lhe disse: ‘Insensato, esta noite exigirão de você a sua vida. Quem terá então as coisas que você acumulou?’
+
+[TIP]
+====
+- *Insensato*: Ou: “Seu tolo”. A Bíblia geralmente usa as palavras “insensato” e “tolo” para se referir a uma pessoa que despreza o bom senso e segue um caminho que vai contra os padrões de moral de Deus, e não a alguém sem inteligência.
+- *exigirão de você a sua vida*: Aqui, o verbo grego para “exigir” está na terceira pessoa do plural (deixando o sujeito indeterminado) apenas para indicar o que aconteceria. Jesus não estava dizendo que um grupo de humanos ou de anjos tiraria a vida daquele homem. O ponto não era quem tiraria a vida dele ou como ele morreria, mas simplesmente que isso aconteceria naquela noite. Assim, a tradução também poderia ser “a sua vida será exigida de você”.
+- *a sua vida*: Ou: “a sua alma”. Assim como mostra a nota de estudo em Lu 12:19, o significado da palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, varia de acordo com o contexto. Aqui, a palavra se refere à vida da pessoa. — Veja o Glossário, “Alma”.
+====
+
+[[v42-12-21]]
+
+^<<v42-12-21,21>>^ Isso é o que acontece com o homem que acumula tesouros para si, mas não é rico para com Deus.”
+
+[TIP]
+====
+- *rico para com Deus*: Ou: “rico aos olhos de Deus”. Ou seja, rico em coisas que Deus considera importantes.
+====
+
+[[v42-12-22]]
+
+^<<v42-12-22,22>>^ Ele disse então aos seus discípulos: “É por isso que eu lhes digo: Parem de se preocupar tanto^&#42;1^ com a sua vida, quanto ao que comer, e com o seu corpo, quanto ao que vestir.
+
+[NOTE]
+====
+. Ou: “de estar ansiosos”.
+====
+
+[TIP]
+====
+- *Parem de se preocupar tanto*: Ou: “Parem de estar ansiosos”. O tempo verbal do verbo grego traduzido como “se preocupar tanto” (merimnáo) transmite a ideia de interromper uma ação que já está em andamento. Esse verbo pode indicar o tipo de ansiedade que divide e distrai a mente da pessoa, tirando sua alegria. Ele também aparece em outros versículos do Evangelho de Lucas (Lu 12:11, 25, 26) e em algumas das cartas de Paulo (1Co 7:32-34; Fil 4:6). — Veja a nota de estudo em Mt 6:25.
+- *a sua vida*: Ou: “a sua alma”. A palavra grega usada aqui, psykhé, foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo. Neste versículo, ela se refere à vida da pessoa. — Veja o Glossário, “Alma”.
+====
+
+[[v42-12-23]]
+
+^<<v42-12-23,23>>^ Pois a vida vale mais do que o alimento, e o corpo mais do que a roupa.
+
+[TIP]
+====
+- *a vida*: Ou: “a alma”. Assim como no versículo anterior, a palavra grega usada aqui, psykhé, se refere à vida da pessoa. Neste contexto, as palavras vida (alma) e corpo, usadas em conjunto, representam a pessoa como um todo.
+====
+
+[[v42-12-24]]
+
+^<<v42-12-24,24>>^ Vejam os corvos: eles não semeiam nem colhem, não têm nem celeiro nem depósito; contudo, Deus os alimenta. Será que vocês não valem muito mais do que as aves?
+
+[TIP]
+====
+- *corvos*: Esta é a única vez que as Escrituras Gregas Cristãs mencionam corvos. Jesus já tinha dado um conselho muito parecido quando fez o Sermão do Monte, na Galileia, mas naquela ocasião ele não citou um pássaro específico. (Mt 6:26) As palavras de Jesus registradas aqui por Lucas foram ditas cerca de um ano e meio mais tarde, quando Jesus estava pregando na Judeia. Dessa vez, Jesus deu ainda mais força a seu conselho por citar os corvos, que eram pássaros impuros de acordo com a Lei. (Le 11:13, 15) A lição era clara: se Deus cuidava até mesmo de pássaros que eram considerados impuros, ele com certeza cuidaria dos que confiavam nele.
+====
+
+[[v42-12-25]]
+
+^<<v42-12-25,25>>^ Quem de vocês, por estar ansioso, pode acrescentar um côvado à duração da sua vida?
+
+[TIP]
+====
+- *um côvado*: Veja a nota de estudo em Mt 6:27.
+- *duração da sua vida*: Veja a nota de estudo em Mt 6:27.
+====
+
+[[v42-12-26]]
+
+^<<v42-12-26,26>>^ Portanto, se vocês não podem fazer uma coisa tão pequena, por que se preocupam tanto com as outras coisas?
+
+[TIP]
+====
+- *uma coisa tão pequena*: Lit.: “a menor coisa”. Parece que estas palavras se referem ao que foi dito no versículo anterior sobre acrescentar 1 côvado à duração da vida. Em outras palavras, Jesus estava dizendo: “Se os humanos não conseguem aumentar a duração de sua vida, de que adianta se preocupar tanto em acumular riquezas, alimento e roupas, e em ter muitas casas e propriedades?”
+====
+
+[[v42-12-27]]
+
+^<<v42-12-27,27>>^ Vejam como os lírios crescem: eles não trabalham nem fiam; mas eu lhes digo que nem mesmo Salomão, em toda a sua glória, se vestia como um deles.
+
+[TIP]
+====
+- *os lírios*: Alguns acreditam que se refere a uma flor conhecida como anêmona, mas a palavra grega para “lírios” poderia incluir várias flores parecidas com os lírios, como por exemplo, tulipas, jacintos, íris e gladíolos. Alguns tradutores sugerem que Jesus estava falando de modo geral das muitas flores silvestres que crescem na região. Por isso, eles traduzem a palavra como “flores do campo”. Essa conclusão pode estar correta, já que essas mesmas flores são chamadas de “vegetação do campo” no próximo versículo (Lu 12:28) e em Mt 6:28-30.
+====
+
+[[v42-12-28]]
+
+^<<v42-12-28,28>>^ Então, se Deus veste assim a vegetação do campo, que hoje existe e amanhã é lançada no forno, quanto mais ele vestirá a vocês, homens de pouca fé!
+
+[TIP]
+====
+- *vegetação . . . forno*: Veja a nota de estudo em Mt 6:30.
+- *homens de pouca fé*: Veja a nota de estudo em Mt 6:30.
+====
+
+[[v42-12-29]]
+
+^<<v42-12-29,29>>^ Assim, parem de procurar o que comer e o que beber, e parem de ficar excessivamente preocupados;
+
+[TIP]
+====
+- *parem de ficar excessivamente preocupados*: Ou: “parem de ficar angustiados”. Esta é a única vez que a palavra grega meteorízomai, traduzida aqui como “ficar excessivamente preocupados”, aparece nas Escrituras Gregas Cristãs. No grego clássico, a palavra transmitia a ideia de “elevar; suspender”, e era usada nesse sentido para falar até de navios jogados pelas ondas do mar. Mas aqui ela é usada em sentido figurado para falar de alguém que está preocupado ou agitado, como que perdido ou jogado de um lado para o outro pelas dúvidas ou ansiedades.
+====
+
+[[v42-12-30]]
+
+^<<v42-12-30,30>>^ porque é por todas essas coisas que as nações do mundo se empenham ansiosamente, mas o seu Pai sabe que vocês necessitam dessas coisas.
+
+[[v42-12-31]]
+
+^<<v42-12-31,31>>^ Em vez disso, continuem a buscar o Reino dele, e essas coisas lhes serão acrescentadas.
+
+[TIP]
+====
+- *continuem a buscar*: No grego, o tempo verbal usado aqui indica uma ação contínua, e a tradução também poderia ser “sempre busquem”. Os verdadeiros discípulos de Jesus não deviam “buscar o Reino” apenas por um tempo e depois se concentrar em outras coisas. Para eles, o Reino devia ser sempre a coisa mais importante na vida. Jesus já tinha dado esse conselho enquanto estava na Galileia, como parte do Sermão do Monte. (Mt 6:33) As palavras de Jesus, registradas aqui por Lucas, foram ditas cerca de um ano e meio depois do Sermão do Monte, provavelmente quando Jesus estava pregando na Judeia. Parece que Jesus achou apropriado repetir seu conselho.
+====
+
+[[v42-12-32]]
+
+^<<v42-12-32,32>>^ “Não tema, pequeno rebanho, porque o seu Pai se agradou de dar o Reino a vocês.
+
+[[v42-12-33]]
+
+^<<v42-12-33,33>>^ Vendam as suas coisas e deem aos pobres. Façam para vocês bolsas de dinheiro que não se gastem, um tesouro que nunca acabe, nos céus, onde o ladrão não chega perto nem a traça consome.
+
+[TIP]
+====
+- *deem aos pobres*: Ou: “façam dádivas de misericórdia”. Veja a nota de estudo em Mt 6:2.
+====
+
+[[v42-12-34]]
+
+^<<v42-12-34,34>>^ Pois onde estiver o seu tesouro, ali estará também o seu coração.
+
+[[v42-12-35]]
+
+^<<v42-12-35,35>>^ “Estejam vestidos e preparados, estejam com as suas lâmpadas acesas,
+
+[TIP]
+====
+- *Estejam vestidos e preparados*: Lit.: “Tenham seus lombos cingidos”. Essa expressão idiomática muitas vezes se refere ao costume dos tempos bíblicos de passar as pontas de uma roupa comprida por entre as pernas e prendê-las debaixo do cinto, tornando mais fácil realizar trabalhos pesados, correr, etc. Com o tempo a expressão passou a ser usada de forma mais abrangente para transmitir a ideia de estar preparado. As Escrituras Hebraicas têm várias ocorrências de expressões parecidas com essa. (Por exemplo, veja 2Rs 4:29 e as notas de rodapé em Êx 12:11; 1Rs 18:46; 2Rs 3:21; Pr 31:17; Je 1:17.) O tempo verbal usado aqui indica um estado contínuo. Assim, a expressão mostra que os servos de Deus deveriam estar sempre prontos para realizar atividades espirituais. Em Lu 12:37, o mesmo verbo grego é traduzido como “se vestirá para servir”. Em 1Pe 1:13, a expressão “preparem a mente para atividade” significa literalmente “cinjam os lombos de sua mente”.
+====
+
+[[v42-12-36]]
+
+^<<v42-12-36,36>>^ sejam como homens que esperam o seu senhor voltar^&#42;1^ do casamento,^&#42;2^ para que, quando ele vier e bater à porta, possam imediatamente abrir-lhe.
+
+[NOTE]
+====
+. Ou: “partir; sair”.
+. Ou: “da festa de casamento”.
+====
+
+[[v42-12-37]]
+
+^<<v42-12-37,37>>^ Felizes aqueles escravos cujo senhor, quando vier, os encontrar vigiando! Digo a verdade a vocês: Ele se vestirá para servir, fará que se recostem à mesa e virá servi-los.
+
+[TIP]
+====
+- *Ele se vestirá para servir*: Lit.: “Ele se cingirá”. — Veja as notas de estudo em Lu 12:35; 17:8.
+====
+
+[[v42-12-38]]
+
+^<<v42-12-38,38>>^ E, se ele vier na segunda vigília, ou mesmo na terceira, e os encontrar preparados, felizes são!
+
+[TIP]
+====
+- *segunda vigília*: Ou seja, de cerca das 9 horas da noite até à meia-noite. Este versículo faz referência às quatro vigílias, ou turnos, em que a noite era dividida pelos gregos e romanos. Antes, os israelitas dividiam a noite em três vigílias de cerca de quatro horas. (Êx 14:24; Jz 7:19) Mas, na época de Jesus, eles já usavam o sistema romano. — Veja as notas de estudo em Mt 14:25; Mr 13:35.
+- *na terceira*: Ou seja, da meia-noite a cerca de 3 horas da manhã. — Veja a nota de estudo em Mr 13:35.
+====
+
+[[v42-12-39]]
+
+^<<v42-12-39,39>>^ Mas saibam que, se o dono da casa soubesse a que hora viria o ladrão, não deixaria que a sua casa fosse arrombada.
+
+[[v42-12-40]]
+
+^<<v42-12-40,40>>^ Vocês também, mantenham-se prontos, porque o Filho do Homem virá numa hora que vocês não acham provável.”
+
+[[v42-12-41]]
+
+^<<v42-12-41,41>>^ Pedro perguntou então: “Senhor, essa ilustração é só para nós ou também para todos?”
+
+[[v42-12-42]]
+
+^<<v42-12-42,42>>^ E o Senhor disse: “Quem é realmente o administrador fiel, o prudente, a quem o seu senhor encarregará do grupo de assistentes para sempre dar a eles a sua medida de mantimentos no tempo apropriado?
+
+[TIP]
+====
+- *administrador*: Ou: “administrador da casa; mordomo”. A palavra grega usada aqui, oikonómos, se refere a uma pessoa que, apesar de ser um servo, tinha autoridade sobre outros servos. Essa era uma função de grande confiança, já que o administrador supervisionava todos os assuntos relacionados ao seu senhor. Nos tempos antigos, a pessoa escolhida para essa função muitas vezes era um escravo fiel. O servo de Abraão “que administrava tudo o que [Abraão] possuía” é um exemplo de alguém que tinha essa função. (Gên 24:2) Conforme mostra Gên 39:4, José também serviu como administrador. Em sua ilustração, Jesus usou a palavra “administrador” no singular, mas isso não quer dizer que ele estivesse se referindo a apenas uma pessoa. A Bíblia às vezes usa palavras no singular para se referir a grupos. Um exemplo disso está em Is 43:10, onde Jeová disse à nação de Israel: “Vocês são as minhas testemunhas [plural] . . . meu servo [singular] a quem escolhi.” Aqui em Lucas, o administrador da ilustração de Jesus representa um grupo. Em outra ocasião, quando Jesus fez uma ilustração sobre o mesmo assunto, ele chamou o administrador de “escravo fiel e prudente”. — Mt 24:45.
+- *o prudente*: Ou: “o sábio”. A palavra grega frónimos é um adjetivo e transmite a ideia de alguém que tem entendimento. Ela também está ligada a qualidades como discernimento, perspicácia, cautela, sensatez e sabedoria prática. Lucas usa uma forma dessa palavra em Lu 16:8, onde ela foi traduzida como “mais sábios em sentido prático”. A mesma palavra grega é usada em Mt 7:24 e 25:2, 4, 8, 9. A Septuaginta usa essa palavra em Gên 41:33, 39 para se referir a José.
+- *do grupo de assistentes*: Ou: “dos servos domésticos; dos empregados da casa”. A palavra grega usada aqui (therapeía) tem basicamente o mesmo sentido da palavra grega usada em Mt 24:45 (oiketeía), e se refere a todos os que trabalham na casa do senhor, ou amo. Lucas, talvez por causa de sua formação, usa aqui uma palavra de uso frequente no grego clássico.
+====
+
+[[v42-12-43]]
+
+^<<v42-12-43,43>>^ Feliz aquele escravo se o seu senhor, quando vier, o encontrar fazendo isso!
+
+[TIP]
+====
+- *aquele escravo*: O administrador mencionado no versículo 42 é chamado aqui de “escravo”. (Veja a nota de estudo em Lu 12:42.) Se ele fosse fiel, seria recompensado. (Lu 12:44) Em outra ocasião, quando Jesus fez uma ilustração sobre o mesmo assunto, ele chamou o administrador de “escravo fiel e prudente”. — Mt 24:45-47; veja a nota de estudo em Lu 12:45.
+====
+
+[[v42-12-44]]
+
+^<<v42-12-44,44>>^ Digo a verdade a vocês: Ele o encarregará de todos os seus bens.
+
+[[v42-12-45]]
+
+^<<v42-12-45,45>>^ Mas, se aquele escravo disser no coração: ‘Meu senhor demora a vir’, e começar a espancar os servos e as servas, e a comer, beber e se embriagar,
+
+[TIP]
+====
+- *aquele escravo*: O escravo mencionado aqui é o administrador de Lu 12:42. Se “aquele escravo” fosse fiel, ele seria recompensado. (Lu 12:43, 44) Por outro lado, se fosse infiel, seria punido “com a maior severidade”. (Lu 12:46) Neste versículo, Jesus estava, na verdade, dando um alerta para o administrador fiel. O mesmo acontece em Mt 24:45-51, onde Jesus fez uma ilustração parecida e usou as palavras “se aquele escravo mau disser no coração”. Ele não estava predizendo ou determinando que existiria um “escravo mau”. Em vez disso, ele estava alertando o escravo fiel sobre o que aconteceria se ele começasse a desenvolver características de um escravo mau.
+====
+
+[[v42-12-46]]
+
+^<<v42-12-46,46>>^ o senhor daquele escravo virá num dia em que ele não espera e numa hora que ele não sabe, e o punirá com a maior severidade e lhe designará um lugar entre os infiéis.
+
+[TIP]
+====
+- *o punirá com a maior severidade*: Veja a nota de estudo em Mt 24:51.
+====
+
+[[v42-12-47]]
+
+^<<v42-12-47,47>>^ Então aquele escravo que entendeu a vontade do seu senhor, mas não se aprontou nem fez o que ele lhe pediu,^&#42;1^ será espancado com muitos golpes.
+
+[NOTE]
+====
+. Ou: “nem agiu em harmonia com a sua vontade”.
+====
+
+[[v42-12-48]]
+
+^<<v42-12-48,48>>^ Mas aquele que não entendeu e fez coisas que merecem punição será espancado com poucos golpes. Realmente, de todo aquele a quem muito foi dado, muito será exigido; e daquele que foi encarregado de muito, será exigido mais do que o normal.
+
+[[v42-12-49]]
+
+^<<v42-12-49,49>>^ “Eu vim para acender um fogo na terra, e o que mais posso desejar se ele já foi aceso?
+
+[TIP]
+====
+- *para acender um fogo*: A vinda de Jesus simbolicamente iniciou um fogo entre os judeus. Ele acendeu esse fogo ao levantar questões que causaram discussões acaloradas e que, como um fogo, consumiram muitos ensinos falsos e tradições. Por exemplo, Jesus não atendeu as expectativas dos judeus nacionalistas que esperavam que o Messias libertasse Israel do domínio dos romanos. Em vez disso, Jesus morreu de maneira humilhante. Por meio de sua pregação zelosa, ele deu destaque ao Reino de Deus, e esse assunto gerou discussões acaloradas por toda a nação. — 1Co 1:23.
+====
+
+[[v42-12-50]]
+
+^<<v42-12-50,50>>^ Realmente, tenho um batismo com que devo ser batizado, e como estou aflito até que ele termine!
+
+[[v42-12-51]]
+
+^<<v42-12-51,51>>^ Vocês pensam que eu vim trazer paz à terra? Eu lhes digo que não! Em vez disso, vim trazer divisão.
+
+[[v42-12-52]]
+
+^<<v42-12-52,52>>^ Pois de agora em diante haverá numa casa cinco divididos uns contra os outros: três contra dois e dois contra três.
+
+[[v42-12-53]]
+
+^<<v42-12-53,53>>^ Estarão divididos, pai contra filho e filho contra pai, mãe contra filha e filha contra mãe, sogra contra nora e nora contra sogra.”
+
+[[v42-12-54]]
+
+^<<v42-12-54,54>>^ Então ele disse também às multidões: “Quando vocês veem uma nuvem surgindo no ocidente, dizem imediatamente: ‘Vem uma tempestade’,^&#42;1^ e assim acontece.
+
+[NOTE]
+====
+. Ou: “um temporal”.
+====
+
+[[v42-12-55]]
+
+^<<v42-12-55,55>>^ E, quando vocês veem soprar um vento sul, dizem: ‘Haverá uma onda de calor’, e assim ocorre.
+
+[[v42-12-56]]
+
+^<<v42-12-56,56>>^ Hipócritas! Vocês sabem examinar a aparência da terra e do céu, mas como é que não sabem examinar este tempo específico?
+
+[[v42-12-57]]
+
+^<<v42-12-57,57>>^ Por que não julgam também por si mesmos o que é justo?
+
+[[v42-12-58]]
+
+^<<v42-12-58,58>>^ Por exemplo, enquanto você e seu adversário estão indo a uma autoridade, empenhe-se, no caminho, em resolver a disputa com ele, para que ele não o leve perante o juiz, e o juiz o entregue ao oficial de justiça, e o oficial de justiça o lance na prisão.
+
+[[v42-12-59]]
+
+^<<v42-12-59,59>>^ Eu lhe digo: Você de modo algum sairá de lá até pagar sua última pequena moeda.”
+
+[TIP]
+====
+- *sua última pequena moeda*: Lit.: “o último lépton”. A palavra grega leptón significa algo pequeno e fino. O lépton era uma moeda que valia bem pouco. Seriam necessários 128 léptons para completar um denário. Pelo visto, o lépton era a menor moeda de cobre ou bronze usada em Israel. — Veja o Glossário, “Lépton”, e o Apêndice B14-B.
+====
+
+'''
+
+xref:042-lucas/042-lucas-011.adoc#v42-11-0[&#60; Capítulo Anterior] | <<v42-12-0,Topo>> | xref:042-lucas/042-lucas-013.adoc#v42-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v44-8-0]]
+=== Atos dos Apóstolos, 8
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. A pregação chega a Samaria e a lugares mais distantes; conversão de Saulo (8:1–9:43)
+* Começa uma grande perseguição em Jerusalém; os irmãos da congregação local são espalhados (8:1-4)
+* Ministério produtivo de Filipe em Samaria (8:5-13)
+* Pedro e João são enviados a Samaria; samaritanos recebem espírito santo (8:14-17)
+* Simão, que antes praticava artes mágicas, tenta comprar o dom do espírito santo (8:18-24)
+* Filipe é enviado para pregar ao eunuco etíope (8:25-40)
+* Saulo viaja para Damasco para perseguir os discípulos (9:1, 2)
+* Uma luz vinda do céu brilha em volta de Saulo e Jesus se revela a ele (9:3-9)
+* O discípulo Ananias é enviado para ajudar Saulo (9:10-19a)
+* Saulo prega sobre Jesus em Damasco (9:19b-25)
+* Saulo vai a Jerusalém e fala corajosamente no nome de Jesus (9:26-30)
+* A congregação por toda a Judeia, Galileia e Samaria entra num período de paz (9:31)
+* Pedro realiza seu ministério nas cidades da planície costeira; ele cura Eneias em Lida (9:32-35)
+* Em Jope, Pedro ressuscita Dorcas, uma cristã generosa (9:36-43)
+****
+
+[[v44-8-1]]
+
+^<<v44-8-1,1>>^ Saulo, por sua vez, aprovava o assassinato dele.
+Naquele dia começou uma grande perseguição contra a congregação em Jerusalém, e todos, exceto os apóstolos, foram espalhados pelas regiões da Judeia e de Samaria.
+
+[[v44-8-2]]
+
+^<<v44-8-2,2>>^ Homens devotos levaram Estêvão embora para o enterrar e fizeram grande lamentação por ele.
+
+[[v44-8-3]]
+
+^<<v44-8-3,3>>^ Mas Saulo começou a devastar a congregação. Ele invadia uma casa após outra, arrastando para fora tanto homens como mulheres e entregando-os à prisão.
+
+[[v44-8-4]]
+
+^<<v44-8-4,4>>^ No entanto, os que tinham sido espalhados saíram por aquela região declarando as boas novas da palavra.
+
+[[v44-8-5]]
+
+^<<v44-8-5,5>>^ Filipe desceu à cidade de Samaria e começou a pregar a eles o Cristo.
+
+[TIP]
+====
+- *Filipe*: De acordo com At 8:1, “todos, exceto os apóstolos, foram espalhados pelas regiões da Judeia e de Samaria”. Assim, como o Filipe mencionado aqui foi para Samaria, ele não pode ser o apóstolo Filipe. (Mt 10:3; At 1:13) Em vez disso, é provável que ele seja o Filipe que estava entre os “sete homens de boa reputação” escolhidos para cuidar da distribuição diária de alimentos em Jerusalém para as viúvas que falavam grego e as que falavam hebraico. (At 6:1-6) Depois dos acontecimentos registrados aqui em Atos capítulo 8, Filipe é mencionado apenas mais uma vez, em At 21:8, onde é chamado de “Filipe, o evangelizador”. — Veja a nota de estudo em At 21:8.
+- *à cidade*: Ou: “a uma cidade” (como aparece em alguns manuscritos). Tudo indica que essas palavras se referem à cidade mais importante do distrito romano de Samaria. Originalmente, o nome Samaria era usado para se referir tanto à capital do reino das dez tribos de Israel quanto ao reino como um todo. Samaria foi a capital desse reino até ele ser conquistado pelos assírios em 740 a.C. Mas a cidade ainda existia durante o período romano e, nos dias de Jesus, Samaria também era o nome do distrito romano que ficava entre a Galileia (no norte) e a Judeia (no sul). (Veja o Glossário, “Samaria”.) Herodes, o Grande, reconstruiu a cidade de Samaria e deu a ela um novo nome, Sebaste (forma feminina grega do nome Augustus em latim), em homenagem ao imperador romano Augusto. Hoje, o nome árabe do local, Sabastiya (Sebastia), ainda reflete o nome dado por Herodes. — Veja o Apêndice B10.
+====
+
+[[v44-8-6]]
+
+^<<v44-8-6,6>>^ As multidões, unânimes, prestavam atenção ao que Filipe dizia; elas o escutavam e viam os sinais que ele realizava.
+
+[[v44-8-7]]
+
+^<<v44-8-7,7>>^ Pois muitos tinham espíritos impuros, e estes gritavam e saíam. Além disso, muitos paralíticos e mancos foram curados.
+
+[[v44-8-8]]
+
+^<<v44-8-8,8>>^ De modo que houve muita alegria naquela cidade.
+
+[[v44-8-9]]
+
+^<<v44-8-9,9>>^ E na cidade havia um homem chamado Simão, que antes disso havia praticado artes mágicas; ele havia deixado admirada a nação de Samaria, dizendo ser alguém grande.
+
+[[v44-8-10]]
+
+^<<v44-8-10,10>>^ Todos, desde o menor até o maior, davam-lhe atenção e diziam: “Este homem é o Poder de Deus, o chamado Grande Poder.”
+
+[[v44-8-11]]
+
+^<<v44-8-11,11>>^ Davam atenção a ele porque durante muito tempo os havia impressionado com suas artes mágicas.
+
+[[v44-8-12]]
+
+^<<v44-8-12,12>>^ Mas acreditaram em Filipe quando ele lhes declarou as boas novas a respeito do Reino de Deus e do nome de Jesus Cristo, e tanto homens como mulheres foram batizados.
+
+[[v44-8-13]]
+
+^<<v44-8-13,13>>^ O próprio Simão também se tornou crente e, depois de ser batizado, continuou com Filipe. E ele se admirava ao ver sinais e grandes obras poderosas.
+
+[[v44-8-14]]
+
+^<<v44-8-14,14>>^ Quando os apóstolos em Jerusalém ouviram dizer que Samaria havia aceitado a palavra de Deus, enviaram para lá Pedro e João,
+
+[TIP]
+====
+- *Samaria havia aceitado a palavra de Deus*: Depois que Jesus pregou para uma mulher samaritana, “muitos samaritanos” passaram a ter fé nele. (Jo 4:27-42) É provável que esse testemunho tenha lançado a base para que muitos desses samaritanos aceitassem a pregação de Filipe. — At 8:1, 5-8, 14-17.
+====
+
+[[v44-8-15]]
+
+^<<v44-8-15,15>>^ e estes desceram e oraram para que os samaritanos recebessem espírito santo.
+
+[[v44-8-16]]
+
+^<<v44-8-16,16>>^ Porque o espírito santo ainda não tinha vindo sobre nenhum deles, mas eles só haviam sido batizados em nome do Senhor Jesus.
+
+[[v44-8-17]]
+
+^<<v44-8-17,17>>^ Então lhes impuseram as mãos, e eles começaram a receber espírito santo.
+
+[[v44-8-18]]
+
+^<<v44-8-18,18>>^ Quando Simão viu que o espírito era dado pela imposição das mãos dos apóstolos, ofereceu-lhes dinheiro,
+
+[TIP]
+====
+- *Simão . . . ofereceu-lhes dinheiro*: Este relato deu origem à palavra “simonia”, que se refere à compra ou venda de cargos, especialmente no contexto religioso. A maneira como Pedro reagiu à proposta de Simão, conforme registrado em At 8:20-24, mostra como é grave oferecer dinheiro ou outros favores para conseguir “autoridade”. (At 8:19) Os cristãos precisam tomar muito cuidado para não cair nesse erro. — 1Pe 5:1-3.
+====
+
+[[v44-8-19]]
+
+^<<v44-8-19,19>>^ dizendo: “Deem essa autoridade também a mim, para que todo aquele sobre quem eu impuser as mãos receba espírito santo.”
+
+[[v44-8-20]]
+
+^<<v44-8-20,20>>^ Mas Pedro lhe disse: “Pereça com você a sua prata, porque você pensou que poderia obter o dom^&#42;1^ de Deus com dinheiro.
+
+[NOTE]
+====
+. Ou: “a dádiva gratuita”.
+====
+
+[[v44-8-21]]
+
+^<<v44-8-21,21>>^ Você não pode ter nenhuma participação nisso, porque o seu coração não é reto à vista de Deus.
+
+[[v44-8-22]]
+
+^<<v44-8-22,22>>^ Portanto, arrependa-se dessa sua maldade e suplique a Jeová que, se possível, a má intenção do seu coração seja perdoada,
+
+[TIP]
+====
+- *suplique a Jeová*: O verbo grego para “suplicar” é usado na Septuaginta para se referir a fazer orações, pedidos e súplicas a Jeová. Nesses contextos, o nome de Deus muitas vezes aparece no texto hebraico. (Gên 25:21; Êx 32:11; Núm 21:7; De 3:23; 1Rs 8:59; 13:6) Os motivos que levaram a Tradução do Novo Mundo a usar o nome Jeová neste versículo, apesar de os manuscritos gregos disponíveis usarem “o Senhor” (em grego, tou Kyríou), são explicados nos Apêndices C1 e C3 (introdução e At 8:22). — Para uma explicação sobre o verbo grego para “suplicar”, que também pode ser traduzido como “fazer súplica”, veja a nota de estudo em At 4:31.
+====
+
+[[v44-8-23]]
+
+^<<v44-8-23,23>>^ pois vejo que você é um veneno amargo e um escravo da injustiça.”
+
+[TIP]
+====
+- *um veneno amargo*: Lit.: “fel de amargura”. A palavra grega que aparece aqui, kholé, se refere literalmente ao fel, ou bílis, o líquido que é produzido pelo fígado e armazenado na vesícula biliar. Esse líquido, amarelo ou esverdeado, é extremamente amargo e é usado pelo organismo na digestão. O fel com o tempo passou a ser associado com coisas amargas ou venenosas, e a palavra é usada aqui com esse sentido. — Compare com a nota de estudo em Mt 27:34.
+====
+
+[[v44-8-24]]
+
+^<<v44-8-24,24>>^ Simão respondeu a eles: “Façam súplicas a Jeová por mim, para que nenhuma dessas coisas que vocês disseram venha sobre mim.”
+
+[TIP]
+====
+- *Façam súplicas a Jeová por mim*: Veja a nota de estudo em At 8:22 e o Apêndice C3 (introdução e At 8:24).
+====
+
+[[v44-8-25]]
+
+^<<v44-8-25,25>>^ Portanto, depois de darem testemunho de forma cabal e falarem a palavra de Jeová, partiram de volta para Jerusalém, declarando as boas novas a muitas aldeias dos samaritanos.
+
+[TIP]
+====
+- *a palavra de Jeová*: Esta expressão vem das Escrituras Hebraicas, onde aparece em uns 200 versículos e é formada pelo termo hebraico para “palavra” e o nome de Deus. (Algumas dessas ocorrências estão em 2Sa 12:9; 2Rs 7:1; 20:16; 24:2; Is 1:10; 2:3; 28:14; 38:4; Je 1:4; 2:4; Ez 1:3; 6:1; Os 1:1; Miq 1:1 e Za 9:1.) Numa cópia muito antiga da Septuaginta, feita em pergaminho, essa expressão aparece em Za 9:1 e foi traduzida pela palavra grega lógos seguida pelo nome de Deus em letras hebraicas antigas (). O rolo que contém essa passagem foi encontrado em Nahal Hever, no deserto da Judeia, em Israel, e é datado de entre 50 a.C. e 50 d.C. Os motivos que levaram a Tradução do Novo Mundo a usar a expressão “a palavra de Jeová” aqui no texto principal, apesar de muitos manuscritos gregos usarem “a palavra do Senhor”, são explicados no Apêndice C3 (introdução e At 8:25).
+====
+
+[[v44-8-26]]
+
+^<<v44-8-26,26>>^ No entanto, o anjo de Jeová disse a Filipe: “Prepare-se e vá para o sul, para a estrada que desce de Jerusalém a Gaza.” (Essa é a estrada do deserto.)
+
+[TIP]
+====
+- *o anjo de Jeová*: Veja a nota de estudo em At 5:19 e o Apêndice C3 (introdução e At 8:26.)
+====
+
+[[v44-8-27]]
+
+^<<v44-8-27,27>>^ Em vista disso, ele se preparou e foi; encontrou então um eunuco etíope, alto funcionário de Candace, rainha dos etíopes, encarregado de todo o tesouro dela. Ele tinha ido a Jerusalém para adorar
+
+[TIP]
+====
+- *eunuco*: Em sentido literal, a palavra grega eunoúkhos se refere a um homem que foi privado da sua capacidade de procriação. No Oriente Médio e no norte da África, homens castrados costumavam ser escolhidos para servir nas cortes reais em diferentes funções, especialmente como ajudantes ou guardiões da rainha e das concubinas. Mas a palavra eunoúkhos nem sempre era usada para se referir a alguém que tinha sido castrado. Ela também passou a ser usada com um sentido mais amplo para se referir a homens designados para diferentes cargos na corte. Assim como em grego, a palavra hebraica para “eunuco” (sarís) também pode se referir a um oficial da corte real. Por exemplo, Potifar, que era um homem casado, é chamado em Gên 39:1 de “oficial da corte [lit.: “eunuco”] de Faraó”. Pelo visto, aqui em Atos, o homem etíope que era encarregado do tesouro da rainha é chamado de “eunuco” apenas porque era um oficial da corte. Ele tinha ido a Jerusalém para adorar, o que mostra que ele era um prosélito, ou seja, um não judeu que se tornou adorador de Jeová e foi circuncidado. (Veja o Glossário, “Prosélito”.) E, como a Lei mosaica dizia que nenhum homem castrado podia entrar na congregação de Israel (De 23:1), ele não podia ser eunuco em sentido literal. Tudo indica que, como prosélito, o eunuco etíope não era mais considerado um não judeu, o que significa que o primeiro não judeu incircunciso a se tornar cristão foi Cornélio. — At 10:1, 44-48; para uma explicação sobre o uso da palavra “eunuco” em sentido figurado, veja a nota de estudo em Mt 19:12.
+- *etíope*: A palavra grega que aparece aqui era usada para se referir a quem era da antiga Etiópia, uma nação que ficava ao sul do Egito, na África. Foram os gregos que deram a essa região o nome “Etiópia” (em grego, Aithiopía, que significa “região de faces queimadas”). Ela correspondia basicamente à região chamada em hebraico de Cuche, que incluía principalmente o que hoje é a parte sul do Egito e o Sudão. Os tradutores da Septuaginta usaram Aithiopía ao traduzir a palavra hebraica para “Cuche” em quase todas as passagens. Um exemplo disso é o texto de Is 11:11, que menciona “Cuche” (“Aithiopía”, LXX) entre os lugares para onde os judeus exilados foram depois que Babilônia conquistou Judá. Assim, esse oficial etíope pode ter convivido com judeus na sua região ou talvez no Egito, onde muitos judeus moravam.
+- *Candace*: Este não era o nome da rainha dos etíopes. Em vez disso, Candace é considerado um título, assim como Faraó e César. Escritores antigos, como Estrabão, Eusébio e Plínio, o Velho, usaram esse termo para se referir a rainhas da Etiópia. Em sua obra, Plínio, o Velho (cerca de 23-79 d.C.), escreveu: “A cidade [Méroe, capital da antiga Etiópia] tem poucos edifícios. Disseram que é governada por uma mulher, Candace, nome que tem sido transmitido por muitos anos através de uma sucessão de rainhas.” — História Natural, VI, XXXV, 186.
+====
+
+[[v44-8-28]]
+
+^<<v44-8-28,28>>^ e estava voltando e, sentado no seu carro, lia em voz alta o profeta Isaías.
+
+[[v44-8-29]]
+
+^<<v44-8-29,29>>^ De modo que o espírito disse a Filipe: “Vá, aproxime-se desse carro.”
+
+[[v44-8-30]]
+
+^<<v44-8-30,30>>^ Filipe correu ao lado do carro e ouviu o eunuco lendo o profeta Isaías em voz alta. Perguntou então: “O senhor entende o que está lendo?”
+
+[TIP]
+====
+- *entende*: Ou: “sabe”. O verbo grego usado aqui, ginósko, tem o sentido básico de “conhecer”, mas é bem abrangente e também pode ser traduzido como “saber; entender; perceber”.
+====
+
+[[v44-8-31]]
+
+^<<v44-8-31,31>>^ Ele respondeu: “Na verdade, como posso entender a menos que alguém me oriente?” E pediu que Filipe subisse e se sentasse com ele.
+
+[[v44-8-32]]
+
+^<<v44-8-32,32>>^ A passagem das Escrituras que ele estava lendo em voz alta era: “Como uma ovelha, ele foi levado ao abate e, como um cordeiro que fica em silêncio diante do seu tosquiador, ele não abre a boca.
+
+[[v44-8-33]]
+
+^<<v44-8-33,33>>^ Durante a sua humilhação, negaram-lhe a justiça. Quem contará os detalhes da sua geração?^&#42;1^ Porque a sua vida é eliminada da terra.”
+
+[NOTE]
+====
+. Ou: “origem”.
+====
+
+[TIP]
+====
+- *sua geração*: Esta é uma citação de Is 53:8. Nela, a palavra “geração” pelo visto se refere à “origem”, ou “genealogia”, de uma pessoa. Quando Jesus estava sendo julgado, os membros do Sinédrio não levaram em conta a genealogia dele, que estava de acordo com o que tinha sido profetizado sobre o Messias.
+====
+
+[[v44-8-34]]
+
+^<<v44-8-34,34>>^ O eunuco disse então a Filipe: “Por favor, diga-me: De quem o profeta está falando? De si mesmo ou de outro homem?”
+
+[[v44-8-35]]
+
+^<<v44-8-35,35>>^ Filipe começou a falar e, partindo daquela passagem das Escrituras, declarou-lhe as boas novas a respeito de Jesus.
+
+[[v44-8-36]]
+
+^<<v44-8-36,36>>^ Ao seguirem pela estrada, chegaram a um lugar onde havia água, e o eunuco disse: “Veja! Aqui há água! O que me impede de ser batizado?”
+
+[TIP]
+====
+- *ser batizado*: Ou: “ser mergulhado”. A palavra grega baptízo significa “imergir; afundar [algo]”. Aqui, o contexto deixa claro que o batismo envolve mergulhar completamente a pessoa. Se derramar ou aspergir água fosse suficiente, não teria sido necessário que o eunuco parasse seu carro e fosse até um lugar onde havia água, já que ele provavelmente estaria levando um recipiente com água ao viajar pelo deserto. Não é possível saber se o batismo aconteceu num rio, num riacho ou numa lagoa, mas com certeza havia bastante água, já que o relato diz que, depois de Filipe batizar o eunuco, eles ‘saíram da água’. (At 8:39) Outros relatos da Bíblia também indicam que o batismo envolve mergulhar completamente a pessoa em água. Por exemplo, Jesus foi batizado em um rio, o rio Jordão. Além disso, o texto de Jo 3:23 mostra que, em certa ocasião, João Batista escolheu um local perto de Salim, no vale do Jordão, para realizar batismos “porque havia ali uma grande quantidade de água”. E é interessante notar que a Septuaginta usou a palavra baptízo em 2Rs 5:14, que diz que Naamã “mergulhou no Jordão sete vezes”. Outro fator a levar em conta é que as Escrituras comparam o batismo a um sepultamento, indicando que o corpo da pessoa batizada é mergulhado por completo. — Ro 6:4-6; Col 2:12.
+====
+
+[[v44-8-37]]
+
+^<<v44-8-37,37>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos gregos e algumas traduções antigas da Bíblia para outros idiomas acrescentam aqui algo como*: “Filipe disse a ele: ‘Se você acredita de todo o coração, é permissível.’ Em resposta, ele disse: ‘Creio que Jesus Cristo é o Filho de Deus.’” Mas essas palavras não aparecem nos manuscritos mais antigos e mais confiáveis, e provavelmente não fazem parte do relato inspirado de Atos. — Veja o Apêndice A3.
+====
+
+[[v44-8-38]]
+
+^<<v44-8-38,38>>^ Assim, mandou parar o carro, e tanto Filipe como o eunuco desceram à água; e ele o batizou.
+
+[[v44-8-39]]
+
+^<<v44-8-39,39>>^ Depois de saírem da água, o espírito de Jeová rapidamente levou Filipe embora dali, e o eunuco não voltou a vê-lo, mas seguiu caminho cheio de alegria.
+
+[TIP]
+====
+- *o espírito de Jeová*: Veja a nota de estudo em At 5:9 e o Apêndice C3 (introdução e At 8:39).
+====
+
+[[v44-8-40]]
+
+^<<v44-8-40,40>>^ Filipe, no entanto, foi parar em Asdode e, ao passar por aquela região, continuou a declarar as boas novas a todas as cidades, até chegar a Cesareia.
+
+[TIP]
+====
+- *Asdode*: Este é o nome hebraico de uma cidade que no século 1 d.C. era conhecida pelo nome grego Azoto. — Jos 11:22; 15:46; veja os Apêndices B6 e B10.
+====
+
+'''
+
+xref:044-atos/044-atos-007.adoc#v44-7-0[&#60; Capítulo Anterior] | <<v44-8-0,Topo>> | xref:044-atos/044-atos-009.adoc#v44-9-0[Próximo Capítulo &#62;]

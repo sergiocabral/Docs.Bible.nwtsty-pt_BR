@@ -1,0 +1,304 @@
+include::./index.adoc[]
+
+[[v40-6-0]]
+=== As Boas Novas Segundo Mateus, 6
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Sermão do Monte (5:1–7:29)
+* Jesus começa o Sermão do Monte (5:1, 2)
+* Nove felicidades (5:3-12)
+* “Sal da terra” e “luz do mundo” (5:13-16)
+* Jesus vai cumprir a Lei (5:17-20)
+* Conselhos sobre controlar a ira e sobre resolver problemas com outros (5:21-26)
+* Conselhos sobre não cometer adultério e sobre divórcio (5:27-32)
+* Conselhos sobre cumprir juramentos, não revidar, amar os inimigos (5:33-48)
+* Não pratiquem a justiça só para chamar atenção (6:1-4)
+* Modo certo de orar e oração-modelo (6:5-15)
+* Não jejuem como os hipócritas (6:16-18)
+* Tesouros na terra e no céu (6:19-24)
+* Parem de se preocupar tanto; busquem primeiro o Reino (6:25-34)
+* Parem de julgar (7:1-6)
+* Persistam em pedir, buscar e bater (7:7-11)
+* Regra de Ouro (7:12)
+* Portão estreito (7:13, 14)
+* Falsos profetas; árvores reconhecidas pelos seus frutos (7:15-23)
+* Casa sobre rocha e casa sobre areia (7:24-27)
+* Multidões ficam maravilhadas com ensino de Jesus (7:28, 29)
+****
+
+[[v40-6-1]]
+
+^<<v40-6-1,1>>^ “Tomem cuidado para não praticar sua justiça diante dos homens a fim de ser vistos por eles; se fizerem isso, vocês não terão recompensa de seu Pai, que está nos céus.
+
+[[v40-6-2]]
+
+^<<v40-6-2,2>>^ Portanto, quando você der algo a um pobre, não toque a trombeta diante de si, como fazem os hipócritas nas sinagogas e nas ruas para serem glorificados pelos homens. Digo a vocês a verdade: Eles já têm plenamente a sua recompensa.
+
+[TIP]
+====
+- *der algo a um pobre*: Ou: “fizer dádivas de misericórdia”. A palavra grega eleemosýne, que muitas Bíblias traduzem como “esmola”, está relacionada com as palavras gregas para “misericórdia” e “ser misericordioso”. Refere-se ao dinheiro ou à comida que alguém dá de boa vontade para ajudar um pobre.
+- *toque a trombeta*: Fazer isso sem dúvida chamaria muito a atenção dos outros. Neste versículo, tocar a trombeta é apenas uma figura de linguagem e quer dizer que a pessoa não deve tornar público que ela foi generosa.
+- *hipócritas*: A palavra grega hypokrités era usada originalmente para se referir aos atores do teatro grego (e, mais tarde, do romano) que usavam máscaras grandes que aumentavam o volume da voz. Depois, a palavra começou a ser usada como uma metáfora para se referir a pessoas que escondem suas intenções ou sua personalidade e fingem ser o que não são. Os “hipócritas” mencionados aqui por Jesus eram os líderes religiosos judaicos. — Mt 6:5, 16.
+- *Digo a vocês a verdade*: Veja a nota de estudo em Mt 5:18.
+- *Eles já têm plenamente a sua recompensa*: A palavra grega apékho significa “ter plenamente”. Essa palavra era usada em recibos comerciais para indicar que o valor total tinha sido pago. Já que os hipócritas ajudavam os pobres só para impressionar as pessoas, tudo o que eles receberiam como recompensa seria isto: a atenção das pessoas. Eles não podiam esperar receber nada de Deus.
+====
+
+[[v40-6-3]]
+
+^<<v40-6-3,3>>^ Mas, quando você der algo a um pobre, não deixe a sua mão esquerda saber o que a direita está fazendo,
+
+[TIP]
+====
+- *não deixe a sua mão esquerda saber o que a direita está fazendo*: Figura de linguagem que indica grande discrição ou sigilo. Quando o discípulo de Jesus dá alguma coisa para ajudar alguém, ele não deve ficar divulgando isso para outros, nem mesmo para um amigo que é tão próximo quanto a mão direita é da esquerda.
+====
+
+[[v40-6-4]]
+
+^<<v40-6-4,4>>^ para que suas dádivas fiquem em segredo. Então o seu Pai, que observa em secreto, o recompensará.
+
+[[v40-6-5]]
+
+^<<v40-6-5,5>>^ “Também, quando orarem, não ajam como os hipócritas, pois eles gostam de orar em pé nas sinagogas e nas esquinas das ruas principais, para serem vistos pelos homens. Digo a vocês a verdade: Eles já têm plenamente a sua recompensa.
+
+[[v40-6-6]]
+
+^<<v40-6-6,6>>^ Mas, quando você orar, entre no seu aposento reservado e, depois de fechar a porta, ore a seu Pai, que está em secreto. Então o seu Pai, que observa em secreto, o recompensará.
+
+[[v40-6-7]]
+
+^<<v40-6-7,7>>^ Quando orar, não diga as mesmas coisas vez após vez, como fazem as pessoas das nações, pois imaginam que serão ouvidas por usarem muitas palavras.
+
+[TIP]
+====
+- *não diga as mesmas coisas vez após vez*: Ou: “não balbucie; não use repetições vazias”. Jesus não quis dizer que é errado pedir a Deus a mesma coisa mais de uma vez. (Mt 26:36-45) O errado seria imitar as pessoas das nações (ou seja, os não judeus) que, sem pensar, repetiam “vez após vez” frases decoradas. Jesus estava dizendo que seus discípulos não deveriam orar sem pensar.
+====
+
+[[v40-6-8]]
+
+^<<v40-6-8,8>>^ Não sejam como elas, porque o seu Pai sabe do que vocês necessitam, antes mesmo de lhe pedirem.
+
+[TIP]
+====
+- *o seu Pai*: Alguns poucos manuscritos bem antigos dizem “Deus, o seu Pai”, mas a maioria dos manuscritos diz apenas “o seu Pai”, sem a palavra “Deus”.
+====
+
+[[v40-6-9]]
+
+^<<v40-6-9,9>>^ “Portanto, orem do seguinte modo:
+“‘Pai nosso, que estás nos céus, santificado seja o teu nome.
+
+[TIP]
+====
+- *orem*: Aqui Jesus se dirigiu a seus ouvintes, explicando como agir de modo diferente dos hipócritas mencionados antes. — Mt 6:5.
+- *do seguinte modo*: Ou seja, não do mesmo modo que aqueles que diziam “as mesmas coisas vez após vez”. — Mt 6:7.
+- *Pai nosso*: Quando dizemos em oração que Deus é “nosso” Pai, reconhecemos que outras pessoas também o encaram como Pai e fazem parte de sua família de adoradores. — Veja a nota de estudo em Mt 5:16.
+- *santificado*: Ou: “tido como sagrado; tratado como santo”. Ao pedir isso, os discípulos de Jesus expressam o desejo de que todas as criaturas inteligentes, tanto no céu como na Terra, tratem o nome de Jeová como santo. Também é um pedido para que Deus limpe seu nome, que está sendo manchado desde que Adão e Eva se rebelaram no jardim do Éden.
+- *nome*: Refere-se ao nome de Deus, representado pelas quatro letras hebraicas יהוה (YHWH) e geralmente traduzido em português como “Jeová”. Na Tradução do Novo Mundo, o nome de Deus aparece 6.979 vezes nas Escrituras Hebraicas e 237 vezes nas Escrituras Gregas Cristãs. (Para mais informações sobre o uso do nome de Deus nas Escrituras Gregas Cristãs, veja os Apêndices A5 e C1.) Na Bíblia, a palavra “nome” também pode se referir à própria pessoa, à sua reputação e a tudo o que ela afirma ser. — Compare com Êx 34:5, 6; Ap 3:4, nota de rodapé.
+====
+
+[[v40-6-10]]
+
+^<<v40-6-10,10>>^ Venha o teu Reino. Seja feita a tua vontade, como no céu, assim também na terra.
+
+[TIP]
+====
+- *Venha o teu Reino*: O Reino de Deus é uma maneira de Jeová exercer sua soberania sobre a Terra. A expressão “venha o teu Reino” é um pedido para que Deus torne, de uma vez por todas, o seu Reino (com seu Rei messiânico e os que governarão junto com ele) o único governo sobre a Terra. A ilustração de Jesus registrada em Lu 19:11-27 mostra que a ‘vinda’ do Reino está relacionada com a execução de um julgamento em que os inimigos de Deus serão destruídos e os que esperam pelo Reino serão recompensados. (Veja Mt 24:42, 44.) O Reino vai destruir o atual sistema de coisas, incluindo todos os governos humanos, e trará um novo mundo onde haverá justiça. — Da 2:44; 2Pe 3:13; Ap 16:14-16; 19:11-21. 
+- *Seja feita a tua vontade*: Este não é um simples pedido para que os humanos passem a fazer a vontade de Deus. Em vez disso, é um pedido para que Deus use seu poder para realizar a sua vontade com relação à Terra e a seus habitantes, conforme registrada nas Escrituras. Além disso, ao orar pedindo que a vontade de Deus seja feita, a pessoa mostra que deseja se sujeitar a essa vontade. (Compare com Mt 26:39.) Neste contexto, as palavras como no céu, assim também na terra poderiam ser entendidas de duas maneiras: 1) como um pedido para que a vontade de Deus passe a ser feita na Terra assim como já é feita no céu ou 2) como um pedido para que a vontade de Deus passe a ser feita plenamente tanto no céu quanto na Terra.
+====
+
+[[v40-6-11]]
+
+^<<v40-6-11,11>>^ Dá-nos hoje o nosso pão para este dia;
+
+[TIP]
+====
+- *o nosso pão para este dia*: Em muitos contextos, as palavras hebraica e grega para “pão” significam “alimento”. (Gên 3:19, nota de rodapé) Jesus estava mostrando que seus discípulos podem pedir com confiança que Deus dê a eles, não uma enorme quantidade de provisões, mas o necessário para cada dia. Esse pedido lembra a ordem que Deus deu aos israelitas com respeito ao maná: eles deviam ajuntar apenas “sua porção diária”. — Êx 16:4.
+====
+
+[[v40-6-12]]
+
+^<<v40-6-12,12>>^ e perdoa-nos as nossas dívidas, assim como nós também perdoamos os nossos devedores.
+
+[TIP]
+====
+- *perdoa-nos*: O verbo grego traduzido como “perdoar” significa literalmente “deixar ir embora”. Também pode ser traduzido como “cancelar uma dívida”, como é o caso em Mt 18:27, 32.
+- *dívidas*: Refere-se a pecados. Quando pecamos contra outra pessoa, é como se ficássemos em dívida com ela. Temos uma obrigação para com a pessoa e precisamos pedir seu perdão. Para recebermos o perdão de Deus, precisamos perdoar os nossos devedores, ou seja, os que pecaram contra nós. — Mt 6:14, 15; 18:35; Lu 11:4.
+====
+
+[[v40-6-13]]
+
+^<<v40-6-13,13>>^ E não nos leves à tentação, mas livra-nos^&#42;1^ do Maligno.’^&#42;2^
+
+[NOTE]
+====
+. Ou: “salva-nos”.
+. Ou, possivelmente: “do que é mau”.
+====
+
+[TIP]
+====
+- *não nos leves à tentação*: Ou: “não nos deixes cair em tentação”. Na Bíblia, dizer que Deus causou uma situação pode significar apenas que ele permitiu que ela acontecesse. (Ru 1:20, 21) Jesus não estava dizendo aqui que Deus causa tentações para nos fazer pecar. (Tg 1:13) Em vez disso, Jesus estava incentivando seus discípulos a orar pedindo que Deus os ajudasse a não ceder à tentação. — 1Co 10:13.
+====
+
+[[v40-6-14]]
+
+^<<v40-6-14,14>>^ “Pois, se vocês perdoarem aos homens as falhas deles, o seu Pai celestial também perdoará vocês;
+
+[TIP]
+====
+- *falhas*: A palavra grega para “falha” pode ser traduzida como “um passo em falso” (Gál 6:1), um deslize. É o contrário de andar com passos firmes nos caminhos justos de Deus.
+====
+
+[[v40-6-15]]
+
+^<<v40-6-15,15>>^ ao passo que, se não perdoarem aos homens as falhas deles, o seu Pai também não perdoará as falhas de vocês.
+
+[[v40-6-16]]
+
+^<<v40-6-16,16>>^ “Quando jejuarem, parem de ficar com o rosto triste, como os hipócritas, pois eles mudam a aparência do rosto para que os homens vejam que estão jejuando. Digo a vocês a verdade: Eles já têm plenamente a sua recompensa.
+
+[TIP]
+====
+- *jejuarem*: Ou seja, ficarem sem comer por um período específico. (Veja o Glossário, “Jejum”.) Jesus nunca mandou que seus discípulos jejuassem, mas também nunca disse que isso era proibido. Debaixo da Lei mosaica, os judeus sinceros tinham o costume de jejuar para mostrar que estavam arrependidos de algum pecado e para suplicar a ajuda de Jeová. — 1Sa 7:6; 2Cr 20:3.
+- *mudam a aparência do rosto*: Ou: “negligenciam sua aparência”. As pessoas talvez fizessem isso por não lavar o rosto, por não cuidar do cabelo e da barba e por jogar cinzas na cabeça.
+====
+
+[[v40-6-17]]
+
+^<<v40-6-17,17>>^ Mas você, quando jejuar, ponha óleo sobre a cabeça e lave o rosto,
+
+[TIP]
+====
+- *ponha óleo sobre a cabeça e lave o rosto*: Para mostrar a outros sua abnegação, muitos não cuidavam da aparência enquanto estavam jejuando. Mas Jesus disse aos seus discípulos que eles deviam cuidar de sua aparência ao jejuar. Ele estava mostrando que eles não deviam chamar a atenção de outros para os sacrifícios que fizessem no serviço a Deus.
+====
+
+[[v40-6-18]]
+
+^<<v40-6-18,18>>^ para que os homens não vejam que você está jejuando, mas somente o seu Pai, que está em secreto. Então o seu Pai, que observa em secreto, o recompensará.
+
+[[v40-6-19]]
+
+^<<v40-6-19,19>>^ “Parem de acumular para vocês tesouros na terra, onde a traça e a ferrugem consomem, e onde ladrões arrombam e furtam.
+
+[[v40-6-20]]
+
+^<<v40-6-20,20>>^ Em vez disso, acumulem para vocês tesouros no céu, onde nem a traça nem a ferrugem consomem, e onde ladrões não arrombam nem furtam.
+
+[[v40-6-21]]
+
+^<<v40-6-21,21>>^ Pois onde estiver o seu tesouro, ali estará também o seu coração.
+
+[[v40-6-22]]
+
+^<<v40-6-22,22>>^ “A lâmpada do corpo é o olho. Então, se o seu olho for focado, todo o seu corpo será luminoso.^&#42;1^
+
+[NOTE]
+====
+. Ou: “cheio de luz”.
+====
+
+[TIP]
+====
+- *lâmpada do corpo é o olho*: O olho literal que enxerga bem é como uma lâmpada acesa num lugar escuro. Ele permite que a pessoa veja e fique ciente das coisas em sua volta. Neste versículo, a palavra “olho” é usada em sentido figurado. — Ef 1:18.
+- *focado*: Ou: “límpido; saudável”. A palavra grega usada aqui, haploús, tem o sentido básico de “simples; único”. Ela pode transmitir a ideia de concentrar a mente em um único objetivo. O olho literal que funciona bem é capaz de focar em apenas uma coisa. Quando uma pessoa tem o olho figurativo focado na coisa certa (Mt 6:33), toda a sua personalidade muda para melhor.
+====
+
+[[v40-6-23]]
+
+^<<v40-6-23,23>>^ Mas, se o seu olho for invejoso, todo o seu corpo será escuro. Se a luz que há em você na realidade é escuridão, como é grande essa escuridão!
+
+[TIP]
+====
+- *invejoso*: Lit.: “mau; perverso”. O olho literal que tem algum problema não consegue ver claramente. Do mesmo modo, um olho invejoso não consegue se concentrar no que é realmente importante. (Mt 6:33) Um olho assim é descontente, ganancioso, distraído e traiçoeiro. A pessoa com olho invejoso não consegue enxergar as coisas do ponto de vista correto. Por causa disso, usa a vida para buscar seus próprios interesses, em vez de se concentrar em servir a Deus. — Veja a nota de estudo em Mt 6:22.
+====
+
+[[v40-6-24]]
+
+^<<v40-6-24,24>>^ “Ninguém pode ser escravo de dois senhores; pois ou odiará um e amará o outro, ou se apegará a um e desprezará o outro. Vocês não podem ser escravos de Deus e das Riquezas.
+
+[TIP]
+====
+- *ser escravo*: Cada escravo só tinha um senhor. Jesus estava dizendo aqui que um cristão não consegue dar a Deus devoção exclusiva e, ao mesmo tempo, se concentrar em ganhar riquezas.
+- *Riquezas*: A palavra grega mamonás (de origem semítica), que é traduzida em algumas Bíblias como “Mamom”, também pode ser traduzida como “Dinheiro”. Neste versículo, as “Riquezas” foram personificadas como se fossem um senhor ou um tipo de deus falso. Não existem provas convincentes de que a palavra “Mamom” era realmente o nome de um deus.
+====
+
+[[v40-6-25]]
+
+^<<v40-6-25,25>>^ “Por essa razão, eu lhes digo: Parem de se preocupar tanto com a sua vida, quanto ao que comer ou quanto ao que beber, e com o seu corpo, quanto ao que vestir. Não significa a vida mais do que o alimento e o corpo mais do que a roupa?
+
+[TIP]
+====
+- *Parem de se preocupar tanto*: Ou: “Parem de estar ansiosos”. No grego, o tempo verbal indica interromper uma ação que já está em andamento. A palavra grega traduzida como “se preocupar tanto” descreve o tipo de ansiedade que divide e distrai a mente da pessoa, tirando sua alegria. A mesma palavra aparece em Mt 6:27, 28, 31, 34.
+- *sua vida . . . a vida*: A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, aqui se refere à vida. Neste contexto, as palavras vida (alma) e corpo aparecem juntas para representar a pessoa inteira.
+====
+
+[[v40-6-26]]
+
+^<<v40-6-26,26>>^ Observem atentamente as aves do céu; elas não semeiam nem colhem, nem ajuntam em celeiros, contudo o Pai de vocês, que está nos céus, as alimenta. Será que vocês não valem mais do que elas?
+
+[[v40-6-27]]
+
+^<<v40-6-27,27>>^ Quem de vocês, por estar ansioso, pode acrescentar um só côvado à duração da sua vida?
+
+[TIP]
+====
+- *um só côvado à duração da sua vida*: O “côvado” (lit.: “antebraço”) era uma medida de comprimento que equivalia a 44,5 centímetros. (Veja o Glossário, “Côvado”, e o Apêndice B14-A.) Ao citar uma medida de distância, Jesus pelo visto estava comparando a vida com uma viagem. O que ele quis dizer é: a pessoa que se preocupa demais não vai aumentar nem um pouco a duração de sua vida.
+====
+
+[[v40-6-28]]
+
+^<<v40-6-28,28>>^ Também, com respeito à roupa, por que estão ansiosos? Aprendam uma lição dos lírios do campo, de como eles crescem; não trabalham nem fiam.
+
+[TIP]
+====
+- *Aprendam uma lição*: O verbo grego usado aqui também pode ser traduzido como “aprendam bem”.
+- *lírios do campo*: Alguns acreditam que essa expressão se refere a uma flor conhecida como anêmona, mas a expressão “lírios do campo” poderia incluir várias flores parecidas com os lírios, como por exemplo tulipas, jacintos, íris e gladíolos. Alguns tradutores sugerem que Jesus estava falando de modo geral das muitas flores silvestres que crescem na região. Por isso, eles traduzem essa expressão como “flores do campo”. Isso é possível, porque em Mt 6:30 e Lu 12:27, 28 Jesus chama essas mesmas flores de “vegetação do campo”.
+====
+
+[[v40-6-29]]
+
+^<<v40-6-29,29>>^ Mas eu lhes digo que nem mesmo Salomão, em toda a sua glória, se vestia como um deles.
+
+[[v40-6-30]]
+
+^<<v40-6-30,30>>^ Então, se Deus veste assim a vegetação do campo, que hoje existe e amanhã é lançada no forno, não vestirá ele ainda mais a vocês, homens de pouca fé?
+
+[TIP]
+====
+- *vegetação . . . forno*: Nos meses quentes do verão, a vegetação em Israel pode murchar e secar em apenas dois dias. Os israelitas usavam as flores e outras plantas secas dos campos para alimentar o fogo nos fornos de pão.
+- *homens de pouca fé*: Jesus se referiu aqui a seus discípulos, dizendo que a confiança deles em Deus não era forte. (Mt 8:26; 14:31; 16:8; Lu 12:28) Ele não quis dizer que os discípulos não tinham nenhuma fé, mas que precisavam ter mais fé.
+====
+
+[[v40-6-31]]
+
+^<<v40-6-31,31>>^ Portanto, nunca fiquem ansiosos, dizendo: ‘O que vamos comer?’ ou: ‘O que vamos beber?’ ou: ‘O que vamos vestir?’
+
+[[v40-6-32]]
+
+^<<v40-6-32,32>>^ Pois todas essas são as coisas pelas quais as nações se empenham ansiosamente. O seu Pai celestial sabe que vocês necessitam de todas essas coisas.
+
+[[v40-6-33]]
+
+^<<v40-6-33,33>>^ “Persistam, então, em buscar primeiro o Reino e a justiça de Deus, e todas essas outras coisas lhes serão acrescentadas.
+
+[TIP]
+====
+- *Persistam . . . em buscar*: No grego, o tempo verbal usado aqui indica uma ação contínua, e pode ser traduzido como “sempre busquem”. Os verdadeiros discípulos de Jesus não iam ‘buscar o Reino’ por um tempo e depois se concentrar em outras coisas. Para eles, o Reino devia sempre ser a coisa mais importante na vida.
+- *o Reino*: Alguns manuscritos gregos bem antigos dizem “o Reino de Deus”.
+- *justiça*: Os que buscam a justiça de Deus aceitam o que ele diz que é certo ou errado e fazem com prazer a vontade dele. O que Jesus ensinou aqui era totalmente diferente do ensino dos fariseus. Eles queriam estabelecer suas próprias regras sobre o que era certo ou errado. — Mt 5:20.
+====
+
+[[v40-6-34]]
+
+^<<v40-6-34,34>>^ Portanto, nunca fiquem ansiosos por causa do amanhã, pois o amanhã terá suas próprias ansiedades. Bastam a cada dia suas próprias dificuldades.
+
+[TIP]
+====
+- *nunca fiquem ansiosos por causa do amanhã*: A Bíblia ensina que é bom fazer planos para o futuro. (Pr 21:5) Mas, se a pessoa ficar ansiosa demais com o que talvez aconteça no futuro, isso pode prejudicar a amizade dela com Deus, levando a pessoa a tomar decisões confiando em si mesma em vez de em Deus. — Pr 3:5, 6.
+====
+
+'''
+
+xref:040-mateus/040-mateus-005.adoc#v40-5-0[&#60; Capítulo Anterior] | <<v40-6-0,Topo>> | xref:040-mateus/040-mateus-007.adoc#v40-7-0[Próximo Capítulo &#62;]

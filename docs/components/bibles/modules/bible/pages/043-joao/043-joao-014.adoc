@@ -1,0 +1,236 @@
+include::./index.adoc[]
+
+[[v43-14-0]]
+=== As Boas Novas Segundo João, 14
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* J. Última Páscoa de Jesus e últimos conselhos para seus discípulos (13:1–17:26)
+* Jesus lava os pés dos discípulos (13:1-20)
+* Jesus identifica seu traidor: Judas Iscariotes (13:21-30)
+* Jesus dá um novo mandamento (13:31-35)
+* Jesus prediz que Pedro vai negá-lo três vezes (13:36-38)
+* Jesus é o único caminho para se chegar ao Pai (14:1-14)
+* Jesus promete que o espírito santo virá como ajudador (14:15-31)
+* Ilustração da verdadeira videira (15:1-10)
+* Mandamento para amar como Cristo amou (15:11-17)
+* Mundo odeia Jesus e seus discípulos (15:18-27)
+* Alguns discípulos de Jesus serão mortos (16:1-4a)
+* Jesus enviará o espírito santo (16:4b-16)
+* Tristeza dos discípulos será transformada em alegria (16:17-24)
+* Jesus vence o mundo (16:25-33)
+* Jesus ora em favor de todos os seus discípulos, presentes e futuros (17:1-26)
+****
+
+[[v43-14-1]]
+
+^<<v43-14-1,1>>^ “Não fiquem com o coração aflito. Exerçam fé em Deus; exerçam fé também em mim.
+
+[[v43-14-2]]
+
+^<<v43-14-2,2>>^ Na casa do meu Pai há muitas moradas. Se não fosse assim, eu lhes teria dito, pois vou embora para preparar um lugar para vocês.
+
+[TIP]
+====
+- *moradas*: A palavra grega usada aqui é moné. Ela aparece apenas neste versículo e em Jo 14:23, onde foi traduzida como “morada”. A palavra moné era às vezes usada na literatura grega para se referir a uma hospedaria ou a um lugar de parada para viajantes. Mas a maioria dos estudiosos concorda que aqui Jesus estava prometendo uma morada permanente na casa do Pai dele no céu, para onde ele estava indo. Para que Jesus pudesse preparar um lugar para seus discípulos, ele precisaria comparecer perante Deus e, simbolicamente, apresentar seu sangue a ele. (He 9:12, 24-28) Somente depois que Jesus fizesse isso, humanos poderiam ir para o céu. — Fil 3:20, 21.
+- *preparar um lugar para vocês*: Essa preparação envolveria Jesus Cristo comparecer perante Deus e, simbolicamente, apresentar seu sangue a ele, fazendo assim com que o novo pacto entrasse em vigor. Envolveria também Cristo receber poder como Rei no céu. Apenas depois disso, a ressurreição de seus seguidores ungidos iria começar. — 1Te 4:14-17; He 9:12, 24-28; 1Pe 1:19; Ap 11:15.
+====
+
+[[v43-14-3]]
+
+^<<v43-14-3,3>>^ Também, depois que eu for embora e lhes preparar um lugar, virei novamente e os levarei comigo, para que, onde eu estiver, vocês também estejam.
+
+[[v43-14-4]]
+
+^<<v43-14-4,4>>^ E vocês sabem o caminho para onde vou.”
+
+[[v43-14-5]]
+
+^<<v43-14-5,5>>^ Tomé lhe disse: “Senhor, não sabemos para onde vai. Como podemos saber o caminho?”
+
+[[v43-14-6]]
+
+^<<v43-14-6,6>>^ Jesus lhe respondeu: “Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim.
+
+[TIP]
+====
+- *Eu sou o caminho, a verdade e a vida*: Jesus é o caminho porque somente por meio dele é possível falar com Deus em oração. Ele também é “o caminho” para que os humanos sejam reconciliados com Deus. (Jo 16:23; Ro 5:8) Jesus é a verdade no sentido de que sempre falou e viveu de acordo com a verdade. Ele também cumpriu inúmeras profecias que mostram o papel central que ele tem na realização do propósito de Deus. (Jo 1:14; Ap 19:10) Essas profecias se tornaram “‘sim’ [se cumpriram] por meio dele”. (2Co 1:20) Jesus é a vida porque o resgate torna possível que a humanidade tenha a “verdadeira vida”, ou seja, a “vida eterna”. (1Ti 6:12, 19; Ef 1:7; 1Jo 1:7) Ele também será “a vida” para milhões de pessoas que serão ressuscitadas com a perspectiva de viver para sempre no Paraíso. — Jo 5:28, 29.
+====
+
+[[v43-14-7]]
+
+^<<v43-14-7,7>>^ Se vocês me conhecessem, conheceriam também o meu Pai. De agora em diante vocês o conhecem e o têm visto.”
+
+[[v43-14-8]]
+
+^<<v43-14-8,8>>^ Filipe lhe disse: “Senhor, mostre-nos o Pai, e isso é suficiente para nós.”
+
+[TIP]
+====
+- *mostre-nos o Pai*: Pelo visto, Filipe queria que Jesus fizesse com que ele e os outros discípulos vissem uma manifestação de Deus, assim como Moisés, Elias e Isaías tinham visto. — Êx 24:10; 1Rs 19:9-13; Is 6:1-5.
+====
+
+[[v43-14-9]]
+
+^<<v43-14-9,9>>^ Jesus lhe respondeu: “Já faz tanto tempo que estou com vocês, e você ainda não me conhece, Filipe? Quem me vê, vê também o Pai. Como é que você diz: ‘Mostre-nos o Pai’?
+
+[TIP]
+====
+- *Quem me vê, vê também o Pai*: O pedido de Filipe em Jo 14:8 indica que ele queria que Jesus fizesse com que ele e os outros discípulos vissem uma manifestação de Deus, assim como Moisés, Elias e Isaías tinham visto. (Êx 24:10; 1Rs 19:9-13; Is 6:1-5) Esses profetas viram representações de Deus, e não o próprio Deus. (Êx 33:17-23; Jo 1:18) As palavras de Jesus mostram que Filipe tinha visto algo ainda melhor. Visto que Jesus refletia perfeitamente a personalidade de seu Pai, ver Jesus era como ver o próprio Deus. (Mt 11:27) Os discípulos tinham ‘visto o Pai’ porque tinham aprendido sobre sua personalidade e seus objetivos através das coisas que Jesus disse e fez. Assim, ao ler o que a Bíblia fala sobre Jesus — sobre o amor que tinha por seus amigos, a compaixão que o motivava a curar as pessoas, a empatia que o levava às vezes a chorar e sua maneira impressionante de ensinar outros — pode-se imaginar Jeová, o Pai, dizendo e fazendo as mesmas coisas. — Mt 7:28, 29; Mr 1:40-42; Jo 11:32-36.
+====
+
+[[v43-14-10]]
+
+^<<v43-14-10,10>>^ Você não acredita que eu estou em união com o Pai e que o Pai está em união comigo? O que eu lhes digo não se origina de mim, mas o Pai, que permanece em união comigo, está fazendo as Suas obras.
+
+[TIP]
+====
+- *se origina de mim*: Ou: “é por conta própria”. Lit.: “de mim mesmo”. Como Jesus é o Principal Representante de Deus, ele sempre ouve a voz de Jeová e fala aquilo que Jeová o orienta a falar.
+====
+
+[[v43-14-11]]
+
+^<<v43-14-11,11>>^ Acreditem em mim quando digo que estou em união com o Pai e o Pai está em união comigo; ou senão, acreditem por causa das obras em si.
+
+[[v43-14-12]]
+
+^<<v43-14-12,12>>^ Digo-lhes com toda a certeza: Quem exercer fé em mim fará também as obras que eu faço. E ele fará obras maiores do que essas, porque vou embora para o Pai.
+
+[TIP]
+====
+- *obras maiores do que essas*: Jesus não estava dizendo que seus discípulos fariam milagres mais impressionantes do que os que ele tinha feito. Ele estava reconhecendo humildemente que eles fariam um trabalho de pregação e ensino maior do que o dele. Seus seguidores cobririam um território maior, alcançariam mais pessoas e pregariam por mais tempo do que ele. Assim, Jesus deixou claro que esperava que seus discípulos continuassem o trabalho que ele tinha começado.
+====
+
+[[v43-14-13]]
+
+^<<v43-14-13,13>>^ Também, tudo o que vocês pedirem em meu nome, eu farei, para que o Pai seja glorificado por meio do Filho.
+
+[TIP]
+====
+- *tudo o que vocês pedirem em meu nome*: Ao dizer isso, Jesus estava falando sobre uma nova exigência para as orações serem ouvidas. Até então, Jeová nunca tinha exigido que as pessoas orassem em nome de alguém. Por exemplo, apesar de Moisés ter servido como mediador entre a nação de Israel e Deus, Jeová não disse que os israelitas deveriam usar o nome de Moisés em suas orações. Mas, na última noite com seus discípulos antes de morrer, Jesus falou sobre esse novo modo de orar e usou quatro vezes a expressão ‘pedir em meu nome’. (Jo 14:13, 14; 15:16; 16:23, 24) Quando Jesus deu sua vida perfeita como resgate, ele comprou a raça humana. Por isso, Jeová passou a abençoar a humanidade apenas por meio de Jesus. (Ro 5:12, 18, 19; 1Co 6:20; Gál 3:13) O resgate fez com que Jesus se tornasse o único Mediador legal entre Deus e os homens (1Ti 2:5, 6), o único meio para uma pessoa ser livrada da maldição do pecado e da morte (At 4:12). Assim, faz sentido que Jesus seja o único caminho para alguém se aproximar de Deus. (He 4:14-16) Quando uma pessoa ora em nome de Jesus, ela mostra que reconhece o importantíssimo papel que ele tem.
+====
+
+[[v43-14-14]]
+
+^<<v43-14-14,14>>^ Qualquer coisa que vocês pedirem em meu nome, eu farei.
+
+[TIP]
+====
+- *pedirem*: A opção usada aqui segue alguns dos manuscritos mais antigos e está de acordo com os textos de Jo 15:16 e 16:23. Outros manuscritos bem antigos dizem “me pedirem”.
+====
+
+[[v43-14-15]]
+
+^<<v43-14-15,15>>^ “Se vocês me amam, obedecerão aos meus mandamentos.
+
+[[v43-14-16]]
+
+^<<v43-14-16,16>>^ E eu pedirei ao Pai, e ele lhes dará outro ajudador para estar com vocês para sempre:
+
+[TIP]
+====
+- *outro ajudador*: Estas palavras indicam que os discípulos já tinham um “ajudador”, Jesus. Na verdade, 1Jo 2:1 usa a mesma palavra grega traduzida aqui como “ajudador” (parákletos) para se referir ao papel de Jesus. Mas aqui Jesus estava prometendo que, depois que ele voltasse para o céu, o espírito (a força ativa) de Deus iria ajudar seus discípulos.
+- *ajudador*: Ou: “consolador; incentivador; advogado”. A palavra grega traduzida aqui como “ajudador” (parákletos) é usada na Bíblia para se referir tanto ao espírito santo (Jo 14:16, 26; 15:26; 16:7) como a Jesus (1Jo 2:1). A palavra poderia ser traduzida literalmente como “pessoa chamada para o lado de alguém” para prestar ajuda. Apesar de o espírito santo ser uma força, e não uma pessoa, Jesus o chamou de “ajudador” e falou que esse ajudador iria ‘ensinar’, ‘dar testemunho’, ‘dar provas’, ‘guiar’, ‘falar’, ‘ouvir’ e ‘receber’. (Jo 14:26; 15:26; 16:7-15) Ao falar do espírito santo dessa forma, Jesus estava usando uma figura de linguagem chamada personificação, que envolve falar de algo sem vida ou de um objeto como se fossem uma pessoa. Essa mesma figura de linguagem é usada nas Escrituras para falar sobre muitas outras coisas, como a sabedoria, a morte, o pecado e a bondade imerecida. (Mt 11:19; Lu 7:35; Ro 5:14, 17, 21; 6:12; 7:8-11) E é óbvio que nenhuma dessas coisas é realmente uma pessoa. Além disso, o espírito de Deus é muitas vezes mencionado junto com outras coisas sem vida, o que também mostra que ele não é uma pessoa. (Mt 3:11; At 6:3, 5; 13:52; 2Co 6:4-8; Ef 5:18) Alguns argumentam que o fato de o texto grego usar pronomes masculinos para se referir a esse “ajudador” prova que o espírito santo é uma pessoa. (Jo 14:26) Mas, de acordo com a gramática grega, como a palavra parákletos é masculina, os pronomes também precisam ser masculinos. (Jo 16:7, 8, 13, 14) Por outro lado, quando a palavra usada para se referir ao espírito santo é pneúma, que é do gênero neutro, os pronomes usados também são neutros. — Veja a nota de estudo em Jo 14:17.
+====
+
+[[v43-14-17]]
+
+^<<v43-14-17,17>>^ o espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece. Vocês o conhecem, porque permanece com vocês e está em vocês.
+
+[TIP]
+====
+- *espírito*: Ou: “força ativa”. A palavra grega traduzida aqui como “espírito” (pneúma) é do gênero neutro (não é masculina nem feminina) e, por isso, em grego os pronomes usados para se referir a ela também são neutros. Essa palavra tem vários significados. Mas ela sempre se refere a algo invisível aos olhos humanos e passa a ideia de uma força em ação. (Veja o Glossário.) Neste contexto, a palavra “espírito” se refere ao espírito santo de Deus. Jesus chamou o espírito santo de o espírito da verdade, uma expressão que também aparece em Jo 15:26 e 16:13. Nesses versículos, Jesus explicou que “o ajudador” (Jo 16:7), ou seja, “o espírito da verdade”, iria ‘guiar’ os discípulos dele “a toda a verdade”.
+- *o vê . . . Vocês o conhecem*: O pronome grego autó, traduzido duas vezes aqui como “o”, é do gênero neutro (não é masculino nem feminino) e se refere à palavra grega para espírito (pneúma), que também é do gênero neutro. — Veja a nota de estudo em Jo 14:16.
+====
+
+[[v43-14-18]]
+
+^<<v43-14-18,18>>^ Não os deixarei abandonados. Eu virei a vocês.
+
+[TIP]
+====
+- *abandonados*: Ou: “órfãos”. Em Tg 1:27, a palavra grega para “órfão” (orfanós) foi usada em sentido literal e se refere a alguém sem pai nem mãe. Aqui, ela foi usada em sentido figurado para se referir a alguém que foi deixado sem o apoio e a proteção de seu senhor, de um amigo ou de um cuidador. Jesus estava prometendo que não deixaria seus discípulos desamparados ou desprotegidos.
+====
+
+[[v43-14-19]]
+
+^<<v43-14-19,19>>^ Em breve o mundo não me verá mais, contudo vocês me verão, porque eu vivo e vocês viverão.
+
+[[v43-14-20]]
+
+^<<v43-14-20,20>>^ Naquele dia vocês saberão que eu estou em união com o meu Pai, e que vocês estão em união comigo, e que eu estou em união com vocês.
+
+[[v43-14-21]]
+
+^<<v43-14-21,21>>^ Quem aceita os meus mandamentos e obedece a eles é o que me ama. Por sua vez, quem me ama será amado pelo meu Pai, e eu o amarei e me mostrarei claramente a ele.”
+
+[[v43-14-22]]
+
+^<<v43-14-22,22>>^ Judas, não o Iscariotes, lhe perguntou: “Senhor, o que aconteceu que o senhor pretende se mostrar claramente a nós e não ao mundo?”
+
+[TIP]
+====
+- *Judas, não o Iscariotes*: Este Judas era o apóstolo que também era conhecido como Tadeu. — Veja a nota de estudo em Mt 10:3.
+====
+
+[[v43-14-23]]
+
+^<<v43-14-23,23>>^ Jesus lhe respondeu: “Se alguém me amar, obedecerá à minha palavra, e o meu Pai o amará, e nós iremos a ele e faremos a nossa morada com ele.
+
+[TIP]
+====
+- *morada*: Veja a nota de estudo em Jo 14:2.
+====
+
+[[v43-14-24]]
+
+^<<v43-14-24,24>>^ Quem não me ama não obedece às minhas palavras. A palavra que você ouve não é minha, mas pertence ao Pai, que me enviou.
+
+[[v43-14-25]]
+
+^<<v43-14-25,25>>^ “Eu lhes falo essas coisas enquanto ainda estou com vocês.
+
+[[v43-14-26]]
+
+^<<v43-14-26,26>>^ Mas o ajudador, o espírito santo, que o Pai enviará em meu nome, ensinará todas as coisas a vocês e os fará lembrar de todas as coisas que eu lhes disse.
+
+[TIP]
+====
+- *ajudador*: Ou: “consolador; encorajador; advogado”. — Veja a nota de estudo em Jo 14:16.
+====
+
+[[v43-14-27]]
+
+^<<v43-14-27,27>>^ Deixo-lhes a paz; dou-lhes a minha paz. Não a dou a vocês do modo como o mundo a dá. Não fiquem com o coração aflito, nem com medo.
+
+[[v43-14-28]]
+
+^<<v43-14-28,28>>^ Vocês ouviram que eu lhes disse: ‘Vou embora e vou voltar para vocês.’ Se vocês me amassem, se alegrariam de que vou para o Pai, pois o Pai é maior do que eu.
+
+[TIP]
+====
+- *pois o Pai é maior do que eu*: Em muitas ocasiões, Jesus reconheceu o poder, a autoridade e a posição superior que seu Pai tem em relação a ele. (Mt 4:9, 10; 20:23; Lu 22:41, 42; Jo 5:19; 8:42; 13:16) Mesmo depois de Jesus ter voltado ao céu, os apóstolos deixaram claro que Jesus e seu Pai são pessoas diferentes e que o Pai ocupa uma posição superior. (1Co 11:3; 15:20, 24-28; 1Pe 1:3; 1Jo 2:1; 4:9, 10) A palavra grega traduzida aqui como “maior” (meízon) é a forma comparativa da palavra grega para “grande” (mégas) e é usada em muitos contextos onde se diz que uma pessoa ou uma coisa é superior a outra. — Mt 18:1; 23:17; Mr 9:34; 12:31; Lu 22:24; Jo 13:16; 1Co 13:13.
+====
+
+[[v43-14-29]]
+
+^<<v43-14-29,29>>^ Eu lhes disse isso antes que ocorra, para que, quando ocorrer, vocês acreditem.
+
+[[v43-14-30]]
+
+^<<v43-14-30,30>>^ Já não falarei muito mais com vocês, pois o governante do mundo está chegando, e ele não tem nenhum poder sobre mim.
+
+[TIP]
+====
+- *o governante do mundo*: Uma expressão parecida é usada em Jo 12:31 e 16:11 e se refere a Satanás, o Diabo. Aqui, a palavra grega traduzida como “mundo” (kósmos) se refere a todos os humanos que não servem a Deus e que agem de uma forma que não está de acordo com a vontade dele. Esse “mundo” não se origina de Deus. Em vez disso, ele “está no poder do Maligno”. (1Jo 5:19) Satanás e suas “forças espirituais malignas nos lugares celestiais” atuam de modo invisível como “governantes mundiais [uma forma da palavra grega kosmokrátor] desta escuridão”. — Ef 6:11, 12.
+- *ele não tem nenhum poder sobre mim*: Lit.: “em mim ele não tem nada”. Jesus não tinha nenhuma imperfeição ou desejo errado que Satanás pudesse usar para fazê-lo deixar de servir a Deus. Pode ser que a expressão traduzida como “não tem nenhum poder sobre mim” venha da expressão idiomática hebraica “ele não tem direito sobre mim”, que era usada em contextos jurídicos. No caso de Judas, a situação foi diferente. O Diabo conseguiu entrar em Judas e ter poder sobre ele. — Jo 13:27.
+====
+
+[[v43-14-31]]
+
+^<<v43-14-31,31>>^ Mas, para que o mundo saiba que eu amo o Pai, faço assim como o Pai me ordenou. Levantem-se, vamos embora daqui.
+
+'''
+
+xref:043-joao/043-joao-013.adoc#v43-13-0[&#60; Capítulo Anterior] | <<v43-14-0,Topo>> | xref:043-joao/043-joao-015.adoc#v43-15-0[Próximo Capítulo &#62;]

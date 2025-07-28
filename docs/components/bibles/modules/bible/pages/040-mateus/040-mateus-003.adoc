@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v40-3-0]]
+=== As Boas Novas Segundo Mateus, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. Do nascimento ao batismo de Jesus (1:18–3:17)
+* Maria fica grávida por espírito santo; reação de José (1:18-25)
+* Visita dos astrólogos; plano de Herodes (2:1-12)
+* José e Maria fogem com seu filho para o Egito (2:13-15)
+* Herodes mata meninos em Belém e nos arredores (2:16-18)
+* Família de Jesus se muda para Nazaré (2:19-23)
+* Pregação de João Batista (3:1-12)
+* Batismo de Jesus (3:13-17)
+****
+
+[[v40-3-1]]
+
+^<<v40-3-1,1>>^ Naqueles dias João Batista foi pregar no deserto da Judeia,
+
+[TIP]
+====
+- *João*: Esse nome em português equivale aos nomes hebraicos Jeoanã ou Joanã, que significam “Jeová mostrou favor” ou “Jeová foi bondoso”.
+- *Batista*: Ou: “o Imersor; o Mergulhador”. Em Mr 1:4 e 6:14, 24, ele é chamado de “o Batizador”. Pelo visto, João ficou bem conhecido por batizar, ou mergulhar, pessoas na água, e por isso começaram a chamá-lo de “Batista”, como um tipo de sobrenome. Ao falar sobre João, o historiador judeu Flávio Josefo o chamou de “João, cognominado [que tinha o sobrenome] Batista”.
+- *pregar*: A palavra grega traduzida como “pregar” tem o sentido básico de “proclamar como um mensageiro público”. A palavra enfatiza como a proclamação é feita: geralmente de modo público, aberto, para todos ouvirem, em vez de um simples sermão para um grupo.
+- *deserto da Judeia*: Refere-se à encosta leste das montanhas da Judeia. É uma área pouco habitada e quase sem vegetação, que desce uns 1.200 metros em direção ao oeste do rio Jordão e do Mar Morto. João começou seu trabalho de pregação numa parte do deserto que ficava ao norte do Mar Morto.
+====
+
+[[v40-3-2]]
+
+^<<v40-3-2,2>>^ dizendo: “Arrependam-se, pois o Reino dos céus está próximo.”
+
+[TIP]
+====
+- *Arrependam-se*: A palavra grega usada aqui pode ser traduzida literalmente como “mudar de ideia”. Significa mudar o modo de pensar, as atitudes ou os objetivos na vida. No contexto deste versículo, ‘arrepender-se’ indica que a pessoa deve fazer mudanças na vida para poder agradar a Deus e ter a amizade dele. — Veja as notas de estudo em Mt 3:8, 11 e o Glossário, “Arrependimento”.
+- *Reino*: Primeira vez que a palavra grega basileía aparece. Ela se refere a um governo que tem um rei, e pode se referir também ao território e aos povos governados por um rei. Das 162 vezes em que essa palavra grega aparece nas Escrituras Gregas Cristãs, 55 são no livro de Mateus, e a maioria delas se refere ao Reino de Deus no céu. Mateus usa basileía tantas vezes que o livro dele poderia ser chamado de Evangelho do Reino. — Veja o Glossário, “Reino de Deus”.
+- *Reino dos céus*: Essa expressão aparece umas 30 vezes na Bíblia, e apenas no Evangelho de Mateus. Os Evangelhos de Marcos e de Lucas usam uma expressão paralela, “Reino de Deus”. Isso indica que a sede do “Reino de Deus” fica no céu, e seu Rei governa de lá. — Mt 21:43; Mr 1:15; Lu 4:43; Da 2:44; 2Ti 4:18.
+- *está próximo*: Aqui, a expressão quer dizer que o futuro Rei do Reino dos céus estava para chegar.
+====
+
+[[v40-3-3]]
+
+^<<v40-3-3,3>>^ De fato, esse é aquele de quem se falou por meio de Isaías, o profeta, com estas palavras: “A voz de alguém está clamando no deserto: ‘Preparem o caminho para Jeová! Endireitem as suas estradas.’”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de Is 40:3. No texto hebraico original de Is 40:3, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). (Veja o Apêndice C1.) Mateus explica que a profecia de Isaías predisse o que João Batista fez para preparar o caminho para Jesus, o representante de Deus. Em Jo 1:23, João Batista explicou que a profecia de Isaías se cumpriu nele.
+- *Endireitem as suas estradas*: Possivelmente se refere a um costume antigo: os reis mandavam homens preparar o caminho por onde seus carros iam passar. Esses homens tiravam pedras grandes da estrada e até chegavam a nivelar morros e a construir caminhos sobre pântanos.
+====
+
+[[v40-3-4]]
+
+^<<v40-3-4,4>>^ João usava roupa de pelo de camelo e um cinto de couro na cintura. Seu alimento eram gafanhotos e mel silvestre.
+
+[TIP]
+====
+- *usava roupa de pelo de camelo*: A roupa de João feita de pelo de camelo e o cinto de couro que ele usava lembravam a roupa do profeta Elias. — 2Rs 1:8; Jo 1:21.
+- *gafanhotos*: A Lei permitia que os israelitas comessem gafanhotos, que são ricos em proteínas. — Le 11:21, 22.
+- *mel silvestre*: Ou seja, mel produzido pelas abelhas que viviam nos desertos. Não é o mel produzido por abelhas domesticadas. Comer gafanhotos e mel silvestre era um hábito comum entre as pessoas que moravam no deserto.
+====
+
+[[v40-3-5]]
+
+^<<v40-3-5,5>>^ E o povo de Jerusalém, de toda a Judeia e de toda a região em volta do Jordão ia ao encontro dele,
+
+[[v40-3-6]]
+
+^<<v40-3-6,6>>^ e eles eram batizados por ele no rio Jordão, confessando abertamente os seus pecados.
+
+[TIP]
+====
+- *batizados*: Ou: “imersos; mergulhados”. — Veja a nota de estudo em Mt 3:11.
+- *confessando abertamente os seus pecados*: Significa que as pessoas admitiam publicamente que tinham pecado contra o pacto da Lei.
+====
+
+[[v40-3-7]]
+
+^<<v40-3-7,7>>^ Quando ele viu muitos fariseus e saduceus se aproximarem do local do batismo, disse-lhes: “Descendência de víboras, quem disse que vocês podem fugir da ira que virá?
+
+[TIP]
+====
+- *fariseus*: Veja o Glossário.
+- *saduceus*: Veja o Glossário.
+- *Descendência de víboras*: João Batista quis dizer que, assim como o veneno da víbora pode matar uma pessoa desprevenida, a maldade e os ensinos falsos dos fariseus e saduceus eram como um veneno para as pessoas que acreditassem neles.
+====
+
+[[v40-3-8]]
+
+^<<v40-3-8,8>>^ Portanto, produzam fruto próprio do arrependimento.
+
+[TIP]
+====
+- *fruto próprio do arrependimento*: As pessoas que ouviam João precisavam produzir “fruto”, ou seja, mostrar por suas ações que tinham mudado seu modo de pensar e suas atitudes. — Lu 3:8; At 26:20; veja as notas de estudo em Mt 3:2, 11 e o Glossário, “Arrependimento”.
+====
+
+[[v40-3-9]]
+
+^<<v40-3-9,9>>^ Não se atrevam a dizer a si mesmos: ‘Temos Abraão como pai.’ Pois eu lhes digo que Deus pode fazer surgir destas pedras filhos a Abraão.
+
+[[v40-3-10]]
+
+^<<v40-3-10,10>>^ O machado já está posto à raiz das árvores. Portanto, toda árvore que não produz bom fruto será cortada e lançada no fogo.
+
+[[v40-3-11]]
+
+^<<v40-3-11,11>>^ Eu batizo vocês com água, por causa do seu arrependimento, mas aquele que vem depois de mim é mais forte do que eu, e não sou digno de tirar as suas sandálias. Ele os batizará com espírito santo e com fogo.
+
+[TIP]
+====
+- *batizo vocês*: Ou: “mergulho vocês”. A palavra grega baptízo significa “imergir; afundar [algo]”. Outros textos na Bíblia mostram que o batismo envolve mergulhar completamente a pessoa. Em certa ocasião, João estava batizando em um local no vale do Jordão perto de Salim “porque havia ali uma grande quantidade de água”. (Jo 3:23) Depois de Filipe batizar o eunuco etíope, eles ‘saíram da água’, ou seja, estavam dentro da água. (At 8:39) A Septuaginta usou essa mesma palavra grega em 2Rs 5:14, que diz que Naamã “mergulhou no Jordão sete vezes”.
+- *arrependimento*: Lit.: “mudança de ideia”. — Veja as notas de estudo em Mt 3:2, 8 e o Glossário.
+- *é mais forte*: Aqui significa “tem mais autoridade”.
+- *sandálias*: Tirar e carregar as sandálias de uma pessoa ou desamarrar o cordão das sandálias de alguém era um serviço humilde, geralmente feito por um escravo. — Mr 1:7; Lu 3:16; Jo 1:27.
+- *batizará com espírito santo e com fogo*: O batismo com espírito santo começou no Pentecostes de 33 d.C. quando os discípulos de Jesus foram ungidos com espírito santo. O batismo com fogo aconteceu em 70 d.C. quando os exércitos romanos destruíram Jerusalém e incendiaram o templo.
+====
+
+[[v40-3-12]]
+
+^<<v40-3-12,12>>^ Ele tem na mão a sua pá para separar o trigo da palha e limpará completamente a sua eira; e ajuntará seu trigo no celeiro, mas a palha ele queimará num fogo que não pode ser apagado.”
+
+[TIP]
+====
+- *pá para separar o trigo da palha*: Provavelmente, essa pá era feita de madeira. Com ela os lavradores jogavam para o alto os grãos debulhados e deixavam o vento levar embora as cascas dos grãos.
+- *palha*: Aqui se refere à pragana, uma camada fina ou uma casca que fica em volta dos grãos de cereais, como a cevada e o trigo. Geralmente, os lavradores juntavam essa palha e a queimavam. Assim, não havia perigo de o vento misturar novamente a palha com os grãos debulhados. João usou esse costume para ilustrar que o Messias ia separar pessoas representadas pelo “trigo” de pessoas representadas pela “palha”.
+- *fogo que não pode ser apagado*: Indicava que Jerusalém e seu templo seriam completamente destruídos.
+====
+
+[[v40-3-13]]
+
+^<<v40-3-13,13>>^ Jesus foi então da Galileia ao Jordão, ao encontro de João, a fim de ser batizado por ele.
+
+[[v40-3-14]]
+
+^<<v40-3-14,14>>^ Este, porém, tentou impedi-lo, dizendo: “Eu é que preciso ser batizado pelo senhor, e o senhor vem a mim?”
+
+[[v40-3-15]]
+
+^<<v40-3-15,15>>^ Em resposta, Jesus lhe disse: “Deixe que seja assim agora, pois é apropriado que, desta maneira, cumpramos tudo o que é justo.” Então João parou de impedi-lo.
+
+[TIP]
+====
+- *cumpramos tudo o que é justo*: Jesus não se batizou para mostrar arrependimento, pois ele era perfeito e sempre cumpriu todas as leis de Deus. Também não foi batizado para mostrar que tinha se dedicado a Deus, porque ele nasceu numa nação que já era dedicada a Jeová. Jesus se batizou para mostrar que estava se apresentando para fazer a vontade de Deus como o Messias, o que incluía se oferecer como resgate. Assim ele faria a vontade de Jeová e ‘cumpriria o que era justo’. O que Jesus fez estava de acordo com a profecia do Sal 40:7, 8, explicada mais tarde em He 10:5-9.
+====
+
+[[v40-3-16]]
+
+^<<v40-3-16,16>>^ Depois de ser batizado, Jesus saiu imediatamente da água, e naquele momento os céus se abriram, e ele viu o espírito de Deus descer como pomba e vir sobre ele.
+
+[TIP]
+====
+- *os céus*: A palavra grega usada aqui pode se referir ao céu físico (visível) ou ao céu espiritual (invisível).
+- *os céus se abriram*: Tudo indica que, nesse momento, Jeová fez Jesus se lembrar de tudo o que tinha vivido e aprendido no céu antes de vir à Terra.
+- *como pomba*: As pombas eram usadas na adoração a Deus. Elas podiam ser oferecidas como sacrifício. (Mr 11:15; Jo 2:14-16) Também serviam para simbolizar inocência e pureza. (Mt 10:16) A pomba que Noé soltou enquanto estava na arca trouxe de volta uma folha de oliveira. Isso indicava que as águas do Dilúvio estavam baixando (Gên 8:11) e que a Terra estava entrando num período de paz e descanso (Gên 5:29). É possível que Jeová tenha usado a pomba no batismo de Jesus para deixar claro que ele era o Messias, o Filho de Deus puro e sem pecado que daria a vida pela humanidade e traria um período de paz e descanso quando fosse Rei. O modo como o espírito de Deus, ou sua força ativa, se aproximou de Jesus pode ter lembrado uma pomba batendo rapidamente suas asas ao se aproximar de seu ninho.
+====
+
+[[v40-3-17]]
+
+^<<v40-3-17,17>>^ Também, uma voz vinda dos céus disse: “Este é meu Filho, o amado, a quem eu aprovo.”
+
+[TIP]
+====
+- *uma voz vinda dos céus*: Esta é a primeira das três vezes em que os Evangelhos relatam que humanos ouviram o próprio Jeová falar. — Veja as notas de estudo em Mt 17:5; Jo 12:28.
+- *Este é meu Filho*: Enquanto vivia no céu, Jesus já era o Filho de Deus. (Jo 3:16) E, quando nasceu como humano, Jesus era um “filho de Deus”, assim como Adão era antes de pecar. (Lu 1:35; 3:38) Mas parece razoável concluir que aqui, quando Jeová disse “este é meu Filho”, ele não estava apenas confirmando quem Jesus era. Pelo visto, o fato de Jeová ter dito essas palavras enquanto derramava o espírito santo indicava que Jesus tinha se tornado seu Filho gerado por espírito. Naquele momento, Jesus ‘nasceu de novo’, com a esperança de voltar a viver no céu, e foi ungido, ou escolhido, para ser Rei e Sumo Sacerdote. — Jo 3:3-6; 6:51; veja também Lu 1:31-33; He 2:17; 5:1, 4-10; 7:1-3.
+- *a quem eu aprovo*: Ou: “que me agrada muito; que me dá muita alegria”. A mesma expressão é usada em Mt 12:18, que cita a profecia de Is 42:1 sobre o Messias, ou Cristo. Quando falou que aprovava seu Filho e o ungiu com espírito santo, Jeová deixou bem claro que Jesus era o Messias prometido. — Veja a nota de estudo em Mt 12:18.
+====
+
+'''
+
+xref:040-mateus/040-mateus-002.adoc#v40-2-0[&#60; Capítulo Anterior] | <<v40-3-0,Topo>> | xref:040-mateus/040-mateus-004.adoc#v40-4-0[Próximo Capítulo &#62;]

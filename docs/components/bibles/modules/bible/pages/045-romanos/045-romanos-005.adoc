@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v45-5-0]]
+=== A Carta aos Romanos, 5
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-5-1]]
+
+^<<v45-5-1,1>>^ Portanto, agora que fomos declarados justos em resultado da fé, desfrutemos de paz com Deus por meio do nosso Senhor Jesus Cristo,
+
+[TIP]
+====
+- *desfrutemos de paz*: Existem alguns manuscritos bem antigos que dizem “nós temos paz”.
+====
+
+[[v45-5-2]]
+
+^<<v45-5-2,2>>^ por meio de quem também obtivemos, pela fé, acesso a essa bondade imerecida em que agora nos encontramos; e alegremo-nos com base na esperança de participar da glória de Deus.
+
+[TIP]
+====
+- *alegremo-nos*: Existem alguns manuscritos bem antigos que dizem “nós nos alegramos”. O verbo grego traduzido aqui como “alegrar-se” também poderia ser traduzido como “exultar; gabar-se”.
+====
+
+[[v45-5-3]]
+
+^<<v45-5-3,3>>^ Não somente isso, mas alegremo-nos também ao passar por sofrimentos, pois sabemos que o sofrimento produz perseverança;
+
+[TIP]
+====
+- *alegremo-nos*: Existem alguns manuscritos bem antigos que dizem “nós nos alegramos”. O verbo grego traduzido aqui como “alegrar-se” também poderia ser traduzido como “exultar; gabar-se”.
+- *perseverança*: O substantivo grego que aparece aqui, hypomoné, é usado na Bíblia para se referir à perseverança corajosa, constante ou paciente demonstrada por quem não perde a esperança diante de obstáculos, perseguições, provações ou tentações. O verbo grego relacionado (hypoméno), que muitas vezes é traduzido como “perseverar”, significa literalmente “permanecer (ficar) embaixo”. Ele com frequência é usado no sentido de “ficar em vez de fugir; manter-se firme; resistir; continuar decidido”. (Mt 10:22; Ro 12:12; He 10:32; Tg 5:11) Quando um cristão, com a ajuda de Deus, suporta provações com paciência e se mantém firme, ele mostra que tem perseverança.
+====
+
+[[v45-5-4]]
+
+^<<v45-5-4,4>>^ a perseverança, por sua vez, uma condição aprovada; a condição aprovada, por sua vez, esperança,
+
+[TIP]
+====
+- *esperança*: A palavra grega usada aqui é elpís. Na Bíblia, ela tem o sentido básico de “expectativa de algo bom”. Neste contexto, Paulo cita a esperança como a última de quatro coisas que acontecem em sequência: sofrimento, perseverança, condição aprovada e esperança. Assim, fica claro que Paulo não está falando da esperança que uma pessoa passa a ter logo que aprende as boas novas de Deus. Em vez disso, ele está falando da esperança que o cristão passa a ter depois de ter perseverado, uma esperança mais forte. Quando um cristão persevera e continua fiel ao passar por dificuldades, ele sente que tem a aprovação de Deus. Ter essa certeza aumenta a esperança que ele tinha no início. — He 6:11.
+====
+
+[[v45-5-5]]
+
+^<<v45-5-5,5>>^ e a esperança não leva a decepção; porque o amor de Deus foi derramado em nosso coração por meio do espírito santo, que nos foi dado.
+
+[TIP]
+====
+- *não leva a decepção*: Em grego, o sentido básico desta expressão é “não envergonha”. Ela mostra que, quando uma pessoa tem verdadeira fé em Deus, essa fé nunca será motivo de vergonha ou decepção. O mesmo verbo grego que aparece aqui também foi usado em Ro 9:33; 10:11 e 1Pe 2:6, onde ele está na voz passiva e foi traduzido como “ficar decepcionado”.
+====
+
+[[v45-5-6]]
+
+^<<v45-5-6,6>>^ Pois, realmente, enquanto ainda éramos fracos, Cristo morreu por homens ímpios no tempo determinado.
+
+[TIP]
+====
+- *por homens ímpios*: Ou: “pelos irreverentes”. A palavra grega traduzida aqui como “homens ímpios” muitas vezes se refere a pessoas más. (2Pe 2:5; Ju 4) Mas aqui ela foi usada para se referir a todos os humanos pecadores que, apesar de estarem afastados de Deus, podem ser salvos pelo resgate. — Col 1:21.
+====
+
+[[v45-5-7]]
+
+^<<v45-5-7,7>>^ Dificilmente alguém morreria por um justo; embora, por um homem bom, alguém talvez se atreva a morrer.
+
+[[v45-5-8]]
+
+^<<v45-5-8,8>>^ Mas Deus recomenda a nós o seu próprio amor,^&#42;1^ por Cristo ter morrido por nós enquanto ainda éramos pecadores.
+
+[NOTE]
+====
+. Ou: “demonstra (mostra) o seu próprio amor por nós”.
+====
+
+[[v45-5-9]]
+
+^<<v45-5-9,9>>^ Assim, visto que agora fomos declarados justos pelo seu sangue, com muito mais certeza seremos salvos da ira por meio dele.
+
+[TIP]
+====
+- *da ira*: Ou seja, da ira de Deus.
+====
+
+[[v45-5-10]]
+
+^<<v45-5-10,10>>^ Pois, se nós, quando éramos inimigos, fomos reconciliados com Deus por meio da morte do seu Filho, com muito mais certeza seremos salvos pela sua vida, agora que estamos reconciliados.
+
+[TIP]
+====
+- *reconciliados com Deus*: O verbo grego katallásso, que aparece duas vezes neste versículo e duas vezes em 2Co 5:18, 19, tem o sentido básico de “mudar; trocar”. Com o tempo, ele passou a ser usado com o sentido de “mudar de inimizade para amizade”. Quando ele é usado para falar do relacionamento do homem com Deus, ele passa a ideia de restaurar a harmonia ou a amizade. Paulo usou esse verbo quando falou sobre uma mulher separada ‘se reconciliar com o marido’. (1Co 7:11) O verbo relacionado diallássomai aparece em Mt 5:24, onde Jesus disse a seus discípulos que antes de oferecer uma dádiva no altar a pessoa deveria ‘fazer as pazes com o seu irmão’. (Veja a nota de estudo em Mt 5:24.) Os humanos precisam ser reconciliados com Deus porque o primeiro homem, Adão, desobedeceu a ele e passou o pecado e a imperfeição para toda a humanidade. Isso afastou os humanos de Deus; eles se tornaram inimigos de Deus, já que os padrões de justiça dele não permitem que ele tolere o pecado. — Ro 5:12; 8:7, 8.
+====
+
+[[v45-5-11]]
+
+^<<v45-5-11,11>>^ Não somente isso, mas também nos alegramos em Deus por meio do nosso Senhor Jesus Cristo, por meio de quem recebemos agora a reconciliação.
+
+[[v45-5-12]]
+
+^<<v45-5-12,12>>^ É por isso que, assim como por meio de um só homem o pecado entrou no mundo, e a morte por meio do pecado, e desse modo a morte se espalhou por toda a humanidade, porque todos haviam pecado . . .
+
+[TIP]
+====
+- *porque todos haviam pecado . . . *: Neste versículo, Paulo explica como o pecado e a morte se espalharam a todos os humanos. Essa verdade básica está ligada com a ideia central do livro de Romanos: Deus é imparcial e dá a todos os que têm fé no sacrifício resgatador de Jesus a oportunidade de serem salvos. Paulo mostra que tanto os judeus como os não judeus são pecadores e precisam exercer fé em Jeová Deus e no resgate de seu Filho para serem considerados justos por Jeová. (Ro 1:16, 17) O mundo mencionado aqui se refere à humanidade como um todo. (Veja a nota de estudo em Jo 3:16.) Tudo indica que no fim deste versículo Paulo faz uma interrupção na sua linha de raciocínio e só volta a ela no versículo 18. Essa interrupção é indicada aqui pelo uso de reticências (algumas edições eruditas do texto grego também indicam essa interrupção usando um travessão). Assim, pelo visto, Paulo começa seu raciocínio aqui no versículo 12, onde ele inicia uma comparação envolvendo Adão (“assim como por meio de um só homem” todos se tornaram pecadores), e completa seu raciocínio nos versículos 18 (“assim também um só ato de justificação resulta em pessoas de todo tipo serem declaradas justas para a vida”) e 19. O fato de Jesus ter mantido sua integridade durante toda a sua vida e ter morrido fiel tornou possível que muitos pudessem ser declarados justos e ser salvos por meio da fé deles.
+====
+
+[[v45-5-13]]
+
+^<<v45-5-13,13>>^ Pois o pecado já existia no mundo antes da Lei, mas, quando não há lei, ninguém é acusado de cometer pecados.
+
+[[v45-5-14]]
+
+^<<v45-5-14,14>>^ Ainda assim, a morte reinou desde Adão até Moisés, mesmo sobre os que não haviam cometido pecado semelhante à transgressão de Adão, o qual tem similaridade com aquele que viria.
+
+[TIP]
+====
+- *a morte reinou*: Aqui, Paulo fala da morte como se ela fosse um rei que está reinando desde os dias de Adão; ela reina junto com outro “rei”, o pecado. (Ro 6:12) Pode-se dizer que esses reis impõem sobre a humanidade a sua “lei”, ou seja, a sua forte influência, no sentido de que todos os humanos são imperfeitos e pecam, e o pecado leva à morte. (Ro 7:23; veja a nota de estudo em Ro 8:2.) Mas, quando Cristo veio à Terra e deu sua vida como resgate, surgiu um “rei” superior, a bondade imerecida, que começou a reinar sobre todos os que aceitam a dádiva de Deus, ‘levando à vida eterna’. — Ro 5:15-17, 21.
+- *reinou*: O verbo grego que aparece aqui, basileúo, está relacionado com o substantivo grego para “rei”, basileús. Assim, basileúo também poderia ser traduzido como “governar como rei; tornar-se rei”. (Lu 19:14, 27) Ele é usado para se referir a Jesus Cristo (Lu 1:33; 1Co 15:25) e a Jeová Deus (Ap 11:15, 17; 19:6), que reinam no céu. Além disso, ele também é usado para se referir aos cristãos ungidos fiéis, que têm a esperança de ‘reinar sobre a terra’. (Ap 5:10; 20:4, 6; 22:5; Ro 5:17b) Mas, nesta passagem, Paulo usa basileúo em sentido figurado para se referir aos reinados do pecado, da morte e da bondade imerecida.
+- *o qual tem similaridade com aquele que viria*: Existem similaridades entre Adão, o primeiro humano, e Jesus Cristo, o descendente que foi prometido no jardim do Éden, logo antes de Jeová Deus sentenciar Adão e Eva. (Gên 3:15) Tanto Adão como Jesus eram humanos perfeitos. Além disso, os dois se tornaram pais. Adão é o pai biológico de toda a humanidade pecadora. (Gên 1:28) E Jesus pode ser considerado um pai porque Deus o designou como “Agente Principal da vida” e “Pai Eterno” dos humanos obedientes. (Is 9:6; At 3:15) Adão desobedeceu a Deus e deu origem a descendentes pecadores. Para conseguir pagar a dívida do pecado e resgatar a humanidade, o Resgatador, Jesus, tinha que ser um humano perfeito, assim como Adão tinha sido. Isso estava de acordo com o princípio de “vida por vida”. (De 19:21) Por isso, Paulo disse em 1Co 15:45: “Está escrito: ‘O primeiro homem, Adão, se tornou um ser vivente.’ O último Adão se tornou um espírito que dá vida.” A palavra grega traduzida aqui como “similaridade” é týpos, que significa literalmente “tipo” ou “modelo”. Assim, as palavras “o qual tem similaridade com aquele que viria” também poderiam ser traduzidas como “o qual é um tipo (modelo) daquele que viria”. Apesar das similaridades entre Jesus e Adão, a obediência perfeita de Jesus a Jeová foi totalmente diferente da atitude rebelde e desobediente de Adão.
+====
+
+[[v45-5-15]]
+
+^<<v45-5-15,15>>^ Mas a dádiva não é como a falha. Pois, se pela falha de um só homem muitos morreram, quanto mais a bondade imerecida de Deus e a sua dádiva^&#42;1^ por meio da bondade imerecida de um só homem, Jesus Cristo, transbordaram^&#42;2^ para muitos!
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+. Ou: “foram abundantes”.
+====
+
+[[v45-5-16]]
+
+^<<v45-5-16,16>>^ Também não se dá com a dádiva^&#42;1^ o mesmo que se deu por meio daquele que pecou. Pois o julgamento que veio depois de uma única falha foi a condenação, mas a dádiva que veio depois de muitas falhas foi uma declaração de justiça.
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+====
+
+[TIP]
+====
+- *uma declaração de justiça*: Ou: “um ato de justificação”. — Veja a nota de estudo em Ro 5:18.
+====
+
+[[v45-5-17]]
+
+^<<v45-5-17,17>>^ Pois, se a morte reinou por meio de um só homem pela falha dele, quanto mais aqueles que recebem a abundância da bondade imerecida e da dádiva^&#42;1^ da justiça reinarão em vida por meio de um só, Jesus Cristo!
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+====
+
+[[v45-5-18]]
+
+^<<v45-5-18,18>>^ Portanto, assim como uma só falha resultou em pessoas de todo tipo serem condenadas, assim também um só ato de justificação resulta em pessoas de todo tipo serem declaradas justas para a vida.
+
+[TIP]
+====
+- *um só ato de justificação*: Ou: “um só ato justo”. A palavra grega traduzida aqui como “ato de justificação” é dikaíoma. Ela pode se referir a uma ação que atende ao que foi estabelecido como certo ou justo. Neste contexto, a palavra se refere à integridade perfeita que Jesus demonstrou durante toda a sua vida e ao morrer como sacrifício. Jesus foi o único humano que conseguiu ser considerado justo aos olhos de Deus por méritos próprios, mesmo passando por testes. Por meio de seu “ato de justificação”, Jesus não só foi declarado justo por Deus como também se qualificou para servir como Rei e Sumo Sacerdote no céu. Além disso, o que Jesus fez serve de base para que todos os que exercem fé nele sejam declarados justos. — Ro 3:25, 26; 4:25; 5:17-19.
+====
+
+[[v45-5-19]]
+
+^<<v45-5-19,19>>^ Pois, assim como por meio da desobediência de um só homem muitos foram feitos pecadores, assim também, por meio da obediência de um só, muitos serão feitos justos.
+
+[[v45-5-20]]
+
+^<<v45-5-20,20>>^ A Lei veio para que as falhas se multiplicassem. Mas, onde o pecado se tornou abundante, a bondade imerecida se tornou ainda mais abundante.
+
+[[v45-5-21]]
+
+^<<v45-5-21,21>>^ Com que objetivo? Para que, assim como o pecado reinou junto com a morte, assim também a bondade imerecida reinasse por meio da justiça e levasse à vida eterna, por intermédio de Jesus Cristo, nosso Senhor.
+
+'''
+
+xref:045-romanos/045-romanos-004.adoc#v45-4-0[&#60; Capítulo Anterior] | <<v45-5-0,Topo>> | xref:045-romanos/045-romanos-006.adoc#v45-6-0[Próximo Capítulo &#62;]

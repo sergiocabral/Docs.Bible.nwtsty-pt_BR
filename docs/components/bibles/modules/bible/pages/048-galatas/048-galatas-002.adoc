@@ -1,0 +1,231 @@
+include::./index.adoc[]
+
+[[v48-2-0]]
+=== Aos Gálatas, 2
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. PAULO DEFENDE SUAS QUALIFICAÇÕES COMO APÓSTOLO (1:10–2:14)
+* Deus escolhe Paulo para ser apóstolo; início das atividades de Paulo (1:10-24)
+* Paulo se encontra com os apóstolos em Jerusalém (2:1-10)
+* Paulo conta como corrigiu Cefas (Pedro) em Antioquia da Síria (2:11-14)
+* C. A PESSOA NÃO PODE SER DECLARADA JUSTA POR MEIO DAS OBRAS DA LEI, MAS APENAS POR MEIO DA FÉ EM CRISTO (2:15–4:20)
+* Se a justiça vem por meio de lei, Cristo morreu em vão (2:15-21)
+* Contraste entre as obras da Lei e a fé (3:1-14)
+* As promessas a Abraão não se baseiam na Lei (3:15-18)
+* O objetivo da Lei mosaica (3:19-25)
+* Não mais escravos, mas filhos de Deus (3:26–4:7)
+* Apelo de Paulo para que os gálatas não voltem a ser escravos das coisas fracas e mesquinhas (4:8-11)
+* Preocupação de Paulo com os cristãos da Galácia (4:12-20)
+****
+
+[[v48-2-1]]
+
+^<<v48-2-1,1>>^ Então, 14 anos depois, subi novamente a Jerusalém, com Barnabé, levando também Tito comigo.
+
+[TIP]
+====
+- *Então, 14 anos depois*: Alguns estudiosos sugerem que Paulo aqui talvez quisesse dizer “no 14.º ano”, ou seja, um ano incompleto, seguido por 12 anos inteiros e mais um ano incompleto. (Compare com 1Rs 12:5, 12; veja a nota de estudo em Gál 1:18.) Esse período foi provavelmente de 36 d.C., quando Paulo foi para Jerusalém pela primeira vez como cristão, até 49 d.C., quando ele voltou a Jerusalém com Tito e Barnabé para apresentar o assunto da circuncisão aos apóstolos e anciãos. — At 15:2.
+====
+
+[[v48-2-2]]
+
+^<<v48-2-2,2>>^ Subi por causa de uma revelação, e eu apresentei aos irmãos as boas novas que estou pregando entre as nações. Mas fiz isso em particular, diante dos homens que eram bem-conceituados, para ter certeza de que eu não estava correndo, ou não tivesse corrido, em vão.
+
+[TIP]
+====
+- *por causa de uma revelação*: Aqui, Paulo acrescenta um detalhe que não foi mencionado por Lucas no livro de Atos. (At 15:1, 2) Cristo, como cabeça da congregação, pelo visto usou uma revelação para orientar Paulo a levar o importante assunto da circuncisão aos apóstolos e anciãos em Jerusalém. (Ef 5:23) A reunião histórica em que esse assunto foi decidido aconteceu por volta de 49 d.C. Ao mencionar essa revelação, Paulo apresenta mais uma evidência contra as declarações dos judaizantes, que insistiam que ele não era apóstolo. Além de ter sido designado pelo próprio Jesus, Paulo recebia revelações dele. Isso provava que Paulo era realmente um apóstolo. — Gál 1:1, 15, 16.
+- *estou pregando*: A palavra grega que aparece aqui tem o sentido básico de “proclamar como mensageiro público”. Ela enfatiza como a proclamação é feita: geralmente de modo público, aberto, para todos ouvirem, em vez de um simples sermão para um grupo. — Veja a nota de estudo em Mt 3:1.
+====
+
+[[v48-2-3]]
+
+^<<v48-2-3,3>>^ Contudo, nem mesmo Tito, que estava comigo, foi obrigado a ser circuncidado, embora fosse grego.
+
+[TIP]
+====
+- *nem mesmo Tito . . . foi obrigado a ser circuncidado*: Quando o assunto da circuncisão surgiu em Antioquia (cerca de 49 d.C.), Tito foi com Paulo e Barnabé para Jerusalém. (At 15:1, 2; Gál 2:1) Ele era “grego”, um não judeu incircunciso. (Veja a nota de estudo em grego neste versículo.) Na reunião em Jerusalém, os apóstolos e anciãos decidiram que não era necessário circuncidar os cristãos não judeus. (At 15:23-29) O fato de Paulo destacar aqui que nem mesmo esses irmãos tinham “obrigado” Tito a ser circuncidado pode indicar que Tito estava sendo pressionado por cristãos judaizantes (que diziam que era preciso seguir as crenças e os costumes judaicos) a passar por esse procedimento. Paulo cita o caso de Tito porque isso dava peso à sua afirmação de que os que se tornavam cristãos não estavam debaixo da Lei mosaica. Já que Tito realizava seu ministério principalmente entre pessoas das nações, que também não tinham sido circuncidadas, isso não criava nenhum problema. (2Co 8:6; 2Ti 4:10; Tit 1:4, 5) Assim, seu caso era diferente do de Timóteo, que foi circuncidado por Paulo. — Veja a nota de estudo em At 16:3.
+- *grego*: Pode ser que Tito tenha sido chamado aqui de “grego” (Héllen) porque realmente fosse de origem grega. No entanto, alguns escritores do século 1 d.C. usavam a forma plural (Héllenes) para se referir a pessoas que não eram gregas, mas que tinham adotado a língua e a cultura gregas. É possível que Tito fosse grego nesse sentido mais amplo. — Veja a nota de estudo em Ro 1:16.
+====
+
+[[v48-2-4]]
+
+^<<v48-2-4,4>>^ Mas essa questão surgiu por causa dos falsos irmãos introduzidos sorrateiramente, que se infiltraram para espionar a liberdade que desfrutamos em união com Cristo Jesus, a fim de nos escravizar completamente;
+
+[TIP]
+====
+- *falsos irmãos*: A palavra grega para “falso irmão” é pseudádelfos. Ela aparece apenas neste versículo e em 2Co 11:26. Um léxico define essa palavra como “alguém que é cristão apenas de nome”. Os judaizantes nas congregações da Galácia fingiam ser homens espirituais, mas ao mesmo tempo agiam contra os ensinos cristãos por tentar fazer com que a congregação seguisse de perto a Lei mosaica. (Veja a nota de estudo em Gál 1:6.) Paulo fala que esses homens foram “introduzidos sorrateiramente” e que eles “se infiltraram para espionar” a liberdade cristã, mostrando que eles usavam táticas sutis para espalhar seus ensinos perigosos. — Compare com 2Co 11:13-15.
+====
+
+[[v48-2-5]]
+
+^<<v48-2-5,5>>^ não cedemos a eles, não, nem por um momento,^&#42;1^ para que a verdade das boas novas continuasse com vocês.
+
+[NOTE]
+====
+. Lit.: “uma hora”.
+====
+
+[TIP]
+====
+- *a verdade das boas novas*: Esta expressão, que também aparece no versículo 14, se refere ao conjunto de ensinos cristãos registrados na Palavra de Deus.
+====
+
+[[v48-2-6]]
+
+^<<v48-2-6,6>>^ Mas, quanto aos que pareciam importantes — o que eles eram não faz diferença para mim, pois Deus não julga o homem pela aparência —, esses homens bem-conceituados não me transmitiram nada de novo.
+
+[TIP]
+====
+- *Deus*: Aqui, os manuscritos gregos dizem “Deus”, mas algumas poucas traduções das Escrituras Gregas Cristãs para o hebraico e para outros idiomas usam o nome de Deus.
+====
+
+[[v48-2-7]]
+
+^<<v48-2-7,7>>^ Pelo contrário, quando viram que eu tinha sido incumbido das boas novas aos incircuncisos, assim como Pedro tinha sido aos circuncisos
+
+[TIP]
+====
+- *aos incircuncisos*: Lit.: “da incircuncisão”. Ou seja, aos não judeus.
+- *assim como Pedro*: As palavras de Paulo neste versículo mostram que os que tomavam a liderança na congregação cooperavam uns com os outros. (Veja a nota de estudo em Gál 2:9.) O corpo governante em Jerusalém reconheceu que Paulo tinha sido designado para pregar principalmente aos não judeus, e Pedro, aos judeus. Mas isso não queria dizer que eles estavam limitados a pregar apenas a um desses grupos. Por exemplo, foi Pedro quem deu início ao trabalho de pregação aos não judeus. (At 10:44-48; 11:18) E Paulo deu testemunho a muitos judeus, já que tinha recebido de Cristo a designação de pregar “às nações, bem como . . . aos filhos de Israel”. (At 9:15) Tanto Paulo como Pedro levaram a sério as designações que receberam. Pedro mais tarde viajou para o leste para servir em Babilônia, que tinha uma grande comunidade de judeus e era um famoso centro de ensino judaico. (1Pe 5:13) Paulo, por outro lado, fez viagens missionárias para o oeste, talvez chegando até a Espanha.
+- *aos circuncisos*: Lit.: “da circuncisão”. Ou seja, aos judeus.
+====
+
+[[v48-2-8]]
+
+^<<v48-2-8,8>>^ — pois aquele que deu a Pedro os poderes necessários para um apostolado aos circuncisos deu também a mim poderes para com os que são das nações —,
+
+[TIP]
+====
+- *deu a Pedro os poderes necessários para um apostolado . . . deu também a mim poderes*: O verbo grego traduzido aqui como “dar poder” é energéo. Em alguns outros versículos, esse verbo foi traduzido como “atuar” ou “agir”. (Ef 2:2; 3:20; Fil 2:13; Col 1:29) Neste contexto, ele pelo visto passa a ideia de que Deus deu a Pedro e a Paulo não só a autoridade para agirem como apóstolos, mas também a capacidade para conseguirem cumprir suas responsabilidades.
+====
+
+[[v48-2-9]]
+
+^<<v48-2-9,9>>^ e quando reconheceram a bondade imerecida que me tinha sido concedida, Tiago, Cefas e João, os que pareciam colunas, estenderam a mim e a Barnabé a mão direita em sinal de parceria, para que nós fôssemos às nações, mas eles aos circuncisos.
+
+[TIP]
+====
+- *Cefas*: Este era um dos nomes do apóstolo Pedro. — Veja a nota de estudo em 1Co 1:12.
+- *colunas*: Assim como uma coluna serve de apoio para uma estrutura, os homens mencionados aqui por Paulo serviam de apoio para a congregação e a fortaleciam. A palavra grega traduzida aqui como “colunas” também aparece em 1Ti 3:15, onde a congregação cristã é chamada de “coluna e amparo da verdade”, e em Ap 10:1-3, que fala que as pernas de um anjo “eram como colunas de fogo”. Tiago, Cefas e João eram estáveis, confiáveis e fortes em sentido espiritual e, por isso, eram vistos pela congregação como colunas.
+- *a mão direita em sinal de parceria*: Ou: “a mão direita em sinal de companheirismo”. Nos tempos bíblicos, segurar a mão de alguém (ou dar um aperto de mãos) passava a ideia de cumplicidade, companheirismo ou parceria. (2Rs 10:15) Por volta de 49 d.C., o apóstolo Paulo foi a Jerusalém para participar da reunião em que o corpo governante tratou do assunto da circuncisão. (At 15:6-29) Tudo indica que durante essa visita ele se reuniu com Tiago, Pedro e João para falar sobre a designação que ele tinha recebido do Senhor Jesus Cristo de pregar as boas novas. (At 9:15; 13:2; 1Ti 1:12) Aqui, Paulo lembra do espírito de união e cooperação que ficou evidente naquela reunião e depois dela. Os irmãos ali entenderam que todos eles tinham o mesmo trabalho. Ficou decidido que Paulo e Barnabé se concentrariam em pregar às nações, ou seja, aos não judeus, e que Tiago, Pedro e João se concentrariam em pregar aos circuncisos, ou seja, aos judeus.
+====
+
+[[v48-2-10]]
+
+^<<v48-2-10,10>>^ Pediram apenas que nos lembrássemos dos pobres, e isso eu também tenho me esforçado muito para fazer.
+
+[TIP]
+====
+- *lembrássemos dos pobres*: Por volta de 49 d.C., Pedro, Tiago e João pediram a Paulo e a seu companheiro Barnabé que se lembrassem das necessidades materiais dos cristãos pobres ao pregar às nações. (Gál 2:9) Paulo levou a sério essa designação e explica aqui que tinha se esforçado muito para fazer isso. Quando os cristãos da Judeia mais tarde passaram necessidade, Paulo incentivou as congregações em outros lugares a partilhar o que tinham com seus irmãos em Jerusalém. As cartas de Paulo mostram que ele deu bastante atenção a esse assunto. Em suas duas cartas inspiradas aos coríntios (cerca de 55 d.C.), Paulo escreveu sobre a coleta para os judeus; ele também disse que já tinha dado orientações sobre isso “às congregações da Galácia”. (1Co 16:1-3; 2Co 8:1-8; 9:1-5; veja as notas de estudo em 1Co 16:1, 3; 2Co 8:2.) Por volta de 56 d.C., quando Paulo escreveu aos cristãos em Roma, a coleta já estava quase finalizada. (Ro 15:25, 26) Tudo indica que pouco depois ele completou sua missão, já que ao ser julgado pelo governador romano Félix ele disse: “Vim a Jerusalém para trazer uma contribuição à minha nação.” (At 24:17) Essa preocupação amorosa com as necessidades uns dos outros era uma característica marcante dos cristãos do século 1 d.C. — Jo 13:35.
+====
+
+[[v48-2-11]]
+
+^<<v48-2-11,11>>^ No entanto, quando Cefas chegou a Antioquia, eu me opus a ele face a face, porque ele estava claramente errado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “havia se tornado condenado”.
+====
+
+[TIP]
+====
+- *Cefas*: Este era um dos nomes do apóstolo Pedro. — Veja a nota de estudo em 1Co 1:12.
+- *me opus a ele*: Ou: “o enfrentei”. Quando Paulo percebeu que Pedro tinha deixado de se associar com os cristãos não judeus por causa do medo do homem, ele agiu. Paulo ‘se opôs a Pedro face a face’ e o repreendeu na frente de todos os presentes. O verbo grego traduzido aqui como “me opus” significa literalmente “estar contra”. — Gál 2:11-14.
+====
+
+[[v48-2-12]]
+
+^<<v48-2-12,12>>^ Pois, antes da chegada de certos homens da parte de Tiago, ele comia com pessoas das nações; mas, quando eles chegaram, parou de fazer isso e se separou dessas pessoas, temendo os da classe circuncisa.
+
+[TIP]
+====
+- *comia com pessoas das nações*: Nos tempos bíblicos, as refeições eram ocasiões para as pessoas passarem tempo juntas e normalmente incluíam orações. Assim, não é de admirar que os judeus geralmente não tomassem refeições com não judeus. Na verdade, os israelitas receberam a ordem de nunca se misturar com as nações que tinham ficado na Terra Prometida, nem mesmo mencionando o nome dos deuses delas. (Jos 23:6, 7) No século 1 d.C., os líderes religiosos judaicos já tinham acrescentado suas próprias restrições, afirmando, por exemplo, que o simples ato de entrar na casa de um não judeu tornava a pessoa cerimonialmente impura. — Jo 18:28.
+- *parou de fazer isso e se separou dessas pessoas*: Em 36 d.C., Pedro, que era um cristão judeu, usou a terceira das “chaves do Reino”, abrindo as portas para que os que não eram nem judeus nem prosélitos pudessem se tornar cristãos. (Veja a nota de estudo em Mt 16:19.) Cornélio e os de sua casa foram os primeiros a receber essa oportunidade. Naquela ocasião, Pedro ficou na casa de Cornélio por alguns dias e, sem dúvida, tomou refeições junto com seus anfitriões. (At 10:48; 11:1-17) Depois disso, ele continuou comendo com cristãos não judeus. Mas, uns 13 anos mais tarde, enquanto estava em Antioquia da Síria, Pedro de repente “parou de fazer isso”. Ele agiu assim porque ficou com medo da reação de alguns cristãos judeus que tinham vindo de Jerusalém. Paulo diz que esses homens tinham vindo da parte de Tiago, pelo visto no sentido de que eles antes estavam com Tiago em Jerusalém. (Veja a nota de estudo em At 15:13.) Esses homens tinham dificuldade em aceitar mudanças e insistiam que ainda era necessário seguir de perto a Lei mosaica e alguns costumes judaicos. (Veja a nota de estudo em At 10:28.) A atitude de Pedro poderia ter levado alguns a questionar a decisão que o corpo governante tinha tomado no mesmo ano da visita de Pedro a Antioquia, por volta de 49 d.C. Aquela decisão tinha deixado claro que os cristãos não judeus não precisavam seguir a Lei mosaica. (At 15:23-29) Aqui, Paulo menciona o que aconteceu em Antioquia não para expor a Pedro, mas para corrigir o ponto de vista errado que alguns gálatas tinham sobre esse assunto.
+- *os da classe circuncisa*: Lit.: “os da circuncisão”. Aqui, esta expressão se refere a alguns cristãos judeus circuncisos da congregação em Jerusalém que estavam visitando Antioquia. Em outros lugares, essa mesma expressão grega foi traduzida como “os que apoiavam a circuncisão”, ‘os circuncisos’ e “os que se apegam à circuncisão”. — At 11:2; Col 4:11; Tit 1:10.
+====
+
+[[v48-2-13]]
+
+^<<v48-2-13,13>>^ Os outros judeus também se juntaram a ele nesse fingimento, de modo que até mesmo Barnabé se deixou levar pelo fingimento deles.
+
+[TIP]
+====
+- *se juntaram a ele nesse fingimento . . . pelo fingimento deles*: Aqui, aparecem no texto grego duas palavras relacionadas: o verbo synypokrínomai e o substantivo hypókrisis. Essas duas palavras eram usadas para se referir a atores de teatro gregos que usavam máscaras ao interpretar seu papel. De acordo com alguns léxicos, o verbo grego traduzido como “se juntaram . . . nesse fingimento” foi usado aqui em sentido figurado e passa a ideia de “tomar parte na farsa” ou “unir-se à hipocrisia”. A outra ocorrência de “fingimento” neste versículo é a tradução do substantivo. Ele aparece seis vezes nas Escrituras Gregas Cristãs e, em todas as outras ocorrências, foi traduzido como “hipocrisia”. — Mt 23:28; Mr 12:15; Lu 12:1; 1Ti 4:2; 1Pe 2:1; para um explicação sobre a palavra relacionada hypokrités, veja as notas de estudo em Mt 6:2; Lu 6:42.
+====
+
+[[v48-2-14]]
+
+^<<v48-2-14,14>>^ Mas, quando vi que eles não estavam andando de acordo com a verdade das boas novas, eu disse a Cefas na frente de todos eles: “Se você, embora seja judeu, vive como as nações, e não como os judeus, como pode obrigar as pessoas das nações a viver segundo as práticas judaicas?”
+
+[TIP]
+====
+- *Cefas*: Este era um dos nomes do apóstolo Pedro. — Veja a nota de estudo em 1Co 1:12.
+====
+
+[[v48-2-15]]
+
+^<<v48-2-15,15>>^ Nós, os que somos judeus de nascimento, e não pecadores das nações,
+
+[[v48-2-16]]
+
+^<<v48-2-16,16>>^ reconhecemos que o homem é declarado justo, não por obras exigidas por lei, mas apenas por meio da fé em Jesus Cristo. Portanto, depositamos a nossa fé em Cristo Jesus, para sermos declarados justos pela fé em Cristo, e não por obras exigidas por lei, pois ninguém será declarado justo por obras exigidas por lei.
+
+[TIP]
+====
+- *é declarado justo*: Nas Escrituras Gregas Cristãs, o verbo grego dikaióo (que muitas Bíblias traduzem como “justificar”) e os substantivos relacionados dikaíoma e dikaíosis (que muitas Bíblias traduzem como “justificação”) têm o sentido básico de absolver alguém de qualquer acusação, considerar a pessoa como inocente e, por isso, declarar que ela é justa e tratá-la como justa. (Veja a nota de estudo em Ro 3:24.) Alguns cristãos das congregações da Galácia estavam sendo influenciados pelos judaizantes, que tentavam alcançar uma posição justa diante de Deus por méritos próprios, realizando as obras da Lei mosaica. (Gál 5:4; veja a nota de estudo em Gál 1:6.) Mas Paulo destaca aqui que é apenas por meio da fé em Jesus Cristo que alguém pode ser visto por Deus como justo. Jesus ofereceu sua vida humana perfeita como sacrifício, abrindo as portas para que Deus pudesse declarar justos os que exercessem fé em Cristo. — Ro 3:19-24; 10:3, 4; Gál 3:10-12, 24.
+====
+
+[[v48-2-17]]
+
+^<<v48-2-17,17>>^ Mas, se nós também somos achados pecadores ao buscarmos ser declarados justos por meio de Cristo, será que Cristo está então a serviço do pecado? De modo algum!
+
+[[v48-2-18]]
+
+^<<v48-2-18,18>>^ Se eu edifico novamente as mesmas coisas que já derrubei, demonstro ser um transgressor.
+
+[TIP]
+====
+- *as mesmas coisas que já derrubei*: No passado, Paulo tinha sido um seguidor zeloso do judaísmo e acreditava que era possível alcançar uma posição justa aos olhos de Deus por meio das obras da Lei mosaica. (Veja a nota de estudo em Gál 1:13.) Mas, quando se tornou cristão, ele como que derrubou essa crença. (Gál 2:15, 16) Os opositores de Paulo diziam que os cristãos só poderiam ser salvos se seguissem de perto a Lei. (Gál 1:9; 5:2-12) Paulo explica aqui que, se ele (ou qualquer outro cristão judeu) voltasse a se colocar debaixo da Lei mosaica, ele estaria edificando novamente “as mesmas coisas” que tinha derrubado. Além disso, ele voltaria à sua condição de transgressor da Lei e, assim, estaria sujeito às suas penalidades. — Veja a nota de estudo em Gál 3:19.
+====
+
+[[v48-2-19]]
+
+^<<v48-2-19,19>>^ Pois por meio da Lei eu morri para a Lei, a fim de viver para Deus.
+
+[TIP]
+====
+- *por meio da Lei eu morri para a Lei*: Estas palavras de Paulo fazem parte de sua explicação de que não era possível alcançar uma posição justa perante Deus por meio das “obras exigidas por lei”. (Gál 2:16) Como pecador, Paulo não era capaz de seguir perfeitamente o que a Lei mosaica dizia. Assim, de acordo com a Lei ele merecia a morte. (Ro 7:7-11) Mas Paulo explica que ele tinha ‘morrido para a Lei’, ou seja, ele tinha sido libertado da Lei; ela não tinha mais domínio sobre ele. O pacto da Lei foi legalmente abolido com base na morte de Jesus na estaca. (Col 2:13, 14) Por isso, Paulo podia escrever aos cristãos em Roma: “Vocês também morreram para a Lei, por meio do corpo do Cristo.” (Ro 7:4) Quando um cristão exercia fé no sacrifício de Cristo, ele ‘morria para a Lei’. E já que foi a Lei que conduziu Paulo a Cristo, ele podia dizer que foi “por meio da Lei” que ele ‘morreu para a Lei’. — Veja as notas de estudo em Gál 3:24, 25.
+====
+
+[[v48-2-20]]
+
+^<<v48-2-20,20>>^ Estou agora pregado na estaca com Cristo. Quem vive não sou mais eu, mas é Cristo que vive em união comigo. De fato, a vida que agora vivo na carne, eu vivo pela fé no Filho de Deus, que me amou e se entregou por mim.
+
+[TIP]
+====
+- *Estou agora pregado na estaca com Cristo*: Paulo usa aqui o verbo grego synstauróo, que também foi usado nos Evangelhos para falar dos que foram literalmente pregados em estacas ao lado de Jesus. (Mt 27:44; Mr 15:32; Jo 19:32; veja a nota de estudo em Ro 6:6.) Assim como todos os outros cristãos, Paulo vivia pela fé no Filho de Deus. (Gál 3:13; Col 2:14) Os judeus que tinham se tornado cristãos exerciam fé no sacrifício de Cristo e, por isso, viviam como seguidores dele, não da Lei. — Ro 10:4; 2Co 5:15; veja a nota de estudo em Gál 2:19.
+- *na carne*: Ou seja, como humano.
+- *que me amou e se entregou por mim*: Ao usar aqui os pronomes gregos traduzidos como “me” e “mim”, Paulo chama atenção ao fato de que o sacrifício de Jesus beneficia individualmente cada pessoa que escolhe exercer fé em Jesus Cristo. (Veja a nota de estudo em Jo 3:16.) Paulo compreendia e aceitava o enorme amor que Jesus sentia por ele pessoalmente, e isso o motivava a ser amoroso e generoso com outros. (Veja a nota de estudo em 2Co 5:14; compare com 2Co 6:11-13; 12:15.) Ele se sentia muito grato por ter sido convidado por Jesus para ser seu discípulo apesar de ele ter perseguido os cristãos. Paulo sabia que, por amor, Jesus tinha dado sua vida não só pelos justos, mas também pelos pecadores. (Compare com Mt 9:12, 13.) Apesar de Paulo destacar aqui que o sacrifício de Cristo se aplicava a ele individualmente, ele sabia que o resgate beneficiaria um número incontável de pessoas.
+====
+
+[[v48-2-21]]
+
+^<<v48-2-21,21>>^ Eu não rejeito^&#42;1^ a bondade imerecida de Deus; pois, se a justiça vem por meio de lei, Cristo realmente morreu em vão.
+
+[NOTE]
+====
+. Ou: “não ponho de lado”.
+====
+
+[TIP]
+====
+- *justiça*: Veja o Glossário.
+- *Cristo realmente morreu em vão*: Aqui, Paulo mostra que se fosse possível ser declarado justo por meio de lei, ou seja, por realizar as obras da Lei mosaica, a morte de Cristo não teria sido necessária. Neste versículo, Paulo também explica que qualquer pessoa que tentasse alcançar a vida eterna por méritos próprios estaria, na verdade, rejeitando a bondade imerecida de Deus. — Ro 11:5, 6; Gál 5:4.
+====
+
+'''
+
+xref:048-galatas/048-galatas-001.adoc#v48-1-0[&#60; Capítulo Anterior] | <<v48-2-0,Topo>> | xref:048-galatas/048-galatas-003.adoc#v48-3-0[Próximo Capítulo &#62;]

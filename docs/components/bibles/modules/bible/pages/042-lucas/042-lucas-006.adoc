@@ -1,0 +1,386 @@
+include::./index.adoc[]
+
+[[v42-6-0]]
+=== As Boas Novas Segundo Lucas, 6
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Começo do ministério de Jesus, principalmente na Galileia (4:14–6:11)
+* Jesus começa a pregar na Galileia (4:14, 15)
+* Jesus é rejeitado em Nazaré (4:16-30)
+* Jesus ensina na sinagoga em Cafarnaum (4:31-37)
+* Jesus cura a sogra de Simão e outras pessoas (4:38-41)
+* Multidões encontram Jesus num lugar isolado (4:42-44)
+* Pesca milagrosa; Jesus chama os primeiros discípulos (5:1-11)
+* Jesus cura um homem que está coberto de lepra (5:12-16)
+* Jesus perdoa os pecados de um paralítico e o cura (5:17-26)
+* Jesus chama Levi para ser seu seguidor (5:27-32)
+* Pergunta sobre o jejum (5:33-39)
+* Jesus é “Senhor do sábado” (6:1-5)
+* Jesus cura no sábado um homem que tem a mão atrofiada (6:6-11)
+* F. Jesus escolhe os 12 apóstolos; Sermão do Monte (6:12-49)
+* Escolha dos 12 apóstolos (6:12-16)
+* Jesus ensina e cura multidões (6:17-19)
+* Felicidades e ais (6:20-26)
+* Amar os inimigos; Regra de Ouro; ser misericordiosos (6:27-36)
+* Parar de julgar (6:37-42)
+* Árvore é conhecida por seu fruto (6:43-45)
+* Casa bem construída e casa sem alicerce (6:46-49)
+****
+
+[[v42-6-1]]
+
+^<<v42-6-1,1>>^ Num sábado, ele estava passando por campos de cereais, e seus discípulos arrancavam espigas, esfregavam-nas com as mãos e as comiam.
+
+[TIP]
+====
+- *sábado*: Veja o Glossário.
+- *por campos de cereais*: Veja a nota de estudo em Mt 12:1.
+====
+
+[[v42-6-2]]
+
+^<<v42-6-2,2>>^ Em vista disso, alguns fariseus disseram: “Por que vocês estão fazendo o que não é permitido no sábado?”
+
+[TIP]
+====
+- *o que não é permitido*: Veja a nota de estudo em Mt 12:2.
+====
+
+[[v42-6-3]]
+
+^<<v42-6-3,3>>^ Mas Jesus lhes disse em resposta: “Vocês nunca leram o que Davi fez quando ele e seus homens ficaram com fome?
+
+[[v42-6-4]]
+
+^<<v42-6-4,4>>^ Como ele entrou na casa de Deus e recebeu os pães da apresentação, e os comeu e deu deles aos seus homens, embora não seja permitido a ninguém comer esses pães, mas apenas aos sacerdotes?”
+
+[TIP]
+====
+- *casa de Deus*: Veja a nota de estudo em Mr 2:26.
+- *pães da apresentação*: Veja a nota de estudo em Mt 12:4.
+====
+
+[[v42-6-5]]
+
+^<<v42-6-5,5>>^ E acrescentou: “O Filho do Homem é Senhor do sábado.”
+
+[TIP]
+====
+- *Senhor do sábado*: Veja a nota de estudo em Mt 12:8.
+====
+
+[[v42-6-6]]
+
+^<<v42-6-6,6>>^ Em outro sábado, ele entrou na sinagoga e começou a ensinar. E havia ali um homem com a mão direita atrofiada.^&#42;1^
+
+[NOTE]
+====
+. Ou: “paralisada”.
+====
+
+[TIP]
+====
+- *com a mão direita atrofiada*: Mateus e Marcos também falam sobre a cura desse homem no sábado (Mt 12:10; Mr 3:1), mas apenas Lucas menciona que era a mão direita que estava atrofiada, ou paralisada. Ao relatar as curas que Jesus fez, Lucas muitas vezes dá detalhes que Mateus e Marcos não dão. Para um exemplo parecido, compare Mt 26:51 e Mr 14:47 com Lu 22:50, 51. — Veja a “Introdução a Lucas”.
+====
+
+[[v42-6-7]]
+
+^<<v42-6-7,7>>^ Os escribas e os fariseus observavam Jesus atentamente para ver se ele curaria alguém no sábado, a fim de acharem um motivo para acusá-lo.
+
+[[v42-6-8]]
+
+^<<v42-6-8,8>>^ Mas ele sabia o que eles estavam pensando; assim, disse ao homem com a mão atrofiada:^&#42;1^ “Levante-se e fique em pé no centro.” E ele se levantou e ficou em pé.
+
+[NOTE]
+====
+. Ou: “paralisada”.
+====
+
+[TIP]
+====
+- *sabia o que eles estavam pensando*: Lucas menciona que Jesus sabia o que os escribas e os fariseus estavam pensando. Mateus e Marcos não dão esse detalhe. — Compare com os relatos paralelos em Mt 12:10-13; Mr 3:1-3.
+====
+
+[[v42-6-9]]
+
+^<<v42-6-9,9>>^ Jesus lhes disse então: “Eu lhes pergunto: É permitido, no sábado, fazer o bem ou fazer o mal, salvar uma vida ou destruí-la?”
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v42-6-10]]
+
+^<<v42-6-10,10>>^ Depois de olhar para todos que estavam à sua volta, disse ao homem: “Estenda a mão.” Ele fez isso, e a mão foi restabelecida.
+
+[[v42-6-11]]
+
+^<<v42-6-11,11>>^ Mas eles ficaram furiosos e começaram a conversar sobre o que poderiam fazer a Jesus.
+
+[[v42-6-12]]
+
+^<<v42-6-12,12>>^ Num daqueles dias, ele foi para o monte a fim de orar, e passou a noite inteira orando a Deus.
+
+[[v42-6-13]]
+
+^<<v42-6-13,13>>^ Quando o dia amanheceu, chamou os seus discípulos e escolheu dentre eles 12, a quem deu o nome de apóstolos:
+
+[TIP]
+====
+- *apóstolos*: Veja a nota de estudo em Mt 10:2.
+====
+
+[[v42-6-14]]
+
+^<<v42-6-14,14>>^ Simão, a quem também chamou de Pedro, André, seu irmão, Tiago, João, Filipe, Bartolomeu,
+
+[[v42-6-15]]
+
+^<<v42-6-15,15>>^ Mateus, Tomé, Tiago, filho de Alfeu, Simão, chamado Zeloso,
+
+[TIP]
+====
+- *chamado Zeloso*: Isso ajudava a diferenciar esse apóstolo do outro Simão, o apóstolo Pedro. (Lu 6:14) A palavra grega zelotés, usada aqui e no texto de At 1:13, significa “zeloso; entusiasta”. Os relatos paralelos em Mt 10:4 e Mr 3:18 usam a expressão “o Cananita”. Acredita-se que a palavra “Cananita” venha de uma palavra hebraica ou aramaica que também significa “zeloso; entusiasta”. É possível que antes Simão fosse um dos zelotes, um partido judaico que lutava contra os romanos. Mas também é possível que ele fosse chamado assim por causa de seu zelo e entusiasmo.
+====
+
+[[v42-6-16]]
+
+^<<v42-6-16,16>>^ Judas, filho de Tiago, e Judas Iscariotes, que se tornou traidor.
+
+[TIP]
+====
+- *que se tornou traidor*: Essa declaração é interessante porque indica que Judas passou por uma transformação. Ele não era um traidor quando se tornou discípulo nem quando Jesus o escolheu como um de seus apóstolos. Judas não estava predestinado a trair Jesus. Na verdade, ele usou mal sua liberdade de escolha e, por isso, algum tempo depois de ter sido escolhido como apóstolo, ele “se tornou traidor”. O texto de Jo 6:64 sugere que Jesus percebeu a mudança em Judas desde quando ela começou a acontecer.
+====
+
+[[v42-6-17]]
+
+^<<v42-6-17,17>>^ Ele desceu com eles e parou num lugar plano; havia ali um grande número de seus discípulos e uma grande multidão de pessoas de toda a Judeia e de Jerusalém, e do litoral de Tiro e Sídon, que tinham vindo para ouvi-lo e para ser curados das suas doenças.
+
+[TIP]
+====
+- *e parou num lugar plano*: O contexto mostra que Jesus estava descendo do monte onde tinha passado a noite inteira orando para escolher seus 12 apóstolos. (Lu 6:12, 13) Na descida, Jesus encontrou um lugar plano na encosta do monte, talvez já perto de Cafarnaum, cidade que ele usava como ponto de apoio para suas atividades. Uma grande multidão se ajuntou e Jesus curou a todos. O relato paralelo em Mt 5:1, 2 diz que Jesus “subiu ao monte . . . e começou a ensiná-los”. Pode ser que Mateus estivesse se referindo a um ponto acima do lugar plano, no próprio monte. Então, levando em conta os dois relatos, tudo indica que Jesus estava descendo do monte, parou em um lugar plano e, depois de curar as pessoas, encontrou um ponto um pouco mais alto e começou a ensinar. Mas é possível que Mt 5:1 seja simplesmente um resumo do que aconteceu, sem entrar nos detalhes mencionados por Lucas.
+====
+
+[[v42-6-18]]
+
+^<<v42-6-18,18>>^ Até mesmo os afligidos por espíritos impuros eram curados.
+
+[[v42-6-19]]
+
+^<<v42-6-19,19>>^ E toda a multidão procurava tocá-lo, porque saía poder dele e curava a todos eles.
+
+[[v42-6-20]]
+
+^<<v42-6-20,20>>^ E ele ergueu os olhos para os seus discípulos e disse:
+“Felizes são vocês, pobres, pois o Reino de Deus é de vocês.
+
+[TIP]
+====
+- *seus discípulos*: A palavra grega para “discípulo”, mathetés, se refere a um aluno, alguém que é ensinado por outra pessoa. A palavra indica que o discípulo tem um grande apego por seu instrutor, e esse apego influencia toda a vida do discípulo. Embora houvesse uma multidão enorme reunida para ouvir os ensinos de Jesus, parece que o discurso dele foi direcionado principalmente aos discípulos, que estavam sentados mais perto dele. — Mt 5:1, 2; 7:28, 29.
+- *e disse*: O Sermão do Monte é registrado por Mateus (capítulos 5-7) e por Lucas (6:20-49), mas o relato de Lucas é mais resumido. Quase tudo o que Lucas menciona sobre esse discurso de Jesus também está no relato de Mateus, que é cerca de quatro vezes maior. Mateus e Lucas começam e terminam seus relatos sobre o Sermão do Monte de maneira parecida, muitas vezes usam as mesmas expressões e, em geral, apresentam os mesmos assuntos e seguem a mesma ordem. Apesar de, às vezes, usarem palavras diferentes ao citar o que Jesus disse, eles nunca entram em contradição. É interessante que várias partes do sermão que Lucas decidiu não incluir tratam de informações que foram repetidas por Jesus em outras ocasiões. Por exemplo, no Sermão do Monte, Jesus falou sobre oração (Mt 6:9-13) e sobre o ponto de vista correto sobre bens materiais (Mt 6:25-34). Cerca de um ano e meio mais tarde, parece que Jesus repetiu o que tinha falado sobre esses assuntos, e Lucas incluiu isso em seu registro. (Lu 11:2-4; 12:22-31) Além disso, Lucas escreveu para os cristãos de todas as nações. Assim, ele pode ter, de propósito, deixado de lado algumas informações que não seriam tão interessantes para os que não eram judeus. — Mt 5:17-27; 6:1-18.
+- *Felizes*: Veja as notas de estudo em Mt 5:3; Ro 4:7.
+- *vocês, pobres*: A palavra grega traduzida aqui como “pobre” tem o sentido de “necessitado; miserável; mendigo”. As palavras de Lucas não são exatamente as mesmas que aparecem em Mt 5:3, no relato paralelo do Sermão do Monte. Tanto Lucas como Mateus usam a palavra grega para “pobre”, mas Mateus acrescenta a palavra para “espírito”. Assim, a expressão completa ficaria literalmente “pobres (mendigos) do espírito”. (Veja as notas de estudo em Mt 5:3; Lu 16:20.) Essa expressão passa a ideia de que a pessoa está bem consciente de sua condição de pobreza em sentido espiritual e de sua dependência de Deus. Apesar de Lucas não incluir a palavra “espírito”, o seu relato está de acordo com o de Mateus, já que os pobres e oprimidos normalmente estão mais conscientes de sua necessidade espiritual e do quanto dependem de Deus. O próprio Jesus disse que um motivo importante para ele ter vindo como Messias foi “declarar boas novas aos pobres”. (Lu 4:18) A maior parte dos seguidores de Jesus eram pessoas pobres ou comuns, e eles teriam a chance de receber as bênçãos do Reino de Deus. (1Co 1:26-29; Tg 2:5) Mas o relato de Mateus deixa claro que ninguém é automaticamente aprovado por Deus simplesmente por ser pobre. Assim, os relatos de Mateus e Lucas se complementam.
+====
+
+[[v42-6-21]]
+
+^<<v42-6-21,21>>^ “Felizes são vocês que agora têm fome, pois serão saciados.
+“Felizes são vocês que agora choram, pois vão rir.
+
+[[v42-6-22]]
+
+^<<v42-6-22,22>>^ “Felizes serão vocês sempre que os homens os odiarem, e sempre que os excluírem, os insultarem e declararem maldito o seu nome,^&#42;1^ por causa do Filho do Homem.
+
+[NOTE]
+====
+. Lit.: “lançarem fora o seu nome como mau”.
+====
+
+[[v42-6-23]]
+
+^<<v42-6-23,23>>^ Alegrem-se quando isso acontecer e pulem de alegria, porque a sua recompensa é grande no céu, pois essas são as mesmas coisas que os antepassados deles faziam aos profetas.
+
+[[v42-6-24]]
+
+^<<v42-6-24,24>>^ “Mas, ai de vocês, ricos, pois já receberam todo o seu conforto.
+
+[TIP]
+====
+- *receberam todo o seu conforto*: A palavra grega apékho, traduzida aqui como “receberam todo”, significa “ter plenamente; ter tudo”. Essa palavra era usada em recibos comerciais para indicar que o valor total de uma dívida já tinha sido pago. Jesus não disse ai de vocês, ricos, simplesmente porque eles tinham uma vida boa, confortável. Na verdade, ele estava alertando sobre a dor, o sofrimento e outras consequências ruins que os ricos podem ter se adotarem uma atitude errada com respeito às riquezas. Quem valoriza as riquezas materiais pode dar pouca importância a servir a Deus e, por isso, deixar de ter a verdadeira felicidade. Os ricos que tivessem essa atitude podiam considerar que o seu pagamento completo era o conforto que tinham. Eles não deviam esperar receber mais nada de Deus. — Veja a nota de estudo em Mt 6:2.
+====
+
+[[v42-6-25]]
+
+^<<v42-6-25,25>>^ “Ai de vocês que agora estão saciados, pois passarão fome.
+“Ai de vocês que agora riem, pois lamentarão e chorarão.
+
+[[v42-6-26]]
+
+^<<v42-6-26,26>>^ “Ai de vocês, sempre que todos os homens falarem bem de vocês, pois é isso que os antepassados deles fizeram aos falsos profetas.
+
+[[v42-6-27]]
+
+^<<v42-6-27,27>>^ “Mas eu digo a vocês que estão escutando: Continuem a amar os seus inimigos, a fazer o bem aos que odeiam vocês,
+
+[TIP]
+====
+- *Continuem a amar os seus inimigos*: Veja a nota de estudo em Mt 5:44.
+====
+
+[[v42-6-28]]
+
+^<<v42-6-28,28>>^ a abençoar os que os amaldiçoam, a orar pelos que os insultam.
+
+[[v42-6-29]]
+
+^<<v42-6-29,29>>^ Àquele que lhe bater numa face, ofereça também a outra; e a quem lhe tirar a capa, não impeça de levar também a túnica.
+
+[[v42-6-30]]
+
+^<<v42-6-30,30>>^ Dê a todo aquele que lhe pedir e, se alguém lhe tirar o que é seu, não peça isso de volta.
+
+[[v42-6-31]]
+
+^<<v42-6-31,31>>^ “Também, assim como querem que os homens façam a vocês, façam^&#42;1^ do mesmo modo a eles.
+
+[NOTE]
+====
+. Ou: “continuem fazendo”.
+====
+
+[[v42-6-32]]
+
+^<<v42-6-32,32>>^ “Se amarem aos que os amam, que mérito há nisso para vocês? Pois até mesmo os pecadores amam aos que os amam.
+
+[[v42-6-33]]
+
+^<<v42-6-33,33>>^ E, se fizerem o bem aos que lhes fazem o bem, que mérito há nisso para vocês? Até os pecadores fazem o mesmo.
+
+[[v42-6-34]]
+
+^<<v42-6-34,34>>^ Também, se emprestarem àqueles de quem esperam restituição, que mérito há nisso para vocês? Até mesmo pecadores emprestam a pecadores, para receberem de volta o mesmo.
+
+[TIP]
+====
+- *emprestarem*: Ou seja: “emprestarem sem cobrar juros”. A Lei proibia os israelitas de cobrar juros de outros israelitas que estivessem passando necessidade. (Êx 22:25) A Lei também incentivava os israelitas a serem generosos quando emprestassem aos pobres. — De 15:7, 8; Mt 25:27.
+====
+
+[[v42-6-35]]
+
+^<<v42-6-35,35>>^ Ao contrário, continuem a amar os seus inimigos, a fazer o bem e a emprestar sem esperar nada de volta; e a sua recompensa será grande, e vocês serão filhos do Altíssimo, pois ele é bondoso com os ingratos e maus.
+
+[[v42-6-36]]
+
+^<<v42-6-36,36>>^ Sejam sempre misericordiosos, assim como o seu Pai é misericordioso.
+
+[[v42-6-37]]
+
+^<<v42-6-37,37>>^ “Além disso, parem de julgar, e de modo algum serão julgados; e parem de condenar, e de modo algum serão condenados. Continuem a perdoar,^&#42;1^ e serão perdoados.^&#42;2^
+
+[NOTE]
+====
+. Ou: “livrar”.
+. Ou: “livrados”.
+====
+
+[TIP]
+====
+- *Continuem a perdoar, e serão perdoados*: Ou: “Continuem a livrar, e serão livrados”. A palavra grega traduzida como “perdoar” significa literalmente “libertar; mandar embora; livrar (um prisioneiro, por exemplo)”. Aqui, a palavra grega foi usada em contraste com “julgar” e “condenar”. Assim ela transmite a ideia de absolver e perdoar uma pessoa, mesmo que pareça haver motivos para uma punição.
+====
+
+[[v42-6-38]]
+
+^<<v42-6-38,38>>^ Pratiquem o dar, e lhes será dado. Derramarão na dobra da sua roupa uma boa medida, comprimida, sacudida e transbordante. Pois, com a medida com que vocês medem, medirão a vocês em troca.”
+
+[TIP]
+====
+- *Pratiquem o dar*: Ou: “Continuem a dar”. Aqui, o verbo grego para “dar” está conjugado num tempo verbal que indica uma ação contínua.
+- *dobra da sua roupa*: A expressão grega usada aqui significa literalmente “seu colo (peito)”, mas neste contexto ela provavelmente se refere à dobra formada acima do cinto pela sobra de tecido da roupa. ‘Derramar na dobra da roupa’ talvez se refira ao costume que alguns vendedores tinham de encher a dobra da roupa do freguês com os produtos comprados.
+====
+
+[[v42-6-39]]
+
+^<<v42-6-39,39>>^ Então lhes contou também uma ilustração: “Será que um cego pode guiar outro cego? Não cairão ambos num buraco?^&#42;1^
+
+[NOTE]
+====
+. Ou: “numa vala”.
+====
+
+[TIP]
+====
+- *uma ilustração*: Ou: “uma parábola”. — Veja a nota de estudo em Mt 13:3.
+====
+
+[[v42-6-40]]
+
+^<<v42-6-40,40>>^ O aluno^&#42;1^ não está acima do seu instrutor, mas todo aquele que for perfeitamente instruído será semelhante ao seu instrutor.
+
+[NOTE]
+====
+. Ou: “discípulo”.
+====
+
+[[v42-6-41]]
+
+^<<v42-6-41,41>>^ Então, por que você olha para o cisco no olho do seu irmão, mas não percebe que há uma trave no seu próprio olho?
+
+[TIP]
+====
+- *cisco . . . trave*: Veja a nota de estudo em Mt 7:3.
+====
+
+[[v42-6-42]]
+
+^<<v42-6-42,42>>^ Como você pode dizer ao seu irmão: ‘Irmão, deixe-me tirar o cisco que está no seu olho’, enquanto você mesmo não vê a trave que está no seu próprio olho? Hipócrita! Tire primeiro a trave do seu próprio olho e depois verá claramente como tirar o cisco que está no olho do seu irmão.
+
+[TIP]
+====
+- *Hipócrita!*: A palavra grega hypokrités era usada originalmente para se referir aos atores do teatro grego (e, mais tarde, do romano) que usavam máscaras grandes. Essas máscaras eram feitas para esconder a identidade do ator e aumentar o volume de sua voz. Depois, a palavra começou a ser usada como uma metáfora para se referir a pessoas que escondem suas intenções ou sua personalidade, fingindo ser o que não são. Em Mt 6:5,16, Jesus chama os líderes religiosos judaicos de “hipócritas”. Mas aqui em Lucas o “hipócrita” é o discípulo que fica apontando os erros dos outros em vez de enxergar seus próprios erros.
+====
+
+[[v42-6-43]]
+
+^<<v42-6-43,43>>^ “Pois nenhuma árvore boa produz fruto ruim,^&#42;1^ e nenhuma árvore ruim^&#42;2^ produz fruto bom.
+
+[NOTE]
+====
+. Ou: “podre”.
+. Ou: “podre”.
+====
+
+[[v42-6-44]]
+
+^<<v42-6-44,44>>^ Pois toda árvore é conhecida pelo seu próprio fruto. Por exemplo, não se colhem figos de espinheiros, nem uvas de uma planta espinhosa.
+
+[[v42-6-45]]
+
+^<<v42-6-45,45>>^ O homem bom tira o que é bom do bom tesouro do seu coração, mas o homem mau tira o que é mau do seu mau tesouro; pois a sua boca fala do que o coração está cheio.
+
+[[v42-6-46]]
+
+^<<v42-6-46,46>>^ “Então, por que vocês me chamam ‘Senhor! Senhor!’ mas não fazem o que eu digo?
+
+[[v42-6-47]]
+
+^<<v42-6-47,47>>^ Todo aquele que vem a mim, e ouve as minhas palavras, e as pratica, eu mostrarei a vocês a quem ele é semelhante:
+
+[[v42-6-48]]
+
+^<<v42-6-48,48>>^ Ele é como um homem que, ao construir uma casa, cavou bem fundo e lançou o alicerce sobre a rocha. Assim, quando veio uma inundação, o rio bateu com força contra aquela casa, mas não foi bastante forte para abalá-la, por ela ter sido bem construída.
+
+[TIP]
+====
+- *uma inundação*: Tempestades repentinas são comuns em Israel durante o inverno, principalmente no mês de tebete (que corresponde a dezembro/janeiro). Essas tempestades trazem ventos fortes, chuvas torrenciais e enxurradas. — Veja o Apêndice B15.
+====
+
+[[v42-6-49]]
+
+^<<v42-6-49,49>>^ Por outro lado, quem ouve e não faz nada é semelhante a um homem que construiu uma casa no solo, sem alicerce. O rio se lançou contra ela e ela desmoronou imediatamente, e foi grande a ruína daquela casa.”
+
+'''
+
+xref:042-lucas/042-lucas-005.adoc#v42-5-0[&#60; Capítulo Anterior] | <<v42-6-0,Topo>> | xref:042-lucas/042-lucas-007.adoc#v42-7-0[Próximo Capítulo &#62;]

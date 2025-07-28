@@ -1,0 +1,245 @@
+include::./index.adoc[]
+
+[[v45-10-0]]
+=== A Carta aos Romanos, 10
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-10-1]]
+
+^<<v45-10-1,1>>^ Irmãos, o que eu realmente desejo de coração e suplico a Deus por eles é que sejam salvos.
+
+[[v45-10-2]]
+
+^<<v45-10-2,2>>^ Pois posso testemunhar que eles têm zelo por Deus, mas não segundo o conhecimento exato.
+
+[TIP]
+====
+- *o conhecimento exato*: Nas Escrituras Gregas Cristãs, existem duas palavras que normalmente são traduzidas como “conhecimento”: gnósis e epígnosis. Essas duas palavras estão relacionadas com o verbo ginósko, que significa “conhecer; saber; entender; perceber”. A palavra usada aqui, epígnosis, é uma forma intensificada de gnósis (o sentido literal de epí é “sobre; em cima de”, mas aqui passa a ideia de “adicional”). Muitas vezes, o contexto mostra que epígnosis significa “conhecimento exato, verdadeiro ou pleno”. Aqui, Paulo usou essa palavra para mostrar que o zelo dos judeus estava mal direcionado. O zelo deles não se baseava no conhecimento exato sobre a vontade de Deus que tinha sido revelado por meio de Jesus, o Messias prometido.
+====
+
+[[v45-10-3]]
+
+^<<v45-10-3,3>>^ Pois, por não conhecerem a justiça de Deus, mas buscarem estabelecer a sua própria, não se sujeitaram à justiça de Deus.
+
+[[v45-10-4]]
+
+^<<v45-10-4,4>>^ Porque Cristo é o fim da Lei, para que todo aquele que exercer fé possa alcançar a justiça.
+
+[TIP]
+====
+- *o fim*: A palavra grega télos, que geralmente é traduzida como “fim”, pode ter diversas variações de sentido. Ela pode se referir ao “fim” como o oposto do “começo”. (Mt 24:14; Mr 3:26; Ap 21:6) Esse sentido da palavra se encaixa bem aqui, já que a Lei mosaica chegou ao seu fim completo, ou definitivo, depois que Jesus morreu, foi ressuscitado e voltou ao céu. (Jo 1:17; Ro 6:14; Gál 5:18; Col 2:14, 16, 17) Mas télos também pode se referir a um “fim” no sentido de “finalidade; objetivo”. (Compare com 1Ti 1:5, onde a palavra télos foi traduzida como “objetivo”.) Em Gál 3:24, Paulo falou da Lei mosaica como um “tutor, conduzindo a Cristo”. Por isso, pode-se dizer que Cristo era o objetivo da Lei. Assim, pelo visto, aqui neste versículo, télos tem os dois sentidos.
+====
+
+[[v45-10-5]]
+
+^<<v45-10-5,5>>^ Pois Moisés escreve sobre a justiça que vem por meio da Lei: “O homem que fizer estas coisas viverá por meio delas.”
+
+[[v45-10-6]]
+
+^<<v45-10-6,6>>^ Mas a justiça resultante da fé diz: “Não diga no seu coração: ‘Quem subirá aos céus?’ isto é, para fazer Cristo descer;
+
+[[v45-10-7]]
+
+^<<v45-10-7,7>>^ ou: ‘Quem descerá ao abismo?’ isto é, para fazer Cristo subir dentre os mortos.”
+
+[TIP]
+====
+- *ao abismo*: Ou: “às profundezas”. A palavra grega ábyssos significa “extremamente profundo” ou “insondável; ilimitado”. Ela é usada nove vezes nas Escrituras Gregas Cristãs, onde geralmente se refere a um lugar ou condição de confinamento. (Veja a nota de estudo em Lu 8:31.) Aqui, em Ro 10:7, ábyssos se refere ao lugar simbólico em que Cristo Jesus ficou parte de três dias e de onde foi ressuscitado por seu Pai. (Compare com o Sal 71:19, 20 e Mt 12:40.) Pode-se dizer que, enquanto Jesus estava morto, ele estava como que “confinado”, ou preso. Jesus estava inconsciente, num estado de total inatividade. Apenas seu Pai poderia libertá-lo desse lugar. (Compare com 2Sa 22:5, 6; Jó 38:16, 17; Sal 9:13; 107:18; 116:3 e At 2:24.) Mas não seria correto dizer que a palavra “abismo” se aplica apenas ao lugar simbólico (ou a condição) onde estão os mortos em geral. (Veja o Glossário, “Sepultura”.) É interessante que a Septuaginta grega não usou a palavra ábyssos para traduzir a palavra hebraica sheʼóhl (“a Sepultura”). Além disso, a Bíblia usa ábyssos para se referir ao lugar simbólico de confinamento onde Satanás e seus demônios serão presos, que também é chamado de “prisão”. — Lu 8:31; Ap 20:1, 3, 7.
+====
+
+[[v45-10-8]]
+
+^<<v45-10-8,8>>^ Mas o que ela diz? “A palavra está perto de você, na sua própria boca e no seu próprio coração”; isto é, “a palavra” da fé, que estamos pregando.
+
+[TIP]
+====
+- *pregando*: Ou seja, proclamando publicamente. — Veja a nota de estudo em Mt 3:1.
+====
+
+[[v45-10-9]]
+
+^<<v45-10-9,9>>^ Pois, se você declarar publicamente com a sua boca que Jesus é Senhor, e no seu coração tiver fé em que Deus o levantou dentre os mortos, você será salvo.
+
+[TIP]
+====
+- *declarar publicamente*: O verbo grego que aparece aqui, homologéo, é traduzido em algumas Bíblias como “confessar”. Muitos léxicos definem essa palavra como “declarar (reconhecer) publicamente”. No versículo 10, esse mesmo verbo é traduzido como “se faz declaração pública”. Aqui, Paulo explica que, para um cristão ser salvo, não basta que ele tenha fé no coração; ele também precisa declarar publicamente a sua fé. (Sal 40:9, 10; 96:2, 3, 10; 150:6; Ro 15:9) Os cristãos não declaram publicamente sua fé uma única vez, como, por exemplo, quando são batizados. Eles continuam fazendo isso quando se reúnem com outros cristãos e quando declaram as boas novas de salvação para outras pessoas. — He 10:23-25; 13:15.
+- *Senhor*: A palavra grega que aparece aqui é Kýrios. Apesar de geralmente ser usada nas Escrituras como um substantivo, essa palavra é um adjetivo que significa “que possui poder (kýros) ou autoridade”. Ela aparece em todos os livros das Escrituras Gregas Cristãs, com exceção da carta de Paulo a Tito e das cartas de João. Jesus Cristo foi criado por Deus e é seu Filho e Servo. Assim, já que Deus tem poder e autoridade superiores a Jesus e é seu Cabeça (1Co 11:3), faz sentido que Jesus chame seu Pai e Deus (Jo 20:17) de “Senhor” (Mt 11:25). Mas, na Bíblia, o título “Senhor” não é usado apenas para se referir a Jeová Deus. Ele é usado também para se referir a Jesus Cristo (Mt 7:21; Ro 1:4, 7), a um dos anciãos que João viu no céu numa visão (Ap 7:13, 14), a anjos (Da 12:8), a humanos (At 16:16, 19, 30) e a deuses falsos (1Co 8:5). Alguns afirmam que a expressão “Jesus é Senhor” significa que ele e seu Pai, Jeová, são a mesma pessoa. Mas fica claro pelo contexto que esse não é o caso, já que o versículo diz que “Deus o levantou [ou seja, levantou Jesus] dentre os mortos”. Jesus é Senhor porque seu Pai lhe deu essa autoridade. — Mt 28:18; Jo 3:35; 5:19, 30. — Veja a nota de estudo em que Jesus é Senhor neste versículo.
+- *que Jesus é Senhor*: Quando Jesus esteve na Terra, pessoas que não o seguiam o chamaram de “Senhor” por educação ou para mostrar respeito. Por exemplo, foi por respeito que a samaritana se dirigiu a Jesus como “senhor”. (Jo 4:11; Mt 8:2) A palavra grega usada pelos escritores bíblicos, Kýrios (“Senhor”), pode ter vários sentidos, dependendo do contexto. Mas Jesus indicou que, quando seus discípulos (ou alunos) o chamavam assim, eles estavam reconhecendo que ele era seu Senhor, ou Mestre. (Jo 13:13, 16) Esse título passou a ter um significado especial depois que Jesus morreu e foi ressuscitado para ocupar uma posição superior no céu. Quando Jesus deu sua vida como sacrifício, ele comprou seus seguidores e se tornou seu Dono (1Co 7:23; 2Pe 2:1; Ju 4; Ap 5:9, 10) e seu Rei (Col 1:13; 1Ti 6:14-16; Ap 19:16). Reconhecer a Jesus como Senhor envolve mais do que simplesmente chamar a Jesus por esse título. Os verdadeiros cristãos precisam reconhecer a posição que Jesus ocupa e obedecer a ele. — Mt 7:21; Fil 2:9-11.
+====
+
+[[v45-10-10]]
+
+^<<v45-10-10,10>>^ Porque com o coração se tem fé visando a justiça, mas com a boca se faz declaração pública visando a salvação.
+
+[[v45-10-11]]
+
+^<<v45-10-11,11>>^ Pois certa passagem das Escrituras diz: “Ninguém que basear nele a sua fé ficará decepcionado.”
+
+[TIP]
+====
+- *Ninguém que basear nele a sua fé ficará decepcionado*: Aqui, Paulo está citando as palavras de Is 28:16, conforme elas aparecem na Septuaginta. A palavra grega traduzida aqui como “ficará decepcionado” tem o sentido básico de “ficar envergonhado”. Assim, Paulo está mostrando que a pessoa que exerce fé em Jesus nunca sentirá a vergonha e a decepção que serão sentidas pelos que descobrirem que sua fé foi em vão. Essa mesma palavra grega aparece em Ro 9:33 e 1Pe 2:6.
+====
+
+[[v45-10-12]]
+
+^<<v45-10-12,12>>^ Pois não há distinção entre judeu e grego; o mesmo Senhor está sobre todos e é rico para com^&#42;1^ todos os que o invocam.
+
+[NOTE]
+====
+. Ou: “e que dá ricamente a; e que é generoso para com”.
+====
+
+[TIP]
+====
+- *Senhor*: O contexto não deixa claro quem é o “Senhor” (Kýrios) mencionado neste versículo, e os estudiosos não chegaram a um consenso sobre a quem Paulo está se referindo: ao Senhor Jesus Cristo ou ao Senhor Jeová Deus. No texto de Ro 10:9, Paulo se refere claramente a Jesus Cristo como Senhor, e a citação de Is 28:16, que aparece em Ro 10:11, também se aplica a Jesus. Assim, se o “Senhor” mencionado aqui em Ro 10:12 estiver diretamente ligado com a palavra “nele” de Ro 10:11, então aqui o “Senhor” é Jesus Cristo. Por outro lado, em Ro 10:9, depois de falar sobre Jesus Cristo, Paulo fala sobre ter fé no coração de que “Deus o levantou dentre os mortos”. Além disso, Ro 10:13, que cita Jl 2:32, diz: “Todo aquele que invocar o nome de Jeová será salvo.” Assim, se o “Senhor” aqui em Ro 10:12 for o mesmo de Ro 10:13, então o “Senhor” é Jeová Deus. Se esse for o caso, a ideia seria a mesma de Ro 3:29, ou seja, de que há apenas um Deus sobre judeus e não judeus. Este é um exemplo de como a Comissão da Tradução do Novo Mundo da Bíblia examinou o contexto de cada ocorrência da palavra Kýrios para determinar onde o nome de Deus deveria ser restaurado. Quando o contexto ou as Escrituras Hebraicas não deixavam claro que o nome de Deus devia ser restaurado, a comissão manteve a tradução “Senhor” para não ultrapassar os limites da tradução e entrar no campo da interpretação. — Veja o Apêndice C1.
+====
+
+[[v45-10-13]]
+
+^<<v45-10-13,13>>^ Pois “todo aquele que invocar o nome de Jeová será salvo”.
+
+[TIP]
+====
+- *todo aquele*: Neste versículo, Paulo está citando Jl 2:32. No versículo anterior de Romanos, Paulo diz que “não há distinção entre judeu e grego” e que “o mesmo Senhor está sobre todos e é rico para com todos os que o invocam”. Aqui, a expressão “todo aquele” dá ainda mais destaque ao fato de que Deus trata judeus e não judeus da mesma forma, de modo imparcial.
+- *invocar o nome de Jeová*: Esta expressão envolve mais do que apenas conhecer e usar o nome pessoal de Deus. A expressão “invocar o nome [de alguém]” vem das Escrituras Hebraicas. Aqui, Paulo está citando Jl 2:32. Antes de falar sobre invocar o nome de Jeová, Joel falou da necessidade de a pessoa se arrepender de coração pelos seus erros e confiar no perdão de Jeová. (Jl 2:12, 13) No Pentecostes de 33 d.C., Pedro citou essa mesma profecia de Joel e incentivou seus ouvintes a se arrependerem e a agirem para ter a aprovação de Jeová. (At 2:21, 38) Outros versículos bíblicos mostram que invocar o nome de Deus envolve conhecer a Deus, confiar nele e buscar sua ajuda e orientação. (Sal 20:7; 99:6; 116:4; 145:18) Em alguns contextos, invocar o nome de Jeová pode envolver declarar o nome e as qualidades dele. (Gên 12:8; compare com Êx 34:5, onde a mesma expressão hebraica foi traduzida como “declarou o nome de Jeová”.) Em Ro 10:14, Paulo relaciona invocar a Deus com depositar fé nele.
+- *o nome de Jeová*: Aqui, Paulo está citando Jl 2:32, onde aparece a expressão “o nome de Jeová”. Ela é uma combinação da palavra hebraica para “nome” com o Tetragrama e ocorre mais de 90 vezes nas Escrituras Hebraicas. Alguns exemplos são: Gên 12:8; Êx 33:19; 34:5; De 28:10; 32:3; Jó 1:21; Sal 118:26; Pr 18:10 e Miq 4:5. Falando sobre essa expressão hebraica, uma obra de referência diz que ela “se refere não apenas ao nome, mas ao poder e à inteira pessoa [de Jeová]”. O uso da expressão “o nome de Jeová” (que está no caso genitivo), em vez de “o nome Jeová”, indica que o nome de Deus não deve ser usado como se fosse um amuleto de proteção. O nome de Deus está ligado com a personalidade, o modo de agir e os propósitos dele. Assim, invocar o nome de Jeová envolve mais do que saber o seu nome e usá-lo. Para invocar o nome de Jeová, é preciso conhecer a Pessoa que está por trás desse nome. Também é necessário adorar a Jeová e viver de uma forma que agrada a ele. Além disso, como mostra Ro 10:14, invocar o nome de Jeová envolve exercer fé nele.
+- *Jeová*: Esta é uma citação de Jl 2:32. No texto hebraico original de Joel, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Esse mesmo versículo de Joel foi citado por Pedro durante o seu discurso no Pentecostes de 33 d.C. — At 2:21; veja o Apêndice C1.
+====
+
+[[v45-10-14]]
+
+^<<v45-10-14,14>>^ Mas como o invocarão se não depositaram fé nele? E como depositarão fé naquele de quem não ouviram falar? E como ouvirão se não houver quem pregue?
+
+[[v45-10-15]]
+
+^<<v45-10-15,15>>^ Por sua vez, como pregarão, a menos que tenham sido enviados? Assim como está escrito: “Como são lindos os pés daqueles que declaram boas novas de coisas boas!”
+
+[TIP]
+====
+- *Como são lindos os pés*: Aqui, Paulo está citando Is 52:7. As Escrituras muitas vezes se referem a partes do corpo humano como se elas representassem a pessoa como um todo. Em Is 52:7, o profeta Isaías falou como se um mensageiro figurativo estivesse se aproximando de Jerusalém, vindo dos montes de Judá próximos dali. Não seria possível ver os pés do mensageiro dessa distância. Assim, o foco das palavras de Isaías estava no fato de que o mensageiro estava chegando. Na verdade, “os pés” representavam o mensageiro e os esforços que ele estava fazendo para proclamar boas novas. “Os pés” de Jesus e de seus discípulos eram considerados por Deus como lindos, ou preciosos, porque Jesus e seus discípulos cumpriram a profecia de Isaías e declararam “boas novas de coisas boas”. — Veja a nota de estudo em daqueles que declaram boas novas de coisas boas neste versículo.
+- *daqueles que declaram boas novas de coisas boas*: Aqui, Paulo está citando Is 52:7, que fala “daquele que traz boas novas”, no singular. No período do exílio dos judeus em Babilônia, seria emocionante para os que estivessem em Jerusalém ver um mensageiro chegando com notícias de libertação. A profecia de Isaías teve um cumprimento maior em Jesus Cristo, o maior de todos os proclamadores de boas novas. Paulo indica que essa profecia tem um cumprimento ainda mais amplo quando fala “daqueles [plural] que declaram boas novas”. Assim como Jesus, todos os cristãos são mensageiros das boas novas de paz.
+====
+
+[[v45-10-16]]
+
+^<<v45-10-16,16>>^ No entanto, nem todos obedeceram às boas novas. Pois Isaías diz: “Jeová, quem depositou fé no que falamos?”^&#42;1^
+
+[NOTE]
+====
+. Ou: “no nosso relato; na nossa mensagem”. Lit.: “na coisa ouvida de nós”.
+====
+
+[TIP]
+====
+- *Jeová, quem depositou fé no que falamos?*: Aqui, Paulo está citando o começo de Is 53:1, que faz parte da profecia de Isaías sobre o servo de Jeová. Paulo mostra que essa profecia se cumpriu em Jesus. A notícia sobre Jesus, o Messias, ter vindo e ter sido glorificado eram boas novas. Mas Paulo explica que nem todos os judeus obedeceram às boas novas. Na verdade, relativamente poucos judeus nos dias de Paulo depositaram fé nas boas novas sobre o Servo de Deus. — Para uma explicação sobre os motivos de o nome de Deus ter sido usado aqui, veja o Apêndice C3 (introdução e Ro 10:16).
+====
+
+[[v45-10-17]]
+
+^<<v45-10-17,17>>^ De modo que a fé segue ao que se ouve. E o que se ouve vem por meio da palavra a respeito de Cristo.
+
+[TIP]
+====
+- *palavra a respeito de Cristo*: A expressão grega que aparece aqui também poderia ser traduzida como “palavra de Cristo”, ou seja, a palavra falada por Cristo. Mas a opção usada aqui no texto principal, que passa a ideia de que a palavra é falada não por Cristo, mas a respeito dele, é mais provável pelo contexto. Alguns manuscritos dizem aqui “palavra de Deus”. Mas as traduções “palavra a respeito de Cristo” ou “palavra de Cristo” têm o apoio de manuscritos muito antigos e confiáveis.
+====
+
+[[v45-10-18]]
+
+^<<v45-10-18,18>>^ Mas eu pergunto: Será que ficaram sem ouvir? Ora, de fato, “o som deles saiu por toda a terra; e a sua mensagem, até os confins da terra habitada”.
+
+[TIP]
+====
+- *o som deles saiu por toda a terra*: Aqui, Paulo está citando o Sal 19:4, que fala que o testemunho silencioso da criação visível de Deus alcança toda a Terra. Paulo aplica esse salmo para o trabalho de pregação. Ele dá a entender que, assim como o alcance do testemunho da criação faz com que não exista desculpa para se rejeitar a Deus (Ro 1:20), o alcance da pregação das “boas novas” (Ro 10:15) sobre Cristo também tinha dado aos judeus muitas oportunidades de aceitar a Cristo. O problema deles foi a falta de fé. É possível que Paulo também tivesse em mente o sentido original do Sal 19 e estivesse pensando no testemunho silencioso que a criação dá a todos os humanos, que faz com que não exista desculpa para negar que Deus é o Criador. — Veja a nota de estudo em Ro 1:20.
+- *terra habitada*: A palavra grega para “terra habitada” (oikouméne) tem um sentido amplo e se refere à Terra como o lar da humanidade. (Lu 4:5; At 17:31; Ap 12:9; 16:14) Aqui, o foco da palavra está mais nos humanos que vivem na Terra do que no planeta em si. No século 1 d.C., essa palavra também era usada para se referir ao enorme território do Império Romano, por onde os judeus tinham sido espalhados. (Lu 2:1; At 24:5) Neste versículo, Paulo está citando o Sal 19:4, onde a Septuaginta (Sal 18:5, LXX) usou oikouméne para traduzir uma palavra hebraica que pode se referir às partes habitadas da Terra.
+====
+
+[[v45-10-19]]
+
+^<<v45-10-19,19>>^ Novamente pergunto: Será que Israel não compreendeu? Primeiro, Moisés diz: “Eu provocarei vocês ao ciúme por meio daquilo que não é nação; eu provocarei vocês à ira violenta por meio de uma nação insensata.”
+
+[[v45-10-20]]
+
+^<<v45-10-20,20>>^ E Isaías ousa dizer: “Fui achado por aqueles que não me buscavam; tornei-me conhecido pelos que não perguntavam por mim.”
+
+[[v45-10-21]]
+
+^<<v45-10-21,21>>^ Mas ele diz com respeito a Israel: “O dia inteiro estendi as mãos a um povo desobediente e obstinado.”
+
+[TIP]
+====
+- *estendi as mãos*: Aqui, Paulo está citando Is 65:2. O gesto de estender as mãos indicava um convite ou um apelo. Assim como um pai que faz um apelo a um filho rebelde pedindo que ele mude, Jeová como que estendeu as mãos, fazendo um apelo à nação de Israel, que tinha se desviado.
+====
+
+'''
+
+xref:045-romanos/045-romanos-009.adoc#v45-9-0[&#60; Capítulo Anterior] | <<v45-10-0,Topo>> | xref:045-romanos/045-romanos-011.adoc#v45-11-0[Próximo Capítulo &#62;]

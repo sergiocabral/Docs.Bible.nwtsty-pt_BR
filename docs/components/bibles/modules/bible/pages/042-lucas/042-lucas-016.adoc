@@ -1,0 +1,281 @@
+include::./index.adoc[]
+
+[[v42-16-0]]
+=== As Boas Novas Segundo Lucas, 16
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Jesus se dirige para Jerusalém; Jesus continua seu ministério, principalmente na Judeia e na Pereia (9:51–19:27)
+* Aldeia samaritana rejeita Jesus (9:51-56)
+* Requisitos para seguir Jesus (9:57-62)
+* Jesus envia os 70 (10:1-12)
+* Corazim, Betsaida e Cafarnaum são repreendidas por não se arrependerem (10:13-16)
+* Os 70 voltam (10:17-20)
+* Jesus louva seu Pai por favorecer os humildes (10:21-24)
+* Ilustração do bom samaritano (10:25-37)
+* Jesus visita Marta e Maria (10:38-42)
+* Jesus ensina a oração-modelo (11:1-4)
+* Ilustração do amigo persistente (11:5-13)
+* Jesus explica que os demônios são expulsos “por meio do dedo de Deus” (11:14-23)
+* Jesus fala da volta de um espírito impuro (11:24-26)
+* Explicação sobre a verdadeira felicidade (11:27, 28)
+* Sinal de Jonas (11:29-32)
+* Olho é a lâmpada do corpo (11:33-36)
+* Jesus come com um fariseu; ai dos religiosos hipócritas (11:37-54)
+* “Tomem cuidado com o fermento dos fariseus” (12:1-3)
+* Temer a Deus, não a homens (12:4-7)
+* Declarar que está em união com Cristo (12:8-12)
+* Ilustração do rico insensato (12:13-21)
+* “Parem de se preocupar tanto com a sua vida” (12:22-31)
+* “Não tema, pequeno rebanho” (12:32-34)
+* Manter a vigilância (12:35-40)
+* Identificação do administrador fiel e características de um escravo infiel (12:41-48)
+* Não paz, mas divisão (12:49-53)
+* Necessidade de examinar os tempos (12:54-56)
+* Resolver disputas (12:57-59)
+* Arrepender-se ou ser destruído (13:1-5)
+* Ilustração da figueira infrutífera (13:6-9)
+* Jesus cura no sábado uma mulher encurvada (13:10-17)
+* Ilustrações do grão de mostarda e do fermento (13:18-21)
+* É preciso esforço para entrar pela porta estreita (13:22-30)
+* Jesus chama Herodes de ‘aquela raposa’ (13:31-33)
+* Jesus lamenta por Jerusalém (13:34, 35)
+* Jesus cura no sábado um homem com hidropisia (14:1-6)
+* Ser um convidado humilde (14:7-11)
+* Convidar os que não podem recompensar (14:12-14)
+* Ilustração dos convidados que recusam o convite (14:15-24)
+* Custo de ser discípulo (14:25-33)
+* Sal que perde a força (14:34, 35)
+* Ilustração da ovelha perdida (15:1-7)
+* Ilustração da moeda perdida (15:8-10)
+* Ilustração do filho pródigo (15:11-32)
+* Ilustração do administrador injusto (16:1-13)
+* A Lei e o Reino de Deus (16:14-18)
+* Ilustração do rico e Lázaro (16:19-31)
+* Jesus ensina sobre tropeços, perdão e fé (17:1-6)
+* Ilustração do escravo que serve primeiro seu senhor (17:7-10)
+* Jesus cura dez leprosos (17:11-19)
+* Vinda do Reino de Deus (17:20-37)
+* Ilustração da viúva persistente (18:1-8)
+* Ilustração do fariseu e do cobrador de impostos (18:9-14)
+* Jesus e as criancinhas (18:15-17)
+* Líder rico pergunta sobre a vida eterna (18:18-30)
+* Jesus prediz novamente sua morte e ressurreição (18:31-34)
+* Jesus cura um mendigo cego perto de Jericó (18:35-43)
+* Jesus visita o cobrador de impostos Zaqueu (19:1-10)
+* Ilustração das dez minas (19:11-27)
+****
+
+[[v42-16-1]]
+
+^<<v42-16-1,1>>^ Então ele disse também aos discípulos: “Um homem rico tinha um administrador que foi acusado de desperdiçar os bens do seu senhor.
+
+[TIP]
+====
+- *administrador*: Ou: “administrador da casa; mordomo”. — Veja a nota de estudo em Lu 12:42.
+====
+
+[[v42-16-2]]
+
+^<<v42-16-2,2>>^ Assim, ele o chamou e disse: ‘O que é isso que ouço a seu respeito? Preste contas da sua administração, pois você não pode mais administrar a casa.’
+
+[[v42-16-3]]
+
+^<<v42-16-3,3>>^ Então, o administrador disse a si mesmo: ‘O que eu vou fazer, visto que o meu senhor está me tirando a administração? Não sou bastante forte para cavar e tenho vergonha de mendigar.
+
+[[v42-16-4]]
+
+^<<v42-16-4,4>>^ Ah! já sei o que vou fazer para que, quando eu for afastado da administração, as pessoas me recebam em suas casas.’
+
+[[v42-16-5]]
+
+^<<v42-16-5,5>>^ E, chamando cada um dos devedores do seu senhor, perguntou ao primeiro: ‘Quanto você deve ao meu senhor?’
+
+[[v42-16-6]]
+
+^<<v42-16-6,6>>^ Ele respondeu: ‘Cem medidas de azeite.’ O administrador lhe disse: ‘Pegue de volta o seu acordo escrito, sente-se e escreva rapidamente 50.’
+
+[TIP]
+====
+- *medidas*: Ou: “batos”. Alguns estudiosos acreditam que a palavra grega usada aqui, bátos, se refira a uma unidade de medida usada pelos hebreus chamada “bato”. Foram encontrados alguns fragmentos de jarros com a inscrição “bato” escrita em letras hebraicas antigas. Com base nesses fragmentos, parece que 1 bato tinha cerca de 22 litros. — Veja o Glossário, “Bato”, e o Apêndice B14-A.
+====
+
+[[v42-16-7]]
+
+^<<v42-16-7,7>>^ A seguir, perguntou a outro: ‘Agora você, quanto deve?’ Ele respondeu: ‘Cem grandes medidas de trigo.’ O administrador lhe disse: ‘Pegue de volta o seu acordo escrito e escreva 80.’
+
+[TIP]
+====
+- *grandes medidas*: Ou: “coros”. Alguns estudiosos acreditam que a palavra grega usada aqui, kóros, se refira a uma unidade de medida usada pelos hebreus chamada “coro”, que equivalia a 10 batos. Considerando-se que 1 bato tinha uns 22 litros, 1 coro teria cerca de 220 litros. — Veja a nota de estudo em Lu 16:6; o Glossário, “Bato”, “Coro”; e o Apêndice B14-A.
+====
+
+[[v42-16-8]]
+
+^<<v42-16-8,8>>^ E o senhor elogiou o administrador, embora este fosse injusto, porque agiu com sabedoria prática. Pois os filhos deste sistema de coisas são mais sábios em sentido prático, ao lidar com a sua própria geração, do que os filhos da luz.
+
+[TIP]
+====
+- *agiu com sabedoria prática*: Ou: “agiu com astúcia (prudência)”. A palavra grega traduzida aqui como “com sabedoria prática” é fronímos. Um adjetivo relacionado com essa palavra foi traduzido como mais sábios em sentido prático neste mesmo versículo e como “prudente” em Mt 7:24; 24:45; 25:2 e Lu 12:42. — Veja as notas de estudo em Mt 24:45; Lu 12:42.
+- *deste sistema de coisas*: A palavra grega usada aqui, aión, tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. Aqui, ela se refere ao atual sistema de coisas injusto e ao estilo de vida das pessoas que fazem parte dele. — Veja o Glossário, “Sistema(s) de coisas”.
+====
+
+[[v42-16-9]]
+
+^<<v42-16-9,9>>^ “Eu lhes digo também: Façam amigos por meio das riquezas injustas, para que, quando essas faltarem, eles os recebam nas moradas eternas.
+
+[TIP]
+====
+- *amigos*: Ou seja, amigos no céu, se referindo a Jeová Deus e a Jesus Cristo, os únicos que podem receber alguém “nas moradas eternas”.
+- *das riquezas injustas*: Lit.: “do mamom da injustiça”. Em geral, os estudiosos entendem que a palavra grega mamonás (de origem semítica), que é traduzida em algumas Bíblias como “Mamom”, se refere a dinheiro ou riquezas. (Veja a nota de estudo em Mt 6:24.) Jesus chamou as riquezas materiais de injustas, pelo visto, porque elas estão sob o controle de humanos pecadores, porque normalmente são usadas para objetivos egoístas e porque muitas vezes são conseguidas de forma injusta. Além disso, possuir ou desejar riquezas materiais pode levar a pessoa a fazer coisas erradas. Visto que essas riquezas podem perder seu valor, os que são ricos em sentido material não deveriam confiar nelas. (1Ti 6:9, 10, 17-19) Em vez disso, eles deveriam usar suas riquezas para fazer amizade com Jeová e com Jesus, que podem recebê-los “nas moradas eternas”.
+- *moradas eternas*: Lit.: “tendas eternas”. Ao que tudo indica, esta expressão se refere a moradas perfeitas no novo mundo, seja no Reino celestial junto com Jesus Cristo, seja no Paraíso terrestre governado pelo Reino.
+====
+
+[[v42-16-10]]
+
+^<<v42-16-10,10>>^ Quem é fiel no mínimo é também fiel no muito, e quem é injusto no mínimo é também injusto no muito.
+
+[[v42-16-11]]
+
+^<<v42-16-11,11>>^ Portanto, se vocês não se mostrarem fiéis em usar as riquezas injustas, quem lhes confiará o que é verdadeiro?
+
+[[v42-16-12]]
+
+^<<v42-16-12,12>>^ E, se vocês não se mostrarem fiéis em usar o que é de outro, quem lhes dará o que é para vocês?^&#42;1^
+
+[NOTE]
+====
+. Ou: “o que é de vocês”.
+====
+
+[[v42-16-13]]
+
+^<<v42-16-13,13>>^ Nenhum servo pode ser escravo de dois senhores, pois ou odiará um e amará o outro, ou se apegará a um e desprezará o outro. Vocês não podem ser escravos de Deus e das Riquezas.”
+
+[TIP]
+====
+- *odiará*: Ou seja, será menos dedicado a ele. — Veja a nota de estudo em Lu 14:26.
+- *ser escravos*: Veja a nota de estudo em Mt 6:24.
+- *Riquezas*: Veja a nota de estudo em Mt 6:24.
+====
+
+[[v42-16-14]]
+
+^<<v42-16-14,14>>^ Os fariseus, que amavam o dinheiro, estavam escutando tudo isso, e começaram a zombar dele.
+
+[[v42-16-15]]
+
+^<<v42-16-15,15>>^ Assim, ele lhes disse: “Vocês são os que se declaram justos diante dos homens, mas Deus conhece o coração de vocês. Pois aquilo que tem muito valor para os homens é repugnante à vista de Deus.
+
+[[v42-16-16]]
+
+^<<v42-16-16,16>>^ “A Lei e os Profetas foram declarados até João. Desde então, o Reino de Deus está sendo declarado como boas novas, e todo tipo de pessoas avança vigorosamente em direção a ele.
+
+[TIP]
+====
+- *A Lei e os Profetas*: “A Lei” se refere aos livros de Gênesis a Deuteronômio. “Os Profetas” são os livros das Escrituras Hebraicas escritos pelos profetas. Mas, quando as duas expressões são mencionadas juntas, elas podem se referir a todos os livros das Escrituras Hebraicas. — Mt 5:17; 7:12; 22:40; veja a nota de estudo em Mt 11:13.
+- *avança vigorosamente*: A palavra grega usada aqui transmite a ideia básica de ação enérgica ou esforço vigoroso. Alguns tradutores da Bíblia entendem que ela tem um sentido negativo (de sofrer violência ou de agir com violência). Mas Jesus tinha acabado de dizer: o Reino de Deus está sendo declarado como boas novas. Como ele estava falando de algo positivo, é razoável concluir que a palavra grega também tenha sido usada de modo positivo, com o sentido de “ir atrás de algo com entusiasmo; buscar fervorosamente”. Tudo indica que ela se refere ao grande esforço feito pelos que aceitavam as boas novas. Esse esforço abria para eles a oportunidade de se tornarem herdeiros do Reino.
+====
+
+[[v42-16-17]]
+
+^<<v42-16-17,17>>^ Realmente, é mais fácil passarem céu e terra do que ficar sem se cumprir um só traço de uma letra da Lei.
+
+[TIP]
+====
+- *um só traço de uma letra*: Nos dias de Jesus, algumas letras do alfabeto hebraico tinham um traço bem pequeno que as diferenciava de outras. Jesus usou essa hipérbole para mostrar que a Palavra de Deus se cumpriria nos mínimos detalhes. — Veja a nota de estudo em Mt 5:18.
+====
+
+[[v42-16-18]]
+
+^<<v42-16-18,18>>^ “Todo aquele que se divorcia da sua esposa e se casa com outra comete adultério, e quem se casa com uma mulher divorciada do marido comete adultério.
+
+[TIP]
+====
+- *comete adultério*: O verbo grego usado aqui, moikheúo, se refere a trair o marido ou a esposa. De acordo com a Bíblia, adultério se refere a qualquer ato intencional de “imoralidade sexual” (em grego, porneía) que uma pessoa casada comete com alguém que não é sua esposa ou seu marido. (Para uma explicação sobre o que é “imoralidade sexual”, veja a nota de estudo em Mt 5:32.) Na época em que a Lei mosaica estava em vigor, um homem que tivesse relações sexuais com a esposa ou a noiva de outro homem era culpado de adultério. — Veja as notas de estudo em Mt 5:27; Mr 10:11.
+- *uma mulher divorciada*: Ou seja, uma mulher divorciada por um motivo que não fosse imoralidade sexual. — Veja a nota de estudo em Mt 5:32.
+====
+
+[[v42-16-19]]
+
+^<<v42-16-19,19>>^ “Havia um homem rico que se vestia de púrpura e de linho, e levava uma vida de prazeres e luxo.
+
+[[v42-16-20]]
+
+^<<v42-16-20,20>>^ Mas um mendigo, chamado Lázaro, costumava ser colocado junto ao portão dele, e estava coberto de feridas;
+
+[TIP]
+====
+- *um mendigo*: Ou: “um homem pobre”. A palavra grega usada aqui pode se referir a alguém necessitado ou extremamente pobre. Ela estabelece um nítido contraste com o homem rico da ilustração de Jesus. A mesma palavra é usada em sentido figurado em Mt 5:3, que fala sobre “os que têm consciência de sua necessidade espiritual”, literalmente “os que são pobres (necessitados; indigentes; mendigos) com relação ao espírito”. Ali ela se refere a pessoas que têm plena consciência de que são pobres em sentido espiritual e de que precisam de Deus. — Veja a nota de estudo em Mt 5:3.
+- *Lázaro*: Provavelmente a forma grega do nome hebraico Eleazar, que significa “Deus ajudou”.
+====
+
+[[v42-16-21]]
+
+^<<v42-16-21,21>>^ ele desejava matar a fome com as coisas que caíam da mesa do rico. Até os cães vinham lamber as suas feridas.
+
+[TIP]
+====
+- *cães*: De acordo com a Lei mosaica, os cães eram impuros. (Le 11:27) Pelo visto, Jesus estava se referindo a cachorros de rua que se alimentavam de restos de comida que encontravam no lixo. As Escrituras Hebraicas muitas vezes se referem aos cachorros em tom negativo. (De 23:18, nota de rodapé; 1Sa 17:43; 24:14; 2Sa 9:8; 2Rs 8:13; Pr 26:11) Assim, o fato de Jesus falar em sua ilustração que “cães” lambiam as feridas de Lázaro mostrava o estado lastimável em que ele estava. Em Mt 7:6, a palavra “cães” é usada em sentido figurado e se refere a pessoas que não reconhecem o valor das verdades preciosas da Palavra de Deus. — Veja as notas de estudo em Mt 7:6; 15:26.
+====
+
+[[v42-16-22]]
+
+^<<v42-16-22,22>>^ Com o tempo, o mendigo morreu e foi carregado pelos anjos para junto de Abraão.
+“O rico também morreu e foi enterrado.
+
+[TIP]
+====
+- *para junto de Abraão*: Lit.: “para o seio de Abraão”. A expressão “para o seio de” era uma figura de linguagem. Ela vinha do costume que as pessoas tinham naquela época de tomar refeições deitadas lado a lado em divãs, o que permitia que um amigo se encostasse no peito do outro. (Jo 13:23-25) Convidar alguém para a posição junto ao seio era uma demonstração de grande consideração ou amizade achegada. — Veja a nota de estudo em Jo 1:18.
+====
+
+[[v42-16-23]]
+
+^<<v42-16-23,23>>^ Na Sepultura ele ergueu os olhos, em tormentos, e viu Abraão de longe, com Lázaro ao seu lado.
+
+[TIP]
+====
+- *Sepultura*: Ou: “Hades”. Ou seja, o lugar simbólico (ou a condição) em que estão os mortos em geral. — Veja o Glossário.
+- *ao seu lado*: Lit.: “no seio dele”. — Veja a nota de estudo em Lu 16:22.
+====
+
+[[v42-16-24]]
+
+^<<v42-16-24,24>>^ Por isso ele o chamou, dizendo: ‘Pai Abraão, tenha misericórdia de mim e envie Lázaro para mergulhar a ponta do dedo na água e refrescar a minha língua, porque estou sofrendo neste fogo intenso.’
+
+[[v42-16-25]]
+
+^<<v42-16-25,25>>^ Mas Abraão disse: ‘Filho, lembre-se de que você teve a sua medida de coisas boas durante a vida, mas Lázaro, por sua vez, recebeu coisas ruins. Agora, porém, ele está tendo consolo aqui, mas você está sofrendo.
+
+[[v42-16-26]]
+
+^<<v42-16-26,26>>^ E, além de tudo isso, estabeleceu-se um grande abismo entre nós e vocês, de modo que os que querem passar daqui para o lado de vocês não podem, nem podem pessoas passar daí para o nosso lado.’
+
+[[v42-16-27]]
+
+^<<v42-16-27,27>>^ O rico disse então: ‘Nesse caso, eu lhe peço, pai, que o envie à casa do meu pai,
+
+[[v42-16-28]]
+
+^<<v42-16-28,28>>^ pois eu tenho cinco irmãos; deixe que ele os avise, para que eles não venham também para este lugar de tormento.’
+
+[[v42-16-29]]
+
+^<<v42-16-29,29>>^ Mas Abraão disse: ‘Eles têm Moisés e os Profetas; que escutem a esses.’
+
+[TIP]
+====
+- *Eles têm Moisés e os Profetas*: Ou seja, os livros escritos por Moisés e pelos profetas, que eram lidos nas sinagogas todo sábado (At 15:21) e deveriam ter levado aqueles homens a aceitar Jesus como o Messias e Rei escolhido por Deus.
+====
+
+[[v42-16-30]]
+
+^<<v42-16-30,30>>^ Ele respondeu então: ‘Não, pai Abraão! Se alguém dentre os mortos for a eles, eles se arrependerão.’
+
+[[v42-16-31]]
+
+^<<v42-16-31,31>>^ Mas Abraão lhe disse: ‘Se eles não escutam Moisés nem os Profetas, não serão persuadidos nem mesmo se alguém se levantar dentre os mortos.’”
+
+'''
+
+xref:042-lucas/042-lucas-015.adoc#v42-15-0[&#60; Capítulo Anterior] | <<v42-16-0,Topo>> | xref:042-lucas/042-lucas-017.adoc#v42-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,282 @@
+include::./index.adoc[]
+
+[[v40-15-0]]
+=== As Boas Novas Segundo Mateus, 15
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Jesus termina sua pregação na Galileia e nas regiões próximas (14:1–18:35)
+* Morte de João Batista (14:1-12)
+* Jesus alimenta 5.000 homens, além de mulheres e crianças (14:13-21)
+* Jesus anda sobre a água (14:22-33)
+* Curas em Genesaré (14:34-36)
+* Fariseus e escribas questionam Jesus sobre o ritual de lavar as mãos (15:1-9)
+* Impureza vem do coração (15:10-20)
+* Mulher fenícia mostra grande fé (15:21-28)
+* Jesus cura muitas doenças (15:29-31)
+* Jesus alimenta 4.000 homens, além de mulheres e crianças (15:32-39)
+* Fariseus e saduceus pedem um sinal do céu (16:1-4)
+* “Cuidado com o fermento dos fariseus e dos saduceus” (16:5-12)
+* Pedro diz que Jesus é o Cristo (16:13-17)
+* Jesus diz que vai dar as chaves do Reino para Pedro (16:18-20)
+* Jesus prediz sua morte e ressurreição (16:21-23)
+* Requisitos para ser um verdadeiro discípulo (16:24-28)
+* Transfiguração de Jesus (17:1-13)
+* Jesus cura menino possuído por demônio (17:14-18)
+* Fé do tamanho de um grão de mostarda (17:19, 20)
+* Jesus fala outra vez sobre sua morte e ressurreição (17:22, 23)
+* Imposto pago com moeda tirada da boca do peixe (17:24-27)
+* Quem é o maior no Reino? (18:1-6)
+* Pedras de tropeço (18:7-10)
+* Ilustração da ovelha perdida (18:12-14)
+* Como resolver problemas e ganhar seu irmão (18:15-20)
+* Ilustração do escravo que não perdoou (18:21-35)
+****
+
+[[v40-15-1]]
+
+^<<v40-15-1,1>>^ Então alguns fariseus e escribas, vindos de Jerusalém, chegaram-se a Jesus, dizendo:
+
+[[v40-15-2]]
+
+^<<v40-15-2,2>>^ “Por que os seus discípulos transgridem a tradição dos homens dos tempos antigos? Por exemplo, não lavam as mãos quando vão tomar uma refeição.”
+
+[TIP]
+====
+- *lavam as mãos*: Os escribas e os fariseus não se referiam aqui a lavar as mãos por medida de higiene, mas sim a uma tradição, um ritual de purificação que eles seguiam antes de comer. (Mr 7:2, 3) Mais tarde, o Talmude Babilônico (Sotah 4b) disse que comer sem lavar as mãos era um pecado tão sério quanto ter relações sexuais com uma prostituta. Disse também que todo aquele que não respeitasse o costume de lavar as mãos seria “arrancado do mundo”.
+====
+
+[[v40-15-3]]
+
+^<<v40-15-3,3>>^ Em resposta, ele lhes disse: “E por que vocês transgridem o mandamento de Deus por causa da sua tradição?
+
+[[v40-15-4]]
+
+^<<v40-15-4,4>>^ Por exemplo, Deus disse: ‘Honre seu pai e sua mãe’ e ‘Quem amaldiçoar^&#42;1^ seu pai ou sua mãe seja morto’.^&#42;2^
+
+[NOTE]
+====
+. Ou: “injuriar; insultar; falar mal de”.
+. Ou: “certamente deve morrer”.
+====
+
+[[v40-15-5]]
+
+^<<v40-15-5,5>>^ Mas vocês dizem: ‘Quem disser ao seu pai ou à sua mãe: “Tudo o que eu tenho que poderia beneficiá-lo é uma dádiva dedicada a Deus”,
+
+[TIP]
+====
+- *uma dádiva dedicada a Deus*: Os escribas e os fariseus ensinavam que todos os bens dedicados a Deus (dinheiro, propriedades ou outras coisas) pertenciam ao templo. De acordo com essa tradição, um filho podia usar em benefício próprio esses bens dedicados a Deus, mas não podia usá-los para nenhum outro objetivo — nem mesmo para cuidar dos pais. Pelo visto, alguns judeus dedicavam seus bens a Deus só para se livrar da responsabilidade de cuidar dos pais. — Mt 15:6.
+====
+
+[[v40-15-6]]
+
+^<<v40-15-6,6>>^ esse de modo algum precisa honrar seu pai.’ Assim vocês invalidaram a palavra de Deus por causa da sua tradição.
+
+[[v40-15-7]]
+
+^<<v40-15-7,7>>^ Hipócritas! Isaías profetizou apropriadamente a respeito de vocês, quando disse:
+
+[TIP]
+====
+- *Hipócritas*: Veja a nota de estudo em Mt 6:2.
+====
+
+[[v40-15-8]]
+
+^<<v40-15-8,8>>^ ‘Este povo me honra com os lábios, mas seu coração está muito longe de mim.
+
+[[v40-15-9]]
+
+^<<v40-15-9,9>>^ É em vão que continuam a me adorar, pois ensinam as regras de homens como doutrinas.’”
+
+[[v40-15-10]]
+
+^<<v40-15-10,10>>^ Com isso chamou a multidão para perto e lhes disse: “Escutem e compreendam o sentido disto:
+
+[[v40-15-11]]
+
+^<<v40-15-11,11>>^ Não é o que entra pela boca do homem que o torna impuro, mas é o que sai da boca que o torna impuro.”
+
+[[v40-15-12]]
+
+^<<v40-15-12,12>>^ Então, os discípulos vieram e lhe disseram: “Sabe que os fariseus tropeçaram ao ouvir o que o senhor disse?”
+
+[[v40-15-13]]
+
+^<<v40-15-13,13>>^ Ele respondeu: “Toda planta que o meu Pai celestial não tiver plantado será arrancada.
+
+[[v40-15-14]]
+
+^<<v40-15-14,14>>^ Não se preocupem com eles. Guias cegos é o que eles são. E, se um cego guiar outro cego, ambos cairão num buraco.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “numa vala”.
+====
+
+[[v40-15-15]]
+
+^<<v40-15-15,15>>^ Pedro respondeu: “Explique-nos a ilustração.”
+
+[TIP]
+====
+- *ilustração*: Ou: “parábola”. — Veja a nota de estudo em Mt 13:3.
+====
+
+[[v40-15-16]]
+
+^<<v40-15-16,16>>^ Então ele disse: “Vocês também ainda estão sem entendimento?
+
+[[v40-15-17]]
+
+^<<v40-15-17,17>>^ Não percebem que tudo o que entra pela boca passa pelo estômago e é expelido para o esgoto?^&#42;1^
+
+[NOTE]
+====
+. Ou: “a latrina; a privada”.
+====
+
+[[v40-15-18]]
+
+^<<v40-15-18,18>>^ No entanto, tudo o que sai da boca vem do coração, e essas coisas tornam o homem impuro.
+
+[[v40-15-19]]
+
+^<<v40-15-19,19>>^ Por exemplo, do coração vêm raciocínios maus, assassinatos, adultérios, imoralidade sexual, roubos, falsos testemunhos, blasfêmias.
+
+[TIP]
+====
+- *imoralidade sexual*: A palavra grega porneía é usada aqui no plural e pode ser traduzida como “atos de imoralidade sexual”. — Veja a nota de estudo em Mt 5:32 e o Glossário.
+====
+
+[[v40-15-20]]
+
+^<<v40-15-20,20>>^ Essas são as coisas que tornam o homem impuro; mas tomar uma refeição sem lavar as mãos não torna o homem impuro.”
+
+[[v40-15-21]]
+
+^<<v40-15-21,21>>^ Partindo dali, Jesus foi para a região de Tiro e Sídon.
+
+[[v40-15-22]]
+
+^<<v40-15-22,22>>^ E uma mulher fenícia que morava naquela região se aproximou e gritou: “Tenha misericórdia de mim, Senhor, Filho de Davi. Minha filha está possuída por um demônio que a atormenta cruelmente.”
+
+[TIP]
+====
+- *fenícia*: Ou: “cananeia”. Em grego, khananaía. A região que nos dias de Jesus era chamada de Fenícia também era conhecida como Canaã porque os primeiros habitantes da Fenícia eram descendentes de Canaã, neto de Noé. (Gên 9:18; 10:6) Por isso, os fenícios também eram chamados de cananeus. — Veja a nota de estudo em Mr 7:26, onde a mulher é chamada de “siro-fenícia”.
+- *Filho de Davi*: Veja as notas de estudo em Mt 1:1; 15:25.
+====
+
+[[v40-15-23]]
+
+^<<v40-15-23,23>>^ Mas ele não lhe disse nenhuma palavra em resposta. De modo que seus discípulos vieram e lhe pediram: “Mande-a embora, porque ela continua a gritar atrás de nós.”
+
+[[v40-15-24]]
+
+^<<v40-15-24,24>>^ Ele respondeu: “Fui enviado apenas às ovelhas perdidas da casa de Israel.”
+
+[[v40-15-25]]
+
+^<<v40-15-25,25>>^ Mas a mulher veio e se curvou diante dele, dizendo: “Senhor, ajude-me!”
+
+[TIP]
+====
+- *se curvou diante dele*: Ou: “lhe prestou homenagem”. A mulher, mesmo não sendo judia, chamou Jesus de “Filho de Davi”. (Mt 15:22) Isso mostra que ela reconhecia Jesus como o Messias prometido. A mulher se curvou diante dele para mostrar respeito a um representante de Deus, e não para adorar um deus. — Veja as notas de estudo em Mt 2:2; 8:2; 14:33; 18:26.
+====
+
+[[v40-15-26]]
+
+^<<v40-15-26,26>>^ Em resposta, ele disse: “Não é certo tirar o pão dos filhos e jogá-lo aos cachorrinhos.”
+
+[TIP]
+====
+- *filhos . . . cachorrinhos*: De acordo com a Lei mosaica, os cães eram animais impuros. Por isso, comparar uma pessoa a um cachorro geralmente tinha um tom negativo. (Le 11:27; Mt 7:6; Fil 3:2; Ap 22:15) Mas tanto o Evangelho de Mateus quanto o de Marcos (7:​27) usam uma palavra no diminutivo que pode ser traduzida como “cachorrinho” ou “cachorro de estimação”, o que suaviza a comparação. Talvez Jesus estivesse usando uma palavra carinhosa que famílias não judias usavam para se referir a um cachorro de estimação. Por comparar os israelitas a “filhos” e os não judeus a “cachorrinhos”, Jesus estava indicando apenas a ordem de prioridade. Numa casa em que houvesse crianças e cachorros, as crianças seriam alimentadas primeiro.
+====
+
+[[v40-15-27]]
+
+^<<v40-15-27,27>>^ Ela disse: “Sim, Senhor, mas na verdade os cachorrinhos comem as migalhas que caem da mesa dos seus donos.”
+
+[[v40-15-28]]
+
+^<<v40-15-28,28>>^ Jesus respondeu: “Ó mulher, grande é a sua fé! Que lhe aconteça conforme você deseja.” E a filha dela ficou curada daquele momento em diante.
+
+[[v40-15-29]]
+
+^<<v40-15-29,29>>^ A seguir, Jesus partiu dali e foi para perto do mar da Galileia. Depois subiu ao monte e se sentou ali.
+
+[[v40-15-30]]
+
+^<<v40-15-30,30>>^ Então grandes multidões se aproximaram dele, trazendo mancos, aleijados, cegos, mudos e muitos outros, e os colocavam aos seus pés, e ele os curava.
+
+[[v40-15-31]]
+
+^<<v40-15-31,31>>^ Assim, a multidão ficou admirada de ver os mudos falar, os aleijados sarar, os mancos andar e os cegos ver; e glorificavam o Deus de Israel.
+
+[TIP]
+====
+- *os aleijados sarar*: Essas palavras não aparecem em alguns poucos manuscritos, mas aparecem na maioria dos manuscritos mais antigos e em muitos manuscritos posteriores.
+====
+
+[[v40-15-32]]
+
+^<<v40-15-32,32>>^ Mas Jesus chamou os seus discípulos e disse: “Tenho pena da multidão, porque já estão comigo há três dias, e eles não têm nada para comer. Eu não quero mandá-los embora com fome,^&#42;1^ pois poderiam desfalecer na estrada.”
+
+[NOTE]
+====
+. Ou: “sem comida; em jejum”.
+====
+
+[TIP]
+====
+- *Tenho pena*: Ou: “Tenho compaixão”. — Veja a nota de estudo em Mt 9:36.
+====
+
+[[v40-15-33]]
+
+^<<v40-15-33,33>>^ No entanto, os discípulos lhe perguntaram: “Onde vamos arranjar, neste lugar isolado, pães suficientes para satisfazer uma multidão deste tamanho?”
+
+[[v40-15-34]]
+
+^<<v40-15-34,34>>^ Com isso, Jesus lhes disse: “Quantos pães vocês têm?” Disseram: “Sete, e alguns peixinhos.”
+
+[[v40-15-35]]
+
+^<<v40-15-35,35>>^ Portanto, depois de mandar a multidão se sentar no chão,
+
+[[v40-15-36]]
+
+^<<v40-15-36,36>>^ pegou os sete pães e os peixes, e, depois de dar graças, partiu-os e começou a dá-los aos discípulos, e os discípulos os deram às multidões.
+
+[[v40-15-37]]
+
+^<<v40-15-37,37>>^ E todos comeram e ficaram satisfeitos, e recolheram sete cestos grandes, cheios dos pedaços que sobraram.
+
+[TIP]
+====
+- *cestos grandes*: Ou: “cestos de provisões”. A palavra grega usada aqui, sfyrís, parece se referir a um tipo de cesto maior do que aqueles que foram usados quando Jesus alimentou cerca de 5.000 homens. (Veja a nota de estudo em Mt 14:20.) O texto de At 9:25 usa a mesma palavra grega quando diz que os discípulos colocaram Paulo dentro de um cesto para tirá-lo de Damasco. — Veja a nota de estudo em At 9:25.
+====
+
+[[v40-15-38]]
+
+^<<v40-15-38,38>>^ Os que comeram foram 4.000 homens, além de mulheres e crianças.
+
+[TIP]
+====
+- *além de mulheres e crianças*: Apenas Mateus menciona mulheres e crianças ao relatar esse milagre. É possível que Jesus tenha alimentado nessa ocasião mais de 12.000 pessoas.
+====
+
+[[v40-15-39]]
+
+^<<v40-15-39,39>>^ Por fim, depois de dispensar as multidões, entrou no barco e chegou à região de Magadã.
+
+[TIP]
+====
+- *Magadã*: Não se conhece hoje nenhum lugar chamado Magadã na região próxima ao mar da Galileia. Mas alguns pesquisadores acreditam que Magadã seja o mesmo lugar que Magdala, que hoje é a cidade de Migdal, uns 6 quilômetros ao noroeste de Tiberíades. No relato paralelo de Marcos (Mr 8:10), a região é chamada de Dalmanuta. — Veja o Apêndice B10.
+====
+
+'''
+
+xref:040-mateus/040-mateus-014.adoc#v40-14-0[&#60; Capítulo Anterior] | <<v40-15-0,Topo>> | xref:040-mateus/040-mateus-016.adoc#v40-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,286 @@
+include::./index.adoc[]
+
+[[v40-11-0]]
+=== As Boas Novas Segundo Mateus, 11
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* F. Jesus diz que obra de pregação será grande e treina seus discípulos (9:35–11:1)
+* Colheita é grande, mas trabalhadores são poucos (9:35-38)
+* Os 12 apóstolos (10:1-4)
+* Instruções para a pregação (10:5-15)
+* Discípulos serão perseguidos (10:16-25)
+* Temam a Deus, não a homens (10:26-31)
+* Jesus não veio trazer a paz, mas a espada (10:32-39)
+* Quem receber bem os discípulos será recompensado (10:40-42)
+* Jesus parte para ensinar e pregar (11:1)
+* G. Jesus viaja pela Galileia para ensinar (11:2–12:50)
+* João Batista pergunta sobre “Aquele Que Vem” (11:2-6)
+* Jesus elogia João Batista (11:7-15)
+* Geração indiferente (11:16-19)
+* Jesus condena Corazim, Betsaida e Cafarnaum (11:20-24)
+* Jesus louva seu Pai por revelar a verdade aos humildes (11:25-27)
+* Aceitar o jugo de Jesus e aprender dele reanima (11:28-30)
+* Jesus é “Senhor do sábado” (12:1-8)
+* Jesus cura no sábado um homem com a mão atrofiada (12:9-14)
+* Jesus é o servo amado de Deus (12:15-21)
+* Jesus expulsa demônios por meio do espírito santo, não por meio de Belzebu (12:22-30)
+* Pecado imperdoável (12:31, 32)
+* É pelo fruto que se conhece a árvore (12:33-37)
+* Sinal de Jonas (12:38-42)
+* Quando um espírito impuro volta (12:43-45)
+* Mãe e irmãos de Jesus (12:46-50)
+****
+
+[[v40-11-1]]
+
+^<<v40-11-1,1>>^ Quando terminou de dar instruções aos seus 12 discípulos, Jesus partiu dali para ensinar e pregar nas cidades deles.
+
+[TIP]
+====
+- *ensinar e pregar*: Veja a nota de estudo em Mt 4:23.
+- *nas cidades deles*: Pelo visto se refere às cidades judaicas que ficavam naquela região (Galileia).
+====
+
+[[v40-11-2]]
+
+^<<v40-11-2,2>>^ Mas, na cadeia, João ouviu falar das obras do Cristo e enviou seus discípulos
+
+[TIP]
+====
+- *do Cristo*: Aqui, Mateus usou o artigo definido em grego antes do título “Cristo”, que significa “ungido”. Isso indicava que Jesus era o prometido Messias, aquele que foi ungido, ou escolhido, para um cargo especial. — Veja as notas de estudo em Mt 1:1; 2:4.
+====
+
+[[v40-11-3]]
+
+^<<v40-11-3,3>>^ para lhe perguntar: “O senhor é Aquele Que Vem, ou devemos esperar outro?”
+
+[TIP]
+====
+- *Aquele Que Vem*: Ou seja, o Messias. — Sal 118:26; Mt 3:11; 21:9; 23:39.
+====
+
+[[v40-11-4]]
+
+^<<v40-11-4,4>>^ Jesus lhes disse em resposta: “Vão, contem a João o que vocês estão ouvindo e vendo:
+
+[[v40-11-5]]
+
+^<<v40-11-5,5>>^ os cegos agora veem, os mancos estão andando, os leprosos estão sendo purificados, os surdos estão ouvindo, os mortos estão sendo levantados e as boas novas estão sendo anunciadas aos pobres.
+
+[TIP]
+====
+- *leprosos*: Veja a nota de estudo em Mt 8:2 e o Glossário.
+====
+
+[[v40-11-6]]
+
+^<<v40-11-6,6>>^ Feliz é aquele que não acha em mim causa para tropeço.”
+
+[[v40-11-7]]
+
+^<<v40-11-7,7>>^ Enquanto eles partiam, Jesus começou a falar às multidões sobre João: “O que vocês foram ver no deserto? Uma cana sacudida pelo vento?
+
+[[v40-11-8]]
+
+^<<v40-11-8,8>>^ O que, então, foram ver? Um homem vestido de roupas finas?^&#42;1^ Ora, os que usam roupas finas estão nos palácios dos reis.
+
+[NOTE]
+====
+. Ou: “macias”.
+====
+
+[[v40-11-9]]
+
+^<<v40-11-9,9>>^ Realmente, então, por que vocês foram lá? Para ver um profeta? Sim, eu lhes digo, e muito mais do que um profeta.
+
+[[v40-11-10]]
+
+^<<v40-11-10,10>>^ Esse é aquele a respeito de quem se escreveu: ‘Veja! Enviarei o meu mensageiro^&#42;1^ na sua frente,^&#42;2^ o qual preparará o seu caminho adiante de você!’
+
+[NOTE]
+====
+. Ou: “anjo”.
+. Lit.: “à frente da sua face”.
+====
+
+[TIP]
+====
+- *Veja!*: Veja a nota de estudo em Mt 1:23.
+====
+
+[[v40-11-11]]
+
+^<<v40-11-11,11>>^ Digo-lhes a verdade: Entre os nascidos de mulher não surgiu ninguém maior do que João Batista; mas aquele que é menor no Reino dos céus é maior do que ele.
+
+[TIP]
+====
+- *Digo-lhes a verdade*: Veja a nota de estudo em Mt 5:18.
+- *Batista*: Ou: “o Imersor; o Mergulhador”. — Veja a nota de estudo em Mt 3:1.
+====
+
+[[v40-11-12]]
+
+^<<v40-11-12,12>>^ Desde os dias de João Batista até agora, o Reino dos céus é o alvo para o qual os homens avançam vigorosamente, e os que avançam vigorosamente se apoderam dele.
+
+[TIP]
+====
+- *o alvo para o qual os homens avançam vigorosamente . . . os que avançam vigorosamente*: Essas duas expressões traduzem duas palavras gregas relacionadas, um verbo e um substantivo, que transmitem a ideia básica de ação enérgica ou esforço vigoroso. Alguns tradutores da Bíblia entendem que essas palavras têm sentido negativo (de sofrer ou praticar violência). Mas, com base no contexto e na única outra ocorrência do verbo grego, em Lu 16:16, é razoável concluir que as palavras gregas são usadas aqui com sentido positivo. Nesse caso, significa “ir atrás de algo com entusiasmo; buscar fervorosamente”. Tudo indica que elas descrevem a ação enérgica ou o esforço vigoroso dos que aceitaram a mensagem de João Batista. Esse esforço abriu para eles a oportunidade de se tornar herdeiros do Reino.
+====
+
+[[v40-11-13]]
+
+^<<v40-11-13,13>>^ Pois todos, os Profetas e a Lei, profetizaram até João.
+
+[TIP]
+====
+- *os Profetas e a Lei*: Em todas as outras ocorrências, essa expressão aparece como “a Lei e os Profetas”, mas aqui ela aparece invertida. (Mt 5:17; 7:12; 22:40; Lu 16:16) Pelo visto, o significado é basicamente o mesmo. (Veja a nota de estudo em Mt 5:17.) Mas aqui parece que se dá mais ênfase às profecias contidas nas Escrituras Hebraicas. Até mesmo a Lei é descrita como profetizando, o que destaca que a Lei também continha profecias.
+====
+
+[[v40-11-14]]
+
+^<<v40-11-14,14>>^ E, se vocês quiserem aceitar, ele é ‘Elias, que há de vir’.
+
+[TIP]
+====
+- *Elias*: Nome de origem hebraica que significa “meu Deus é Jeová”.
+====
+
+[[v40-11-15]]
+
+^<<v40-11-15,15>>^ Quem tem ouvidos, escute.
+
+[[v40-11-16]]
+
+^<<v40-11-16,16>>^ “Com quem compararei esta geração? Ela é semelhante a crianças sentadas nas praças, que gritam para seus colegas:
+
+[[v40-11-17]]
+
+^<<v40-11-17,17>>^ ‘Nós tocamos flauta para vocês, mas vocês não dançaram; nós lamentamos, mas vocês não bateram no peito de pesar.’
+
+[TIP]
+====
+- *bateram no peito de pesar*: Nos tempos bíblicos, era costume bater repetidamente no peito para expressar tristeza profunda, culpa ou arrependimento. — Is 32:12; Na 2:7; Lu 23:48.
+====
+
+[[v40-11-18]]
+
+^<<v40-11-18,18>>^ Da mesma maneira, João veio sem comer e sem beber, mas as pessoas dizem: ‘Ele tem demônio.’
+
+[TIP]
+====
+- *sem comer e sem beber*: Pelo visto se refere ao fato de que João levava uma vida com algumas restrições. Ele praticava o jejum e seguia a instrução dada aos nazireus de não tomar bebidas alcoólicas. — Núm 6:2-4; Mt 9:14, 15; Lu 1:15; 7:33.
+====
+
+[[v40-11-19]]
+
+^<<v40-11-19,19>>^ O Filho do Homem veio comendo e bebendo, mas elas dizem: ‘Vejam! Um homem glutão e dado a beber vinho, amigo de cobradores de impostos e de pecadores.’ No entanto, a sabedoria se prova justa^&#42;1^ pelas suas obras.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “é vindicada”.
+. Ou: “pelos seus resultados”.
+====
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:46.
+- *a sabedoria se prova justa pelas suas obras*: Neste versículo, Jesus falou da sabedoria como se ela fosse uma pessoa e disse que ela tem “obras”. No relato paralelo em Lu 7:35, a sabedoria é descrita como tendo “filhos”. Os filhos (as obras) da sabedoria eram as ações de João Batista e de Jesus. Essas ações provavam que as acusações contra eles eram falsas. Em outras palavras, Jesus estava dizendo: ‘É só observar que as obras e a conduta da pessoa são justas, e vocês saberão que a acusação é falsa.’
+====
+
+[[v40-11-20]]
+
+^<<v40-11-20,20>>^ Ele começou então a censurar as cidades nas quais se realizou a maioria das suas obras poderosas, pois não se arrependeram:
+
+[[v40-11-21]]
+
+^<<v40-11-21,21>>^ “Ai de você, Corazim! Ai de você, Betsaida! Porque, se as obras poderosas que ocorreram em vocês tivessem ocorrido em Tiro e Sídon, há muito tempo elas teriam se arrependido em pano de saco e em cinzas.
+
+[[v40-11-22]]
+
+^<<v40-11-22,22>>^ Mas eu lhes digo: No Dia do Julgamento será mais suportável para Tiro e Sídon do que para vocês.
+
+[[v40-11-23]]
+
+^<<v40-11-23,23>>^ E você, Cafarnaum, será por acaso enaltecida ao céu? Até a Sepultura você descerá. Porque, se as obras poderosas que ocorreram em você tivessem ocorrido em Sodoma, ela teria permanecido até o dia de hoje.
+
+[TIP]
+====
+- *Cafarnaum*: Veja a nota de estudo em Mt 4:13.
+- *céu*: Nessa metáfora, o céu representa uma posição muito favorecida.
+- *a Sepultura*: Ou: “Hades”. Neste contexto, a Sepultura representa o rebaixamento, ou a humilhação, que Cafarnaum sofreria.
+====
+
+[[v40-11-24]]
+
+^<<v40-11-24,24>>^ Mas eu lhes digo: No Dia do Julgamento será mais suportável para a terra de Sodoma do que para você.”
+
+[TIP]
+====
+- *será mais suportável para*: Veja a nota de estudo em Lu 10:12.
+- *para você*: O pronome grego usado aqui está no singular, o que parece indicar que se refere à cidade de Cafarnaum.
+====
+
+[[v40-11-25]]
+
+^<<v40-11-25,25>>^ Em vista disso, naquela ocasião Jesus disse: “Eu te louvo publicamente, Pai, Senhor do céu e da terra, porque escondeste essas coisas dos sábios e dos intelectuais, e as revelaste aos pequeninos.
+
+[TIP]
+====
+- *aos pequeninos*: Ou: “aos que são como crianças”, ou seja, que são humildes e dispostos a aprender.
+====
+
+[[v40-11-26]]
+
+^<<v40-11-26,26>>^ Sim, ó Pai, porque tu te agradaste de fazer as coisas dessa maneira.
+
+[[v40-11-27]]
+
+^<<v40-11-27,27>>^ Tudo me foi entregue por meu Pai. E ninguém conhece plenamente o Filho, exceto o Pai; e ninguém conhece plenamente o Pai, exceto o Filho e aquele a quem o Filho quiser revelá-lo.
+
+[[v40-11-28]]
+
+^<<v40-11-28,28>>^ Venham a mim, todos vocês que estão trabalhando duro^&#42;1^ e estão sobrecarregados, e eu os reanimarei.
+
+[NOTE]
+====
+. Ou: “se esforçando muito”. Ou, possivelmente: “cansados; esgotados”.
+====
+
+[TIP]
+====
+- *sobrecarregados*: As pessoas que Jesus convidou para segui-lo estavam ‘sobrecarregadas’ pelas ansiedades e pelo ‘trabalho duro’ de seguir as tradições que os escribas e os fariseus tinham acrescentado à Lei de Moisés. Essas tradições humanas tinham tornado a adoração de Jeová um fardo pesado para o povo. (Mt 23:4) Até mesmo guardar o sábado, que deveria ser um dia de descanso e revigoramento, tinha se tornado um ritual difícil de seguir. — Êx 23:12; Mr 2:23-28; Lu 6:1-11.
+- *eu os reanimarei*: A palavra grega para “reanimar” tem mais de um significado. Em alguns contextos, pode ser traduzida como “descansar” (Mt 26:45; Mr 6:31), mas também pode se referir a um alívio que reanima e repõe as energias (2Co 7:13; Flm 7). Neste contexto, a ideia é tomar sobre si o “jugo” de Jesus (Mt 11:29), o que envolveria trabalho, não descanso. Jesus estava dizendo aqui que daria força e ânimo aos que estavam cansados, e assim eles iam querer aceitar o jugo suave e leve que ele oferece.
+====
+
+[[v40-11-29]]
+
+^<<v40-11-29,29>>^ Tomem sobre vocês o meu jugo e aprendam de mim,^&#42;1^ pois sou de temperamento brando e humilde de coração, e acharão revigoramento para si mesmos.
+
+[NOTE]
+====
+. Ou: “tornem-se meus discípulos (alunos)”.
+====
+
+[TIP]
+====
+- *Tomem sobre vocês o meu jugo*: ‘Tomar sobre si um jugo’ representa aqui aceitar a autoridade e a orientação de outra pessoa. Se Jesus tinha em mente um jugo duplo, então ele estava convidando seus discípulos a entrar junto com ele debaixo do jugo que ele recebeu de Deus, e ele os ajudaria a carregá-lo. Nesse caso, a expressão poderia ser traduzida: “Entrem debaixo do meu jugo junto comigo.” Mas, se Jesus estava falando de um jugo que ele coloca sobre seus discípulos, então a ideia aqui seria aceitar a autoridade e a orientação dele. — Veja o Glossário, “Jugo”.
+- *temperamento brando*: Veja a nota de estudo em Mt 5:5.
+- *humilde de coração*: A palavra grega para “humilde” se refere a uma pessoa que não é orgulhosa nem arrogante. A atitude da pessoa em relação a Deus e a outras pessoas mostra se ela é humilde de coração.
+- *si mesmos*: Ou: “sua alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v40-11-30]]
+
+^<<v40-11-30,30>>^ Pois o meu jugo é suave^&#42;1^ e a minha carga é leve.”
+
+[NOTE]
+====
+. Ou: “fácil de carregar; agradável”.
+====
+
+'''
+
+xref:040-mateus/040-mateus-010.adoc#v40-10-0[&#60; Capítulo Anterior] | <<v40-11-0,Topo>> | xref:040-mateus/040-mateus-012.adoc#v40-12-0[Próximo Capítulo &#62;]

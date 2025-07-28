@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v43-17-0]]
+=== As Boas Novas Segundo João, 17
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* J. Última Páscoa de Jesus e últimos conselhos para seus discípulos (13:1–17:26)
+* Jesus lava os pés dos discípulos (13:1-20)
+* Jesus identifica seu traidor: Judas Iscariotes (13:21-30)
+* Jesus dá um novo mandamento (13:31-35)
+* Jesus prediz que Pedro vai negá-lo três vezes (13:36-38)
+* Jesus é o único caminho para se chegar ao Pai (14:1-14)
+* Jesus promete que o espírito santo virá como ajudador (14:15-31)
+* Ilustração da verdadeira videira (15:1-10)
+* Mandamento para amar como Cristo amou (15:11-17)
+* Mundo odeia Jesus e seus discípulos (15:18-27)
+* Alguns discípulos de Jesus serão mortos (16:1-4a)
+* Jesus enviará o espírito santo (16:4b-16)
+* Tristeza dos discípulos será transformada em alegria (16:17-24)
+* Jesus vence o mundo (16:25-33)
+* Jesus ora em favor de todos os seus discípulos, presentes e futuros (17:1-26)
+****
+
+[[v43-17-1]]
+
+^<<v43-17-1,1>>^ Jesus falou essas coisas e, levantando os olhos para o céu, disse: “Pai, chegou a hora. Glorifica o teu filho, para que o teu filho te glorifique,
+
+[[v43-17-2]]
+
+^<<v43-17-2,2>>^ assim como lhe deste autoridade sobre todas as pessoas, para que ele dê vida eterna a todos aqueles que lhe deste.
+
+[TIP]
+====
+- *todas as pessoas*: Ou: “toda a humanidade”. Lit.: “toda a carne”. A palavra grega usada aqui também aparece em Lu 3:6, que é uma citação de Is 40:5. O texto de Isaías usa uma palavra hebraica com o mesmo sentido. — Compare com a nota de estudo em Jo 1:14.
+====
+
+[[v43-17-3]]
+
+^<<v43-17-3,3>>^ Isto significa vida eterna: que conheçam a ti, o único Deus verdadeiro, e àquele que tu enviaste, Jesus Cristo.
+
+[TIP]
+====
+- *que conheçam a ti*: Ou: “que assimilem conhecimento de ti; que continuem a te conhecer”. O verbo grego usado aqui é ginósko, que tem o sentido básico de “conhecer”. Ele está no presente, expressando ação contínua, e pode indicar o processo de “assimilar conhecimento sobre alguém; passar a conhecer alguém; conhecer melhor alguém”. O verbo pode transmitir também a ideia de um esforço contínuo para conhecer melhor alguém, não importa o quanto ele já seja conhecido. Neste contexto, ginósko se refere a ter uma amizade cada vez mais forte com Deus, ao passo que se conhece melhor a ele e a Cristo e a confiança neles aumenta. Assim, fica claro que o conhecimento mencionado aqui envolve mais do que apenas saber quem uma pessoa é ou qual é o seu nome. Inclui saber o que a pessoa gosta e o que ela não gosta, e quais são os seus valores e os seus princípios. — 1Jo 2:3; 4:8.
+====
+
+[[v43-17-4]]
+
+^<<v43-17-4,4>>^ Eu te glorifiquei na terra e terminei a obra que me deste para fazer.
+
+[[v43-17-5]]
+
+^<<v43-17-5,5>>^ E agora, Pai, glorifica-me ao teu lado com a glória que eu tive junto de ti antes de o mundo existir.
+
+[TIP]
+====
+- *mundo*: Aqui, a palavra grega traduzida como “mundo” (kósmos) pelo visto se refere à humanidade como um todo. — Compare com a nota de estudo em Jo 17:24.
+====
+
+[[v43-17-6]]
+
+^<<v43-17-6,6>>^ “Tornei o teu nome conhecido aos homens que me deste do mundo. Eles eram teus, e tu os deste a mim, e eles obedeceram à tua palavra.
+
+[TIP]
+====
+- *Tornei o teu nome conhecido*: Os primeiros seguidores de Jesus já sabiam qual era o nome de Deus e o usavam. O nome de Deus estava nos rolos das Escrituras Hebraicas que eles liam nas sinagogas. Eles também podiam ver o nome de Deus quando liam a Septuaginta — uma tradução para o grego das Escrituras Hebraicas que era usada ao ensinar. (Veja os Apêndices A5 e C1.) Na Bíblia, a palavra “nome” também pode se referir à própria pessoa, à sua reputação e a tudo o que ela afirma ser. (Veja a nota de estudo em Mt 6:9; compare com a nota de rodapé em Ap 3:4.) Jesus tornou conhecido o nome de Deus não apenas por usar esse nome, mas também por revelar os propósitos, as atividades e as qualidades da Pessoa por trás desse nome. Jesus tinha estado “ao lado do Pai”, por isso ninguém melhor do que ele para revelar quem era o Pai e explicar sua personalidade. (Jo 1:18; Mt 11:27) Assim, o nome de Deus passou a ter um significado ainda maior para aqueles seguidores de Jesus.
+- *mundo*: A palavra grega usada aqui é kósmos. Pelo visto, ela se refere neste contexto à sociedade humana injusta afastada de Deus e separada dos verdadeiros seguidores de Cristo (a congregação cristã). — Veja a nota de estudo em Jo 15:19.
+- *obedeceram à*: Ou: “guardaram a”. Neste contexto, a palavra grega teréo também pode significar “persistir em obedecer a; prestar atenção a”.
+====
+
+[[v43-17-7]]
+
+^<<v43-17-7,7>>^ Agora eles sabem que todas as coisas que me deste vêm de ti,
+
+[[v43-17-8]]
+
+^<<v43-17-8,8>>^ porque eu lhes transmiti as declarações que me deste, e eles as aceitaram e certamente sabem que vim como teu representante, e acreditam que tu me enviaste.
+
+[[v43-17-9]]
+
+^<<v43-17-9,9>>^ Eu peço por eles; peço, não pelo mundo, mas por aqueles que me deste, porque eles são teus;
+
+[TIP]
+====
+- *pelo mundo*: Aqui, a palavra grega traduzida como “mundo” (kósmos) se refere à sociedade humana injusta afastada de Deus. — Compare com a nota de estudo em Jo 15:19.
+====
+
+[[v43-17-10]]
+
+^<<v43-17-10,10>>^ e todas as minhas coisas são tuas, e as tuas são minhas, e eu fui glorificado entre eles.
+
+[[v43-17-11]]
+
+^<<v43-17-11,11>>^ “Não estou mais no mundo, mas eles estão no mundo, e eu vou para ti. Santo Pai, vigia sobre eles por causa do teu nome, o nome que me deste, para que sejam um, assim como nós somos um.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estamos em união”.
+====
+
+[TIP]
+====
+- *Santo Pai*: Na Bíblia, esta expressão aparece apenas aqui e foi usada para se dirigir a Jeová. Em nenhum lugar ela foi usada para se referir a um humano. — Compare com Mt 23:9.
+- *teu nome, o nome que me deste*: O nome Jesus corresponde ao nome hebraico Jesua, que significa “Jeová é salvação”. Assim, o nome Jesus inclui o nome de Deus. Neste capítulo, Jesus destacou duas vezes que tornou o nome de Jeová conhecido. (Jo 17:6, 26) Na Bíblia, a palavra “nome” também pode se referir à própria pessoa, à sua reputação, às suas qualidades e a tudo o que ela afirma ser. (Veja as notas de estudo em Mt 6:9; Jo 17:6.) Por isso, além de Jesus ter um nome que incluía o nome de Deus, pelo visto havia outros motivos para ele dizer que recebeu o nome de seu Pai. Por exemplo, Jesus refletia de modo perfeito a personalidade de Jeová. (Jo 14:9) Além disso, Jesus veio em nome do Pai, ou seja, como seu representante, e fez milagres em nome do Pai. — Jo 5:43; 10:25.
+- *sejam um*: Ou: “estejam em união”. Jesus orou para que seus verdadeiros seguidores fossem “um”, ou seja, que trabalhassem unidos com o mesmo objetivo. Assim, eles seriam como ele e seu Pai, que também são “um” porque pensam da mesma forma e cooperam um com o outro. O que Jesus pediu nesta oração lembra as palavras dele registradas em Jo 10:30. Ali, quando disse “eu e o Pai somos um”, Jesus estava se referindo ao modo unido de ele e o Pai cuidarem dos discípulos, as “ovelhas” que o Pai deu a ele. (Jo 10:25-30; 17:2, 9) A palavra grega traduzida aqui como “um” está, não no gênero masculino (indicando “uma pessoa”), mas no gênero neutro (indicando “uma coisa”). — Veja a nota de estudo em Jo 10:30.
+====
+
+[[v43-17-12]]
+
+^<<v43-17-12,12>>^ Quando eu estava com eles, vigiava sobre eles por causa do teu nome, o nome que me deste; e eu os protegi, e nenhum deles foi perdido,^&#42;1^ exceto o filho da destruição, para que se cumprisse a passagem das Escrituras.
+
+[NOTE]
+====
+. Ou: “está destruído”.
+====
+
+[TIP]
+====
+- *o filho da destruição*: Aqui, esta expressão se refere a Judas Iscariotes. Ele escolheu trair o Filho de Deus e, por isso, foi condenado à destruição eterna, sem esperança de ressurreição. O texto de 2Te 2:3 usa essa mesma expressão para se referir ao “homem que viola a lei”. Nos idiomas originais da Bíblia, a expressão “filho(s) de” pode ser usada em sentido figurado para indicar que uma pessoa tem certo modo de agir ou apresenta uma determinada característica. Alguns exemplos são: “filhos do Altíssimo”, “filhos da luz e filhos do dia”, “filhos do Reino”, “filhos do Maligno”, “filho do Diabo” e “filhos da desobediência”. (Lu 6:35; 1Te 5:5; Mt 13:38; At 13:10; Ef 2:2) De forma parecida, a expressão “filho de” pode ser usada para se referir às consequências que uma pessoa sofre ou ao julgamento que ela recebe por agir de certo modo ou apresentar determinada característica. Por exemplo, em 2Sa 12:5, a expressão traduzida como “merece morrer” seria literalmente “é um filho da morte”. No texto de Mt 23:15, a expressão “merecedor da Geena” (lit.: “um filho da Geena”) se refere a alguém que merece destruição eterna. Pelo visto, foi nesse sentido que Jesus chamou Judas Iscariotes de “o filho da destruição”. — Veja a nota de estudo em Mt 23:15 e o Glossário, “Geena”.
+====
+
+[[v43-17-13]]
+
+^<<v43-17-13,13>>^ Mas agora eu vou para ti e estou falando essas coisas no mundo, para que eles sintam plenamente a minha alegria.
+
+[[v43-17-14]]
+
+^<<v43-17-14,14>>^ Eu lhes dei a tua palavra, mas o mundo os odeia, porque eles não fazem parte do mundo, assim como eu não faço parte do mundo.
+
+[TIP]
+====
+- *mundo*: A palavra grega usada aqui é kósmos. Neste contexto, ela se refere à sociedade humana injusta afastada de Deus, ou seja, a todas as pessoas que não servem a ele. João é o único escritor dos Evangelhos que registra que Jesus falou sobre seus seguidores não fazerem parte do mundo ou não pertencerem ao mundo. Na última noite com seus apóstolos fiéis, Jesus falou isso mais duas vezes. — Jo 15:19; 17:16.
+====
+
+[[v43-17-15]]
+
+^<<v43-17-15,15>>^ “Não te peço que os tires do mundo, mas que vigies sobre eles, por causa do Maligno.
+
+[[v43-17-16]]
+
+^<<v43-17-16,16>>^ Eles não fazem parte do mundo, assim como eu não faço parte do mundo.
+
+[[v43-17-17]]
+
+^<<v43-17-17,17>>^ Santifica-os por meio da verdade; a tua palavra é a verdade.
+
+[TIP]
+====
+- *Santifica-os*: Ou: “Torna-os santos; Coloca-os à parte”. Ou seja, santificar ou colocar à parte para prestar serviço sagrado a Deus. Quando os seguidores de Jesus obedecem à verdade da Palavra de Deus, eles se tornam santificados, ou purificados. (1Pe 1:22) Isso deixa claro que eles “não fazem parte do mundo”, visto que o mundo não segue a verdade de Deus. — Jo 17:16.
+- *a tua palavra é a verdade*: A Palavra de Jeová apresenta as coisas como elas realmente são e revela quais são as qualidades, os propósitos e os mandamentos dele. Ela também mostra qual é a verdadeira situação da humanidade. Assim como Jesus indicou em sua oração, a verdade da Palavra de Deus mostra quais são os requisitos para que uma pessoa seja santificada (ou colocada à parte) por Jeová para servi-lo e o que é preciso para que ela continue assim.
+====
+
+[[v43-17-18]]
+
+^<<v43-17-18,18>>^ Assim como tu me enviaste ao mundo, eu também os enviei ao mundo.
+
+[[v43-17-19]]
+
+^<<v43-17-19,19>>^ E eu me santifico em benefício deles, para que eles também sejam santificados por meio da verdade.
+
+[TIP]
+====
+- *me santifico*: Ou: “me coloco à parte; me mantenho santo”. Quando Jesus nasceu, ele já era santo. (Lu 1:35) E ele se manteve santo, ou santificado, durante toda a sua vida na Terra. (At 4:27; He 7:26) Por viver sem cometer pecado e dar a sua vida perfeita como sacrifício de resgate, Jesus tornou possível que seus seguidores fossem santificados, ou tornados santos, separados para servir a Deus. Por isso, ao orar para seu Pai pouco antes de morrer, Jesus podia dizer que estava se santificando em benefício deles. Os seguidores de Jesus são santificados por meio da verdade quando seguem de perto os passos dele e vivem de acordo com o que ele ensinou e com as verdades da Palavra de Deus, a Bíblia. (Jo 17:17; 2Ti 2:20, 21; He 12:14) Mas, mesmo quando fazem isso, eles são santificados por meio de Jesus e não por seus próprios méritos. — Ro 3:23-26; He 10:10.
+====
+
+[[v43-17-20]]
+
+^<<v43-17-20,20>>^ “Eu peço não somente por estes, mas também por aqueles que depositam fé em mim por meio das palavras deles,
+
+[[v43-17-21]]
+
+^<<v43-17-21,21>>^ para que todos sejam um, assim como tu, Pai, estás em união comigo e eu estou em união contigo, para que eles também estejam em união conosco, a fim de que o mundo acredite que tu me enviaste.
+
+[TIP]
+====
+- *sejam um*: Ou: “estejam em união”. Jesus orou para que seus verdadeiros seguidores fossem “um”, ou seja, que trabalhassem unidos com o mesmo objetivo. Assim, eles seriam como ele e seu Pai, que também são “um” porque pensam da mesma forma e cooperam um com o outro. (Jo 17:22) Em 1Co 3:6-9, Paulo fala sobre esse tipo de união entre os cristãos, que cooperam uns com os outros e com Deus. — Veja 1Co 3:8 e as notas de estudo em Jo 10:30; 17:11.
+====
+
+[[v43-17-22]]
+
+^<<v43-17-22,22>>^ Eu lhes dei a glória que tu me deste, a fim de que eles sejam um, assim como nós somos um.
+
+[[v43-17-23]]
+
+^<<v43-17-23,23>>^ Eu em união com eles, e tu em união comigo, a fim de que estejam perfeitamente unidos, para que o mundo saiba que tu me enviaste e que os amaste assim como me amaste.
+
+[TIP]
+====
+- *estejam perfeitamente unidos*: Ou: “sejam aperfeiçoados em um”. Neste versículo, Jesus relaciona a união perfeita com ser amado pelo Pai. Isso está de acordo com Col 3:14, que diz que o “amor . . . é o perfeito vínculo de união”. O fato de os seguidores de Jesus estarem perfeitamente unidos não quer dizer que não exista nenhuma diferença entre eles. Cada um tem sua personalidade, sua consciência, suas habilidades e seus hábitos. Mas eles estão unidos em suas crenças, seus ensinos e suas ações. — Ro 15:5, 6; 1Co 1:10; Ef 4:3; Fil 1:27.
+====
+
+[[v43-17-24]]
+
+^<<v43-17-24,24>>^ Pai, quero que aqueles que me deste estejam comigo onde eu estiver, para que possam ver a glória que me deste, porque me amaste antes da fundação do mundo.
+
+[TIP]
+====
+- *fundação do mundo*: A palavra grega para “fundação” é traduzida como “conceber” em He 11:11, onde aparece junto com a palavra “descendente”. Aqui, na expressão “fundação do mundo”, a palavra grega parece se referir à época em que Adão e Eva geraram filhos. Em Lu 11:50, 51, Jesus relacionou “a fundação do mundo” com Abel. Pelo visto, Abel foi o primeiro humano a receber a oportunidade de ser salvo pelo resgate e de ter, desde “a fundação do mundo”, o nome escrito no rolo da vida. (Ap 17:8) As palavras de Jesus nesta oração também confirmam que, muito tempo antes de Adão e Eva gerarem filhos, o Pai já amava seu Filho unigênito.
+====
+
+[[v43-17-25]]
+
+^<<v43-17-25,25>>^ Justo Pai, o mundo realmente não te conhece, mas eu te conheço, e estes sabem que tu me enviaste.
+
+[[v43-17-26]]
+
+^<<v43-17-26,26>>^ Eu tornei o teu nome conhecido a eles, e o tornarei conhecido, para que o amor com que me amaste esteja neles, e eu em união com eles.”
+
+[TIP]
+====
+- *Eu tornei o teu nome conhecido*: Aqui, no final de sua oração, Jesus repetiu o que tinha dito antes, conforme registrado em Jo 17:6. (Veja a nota de estudo em Jo 17:6.) Em grego, o verbo que aparece aqui, gnorízo (“tornar conhecido”), é diferente do que aparece em Jo 17:6 (faneróo, “tornar conhecido; revelar”), mas os dois verbos passam basicamente a mesma ideia. Na Bíblia, “tornar conhecido o nome” de alguém pode se referir a dizer qual é o nome da pessoa ou a revelar o que esse nome representa, ou seja, a reputação da pessoa e tudo o que ela afirma ser. (Veja a nota de estudo em Mt 6:9; compare com a nota de rodapé em Ap 3:4.) Jesus tornou conhecido o nome de Deus não apenas por usar o nome dele, mas também por revelar os propósitos, as atividades e as qualidades da Pessoa por trás desse nome. O que Jesus disse em seguida, e o tornarei conhecido, também poderia ser traduzido como “e continuarei a torná-lo conhecido”. Assim, ele indicou que o nome de Deus teria cada vez mais significado para seus seguidores.
+====
+
+'''
+
+xref:043-joao/043-joao-016.adoc#v43-16-0[&#60; Capítulo Anterior] | <<v43-17-0,Topo>> | xref:043-joao/043-joao-018.adoc#v43-18-0[Próximo Capítulo &#62;]

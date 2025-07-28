@@ -1,0 +1,433 @@
+include::./index.adoc[]
+
+[[v40-24-0]]
+=== As Boas Novas Segundo Mateus, 24
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* L. A profecia de Jesus sobre o sinal de sua presença (24:1–25:46)
+* Discípulos perguntam a Jesus qual será o sinal da presença dele (24:1-3)
+* Acontecimentos que fazem parte do sinal e da grande tribulação (24:4-22)
+* Falsos cristos (24:23-28)
+* Vinda do Filho do Homem (24:29-31)
+* Ilustração da figueira (24:32, 33)
+* Esta geração não passará (24:34, 35)
+* Ninguém sabe o dia e a hora; a presença de Jesus será como os dias de Noé (24:36-39)
+* Mantenham-se vigilantes (24:40-44)
+* Escravo fiel e prudente; características do escravo mau (24:45-51)
+* Ilustração das dez virgens (25:1-13)
+* Ilustração dos talentos (25:14-30)
+* Ilustração das ovelhas e dos cabritos (25:31-46)
+****
+
+[[v40-24-1]]
+
+^<<v40-24-1,1>>^ Quando Jesus estava saindo do templo, seus discípulos se aproximaram para lhe mostrar os edifícios do templo.
+
+[[v40-24-2]]
+
+^<<v40-24-2,2>>^ Em vista disso, ele lhes disse: “Não estão vendo todas estas coisas? Eu lhes digo a verdade: De modo algum ficará aqui pedra sobre pedra sem ser derrubada.”
+
+[TIP]
+====
+- *Eu lhes digo a verdade*: Veja a nota de estudo em Mt 5:18.
+- *De modo algum ficará aqui pedra sobre pedra*: A profecia de Jesus se cumpriu de modo impressionante em 70 d.C., quando os exércitos de Roma destruíram Jerusalém e o templo. Eles derrubaram tudo o que havia na cidade, e sobraram apenas algumas partes da muralha.
+====
+
+[[v40-24-3]]
+
+^<<v40-24-3,3>>^ Enquanto ele estava sentado no monte das Oliveiras, os discípulos se aproximaram dele em particular e disseram: “Diga-nos: Quando acontecerão essas coisas e qual será o sinal da sua presença e do final do sistema de coisas?”
+
+[TIP]
+====
+- *monte das Oliveiras*: Fica ao leste de Jerusalém, do outro lado do vale do Cédron. Por ser um lugar mais alto, dali Jesus e os discípulos “Pedro, Tiago, João e André” (Mr 13:3, 4) podiam ver a cidade e o templo.
+- *presença*: A palavra grega parousía (traduzida em muitas Bíblias como “vinda” ou “volta”) significa literalmente “estar ao lado”. Não se refere simplesmente a vir ou chegar, mas sim a estar presente durante um período de tempo. Esse sentido de parousía é indicado por Mt 24:37-39, que compara “os dias de Noé . . . antes do dilúvio” com “a presença do Filho do Homem”. Paulo também usou essa palavra grega em Fil 2:12 ao fazer um contraste entre sua “presença” e sua “ausência”.
+- *final*: Ou: “conclusão”. Tradução da palavra grega syntéleia, que significa “fim conjunto; fim combinado; término simultâneo”. (Mt 13:39, 40, 49; 28:20; He 9:26) Essa palavra se refere a um período de tempo em que vários eventos aconteceriam juntos, levando ao “fim” completo (em grego, télos) mencionado em Mt 24:6, 14. — Veja as notas de estudo em Mt 24:6, 14 e o Glossário, “Final do sistema de coisas”.
+- *do sistema de coisas*: Ou: “da época”. Aqui, a palavra grega aión se refere a uma situação existente ou a características marcantes de certo período ou época. — Veja o Glossário, “Sistema(s) de coisas”.
+====
+
+[[v40-24-4]]
+
+^<<v40-24-4,4>>^ Jesus, em resposta, lhes disse: “Cuidado para que ninguém os engane,
+
+[[v40-24-5]]
+
+^<<v40-24-5,5>>^ pois muitos virão em meu nome, dizendo: ‘Eu sou o Cristo’, e enganarão a muitos.
+
+[TIP]
+====
+- *o Cristo*: Em grego, ho Khristós, título que equivale a “o Messias” (do hebraico mashíahh). Tanto “Cristo” como “Messias” significam “ungido”. O historiador judeu Josefo escreveu que no século 1 d.C. surgiram homens que afirmavam ser profetas ou libertadores e prometiam acabar com a opressão do Império Romano. Os seguidores desses homens talvez os encarassem como Messias políticos, ou seja, pessoas escolhidas por Deus para trazer liberdade política.
+====
+
+[[v40-24-6]]
+
+^<<v40-24-6,6>>^ Vocês ouvirão falar de guerras e notícias de guerras. Cuidado para não ficar apavorados, pois essas coisas têm de acontecer, mas ainda não é o fim.
+
+[TIP]
+====
+- *fim*: Ou: “fim completo”. A palavra grega usada aqui (télos) é diferente da palavra syntéleia, usada em Mt 24:3 e traduzida como “final”. — Veja a nota de estudo em Mt 24:3 e o Glossário, “Final do sistema de coisas”.
+====
+
+[[v40-24-7]]
+
+^<<v40-24-7,7>>^ “Porque nação se levantará contra nação e reino contra reino; haverá falta de alimentos e terremotos num lugar após outro.
+
+[TIP]
+====
+- *nação*: A palavra grega usada aqui, éthnos, é bem abrangente. Ela pode se referir a pessoas que vivem numa região com limites políticos ou geográficos definidos, como um país. Mas também pode se referir a um grupo étnico. — Veja a nota de estudo em Mt 24:14.
+- *se levantará*: Ou: “despertará; será instigada”. A palavra grega usada aqui transmite a ideia de “ir contra com hostilidade” e poderia ser traduzida também como “pegar em armas” ou “ir à guerra”.
+====
+
+[[v40-24-8]]
+
+^<<v40-24-8,8>>^ Todas essas coisas são um começo das dores de aflição.
+
+[TIP]
+====
+- *dores de aflição*: A palavra grega para “dores de aflição” se refere literalmente às dores bem fortes que a mulher sente quando está em trabalho de parto. Aqui, ela é usada para se referir de modo geral a aflição, dor e sofrimento. Mas essa palavra também pode indicar que, assim como as dores do parto, os problemas e o sofrimento vão aumentar em frequência, intensidade e duração antes da grande tribulação mencionada em Mt 24:21.
+====
+
+[[v40-24-9]]
+
+^<<v40-24-9,9>>^ “Então as pessoas os entregarão a tribulação e os matarão, e vocês serão odiados por todas as nações, por causa do meu nome.
+
+[TIP]
+====
+- *por causa do meu nome*: Na Bíblia, a palavra “nome” pode se referir à própria pessoa, à sua reputação e a tudo o que ela representa. (Veja a nota de estudo em Mt 6:9.) No caso de Jesus, o nome também envolve a autoridade que ele recebeu de Jeová e a posição que ele ocupa. (Mt 28:18; Fil 2:9, 10; He 1:3, 4) Neste versículo, Jesus explicou que as pessoas odiariam os seus discípulos por causa do que o nome dele representa, ou seja, por causa da posição que ele ocupa como o Rei dos reis, o Governante escolhido por Deus, a quem todas as pessoas devem se sujeitar para ganhar a vida. — Veja a nota de estudo em Jo 15:21.
+====
+
+[[v40-24-10]]
+
+^<<v40-24-10,10>>^ Então, também, muitos tropeçarão, e trairão uns aos outros, e odiarão uns aos outros.
+
+[TIP]
+====
+- *tropeçarão*: Nas Escrituras Gregas Cristãs, a palavra grega skandalízo se refere a tropeçar em sentido figurado, o que pode incluir pecar ou levar alguém a pecar. De acordo com o uso da palavra na Bíblia, o “tropeço” poderia envolver perder a fé, aceitar ensinamentos falsos ou desobedecer a uma das leis de moral de Deus. Neste versículo, a palavra skandalízo também poderia ser traduzida como “serão levados a pecar; se desviarão da fé”. Ela também pode ser usada com o sentido de “ficar ofendido”. — Veja as notas de estudo em Mt 13:57; 18:7.
+====
+
+[[v40-24-11]]
+
+^<<v40-24-11,11>>^ Surgirão muitos falsos profetas, que enganarão a muitos;
+
+[[v40-24-12]]
+
+^<<v40-24-12,12>>^ e, por causa do aumento do que é contra a lei, o amor da maioria esfriará.
+
+[TIP]
+====
+- *do que é contra a lei*: A palavra grega traduzida como ‘o que é contra a lei’ não inclui apenas a ideia de violação das leis, mas também de desprezo por elas; de as pessoas agirem como se não existissem leis. Na Bíblia, ela indica desrespeito pelas leis de Deus. — Mt 7:23; 2Co 6:14; 2Te 2:3-7; 1Jo 3:4.
+- *da maioria*: Não se refere apenas a “muitas” pessoas em geral, como algumas Bíblias traduzem, mas à “maioria” das pessoas influenciadas pelos “falsos profetas” e pelo “que é contra a lei”, como diz Mt 24:11, 12.
+====
+
+[[v40-24-13]]
+
+^<<v40-24-13,13>>^ Mas quem perseverar até o fim será salvo.
+
+[TIP]
+====
+- *perseverar*: Ou: “persevera”. O verbo grego traduzido como “perseverar” (hypoméno) significa literalmente “permanecer (ficar) embaixo”. Ele muitas vezes é usado no sentido de “ficar em vez de fugir; manter-se firme; permanecer; continuar decidido”. (Mt 10:22; Ro 12:12; He 10:32; Tg 5:11) Neste contexto, “perseverar” significa continuar agindo como discípulos de Cristo apesar de oposição ou dificuldades. — Mt 24:9-12.
+- *fim*: Veja as notas de estudo em Mt 24:6, 14.
+====
+
+[[v40-24-14]]
+
+^<<v40-24-14,14>>^ E estas boas novas do Reino serão pregadas em toda a terra habitada, em testemunho a todas as nações, e então virá o fim.
+
+[TIP]
+====
+- *estas boas novas*: A palavra grega euaggélion é formada por duas palavras: eu, que significa “bom; bem”, e ággelos, que significa “alguém que traz notícias; alguém que proclama (anuncia)”. (Veja o Glossário.) Em algumas Bíblias em português ela é traduzida como “evangelho”. Uma palavra relacionada, “evangelizador” (em grego, euaggelistés), significa “proclamador de boas novas (boas notícias)”. — At 21:8; notas de rodapé em Ef 4:11 e 2Ti 4:5.
+- *do Reino*: Ou seja, do Reino de Deus. Nas Escrituras Gregas Cristãs, as “boas novas” (veja a nota de estudo em estas boas novas neste versículo) estão diretamente ligadas ao Reino de Deus, que foi o tema da pregação e do ensino de Jesus. — Veja as notas de estudo em Mt 3:2; 4:23; Lu 4:43.
+- *pregadas*: Ou: “proclamadas publicamente”. — Veja a nota de estudo em Mt 3:1.
+- *toda a terra habitada . . . todas as nações*: As duas expressões destacam o alcance do trabalho de pregação. Em sentido amplo, a palavra grega para “terra habitada” (oikouméne) se refere à Terra como o lar da humanidade. (Lu 4:5; At 17:31; Ro 10:18; Ap 12:9; 16:14) Aqui, o foco da palavra está mais nos humanos que vivem na Terra do que no planeta em si. No século 1 d.C., essa palavra também era usada para se referir ao enorme território do Império Romano, por onde os judeus haviam sido espalhados. (Lu 2:1; At 24:5) Já a palavra grega traduzida como “nação” (éthnos), tem o sentido básico de um grupo de pessoas que têm algum tipo de parentesco, próximo ou distante, e que falam o mesmo idioma. As pessoas que formam uma nação ou grupo étnico geralmente moram em um território geográfico definido.
+- *em testemunho*: A palavra grega martýrion (testemunho) e outras palavras gregas relacionadas se referem a relatar fatos e acontecimentos ligados a um determinado assunto. (Veja a nota de estudo em At 1:8.) Jesus estava garantindo que todas as nações teriam a chance de ouvir as boas novas. Ele estava predizendo que seria dado um testemunho mundial sobre os acontecimentos relacionados ao Reino de Deus, incluindo o que o Reino realizaria. Ele indicou que a obra mundial de pregação sobre o Reino seria uma parte importante do “sinal da sua presença”. (Mt 24:3) O fato de Jesus ter dito que todas as nações receberiam esse testemunho significa apenas que elas teriam a chance de ouvir as boas novas, e não que esse testemunho as levaria a se converterem.
+- *fim*: Ou: “fim completo; fim definitivo”. — Veja as notas de estudo em Mt 24:3, 6.
+====
+
+[[v40-24-15]]
+
+^<<v40-24-15,15>>^ “Portanto, quando vocês virem a coisa repugnante que causa desolação, da qual falou Daniel, o profeta, estar^&#42;1^ num lugar santo (que o leitor use de discernimento),
+
+[NOTE]
+====
+. Ou: “estar de pé”.
+====
+
+[TIP]
+====
+- *a coisa repugnante que causa desolação*: O profeta Daniel predisse uma “desolação” que estaria ligada com uma “coisa repugnante” (Da 11:31; 12:11) ou “coisas repugnantes” (Da 9:27). Aqui neste versículo, Jesus indicou que “a coisa repugnante que causa desolação” ainda estava por vir. Trinta e três anos depois da morte de Jesus, os cristãos presenciaram o primeiro cumprimento dessa profecia quando viram a coisa repugnante estar num lugar santo. O relato paralelo em Lu 21:20 diz: “Quando virem Jerusalém cercada por exércitos acampados, então saibam que está próxima a desolação dela.” Em 66 d.C., exércitos romanos cercaram “a cidade santa”, Jerusalém, que era considerada pelos judeus como um lugar sagrado e era o centro da revolta contra Roma. (Mt 4:5; 27:53) Os cristãos que tinham discernimento reconheceram que o exército romano com suas bandeiras idólatras era “a coisa repugnante” e que esse era o cumprimento do último sinal para ‘fugirem para os montes’. (Mt 24:15, 16; Lu 19:43, 44; 21:20-22) Depois que os cristãos fugiram, os romanos destruíram, não só a cidade de Jerusalém, mas a nação inteira. A cidade foi destruída em 70 d.C., e o último foco de resistência, a fortaleza de Massada, caiu diante dos romanos em 73 d.C. (Compare com Da 9:25-27.) Esse primeiro cumprimento da profecia de Jesus aumenta a confiança de que o cumprimento maior dela também ocorrerá, incluindo a parte final, que fala da vinda de Jesus “nas nuvens do céu, com poder e grande glória”. (Mt 24:30) Apesar de Jesus ter afirmado que a profecia de Daniel se cumpriria depois de seus dias, muitos seguem a tradição judaica e aplicam essa profecia a um acontecimento anterior. Eles dizem que ela se cumpriu quando o rei sírio Antíoco IV (Epifânio) profanou o templo em Jerusalém em 168 a.C. O rei Antíoco tentou eliminar a adoração de Jeová, chegando a construir um altar em cima do grande altar de Jeová, onde sacrificou porcos como oferta ao deus pagão Zeus. (Veja a nota de estudo em Jo 10:22.) O livro apócrifo de 1 Macabeus (1:54) tem uma declaração parecida com a de Daniel, associando coisas repugnantes com desolação, e aplica isso ao que aconteceu em 168 a.C. Mas tanto a tradição judaica como o relato em 1 Macabeus são interpretações humanas e não foram inspiradas por Deus. Aquilo que Antíoco fez, profanando o templo, foi realmente repugnante, mas não resultou na destruição de Jerusalém, do templo ou da nação judaica.
+- *lugar santo*: No primeiro cumprimento dessa profecia, se refere a Jerusalém e ao templo. — Veja a nota de estudo em Mt 4:5.
+- *(que o leitor use de discernimento)*: É sempre necessário usar de discernimento ao estudar a Bíblia. Mas, aqui, Jesus parece estar indicando que o discernimento seria ainda mais necessário para perceber o cumprimento dessa parte da profecia de Daniel. Jesus estava alertando seus discípulos de que o cumprimento dela ainda estava no futuro. — Veja a nota de estudo em a coisa repugnante que causa desolação neste versículo.
+====
+
+[[v40-24-16]]
+
+^<<v40-24-16,16>>^ então, os que estiverem na Judeia fujam para os montes.
+
+[TIP]
+====
+- *Judeia*: Ou seja, a província romana da Judeia.
+- *para os montes*: De acordo com o historiador Eusébio, que viveu no século 4 d.C., os cristãos da Judeia e de Jerusalém cruzaram o rio Jordão e fugiram para Pela, uma cidade que ficava numa região montanhosa em Decápolis.
+====
+
+[[v40-24-17]]
+
+^<<v40-24-17,17>>^ O homem que estiver no terraço não desça para tirar da sua casa os bens,
+
+[TIP]
+====
+- *no terraço*: As casas tinham um terraço que podia ser usado para várias coisas, como por exemplo, estocar materiais (Jos 2:6), descansar ou relaxar (2Sa 11:2), dormir (1Sa 9:26) e celebrar as festividades religiosas (Ne 8:16-18). É por isso que a Lei mosaica exigia que os terraços tivessem um parapeito. (De 22:8) Geralmente, os terraços tinham uma escada externa que permitia descer direto para a rua, sem precisar passar por dentro da casa. Isso ajuda a entender o que Jesus estava dizendo: seus discípulos precisariam fugir com a máxima urgência.
+====
+
+[[v40-24-18]]
+
+^<<v40-24-18,18>>^ e o homem que estiver no campo não volte para apanhar sua capa.
+
+[[v40-24-19]]
+
+^<<v40-24-19,19>>^ Ai das mulheres grávidas e das que amamentarem naqueles dias!
+
+[[v40-24-20]]
+
+^<<v40-24-20,20>>^ Persistam em orar para que a sua fuga não ocorra no inverno nem no sábado;
+
+[TIP]
+====
+- *no inverno*: Nessa estação do ano ocorriam chuvas fortes e enchentes, e fazia muito frio. Isso tornava mais difícil viajar e encontrar alimento e abrigo. — Esd 10:9, 13.
+- *no sábado*: Em territórios como a Judeia, as restrições relacionadas com a lei do sábado tornavam mais difícil que uma pessoa viajasse grandes distâncias e transportasse cargas. Além disso, os portões das cidades ficavam fechados durante o sábado. — Veja At 1:12 e o Apêndice B12-A.
+====
+
+[[v40-24-21]]
+
+^<<v40-24-21,21>>^ pois então haverá grande tribulação, como nunca ocorreu desde o princípio do mundo até agora, não, nem ocorrerá de novo.
+
+[[v40-24-22]]
+
+^<<v40-24-22,22>>^ De fato, se não se abreviassem aqueles dias, ninguém seria salvo; mas, por causa dos escolhidos, aqueles dias serão abreviados.
+
+[[v40-24-23]]
+
+^<<v40-24-23,23>>^ “Então, se alguém lhes disser: ‘Vejam! Aqui está o Cristo!’ ou: ‘Ali!’, não acreditem.
+
+[[v40-24-24]]
+
+^<<v40-24-24,24>>^ Porque surgirão falsos cristos e falsos profetas, e farão grandes sinais e milagres a fim de enganar, se possível, até mesmo os escolhidos.
+
+[TIP]
+====
+- *falsos cristos*: Ou: “falsos messias”. A palavra grega pseudókhristos aparece apenas aqui e no relato paralelo de Mr 13:22. Ela se refere a qualquer pessoa que diz ser o Cristo, ou o Messias (lit.: “ungido”), mas na verdade não é.— Veja a nota de estudo em Mt 24:5.
+====
+
+[[v40-24-25]]
+
+^<<v40-24-25,25>>^ Prestem atenção! Eu os avisei antecipadamente.
+
+[TIP]
+====
+- *Prestem atenção!*: Ou: “Vejam!” Veja a nota de estudo em Mt 1:23.
+====
+
+[[v40-24-26]]
+
+^<<v40-24-26,26>>^ Portanto, se lhes disserem: ‘Vejam, ele está no deserto!’, não saiam; ou: ‘Vejam, ele está no interior da casa!’,^&#42;1^ não acreditem.
+
+[NOTE]
+====
+. Ou: “nos aposentos internos”.
+====
+
+[[v40-24-27]]
+
+^<<v40-24-27,27>>^ Pois, assim como o relâmpago sai do leste e brilha até o oeste, assim será a presença do Filho do Homem.
+
+[TIP]
+====
+- *presença*: Veja a nota de estudo em Mt 24:3.
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v40-24-28]]
+
+^<<v40-24-28,28>>^ Onde estiver o cadáver, ali se ajuntarão as águias.
+
+[[v40-24-29]]
+
+^<<v40-24-29,29>>^ “Imediatamente depois da tribulação daqueles dias, o sol escurecerá, a lua não dará a sua luz, as estrelas cairão do céu, e os poderes dos céus serão abalados.
+
+[[v40-24-30]]
+
+^<<v40-24-30,30>>^ Então aparecerá no céu o sinal do Filho do Homem, e todas as tribos da terra então baterão no peito, de pesar, e verão o Filho do Homem vir nas nuvens do céu, com poder e grande glória.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “com grande poder e glória”.
+====
+
+[TIP]
+====
+- *o sinal do Filho do Homem*: Este sinal não é o mesmo que ‘o sinal da presença de Jesus’, mencionado em Mt 24:3. O sinal do Filho do Homem está ligado com a ‘vinda’ de Jesus como Juiz para proferir sentença e executar julgamento durante a grande tribulação. — Veja a nota de estudo em vir neste versículo.
+- *baterão no peito, de pesar*: Ou: “lamentarão”. Nos tempos bíblicos, era costume bater repetidamente no peito para expressar tristeza profunda, culpa ou arrependimento. — Is 32:12; Na 2:7; Lu 23:48.
+- *verão*: O verbo grego traduzido como “ver” pode significar literalmente “ver um objeto; olhar; observar”, mas também pode ser usado como uma metáfora com o sentido de “ver com a mente”, ou seja, “entender; perceber”. — Ef 1:18.
+- *vir*: Esta é a primeira das oito referências feitas à vinda de Jesus nos capítulos 24 e 25 de Mateus. (Mt 24:42, 44, 46; 25:10, 19, 27, 31) Em todas elas, foi usada uma forma do verbo grego érkhomai (vir). Aqui, o verbo tem o sentido de “voltar a atenção para a humanidade” e se refere, mais especificamente, a Jesus “vir” como Juiz para proferir sentença e executar julgamento durante a grande tribulação.
+- *nas nuvens do céu*: As nuvens geralmente dificultam a visão em vez de facilitar, mas os observadores ‘veriam’ em sentido figurado, ou seja, entenderiam o significado dos acontecimentos. — At 1:9.
+====
+
+[[v40-24-31]]
+
+^<<v40-24-31,31>>^ E ele enviará seus anjos com forte som de trombeta, e eles reunirão os seus escolhidos desde os quatro ventos, de uma extremidade dos céus até a outra extremidade deles.
+
+[TIP]
+====
+- *os quatro ventos*: Expressão idiomática que se refere aos quatro pontos cardeais (norte, sul, leste e oeste) e quer dizer “todas as direções; todo lugar”. — Je 49:36; Ez 37:9; Da 8:8.
+====
+
+[[v40-24-32]]
+
+^<<v40-24-32,32>>^ “Aprendam desta ilustração sobre a figueira: assim que os ramos novos ficam tenros e brotam folhas, vocês sabem que o verão está próximo.
+
+[TIP]
+====
+- *ilustração*: Ou: “parábola; lição”. — Veja a nota de estudo em Mt 13:3.
+====
+
+[[v40-24-33]]
+
+^<<v40-24-33,33>>^ Do mesmo modo, quando virem todas essas coisas, saibam que ele está próximo, às portas.
+
+[TIP]
+====
+- *ele*: Ou seja, o Filho do Homem.
+====
+
+[[v40-24-34]]
+
+^<<v40-24-34,34>>^ Eu lhes garanto que esta geração de modo algum passará até que todas essas coisas aconteçam.
+
+[[v40-24-35]]
+
+^<<v40-24-35,35>>^ Céu e terra passarão, mas as minhas palavras de modo algum passarão.
+
+[TIP]
+====
+- *Céu e terra passarão*: Outros textos bíblicos mostram que o céu e a terra literais vão durar para sempre. (Gên 9:​16; Sal 104:5; Ec 1:4) Assim, essas palavras de Jesus podem ser entendidas como uma hipérbole. Ou seja, mesmo se acontecesse o impossível (se o céu e a terra de fato passassem, ou deixassem de existir), ainda assim as palavras dele se cumpririam. (Compare com Mt 5:​18.) Mas é bem possível que o céu e a terra mencionados aqui se refiram ao céu e à terra simbólicos, chamados de “o céu anterior e a terra anterior” em Ap 21:1.
+- *as minhas palavras de modo algum passarão*: Ou: “as minhas palavras com certeza não passarão”. Aqui, o texto grego usa junto com o verbo duas palavras que significam “não”, negando de modo enfático a ideia apresentada. Essa construção deixa bem claro que as palavras de Jesus se cumpririam com certeza.
+====
+
+[[v40-24-36]]
+
+^<<v40-24-36,36>>^ “A respeito daquele dia e daquela hora ninguém sabe, nem os anjos dos céus, nem o Filho, mas somente o Pai.
+
+[[v40-24-37]]
+
+^<<v40-24-37,37>>^ Pois, assim como eram os dias de Noé, assim será a presença do Filho do Homem.
+
+[TIP]
+====
+- *os dias de Noé*: A Bíblia às vezes usa a expressão “os dias de” para se referir à época em que uma determinada pessoa viveu. (Is 1:1; Je 1:2, 3; Lu 17:28) Aqui, Jesus comparou “os dias de Noé” com a presença do Filho do Homem. Ao falar do mesmo assunto em outra ocasião, ele usou a expressão “nos dias do Filho do Homem”. (Lu 17:26) Jesus comparou sua presença com “os dias de Noé”, que duraram anos, e não apenas com o dia em que o Dilúvio começou. Assim, faz sentido acreditar que “a presença [ou, “os dias”] do Filho do Homem” também envolva um período de anos. Mas, da mesma forma que os dias de Noé tiveram um clímax quando chegou o Dilúvio, a “presença” de Jesus (seus “dias”) também terá um clímax quando todos os que não tiverem buscado a salvação forem destruídos. — Veja a nota de estudo em Mt 24:3.
+- *presença*: Veja a nota de estudo em Mt 24:3.
+====
+
+[[v40-24-38]]
+
+^<<v40-24-38,38>>^ Porque naqueles dias antes do dilúvio as pessoas comiam e bebiam, os homens se casavam e as mulheres eram dadas em casamento, até o dia em que Noé entrou na arca,
+
+[TIP]
+====
+- *dilúvio*: Ou: “grande inundação; cataclismo”. A palavra grega kataklysmós passa a ideia de uma grande enchente que causa muita destruição. A Bíblia usa essa palavra quando se refere ao Dilúvio dos dias de Noé. — Mt 24:39; Lu 17:27; 2Pe 2:5.
+- *arca*: A palavra grega usada aqui também pode ser traduzida como “baú; caixa” e pode indicar que a arca parecia uma caixa bem grande. A Vulgata usa aqui a palavra latina arca, que tem o mesmo significado e deu origem à palavra portuguesa “arca”.
+====
+
+[[v40-24-39]]
+
+^<<v40-24-39,39>>^ e não fizeram caso, até que veio o dilúvio e varreu a todos eles; assim será na presença do Filho do Homem.
+
+[[v40-24-40]]
+
+^<<v40-24-40,40>>^ Dois homens estarão então no campo; um será levado e o outro será abandonado.
+
+[TIP]
+====
+- *será levado . . . será abandonado*: Veja a nota de estudo em Lu 17:34.
+====
+
+[[v40-24-41]]
+
+^<<v40-24-41,41>>^ Duas mulheres estarão moendo no moinho manual; uma será levada e a outra será abandonada.
+
+[[v40-24-42]]
+
+^<<v40-24-42,42>>^ Portanto, mantenham-se vigilantes, porque vocês não sabem em que dia virá o seu Senhor.
+
+[TIP]
+====
+- *mantenham-se vigilantes*: A palavra grega usada aqui tem o sentido básico de “ficar (continuar) acordado”, mas em muitos contextos quer dizer “ficar alerta; estar atento”. Mateus usa essa palavra em Mt 24:43; 25:13 e 26:38, 40, 41. Em Mt 24:44, ele relaciona essa atitude vigilante com a necessidade de estar “prontos”. — Veja a nota de estudo em Mt 26:38.
+====
+
+[[v40-24-43]]
+
+^<<v40-24-43,43>>^ “Mas entendam isto: se o dono da casa soubesse em que vigília^&#42;1^ o ladrão viria, ficaria acordado e não permitiria que sua casa fosse arrombada.
+
+[NOTE]
+====
+. Ou: “a que hora da noite”.
+====
+
+[[v40-24-44]]
+
+^<<v40-24-44,44>>^ Por essa razão, vocês também mostrem-se prontos, porque o Filho do Homem vem numa hora que vocês não imaginam.
+
+[[v40-24-45]]
+
+^<<v40-24-45,45>>^ “Quem é realmente o escravo fiel e prudente, a quem o seu senhor encarregou dos seus domésticos, para lhes dar o alimento no tempo apropriado?
+
+[TIP]
+====
+- *escravo*: Em sua ilustração, Jesus usou a palavra “escravo” no singular, mas isso não quer dizer que ele estivesse se referindo a apenas uma pessoa. A Bíblia às vezes usa palavras no singular para se referir a grupos. Um exemplo disso está em Is 43:10, onde Jeová disse à nação de Israel: “Vocês são as minhas testemunhas [plural] . . . sim, meu servo [singular] a quem escolhi.” Em outra ocasião, registrada em Lu 12:42, Jesus fez uma ilustração sobre o mesmo assunto e chamou o escravo de “administrador fiel, o prudente”. — Veja a nota de estudo em Lu 12:42.
+- *prudente*: A palavra grega usada aqui passa a ideia de alguém que tem entendimento e é perspicaz, prevenido, discernidor, sensato, sábio e prático. A mesma palavra grega é usada em Mt 7:24 e 25:2, 4, 8, 9. A Septuaginta usa essa palavra em Gên 41:33, 39 para se referir a José.
+- *seus domésticos*: Ou: “seus servos domésticos”. Refere-se a todos os que trabalham na casa do senhor, ou amo.
+====
+
+[[v40-24-46]]
+
+^<<v40-24-46,46>>^ Feliz aquele escravo se o seu senhor, quando vier, o encontrar fazendo isso!
+
+[TIP]
+====
+- *vier*: Veja a nota de estudo em Mt 24:30.
+====
+
+[[v40-24-47]]
+
+^<<v40-24-47,47>>^ Digo a verdade a vocês: Ele o encarregará de todos os seus bens.
+
+[[v40-24-48]]
+
+^<<v40-24-48,48>>^ “Mas, se aquele escravo mau disser no coração: ‘Meu senhor está demorando’,
+
+[TIP]
+====
+- *aquele escravo mau*: Neste versículo, Jesus estava, na verdade, dando um alerta para o escravo fiel e prudente, mencionado em Mt 24:45. Ele não estava predizendo ou determinando que existiria um “escravo mau”. Em vez disso, ele estava alertando o escravo fiel sobre o que aconteceria se ele começasse a desenvolver características de um escravo mau. Se aquele escravo fosse infiel, seria punido “com a maior severidade”. — Mt 24:51; veja a nota de estudo em Lu 12:45.
+====
+
+[[v40-24-49]]
+
+^<<v40-24-49,49>>^ e começar a espancar seus coescravos, e a comer e beber com os beberrões,
+
+[[v40-24-50]]
+
+^<<v40-24-50,50>>^ o senhor daquele escravo virá num dia em que ele não espera e numa hora que ele não sabe;
+
+[[v40-24-51]]
+
+^<<v40-24-51,51>>^ ele o punirá com a maior severidade e lhe designará um lugar entre os hipócritas. Ali é que haverá o seu choro e o ranger dos seus dentes.
+
+[TIP]
+====
+- *o punirá com a maior severidade*: Lit.: “o cortará em dois”. É claro que essa expressão forte não deve ser entendida literalmente. Ela transmite a ideia de um castigo bem severo.
+- *hipócritas*: Veja a nota de estudo em Mt 6:2.
+- *ranger dos seus dentes*: Veja a nota de estudo em Mt 8:12.
+====
+
+'''
+
+xref:040-mateus/040-mateus-023.adoc#v40-23-0[&#60; Capítulo Anterior] | <<v40-24-0,Topo>> | xref:040-mateus/040-mateus-025.adoc#v40-25-0[Próximo Capítulo &#62;]

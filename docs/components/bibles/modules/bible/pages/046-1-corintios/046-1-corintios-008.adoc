@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v46-8-0]]
+=== A Primeira aos Coríntios, 8
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. PENSAR NO BEM-ESTAR ESPIRITUAL DE OUTROS CRISTÃOS (8:1–11:1)
+* 1. Sobre os alimentos oferecidos a ídolos (8:1-13)
+* O amor é superior ao conhecimento (8:1-3)
+* Não fazer outros tropeçar na questão de comer alimentos oferecidos a ídolos (8:4-13)
+* 2. O exemplo de Paulo como apóstolo (9:1-27)
+* Ministros cristãos têm direito de receber ajuda material (9:1-18)
+* Tornar-se todas as coisas para pessoas de todo tipo (9:19-23)
+* É necessário ter autodomínio na corrida pela vida (9:24-27)
+* 3. Exemplos da história de Israel que servem de alerta (10:1-22)
+* Os israelitas no deserto (10:1-5)
+* Avisos contra ganância, idolatria, imoralidade e outras coisas más (10:6-11)
+* Ninguém é tentado além do que pode suportar (10:12, 13)
+* “Fujam da idolatria”; rejeitem a mesa de demônios (10:14-22)
+* 4. Ter consideração pelos outros ao usar a liberdade cristã (10:23–11:1)
+* “Tudo é permitido, mas nem tudo edifica” (10:23, 24)
+* Levar em conta a consciência de outros (10:25-30)
+* Fazer todas as coisas para a glória de Deus; imitar Paulo e Cristo (10:31–11:1)
+****
+
+[[v46-8-1]]
+
+^<<v46-8-1,1>>^ Agora, sobre os alimentos oferecidos a ídolos: sabemos que todos nós temos conhecimento. O conhecimento enche a pessoa de orgulho, mas o amor edifica.
+
+[TIP]
+====
+- *Agora, sobre os alimentos oferecidos a ídolos*: No século 1 d.C., os gregos e os romanos sacrificavam animais aos ídolos. Nesses sacrifícios, partes do animal eram colocadas sobre o altar. Uma parte da carne ia para os sacerdotes e outra parte ia para os adoradores, que comiam a carne em uma refeição ou uma festa. A carne que sobrava era muitas vezes vendida no “açougue”. (1Co 10:25) Os cristãos de Corinto tinham escrito para Paulo, perguntando se era certo comer essa carne. (1Co 7:1a) Inspirado pelo espírito santo, Paulo os ajudou a entender que, para cristãos maduros, “o ídolo não é nada”. (1Co 8:4) Mesmo assim, ele mostrou que não seria aconselhável ir a um templo para comer carne, já que isso poderia passar uma impressão errada para os cristãos mais fracos. Eles talvez pensassem que seu irmão estava adorando no templo, e isso poderia fazer alguns deles tropeçar ou até mesmo achar que podiam comer carne numa cerimônia religiosa. (1Co 5:9, 10; 8:9, 10) Se alguém comesse carne numa cerimônia assim, ele estaria desobedecendo a ordem do corpo governante registrada em At 15:28, 29. — Veja as notas de estudo em 1Co 8:4; 10:25.
+====
+
+[[v46-8-2]]
+
+^<<v46-8-2,2>>^ Se alguém pensa que conhece alguma coisa, ainda não conhece como deveria.
+
+[[v46-8-3]]
+
+^<<v46-8-3,3>>^ Mas, se alguém ama a Deus, esse é conhecido por ele.
+
+[[v46-8-4]]
+
+^<<v46-8-4,4>>^ Quanto a comer alimentos oferecidos a ídolos, sabemos que o ídolo não é nada no mundo,^&#42;1^ e que não há outro Deus, senão um só.
+
+[NOTE]
+====
+. Ou: “não é absolutamente nada”.
+====
+
+[TIP]
+====
+- *Quanto a comer alimentos oferecidos a ídolos*: A palavra grega traduzida aqui como “alimentos oferecidos a ídolos” também aparece em At 15:29, onde foi traduzida como “coisas sacrificadas a ídolos”. Essa palavra tem um sentido amplo e pode se referir tanto à carne que era usada numa cerimônia religiosa como à carne que sobrava desse tipo de sacrifício. Aqui, Paulo está se referindo especificamente à carne que sobrava e era vendida no açougue. (1Co 10:25) É claro que, neste capítulo (e em 1 Coríntios 10 e Romanos 14), Paulo não estava dando a entender que os cristãos podiam participar em atos de idolatria ou em festas em homenagem a ídolos. Em vez disso, Paulo foi inspirado a escrever que, se a carne estava sendo vendida ao público em geral, ela podia ser consumida pelo cristão numa refeição comum como se fosse qualquer outra carne. A carne não se tornava impura simplesmente porque tinha vindo de um templo. — Veja as notas de estudo em 1Co 8:1; 10:25.
+====
+
+[[v46-8-5]]
+
+^<<v46-8-5,5>>^ Pois, embora haja os que são chamados deuses, quer no céu, quer na terra, assim como há muitos “deuses” e muitos “senhores”,
+
+[TIP]
+====
+- *muitos “deuses”*: As Escrituras Gregas Cristãs usam a mesma palavra grega, theós (no singular, plural, masculino e feminino), para se referir tanto a deuses e deusas pagãos quanto ao Deus verdadeiro. (At 7:40; 14:11; 19:27, 37; Fil 3:19) Mas Jeová é o Deus todo-poderoso, o único “Deus, o Pai, de quem procedem todas as coisas, e nós existimos para ele”. (1Co 8:6) Jeová se distingue dos deuses falsos por revelar o seu nome. Ele tem direito de receber devoção exclusiva e exige isso. — Êx 20:4, 5.
+====
+
+[[v46-8-6]]
+
+^<<v46-8-6,6>>^ para nós há realmente um só Deus, o Pai, de quem procedem todas as coisas, e nós existimos para ele; e há um só Senhor, Jesus Cristo, por meio de quem são todas as coisas, e nós existimos por meio dele.
+
+[TIP]
+====
+- *um só Deus*: Esta expressão faz lembrar várias declarações das Escrituras Hebraicas que destacam que Jeová é sem igual e é o único Deus verdadeiro. Por exemplo, em De 6:4, Moisés disse: “Jeová, nosso Deus, é um só Jeová.” Além disso, em De 32:39, Moisés recitou num cântico as seguintes palavras de Jeová: “Não há outros deuses além de mim.” — Is 43:10, 11; 44:6; 45:6; veja a nota de estudo em Mr 12:29.
+====
+
+[[v46-8-7]]
+
+^<<v46-8-7,7>>^ No entanto, nem todos têm esse conhecimento. Mas alguns, devido à familiaridade que tinham com os ídolos, comem o alimento como algo sacrificado a um ídolo, e a consciência deles, que é fraca, fica contaminada.
+
+[TIP]
+====
+- *consciência*: Veja a nota de estudo em Ro 2:15.
+====
+
+[[v46-8-8]]
+
+^<<v46-8-8,8>>^ Mas o alimento não nos aproximará de Deus; não seremos piores se não comermos, nem melhores se comermos.
+
+[[v46-8-9]]
+
+^<<v46-8-9,9>>^ Tomem cuidado, porém, para que o seu direito de escolha não se torne de algum modo uma pedra de tropeço para os que são fracos.
+
+[[v46-8-10]]
+
+^<<v46-8-10,10>>^ Pois, se alguém vir você, que tem conhecimento, tomando uma refeição no templo de um ídolo, será que a consciência daquele que é fraco não ficará ousada a ponto de ele comer alimentos oferecidos a ídolos?
+
+[[v46-8-11]]
+
+^<<v46-8-11,11>>^ Assim, pelo conhecimento que você tem, está sendo arruinado aquele que é fraco, seu irmão pelo qual Cristo morreu.
+
+[[v46-8-12]]
+
+^<<v46-8-12,12>>^ Quando vocês pecam assim contra os seus irmãos e ferem a consciência fraca deles, estão pecando contra Cristo.
+
+[[v46-8-13]]
+
+^<<v46-8-13,13>>^ É por isso que, se o alimento fizer o meu irmão tropeçar, nunca mais comerei carne alguma, para que eu não faça o meu irmão tropeçar.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-007.adoc#v46-7-0[&#60; Capítulo Anterior] | <<v46-8-0,Topo>> | xref:046-1-corintios/046-1-corintios-009.adoc#v46-9-0[Próximo Capítulo &#62;]

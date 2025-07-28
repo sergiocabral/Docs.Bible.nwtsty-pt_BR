@@ -1,0 +1,457 @@
+include::./index.adoc[]
+
+[[v44-7-0]]
+=== Atos dos Apóstolos, 7
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. O ministério da palavra não deve ser negligenciado (6:1–7:1)
+* Reclamações sobre a distribuição de alimento às viúvas (6:1)
+* Os Doze escolhem sete homens para supervisionar a distribuição de alimento às viúvas (6:2-7)
+* Estêvão, um dos sete homens escolhidos, é acusado de blasfêmia e levado diante do Sinédrio (6:8–7:1)
+* F. Estêvão defende sua fé diante do Sinédrio (7:2-60)
+* Estêvão faz um resumo da época dos patriarcas (7:2-16)
+* Estêvão fala sobre o começo da vida de Moisés, sobre o papel de Moisés como líder e sobre a idolatria de Israel (7:17-43)
+* Estêvão destaca que Deus não vive em templos feitos por mãos humanas (7:44-50)
+* Estêvão acusa seus inimigos de resistir ao espírito santo (7:51-53)
+* Estêvão vê Jesus e Jeová em uma visão; ele é apedrejado até a morte por seus inimigos (7:54-60)
+****
+
+[[v44-7-1]]
+
+^<<v44-7-1,1>>^ Mas o sumo sacerdote perguntou: “Isso é verdade?”
+
+[TIP]
+====
+- *o sumo sacerdote*: Ou seja, Caifás. — Veja a nota de estudo em At 4:6.
+====
+
+[[v44-7-2]]
+
+^<<v44-7-2,2>>^ Estêvão respondeu: “Homens, irmãos e pais, escutem! O Deus glorioso apareceu ao nosso antepassado Abraão enquanto ele estava na Mesopotâmia, antes de ir morar em Harã,
+
+[[v44-7-3]]
+
+^<<v44-7-3,3>>^ e lhe disse: ‘Deixe a sua terra e os seus parentes e vá para a terra que lhe mostrarei.’
+
+[TIP]
+====
+- *Deixe a sua terra*: Em sua resposta ao Sinédrio, Estêvão disse o seguinte sobre quando esta ordem foi dada: “O Deus glorioso apareceu ao nosso antepassado Abraão enquanto ele estava na Mesopotâmia, antes de ir morar em Harã.” (At 7:2) Abraão (antes conhecido como Abrão) era da cidade caldeia de Ur. De acordo com as palavras de Estêvão, foi enquanto Abraão ainda estava na Mesopotâmia, pelo visto em Ur, que ele recebeu pela primeira vez a ordem de deixar sua terra. (Gên 11:28, 29, 31; 15:7; 17:5; Ne 9:7) Por outro lado, o relato em Gên 11:31–12:3 pode dar a impressão de que Abraão só recebeu essa ordem depois da morte de seu pai, Tera, quando eles estavam morando temporariamente em Harã. Levando em conta os dois relatos, é razoável concluir que Jeová deu a ordem para Abraão quando ele ainda estava em Ur, e depois repetiu essa ordem quando ele estava em Harã.
+====
+
+[[v44-7-4]]
+
+^<<v44-7-4,4>>^ Ele saiu então da terra dos caldeus e foi morar em Harã. E dali, depois da morte do pai dele, Deus o fez se mudar para esta terra em que vocês moram agora.
+
+[TIP]
+====
+- *Deus*: Lit.: “Ele”. Refere-se ao “Deus glorioso” mencionado no versículo 2.
+====
+
+[[v44-7-5]]
+
+^<<v44-7-5,5>>^ Contudo, não lhe deu nenhuma herança nela, não, nem mesmo um espaço para pôr o pé; mas prometeu dá-la a ele como propriedade e, depois dele, à sua descendência,^&#42;1^ embora ele ainda não tivesse filho.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v44-7-6]]
+
+^<<v44-7-6,6>>^ Além disso, Deus lhe disse que seus descendentes seriam estrangeiros^&#42;1^ numa terra que não era deles, e que o povo os escravizaria e afligiria^&#42;2^ por 400 anos.
+
+[NOTE]
+====
+. Lit.: “sua semente seria estrangeira”.
+. Ou: “maltrataria”.
+====
+
+[TIP]
+====
+- *os escravizaria e afligiria por 400 anos*: Esta é uma citação de Gên 15:13, onde Jeová disse para Abrão (Abraão) que seus descendentes seriam escravizados e afligidos por 400 anos. Como esse período terminou em 14 de nisã de 1513 a.C., quando Jeová libertou os israelitas da escravidão no Egito, é possível concluir que os 400 anos começaram em 1913 a.C. A cronologia bíblica indica que nesse ano Isaque, filho de Abraão, tinha uns 5 anos. Nessa época, seu meio-irmão, Ismael, tinha uns 19 anos e começou a maltratar Isaque e a zombar dele. Ismael era filho de Abraão com Agar, a escrava egípcia de Sarai (Sara). Apesar de Ismael ser o primeiro filho de Abraão, era Isaque que receberia a herança de primogênito, e esse talvez fosse o motivo de Ismael maltratar seu irmão. (Gên 16:1-4; 21:8-10) O apóstolo Paulo mais tarde disse que Ismael ‘perseguia’ Isaque. (Gál 4:29) O que Ismael fez deve ter sido grave, porque Jeová concordou quando Sara exigiu que Abraão expulsasse Ismael e Agar. (Gên 21:11-13) Assim, Isaque foi o primeiro descendente de Abraão a sofrer a ‘aflição’ que tinha sido predita. Essa ocasião, registrada em detalhes no relato inspirado de Gênesis 21, pelo visto marca o começo do período de 400 anos de aflição que terminaria com a saída dos israelitas do Egito.
+====
+
+[[v44-7-7]]
+
+^<<v44-7-7,7>>^ ‘E eu julgarei aquela nação para a qual eles trabalharão como escravos’, disse Deus, ‘e, depois disso, eles sairão e me prestarão serviço sagrado neste lugar’.
+
+[TIP]
+====
+- *prestarão serviço sagrado*: Ou: “adorarão”. O verbo grego usado aqui, latreúo, tem o sentido básico de “servir”, mas em certos contextos pode ser traduzido como “adorar”. A segunda parte deste versículo faz referência a Êx 3:12, onde o verbo hebraico correspondente pode ser traduzido como “servir” ou “adorar”. (Êx 3:12; nota de rodapé) Na Bíblia, latreúo geralmente se refere a prestar serviço a Deus ou a trabalhar em serviços relacionados com a adoração dele (Mt 4:10; Lu 1:74; 2:37; 4:8; Ro 1:9; Fil 3:3; 2Ti 1:3; He 9:14; 12:28; Ap 7:15; 22:3), como, por exemplo, os serviços que eram feitos no santuário ou no templo (He 8:5; 9:9; 10:2; 13:10). Em alguns poucos casos, essa palavra é usada com relação à adoração falsa, ou seja, a servir ou adorar coisas criadas. — At 7:42; Ro 1:25.
+====
+
+[[v44-7-8]]
+
+^<<v44-7-8,8>>^ “Deu-lhe também um pacto de circuncisão, e ele se tornou pai de Isaque e o circuncidou no oitavo dia, e Isaque se tornou pai de Jacó, e Jacó dos 12 patriarcas.
+
+[TIP]
+====
+- *e Isaque se tornou pai de Jacó*: Logo antes neste versículo, foram usados dois verbos gregos, traduzidos como “se tornou pai de” e “circuncidou”. Mas aqui o texto grego não repete nenhum dos dois verbos. Por isso, a parte final do versículo pode estar se referindo a qualquer um deles ou aos dois. Assim, outra possibilidade de tradução para essa parte seria “e Isaque fez o mesmo com [ou seja, circuncidou] Jacó, e Jacó com os 12 patriarcas”.
+- *patriarcas*: Ou: “chefes de família”. A palavra grega patriárkhes aparece quatro vezes nas Escrituras Gregas Cristãs. Aqui, ela se refere aos 12 filhos de Jacó. (Gên 35:23-26) Ela também é usada para falar de Davi (At 2:29) e de Abraão (He 7:4).
+====
+
+[[v44-7-9]]
+
+^<<v44-7-9,9>>^ E os patriarcas ficaram com ciúme de José e o venderam aos egípcios. Mas Deus estava com ele
+
+[[v44-7-10]]
+
+^<<v44-7-10,10>>^ e o livrou de todas as suas aflições, e lhe concedeu favor e sabedoria diante de Faraó, rei do Egito. E este o designou para governar o Egito e toda a sua casa.
+
+[[v44-7-11]]
+
+^<<v44-7-11,11>>^ Depois houve uma fome em todo o Egito e em Canaã, sim, uma grande aflição, e os nossos antepassados não encontravam nada para comer.
+
+[[v44-7-12]]
+
+^<<v44-7-12,12>>^ Mas Jacó ouviu dizer que havia mantimentos^&#42;1^ no Egito e enviou para lá, pela primeira vez, os nossos antepassados.
+
+[NOTE]
+====
+. Ou: “cereal”.
+====
+
+[[v44-7-13]]
+
+^<<v44-7-13,13>>^ Na segunda vez, José contou aos seus irmãos quem ele era, e Faraó conheceu a família de José.
+
+[[v44-7-14]]
+
+^<<v44-7-14,14>>^ Assim, José mandou buscar seu pai Jacó e todos os seus parentes, um total de 75 pessoas.
+
+[TIP]
+====
+- *um total de 75 pessoas*: A informação de que um total de 75 pessoas da família de Jacó estava no Egito não aparece no texto massorético das Escrituras Hebraicas. Assim, é possível que Estêvão não estivesse citando nenhum versículo específico quando falou desse número. O texto de Gên 46:26 diz: “Todos os descendentes de Jacó que foram com ele para o Egito, sem contar as esposas dos filhos de Jacó, foram 66.” E o versículo 27 continua dizendo: “Todas as pessoas da casa de Jacó que entraram no Egito foram 70.” Nesses versículos, a contagem foi feita de duas maneiras diferentes. Ao que parece, o versículo 26 inclui apenas os descendentes naturais de Jacó, enquanto o versículo 27 dá o total dos que foram para o Egito. Em Êx 1:5 e De 10:22, o número que aparece também é “70”. Pelo visto, Estêvão se baseou em ainda outra contagem, que talvez incluísse mais membros da família de Jacó que não faziam parte de sua família imediata. Alguns acreditam que a contagem tenha incluído os filhos e os netos de Manassés e Efraim (filhos de José), que são mencionados em Gên 46:20 na Septuaginta. Outros acreditam que ela tenha incluído as esposas dos filhos de Jacó, que foram excluídas do total mencionado em Gên 46:26. Assim, pode ser que “75” seja um total geral. Uma segunda possibilidade para Estêvão ter usado o número “75” é que ele tenha se baseado em cópias das Escrituras Hebraicas que eram usadas no século 1 d.C. Já se sabe há muito tempo que a Septuaginta usa o número “75” tanto em Gên 46:27 como em Êx 1:5. Além disso, no século 20 foram descobertos dois fragmentos dos Rolos do Mar Morto com o texto de Êx 1:5 em hebraico, e o número “75” também aparece neles. Pode ser que Estêvão tenha se baseado em algum desses textos antigos em que aparece o número “75”. De qualquer modo, o total citado por Estêvão reflete simplesmente uma maneira diferente de contar os descendentes de Jacó.
+- *pessoas*: Ou: “almas”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, aparece aqui no plural e se refere a pessoas. — Veja o Glossário, “Alma”, e o Apêndice A2.
+====
+
+[[v44-7-15]]
+
+^<<v44-7-15,15>>^ Então Jacó desceu ao Egito e faleceu ali, como também os nossos antepassados.
+
+[[v44-7-16]]
+
+^<<v44-7-16,16>>^ Eles foram levados para Siquém e colocados no túmulo que Abraão havia comprado dos filhos de Hamor, em Siquém, por uma certa quantia em dinheiro de prata.
+
+[[v44-7-17]]
+
+^<<v44-7-17,17>>^ “À medida que se aproximava o tempo para se cumprir a promessa que Deus havia feito a Abraão, o povo crescia e se multiplicava no Egito.
+
+[[v44-7-18]]
+
+^<<v44-7-18,18>>^ Então, surgiu outro rei no Egito, que não sabia nada sobre José.
+
+[[v44-7-19]]
+
+^<<v44-7-19,19>>^ Ele usou de astúcia contra a nossa raça^&#42;1^ e maltratou os nossos pais, obrigando-os a abandonar^&#42;2^ seus bebês para que eles não sobrevivessem.
+
+[NOTE]
+====
+. Ou: “o nosso povo”.
+. Ou: “expor”.
+====
+
+[[v44-7-20]]
+
+^<<v44-7-20,20>>^ Naquela época nasceu Moisés, e ele era extremamente belo. Ele foi criado por três meses na casa de seu pai.
+
+[TIP]
+====
+- *extremamente belo*: Ou: “divinamente belo”. A expressão grega que aparece aqui significa literalmente “belo para Deus”. Esse uso das palavras “para Deus” vem de uma expressão idiomática semítica que indicava que algo tinha um grau superlativo, extremamente elevado. Aqui, a expressão grega pode passar a ideia não apenas de “extremamente belo”, mas também de “belo aos olhos de Deus”. (Compare com Êx 2:2.) Alguns estudiosos acham que a expressão talvez se refira tanto à beleza física da pessoa como à sua beleza interior, as qualidades que Deus vê nela. O texto de Jon 3:3 usa uma expressão parecida ao falar da cidade de Nínive. Ali, a expressão hebraica traduzida como “uma cidade muito grande” significa literalmente “uma cidade grande para Deus”. — Para outros exemplos semelhantes, veja as notas de rodapé em Gên 23:6; Sal 36:6.
+====
+
+[[v44-7-21]]
+
+^<<v44-7-21,21>>^ Mas, quando foi abandonado,^&#42;1^ a filha de Faraó o pegou e o criou como seu próprio filho.
+
+[NOTE]
+====
+. Ou: “exposto”.
+====
+
+[[v44-7-22]]
+
+^<<v44-7-22,22>>^ Assim, Moisés foi instruído em toda a sabedoria dos egípcios. De fato, ele era poderoso em palavras e em ações.
+
+[TIP]
+====
+- *instruído em toda a sabedoria dos egípcios*: O discurso de Estêvão diante do Sinédrio inclui vários fatos da história judaica que não são mencionados nas Escrituras Hebraicas. Por exemplo, apenas Estêvão fala sobre a educação que Moisés recebeu no Egito. — Para outros detalhes mencionados por Estêvão que não estão nas Escrituras Hebraicas, veja as notas de estudo em At 7:23, 30, 53.
+====
+
+[[v44-7-23]]
+
+^<<v44-7-23,23>>^ “Então, quando ele completou 40 anos, decidiu visitar^&#42;1^ seus irmãos, os israelitas.
+
+[NOTE]
+====
+. Ou: “ver em que condições estavam”.
+====
+
+[TIP]
+====
+- *completou 40 anos*: O discurso de Estêvão diante do Sinédrio inclui vários fatos da história judaica que não são mencionados nas Escrituras Hebraicas. Por exemplo, apenas Estêvão fala que Moisés tinha 40 anos quando fugiu do Egito. — Para outros detalhes mencionados por Estêvão que não estão nas Escrituras Hebraicas, veja as notas de estudo em At 7:22, 30, 53.
+- *decidiu*: Ou: “veio-lhe ao coração; veio-lhe à mente”. A expressão que aparece no texto grego original vem de uma expressão idiomática hebraica. — Compare com Is 65:17; Je 3:16, nota de rodapé.
+- *os israelitas*: Ou: “os filhos de Israel; o povo de Israel”. — Veja o Glossário, “Israel”.
+====
+
+[[v44-7-24]]
+
+^<<v44-7-24,24>>^ Ao ver que um egípcio estava tratando um deles de forma injusta, ele defendeu o oprimido e o vingou, matando o egípcio.
+
+[[v44-7-25]]
+
+^<<v44-7-25,25>>^ Ele achava que os seus irmãos compreenderiam que Deus estava lhes dando salvação pela mão dele, mas eles não compreenderam isso.
+
+[[v44-7-26]]
+
+^<<v44-7-26,26>>^ No dia seguinte, dirigiu-se a eles quando estavam brigando e tentou reconciliá-los, dizendo: ‘Homens, vocês são irmãos. Por que estão maltratando um ao outro?’
+
+[[v44-7-27]]
+
+^<<v44-7-27,27>>^ Mas aquele que estava maltratando seu próximo o empurrou, dizendo: ‘Quem o designou líder e juiz sobre nós?
+
+[[v44-7-28]]
+
+^<<v44-7-28,28>>^ Será que você quer me matar como matou o egípcio ontem?’
+
+[[v44-7-29]]
+
+^<<v44-7-29,29>>^ Ao ouvir isso, Moisés fugiu e foi morar como estrangeiro na terra de Midiã, onde teve dois filhos.
+
+[[v44-7-30]]
+
+^<<v44-7-30,30>>^ “Depois de se passarem 40 anos, um anjo lhe apareceu no deserto do monte Sinai, na chama de um espinheiro que queimava.
+
+[TIP]
+====
+- *40 anos*: As Escrituras Hebraicas não dizem especificamente quantos anos Moisés passou em Midiã. Mas em seu discurso Estêvão incluiu fatos da história judaica que não são mencionados nas Escrituras Hebraicas. Ele disse que Moisés tinha 40 anos quando fugiu para Midiã. (Êx 2:11; At 7:23) E, aqui neste versículo, as palavras de Estêvão mostram que Moisés permaneceu ali por 40 anos completos ou perto disso. Assim, pelo visto, o período mencionado aqui vai de 1553 a 1513 a.C. As informações que Estêvão deu estão de acordo com Êx 7:7, que diz que Moisés tinha 80 anos quando falou com Faraó e conduziu o povo de Israel para fora do Egito. Elas também estão de acordo com o fato de que Moisés tinha 120 anos quando morreu, depois de ter passado outros 40 anos no deserto. — De 34:7; At 7:36.
+- *um anjo*: Estêvão mencionou aqui o relato de Êx 3:2, onde o texto hebraico original diz “o anjo de Jeová”. A maioria dos manuscritos gregos usa aqui “um anjo”, mas alguns poucos manuscritos e algumas traduções antigas da Bíblia para outros idiomas usam palavras que poderiam ser traduzidas como “um anjo de [ou: “do”] Senhor [ou: “de Jeová”]”. Várias traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J7, 8, 10-12, 14-17, 28 no Apêndice C4) usam aqui o Tetragrama e dizem “o anjo de Jeová”.
+- *deserto*: Veja o Glossário.
+====
+
+[[v44-7-31]]
+
+^<<v44-7-31,31>>^ Quando Moisés viu aquilo, ficou maravilhado. Mas, ao se aproximar para observar melhor, ouviu a voz de Jeová:
+
+[TIP]
+====
+- *a voz de Jeová*: Essa parte do discurso de Estêvão (At 7:30-33) faz referência ao relato de Êx 3:2-10. Em Êxodo, no versículo 4, “Jeová” chama Moisés por meio de seu anjo e, no versículo 6, “Jeová” diz para Moisés as palavras citadas em At 7:32. A expressão “a voz de Jeová” é usada muitas vezes nas Escrituras Hebraicas e é formada pela palavra hebraica para “voz” mais o Tetragrama. (Alguns exemplos são: Gên 3:8; Êx 15:26; De 5:25; 8:20; 15:5; 18:16; 26:14; 27:10; 28:1, 62; Jos 5:6; 1Sa 12:15; 1Rs 20:36; Sal 106:25; Is 30:31; Je 3:25; Da 9:10 e Za 6:15.) É interessante que, quando a expressão “voz de Jeová” é usada em De 26:14; 27:10; 28:1, 62 num fragmento de papiro muito antigo da Septuaginta, o nome de Deus aparece escrito em letras hebraicas quadradas no meio do texto grego. Esse fragmento, da coleção Papiro Fouad Inventário n.º 266, é datado do século 1 a.C. Os motivos que levaram a Tradução do Novo Mundo a usar a expressão “a voz de Jeová” no texto principal aqui em At 7:31, apesar de os manuscritos gregos disponíveis usarem “a voz de Senhor”, são explicados nos Apêndices C1 e C3 (introdução e At 7:31).
+====
+
+[[v44-7-32]]
+
+^<<v44-7-32,32>>^ ‘Eu sou o Deus dos seus antepassados, o Deus de Abraão, de Isaque e de Jacó.’ Moisés começou a tremer e não se atreveu a observar mais.
+
+[[v44-7-33]]
+
+^<<v44-7-33,33>>^ Jeová lhe disse: ‘Tire as sandálias dos pés, pois o lugar em que você está pisando é solo sagrado.
+
+[TIP]
+====
+- *Jeová lhe disse*: No relato que Estêvão estava citando (Êx 3:2-10), fica claro que quem estava falando com Moisés era Jeová, por meio de um anjo. Apesar de praticamente todas as informações deste versículo terem sido tiradas de Êx 3:5, a frase usada para introduzir as palavras de Jeová (traduzida aqui como “Jeová lhe disse”) é muito parecida com a frase usada para esse mesmo objetivo em Êx 3:7, que no hebraico original diz literalmente: “E Jeová disse.” — Veja o Apêndice C3 (introdução e At 7:33).
+====
+
+[[v44-7-34]]
+
+^<<v44-7-34,34>>^ Certamente vi a opressão do meu povo, que está no Egito, ouvi o gemido deles e desci para livrá-los. Agora venha: vou enviá-lo ao Egito.’
+
+[[v44-7-35]]
+
+^<<v44-7-35,35>>^ Esse mesmo Moisés, que eles rejeitaram, dizendo: ‘Quem o designou líder e juiz?’, é aquele a quem Deus enviou como líder e libertador por meio do anjo que lhe apareceu no espinheiro.
+
+[TIP]
+====
+- *libertador*: Ou: “resgatador; redentor”. A palavra grega que aparece aqui, lytrotés, vem do verbo lytróomai, que significa “libertar; resgatar”. Ela também está relacionada com o substantivo lýtron, que significa “resgate”. (Veja a nota de estudo em Mt 20:28.) O verbo lytróomai é usado para falar da libertação que se tornou possível por meio de Jesus Cristo (Lu 24:21; Tit 2:14, nota de rodapé; 1Pe 1:18, nota de rodapé), o prometido profeta semelhante a Moisés (De 18:15; At 7:37). Assim como Moisés foi o libertador dos israelitas no Egito, Jesus Cristo, por meio do sacrifício de resgate, é o Libertador da humanidade.
+====
+
+[[v44-7-36]]
+
+^<<v44-7-36,36>>^ Esse homem os conduziu para fora, realizando sinais e milagres no Egito, no mar Vermelho e no deserto por 40 anos.
+
+[TIP]
+====
+- *milagres*: Ou: “presságios”. — Veja a nota de estudo em At 2:19.
+- *por 40 anos*: Estes 40 anos vão de 1513 a.C., quando os israelitas saíram do Egito, a 1473 a.C., quando eles entraram na Terra Prometida. Tanto antes como durante esses 40 anos, Moisés realizou sinais e milagres. Logo que voltou ao Egito, Moisés realizou sinais na frente dos anciãos de Israel. (Êx 4:30, 31) Ele também teve um papel muito importante no período que levou à libertação dos israelitas, realizando sinais e milagres impressionantes na frente de Faraó e de todo o povo do Egito. Depois, Moisés foi usado por Jeová quando Faraó e seu exército foram destruídos no Mar Vermelho. (Êx 14:21-31; 15:4; De 11:2-4) E, nos 40 anos no deserto, um dos sinais mais destacados ligados a Moisés foi o aparecimento do maná, que foi o alimento diário dos israelitas durante todo esse período. O maná só deixou de aparecer quando eles começaram a comer dos produtos da terra de Canaã, no começo de 1473 a.C. — Êx 16:35; Jos 5:10-12.
+====
+
+[[v44-7-37]]
+
+^<<v44-7-37,37>>^ “Esse é o Moisés que disse aos filhos de Israel: ‘Deus fará surgir para vocês, dentre os seus irmãos, um profeta semelhante a mim.’
+
+[TIP]
+====
+- *aos filhos de Israel*: Ou: “ao povo de Israel; aos israelitas”. — Veja o Glossário, “Israel”.
+- *Deus*: Esta é uma citação de De 18:15. No texto hebraico original de Deuteronômio, a expressão usada é “Jeová, seu Deus”, onde aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Estêvão abreviou a citação e disse apenas “Deus”. Quando Pedro citou esse mesmo versículo em At 3:22, ele usou a expressão completa “Jeová, seu Deus”. (Veja a nota de estudo em At 3:22.) Algumas traduções das Escrituras Gregas Cristãs para o hebraico usam o nome de Deus aqui e dizem “Jeová, seu Deus” (J7, 8, 10-17) ou “Jeová Deus” (J28). (Veja o Apêndice C4.) Alguns poucos manuscritos gregos usam palavras que poderiam ser traduzidas como “o Senhor Deus” ou, pelos motivos explicados no Apêndice C1, “Jeová Deus”. Mas a grande maioria dos manuscritos gregos e das traduções antigas da Bíblia para outros idiomas dizem simplesmente “Deus”.
+====
+
+[[v44-7-38]]
+
+^<<v44-7-38,38>>^ Ele é que estava junto à congregação no deserto; ele estava com o anjo que lhe falou no monte Sinai e com os nossos antepassados. Ele recebeu proclamações sagradas, vivas, para dá-las a nós.
+
+[TIP]
+====
+- *congregação no deserto*: Aqui, os israelitas que foram tirados do Egito são chamados de “congregação” (em grego, ekklesía). Nas Escrituras Hebraicas, a palavra hebraica qahál, geralmente traduzida como “congregação” na Tradução do Novo Mundo, vem de uma raiz que significa “convocar; congregar”. (Núm 20:8; De 4:10) Ela é usada com frequência para se referir aos israelitas como grupo organizado, por exemplo nas expressões “congregação de Israel” (Le 16:17; Jos 8:35; 1Rs 8:14), “congregação do verdadeiro Deus” (Ne 13:1) e “congregação de Jeová” (Núm 20:4; De 23:2, 3; 1Cr 28:8; Miq 2:5). Na Septuaginta, a palavra hebraica qahál muitas vezes é traduzida para o grego como ekklesía (por exemplo, no Sal 22:22 [21:23, LXX]), que é a palavra usada para “congregação” nas Escrituras Gregas Cristãs. — Veja as notas de estudo em Mt 16:18; At 5:11.
+====
+
+[[v44-7-39]]
+
+^<<v44-7-39,39>>^ Os nossos antepassados se recusaram a obedecer a ele e o rejeitaram, e no coração voltaram para o Egito,
+
+[[v44-7-40]]
+
+^<<v44-7-40,40>>^ dizendo a Arão: ‘Faça-nos deuses para irem à nossa frente. Pois não sabemos o que aconteceu com esse Moisés, que nos tirou da terra do Egito.’
+
+[[v44-7-41]]
+
+^<<v44-7-41,41>>^ Assim, naqueles dias fizeram um bezerro e levaram um sacrifício ao ídolo, e começaram a se alegrar com as obras das suas próprias mãos.
+
+[[v44-7-42]]
+
+^<<v44-7-42,42>>^ De modo que Deus se afastou deles e os entregou para prestarem serviço sagrado ao exército do céu, assim como está escrito no livro dos Profetas: ‘Acaso foi a mim que vocês fizeram ofertas e sacrifícios por 40 anos no deserto, ó casa de Israel?
+
+[TIP]
+====
+- *exército do céu*: Refere-se a corpos celestes.
+====
+
+[[v44-7-43]]
+
+^<<v44-7-43,43>>^ Não, vocês ergueram a tenda de Moloque e a estrela do deus Refã, as imagens que fizeram para adorar. Por isso, eu os deportarei para além de Babilônia.’
+
+[[v44-7-44]]
+
+^<<v44-7-44,44>>^ “Nossos antepassados tinham a tenda do Testemunho no deserto, conforme ordenou Aquele que falou a Moisés, dizendo que a fizesse segundo o modelo que tinha visto.
+
+[TIP]
+====
+- *a tenda do Testemunho*: Ou: “o tabernáculo do Testemunho”. Ao usar estas palavras, Lucas talvez tenha sido influenciado pela Septuaginta, que traduz a expressão hebraica para “tenda de reunião” como “tenda do Testemunho”. (Êx 27:21; 28:43; Núm 1:1) Durante toda a jornada de Israel pelo deserto, era dentro dessa tenda que ficava a Arca do Pacto. E, dentro da Arca, o que havia de mais importante eram as “duas tábuas do Testemunho”. Nesse tipo de contexto, a palavra “Testemunho” geralmente se refere aos Dez Mandamentos dados a Moisés, escritos em duas tábuas de pedra. (Êx 25:16, 21, 22; 31:18; 32:15) A palavra hebraica para “testemunho” também pode ser traduzida como “lembrete”. A Arca servia como uma espécie de arquivo sagrado para guardar em segurança o Testemunho, os lembretes sagrados dados por Deus. — Veja o Glossário, “Arca do Pacto” e “Santíssimo”.
+- *modelo*: Ou: “projeto; tipo”. A palavra grega que aparece aqui é týpos. Ela foi usada com esse mesmo significado em He 8:5 e em Êx 25:40 (na Septuaginta).
+====
+
+[[v44-7-45]]
+
+^<<v44-7-45,45>>^ E os nossos antepassados a receberam dos seus pais e a trouxeram, com Josué, para a terra das nações que Deus expulsou de diante dos nossos antepassados. Ela permaneceu aqui até os dias de Davi.
+
+[TIP]
+====
+- *Josué*: Aqui, Estêvão estava se referindo ao Josué que foi líder do povo de Israel e que levou os israelitas para a Terra Prometida. (De 3:28; 31:7; Jos 1:1, 2) O nome Josué é uma forma abreviada do nome hebraico Yehohshúa‛, que significa “Jeová é salvação”. Neste versículo, Lucas usa o nome grego equivalente, Iesoús, que em latim é Iesus (Jesus). (Veja o Apêndice A4.) Nos tempos bíblicos, esse era um nome comum entre os judeus. As Escrituras Gregas Cristãs usam o nome grego Iesoús para se referir a quatro pessoas: Josué (filho de Num), o sucessor de Moisés (At 7:45; He 4:8); um antepassado de Jesus Cristo (Lu 3:29); o próprio Jesus Cristo (Mt 1:21) e um cristão, pelo visto judeu, que foi um dos colaboradores de Paulo (Col 4:11). O historiador Josefo menciona várias outras pessoas que tinham esse nome, além das que são citadas na Bíblia.
+====
+
+[[v44-7-46]]
+
+^<<v44-7-46,46>>^ Este achou favor diante de Deus e pediu para ter o privilégio de providenciar^&#42;1^ uma morada para o Deus de Jacó.
+
+[NOTE]
+====
+. Ou: “encontrar”.
+====
+
+[[v44-7-47]]
+
+^<<v44-7-47,47>>^ Mas foi Salomão quem construiu uma casa para ele.
+
+[[v44-7-48]]
+
+^<<v44-7-48,48>>^ Contudo, o Altíssimo não mora em casas feitas por mãos humanas, como diz o profeta:
+
+[TIP]
+====
+- *casas feitas por mãos humanas*: Ou: “lugares feitos por mãos humanas; coisas feitas por mãos humanas”. A palavra grega usada aqui, kheiropoíetos, também aparece em At 17:24 (“feitos por mãos humanas”) e em He 9:11, 24 (“feita[o] por mãos humanas”).
+====
+
+[[v44-7-49]]
+
+^<<v44-7-49,49>>^ ‘O céu é o meu trono e a terra é o apoio para os meus pés. Que tipo de casa construirão para mim? diz Jeová. Onde seria o meu lugar de descanso?
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Is 66:1. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). A expressão “diz Jeová” aparece tanto em Is 66:1 como em Is 66:2. Aqui, neste versículo, a expressão diz Jeová substitui essas duas ocorrências. — Veja o Apêndice C1.
+====
+
+[[v44-7-50]]
+
+^<<v44-7-50,50>>^ Não foi a minha mão que fez todas essas coisas?’
+
+[[v44-7-51]]
+
+^<<v44-7-51,51>>^ “Homens obstinados e incircuncisos no coração e nos ouvidos, vocês sempre resistem ao espírito santo. Assim como os seus antepassados fizeram, vocês também fazem.
+
+[TIP]
+====
+- *obstinados*: Lit.: “de dura cerviz”. Esta é a única vez que a palavra grega usada aqui aparece nas Escrituras Gregas Cristãs, mas ela foi usada algumas vezes na Septuaginta para traduzir uma palavra hebraica com sentido parecido. — Veja as notas de rodapé em Êx 33:3, 5; 34:9; De 9:6; Pr 29:1.
+- *incircuncisos no coração e nos ouvidos*: Esta expressão vem das Escrituras Hebraicas. Ela é usada em sentido figurado para indicar que alguém é teimoso e não reage ao que é falado. (Le 26:41, nota de rodapé; Je 9:25, 26; Ez 44:7, 9) Por exemplo, em Je 6:10, a expressão literal “seu ouvido é incircunciso” (nota de rodapé) foi traduzida como “eles estão com os ouvidos tapados”. Assim, corações e ouvidos que não reagem às orientações de Deus são chamados de incircuncisos.
+====
+
+[[v44-7-52]]
+
+^<<v44-7-52,52>>^ A qual dos profetas os seus antepassados não perseguiram? Sim, mataram os que anunciaram antecipadamente a vinda do Justo, cujos traidores e assassinos vocês se tornaram agora,
+
+[[v44-7-53]]
+
+^<<v44-7-53,53>>^ vocês, que receberam a Lei conforme transmitida por anjos, mas não a guardaram.”
+
+[TIP]
+====
+- *conforme transmitida por anjos*: O discurso de Estêvão diante do Sinédrio inclui vários fatos da história judaica que não são mencionados nas Escrituras Hebraicas. Um exemplo disso é esta informação de que anjos foram usados para transmitir a Lei mosaica. — Gál 3:19; He 2:1, 2; para outros detalhes mencionados por Estêvão que não estão nas Escrituras Hebraicas, veja as notas de estudo em At 7:22, 23, 30.
+====
+
+[[v44-7-54]]
+
+^<<v44-7-54,54>>^ Quando ouviram essas coisas, ficaram furiosos no coração e começaram a ranger os dentes contra ele.
+
+[TIP]
+====
+- *ficaram furiosos*: Ou: “sentiram-se feridos”. Esta expressão grega aparece apenas aqui e em At 5:33. Ela significa literalmente “ser cortado de fora a fora com uma serra” e foi usada em sentido figurado nas duas ocorrências para indicar uma forte reação emocional.
+- *ranger os dentes*: Ou: “apertar os dentes”. Esta expressão pode indicar sentimentos de angústia, raiva e desespero, possivelmente acompanhados por palavras ofensivas e violência. Neste contexto, a expressão se refere claramente a um nível extremo de raiva. — Jó 16:9; veja a nota de estudo em Mt 8:12.
+====
+
+[[v44-7-55]]
+
+^<<v44-7-55,55>>^ Mas ele, cheio de espírito santo, olhou fixamente para o céu e viu a glória de Deus, e Jesus em pé à direita de Deus,
+
+[TIP]
+====
+- *Jesus em pé à direita de Deus*: Estêvão foi o primeiro a dar testemunho de que viu Jesus no céu e disse que ele estava à direita de Deus, como tinha sido profetizado no Sal 110:1. O lado direito tinha forte significado simbólico. Estar à direita de um governante significava ser a pessoa mais importante depois do próprio governante (Ro 8:34; 1Pe 3:22) ou ser alguém que tinha o favor do governante. — Veja as notas de estudo em Mt 25:33; Mr 10:37; Lu 22:69.
+====
+
+[[v44-7-56]]
+
+^<<v44-7-56,56>>^ e disse: “Estou vendo o céu aberto, e o Filho do homem em pé à direita de Deus.”
+
+[[v44-7-57]]
+
+^<<v44-7-57,57>>^ Então, eles clamaram ao máximo da sua voz e puseram as mãos nos ouvidos, e avançaram todos juntos contra ele.
+
+[[v44-7-58]]
+
+^<<v44-7-58,58>>^ Depois de expulsá-lo da cidade, começaram a apedrejá-lo. As testemunhas deixaram suas capas aos pés de um jovem chamado Saulo.
+
+[TIP]
+====
+- *Saulo*: Este nome significa “pedido [a Deus]; indagado [a Deus]”. Saulo, também conhecido por seu nome romano Paulo, era “da tribo de Benjamim, hebreu nascido de hebreus”. (Fil 3:5) Mas, apesar de ser judeu, ele tinha cidadania romana desde que nasceu. (At 22:28) Por isso, é provável que ele tivesse esses dois nomes desde criança. Parece lógico que os próprios pais de Saulo tenham dado para ele tanto o nome hebraico, Saulo, como o nome romano Paulo (Paulus), que significa “pequeno”. Eles podem ter escolhido o nome Saulo (ou Saul) por vários motivos. Um deles é que esse era um nome tradicional entre as pessoas da tribo de Benjamim porque o primeiro rei de Israel, que era dessa tribo, se chamava Saul. (1Sa 9:2; 10:1; At 13:21) Ou eles podem ter pensado no significado do nome Saulo. Outra possibilidade é que ele tenha recebido o nome de seu pai, algo que era comum naquela época. (Compare com Lu 1:59.) Seja qual for o motivo, ele deve ter usado o nome Saulo quando estava entre os judeus, especialmente no período em que estudou para ser fariseu e depois que se tornou um deles. (At 22:3) E, mesmo depois de ter se tornado cristão, parece que ele continuou sendo conhecido principalmente pelo nome Saulo por mais de dez anos. — At 11:25, 30; 12:25; 13:1, 2, 9.
+====
+
+[[v44-7-59]]
+
+^<<v44-7-59,59>>^ Enquanto apedrejavam Estêvão, este fez o apelo: “Senhor Jesus, receba o meu espírito.”
+
+[TIP]
+====
+- *este fez o apelo*: “Senhor Jesus”: Nos versículos 55 e 56, Estêvão disse que estava vendo “o céu aberto, e o Filho do homem em pé à direita de Deus”. As palavras dele fazem uma clara diferença entre Jesus e Jeová. Estêvão sabia que Jeová tinha dado a Jesus o poder de ressuscitar os mortos e estava vendo Jesus na visão. Assim, seria natural que ele falasse diretamente com Jesus, deixando aos cuidados dele o seu espírito, ou seja, a sua força de vida. (Jo 5:27-29) Estêvão se dirigiu a Jesus usando a expressão “Senhor Jesus [em grego, Kýrie Iesoú]”. Nas Escrituras Gregas Cristãs, Kýrios pode se referir tanto a Jeová Deus como a Jesus Cristo, mas fica claro que neste versículo a palavra se refere a Jesus. A palavra grega traduzida aqui como “este fez o apelo” (epikaléo) não é a palavra que as Escrituras Gregas Cristãs geralmente usam para se referir a “orar”. Mas várias Bíblias usam traduções como “este orava”, dando a impressão de que Estêvão orou diretamente a Jesus. No entanto, obras de referência confiáveis explicam que epikaléo significa “chamar; invocar; apelar para uma autoridade”, e muitas vezes essa palavra é traduzida dessa forma. (At 2:21; 9:14; Ro 10:13; 2Ti 2:22) Essa mesma palavra foi usada em At 25:11 para registrar a frase de Paulo: “Apelo para César!” Assim, não existe nenhum motivo para se pensar que Estêvão estava orando a Jesus. Ele estava vendo Jesus na visão e, por isso, se sentiu à vontade para fazer seu pedido a ele. — Veja a nota de estudo em At 7:60.
+====
+
+[[v44-7-60]]
+
+^<<v44-7-60,60>>^ Então, ajoelhando-se, ele clamou com voz forte: “Jeová, não os condenes por este pecado.” E, dizendo isso, adormeceu na morte.
+
+[TIP]
+====
+- *Jeová*: Os manuscritos gregos disponíveis usam aqui a palavra Kýrios (Senhor). Nas Escrituras Gregas Cristãs, esse título muitas vezes se refere a Jeová Deus ou a Jesus Cristo, dependendo do contexto. Há vários motivos para acreditar que Estêvão estava se referindo a Jeová Deus neste versículo. Por exemplo, as palavras dele lembram as palavras de Jesus em Lu 23:34: “Pai, perdoa-lhes, pois não sabem o que estão fazendo.” No relato do discurso de Estêvão, registrado em At 7:2-53, a palavra Kýrios aparece três vezes, sempre em citações diretas ou indiretas das Escrituras Hebraicas onde o texto original claramente se refere a Deus. (Veja as notas de estudo em At 7:31, 33, 49.) Muitos comentaristas bíblicos e tradutores concordam que, nesses versículos de Atos, Kýrios se refere a Jeová. (Veja o Apêndice C1.) É verdade que em At 7:59 Kýrios se refere a Jesus, já que Estêvão disse especificamente “Senhor Jesus”. Mas isso não quer dizer que aqui, em At 7:60, Kýrios também se refira a Jesus, como alguns afirmam. Entre o versículo 59 e o versículo 60, há uma interrupção nas palavras de Estêvão. Ele estava em pé e então se ajoelhou na frente de seus inimigos. É provável que Estêvão tenha feito isso para orar a Jeová. (Compare com Lu 22:41; At 9:40; 20:36; 21:5, onde se ajoelhar está ligado com oração.) Por esses motivos, tudo indica que as últimas palavras de Estêvão eram uma oração ao Deus Todo-Poderoso, Jeová. Além disso, At 7:56 diz que Estêvão viu “o céu aberto, e o Filho do homem em pé à direita de Deus”. Assim, faz sentido que ele tenha se dirigido primeiro a Jesus (versículo 59) e depois a Jeová (versículo 60). Algumas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J17, 18, 22, 23 no Apêndice C4) usam a expressão “Senhor Jesus” no versículo 59 e o Tetragrama aqui no versículo 60. — Veja o Apêndice C3 (introdução e At 7:60).
+- *adormeceu na morte*: As Escrituras usam os verbos “dormir” e “adormecer” para se referir tanto ao sono físico (Mt 28:13; Lu 22:45; Jo 11:12; At 12:6) como ao sono da morte (Jo 11:11; At 7:60; 13:36; 1Co 7:39; 15:6, 51; 2Pe 3:4). Onde o contexto mostra que esses verbos se referem à morte, alguns tradutores da Bíblia usam expressões como “morrer” ou “adormecer na morte” para não confundir o leitor. Quando as Escrituras comparam a morte com o sono, elas estão se referindo à morte que resulta do pecado herdado de Adão. — Veja as notas de estudo em Mr 5:39; Jo 11:11.
+====
+
+'''
+
+xref:044-atos/044-atos-006.adoc#v44-6-0[&#60; Capítulo Anterior] | <<v44-7-0,Topo>> | xref:044-atos/044-atos-008.adoc#v44-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,493 @@
+include::./index.adoc[]
+
+[[v42-22-0]]
+=== As Boas Novas Segundo Lucas, 22
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Últimos dias de Jesus em Jerusalém; prisão e julgamento de Jesus (21:37–23:25)
+* Jesus ensina no templo (21:37, 38)
+* Sacerdotes tramam matar Jesus (22:1-6)
+* Preparativos para a última Páscoa (22:7-13)
+* Jesus realiza a primeira Ceia do Senhor (22:14-20)
+* ‘Aquele que me trai está comigo à mesa’ (22:21-23)
+* Discussão acalorada sobre quem é o maior (22:24-27)
+* Pacto de Jesus para um reino (22:28-30)
+* Jesus prediz que Pedro o negará (22:31-34)
+* Necessário estar preparado; duas espadas (22:35-38)
+* Oração de Jesus no monte das Oliveiras (22:39-46)
+* Jesus é preso (22:47-53)
+* Pedro nega a Jesus (22:54-62)
+* Zombam de Jesus (22:63-65)
+* Julgamento perante o Sinédrio (22:66-71)
+* Jesus é levado a Pilatos e a Herodes (23:1-25)
+****
+
+[[v42-22-1]]
+
+^<<v42-22-1,1>>^ Aproximava-se então a Festividade dos Pães sem Fermento, chamada Páscoa.
+
+[TIP]
+====
+- *a Festividade dos Pães sem Fermento, chamada Páscoa*: Na verdade, a Páscoa (celebrada no dia 14 de nisã) e a Festividade dos Pães sem Fermento (celebrada de 15 a 21 de nisã) eram duas festividades diferentes. (Le 23:5, 6; Núm 28:16, 17; veja o Apêndice B15.) Mas, na época de Jesus, elas já estavam tão relacionadas que os oito dias (14 a 21 de nisã) eram considerados uma única festividade. Em seus escritos, Josefo menciona “uma festa de oito dias, que é chamada de festa dos pães não fermentados”. Os acontecimentos registrados em Lu 22:1-6 ocorreram no dia 12 de nisã de 33 d.C. — Veja o Apêndice B12-B.
+====
+
+[[v42-22-2]]
+
+^<<v42-22-2,2>>^ E os principais sacerdotes e os escribas estavam procurando o melhor modo de se livrar dele, porque tinham medo do povo.
+
+[[v42-22-3]]
+
+^<<v42-22-3,3>>^ Então Satanás entrou em Judas, o chamado Iscariotes, que era contado entre os Doze,
+
+[TIP]
+====
+- *Iscariotes*: Veja a nota de estudo em Mt 10:4.
+====
+
+[[v42-22-4]]
+
+^<<v42-22-4,4>>^ e este se dirigiu aos principais sacerdotes e aos capitães do templo para falar sobre como poderia entregá-lo^&#42;1^ a eles.
+
+[NOTE]
+====
+. Ou: “traí-lo”.
+====
+
+[TIP]
+====
+- *capitães do templo*: No texto grego deste versículo aparece apenas a palavra para “capitães”. Mas Lucas se refere a eles no versículo 52 como “capitães do templo”. Assim, a expressão completa “capitães do templo” foi usada aqui. Lucas é o único escritor bíblico que menciona esses oficiais (At 4:1; 5:24, 26), que lideravam os guardas do templo. Pode ser que os capitães do templo tenham sido incluídos na conversa com Judas para dar uma aparência de legalidade para a prisão de Jesus.
+====
+
+[[v42-22-5]]
+
+^<<v42-22-5,5>>^ Eles se alegraram com isso e concordaram em lhe dar dinheiro de prata.
+
+[TIP]
+====
+- *dinheiro de prata*: Lit.: “prata”. Ou seja, a prata usada como dinheiro. De acordo com Mt 26:15, o valor foi de “30 moedas de prata”. O Evangelho de Mateus é o único que menciona o valor pelo qual Jesus foi traído. As moedas usadas talvez fossem siclos de prata produzidos em Tiro. Esse valor parece mostrar o quanto os principais sacerdotes desprezavam Jesus, porque, de acordo com a Lei, 30 siclos era o valor de um escravo. (Êx 21:32) Do mesmo modo, quando Zacarias pediu que os israelitas infiéis pagassem o seu salário pelo trabalho de profeta, eles deram “30 peças de prata”, indicando que para eles Zacarias não valia mais do que um escravo. — Za 11:12, 13.
+====
+
+[[v42-22-6]]
+
+^<<v42-22-6,6>>^ De modo que ele aceitou e começou a procurar uma boa oportunidade para entregá-lo^&#42;1^ a eles sem que houvesse uma multidão em volta.
+
+[NOTE]
+====
+. Ou: “traí-lo”.
+====
+
+[[v42-22-7]]
+
+^<<v42-22-7,7>>^ Chegou o dia da Festividade dos Pães sem Fermento, em que se tem de oferecer o sacrifício pascoal;
+
+[TIP]
+====
+- *Chegou o dia da Festividade dos Pães sem Fermento*: Conforme explicado na nota de estudo em Lu 22:1, na época de Jesus, a Páscoa (14 de nisã) e a Festividade dos Pães sem Fermento (15 a 21 de nisã) estavam tão relacionadas que os oito dias (14 a 21 de nisã) às vezes eram chamados de “a Festividade dos Pães sem Fermento”. (Veja o Apêndice B15.) O dia mencionado aqui é o dia 14 de nisã, já que Lucas diz que era o dia em que se tinha de oferecer o sacrifício pascoal. (Êx 12:6, 15, 17, 18; Le 23:5; De 16:1-7) Os acontecimentos descritos nos versículos 7 a 13 provavelmente ocorreram na tarde do dia 13 de nisã, em preparação para a Páscoa que foi celebrada naquela noite (depois do pôr do sol que marcou o início do dia 14 de nisã). — Veja o Apêndice B12-B.
+====
+
+[[v42-22-8]]
+
+^<<v42-22-8,8>>^ então Jesus enviou Pedro e João, dizendo: “Vão e aprontem a refeição pascoal para que a comamos.”
+
+[[v42-22-9]]
+
+^<<v42-22-9,9>>^ Disseram-lhe: “Onde o senhor quer que a aprontemos?”
+
+[[v42-22-10]]
+
+^<<v42-22-10,10>>^ Ele lhes disse: “Escutem: Ao entrarem na cidade, um homem levando um jarro de barro com água encontrará vocês. Sigam-no para dentro da casa em que ele entrar.
+
+[[v42-22-11]]
+
+^<<v42-22-11,11>>^ E digam ao proprietário da casa: ‘O Instrutor mandou lhe dizer: “Onde está a sala dos hóspedes, em que eu possa tomar a refeição pascoal com os meus discípulos?”’
+
+[[v42-22-12]]
+
+^<<v42-22-12,12>>^ E esse homem lhes mostrará uma grande sala mobiliada no andar de cima. Aprontem-na ali.”
+
+[[v42-22-13]]
+
+^<<v42-22-13,13>>^ Eles foram então, e encontraram tudo assim como ele tinha lhes dito, e prepararam a refeição pascoal.
+
+[[v42-22-14]]
+
+^<<v42-22-14,14>>^ Quando chegou a hora, ele se recostou à mesa junto com os apóstolos.
+
+[TIP]
+====
+- *Quando chegou a hora*: Ou seja, quando anoiteceu, marcando o início do dia 14 de nisã. — Veja os Apêndices A7-G e B12-B.
+====
+
+[[v42-22-15]]
+
+^<<v42-22-15,15>>^ E ele lhes disse: “Desejei muito comer esta refeição pascoal com vocês antes de sofrer,
+
+[[v42-22-16]]
+
+^<<v42-22-16,16>>^ pois eu lhes digo: Não a comerei de novo até que ela se cumpra no Reino de Deus.”
+
+[[v42-22-17]]
+
+^<<v42-22-17,17>>^ E ele recebeu um cálice, deu graças e disse: “Peguem este cálice e passem-no de um para o outro,
+
+[TIP]
+====
+- *recebeu um cálice*: Jesus estava celebrando a Páscoa com seus discípulos (Lu 22:15) e, naquela época, era costume passar cálices de vinho entre os que estavam na refeição pascoal. Não há nada na Bíblia que indique que os israelitas tenham usado vinho ao celebrar a Páscoa no Egito. E Jeová não incluiu o vinho entre as coisas que eram necessárias para a celebração da Páscoa. Assim, parece que o costume de passar cálices de vinho começou mais tarde. Jesus não condenou o uso de vinho na Páscoa. Em vez disso, ele deu graças, ou seja, orou agradecendo a Deus, e então tomou vinho com seus apóstolos durante a refeição pascoal. Logo depois, quando realizou a primeira Ceia do Senhor, Jesus passou novamente um cálice de vinho entre seus apóstolos. — Lu 22:20.
+====
+
+[[v42-22-18]]
+
+^<<v42-22-18,18>>^ pois eu lhes digo: De agora em diante não beberei de novo do produto da videira até que venha o Reino de Deus.”
+
+[[v42-22-19]]
+
+^<<v42-22-19,19>>^ Ele pegou também um pão, deu graças, partiu-o e deu a eles, dizendo: “Isto representa o meu corpo, que será dado em benefício de vocês. Persistam em fazer isso em memória de mim.”
+
+[TIP]
+====
+- *pegou também um pão . . . partiu-o*: Veja a nota de estudo em Mt 26:26.
+- *representa*: Veja a nota de estudo em Mt 26:26.
+====
+
+[[v42-22-20]]
+
+^<<v42-22-20,20>>^ Ele fez o mesmo com respeito ao cálice, depois de terem tomado a refeição, dizendo: “Este cálice representa o novo pacto com base no meu sangue, que será derramado em seu benefício.
+
+[TIP]
+====
+- *a refeição*: Evidentemente se referindo à refeição da Páscoa, que Jesus tomou com seus discípulos antes de realizar a primeira Ceia do Senhor. Jesus celebrou a Páscoa de acordo com os costumes da época. Ele não interrompeu a refeição nem mudou o modo como ela era realizada. Assim, Jesus, que era judeu, respeitou a Lei mosaica. Depois de ter celebrado a Páscoa de acordo com a Lei, Jesus estava livre para realizar pela primeira vez a Ceia do Senhor. Ele morreria naquele mesmo dia, o dia da Páscoa, e a Ceia do Senhor passaria a ser realizada anualmente como forma de lembrar a morte dele.
+- *novo pacto com base no meu sangue*: Lucas é o único escritor dos Evangelhos que menciona que, nessa ocasião, Jesus falou de um “novo pacto”, uma referência a Je 31:31. O novo pacto, entre Jeová e os cristãos ungidos, começou a vigorar por meio do sacrifício de Jesus. (He 8:10) As palavras “pacto” e “sangue” foram usadas de forma parecida por Moisés quando ele, como mediador, inaugurou o pacto da Lei com Israel no monte Sinai. (Êx 24:8; He 9:19-21) Assim como o pacto entre Deus e a nação de Israel se tornou válido por meio do sangue dos novilhos e dos bodes, o pacto entre Jeová e o Israel espiritual se tornou válido por meio do sangue de Jesus. Esse novo pacto entrou em vigor no Pentecostes de 33 d.C. — He 9:14, 15.
+- *. . . derramado em seu benefício*: As palavras da metade do versículo 19 (“que será dado . . .”) até o fim do versículo 20 não aparecem em alguns manuscritos, mas estão na maioria dos manuscritos mais antigos e confiáveis. — Para mais informações sobre como os manuscritos foram usados para definir o texto-padrão grego, veja o Apêndice A3.
+====
+
+[[v42-22-21]]
+
+^<<v42-22-21,21>>^ “Mas saibam que a mão daquele que me trai está comigo à mesa.
+
+[TIP]
+====
+- *Mas saibam que a mão daquele que me trai está comigo*: O que Lucas relata nos versículos 21 a 23 evidentemente aconteceu em algum momento antes dos acontecimentos registrados nos dois versículos anteriores. Lucas nem sempre registra os acontecimentos seguindo uma ordem cronológica rígida. Uma comparação de Mt 26:20-29 e Mr 14:17-25 com Jo 13:21-30 indica que Judas já tinha saído quando Jesus realizou a primeira Ceia do Senhor. Se Judas, que era um traidor, ainda estivesse presente, Jesus não diria a seus apóstolos “vocês são os que ficaram comigo nas minhas provações”. Além disso, Jesus com certeza não incluiria Judas no “pacto para um reino”. — Lu 22:28-30.
+====
+
+[[v42-22-22]]
+
+^<<v42-22-22,22>>^ De fato, o Filho do Homem vai embora, segundo o que foi determinado; porém, ai daquele que o trai!”
+
+[TIP]
+====
+- *vai embora*: De acordo com alguns estudiosos, essa expressão é um eufemismo (uma forma mais suave de falar algo) e na verdade significa “vai morrer”.
+====
+
+[[v42-22-23]]
+
+^<<v42-22-23,23>>^ Assim, começaram a perguntar uns aos outros qual deles realmente estaria para fazer isso.
+
+[[v42-22-24]]
+
+^<<v42-22-24,24>>^ No entanto, eles começaram também uma discussão acalorada sobre qual deles era o maior.
+
+[[v42-22-25]]
+
+^<<v42-22-25,25>>^ Mas ele lhes disse: “Os reis das nações dominam sobre elas, e os que têm autoridade sobre elas são chamados de ‘benfeitores’.
+
+[TIP]
+====
+- *benfeitores*:A palavra grega euergétes (lit.: “alguém que está fazendo o bem para [outros]”) era usada com frequência como um título de honra para príncipes ou pessoas destacadas, especialmente os que eram reconhecidos por serviços prestados à sociedade. Os seguidores de Jesus que estivessem “na liderança” não deviam se considerar “benfeitores”, como se seus companheiros cristãos estivessem de alguma forma em dívida com eles. Eles deviam ser diferentes dos governantes do mundo. — Lu 22:26.
+====
+
+[[v42-22-26]]
+
+^<<v42-22-26,26>>^ Vocês, porém, não devem ser assim. Mas que o maior entre vocês se torne como o mais jovem, e o que está na liderança, como aquele que serve.
+
+[TIP]
+====
+- *o que está na liderança*: A palavra grega que aparece aqui, hegéomai, também é usada em He 13:7, 17, 24 para descrever o papel dos superintendentes na congregação cristã.
+- *serve*: Ou: “ministra”. O verbo grego usado aqui é diakonéo. O substantivo relacionado, diákonos (ministro; servo), se refere a alguém que presta serviço a outros de modo humilde e perseverante. A Bíblia usa a palavra diákonos para descrever Jesus (Ro 15:8); os ministros (ou servos) de Cristo, tanto homens como mulheres (Ro 16:1; 1Co 3:5-7; Col 1:23); e os servos ministeriais (Fil 1:1; 1Ti 3:8). A palavra também é usada para se referir a servos domésticos (Jo 2:5, 9) e a autoridades do governo (Ro 13:4).
+====
+
+[[v42-22-27]]
+
+^<<v42-22-27,27>>^ Pois quem é maior: aquele que está^&#42;1^ à mesa ou aquele que serve? Não é quem está^&#42;2^ à mesa? Mas eu estou no meio de vocês como quem serve.
+
+[NOTE]
+====
+. Ou: “se recosta”.
+. Ou: “se recosta”.
+====
+
+[TIP]
+====
+- *serve*: Ou: “ministra”. O verbo grego diakonéo aparece duas vezes neste versículo. — Veja a nota de estudo em Lu 22:26.
+====
+
+[[v42-22-28]]
+
+^<<v42-22-28,28>>^ “No entanto, vocês são os que ficaram comigo nas minhas provações;
+
+[[v42-22-29]]
+
+^<<v42-22-29,29>>^ e eu faço com vocês um pacto para um reino, assim como o meu Pai fez um pacto comigo,
+
+[TIP]
+====
+- *eu faço com vocês um pacto para um reino*: O verbo grego diatíthemai, traduzido aqui como “faço um pacto”, está relacionado com o substantivo diathéke (“pacto”). Em At 3:25, He 8:10 e 10:16, tanto o verbo como o substantivo são usados na expressão “fazer (lit.: “pactuar”) um pacto”. Jesus fez aqui referência a dois pactos, um deles entre ele e seu pai, e outro entre ele e seus seguidores ungidos, que vão governar com ele no Reino.
+====
+
+[[v42-22-30]]
+
+^<<v42-22-30,30>>^ a fim de que vocês comam e bebam à minha mesa, no meu Reino, e se sentem em tronos para julgar as 12 tribos de Israel.
+
+[TIP]
+====
+- *comam e bebam à minha mesa*: Tomar uma refeição junto com alguém era um gesto de paz e amizade. Por isso, as pessoas que o rei escolhia para comerem regularmente à sua mesa eram pessoas de quem ele gostava muito e com quem ele tinha uma forte amizade. (1Rs 2:7) E foi esse tipo de amizade que Jesus prometeu aos seus discípulos fiéis. — Lu 22:28-30; veja também Lu 13:29; Ap 19:9.
+====
+
+[[v42-22-31]]
+
+^<<v42-22-31,31>>^ “Simão, Simão, escute: Satanás exigiu que todos vocês fossem peneirados como trigo.
+
+[TIP]
+====
+- *vocês fossem peneirados como trigo*: Nos tempos bíblicos, o trigo era debulhado, jogado para o alto para que o vento levasse embora as cascas e, finalmente, era sacudido com força em uma peneira. A peneira separava os grãos de trigo das hastes e cascas que tinham sobrado. (Veja a nota de estudo em Mt 3:12.) As provações que Jesus enfrentaria testariam a fé de seus discípulos, e Jesus comparou esse teste com o processo de peneirar o trigo.
+====
+
+[[v42-22-32]]
+
+^<<v42-22-32,32>>^ Mas tenho feito súplicas por você para que a sua fé não fraqueje; e você, quando tiver voltado, fortaleça os seus irmãos.”
+
+[TIP]
+====
+- *voltado*: Ou: “retornado”. Pelo visto, Jesus estava se referindo a Pedro voltar, ou se recuperar, da queda que sofreria. Essa queda seria causada principalmente pelo excesso de confiança e pelo medo do homem. — Compare com Pr 29:25.
+====
+
+[[v42-22-33]]
+
+^<<v42-22-33,33>>^ Então ele lhe disse: “Estou pronto para ir com o Senhor tanto para a prisão como para a morte.”
+
+[[v42-22-34]]
+
+^<<v42-22-34,34>>^ Mas ele disse: “Eu lhe digo, Pedro: O galo não cantará hoje até que você tenha negado três vezes que me conhece.”
+
+[TIP]
+====
+- *O galo*: Os quatro Evangelhos mencionam esta declaração de Jesus, mas o relato de Marcos é o único que acrescenta o detalhe de que o galo cantaria duas vezes. (Mt 26:34, 74, 75; Mr 14:30, 72; Lu 22:60, 61; Jo 13:38; 18:27) A Mishná indica que nos dias de Jesus as pessoas criavam galos em Jerusalém, o que apoia o relato da Bíblia. É provável que o galo tenha cantado ainda de madrugada. — Veja a nota de estudo em Mr 13:35.
+====
+
+[[v42-22-35]]
+
+^<<v42-22-35,35>>^ Ele lhes disse também: “Quando os enviei sem bolsa de dinheiro, sem bolsa de provisões e sem sandálias, será que lhes faltou alguma coisa?” Eles disseram: “Não!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Eles disseram: ‘Nada!’”
+====
+
+[[v42-22-36]]
+
+^<<v42-22-36,36>>^ Então ele lhes disse: “Mas agora, quem tiver bolsa de dinheiro, leve-a consigo, e também uma bolsa de provisões; e quem não tiver espada, venda a sua capa e compre uma.
+
+[[v42-22-37]]
+
+^<<v42-22-37,37>>^ Pois eu lhes digo que tem de se cumprir em mim aquilo que foi escrito: ‘Ele foi contado entre os transgressores.’ Sim, isso está se cumprindo em mim.”
+
+[[v42-22-38]]
+
+^<<v42-22-38,38>>^ Disseram então: “Senhor, temos aqui duas espadas.” Ele lhes disse: “É o suficiente.”
+
+[[v42-22-39]]
+
+^<<v42-22-39,39>>^ Ao sair, ele foi, como de costume, para o monte das Oliveiras, e os discípulos também o seguiram.
+
+[[v42-22-40]]
+
+^<<v42-22-40,40>>^ Quando chegaram ao lugar, ele lhes disse: “Persistam em orar, para que não caiam em tentação.”
+
+[TIP]
+====
+- *Persistam em orar*: Ou: “Continuem orando”. Este conselho, que parece ter sido dado aos 11 apóstolos fiéis, pelo visto só foi registrado por Lucas. (Compare com o relato paralelo em Mt 26:36, 37.) Mas Jesus deu um conselho parecido mais tarde, naquela mesma noite, conforme registrado em Lu 22:46 e nos relatos paralelos em Mt 26:41 e Mr 14:38. Nessa segunda ocasião, Jesus estava falando apenas com os três discípulos que ele tinha chamado para acompanhá-lo no jardim enquanto orava. (Mt 26:37-39; Mr 14:33-35) O fato de Lucas mencionar as duas vezes que Jesus deu esse conselho (Lu 22:40, 46) é um exemplo de como o Evangelho de Lucas dá atenção especial para as orações. Algumas ocasiões mencionadas apenas por Lucas em que Jesus orou ou falou sobre orações estão em Lu 3:21; 5:16; 6:12; 9:18, 28; 11:1 e 23:46.
+====
+
+[[v42-22-41]]
+
+^<<v42-22-41,41>>^ E ele se afastou deles à distância de um arremesso de pedra, ajoelhou-se e começou a orar,
+
+[[v42-22-42]]
+
+^<<v42-22-42,42>>^ dizendo: “Pai, se tu quiseres, afasta de mim este cálice. Contudo, ocorra não a minha vontade, mas a tua.”
+
+[TIP]
+====
+- *afasta de mim este cálice*: Veja a nota de estudo em Mr 14:36.
+====
+
+[[v42-22-43]]
+
+^<<v42-22-43,43>>^ Apareceu-lhe então um anjo do céu e o fortaleceu.
+
+[TIP]
+====
+- *um anjo*: Lucas é o único escritor dos Evangelhos que menciona que um anjo apareceu e fortaleceu Jesus.
+====
+
+[[v42-22-44]]
+
+^<<v42-22-44,44>>^ Mas ele ficou tão angustiado que orou ainda mais intensamente; e o seu suor se tornou como gotas de sangue que caíam no chão.
+
+[TIP]
+====
+- *o seu suor se tornou como gotas de sangue*: Pode ser que aqui Lucas esteja fazendo uma comparação, talvez porque as gotas de suor de Jesus lembrassem gotas de sangue ou porque o modo como elas caíam lembrasse gotas de sangue caindo de um ferimento. Por outro lado, alguns estudiosos sugerem que Jesus tenha literalmente transpirado sangue, talvez misturado com suor, um fenômeno que já foi relatado em certos casos de estresse extremo. Existe um fenômeno chamado de diapedese, em que o sangue (ou alguns de seus componentes) consegue passar pelas paredes dos vasos sanguíneos, mesmo sem haver nenhum rompimento. Em outro fenômeno, chamado de hematidrose, o corpo transpira suor tingido de sangue (ou de pigmentos sanguíneos) ou outro fluido do corpo misturado com sangue, fazendo a pessoa ‘suar sangue’. É claro que essas são apenas possíveis explicações para o que aconteceu com Jesus.
+- *. . . que caíam no chão*: Nem todos os manuscritos mais antigos incluem os versículos 43 e 44, mas eles foram incluídos na maioria das traduções da Bíblia.
+====
+
+[[v42-22-45]]
+
+^<<v42-22-45,45>>^ Quando ele se levantou depois de orar e se dirigiu aos discípulos, encontrou-os adormecidos, exaustos de tristeza.
+
+[[v42-22-46]]
+
+^<<v42-22-46,46>>^ Ele lhes disse: “Por que vocês estão dormindo? Levantem-se e continuem orando, para que não caiam em tentação.”
+
+[[v42-22-47]]
+
+^<<v42-22-47,47>>^ Enquanto ele ainda falava, chegou uma multidão, e o homem chamado Judas, um dos Doze, os liderava, e ele se aproximou de Jesus para beijá-lo.
+
+[[v42-22-48]]
+
+^<<v42-22-48,48>>^ Mas Jesus lhe disse: “Judas, você está traindo o Filho do Homem com um beijo?”
+
+[[v42-22-49]]
+
+^<<v42-22-49,49>>^ Quando os que estavam em volta dele viram o que ia acontecer, disseram: “Senhor, devemos atacá-los com a espada?”
+
+[[v42-22-50]]
+
+^<<v42-22-50,50>>^ Um deles até mesmo atacou o escravo do sumo sacerdote, decepando-lhe a orelha direita.
+
+[TIP]
+====
+- *Um deles*: O relato paralelo em Jo 18:10 mostra que foi Simão Pedro quem atacou o escravo do sumo sacerdote e que o nome do escravo era Malco. — Veja a nota de estudo em Jo 18:10.
+- *atacou o escravo do sumo sacerdote*: Veja a nota de estudo em Jo 18:10.
+====
+
+[[v42-22-51]]
+
+^<<v42-22-51,51>>^ Mas Jesus disse, em resposta: “Basta!” E tocou na orelha e o curou.
+
+[TIP]
+====
+- *e o curou*: Lucas é o único escritor dos Evangelhos que menciona que Jesus curou o escravo do sumo sacerdote. — Mt 26:51; Mr 14:47; Jo 18:10.
+====
+
+[[v42-22-52]]
+
+^<<v42-22-52,52>>^ Jesus disse então aos principais sacerdotes, aos capitães do templo e aos anciãos que tinham ido ali em busca dele: “Vocês vieram com espadas e bastões, como se eu fosse um bandido?
+
+[[v42-22-53]]
+
+^<<v42-22-53,53>>^ Enquanto eu estava com vocês no templo, dia após dia, vocês não puseram as mãos em mim. Mas esta é a hora de vocês e a autoridade da escuridão.”
+
+[TIP]
+====
+- *hora*: A palavra grega hóra é usada aqui em sentido figurado para se referir a um período de tempo relativamente curto.
+- *a autoridade da escuridão*: Ou: “o poder da escuridão”, ou seja, dos que estão em escuridão espiritual. (Compare com Col 1:13.) Em At 26:18, a escuridão é mencionada junto com a “autoridade de Satanás”. Satanás usou sua autoridade para influenciar humanos a realizarem as obras da escuridão que levaram à execução de Jesus. Por exemplo, o relato em Lu 22:3 diz que “Satanás entrou em Judas, o chamado Iscariotes”, que então traiu Jesus. — Gên 3:15; Jo 13:27-30.
+====
+
+[[v42-22-54]]
+
+^<<v42-22-54,54>>^ Então o prenderam e o levaram embora para a casa do sumo sacerdote. Mas Pedro seguia à distância.
+
+[[v42-22-55]]
+
+^<<v42-22-55,55>>^ Quando acenderam um fogo no meio do pátio e se sentaram juntos, Pedro se sentou entre eles.
+
+[[v42-22-56]]
+
+^<<v42-22-56,56>>^ Mas uma serva, vendo-o sentado à luz do fogo, olhou atentamente para ele e disse: “Este homem também estava com ele.”
+
+[[v42-22-57]]
+
+^<<v42-22-57,57>>^ Mas ele negou, dizendo: “Não o conheço, mulher.”
+
+[[v42-22-58]]
+
+^<<v42-22-58,58>>^ Pouco tempo depois, outra pessoa o viu e disse: “Você também é um deles.” Mas Pedro disse: “Homem, não sou.”
+
+[[v42-22-59]]
+
+^<<v42-22-59,59>>^ E, depois de passar cerca de uma hora, outro homem começou a insistir: “Este homem certamente também estava com ele, pois, de fato, é galileu!”
+
+[[v42-22-60]]
+
+^<<v42-22-60,60>>^ Mas Pedro disse: “Homem, não sei do que você está falando.” E, naquele instante, enquanto ainda falava, um galo cantou.
+
+[TIP]
+====
+- *um galo cantou*: Veja a nota de estudo em Mr 14:72.
+====
+
+[[v42-22-61]]
+
+^<<v42-22-61,61>>^ Com isso, o Senhor se virou e olhou diretamente para Pedro, e Pedro se lembrou da declaração do Senhor, que tinha lhe dito: “Hoje, antes de o galo cantar, você me negará três vezes.”
+
+[[v42-22-62]]
+
+^<<v42-22-62,62>>^ Então ele saiu e chorou amargamente.
+
+[[v42-22-63]]
+
+^<<v42-22-63,63>>^ Os homens que tinham Jesus em detenção começaram então a zombar dele, batendo nele;
+
+[[v42-22-64]]
+
+^<<v42-22-64,64>>^ e, depois de lhe cobrirem o rosto, diziam: “Profetize! Quem foi que bateu em você?”
+
+[TIP]
+====
+- *Profetize!*: Os homens não estavam pedindo que Jesus fizesse uma profecia sobre o futuro. O contexto mostra que eles tinham coberto o rosto dele. Assim, quando pediram que Jesus profetizasse, eles estavam desafiando Jesus a dizer, por revelação de Deus, quem tinha batido nele. — Veja a nota de estudo em Mt 26:68.
+====
+
+[[v42-22-65]]
+
+^<<v42-22-65,65>>^ E diziam muitas outras blasfêmias contra ele.
+
+[[v42-22-66]]
+
+^<<v42-22-66,66>>^ Quando o dia amanheceu, reuniu-se a assembleia dos anciãos do povo, tanto os principais sacerdotes como os escribas; eles o levaram para o Sinédrio e disseram:
+
+[TIP]
+====
+- *a assembleia dos anciãos*: Ou: “o conselho (corpo) de anciãos”. A palavra grega usada aqui, presbytérion, está relacionada com a palavra presbýteros (lit.: “homem mais velho”). Na Bíblia, presbýteros se refere principalmente a uma pessoa que tem autoridade e responsabilidade numa comunidade ou nação. Embora essa palavra possa ser usada às vezes para indicar idade (como acontece em Lu 15:25 e At 2:17), ela não se refere apenas a quem é idoso. A expressão “assembleia dos anciãos” pelo visto se refere aos membros do Sinédrio, o supremo tribunal judaico, que era composto pelos principais sacerdotes, pelos escribas e pelos anciãos. Na Bíblia, esses três grupos são mencionados juntos com frequência. — Mt 16:21; 27:41; Mr 8:31; 11:27; 14:43, 53; 15:1; Lu 9:22; 20:1; veja o Glossário, “Ancião; Homem idoso”, e a nota de estudo em o Sinédrio neste versículo.
+- *o Sinédrio*: O Sinédrio era o supremo tribunal judaico e ficava em Jerusalém. A palavra grega traduzida como “Sinédrio” (synédrion) significa literalmente “sentar-se com”. Embora fosse uma palavra genérica para uma assembleia ou reunião, em Israel ela podia se referir a um tribunal religioso. A palavra grega podia se referir tanto aos membros do tribunal como ao local onde o tribunal se reunia. — Veja a nota de estudo em Mt 5:22 e o Glossário; veja também a possível localização do Sinédrio no Apêndice B12-A.
+====
+
+[[v42-22-67]]
+
+^<<v42-22-67,67>>^ “Se você é o Cristo, diga-nos.” Mas ele lhes disse: “Mesmo que eu lhes dissesse, vocês de modo algum acreditariam.
+
+[[v42-22-68]]
+
+^<<v42-22-68,68>>^ Além disso, se eu lhes fizesse perguntas, vocês não me responderiam.
+
+[[v42-22-69]]
+
+^<<v42-22-69,69>>^ No entanto, de agora em diante o Filho do Homem estará sentado à direita poderosa de Deus.”
+
+[TIP]
+====
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *à direita poderosa de Deus*: Ou: “à direita do poder de Deus”. Estar à direita de um rei significava ser a pessoa mais importante depois do próprio rei. (Sal 110:1; At 7:55, 56) A expressão grega traduzida aqui como “direita poderosa de Deus” também aparece nos relatos paralelos em Mt 26:64 e Mr 14:62, onde ela é traduzida como “direita de poder”. O fato de que Jesus, o Filho do Homem, estaria sentado “à direita poderosa de Deus” indicava que ele receberia poder, ou autoridade. — Mr 14:62; veja a nota de estudo em Mt 26:64.
+====
+
+[[v42-22-70]]
+
+^<<v42-22-70,70>>^ Em vista disso, todos perguntaram: “Então, você é o Filho de Deus?” Ele lhes respondeu: “Vocês mesmos dizem que eu sou.”
+
+[[v42-22-71]]
+
+^<<v42-22-71,71>>^ Eles disseram: “Por que precisamos de mais testemunho? Pois nós mesmos ouvimos isso da sua própria boca.”
+
+'''
+
+xref:042-lucas/042-lucas-021.adoc#v42-21-0[&#60; Capítulo Anterior] | <<v42-22-0,Topo>> | xref:042-lucas/042-lucas-023.adoc#v42-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v44-28-0]]
+=== Atos dos Apóstolos, 28
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* O. Viagem de Paulo para Roma (27:1–28:16)
+* Paulo sai de Cesareia e vai para Roma em um navio de Adramítio (27:1-12)
+* Uma tempestade atinge o navio (27:13-38)
+* O navio naufraga (27:39-44)
+* Paulo chega à ilha de Malta; ele sobrevive à picada de uma víbora (28:1-6)
+* Paulo cura o pai de Públio e outros (28:7-10)
+* A caminho de Roma, Paulo passa por Siracusa, Régio e Putéoli (28:11-16)
+* P. Paulo em Roma (28:17-31)
+* Paulo fala com líderes judeus em Roma (28:17-29)
+* Paulo prega com coragem por dois anos (28:30, 31)
+****
+
+[[v44-28-1]]
+
+^<<v44-28-1,1>>^ Quando já estávamos a salvo, soubemos que a ilha se chamava Malta.
+
+[TIP]
+====
+- *Malta*: O nome que aparece no texto grego é Melíte. Há séculos, entende-se que essa ilha seja a ilha que é conhecida atualmente como Malta. O relato mostra que, depois que o navio de Paulo chegou a Cnido, no sudoeste da Ásia Menor, fortes ventos o obrigaram a navegar em direção ao sul, passando pelo sul de Creta. (At 27:7, 12, 13, 21) O texto de At 27:27 diz que o navio estava sendo jogado “de um lado para o outro no mar de Ádria”. Nos dias de Paulo, o mar de Ádria era maior do que o atual mar Adriático, já que também incluía as águas do mar Jônico, além das águas entre o leste da Sicília e o oeste de Creta. Assim, as águas próximas à ilha de Malta faziam parte do mar de Ádria. (Veja a nota de estudo em At 27:27.) Por causa do vento violento conhecido como euraquilão (At 27:14), é provável que o navio tenha sido levado para o oeste e naufragado na ilha de Malta, ao sul da Sicília. Ao longo dos anos, alguns estudiosos já sugeriram que Melíte fosse outra ilha. Uma teoria é que ela seja uma ilha próxima de Corfu, perto do litoral oeste da Grécia. Outra teoria, que se baseia no nome grego Melíte, sugere que seja a ilha de Melite (ilírica), hoje conhecida como Mljet, que fica perto da costa da Croácia, no atual mar Adriático. Mas, levando em conta o relato bíblico sobre a rota do navio, é improvável que ele tenha mudado sua direção para o norte e navegado uma distância tão grande a ponto de chegar a Corfu ou Mljet. — Veja o Apêndice B13.
+====
+
+[[v44-28-2]]
+
+^<<v44-28-2,2>>^ Os nativos da ilha nos mostraram extraordinária bondade. Acenderam uma fogueira e receberam bem a todos nós, pois estava chovendo e fazia frio.
+
+[TIP]
+====
+- *Os nativos da ilha*: Ou: “As pessoas de língua estrangeira”. A palavra grega que aparece aqui é bárbaros. Em algumas traduções mais antigas da Bíblia, ela foi traduzida como “bárbaros”. A repetição “bar bar” no início da palavra grega passava a ideia de gaguejar, balbuciar ou falar de modo incompreensível. Por isso, a palavra era originalmente usada pelos gregos para se referir a um estrangeiro que falava outra língua. Naquela época, ela não passava a ideia de falta de refinamento ou de boas maneiras nem tinha um sentido negativo. Em vez disso, ela era usada simplesmente para diferenciar os gregos dos não gregos. Alguns escritores judeus, como Josefo, usaram o termo bárbaros para se referir a eles mesmos. (Jewish Antiquities, XIV, 187 [x, 1]; Against Apion, I, 58 [11]) Na verdade, até os romanos chamavam a si mesmos de bárbaros antes de adotarem a cultura grega. Assim, o termo bárbaros podia ser usado para se referir aos habitantes de Malta, que pelo visto falavam uma língua nativa que não tinha relação com o grego, provavelmente o púnico. — Veja a nota de estudo em Ro 1:14.
+- *bondade*: Ou: “humanidade”. A palavra grega que aparece aqui, filanthropía, significa literalmente “afeição (amor) pela humanidade”. Esse tipo de bondade pode incluir mostrar interesse sincero e ser hospitaleiro com outros, cuidando das necessidades e do bem-estar deles. Como mostra este versículo, até mesmo alguém que ainda não conhece a Jeová pode ter essa qualidade dele. Outro exemplo disso está em At 27:3, onde a palavra relacionada filanthrópos é usada para descrever o modo como Júlio, o oficial do exército, tratou Paulo. Em Tit 3:4, a palavra filanthropía é usada para descrever os sentimentos de Jeová e foi traduzida como “amor à humanidade”.
+====
+
+[[v44-28-3]]
+
+^<<v44-28-3,3>>^ Paulo reuniu um feixe de gravetos e, quando o colocou no fogo, saiu uma víbora por causa do calor e se prendeu à mão dele.
+
+[TIP]
+====
+- *uma víbora*: Hoje em dia, não existem víboras em Malta. Mas o relato de Atos mostra que os habitantes da ilha no século 1 d.C. conheciam essas cobras venenosas. É possível que, com o passar do tempo, as mudanças climáticas e o aumento da população tenham feito a espécie desaparecer de Malta.
+====
+
+[[v44-28-4]]
+
+^<<v44-28-4,4>>^ Ao verem a cobra venenosa pendurada na sua mão, os nativos começaram a dizer uns aos outros: “Certamente este homem é um assassino; embora tenha conseguido se salvar do mar, a Justiça não permitiu que ele continuasse vivo.”
+
+[TIP]
+====
+- *Justiça*: A palavra grega traduzida aqui como “Justiça” é díke. Ela pode se referir tanto ao conceito de justiça como a uma deusa que personificava a justiça vingativa. Na mitologia grega, a deusa da justiça se chamava Díke. As pessoas acreditavam que ela vigiava as atividades dos humanos e relatava a Zeus as injustiças que tinham ficado escondidas, para que os culpados fossem punidos. Os habitantes de Malta podem ter pensado que, apesar de Paulo ter sobrevivido ao naufrágio, ele não tinha conseguido escapar da justiça divina e tinha sido punido por meio de uma cobra.
+====
+
+[[v44-28-5]]
+
+^<<v44-28-5,5>>^ No entanto, ele sacudiu o animal para dentro do fogo e não sofreu mal nenhum.
+
+[[v44-28-6]]
+
+^<<v44-28-6,6>>^ Mas esperavam que ele fosse ficar inchado ou cair morto de repente. Depois de esperarem por muito tempo e verem que nada de ruim tinha lhe acontecido, mudaram de ideia e começaram a dizer que ele era um deus.
+
+[[v44-28-7]]
+
+^<<v44-28-7,7>>^ Ali na vizinhança havia terras que pertenciam ao homem principal da ilha, chamado Públio; ele, de modo hospitaleiro, nos recebeu e nos hospedou por três dias.
+
+[[v44-28-8]]
+
+^<<v44-28-8,8>>^ Aconteceu que o pai de Públio estava de cama, doente, com febre e disenteria. Então Paulo foi vê-lo; orou, colocou as mãos sobre ele e o curou.
+
+[[v44-28-9]]
+
+^<<v44-28-9,9>>^ Depois que isso aconteceu, os outros doentes da ilha começaram a vir procurá-lo, e também eram curados.
+
+[[v44-28-10]]
+
+^<<v44-28-10,10>>^ Além disso, eles nos honraram com muitos presentes e, quando estávamos para embarcar, nos deram tudo que necessitávamos.
+
+[[v44-28-11]]
+
+^<<v44-28-11,11>>^ Três meses depois, partimos em um navio que tinha como figura de proa os “Filhos de Zeus”. O navio era de Alexandria e havia passado o inverno na ilha.
+
+[TIP]
+====
+- *Filhos de Zeus*: De acordo com a mitologia grega e romana, os “Filhos de Zeus” (em grego, Dióskouroi) eram Castor e Pólux, irmãos gêmeos que eram considerados filhos do deus Zeus (Júpiter) e de Leda, rainha de Esparta. Entre outras coisas, eles eram vistos como protetores dos marinheiros, capazes de salvar navegantes que corriam perigo no mar. A informação sobre a figura de proa é mais uma evidência de que o relato foi escrito por alguém que estava presente na ocasião.
+====
+
+[[v44-28-12]]
+
+^<<v44-28-12,12>>^ Aportamos em Siracusa e permanecemos ali três dias.
+
+[TIP]
+====
+- *Siracusa*: Esta cidade fica na costa sudeste da Sicília e, desde os tempos antigos, tem um excelente porto. De acordo com o historiador grego Tucídides, a cidade foi fundada pelos coríntios em 734 a.C. Algumas pessoas muito conhecidas nos tempos antigos nasceram ali, como, por exemplo, o matemático Arquimedes. Em 212 a.C., Siracusa foi conquistada pelos romanos. — Veja o Apêndice B13.
+====
+
+[[v44-28-13]]
+
+^<<v44-28-13,13>>^ Dali seguimos viagem e chegamos a Régio. Um dia depois começou a soprar um vento sul, e chegamos a Putéoli no segundo dia.
+
+[TIP]
+====
+- *Putéoli*: Este era o nome de um porto importante que ficava ao sudeste de Roma, uns 10 quilômetros ao oeste de Nápoles. No local, chamado hoje de Pozzuoli, ainda é possível ver as extensas ruínas de um antigo molhe, ou quebra-mar. O historiador Josefo falou desse porto usando o nome antigo do local, Dicearquia, e disse que existia uma colônia de judeus ali. (Jewish Antiquities, XVII, 328, xii, 1) Paulo, que estava a caminho de Roma para sua audiência com César, chegou a Putéoli por volta do ano 59 d.C. O navio tinha vindo da cidade portuária de Régio (conhecida hoje como Reggio Calabria), no extremo sul da Itália, de frente para a ilha da Sicília, uns 320 quilômetros ao sudeste de Putéoli. Os cristãos em Putéoli insistiram para que Paulo e seus companheiros passassem uma semana com eles. (At 28:14) Isso indica que, mesmo sendo um prisioneiro, Paulo ainda tinha certa liberdade. — Veja o Apêndice B13.
+====
+
+[[v44-28-14]]
+
+^<<v44-28-14,14>>^ Ali encontramos alguns irmãos, que insistiram que ficássemos com eles sete dias. E assim fomos para Roma.
+
+[TIP]
+====
+- *assim fomos para Roma*: A distância entre Putéoli e Roma era de 245 quilômetros, e a viagem entre as cidades levava até uma semana. É provável que Paulo e seus companheiros tenham ido primeiro a Cápua e, dali, viajado os 212 quilômetros restantes pela Via Ápia (em latim, Via Appia). A Via Ápia recebeu esse nome em homenagem ao estadista romano Ápio Cláudio Ceco, que começou sua construção em 312 a.C. Com o tempo, ela chegou a conectar Roma a Brundisium (hoje Brindisi), um porto que servia de ligação com o leste. Boa parte da Via Ápia era pavimentada com grandes blocos de rocha vulcânica. A largura da estrada variava bastante, com alguns trechos tendo menos de 3 metros enquanto outros tinham mais de 6 metros. A ideia em geral era que dois veículos viajando em direções opostas conseguissem passar ao mesmo tempo. Em alguns pontos da Via Ápia, era possível ver o mar Mediterrâneo. A certa altura, a estrada atravessava os pântanos do Pontino. Um escritor romano comentou em uma de suas obras que essa região tinha mosquitos e cheirava mal. Quando a estrada ficava alagada, os viajantes atravessavam a área em um tipo de balsa, usando um canal que tinha sido construído ao lado da estrada. Logo ao norte dos pântanos ficavam a Praça de Ápio, a uns 65 quilômetros de Roma, e uma parada para viajantes chamada de Três Tavernas, a uns 50 quilômetros da cidade.
+====
+
+[[v44-28-15]]
+
+^<<v44-28-15,15>>^ Quando os irmãos de lá ouviram as notícias sobre nós, foram até a Praça de Ápio e as Três Tavernas para nos encontrar. Ao vê-los, Paulo agradeceu a Deus e se sentiu encorajado.
+
+[TIP]
+====
+- *a Praça de Ápio*: Ou: “Foro de Ápio”. Em latim, Appii Forum. Esta praça, que também funcionava como um mercado, ficava uns 65 quilômetros ao sudeste de Roma. Ela era um local de parada bem conhecido na Via Ápia, a famosa estrada romana que ia de Roma ao porto de Brundisium (hoje Brindisi), passando por Cápua. Tanto a estrada como a praça receberam seus nomes em homenagem ao estadista responsável por sua construção, Ápio Cláudio Ceco, do século 4 a.C. A Praça de Ápio era um ponto de parada onde os viajantes que saíam de Roma costumavam descansar ao final do primeiro dia de viagem. Assim, o local se tornou um mercado importante e um movimentado centro comercial. Algo que também contribuía para a sua importância era a sua localização junto a um canal que corria ao lado da Via Ápia e atravessava os pântanos do Pontino. Segundo relatos, os viajantes eram transportados pelo canal à noite em balsas puxadas por mulas. O poeta romano Horácio falou sobre os desconfortos da viagem e reclamou das rãs e dos mosquitos. Ele também descreveu a Praça de Ápio como um local “abarrotado de barqueiros e de taverneiros mesquinhos”. (Satires, I, V, 1-6) Apesar de todos os desconfortos, os irmãos de Roma tiveram prazer em ir até lá e esperar por Paulo e seus companheiros para acompanhá-los na parte final da viagem. Hoje, no local onde ficava o Foro de Ápio, existe a pequena vila de Borgo Faiti, junto à Via Ápia. — Veja o Apêndice B13.
+- *Três Tavernas*: Ou: “Três Tabernas”. Em latim, Tres Tabernas. Este local, que também é mencionado em outros escritos antigos, ficava junto à Via Ápia. Ele ficava uns 50 quilômetros ao sudeste de Roma, a cerca de 15 quilômetros da Praça de Ápio. Hoje, ainda existem algumas poucas ruínas romanas no local. — Veja o Apêndice B13.
+====
+
+[[v44-28-16]]
+
+^<<v44-28-16,16>>^ Quando por fim entramos em Roma, permitiu-se que Paulo morasse sozinho, com um soldado para vigiá-lo.
+
+[[v44-28-17]]
+
+^<<v44-28-17,17>>^ Três dias depois, ele convocou os homens mais importantes dos judeus. Quando se reuniram, ele lhes disse: “Homens, irmãos, embora eu não tivesse feito nada contra o povo ou contra os costumes de nossos antepassados, fui preso em Jerusalém e entregue às mãos dos romanos.
+
+[[v44-28-18]]
+
+^<<v44-28-18,18>>^ Depois de me interrogarem, eles quiseram me soltar, pois não havia nenhum motivo para me condenar à morte.
+
+[[v44-28-19]]
+
+^<<v44-28-19,19>>^ No entanto, como os judeus se opuseram, fui obrigado a apelar para César, mas não por eu ter alguma acusação contra a minha nação.
+
+[TIP]
+====
+- *César*: Veja a nota de estudo em At 26:32.
+====
+
+[[v44-28-20]]
+
+^<<v44-28-20,20>>^ Foi por isso que pedi para ver vocês e lhes falar, pois é por causa da esperança de Israel que estou preso com esta corrente.”
+
+[[v44-28-21]]
+
+^<<v44-28-21,21>>^ Eles lhe disseram: “Nós não recebemos cartas da Judeia a seu respeito, e nenhum dos irmãos que vieram de lá nos relatou ou falou algo mau sobre você.
+
+[[v44-28-22]]
+
+^<<v44-28-22,22>>^ Mas achamos correto ouvir de você o que pensa, porque, na verdade, o que sabemos dessa seita é que em toda a parte se fala contra ela.”
+
+[TIP]
+====
+- *dessa seita*: Veja a nota de estudo em At 24:5.
+====
+
+[[v44-28-23]]
+
+^<<v44-28-23,23>>^ Assim, combinaram um dia para se encontrar com ele e foram num grupo ainda maior ao lugar onde estava morando. E, desde a manhã até a noite, ele lhes deu explicações por meio de um testemunho cabal sobre o Reino de Deus, procurando persuadi-los a respeito de Jesus com base na Lei de Moisés e nos Profetas.
+
+[TIP]
+====
+- *por meio de um testemunho cabal sobre o Reino de Deus*: O livro de Atos usa as palavras gregas para “testemunha” (mártys), “dar testemunho” (martyréo), “dar testemunho cabal” (diamartýromai) e outras palavras relacionadas mais vezes do que qualquer outro livro da Bíblia, com exceção do Evangelho de João. (Veja as notas de estudo em Jo 1:7; At 1:8.) O livro inteiro destaca a ideia de ser uma testemunha e de dar testemunho cabal sobre o propósito de Deus, o que inclui falar do seu Reino e do importantíssimo papel de Jesus. — At 2:32, 40; 3:15; 4:33; 5:32; 8:25; 10:39; 13:31; 18:5; 20:21, 24; 22:20; 23:11; 26:16.
+====
+
+[[v44-28-24]]
+
+^<<v44-28-24,24>>^ Alguns acreditaram nas coisas que ele dizia; outros se recusavam a acreditar.
+
+[[v44-28-25]]
+
+^<<v44-28-25,25>>^ Assim, como houve desacordo entre eles, começaram a ir embora, e Paulo fez este único comentário:
+“O espírito santo falou apropriadamente aos antepassados de vocês, por meio de Isaías, o profeta:
+
+[[v44-28-26]]
+
+^<<v44-28-26,26>>^ ‘Vá a este povo e diga: “Vocês realmente ouvirão, mas de modo algum entenderão; e realmente olharão, mas de modo algum verão.
+
+[[v44-28-27]]
+
+^<<v44-28-27,27>>^ Pois o coração deste povo ficou insensível,^&#42;1^ eles taparam os ouvidos e fecharam os olhos, para que nunca vissem com os olhos, nem ouvissem com os ouvidos, nem entendessem com o coração e dessem meia-volta, e eu os curasse.”’
+
+[NOTE]
+====
+. Lit.: “engrossou (engordou)”.
+====
+
+[[v44-28-28]]
+
+^<<v44-28-28,28>>^ Portanto, saibam que essa salvação por Deus foi enviada às nações, e elas certamente a escutarão.”
+
+[TIP]
+====
+- *essa salvação por Deus foi enviada*: Ou: “esse, o meio pelo qual Deus salva, foi enviado”. A palavra grega traduzida aqui como “salvação” é sotérion. Ela pode se referir não apenas à salvação em si, mas também ao meio pelo qual a salvação ou libertação vem. (Lu 2:30; 3:6; notas de rodapé) Por extensão, ela pode se referir também à mensagem sobre como Deus vai salvar a humanidade.
+====
+
+[[v44-28-29]]
+
+^<<v44-28-29,29>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos gregos e algumas traduções antigas para outros idiomas acrescentam o seguinte*: “E depois de dizer isso, os judeus foram embora, tendo entre si muita disputa.” Mas essas palavras não aparecem nos manuscritos mais antigos e mais confiáveis e, pelo visto, não faziam parte do texto original de Atos. — Veja o Apêndice A3.
+====
+
+[[v44-28-30]]
+
+^<<v44-28-30,30>>^ Assim, ele permaneceu ali por dois anos inteiros, na casa que alugou, e recebia bondosamente a todos os que iam vê-lo,
+
+[TIP]
+====
+- *ele permaneceu ali por dois anos inteiros*: Durante esse período de dois anos, Paulo escreveu aos efésios (Ef 4:1; 6:20), aos filipenses (Fil 1:7, 12-14), aos colossenses (Col 4:18), a Filêmon (Flm 9) e, pelo visto, aos hebreus. Parece que a prisão domiciliar de Paulo terminou por volta de 61 d.C. Tudo indica que ele foi julgado (talvez pelo imperador Nero ou por um representante dele) e declarado inocente. Depois de ser solto, Paulo, como de costume, continuou bem ativo. Pode ser que nesse período ele tenha feito a viagem para a Espanha que tinha planejado. (Ro 15:28) De acordo com Clemente de Roma, que escreveu por volta de 95 d.C., Paulo viajou para “o extremo limite do O[este]”, ou seja, do oeste do Império Romano. As três cartas que Paulo escreveu depois de ser solto (1 e 2 Timóteo e Tito) mostram que nesse período ele provavelmente visitou Creta, Éfeso, Macedônia, Mileto, Nicópolis e Trôade. (1Ti 1:3; 2Ti 4:13, 20; Tit 1:5; 3:12) Alguns sugerem que foi em Nicópolis, na Grécia, que Paulo foi preso novamente e que, por volta do ano 65 d.C., ele já tinha sido levado para Roma. Dessa vez, parece que Nero não teve misericórdia. Em 64 d.C., um grande incêndio tinha devastado Roma. Naquela ocasião, segundo o historiador romano Tácito, Nero acusou falsamente os cristãos de terem causado o incêndio e iniciou uma campanha de perseguição brutal contra eles. Quando Paulo escreveu sua segunda e última carta a Timóteo, ele pediu para Timóteo e Marcos irem até ele rapidamente porque achava que sua execução estava próxima. Durante esse segundo período de prisão, Lucas e Onesíforo foram muito corajosos e arriscaram a vida para visitar e encorajar Paulo. (2Ti 1:16, 17; 4:6-9, 11) É provável que Paulo tenha sido executado por volta de 65 d.C. Tanto na vida como na morte, Paulo foi um exemplo do que significa ser uma testemunha de ‘todas as coisas que Jesus fez e ensinou’. — At 1:1.
+====
+
+[[v44-28-31]]
+
+^<<v44-28-31,31>>^ pregando-lhes o Reino de Deus e ensinando a respeito do Senhor Jesus Cristo com toda a coragem, sem nenhum impedimento.
+
+[TIP]
+====
+- *pregando-lhes*: A palavra grega traduzida como “pregar” tem o sentido básico de “proclamar como um mensageiro público”. A palavra enfatiza como a proclamação é feita: geralmente de modo público, aberto, para todos ouvirem, em vez de em um simples sermão para um grupo. O tema dessa pregação era o Reino de Deus. No livro de Atos, a expressão “Reino de Deus” aparece seis vezes. A primeira delas está em At 1:3, que menciona que Jesus falou sobre o Reino durante os 40 dias entre sua ressurreição e sua volta ao céu. O Reino de Deus continuou a ser o tema principal da pregação dos apóstolos. — At 8:12; 14:22; 19:8; 28:23.
+- *com toda a coragem*: Ou: “com toda a liberdade no falar”. O substantivo grego traduzido aqui como “coragem” (parresía) também pode ser traduzido como “franqueza”. (Veja a nota de estudo em At 4:13.) Esse substantivo e o verbo relacionado parresiázomai, com frequência traduzido como “falar corajosamente (com coragem)”, aparecem muitas vezes no livro de Atos. Do começo ao fim de Atos, a coragem é uma característica marcante da pregação que os cristãos faziam. — At 4:29, 31; 9:27, 28; 13:46; 14:3; 18:26; 19:8; 26:26.
+- *sem nenhum impedimento*: Ou: “livremente”. O livro de Atos termina em tom positivo. Paulo estava em prisão domiciliar, mas continuava tendo liberdade para pregar e ensinar. Nada seria capaz de impedir que a mensagem do Reino se espalhasse em Roma. Esta é a conclusão ideal para o livro de Atos, que descreve como o espírito santo deu poder para os cristãos do século 1 d.C. iniciarem a maior campanha de pregação da história, divulgando as boas novas do Reino de Deus “até a parte mais distante da terra”. — At 1:8.
+====
+
+'''
+
+xref:044-atos/044-atos-027.adoc#v44-27-0[&#60; Capítulo Anterior] | <<v44-28-0,Topo>> | xref:045-romanos/045-romanos-001.adoc#v45-1-0[Próximo Capítulo &#62;]

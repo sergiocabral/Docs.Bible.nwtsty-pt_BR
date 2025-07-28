@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v46-1-0]]
+=== A Primeira aos Coríntios, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* A Primeira Carta aos Coríntios: Títulos de livros bíblicos, como este, pelo visto não faziam parte do texto original. Os manuscritos mais antigos indicam que eles foram acrescentados mais tarde, provavelmente para ajudar a identificar os livros. Um códice em papiro conhecido como P46, datado de cerca de 200 d.C. por muitos estudiosos, mostra que naquela época os copistas já tinham começado a usar títulos para identificar livros bíblicos. Esse códice é a coleção mais antiga disponível das cartas de Paulo e contém nove de suas cartas. No início da primeira carta inspirada de Paulo aos coríntios, o códice tem o seguinte título: Pros Korínthious A (“Direcionado aos [ou: “Para os”] Coríntios 1”). (Veja a mídia “A primeira carta de Paulo aos coríntios”.) Outros manuscritos muito antigos, como o Códice Vaticano e o Códice Sinaítico (do século 4 d.C.), também contêm esse mesmo título. Nesses manuscritos, o título aparece tanto no início como no fim da carta.
+****
+
+.Notas do capítulo
+****
+* A. INTRODUÇÃO (1:1-9)
+* Saudações iniciais de Paulo (1:1-3)
+* Paulo agradece a Deus pelos coríntios (1:4-9)
+* B. A IMPORTÂNCIA DA UNIÃO NA CONGREGAÇÃO CRISTÃ (1:10–4:21)
+* 1. Coisas que contribuem para a união ou a desunião (1:10–2:16)
+* Seguir humanos causa divisões (1:10-17)
+* Reconhecer a Cristo, que é o poder e a sabedoria de Deus (1:18-25)
+* Orgulhar-se somente em Jeová, não em humanos (1:26-31)
+* Pregar como Paulo, sem usar linguagem ou sabedoria extravagantes (2:1-5)
+* Reconhecer a superioridade da sabedoria de Deus (2:6-10)
+* Receber o espírito que vem de Deus; ser um homem espiritual (2:11-16)
+* 2. Cooperar com Deus para que a congregação cresça e seja unida (3:1-23)
+* Pensamento carnal gera ciúme e brigas (3:1-4)
+* Humanos são ministros, mas é Deus quem faz crescer (3:5-9)
+* Construir com materiais resistentes ao fogo (3:10-15)
+* “Vocês . . . são templo de Deus” (3:16, 17)
+* A sabedoria do mundo é tolice perante Deus (3:18-23)
+* 3. Conselhos adicionais que contribuem para a união (4:1-21)
+* O que importa é o julgamento de Jeová (4:1-5)
+* Cristãos que são humildes não se acham melhores do que os seus irmãos (4:6-13)
+* Paulo aconselha seus filhos espirituais a não serem orgulhosos (4:14-21)
+****
+
+[[v46-1-1]]
+
+^<<v46-1-1,1>>^ Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e Sóstenes, nosso irmão,
+
+[TIP]
+====
+- *Sóstenes, nosso irmão*: A única outra ocorrência do nome Sóstenes na Bíblia está em At 18:17, onde o nome se refere ao presidente da sinagoga que foi espancado em Corinto. Visto que esse nome não era comum, é possível que o Sóstenes mencionado em Atos tenha se tornado cristão e que ele seja o irmão citado aqui, que estava junto com Paulo em Éfeso. Em 1Co 16:21, Paulo dá a entender que a maior parte de sua carta não foi escrita por ele mesmo. Isso pode indicar que Sóstenes tenha servido como seu secretário.
+====
+
+[[v46-1-2]]
+
+^<<v46-1-2,2>>^ à congregação de Deus em Corinto, a vocês que foram santificados em união com Cristo Jesus, chamados para ser santos, junto com todos os que, em toda a parte, invocam o nome do nosso Senhor Jesus Cristo, Senhor deles e nosso:
+
+[TIP]
+====
+- *à congregação de Deus em Corinto*: Paulo deu início à congregação em Corinto por volta de 50 d.C. (At 18:1-11) Ele escreveu sua primeira carta inspirada aos coríntios por volta de 55 d.C., enquanto estava em Éfeso. (Compare com 1Co 5:9.) Os irmãos de Corinto tinham escrito a Paulo pouco tempo antes, fazendo perguntas sobre casamento e sobre se era correto comer alimentos oferecidos a ídolos. (1Co 7:1; 8:1) Mas Paulo sabia que eles tinham outros problemas que precisavam ser tratados com mais urgência. A congregação estava tolerando um caso grave de imoralidade sexual. (1Co 5:1-8) E havia divisões entre os irmãos. (1Co 1:11-13; 11:18; 15:12-14, 33, 34) Além disso, pode ser que eles estivessem com dúvidas sobre a maneira correta de realizar a Ceia do Senhor. (1Co 11:20-29) Paulo deu orientações inspiradas sobre esses assuntos e deu destaque especial à importância de demonstrar amor cristão. — 1Co 13:1-13.
+====
+
+[[v46-1-3]]
+
+^<<v46-1-3,3>>^ Que vocês tenham bondade imerecida e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+
+[TIP]
+====
+- *Que vocês tenham bondade imerecida e paz*: Veja a nota de estudo em Ro 1:7.
+====
+
+[[v46-1-4]]
+
+^<<v46-1-4,4>>^ Eu sempre agradeço ao meu Deus por vocês, em vista da bondade imerecida de Deus que lhes foi concedida em Cristo Jesus;
+
+[[v46-1-5]]
+
+^<<v46-1-5,5>>^ porque em tudo vocês foram enriquecidos nele, na plena capacidade de falar e em pleno conhecimento,
+
+[[v46-1-6]]
+
+^<<v46-1-6,6>>^ visto que o testemunho a respeito do Cristo foi firmado entre vocês,
+
+[[v46-1-7]]
+
+^<<v46-1-7,7>>^ de modo que não lhes falta nenhum dom enquanto estão esperando ansiosamente a revelação do nosso Senhor Jesus Cristo.
+
+[[v46-1-8]]
+
+^<<v46-1-8,8>>^ Também, ele os fará firmes até o fim, para que estejam livres de qualquer acusação no dia do nosso Senhor Jesus Cristo.
+
+[[v46-1-9]]
+
+^<<v46-1-9,9>>^ Deus é fiel, aquele que os chamou para estarem em união com o seu Filho, Jesus Cristo, o nosso Senhor.
+
+[TIP]
+====
+- *estarem em união*: Ou: “terem uma parceria (participação)”. A palavra grega que aparece aqui, koinonía, foi usada várias vezes por Paulo em suas cartas. (1Co 10:16; 2Co 6:14; 13:14) Neste contexto, ela indica que estar em união com o Filho de Deus envolve ter uma forte amizade com ele. — Veja a nota de estudo em At 2:42.
+====
+
+[[v46-1-10]]
+
+^<<v46-1-10,10>>^ Eu os exorto, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos falem de acordo e que não haja divisões entre vocês, mas que estejam completamente unidos na mesma mente e na mesma maneira de pensar.
+
+[TIP]
+====
+- *divisões*: Ou: “dissenções; cismas”. Paulo dava muita importância para a união dentro da congregação cristã, assim como Jesus, que tinha orado para que houvesse união entre seus seguidores. (Jo 17:20-23) Quando Paulo escreveu sua primeira carta inspirada aos coríntios (por volta de 55 d.C.), já existiam divisões dentro da congregação. Alguns consideravam que Apolo era o seu líder, outros preferiam Paulo ou Pedro e ainda outros diziam que pertenciam apenas a Cristo. (1Co 1:11, 12) Paulo aconselhou os coríntios a não darem destaque demais a simples homens, que estavam apenas servindo como ministros de Deus e de Cristo. (1Co 3:4-9, 21-23; 4:6, 7) Ele usou a palavra grega skhísma, traduzida aqui como “divisões”, três vezes na sua primeira carta aos coríntios. — 1Co 1:10; 11:18; 12:25.
+====
+
+[[v46-1-11]]
+
+^<<v46-1-11,11>>^ Pois alguns da casa de Cloe me informaram a respeito de vocês, meus irmãos, que existem discórdias entre vocês.
+
+[TIP]
+====
+- *da casa de Cloe*: Esta é a única vez que a Bíblia menciona uma mulher chamada Cloe. Ela talvez tenha morado em Corinto ou em Éfeso, onde a carta de 1 Coríntios foi escrita. Paulo não diz especificamente se ela morava em uma dessas cidades nem se ela era cristã. Mas, já que Paulo se refere à “casa de Cloe” por nome, pelo visto pelo menos alguns de seus familiares ou escravos eram cristãos que os irmãos em Corinto conheciam.
+====
+
+[[v46-1-12]]
+
+^<<v46-1-12,12>>^ O que eu quero dizer é que cada um de vocês diz: “Eu pertenço a Paulo”, “mas eu a Apolo”, “mas eu a Cefas”, “mas eu a Cristo”.
+
+[TIP]
+====
+- *Apolo*: Este cristão judeu de Alexandria tinha viajado de Éfeso para Corinto, onde ele ajudou os que tinham se tornado cristãos. (At 18:24-28; 19:1; veja a nota de estudo em At 18:24.) Apolo “regou” as sementes que Paulo tinha plantado em Corinto. — 1Co 3:5, 6; veja a nota de estudo em 1Co 16:12.
+- *Cefas*: Este era um dos nomes do apóstolo Simão Pedro. Na ocasião em que Jesus conheceu Simão, Jesus lhe deu o nome semítico de Cefas (em grego, Kefás). Esse nome talvez esteja relacionado com o substantivo hebraico kefím (“rochas”), que aparece em Jó 30:6 e Je 4:29. Em Jo 1:42, João explica que o nome Cefas “traduzido é Pedro” (Pétros, um nome grego que significa “um pedaço de rocha”). O nome Cefas aparece apenas em Jo 1:42 e em duas cartas de Paulo (1 Coríntios e Gálatas). — 1Co 1:12; 3:22; 9:5; 15:5; Gál 1:18; 2:9, 11, 14; veja as notas de estudo em Mt 10:2; Jo 1:42.
+====
+
+[[v46-1-13]]
+
+^<<v46-1-13,13>>^ Por acaso o Cristo está dividido? Será que Paulo foi morto na estaca em favor de vocês? Ou, será que vocês foram batizados em nome de Paulo?
+
+[TIP]
+====
+- *morto na estaca*: Ou: “preso numa estaca (num poste)”. — Veja a nota de estudo em Mt 20:19 e o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.
+====
+
+[[v46-1-14]]
+
+^<<v46-1-14,14>>^ Agradeço a Deus por eu não ter batizado a nenhum de vocês, a não ser Crispo e Gaio,
+
+[[v46-1-15]]
+
+^<<v46-1-15,15>>^ para que ninguém diga que vocês foram batizados em meu nome.
+
+[[v46-1-16]]
+
+^<<v46-1-16,16>>^ Sim, batizei também os da casa de Estéfanas. Quanto aos outros, não sei se batizei mais alguém.
+
+[[v46-1-17]]
+
+^<<v46-1-17,17>>^ Pois Cristo não me enviou para batizar, mas para declarar as boas novas; e não com sabedoria de palavras,^&#42;1^ a fim de que a estaca do Cristo não se torne inútil.
+
+[NOTE]
+====
+. Ou: “não com palavras inteligentes”.
+====
+
+[TIP]
+====
+- *Cristo não me enviou para batizar*: Paulo podia batizar (Mt 28:19) e às vezes fazia isso. Mas, neste contexto, ele mostra que a principal designação que ele tinha recebido de Cristo não era batizar outros. (1Co 1:14, 16) Paulo não queria que o batismo se tornasse um motivo para divisão, como se os batismos realizados pelos apóstolos tivessem mais valor do que os realizados por outros.
+- *a estaca do Cristo*: Ou: “a estaca de tortura do Cristo”. Aqui, a palavra “estaca” (em grego, staurós) foi usada para se referir à morte de Jesus na estaca. Jesus morreu dessa forma para que os humanos pudessem ser libertados da escravidão ao pecado e se tornar amigos de Deus.
+====
+
+[[v46-1-18]]
+
+^<<v46-1-18,18>>^ Pois a mensagem a respeito da estaca é tolice para os que estão a caminho da destruição,^&#42;1^ mas para nós, que estamos sendo salvos, é o poder de Deus.
+
+[NOTE]
+====
+. Ou: “estão perecendo”.
+====
+
+[TIP]
+====
+- *da estaca*: Ou: “da estaca de tortura”. — Veja a nota de estudo em 1Co 1:17.
+====
+
+[[v46-1-19]]
+
+^<<v46-1-19,19>>^ Pois está escrito: “Acabarei com a sabedoria dos sábios e rejeitarei^&#42;1^ a inteligência dos intelectuais.”
+
+[NOTE]
+====
+. Ou: “porei de lado”.
+====
+
+[[v46-1-20]]
+
+^<<v46-1-20,20>>^ Onde está o sábio? Onde está o escriba? Onde está o argumentador deste sistema de coisas? Deus não tornou tola a sabedoria do mundo?
+
+[TIP]
+====
+- *o escriba*: Ou seja, um perito na Lei mosaica.
+- *deste sistema de coisas*: A palavra grega aión tem o sentido básico de “época”. Ela pode se referir também a uma situação existente ou a características marcantes de certo período ou época. (Veja o Glossário, “Sistema(s) de coisas”.) Aqui, ela se refere ao que 2Ti 4:10 chama de “este mundo”, ou seja, à situação predominante no mundo em geral.
+====
+
+[[v46-1-21]]
+
+^<<v46-1-21,21>>^ Pois, na sabedoria de Deus, o mundo, pela sua sabedoria, não chegou a conhecer a Deus. Portanto Deus, por meio da tolice do que se prega, se agradou de salvar os que creem.
+
+[TIP]
+====
+- *da tolice do que se prega*: Aqui, Paulo chama a pregação sobre o Cristo de “tolice” porque, para as nações, essa mensagem parecia ser tolice. Os gregos não entendiam por que um judeu precisaria morrer como um criminoso desprezado para salvá-los. (1Co 1:18, 25; veja a nota de estudo em 1Co 1:22.) E os judeus pensavam que seriam salvos por seguir a Lei, por ajudar os pobres e por ser descendentes de servos leais de Deus, em especial de Abraão. Eles não aceitavam que o Messias pudesse ser alguém que eles consideravam fraco, um homem que tinha permitido que outros o pregassem numa estaca. — 1Co 1:23.
+====
+
+[[v46-1-22]]
+
+^<<v46-1-22,22>>^ Pois os judeus pedem sinais, e os gregos procuram sabedoria,
+
+[TIP]
+====
+- *os gregos*: No século 1 d.C., a palavra grega Héllen (“grego”) não se referia necessariamente a alguém que tinha nascido na Grécia ou que tinha origem grega. O versículo seguinte (1Co 1:23) chama esse mesmo grupo de “as nações”, mostrando que, neste contexto, Paulo usa a expressão “os gregos” para representar todos os povos não judeus (Ro 1:16; 2:9, 10; 3:9; 10:12; 1Co 10:32; 12:13). Sem dúvida, ele fez isso por causa do destaque e da influência que a língua e a cultura grega tinham em todo o Império Romano. — Veja a nota de estudo em Ro 1:16.
+====
+
+[[v46-1-23]]
+
+^<<v46-1-23,23>>^ mas nós proclamamos Cristo morto na estaca, que para os judeus é motivo de tropeço, e para as nações é tolice.
+
+[TIP]
+====
+- *que para os judeus é motivo de tropeço*: A Lei dizia que quem fosse pendurado num madeiro era “amaldiçoado por Deus”. (De 21:22, 23; Gál 3:13) Por isso, os judeus consideravam que o modo como Jesus morreu era vergonhoso e não era digno do Messias. Assim, isso se tornou um “motivo de tropeço” para eles.
+====
+
+[[v46-1-24]]
+
+^<<v46-1-24,24>>^ No entanto, para os chamados, tanto judeus como gregos, Cristo é o poder de Deus e a sabedoria de Deus.
+
+[[v46-1-25]]
+
+^<<v46-1-25,25>>^ Porque uma coisa tola de Deus é mais sábia do que os homens, e uma coisa fraca de Deus é mais forte do que os homens.
+
+[[v46-1-26]]
+
+^<<v46-1-26,26>>^ Pois vocês podem ver a sua chamada da parte dele, irmãos: não há muitos sábios do ponto de vista humano,^&#42;1^ nem muitos poderosos, nem muitos de origem nobre,
+
+[NOTE]
+====
+. Lit.: “sábios segundo a carne”.
+====
+
+[TIP]
+====
+- *de origem nobre*: Ou: “de famílias importantes”. Alguns estudiosos acreditam que a palavra grega que aparece aqui se referisse aos membros das famílias mais antigas e destacadas da cidade. No mundo greco-romano, essas pessoas de “origem nobre” faziam parte da elite. As palavras de Paulo aqui indicam que alguns cristãos de Corinto podem ter feito parte da alta sociedade.
+====
+
+[[v46-1-27]]
+
+^<<v46-1-27,27>>^ mas Deus escolheu as coisas tolas do mundo para envergonhar os sábios; e Deus escolheu as coisas fracas do mundo para envergonhar as coisas fortes;
+
+[[v46-1-28]]
+
+^<<v46-1-28,28>>^ e Deus escolheu as coisas insignificantes do mundo e as coisas menosprezadas, as coisas que não são, para reduzir a nada as coisas que são,
+
+[[v46-1-29]]
+
+^<<v46-1-29,29>>^ a fim de que ninguém se orgulhe à vista de Deus.
+
+[TIP]
+====
+- *ninguém*: Ou: “nenhuma carne”. A palavra grega para “carne” (sarx) é usada aqui para se referir a humanos, feitos de carne e osso. — Veja as notas de estudo em Jo 17:2; Ro 3:20.
+====
+
+[[v46-1-30]]
+
+^<<v46-1-30,30>>^ Mas é devido a ele que vocês estão em união com Cristo Jesus, que se tornou para nós sabedoria da parte de Deus, também justiça, santificação e livramento por resgate,
+
+[TIP]
+====
+- *justiça*: Veja o Glossário.
+====
+
+[[v46-1-31]]
+
+^<<v46-1-31,31>>^ para que seja assim como está escrito: “Quem se orgulhar, orgulhe-se em Jeová.”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Je 9:24. No texto hebraico original de Jeremias, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja os Apêndices C1 e C2.
+====
+
+'''
+
+xref:045-romanos/045-romanos-016.adoc#v45-16-0[&#60; Capítulo Anterior] | <<v46-1-0,Topo>> | xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[Próximo Capítulo &#62;]

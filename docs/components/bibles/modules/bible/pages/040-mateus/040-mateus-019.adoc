@@ -1,0 +1,216 @@
+include::./index.adoc[]
+
+[[v40-19-0]]
+=== As Boas Novas Segundo Mateus, 19
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* J. Jesus prega na Pereia e na região de Jericó (19:1–20:34)
+* Casamento e divórcio (19:1-9)
+* Dom do estado de solteiro (19:10-12)
+* Jesus abençoa as crianças (19:13-15)
+* Pergunta de um jovem rico (19:16-26)
+* Quem fizer sacrifícios pelo Reino será recompensado (19:27-30)
+* Trabalhadores no vinhedo recebem o mesmo salário de um denário (20:1-16)
+* Jesus fala mais uma vez sobre sua morte e ressurreição (20:17-19)
+* Pedido para ter posições de destaque no Reino (20:20-28)
+* Jesus cura dois cegos perto de Jericó (20:29-34)
+****
+
+[[v40-19-1]]
+
+^<<v40-19-1,1>>^ Quando Jesus terminou de falar essas coisas, partiu da Galileia e foi para as fronteiras^&#42;1^ da Judeia, do outro lado do Jordão.
+
+[NOTE]
+====
+. Ou: “limites”.
+====
+
+[TIP]
+====
+- *as fronteiras da Judeia, do outro lado do Jordão*: Pelo visto se refere à Pereia, uma região que ficava ao leste do rio Jordão, especialmente à parte da Pereia que fazia fronteira com a Judeia. Jesus saiu da Galileia naquela ocasião e só voltou lá depois de ser ressuscitado. — Veja o Mapa 5 no Apêndice A7-F.
+====
+
+[[v40-19-2]]
+
+^<<v40-19-2,2>>^ Também, grandes multidões o seguiram, e ele as curou ali.
+
+[[v40-19-3]]
+
+^<<v40-19-3,3>>^ Alguns fariseus se aproximaram dele, querendo pô-lo à prova, e perguntaram: “É permitido que um homem se divorcie da sua esposa por qualquer motivo?”
+
+[[v40-19-4]]
+
+^<<v40-19-4,4>>^ Ele respondeu: “Não leram que aquele que os criou no princípio os fez homem e mulher,
+
+[[v40-19-5]]
+
+^<<v40-19-5,5>>^ e disse: ‘Por essa razão o homem deixará seu pai e sua mãe e se apegará à sua esposa, e os dois serão uma só carne’?
+
+[TIP]
+====
+- *se apegará à*: O verbo grego usado aqui, kolláo, significa literalmente “colar; grudar; unir firmemente”. Aqui, ele é usado em sentido figurado e indica que a ligação entre marido e esposa deve ser tão forte como uma cola.
+- *uma só carne*: Essa expressão grega é uma tradução literal da expressão hebraica que aparece em Gên 2:24. Ela também pode ser traduzida como “um só corpo” ou “uma só pessoa”, e descreve o vínculo mais forte que pode existir entre dois humanos. ‘Tornar-se uma só carne’ não se refere apenas às relações sexuais, mas também à união que deve existir entre marido e esposa em todos os sentidos. Essa união transforma duas pessoas em companheiros fiéis e inseparáveis. Não é possível romper esse tipo de vínculo sem que as duas partes sofram algum dano.
+====
+
+[[v40-19-6]]
+
+^<<v40-19-6,6>>^ De modo que não são mais dois, mas uma só carne. Portanto, o que Deus pôs sob o mesmo jugo, o homem não deve separar.”
+
+[[v40-19-7]]
+
+^<<v40-19-7,7>>^ Perguntaram-lhe: “Então, por que Moisés mandou que o homem desse a ela um certificado de divórcio e a mandasse embora?”
+
+[TIP]
+====
+- *certificado de divórcio*: Se um homem quisesse se divorciar, a Lei exigia que ele preparasse um documento jurídico. Para isso, ele provavelmente teria que procurar os anciãos da cidade. Assim, o homem teria tempo de voltar atrás nesse assunto tão sério. Pelo visto, o objetivo dessa lei era impedir um divórcio precipitado e dar proteção jurídica às mulheres. (De 24:1) Mas, na época de Jesus, os líderes religiosos tinham tornado fácil conseguir o divórcio. O historiador Josefo, que viveu no século 1 d.C. e era um fariseu divorciado, mencionou que o divórcio era permitido “por qualquer motivo (e os homens encontram muitos motivos para isso)”. — Veja a nota de estudo em Mt 5:31.
+====
+
+[[v40-19-8]]
+
+^<<v40-19-8,8>>^ Ele lhes disse: “Foi por causa da dureza do coração de vocês que Moisés lhes fez a concessão de se divorciarem de suas esposas, mas não era assim no princípio.
+
+[[v40-19-9]]
+
+^<<v40-19-9,9>>^ Eu lhes digo que quem se divorcia da sua esposa, a não ser por causa de imoralidade sexual, e se casa com outra, comete adultério.”
+
+[TIP]
+====
+- *quem se divorcia da sua esposa*: Veja a nota de estudo em Mr 10:12.
+- *imoralidade sexual*: Em grego, porneía. — Veja a nota de estudo em Mt 5:32 e o Glossário.
+- *adultério*: Veja o Glossário.
+====
+
+[[v40-19-10]]
+
+^<<v40-19-10,10>>^ Os discípulos lhe disseram: “Se essa é a situação entre o homem e sua esposa, não é aconselhável se casar.”
+
+[[v40-19-11]]
+
+^<<v40-19-11,11>>^ Ele lhes disse: “Nem todos os homens dão lugar a essas palavras, mas somente os que têm o dom.
+
+[[v40-19-12]]
+
+^<<v40-19-12,12>>^ Pois há eunucos que nasceram assim, há eunucos que foram feitos eunucos pelos homens e há eunucos que se fizeram eunucos por causa do Reino dos céus. Dê lugar a isso aquele que pode dar lugar a isso.”
+
+[TIP]
+====
+- *eunucos*: Literalmente, significa homens castrados. Neste versículo, a palavra é usada tanto em sentido literal como em sentido figurado. — Veja o Glossário, “Eunuco”.
+- *se fizeram eunucos*: Ou: “escolheram viver como eunucos”. Aqui, a palavra “eunucos” não se refere a homens que castraram a si mesmos ou que foram castrados por outros. Neste caso, se refere a homens que decidiram continuar solteiros. — Veja o Glossário, “Eunuco”.
+====
+
+[[v40-19-13]]
+
+^<<v40-19-13,13>>^ Então alguns trouxeram a ele criancinhas, para que pusesse as mãos sobre elas e proferisse uma oração, mas os discípulos os repreenderam.
+
+[[v40-19-14]]
+
+^<<v40-19-14,14>>^ Jesus, porém, disse: “Deixem as criancinhas e não tentem impedi-las de vir a mim, pois o Reino dos céus pertence aos que são como elas.”
+
+[[v40-19-15]]
+
+^<<v40-19-15,15>>^ Ele pôs as mãos sobre elas e partiu dali.
+
+[[v40-19-16]]
+
+^<<v40-19-16,16>>^ Então alguém se aproximou dele e perguntou: “Instrutor, o que devo fazer de bom para ganhar a vida eterna?”
+
+[[v40-19-17]]
+
+^<<v40-19-17,17>>^ Ele lhe disse: “Por que você me pergunta sobre o que é bom? Bom só existe um. Porém, se você quer entrar na vida, obedeça sempre aos mandamentos.”
+
+[TIP]
+====
+- *Bom só existe um*: Ou seja, só Deus é bom. Jesus destacou aqui que Jeová é o padrão mais elevado do que é ser bom. Deus nos ensina o que é bom por meio da sua Palavra, a Bíblia. — Mr 10:18; Lu 18:19.
+====
+
+[[v40-19-18]]
+
+^<<v40-19-18,18>>^ Ele lhe perguntou: “Quais?” Jesus disse: “Não assassine; não cometa adultério; não furte; não dê falso testemunho;
+
+[[v40-19-19]]
+
+^<<v40-19-19,19>>^ honre seu pai e sua mãe; e ame o seu próximo como a si mesmo.”
+
+[TIP]
+====
+- *próximo*: Veja a nota de estudo em Mt 22:39.
+====
+
+[[v40-19-20]]
+
+^<<v40-19-20,20>>^ O jovem lhe disse: “Tenho cumprido todos esses. O que me falta ainda?”
+
+[[v40-19-21]]
+
+^<<v40-19-21,21>>^ Jesus lhe disse: “Se você quer ser perfeito, vá vender seus bens e dê o dinheiro aos pobres, e você terá um tesouro no céu; e venha ser meu seguidor.”
+
+[TIP]
+====
+- *Jesus lhe disse*: Jesus notou que o jovem estava sendo sincero e, de acordo com Mr 10:21, Jesus ‘sentiu amor’ por ele. Mas Jesus talvez tenha percebido que o jovem precisava ser mais abnegado para se tornar seu discípulo e lhe disse: vá vender seus bens e dê o dinheiro aos pobres. Antes disso, Pedro e outros já tinham deixado para trás tudo o que tinham para seguir Jesus, mas o jovem não teve coragem de fazer o mesmo. — Mt 4:20, 22; Lu 18:23, 28.
+- *perfeito*: A palavra grega usada aqui pode transmitir a ideia de que algo é “completo” ou “sem defeito” de acordo com os padrões estabelecidos por alguma autoridade. (Veja a nota de estudo em Mt 5:48.) No caso do jovem rico, ele não conseguia ser perfeito, ou completo, em seu serviço a Deus por causa do amor que tinha por seus bens materiais. — Lu 8:14.
+====
+
+[[v40-19-22]]
+
+^<<v40-19-22,22>>^ Quando o jovem ouviu isso, foi embora triste, porque tinha muitas posses.
+
+[[v40-19-23]]
+
+^<<v40-19-23,23>>^ Jesus disse então aos seus discípulos: “Eu lhes digo a verdade: Será difícil para um rico entrar no Reino dos céus.
+
+[TIP]
+====
+- *Eu lhes digo a verdade*: Veja a nota de estudo em Mt 5:18.
+====
+
+[[v40-19-24]]
+
+^<<v40-19-24,24>>^ Eu lhes digo ainda: É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus.”
+
+[TIP]
+====
+- *mais fácil um camelo passar pelo buraco de uma agulha*: Jesus usou uma hipérbole para ensinar uma lição importante. Assim como é impossível que um camelo passe pelo buraco de uma agulha, é impossível que uma pessoa que ama mais as riquezas do que a Jeová entre no Reino. Mas Jesus não quis dizer que nenhuma pessoa rica poderia entrar no Reino, pois ele disse: “Para Deus todas as coisas são possíveis.” — Mt 19:26.
+====
+
+[[v40-19-25]]
+
+^<<v40-19-25,25>>^ Quando os discípulos ouviram isso, ficaram muito espantados e disseram: “Quem realmente pode ser salvo?”
+
+[[v40-19-26]]
+
+^<<v40-19-26,26>>^ Jesus olhou fixamente para eles e lhes disse: “Para os homens isso é impossível, mas para Deus todas as coisas são possíveis.”
+
+[[v40-19-27]]
+
+^<<v40-19-27,27>>^ Pedro respondeu: “Veja, deixamos tudo e seguimos o senhor. O que haverá então para nós?”
+
+[[v40-19-28]]
+
+^<<v40-19-28,28>>^ Jesus lhes disse: “Eu lhes garanto: Na recriação, quando o Filho do Homem se sentar no seu trono glorioso, vocês que me seguiram se sentarão em 12 tronos e julgarão as 12 tribos de Israel.
+
+[TIP]
+====
+- *recriação*: Ou: “regeneração; renovação”. A palavra grega palingenesía é formada pelas palavras pálin, que significa “novamente; de novo; mais uma vez”, e génesis, que significa “nascimento; origem”. Um antigo escritor judeu chamado Fílon usou essa palavra para se referir à renovação do mundo depois do Dilúvio. O historiador judeu Josefo também usou essa palavra para se referir ao restabelecimento da nação de Israel depois do exílio em Babilônia. Aqui no relato de Mateus, a “recriação” se refere ao período em que Cristo e seus irmãos ungidos governarão a Terra. Nessa época, a Terra terá um novo começo: ela voltará a ter as mesmas condições perfeitas que existiam antes de Adão e Eva pecarem.
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+- *julgarão*: Este e outros textos bíblicos indicam que os irmãos ungidos de Cristo não vão apenas reinar, mas também julgar as pessoas junto com ele. (1Co 6:2; Ap 20:4) Há outros casos em que a Bíblia diz que governantes julgaram e que juízes governaram, mostrando que a palavra “julgar” pode ter o sentido mais amplo de “reinar” ou “governar”. — Jz 2:18; 10:2; Ob 21.
+====
+
+[[v40-19-29]]
+
+^<<v40-19-29,29>>^ E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos ou terras, por causa do meu nome, receberá cem vezes mais e herdará a vida eterna.
+
+[TIP]
+====
+- *cem vezes*: Alguns poucos manuscritos dizem “muitas vezes”, mas a opção “cem vezes” aparece em um número maior de manuscritos mais antigos. Por isso, esta revisão da Tradução do Novo Mundo usa a opção “cem vezes”. — Compare com Mr 10:30; Lu 18:30.
+- *herdará*: Veja a nota de estudo em Mt 25:34.
+====
+
+[[v40-19-30]]
+
+^<<v40-19-30,30>>^ “Mas muitos que são primeiros serão últimos; e os últimos, primeiros.
+
+'''
+
+xref:040-mateus/040-mateus-018.adoc#v40-18-0[&#60; Capítulo Anterior] | <<v40-19-0,Topo>> | xref:040-mateus/040-mateus-020.adoc#v40-20-0[Próximo Capítulo &#62;]

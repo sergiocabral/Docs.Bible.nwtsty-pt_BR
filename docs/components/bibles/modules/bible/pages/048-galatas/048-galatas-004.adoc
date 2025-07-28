@@ -1,0 +1,245 @@
+include::./index.adoc[]
+
+[[v48-4-0]]
+=== Aos Gálatas, 4
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* C. A PESSOA NÃO PODE SER DECLARADA JUSTA POR MEIO DAS OBRAS DA LEI, MAS APENAS POR MEIO DA FÉ EM CRISTO (2:15–4:20)
+* Se a justiça vem por meio de lei, Cristo morreu em vão (2:15-21)
+* Contraste entre as obras da Lei e a fé (3:1-14)
+* As promessas a Abraão não se baseiam na Lei (3:15-18)
+* O objetivo da Lei mosaica (3:19-25)
+* Não mais escravos, mas filhos de Deus (3:26–4:7)
+* Apelo de Paulo para que os gálatas não voltem a ser escravos das coisas fracas e mesquinhas (4:8-11)
+* Preocupação de Paulo com os cristãos da Galácia (4:12-20)
+* D. PAULO EXPLICA O QUE A LIBERDADE CRISTÃ SIGNIFICA (4:21–6:10)
+* Paulo usa um drama simbólico para explicar a liberdade cristã (4:21–5:1)
+* Insistir na circuncisão não traz liberdade (5:2-12)
+* A luta contínua entre carne e espírito (5:13-26)
+* Cumprir a lei do Cristo envolve levar os fardos uns dos outros (6:1-6)
+* Cada um colherá aquilo que semear (6:7-10)
+****
+
+[[v48-4-1]]
+
+^<<v48-4-1,1>>^ Digo porém que, enquanto o herdeiro é uma criancinha, não difere em nada de um escravo, embora seja senhor de tudo,
+
+[[v48-4-2]]
+
+^<<v48-4-2,2>>^ mas está debaixo de supervisores e administradores até o dia marcado com antecedência por seu pai.
+
+[TIP]
+====
+- *debaixo de supervisores e administradores*: Nos dias de Paulo, a prática de nomear alguém como guardião legal de um menor de idade era conhecida. Esse guardião, ou supervisor, era responsável por cuidar do menor e dos interesses financeiros dele. A função dele era diferente da função do administrador, que era quem cuidava dos assuntos financeiros da casa toda. O fato é que, enquanto “o herdeiro [fosse] uma criancinha” e estivesse debaixo de um supervisor ou de um administrador, ele não podia exercer seus direitos sobre a herança, embora fosse o “senhor” dela. Nesse sentido, ele não era diferente de um simples escravo. (Gál 4:1) A vida dele era controlada por outros até que ele chegasse à idade adulta. Paulo compara isso à situação dos judeus que ficaram debaixo da Lei até chegar o tempo de serem libertados pelo Filho de Deus. — Gál 4:4-7.
+====
+
+[[v48-4-3]]
+
+^<<v48-4-3,3>>^ Da mesma forma, quando éramos crianças, nós também estávamos escravizados às coisas elementares do mundo.
+
+[TIP]
+====
+- *coisas elementares*: A palavra grega que aparece aqui geralmente era usada para se referir aos “elementos mais básicos de algo”. Por exemplo, ela era usada para se referir aos sons e às letras do alfabeto grego, ou seja, os elementos básicos que eram usados para formar as palavras. Aqui e em Col 2:8, 20, Paulo usa essa palavra em sentido negativo para se referir aos princípios básicos que guiam o mundo, a sociedade humana injusta afastada de Deus. Esses princípios talvez incluíssem (1) filosofias que se baseavam na sabedoria humana e na mitologia (Col 2:8), (2) ensinos judaicos que não se baseavam nas Escrituras e defendiam um modo de vida rígido e a “adoração de anjos” (Col 2:18) e (3) o ensino de que os cristãos precisavam seguir a Lei mosaica para ganhar a salvação (Gál 4:4–5:4; Col 2:16, 17). Os cristãos na Galácia não precisavam dessas “coisas elementares”, porque eles adoravam a Deus de um modo superior, com base na fé em Cristo Jesus. Se os cristãos escolhessem se colocar debaixo da Lei mosaica, que Paulo comparou com um tutor (Gál 3:23-26), eles estariam como que voltando a ser crianças, sendo escravizados por coisas elementares. Mas não devia ser assim. O relacionamento deles com Deus devia ser parecido com o relacionamento de um filho adulto com seu pai. Não fazia nenhum sentido voltar a seguir a Lei nem se sujeitar “às coisas elementares, fracas e mesquinhas” defendidas pelos que não seguiam a Cristo. — Gál 4:9.
+====
+
+[[v48-4-4]]
+
+^<<v48-4-4,4>>^ Mas, quando se completou o tempo, Deus enviou o seu Filho, que nasceu de uma mulher e estava debaixo de lei,
+
+[TIP]
+====
+- *se completou o tempo*: Lit.: “chegou a plenitude do tempo”. Algumas Bíblias traduzem estas palavras como “chegou o tempo certo” ou “se completou o tempo previsto”. Este versículo indica que Jeová já tinha definido quando seu Filho unigênito viria à Terra como o Messias e cumpriria a promessa sobre o “descendente”. (Gên 3:15; 49:10) O apóstolo Pedro também fez referência a um “tempo específico” ao falar sobre o Cristo. (1Pe 1:10-12) As Escrituras Hebraicas indicavam o tempo específico em que o Messias apareceria. (Da 9:25) Jesus nasceu de uma mulher, a virgem judia Maria, no ano 2 a.C.
+- *estava debaixo de lei*: Durante seu ministério terrestre, Jesus seguiu a Lei mosaica, assim como os outros judeus. (Mt 5:17; veja a nota de estudo em Lu 22:20.) A Lei só foi abolida depois que ele morreu. — Ro 10:4.
+====
+
+[[v48-4-5]]
+
+^<<v48-4-5,5>>^ para livrar por meio de uma compra os debaixo de lei, para que nós recebêssemos a adoção como filhos.
+
+[TIP]
+====
+- *livrar por meio de uma compra*: Jesus livrou por meio de uma compra os debaixo de lei, ou seja, os judeus que exerceram fé nele. Paulo acrescenta: “Para que nós [pelo visto se referindo aos cristãos ungidos, tanto judeus como não judeus] recebêssemos a adoção como filhos.” A palavra grega exagorázo, traduzida aqui como “livrar por meio de uma compra” também aparece em Gál 3:13, onde Paulo diz: “Cristo nos comprou, livrando-nos da maldição da Lei por se tornar maldição em nosso lugar.” — Veja a nota de estudo em Gál 3:13.
+- *a adoção como filhos*: Nas Escrituras Gregas Cristãs, o conceito de adoção foi usado várias vezes por Paulo ao falar da mudança que ocorre na situação dos que são chamados e escolhidos por Deus. Esses escolhidos passam a ter a esperança da vida imortal no céu. Por causa da imperfeição herdada de Adão, eles nascem escravos do pecado e, por isso, não poderiam ser considerados filhos de Deus. Mas, graças ao sacrifício de resgate de Jesus, eles podem ser adotados como filhos e se tornar “co-herdeiros com Cristo”. (Ro 8:14-17) Não são eles que escolhem ser adotados como filhos de Deus. Em vez disso, é Deus quem os escolhe segundo a vontade dele. (Ef 1:5) Deus os considera como filhos a partir do momento em que ele derrama seu espírito santo sobre eles para ungi-los. (Jo 1:12, 13; 1Jo 3:1) Mas eles precisam continuar fiéis até o fim de sua vida na Terra para receberem sua recompensa no céu e serem adotados de forma definitiva por Deus. (Ro 8:17; Ap 21:7) É por isso que Paulo disse em Ro 8:23: “Esperamos ansiosamente a adoção como filhos — sermos livrados do nosso corpo por meio de resgate.” (Veja a nota de estudo em Ro 8:15.) Nos tempos antigos, a adoção era uma prática bem conhecida. No mundo greco-romano, ela visava principalmente beneficiar a pessoa que estava adotando alguém. Mas Paulo destaca que Jeová, por amor, agiu pensando no bem dos que estavam sendo adotados. — Gál 4:3, 4.
+====
+
+[[v48-4-6]]
+
+^<<v48-4-6,6>>^ Assim, visto que vocês são filhos, Deus enviou o espírito do seu Filho aos nossos corações, e o espírito clama: “Aba, Pai!”
+
+[TIP]
+====
+- *o espírito do seu Filho*: Aqui, a palavra “espírito” se refere ao espírito santo, ou força ativa, de Deus. Ao ungir um cristão, Deus usa seu Filho para enviar o espírito santo ao coração dele. — Compare com At 2:33 e a nota de estudo em At 16:7.
+- *Aba*: A palavra grega Abbá é uma transliteração de uma palavra hebraica ou aramaica que significa literalmente “o pai” ou “ó Pai”. Essa palavra aparece três vezes nas Escrituras Gregas Cristãs e era um jeito carinhoso de se dirigir ao pai. (Veja a nota de estudo em Mr 14:36.) Paulo usa essa palavra tanto aqui como em Ro 8:15. Nas duas vezes, ele está falando com cristãos que tinham sido chamados para ser filhos de Deus gerados por espírito. Já que tinham sido adotados por Deus, eles podiam se dirigir a Jeová usando uma expressão que um escravo não adotado jamais usaria para se dirigir a seu dono. Assim, apesar de os cristãos ungidos serem “escravos de Deus” que foram “comprados por um preço”, eles também são filhos de um Pai amoroso. O espírito santo faz com que eles tenham certeza de sua condição de filhos. — Ro 6:22; 1Co 7:23.
+- *Pai*: Nas três vezes que a palavra Aba aparece nas Escrituras Gregas Cristãs, ela é seguida por sua tradução para o grego, ho patér, que significa literalmente “o pai” ou “ó Pai”.
+====
+
+[[v48-4-7]]
+
+^<<v48-4-7,7>>^ De modo que você não é mais escravo, mas filho; e, se é filho, então Deus também o fez herdeiro.
+
+[[v48-4-8]]
+
+^<<v48-4-8,8>>^ Contudo, quando vocês não conheciam a Deus, eram escravos dos que não são realmente deuses.
+
+[[v48-4-9]]
+
+^<<v48-4-9,9>>^ Mas, agora que vocês conhecem a Deus, ou melhor, são conhecidos por Deus, como é que voltam novamente às coisas elementares, fracas e mesquinhas, e querem novamente ser escravos delas?
+
+[TIP]
+====
+- *vocês conhecem a Deus*: Muitos dos cristãos na Galácia ‘conheceram a Deus’ por causa da pregação de Paulo. O verbo traduzido neste versículo como “conhecem” e “são conhecidos” pode dar a entender que existe um bom relacionamento entre as pessoas envolvidas. (1Co 8:3; 2Ti 2:19) Assim, ‘conhecer a Deus’ não envolve apenas ter um conhecimento básico sobre ele; envolve se tornar amigo dele. — Veja a nota de estudo em Jo 17:3.
+- *ou melhor, são conhecidos por Deus*: Estas palavras deixam claro que, para uma pessoa poder dizer que ‘conhece a Deus’, ela precisa também ser conhecida, ou aprovada por ele. Um léxico define a palavra grega para “conhecer; ser conhecido” como “ter um relacionamento pessoal que envolve conhecer a identidade do outro ou reconhecer seu valor”. Para ser conhecido por Deus nesse sentido, é necessário viver de um modo que esteja de acordo com a personalidade, as orientações e o modo de agir dele.
+- *mesquinhas*: Alguns cristãos da Galácia estavam voltando às “coisas elementares” que tinham abandonado. Elas talvez incluíssem coisas como filosofias humanas ou o ensino de que os cristãos deviam seguir a Lei mosaica ou, pelo menos, partes dela. (Col 2:8, 16-18, 20; veja a nota de estudo em Gál 4:3.) Ao dizer que essas “coisas elementares” eram “mesquinhas”, Paulo usa uma palavra grega que significa literalmente “pobre; necessitado”. Essa palavra também era usada em sentido figurado, passando a ideia de “digno de pena” ou “sem valor”. Em comparação com as riquezas espirituais que Cristo Jesus oferecia, as “coisas elementares” eram realmente “mesquinhas”.
+====
+
+[[v48-4-10]]
+
+^<<v48-4-10,10>>^ Vocês guardam rigorosamente dias, meses, épocas e anos.
+
+[TIP]
+====
+- *dias, meses, épocas e anos*: Aqui, Paulo está se referindo às ocasiões especiais que a Lei mosaica exigia que o povo de Deus celebrasse. Entre elas havia, por exemplo, os sábados e os anos sabáticos (Êx 20:8-10; Le 25:4, 8, 11), a Lua nova (Núm 10:10; 2Cr 2:4), o Dia da Expiação (Le 16:29-31), a Páscoa (Êx 12:24-27), a Festividade dos Pães sem Fermento (Le 23:6), a Festividade das Semanas (Êx 34:22) e a Festividade das Barracas (Le 23:34). Essas celebrações aconteciam em datas específicas. Alguns dos cristãos na Galácia tinham seguido a Lei mosaica e participado fielmente dessas celebrações por muitos anos. Mas, quando aprenderam sobre o sacrifício de resgate de Cristo, eles aceitaram os benefícios do resgate e entenderam que tinham sido libertados da escravidão à Lei mosaica. (At 13:38, 39) Paulo tinha bons motivos para estar preocupado com aqueles que queriam seguir de novo a Lei e celebrar as ocasiões especiais que ela exigia. (Gál 4:11) Da mesma forma, se um cristão não judeu quisesse voltar aos costumes pagãos de sua antiga religião, isso mostraria falta de fé no sacrifício de resgate de Cristo.
+====
+
+[[v48-4-11]]
+
+^<<v48-4-11,11>>^ Temo por vocês, que de algum modo os meus esforços por vocês tenham sido em vão.
+
+[[v48-4-12]]
+
+^<<v48-4-12,12>>^ Irmãos, eu lhes suplico: Tornem-se como eu, porque eu também era como vocês. Vocês não me fizeram nenhum mal.
+
+[[v48-4-13]]
+
+^<<v48-4-13,13>>^ Mas vocês sabem que foi por causa de uma doença que eu pude lhes declarar as boas novas pela primeira vez.
+
+[TIP]
+====
+- *por causa de uma doença*: Não se sabe ao certo qual era a doença que Paulo menciona aqui, mas é possível que fosse um problema de visão. (Gál 4:15; 6:11; compare com At 23:1-5.) De qualquer forma, Paulo diz que foi por causa dessa doença que ele teve a chance de declarar as boas novas na Galácia pela primeira vez. Isso pode ter acontecido durante sua primeira viagem missionária, por volta de 47-48 d.C. Nessa viagem, ele e Barnabé passaram pela Galácia e visitaram Antioquia da Pisídia, Icônio, Listra e Derbe. (At 13:14, 51; 14:6, 21) Paulo visitou essas cidades de novo por volta de 49 d.C., antes de escrever esta carta. — At 15:40–16:1.
+====
+
+[[v48-4-14]]
+
+^<<v48-4-14,14>>^ E, embora a minha condição física lhes tenha sido uma provação,^&#42;1^ vocês não me trataram com desprezo nem com repugnância;^&#42;2^ mas me receberam como a um anjo de Deus, como a Cristo Jesus.
+
+[NOTE]
+====
+. Ou: “tentação”. Lit.: “prova”.
+. Ou: “nem cuspiram em mim”.
+====
+
+[[v48-4-15]]
+
+^<<v48-4-15,15>>^ Onde está aquela felicidade de vocês? Pois eu tenho certeza de que, se tivesse sido possível, vocês teriam até arrancado os próprios olhos e os teriam dado a mim.
+
+[TIP]
+====
+- *vocês teriam até arrancado os próprios olhos e os teriam dado a mim*: Aqui, Paulo usa um recurso de linguagem comum em seus dias que envolvia falar algo que seria, na verdade, fisicamente impossível. Paulo usa esse recurso para destacar o tamanho do amor que os gálatas sentiam por ele. Eles estavam dispostos a sacrificar qualquer coisa em favor de Paulo, mesmo algo tão valioso como sua visão. Caso a doença que Paulo menciona nos versículos 13 e 14 fosse um problema crônico de visão, o que ele diz aqui seria ainda mais significativo. — Veja também At 23:2-5; 2Co 12:7-9; Gál 6:11.
+====
+
+[[v48-4-16]]
+
+^<<v48-4-16,16>>^ Será então que eu me tornei seu inimigo por lhes dizer a verdade?
+
+[[v48-4-17]]
+
+^<<v48-4-17,17>>^ Eles buscam zelosamente ganhar vocês, mas não com boas intenções; querem afastá-los de mim, para que vocês se dediquem a seguir a eles.
+
+[[v48-4-18]]
+
+^<<v48-4-18,18>>^ Na verdade, é sempre bom que alguém procure ganhá-los com boas intenções, e não somente quando estou presente entre vocês,
+
+[[v48-4-19]]
+
+^<<v48-4-19,19>>^ que são meus filhinhos, pelos quais estou novamente em dores de parto até que Cristo seja formado^&#42;1^ em vocês.
+
+[NOTE]
+====
+. Ou: “tome forma”.
+====
+
+[TIP]
+====
+- *meus filhinhos*: Neste versículo, Paulo se compara a uma mãe e chama os cristãos da Galácia de seus filhos. Falando deles, ele diz: pelos quais estou novamente em dores de parto. Pelo visto, essas palavras expressam o profundo interesse que Paulo tinha pelos gálatas e o intenso desejo dele de vê-los se desenvolver como cristãos. Nem todos os manuscritos dizem “filhinhos” aqui. Entre os manuscritos mais antigos e confiáveis, alguns usam a palavra grega téknon (“filho”), enquanto outros usam o diminutivo, tekníon (“filhinho”). A Tradução do Novo Mundo segue esses últimos manuscritos. Nas Escrituras Gregas Cristãs, o diminutivo muitas vezes é usado para indicar carinho ou intimidade. Assim, a palavra grega tekníon também poderia ser traduzida como “filhos queridos” ou “filhos amados”. — Veja o Glossário, “Diminutivo”.
+====
+
+[[v48-4-20]]
+
+^<<v48-4-20,20>>^ Eu queria estar agora presente entre vocês e lhes falar de modo diferente,^&#42;1^ pois estou perplexo por sua causa.
+
+[NOTE]
+====
+. Ou, possivelmente: “e mudar o tom da minha voz”. Lit.: “e mudar a minha voz”.
+====
+
+[[v48-4-21]]
+
+^<<v48-4-21,21>>^ Digam-me, vocês que querem estar debaixo de lei: Não dão ouvidos à Lei?
+
+[[v48-4-22]]
+
+^<<v48-4-22,22>>^ Por exemplo, está escrito que Abraão teve dois filhos, um com a serva e o outro com a livre;
+
+[TIP]
+====
+- *a livre*: Esta expressão se refere a Sara, esposa de Abraão, e também à “Jerusalém de cima”. (Gál 4:26) Paulo compara a Jerusalém literal de seus dias com a serva Agar. (Gál 4:25) A nação de Israel, que tinha Jerusalém como capital, não podia ser chamada de livre, já que a Lei deixava claro que os israelitas eram pecadores, ou seja, escravos do pecado. Por outro lado, assim como Sara, a Jerusalém de cima (a esposa figurativa de Deus) sempre foi livre. Os “filhos . . . da livre” foram libertados da escravidão ao pecado pelo Filho de Deus. Eles não estão debaixo da Lei mosaica. — Gál 4:31; 5:1 e a nota de estudo; Jo 8:34-36.
+====
+
+[[v48-4-23]]
+
+^<<v48-4-23,23>>^ mas o filho da serva foi gerado de maneira natural, e o outro, o filho da livre, por meio de uma promessa.
+
+[TIP]
+====
+- *de maneira natural*: Lit.: “segundo a carne”. — Veja a nota de estudo em Ro 1:3.
+====
+
+[[v48-4-24]]
+
+^<<v48-4-24,24>>^ Essas coisas são um drama simbólico; pois essas mulheres representam dois pactos, um do monte Sinai, que gera filhos para a escravidão, e que é Agar.
+
+[TIP]
+====
+- *um drama simbólico*: Ou: “uma alegoria”. Aqui, Paulo usa uma alegoria, que é um tipo de narrativa em que pessoas, objetos e acontecimentos são usados para simbolizar outras coisas. O drama simbólico citado por ele se baseia em Gênesis 16 a 21. Ao falar desse drama, Paulo faz um contraste entre duas mulheres: “a livre” (Sara) e “a serva” (Agar). — Gál 4:22–5:1; veja a mídia “Um drama simbólico envolvendo duas mulheres”.
+- *essas mulheres representam dois pactos*: Pelo visto, os dois pactos mencionados aqui por Paulo são o pacto da Lei mosaica e o pacto abraâmico. Agar e Sara não simbolizavam os pactos em si, mas representavam dois relacionamentos diferentes de Deus com seu povo: um que envolvia escravidão simbólica (ligado ao pacto da Lei) e outro que levava à verdadeira liberdade (ligado ao pacto abraâmico).
+====
+
+[[v48-4-25]]
+
+^<<v48-4-25,25>>^ Agar representa o Sinai, um monte na Arábia, e corresponde à Jerusalém atual, pois está em escravidão com os seus filhos.
+
+[[v48-4-26]]
+
+^<<v48-4-26,26>>^ Mas a Jerusalém de cima é livre, e ela é a nossa mãe.
+
+[[v48-4-27]]
+
+^<<v48-4-27,27>>^ Pois está escrito: “Alegre-se, ó mulher estéril, que não dá à luz; grite de alegria, ó mulher que não tem dores de parto; pois os filhos da mulher abandonada são mais numerosos do que os daquela que tem marido.”
+
+[[v48-4-28]]
+
+^<<v48-4-28,28>>^ Vocês, irmãos, são filhos da promessa, assim como Isaque foi.
+
+[[v48-4-29]]
+
+^<<v48-4-29,29>>^ Mas, assim como naquele tempo o gerado de maneira natural começou a perseguir o gerado por meio do espírito, assim acontece agora.
+
+[TIP]
+====
+- *de maneira natural*: Lit.: “segundo a carne”. — Veja a nota de estudo em Ro 1:3.
+- *começou a perseguir*: Aqui, Paulo está mencionando o relato de Gên 21:9, que fala que Ismael “caçoava de Isaque”. Paulo chama Ismael de o gerado de maneira natural. Por outro lado, Paulo chama Isaque de o gerado por meio do espírito, já que Isaque só nasceu porque Jeová usou seu espírito santo para restaurar a capacidade reprodutiva de Abraão e Sara e assim cumprir sua promessa. (Gên 12:3; 13:14-16; 17:7-9, 19; Gál 4:28) Depois de mencionar a parte desse “drama simbólico” em que Ismael perseguiu Isaque (Gál 4:24), Paulo faz uma aplicação para os seus dias, usando a expressão assim acontece agora; ele explica que os seguidores ungidos de Jesus, os “filhos da promessa” (Gál 4:28), estavam sendo perseguidos pelos judeus, que se consideravam os herdeiros legítimos de Abraão.
+====
+
+[[v48-4-30]]
+
+^<<v48-4-30,30>>^ Contudo, o que dizem as Escrituras? “Expulse a serva e o filho dela, pois o filho da serva de modo algum será herdeiro com o filho da livre.”
+
+[[v48-4-31]]
+
+^<<v48-4-31,31>>^ Portanto, irmãos, não somos filhos de uma serva, mas da livre.
+
+'''
+
+xref:048-galatas/048-galatas-003.adoc#v48-3-0[&#60; Capítulo Anterior] | <<v48-4-0,Topo>> | xref:048-galatas/048-galatas-005.adoc#v48-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,275 @@
+include::./index.adoc[]
+
+[[v44-5-0]]
+=== Atos dos Apóstolos, 5
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* D. Testemunho apesar de oposição (4:1–5:42)
+* Pedro e João são presos; o número dos que acreditam agora chega a cerca de 5.000 homens (4:1-4)
+* Pedro faz sua defesa diante do Sinédrio (4:5-22)
+* Os discípulos oram pedindo coragem para continuar falando a palavra de Deus (4:23-31)
+* Os discípulos compartilham o que têm (4:32-37)
+* Ananias e Safira põem à prova o espírito de Jeová (5:1-11)
+* Os apóstolos realizam muitos sinais (5:12-16)
+* Os apóstolos são presos, mas são libertados por um anjo de Jeová (5:17-21a)
+* Os apóstolos são levados novamente diante do Sinédrio (5:21b-32)
+* Gamaliel alerta o Sinédrio sobre o risco de estarem “lutando contra o próprio Deus” (5:33-40)
+* Os apóstolos pregam no templo e de casa em casa (5:41, 42)
+****
+
+[[v44-5-1]]
+
+^<<v44-5-1,1>>^ No entanto, um homem chamado Ananias, junto com Safira, sua esposa, vendeu uma propriedade.
+
+[[v44-5-2]]
+
+^<<v44-5-2,2>>^ Mas ele secretamente ficou com parte do valor, com o conhecimento de sua esposa. Então, pegou o restante e o colocou aos pés dos apóstolos.
+
+[[v44-5-3]]
+
+^<<v44-5-3,3>>^ Mas Pedro disse: “Ananias, como Satanás levou você a mentir de forma descarada ao espírito santo e ficar secretamente com parte do valor do campo?
+
+[TIP]
+====
+- *levou você a mentir de forma descarada*: Lit.: “encheu o seu coração para mentir”. Neste contexto, “ter o coração cheio” passa a ideia de “se atrever a fazer algo; ter coragem de fazer algo”. A expressão grega para “encher o coração” talvez venha de uma expressão idiomática hebraica que tem esse mesmo significado. Por exemplo, em Est 7:5 a expressão hebraica “encheu seu coração para” foi traduzida como “se atreveu a” e em Ec 8:11 a mesma expressão foi traduzida como “o coração . . . se enche de coragem para fazer o mal”.
+====
+
+[[v44-5-4]]
+
+^<<v44-5-4,4>>^ O campo não era seu antes de você o vender? E, depois de ter sido vendido, o valor não ficou sob o seu controle? Por que você tramou no coração fazer uma coisa dessas? Você mentiu não a homens, mas a Deus.”
+
+[[v44-5-5]]
+
+^<<v44-5-5,5>>^ Ao ouvir essas palavras, Ananias caiu e morreu. E todos os que souberam disso ficaram com muito medo.
+
+[[v44-5-6]]
+
+^<<v44-5-6,6>>^ Então os mais jovens se levantaram e o enrolaram em panos; em seguida o levaram para fora e o enterraram.
+
+[[v44-5-7]]
+
+^<<v44-5-7,7>>^ Cerca de três horas depois, a esposa dele entrou, sem saber o que tinha acontecido.
+
+[[v44-5-8]]
+
+^<<v44-5-8,8>>^ Pedro lhe perguntou: “Diga-me: Vocês dois venderam o campo por tanto?” Ela respondeu: “Sim, por esse valor.”
+
+[[v44-5-9]]
+
+^<<v44-5-9,9>>^ Assim, Pedro lhe disse: “Por que vocês dois concordaram em pôr à prova o espírito de Jeová? Os pés daqueles que enterraram seu marido estão à porta; eles a levarão para fora.”
+
+[TIP]
+====
+- *o espírito de Jeová*: A expressão “o espírito de Jeová” aparece muitas vezes nas Escrituras Hebraicas. (Algumas dessas ocorrências estão em Jz 3:10; 6:34; 11:29; 13:25; 14:6; 15:14; 1Sa 10:6; 16:13; 2Sa 23:2; 1Rs 18:12; 2Rs 2:16; 2Cr 20:14; Is 11:2; 40:13; 63:14; Ez 11:5; Miq 2:7 e 3:8.) Em Lu 4:18, a expressão “o espírito de Jeová” é usada como parte de uma citação de Is 61:1. Tanto no texto original desse versículo de Isaías como no de outras passagens das Escrituras Hebraicas, essa expressão é formada pela palavra hebraica para “espírito” e o Tetragrama. Os motivos que levaram a Tradução do Novo Mundo a usar a expressão “o espírito de Jeová” no texto principal aqui em At 5:9, apesar de os manuscritos gregos disponíveis usarem “o espírito de Senhor”, são explicados nos Apêndices C1 e C3 (introdução e At 5:9).
+====
+
+[[v44-5-10]]
+
+^<<v44-5-10,10>>^ Ela caiu instantaneamente aos pés dele e morreu. Quando os jovens entraram, encontraram-na morta; então a levaram para fora e a enterraram ao lado do marido.
+
+[[v44-5-11]]
+
+^<<v44-5-11,11>>^ Assim, toda a congregação e todos os que ouviram falar sobre isso ficaram com muito medo.
+
+[TIP]
+====
+- *congregação*: Esta é a primeira vez que a palavra grega ekklesía aparece em Atos. Ela é formada por duas palavras gregas: ek, que significa “para fora”, e kaléo, que significa “chamar”. A palavra ekklesía se refere a um grupo de pessoas convocadas ou reunidas para determinado objetivo ou atividade, o que descreve bem a recém-formada congregação cristã. (Veja o Glossário.) A mesma palavra grega foi usada em Mt 16:18 (veja a nota de estudo), onde Jesus predisse a ‘construção’, ou formação, da congregação dos cristãos ungidos. Ela seria uma “casa espiritual”, e os cristãos ungidos são comparados a “pedras viventes”. (1Pe 2:4, 5) Nas Escrituras Gregas Cristãs, a palavra ekklesía é usada para se referir não apenas aos cristãos ungidos como um todo, mas também aos cristãos que viviam numa determinada região ou aos cristãos que formavam uma congregação local. Aqui em At 5:11, a palavra se refere à congregação em Jerusalém. — Veja a nota de estudo em At 7:38.
+====
+
+[[v44-5-12]]
+
+^<<v44-5-12,12>>^ Além disso, pelas mãos dos apóstolos continuavam a ocorrer muitos sinais e milagres entre o povo; e todos se reuniam no Pórtico^&#42;1^ de Salomão.
+
+[NOTE]
+====
+. Ou: “na Colunata”.
+====
+
+[TIP]
+====
+- *milagres*: Ou: “presságios”. — Veja a nota de estudo em At 2:19.
+====
+
+[[v44-5-13]]
+
+^<<v44-5-13,13>>^ É verdade que nenhum dos outros tinha coragem de se juntar a eles, mas o povo falava muito bem deles.
+
+[[v44-5-14]]
+
+^<<v44-5-14,14>>^ Não só isso: um grande número de homens e mulheres passavam a crer no Senhor e eram acrescentados a eles.
+
+[[v44-5-15]]
+
+^<<v44-5-15,15>>^ Até mesmo levavam os doentes para fora, às ruas principais, e os deitavam em pequenas camas e em esteiras, para que, quando Pedro passasse, pelo menos a sua sombra tocasse alguns deles.
+
+[[v44-5-16]]
+
+^<<v44-5-16,16>>^ Também, vinham multidões das cidades vizinhas de Jerusalém, trazendo os doentes e os afligidos por espíritos impuros, e todos eles eram curados.
+
+[[v44-5-17]]
+
+^<<v44-5-17,17>>^ No entanto, o sumo sacerdote e todos os que estavam com ele, que eram da seita dos saduceus, se levantaram cheios de ciúme.
+
+[[v44-5-18]]
+
+^<<v44-5-18,18>>^ Então eles agarraram os^&#42;1^ apóstolos e os puseram na cadeia pública.
+
+[NOTE]
+====
+. Ou: “prenderam os”. Lit.: “deitaram as mãos nos”.
+====
+
+[[v44-5-19]]
+
+^<<v44-5-19,19>>^ Mas, durante a noite, o anjo de Jeová abriu as portas da prisão, levou-os para fora e disse:
+
+[TIP]
+====
+- *o anjo de Jeová*: Esta expressão aparece pela primeira vez em Gên 16:7 e é usada muitas vezes nas Escrituras Hebraicas. Ela é formada pela palavra hebraica para “anjo” mais o Tetragrama. Num fragmento de uma cópia muito antiga da Septuaginta, essa expressão aparece em Za 3:5, 6 e foi traduzida pela palavra grega ággelos (anjo; mensageiro) seguida pelo nome de Deus em letras hebraicas. Esse fragmento foi encontrado em uma caverna em Nahal Hever, no deserto da Judeia, em Israel, e é datado de entre 50 a.C. e 50 d.C. Os motivos que levaram a Tradução do Novo Mundo a usar a expressão “o anjo de Jeová” no texto principal de At 5:19, apesar de os manuscritos gregos disponíveis usarem “o anjo de Senhor”, são explicados nos Apêndices C1 e C3 (introdução e At 5:19).
+====
+
+[[v44-5-20]]
+
+^<<v44-5-20,20>>^ “Vão, apresentem-se no templo e continuem falando ao povo toda a mensagem a respeito da vida.”
+
+[[v44-5-21]]
+
+^<<v44-5-21,21>>^ Depois de ouvirem essas palavras, entraram no templo ao amanhecer e começaram a ensinar.
+Quando chegaram o sumo sacerdote e os que estavam com ele, convocaram o Sinédrio e toda a assembleia dos anciãos dos filhos de Israel, e mandaram trazer da cadeia os apóstolos.
+
+[TIP]
+====
+- *toda a assembleia dos anciãos*: Ou: “todo o conselho (corpo) de anciãos”. A palavra grega gerousía, traduzida aqui como “assembleia dos anciãos”, está relacionada com a palavra géron (lit.: “homem idoso”), que foi usada em Jo 3:4. Essas duas palavras gregas aparecem apenas uma vez nas Escrituras Gregas Cristãs. Alguns entendem que a expressão “assembleia dos anciãos” seja outra forma de se referir ao Sinédrio, o supremo tribunal judaico, que era composto pelos principais sacerdotes, pelos escribas e pelos anciãos. (Veja a nota de estudo em Lu 22:66.) Mas tudo indica que aqui as expressões “Sinédrio” e “assembleia dos anciãos” se refiram a dois grupos diferentes, que talvez tivessem membros em comum. É possível que alguns membros da “assembleia dos anciãos” também fossem membros do Sinédrio, e que outros membros da assembleia fossem consultados pelo Sinédrio quando necessário.
+- *dos filhos de Israel*: Ou: “do povo de Israel; dos israelitas”. — Veja o Glossário, “Israel”.
+====
+
+[[v44-5-22]]
+
+^<<v44-5-22,22>>^ No entanto, quando os guardas^&#42;1^ chegaram à prisão, não os acharam. Assim, voltaram e relataram o seguinte:
+
+[NOTE]
+====
+. Ou: “guardas do templo”.
+====
+
+[[v44-5-23]]
+
+^<<v44-5-23,23>>^ “Encontramos a cadeia trancada com toda a segurança, e os guardas estavam parados às portas, mas, quando a abrimos, não achamos ninguém dentro.”
+
+[[v44-5-24]]
+
+^<<v44-5-24,24>>^ Ao ouvirem isso, o capitão do templo e os principais sacerdotes ficaram perplexos, perguntando-se o que aconteceria a seguir.
+
+[TIP]
+====
+- *o capitão do templo*: Veja a nota de estudo em At 4:1.
+====
+
+[[v44-5-25]]
+
+^<<v44-5-25,25>>^ Mas alguém chegou e lhes disse: “Os homens que vocês puseram na prisão estão no templo, ensinando o povo!”
+
+[[v44-5-26]]
+
+^<<v44-5-26,26>>^ Então o capitão foi buscá-los com os seus guardas, mas sem violência, porque tinham medo de ser apedrejados pelo povo.
+
+[[v44-5-27]]
+
+^<<v44-5-27,27>>^ Assim, eles os trouxeram e os puseram diante do Sinédrio. E o sumo sacerdote os interrogou
+
+[[v44-5-28]]
+
+^<<v44-5-28,28>>^ e disse: “Nós lhes demos ordens expressas para que não ensinassem nesse nome, mas, vejam só! Vocês encheram Jerusalém com os seus ensinamentos, e estão decididos a trazer o sangue desse homem sobre nós.”
+
+[[v44-5-29]]
+
+^<<v44-5-29,29>>^ Pedro e os outros apóstolos responderam: “Temos de obedecer a Deus como governante em vez de a homens.
+
+[[v44-5-30]]
+
+^<<v44-5-30,30>>^ O Deus de nossos antepassados levantou dentre os mortos Jesus, a quem vocês mataram pendurando-o num madeiro.
+
+[TIP]
+====
+- *num madeiro*: Ou: “numa árvore”. Aqui, a palavra grega xýlon (lit.: “madeira”) é usada como um sinônimo da palavra grega staurós (traduzida como “estaca de tortura”) e se refere ao instrumento em que Jesus foi pregado e executado. Nas Escrituras Gregas Cristãs, xýlon foi usada nesse sentido por Lucas, Paulo e Pedro num total de cinco vezes. (At 5:30; 10:39; 13:29; Gál 3:13; 1Pe 2:24) A Septuaginta usou xýlon em De 21:22, 23 para traduzir a palavra hebraica correspondente ʽets (que significa “árvore; madeira; pedaço de madeira”) na parte que diz “e você o pendurar num madeiro”. Paulo citou essa passagem de Deuteronômio em Gál 3:13 e usou xýlon na frase “maldito é todo aquele pendurado num madeiro”. A Septuaginta também usou essa palavra em Esd 6:11 (1 Esdras 6:31, LXX) para traduzir a palavra aramaica ʼaʽ, que corresponde ao hebraico ʽets. Esse versículo de Esdras diz que quem violasse o decreto do rei persa sofreria a seguinte punição: “Seja arrancada da sua casa uma viga de madeira e seja ele pendurado nela.” Em todos esses contextos, xýlon significa uma estaca sem uma barra transversal. Assim, o fato de os escritores da Bíblia usarem xýlon como sinônimo de staurós reforça a conclusão de que Jesus foi executado numa estaca simples, ou poste.
+====
+
+[[v44-5-31]]
+
+^<<v44-5-31,31>>^ Deus o enalteceu à sua direita como Agente Principal e Salvador, para dar arrependimento a Israel e perdão de pecados.
+
+[TIP]
+====
+- *Agente Principal*: A palavra grega que aparece aqui, arkhegós, tem o sentido básico de “líder principal; alguém que vai primeiro”. Ela é usada quatro vezes na Bíblia e sempre se refere a Jesus. (At 3:15; 5:31; He 2:10; 12:2) Aqui, ela aparece junto com o título “Salvador”. — Veja a nota de estudo em At 3:15.
+====
+
+[[v44-5-32]]
+
+^<<v44-5-32,32>>^ Nós somos testemunhas dessas coisas, e o espírito santo, que Deus deu aos que lhe obedecem como governante, também é.”
+
+[[v44-5-33]]
+
+^<<v44-5-33,33>>^ Quando ouviram isso, ficaram furiosos e quiseram matá-los.
+
+[TIP]
+====
+- *ficaram furiosos*: Ou: “sentiram-se feridos”. Esta expressão grega aparece apenas aqui e em At 7:54. Ela significa literalmente “ser cortado de fora a fora com uma serra” e foi usada em sentido figurado nas duas ocorrências para indicar uma forte reação emocional.
+====
+
+[[v44-5-34]]
+
+^<<v44-5-34,34>>^ Mas se levantou no Sinédrio um fariseu chamado Gamaliel, instrutor da Lei estimado por todo o povo, e ele mandou que levassem os homens para fora por um momento.
+
+[TIP]
+====
+- *Gamaliel*: Este instrutor da Lei é mencionado duas vezes no livro de Atos: aqui e em At 22:3. Os estudiosos acreditam que ele seja a mesma pessoa que, em fontes não bíblicas, é chamada de Gamaliel, o Velho. Esse Gamaliel era neto, ou possivelmente filho, de Hilel, o Velho, que é considerado por muitos o criador de uma escola de pensamento mais liberal entre os fariseus. Gamaliel era tão estimado pelo povo que parece ter sido o primeiro a ser chamado pelo título de honra “raban”. Ele teve grande influência na sociedade judaica da sua época e instruiu muitos filhos de fariseus, entre eles, Saulo de Tarso. (At 22:3; 23:6; 26:4, 5; Gál 1:13, 14) Pelo visto, Gamaliel muitas vezes interpretava a Lei e as tradições de um modo mais liberal do que outros. Por exemplo, algumas fontes dizem que ele criou leis que protegiam esposas e viúvas contra injustiças por parte de maridos ou filhos e que defendeu a ideia de que os pobres que não eram judeus deveriam ter os mesmos direitos de respiga que os pobres que eram judeus. A atitude tolerante de Gamaliel fica clara na maneira que ele tratou Pedro e os outros apóstolos. (At 5:35-39) Apesar disso, os escritos rabínicos mostram que Gamaliel dava mais importância à tradição rabínica do que às Escrituras Sagradas. Assim, de forma geral, os ensinos de Gamaliel eram parecidos com os da maioria dos rabinos que viveram antes dele e dos líderes religiosos de sua época. — Mt 15:3-9; 2Ti 3:16, 17; veja o Glossário, “Fariseus”; “Sinédrio”.
+====
+
+[[v44-5-35]]
+
+^<<v44-5-35,35>>^ Então lhes disse: “Homens de Israel, tomem cuidado com o que vão fazer com esses homens.
+
+[[v44-5-36]]
+
+^<<v44-5-36,36>>^ Por exemplo, um tempo atrás apareceu Teudas, dizendo ser alguém, e alguns homens, cerca de 400, se juntaram a ele. Mas ele foi morto, e todos os que o seguiam foram espalhados, e seus planos acabaram em nada.
+
+[[v44-5-37]]
+
+^<<v44-5-37,37>>^ Depois dele, nos dias do recenseamento, apareceu Judas, o galileu, e juntou seguidores atrás de si. Esse homem também morreu, e todos os que o seguiam foram espalhados.
+
+[[v44-5-38]]
+
+^<<v44-5-38,38>>^ Por isso, diante das circunstâncias, digo-lhes: Não se metam com esses homens; deixem-nos em paz. Porque, se esse plano ou essa obra for de homens, será derrubada;
+
+[[v44-5-39]]
+
+^<<v44-5-39,39>>^ mas, se for de Deus, vocês não poderão derrubá-los. Senão, pode ser que vocês estejam até mesmo lutando contra o próprio Deus.”
+
+[[v44-5-40]]
+
+^<<v44-5-40,40>>^ Então aceitaram o seu conselho. Mandaram chamar os apóstolos e, depois de os açoitarem, lhes ordenaram que parassem de falar em nome de Jesus e os soltaram.
+
+[TIP]
+====
+- *açoitarem*: Ou: “espancarem”. Os apóstolos provavelmente receberam a punição comum entre os judeus de “40 golpes menos um”. — 2Co 11:24; De 25:2, 3.
+====
+
+[[v44-5-41]]
+
+^<<v44-5-41,41>>^ Assim, eles saíram do Sinédrio, alegres porque tinham sido considerados dignos de ser desonrados por causa do nome dele.
+
+[[v44-5-42]]
+
+^<<v44-5-42,42>>^ E todo dia, no templo e de casa em casa, continuavam, sem parar, a ensinar e a declarar as boas novas a respeito do Cristo, Jesus.
+
+[TIP]
+====
+- *de casa em casa*: A expressão grega que aparece aqui, katʼ oíkon, significa literalmente “segundo a casa”. Várias obras de referência dizem que a preposição grega katá pode ser entendida em sentido distributivo. Por exemplo, uma delas diz que katʼ oíkon se refere a “lugares vistos como parte de uma sequência, sentido distributivo . . . de casa em casa”. (A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3.ª edição, tradução nossa) Outra obra diz que a preposição katá é “distributiva (Atos 2:46; 5:42: . . . casa em casa/dentro das casas [individuais] . . .)”. (Exegetical Dictionary of the New Testament, editado por Horst Balz e Gerhard Schneider, tradução nossa) O estudioso Richard Lenski fez o seguinte comentário: “Os apóstolos não interrompiam seu trabalho abençoado, nem mesmo por um momento. Eles continuavam ‘todo dia’, e faziam isso abertamente ‘no Templo’, onde o Sinédrio e a polícia do Templo podiam vê-los e ouvi-los, e claro, também κατ’ οἴκον, que é distributivo, ‘de casa em casa’, e não apenas adverbial, ‘em casa’.” (The Interpretation of the Acts of the Apostles, 1961, tradução nossa) Essas obras apoiam o entendimento de que, neste versículo, katá tem sentido distributivo e que os discípulos pregavam indo de uma casa para outra. A palavra katá é usada de forma parecida em Lu 8:1, que diz que Jesus pregou “de cidade em cidade e de aldeia em aldeia”. O método usado pelos discípulos para alcançar as pessoas, indo diretamente na casa delas, trouxe excelentes resultados. — At 6:7; compare com At 4:16, 17; 5:28.
+- *declarar as boas novas*: O verbo grego usado aqui, euaggelízomai, é relacionado com o substantivo euaggélion, que significa “boas novas”. Nas Escrituras Gregas Cristãs, dois aspectos muito importantes das boas novas são o Reino de Deus, que foi o tema da pregação e do ensino de Jesus, e a salvação por meio da fé em Jesus Cristo. No livro de Atos, euaggelízomai aparece muitas vezes, dando destaque ao trabalho de pregação. — At 8:4, 12, 25, 35, 40; 10:36; 11:20; 13:32; 14:7, 15, 21; 15:35; 16:10; 17:18; veja as notas de estudo em Mt 4:23; 24:14.
+====
+
+'''
+
+xref:044-atos/044-atos-004.adoc#v44-4-0[&#60; Capítulo Anterior] | <<v44-5-0,Topo>> | xref:044-atos/044-atos-006.adoc#v44-6-0[Próximo Capítulo &#62;]

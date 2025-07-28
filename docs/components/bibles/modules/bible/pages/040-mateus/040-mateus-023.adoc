@@ -1,0 +1,333 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== As Boas Novas Segundo Mateus, 23
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* K. Jesus termina sua pregação em Jerusalém (21:1–23:39)
+* Entrada triunfal de Jesus em Jerusalém (21:1-11)
+* Jesus purifica o templo (21:12-17)
+* Jesus amaldiçoa uma figueira (21:18-22)
+* Sacerdotes e anciãos questionam autoridade de Jesus (21:23-27)
+* Ilustração do pai e dos dois filhos (21:28-32)
+* Ilustração dos lavradores maus (21:33-46)
+* Ilustração da festa de casamento (22:1-14)
+* Deus e César (22:15-22)
+* Pergunta sobre a ressurreição (22:23-33)
+* Dois maiores mandamentos (22:34-40)
+* O Cristo é filho de Davi? (22:41-46)
+* Não imitem os escribas e os fariseus (23:1-12)
+* Ai dos escribas e dos fariseus (23:13-36)
+* Jesus lamenta por Jerusalém (23:37-39)
+****
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Jesus disse então às multidões e aos seus discípulos:
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ “Os escribas e os fariseus se sentaram no lugar de Moisés.
+
+[TIP]
+====
+- *se sentaram no lugar de Moisés*: Ou: “assumiram o lugar de Moisés”. Lit.: “se sentaram na cadeira de Moisés”. Os escribas e os fariseus eram tão arrogantes que afirmavam que tinham a mesma autoridade que Moisés e por isso podiam interpretar a lei de Deus.
+====
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Portanto, façam e cumpram tudo o que eles dizem a vocês, mas não ajam como eles, pois falam, mas não praticam o que dizem.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ Amarram cargas pesadas e as põem nos ombros dos homens, mas eles mesmos não estão dispostos nem a movê-las com o dedo.
+
+[TIP]
+====
+- *cargas pesadas*: Pelo visto, essas cargas eram as regras e as tradições orais criadas pelos líderes religiosos judaicos. Essas regras e tradições eram muito difíceis de seguir.
+- *movê-las com o dedo*: Essa expressão pode se referir ao fato de que os líderes religiosos não estavam dispostos a mover, ou deixar de lado, nem mesmo a menor das regras para aliviar a carga pesada que tinham colocado sobre as pessoas.
+====
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ Fazem todas as suas obras para serem vistos pelos homens, pois ampliam as caixinhas com textos que usam como proteção e alongam as franjas das suas roupas.
+
+[TIP]
+====
+- *as caixinhas com textos que usam como proteção*: Ou: “os seus filactérios”. Essas caixinhas eram de couro e tinham quatro trechos da Lei mosaica dentro delas. (Êx 13:1-10, 11-16; De 6:4-9; 11:13-21) Os homens judeus costumavam usar essas caixinhas na testa e no braço esquerdo. Esse costume começou porque alguns interpretaram literalmente a ordem que Deus tinha dado aos israelitas em Êx 13:9, 16; De 6:8 e 11:18. Jesus condenou os escribas e os fariseus porque eles faziam caixinhas maiores só para impressionar outros e porque achavam que essas caixinhas eram amuletos, ou talismãs, que poderiam protegê-los.
+- *alongam as franjas*: Em Núm 15:38-40, Jeová tinha mandado os israelitas fazer franjas na barra de suas roupas. Mas, para se mostrar, os escribas e os fariseus usavam franjas mais compridas do que as usadas por outros judeus.
+====
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ Gostam do lugar mais destacado nos banquetes, dos primeiros assentos nas sinagogas,
+
+[TIP]
+====
+- *primeiros assentos*: Ou: “melhores assentos”. Os presidentes da sinagoga e os convidados importantes pelo visto se sentavam perto dos rolos das Escrituras, onde todos podiam vê-los. É provável que esses lugares especiais já estivessem reservados para essas pessoas de destaque.
+====
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ dos cumprimentos nas praças públicas e de ser chamados ‘Rabi’ pelos homens.
+
+[TIP]
+====
+- *nas praças públicas*: Ou: “nos mercados; nos lugares de reunião”. A palavra grega agorá é usada aqui para se referir a uma área aberta que existia nas cidades do Antigo Oriente Próximo e de outras regiões influenciadas pelos impérios grego e romano. Essas praças públicas serviam como centro de compras e vendas e como local de reuniões públicas.
+- *Rabi*: Lit.: “meu grande”. Vem da palavra hebraica rav, que significa “grande”. No uso comum, “Rabi” significava “instrutor” (Jo 1:38), mas com o tempo se transformou em um título de honra. Alguns escribas, instrutores da Lei e outros homens instruídos exigiam que as pessoas usassem esse título ao falar com eles.
+====
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ Mas vocês não sejam chamados ‘Rabi’, pois um só é o seu Instrutor, e todos vocês são irmãos.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ Além disso, não chamem a ninguém na terra de seu pai, pois um só é o seu Pai, o celestial.
+
+[TIP]
+====
+- *pai*: Aqui, Jesus proibiu que seus seguidores usassem a palavra “pai” como um título formal ou religioso para algum homem. Isso também se aplica à palavra “padre”, que vem do latim e significa “pai”.
+====
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Nem sejam chamados de líderes, pois o seu Líder é um só, o Cristo.
+
+[TIP]
+====
+- *líderes*: A palavra grega usada aqui tem o mesmo sentido da palavra grega para “instrutor” que aparece no versículo 8. Neste contexto, ela se refere àqueles que orientam e instruem outros como líderes espirituais. É provável que essa palavra fosse usada como título religioso.
+- *Líder*: Nenhum humano imperfeito pode ser o Líder espiritual dos cristãos verdadeiros. Por isso, só Jesus tem o direito de usar esse título. — Veja a nota de estudo em líderes neste versículo.
+- *o Cristo*: Aqui, Mateus usou o artigo definido em grego antes do título “Cristo”, que significa “ungido”. Isso indicava que Jesus era o prometido Messias, aquele que foi ungido, ou escolhido, para um cargo especial. — Veja as notas de estudo em Mt 1:1 e 2:4.
+====
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ Mas o maior entre vocês tem de ser o seu servo.
+
+[TIP]
+====
+- *servo*: Ou: “ministro”. — Veja a nota de estudo em Mt 20:26.
+====
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Quem se enaltecer será humilhado, e quem se humilhar será enaltecido.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque fecham o Reino dos céus diante dos homens; pois vocês mesmos não entram, nem deixam entrar os que estão a caminho para entrar.
+
+[TIP]
+====
+- *Ai de vocês*: Este é o primeiro dos sete “ais” que Jesus declarou contra os líderes religiosos de sua época. Nessas declarações, Jesus chamou esses líderes de hipócritas e de guias cegos.
+- *hipócritas*: Veja a nota de estudo em Mt 6:2.
+- *fecham o*: Ou: “fecham a porta do”. Ou seja, impedem as pessoas de entrar.
+====
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ ——
+
+[TIP]
+====
+- *Alguns poucos manuscritos adicionam estas palavras*: “Ai de vocês, escribas e fariseus, hipócritas! Porque devoram as casas das viúvas e, para impressionar, fazem longas orações. Por causa disso receberão um julgamento mais severo.” Mas esse versículo de Mateus não aparece nos manuscritos mais antigos e mais importantes. Palavras parecidas podem ser encontradas nos relatos inspirados por Deus em Mr 12:40 e em Lu 20:47. — Veja o Apêndice A3.
+====
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque percorrem o mar e a terra para fazer um prosélito e, quando conseguem, fazem dele merecedor da Geena duas vezes mais do que vocês.
+
+[TIP]
+====
+- *prosélito*: Ou: “convertido”. A palavra grega prosélytos se refere a uma pessoa de outra nação que se converte ao judaísmo. Se fosse um homem, tinha que ser circuncidado.
+- *merecedor da Geena*: Lit.: “filho da Geena”, ou seja, alguém que merece a destruição eterna. — Veja o Glossário, “Geena”.
+====
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ “Ai de vocês, guias cegos, que dizem: ‘Se alguém jurar pelo templo, isso não é nada; mas, se alguém jurar pelo ouro do templo, ele está sob obrigação.’
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Tolos e cegos! Na verdade, o que é maior: o ouro ou o templo que santifica o ouro?
+
+[TIP]
+====
+- *Tolos e cegos!*: Ou: “Seus tolos cegos!” A Bíblia geralmente usa a palavra “tolo” para se referir a uma pessoa que despreza o bom senso e segue um caminho que vai contra os padrões de moral de Deus.
+====
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ Além disso, vocês dizem: ‘Se alguém jurar pelo altar, isso não é nada; mas, se alguém jurar pela dádiva nele, ele está sob obrigação.’
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Cegos! Na verdade, o que é maior: a dádiva ou o altar que santifica a dádiva?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Portanto, quem jura pelo altar está jurando por ele e por todas as coisas sobre ele;
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ e quem jura pelo templo está jurando por ele e por Aquele que habita nele;
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ e quem jura pelo céu está jurando pelo trono de Deus e por Aquele que está sentado nele.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque dão o décimo da hortelã, do endro e do cominho, mas desconsideram as questões mais importantes da Lei, isto é, a justiça, a misericórdia e a fidelidade.^&#42;1^ Essas eram as coisas que precisavam ser feitas, mas sem desconsiderar as outras.
+
+[NOTE]
+====
+. Ou: “fé”.
+====
+
+[TIP]
+====
+- *décimo da hortelã, do endro e do cominho*: A Lei mosaica dizia que os israelitas tinham que dar o dízimo de suas colheitas. (Le 27:30; De 14:22) A Lei não dizia especificamente que os israelitas deviam dar um décimo de ervas como a hortelã, o endro e o cominho, mas Jesus também não disse que essa tradição era errada. O que Jesus condenou foi o fato de que os escribas e os fariseus insistiam demais em detalhes da Lei que tinham pouca importância, mas não ensinavam os princípios por trás da Lei, como a justiça, a misericórdia e a fidelidade.
+====
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Guias cegos, que coam o mosquito, mas engolem o camelo!
+
+[TIP]
+====
+- *que coam o mosquito, mas engolem o camelo*: Entre os animais impuros que os israelitas conheciam, o mosquito era um dos menores e o camelo era um dos maiores. (Le 11:4, 21-24) Usando uma hipérbole com um toque de humor, Jesus disse que os líderes religiosos filtravam suas bebidas para não ficar impuros por causa de um mosquito, mas ao mesmo tempo ‘engoliam um camelo’ por não dar atenção aos assuntos da Lei que eram realmente importantes.
+====
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque limpam por fora o copo e o prato, mas por dentro eles estão cheios de ganância^&#42;1^ e de imoderação.
+
+[NOTE]
+====
+. Ou: “coisas saqueadas (roubadas)”.
+====
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Fariseu cego, limpe primeiro a parte de dentro do copo e do prato, para que a parte de fora também fique limpa.
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque são como sepulcros caiados, que por fora realmente parecem belos, mas por dentro estão cheios de ossos de mortos e de todo tipo de impureza.
+
+[TIP]
+====
+- *sepulcros caiados*: No Israel antigo, era comum que os sepulcros, ou túmulos, fossem pintados com cal para deixá-los brancos e bem visíveis. Assim, as pessoas que passassem por eles não correriam o risco de ficar impuras por terem ‘tocado numa sepultura’. (Núm 19:16) A Mishná judaica (Shekalim 1:1) diz que os sepulcros eram caiados uma vez por ano, um mês antes da Páscoa. Jesus usou essa metáfora para representar a atitude hipócrita daqueles líderes religiosos.
+====
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ Do mesmo modo, por fora vocês parecem justos aos homens, mas por dentro estão cheios de hipocrisia e do que é contra a lei.
+
+[TIP]
+====
+- *do que é contra a lei*: Veja a nota de estudo em Mt 24:12.
+====
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ “Ai de vocês, escribas e fariseus, hipócritas! Porque constroem os sepulcros dos profetas e decoram os túmulos dos justos,
+
+[TIP]
+====
+- *túmulos*: Ou: “túmulos memoriais”. — Veja o Glossário.
+====
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ e dizem: ‘Se nós tivéssemos vivido nos dias dos nossos antepassados, não teríamos participado com eles em derramar o sangue dos profetas.’
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Portanto, vocês dão testemunho contra si mesmos de que são filhos daqueles que assassinaram os profetas.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Pois bem, completem a medida dos seus antepassados.
+
+[TIP]
+====
+- *completem a medida dos seus antepassados*: Ou: “terminem o trabalho que os seus antepassados começaram”. O sentido literal dessa expressão idiomática é “completar a medida que outra pessoa já começou a encher”. Jesus não estava mandando os líderes religiosos terminarem o que os antepassados deles tinham começado. Na verdade, ele estava sendo irônico e predizendo que aqueles líderes iam matá-lo, assim como os antepassados deles tinham matado os profetas de Deus.
+====
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ “Serpentes, descendência de víboras, como fugirão do julgamento da Geena?
+
+[TIP]
+====
+- *Serpentes, descendência de víboras*: Satanás, “a serpente original” (Ap 12:9), é o pai espiritual de todos os inimigos da adoração verdadeira. Por isso, Jesus tinha motivos para chamar aqueles líderes religiosos de “serpentes, descendência de víboras”. (Jo 8:44; 1Jo 3:12) Eles eram pessoas más, e os que seguissem os ensinos falsos deles poderiam perder sua amizade com Deus. João Batista também usou a expressão “descendência de víboras”. — Mt 3:7.
+- *Geena*: Veja a nota de estudo em Mt 5:22 e o Glossário.
+====
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ É por essa razão que eu estou lhes enviando profetas, sábios e instrutores públicos. A alguns deles vocês matarão e pregarão em estacas, e a outros açoitarão nas suas sinagogas e perseguirão de cidade em cidade,
+
+[TIP]
+====
+- *instrutores públicos*: Ou: “pessoas instruídas”. A palavra grega grammateús é traduzida como “escriba” quando se refere a um dos instrutores judaicos que eram peritos na Lei. Mas neste versículo ela se refere aos discípulos de Jesus que seriam enviados para ensinar outros.
+- *sinagogas*: Veja o Glossário.
+====
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ para que venha sobre vocês todo o sangue justo derramado na terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, a quem vocês assassinaram entre o santuário e o altar.
+
+[TIP]
+====
+- *desde o sangue do justo Abel até o sangue de Zacarias*: Com esta declaração, Jesus se referiu a todos os servos de Jeová mencionados nas Escrituras Hebraicas que foram assassinados: desde Abel, que aparece no primeiro livro (Gên 4:8), até Zacarias, mencionado em 2Cr 24:20. Crônicas é o último livro do cânon tradicional judaico. Assim, quando Jesus disse ‘desde Abel até Zacarias’, ele estava dizendo “do primeiro até o último caso”.
+- *filho de Baraquias*: De acordo com 2Cr 24:20, o nome do pai de Zacarias era “Jeoiada”, não “Baraquias”. Alguns sugerem que o pai de Zacarias talvez tivesse dois nomes, como acontece com outros personagens da Bíblia (compare Mt 9:9 com Mr 2:14), ou que Baraquias fosse avô ou outro antepassado de Zacarias.
+- *a quem vocês assassinaram*: Não foram aqueles líderes religiosos que mataram Zacarias, mas Jesus os considerou culpados porque eles tinham o mesmo espírito assassino que seus antepassados. — Ap 18:24.
+- *entre o santuário e o altar*: De acordo com 2Cr 24:21, Zacarias foi assassinado “no pátio da casa de Jeová”. O altar da oferta queimada ficava no pátio interno, em frente à entrada do santuário. (Veja o Apêndice B8.) Assim, o que Jesus disse estava de acordo com o relato em 2Cr 24:21.
+====
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Eu garanto a vocês: Todas essas coisas virão sobre esta geração.
+
+[TIP]
+====
+- *Eu garanto a vocês*: Veja a nota de estudo em Mt 5:18.
+====
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ “Jerusalém, Jerusalém, que mata os profetas e apedreja os que lhe são enviados . . . Quantas vezes eu quis ajuntar seus filhos, assim como a galinha ajunta seus pintinhos debaixo das asas! Mas vocês não quiseram.
+
+[TIP]
+====
+- *Jerusalém, Jerusalém*: Jesus fez a declaração sobre Jerusalém que aparece neste versículo no dia 11 de nisã, durante a última semana de seu ministério. De acordo com Lu 13:34, Jesus tinha feito uma declaração muito parecida algum tempo antes, enquanto estava na Pereia. — Veja o Apêndice A7-G.
+====
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Agora a sua casa ficará abandonada.
+
+[TIP]
+====
+- *casa*: Ou seja, o templo.
+- *ficará abandonada*: Alguns manuscritos bem antigos acrescentam a palavra “deserta”. Assim, o texto também poderia ser traduzido “será deixada deserta”.
+====
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ Pois eu lhes digo: De agora em diante, vocês de modo algum me verão, até que digam: ‘Bendito é aquele que vem em nome de Jeová!’”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta do Sal 118:26. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+====
+
+'''
+
+xref:040-mateus/040-mateus-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-mateus/040-mateus-024.adoc#v40-24-0[Próximo Capítulo &#62;]

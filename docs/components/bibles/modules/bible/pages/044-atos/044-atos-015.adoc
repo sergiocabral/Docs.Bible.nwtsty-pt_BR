@@ -1,0 +1,347 @@
+include::./index.adoc[]
+
+[[v44-15-0]]
+=== Atos dos Apóstolos, 15
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* J. A reunião em Jerusalém sobre a circuncisão (15:1-35)
+* Surge em Antioquia uma discussão sobre a circuncisão; o assunto é levado a Jerusalém (15:1-5)
+* Os apóstolos e os anciãos em Jerusalém se reúnem; Pedro, Paulo e Barnabé falam do que viram (15:6-12)
+* Tiago dá uma sugestão que se baseia nas Escrituras (15:13-21)
+* Carta do corpo governante em Jerusalém (15:22-29)
+* As congregações são encorajadas pela carta (15:30-35)
+* K. Segunda viagem missionária de Paulo (15:36–18:22)
+* Paulo e Barnabé se separam (15:36-41)
+* Paulo escolhe Timóteo como companheiro de viagem (16:1-5)
+* Visão sobre o homem macedônio; a pregação chega à Europa (16:6-10)
+* Em Filipos, Lídia se converte (16:11-15)
+* Paulo e Silas são presos em Filipos (16:16-24)
+* O carcereiro e os da sua casa são batizados (16:25-34)
+* Paulo exige uma retratação oficial (16:35-40)
+* Paulo e Silas em Tessalônica (17:1-9)
+* Paulo e Silas em Bereia (17:10-15)
+* Paulo em Atenas (17:16-22a)
+* Discurso de Paulo no Areópago (17:22b-31)
+* Diferentes reações ao discurso de Paulo; alguns se tornam crentes (17:32-34)
+* Ministério de Paulo em Corinto (18:1-17)
+* Paulo volta a Antioquia da Síria passando por Éfeso (18:18-22)
+****
+
+[[v44-15-1]]
+
+^<<v44-15-1,1>>^ Alguns homens desceram da Judeia e começaram a ensinar os irmãos: “A menos que vocês sejam circuncidados segundo o costume de Moisés, não podem ser salvos.”
+
+[[v44-15-2]]
+
+^<<v44-15-2,2>>^ Mas, depois de muita discórdia e discussão de Paulo e Barnabé com eles, decidiu-se que Paulo, Barnabé e alguns outros subiriam a Jerusalém para tratar dessa questão com os apóstolos e os anciãos.
+
+[TIP]
+====
+- *questão*: Ou: “controvérsia”. A palavra grega que aparece aqui, zétema, muitas vezes se refere a um assunto polêmico ou a uma questão específica que está em discussão. A palavra zétema está relacionada com a palavra grega para “buscar” (zetéo). — Veja a nota de estudo em At 15:7.
+- *anciãos*: Lit.: “homens mais velhos (idosos)”. Neste versículo, a palavra grega presbýteros se refere a homens que tinham um cargo de responsabilidade na congregação cristã daquela época. Os anciãos da congregação em Jerusalém são mencionados aqui junto com os apóstolos. Paulo, Barnabé e alguns outros irmãos de Antioquia da Síria foram até esses homens para resolver a questão da circuncisão. Assim como alguns anciãos no Israel literal serviam em posições de responsabilidade em nível nacional, os anciãos da congregação em Jerusalém e os apóstolos serviam juntos como um corpo governante que supervisionava todas as congregações do século 1 d.C. Isso indica que o corpo governante, que no início era formado apenas pelos 12 apóstolos, tinha aumentado. — At 1:21, 22, 26; veja as notas de estudo em Mt 16:21; At 11:30.
+====
+
+[[v44-15-3]]
+
+^<<v44-15-3,3>>^ Assim, depois que a congregação os acompanhou parte do caminho, esses homens seguiram viagem através da Fenícia e de Samaria, contando em detalhes a conversão de pessoas das nações e trazendo grande alegria a todos os irmãos.
+
+[TIP]
+====
+- *conversão*: O substantivo grego que aparece aqui, epistrofé, vem de um verbo que significa “retornar; voltar; dar meia-volta”. (Jo 12:40; 21:20; At 15:36) Quando o verbo é usado para se referir a uma mudança em sentido espiritual, ele pode passar a ideia de se voltar para o Deus verdadeiro ou de retornar para ele. Também pode passar a ideia de dar as costas aos ídolos e aos deuses falsos. (Esse verbo aparece em At 3:19; 14:15; 15:19; 26:18, 20 e 2Co 3:16.) No texto de 1Te 1:9, esse verbo foi usado na frase “como vocês se converteram a Deus, abandonando os seus ídolos”. Para se converter, a pessoa precisa primeiro se arrepender. — Veja as notas de estudo em Mt 3:2, 8; At 3:19; 26:20.
+====
+
+[[v44-15-4]]
+
+^<<v44-15-4,4>>^ Ao chegarem a Jerusalém, foram recebidos bondosamente pela congregação, pelos apóstolos e pelos anciãos, e contaram as muitas coisas que Deus tinha feito por meio deles.
+
+[[v44-15-5]]
+
+^<<v44-15-5,5>>^ Mas alguns da seita dos fariseus, que tinham se tornado crentes, se levantaram dos seus assentos e disseram: “É necessário circuncidá-los e lhes ordenar que obedeçam à Lei de Moisés.”
+
+[TIP]
+====
+- *da seita dos fariseus*: Pelo visto, esses cristãos ainda eram de alguma forma ligados ao seu passado como fariseus. — Compare com a nota de estudo em At 23:6.
+====
+
+[[v44-15-6]]
+
+^<<v44-15-6,6>>^ Então os apóstolos e os anciãos se reuniram para considerar essa questão.
+
+[[v44-15-7]]
+
+^<<v44-15-7,7>>^ Depois de longa e intensa discussão, Pedro se levantou e lhes disse: “Homens, irmãos, vocês bem sabem que, desde os primeiros dias, Deus me escolheu dentre vocês para que as pessoas das nações ouvissem da minha boca a palavra das boas novas e cressem.
+
+[TIP]
+====
+- *longa e intensa discussão*: Ou: “longo debate”. A palavra grega usada aqui está relacionada com um verbo grego que significa “buscar” (zetéo), e passa a ideia de “busca; questionamento”. (Kingdom Interlinear) Neste contexto, ela indica que os apóstolos e os anciãos analisaram com atenção o assunto, fazendo perguntas, examinando cuidadosamente as evidências e, sem dúvida, expressando abertamente suas diferenças de opinião.
+====
+
+[[v44-15-8]]
+
+^<<v44-15-8,8>>^ E Deus, que conhece os corações, mostrou que os aprovava,^&#42;1^ dando-lhes o espírito santo assim como também tinha dado a nós.
+
+[NOTE]
+====
+. Ou: “deu testemunho”.
+====
+
+[[v44-15-9]]
+
+^<<v44-15-9,9>>^ E ele não fez nenhuma distinção entre nós e eles, mas purificou o coração deles pela fé.
+
+[[v44-15-10]]
+
+^<<v44-15-10,10>>^ Portanto, por que vocês agora põem Deus à prova, colocando no pescoço dos discípulos um jugo que nem os nossos antepassados nem nós fomos capazes de levar?
+
+[[v44-15-11]]
+
+^<<v44-15-11,11>>^ Ao contrário, temos fé em que somos salvos pela bondade imerecida do Senhor Jesus do mesmo modo que eles.”
+
+[[v44-15-12]]
+
+^<<v44-15-12,12>>^ Em vista disso, o grupo inteiro ficou calado e começou a escutar Barnabé e Paulo relatar os muitos sinais e milagres que Deus tinha feito por meio deles entre as nações.
+
+[TIP]
+====
+- *milagres*: Ou: “presságios”. — Veja a nota de estudo em At 2:19.
+====
+
+[[v44-15-13]]
+
+^<<v44-15-13,13>>^ Depois que pararam de falar, Tiago tomou a palavra: “Homens, irmãos, ouçam-me.
+
+[TIP]
+====
+- *Tiago*: Tudo indica que este Tiago seja o meio-irmão de Jesus e que seja o mesmo Tiago mencionado em At 12:17. (Veja as notas de estudo em Mt 13:55; At 12:17.) Parece que nessa ocasião, quando o assunto da circuncisão foi levado até “os apóstolos e os anciãos” em Jerusalém, foi Tiago quem presidiu a reunião. (At 15:1, 2) O apóstolo Paulo pelo visto estava se referindo a essa reunião quando disse que Tiago, Cefas (Pedro) e João eram “os que pareciam colunas” da congregação em Jerusalém. — Gál 2:1-9.
+====
+
+[[v44-15-14]]
+
+^<<v44-15-14,14>>^ Simeão relatou em detalhes como Deus, pela primeira vez, voltou sua atenção para as nações, a fim de tirar delas um povo para o Seu nome.
+
+[TIP]
+====
+- *Simeão*: Ou seja, Simão Pedro. O nome que aparece aqui, Symeón, é a forma grega mais parecida com o nome original hebraico. Esta é a única ocasião em que o apóstolo Pedro é chamado assim na Bíblia. O uso da forma Symeón neste versículo pode indicar que a reunião foi realizada em hebraico. — Veja a nota de estudo em Mt 10:2.
+- *um povo para o Seu nome*: Estas palavras talvez sejam uma referência a passagens das Escrituras Hebraicas que falam de Jeová escolher um povo como sua propriedade especial. (Êx 19:5; De 7:6; 14:2; 26:18, 19) O novo povo que levaria o nome de Jeová, “o Israel de Deus” (ou Israel espiritual), agora passaria a incluir não judeus. (Gál 6:16; Ro 11:25, 26a; Ap 14:1) Os membros desse povo deveriam divulgar as qualidades do Deus que representavam e glorificar o nome dele publicamente. (1Pe 2:9, 10) Jeová tinha chamado o Israel literal de “o povo que formei para mim para que proclamasse o meu louvor”, mas agora essas palavras se aplicavam ao Israel espiritual. (Is 43:21) Os cristãos do século 1 d.C. proclamavam com coragem que Jeová é o único Deus verdadeiro, mostrando que todos os outros deuses adorados naquela época eram falsos. — 1Te 1:9.
+====
+
+[[v44-15-15]]
+
+^<<v44-15-15,15>>^ E com isso concordam as palavras dos Profetas, como está escrito:
+
+[TIP]
+====
+- *as palavras dos Profetas*: As coisas que Simeão, ou Simão Pedro, disse (At 15:7-11) e as evidências apresentadas por Barnabé e Paulo (At 15:12) provavelmente fizeram Tiago se lembrar de textos que ajudavam a esclarecer o assunto. (Jo 14:26) Tiago disse “com isso concordam as palavras dos Profetas” e citou Am 9:11, 12, um livro que pertencia à parte das Escrituras Hebraicas que era muitas vezes chamada de “os Profetas”. — Mt 22:40; At 15:16-18; veja a nota de estudo em Lu 24:44.
+====
+
+[[v44-15-16]]
+
+^<<v44-15-16,16>>^ ‘Depois disso voltarei e levantarei novamente a tenda de Davi, que está caída; eu reconstruirei as suas ruínas e a restaurarei,
+
+[TIP]
+====
+- *a tenda de Davi*: Ou: “a barraca (morada) de Davi”. Jeová prometeu que o reino de Davi permaneceria ‘firme para sempre’. (2Sa 7:12-16) “A tenda de Davi”, ou seja, sua casa real (dinastia) caiu quando o rei Zedequias foi deposto. (Ez 21:27) Depois que isso aconteceu, nenhum outro rei da linhagem de Davi se sentou no “trono de Jeová” em Jerusalém. (1Cr 29:23) Mas Jeová ergueria novamente a tenda simbólica de Davi, estabelecendo Jesus, o descendente de Davi, como Rei permanente. (At 2:29-36) Tiago indicou que essa restauração predita por Amós (em que o reinado voltaria para a linhagem de Davi) incluiria discípulos de Jesus (herdeiros do Reino) escolhidos tanto entre judeus como não judeus. — Am 9:11, 12.
+====
+
+[[v44-15-17]]
+
+^<<v44-15-17,17>>^ a fim de que o restante dos homens busque diligentemente a Jeová, junto com pessoas de todas as nações, pessoas que são chamadas por meu nome, diz Jeová, aquele que está fazendo essas coisas,
+
+[TIP]
+====
+- *a fim de que o restante dos homens busque diligentemente a Jeová*: Como mostra a nota de estudo em At 15:15, Tiago estava citando as palavras de Am 9:11, 12. Mas algumas partes dessa citação estão diferentes do texto hebraico disponível hoje. Alguns sugerem que Tiago citou essa passagem como ela aparece na Septuaginta, uma tradução para o grego das Escrituras Hebraicas, e que esse é o motivo das diferenças. No entanto, o nome usado para se referir a Pedro em At 15:14 pode indicar que a reunião foi realizada em hebraico. (Veja a nota de estudo em At 15:14.) Se isso for verdade, outra possível explicação para as diferenças é que Tiago tenha citado os versículos em hebraico, mas que Lucas, ao fazer seu registro, tenha usado as palavras da Septuaginta. Isso não seria de estranhar, já que Lucas, Tiago e outros escritores da Bíblia usaram a Septuaginta ao citar passagens das Escrituras Hebraicas. Apesar de haver algumas diferenças entre a Septuaginta e os manuscritos hebraicos disponíveis hoje, Jeová permitiu que os escritores da Bíblia usassem a Septuaginta, e as citações que eles fizeram se tornaram parte do registro inspirado. (2Ti 3:16) É interessante que o texto de Am 9:12 na Septuaginta diz “o restante dos homens”, assim como aparece aqui em Atos, enquanto os manuscritos hebraicos disponíveis dizem “o que restar de Edom”. Alguns acreditam que essa diferença pode ter surgido porque no hebraico antigo a palavra para “homens” era muito parecida com a palavra para “Edom”. Além disso, a palavra hebraica para “buscar” também é parecida com a palavra hebraica para “tomar posse”. Outra possibilidade sugerida é que a tradução da Septuaginta de Am 9:12 tenha se baseado em um texto hebraico antigo que era um pouco diferente do texto hebraico disponível hoje, mas isso nunca ficou provado. Seja qual for o caso, tanto na Septuaginta quanto no texto hebraico massorético as palavras de Amós indicam que pessoas das nações seriam chamadas pelo nome de Jeová, apoiando o argumento de Tiago.
+- *Jeová*: Nos manuscritos gregos, a palavra Kýrios (Senhor) aparece duas vezes aqui em At 15:17. Há bons motivos para se usar o nome de Deus nas ocorrências de Kýrios neste versículo. O contexto mostra que as duas ocorrências se referem a Deus. Tiago disse no versículo 14 que Simeão tinha relatado “como Deus . . . voltou sua atenção para as nações”. E no versículo 19, ele fala “das nações, que estão se convertendo a Deus”. Além disso, aqui neste versículo Tiago estava citando Am 9:11, 12 e, no texto hebraico original de Amós, o nome de Deus é usado uma vez, na expressão “diz Jeová”. Assim, levando em conta o contexto, o uso do nome de Deus na passagem que Tiago estava citando e a forma como a palavra Kýrios foi usada na Septuaginta e em outros versículos das Escrituras Gregas Cristãs, o nome de Deus foi usado duas vezes neste versículo. — Veja os Apêndices C1 e C3 (introdução e At 15:17).
+- *junto com pessoas de todas as nações*: Ou seja, junto com não judeus. Quando um não judeu era circuncidado e se tornava um prosélito, ele não era mais considerado um homem das nações. Ele ‘se tornava como um israelita de nascimento’, um judeu. (Êx 12:48, 49) Nos dias de Ester, muitos não judeus ‘se declararam judeus’. (Est 8:17) É interessante notar que a tradução da Septuaginta de Est 8:17 diz que esses não judeus “foram circuncidados e se tornaram judeus”. A profecia de Am 9:11, 12, da maneira como foi citada aqui em Atos, diz que “pessoas de todas as nações” (não judeus incircuncisos) se juntariam com “o restante dos homens” da casa de Israel (judeus e prosélitos) e se tornariam ‘pessoas chamadas pelo nome’ de Jeová. Com base nessa profecia, os discípulos entenderam que as pessoas das nações não precisavam ser circuncidadas para serem aceitas por Deus.
+- *pessoas que são chamadas por meu nome*: Ou: “pessoas que levam o meu nome”. Nas Escrituras Hebraicas, o fato de os israelitas serem chamados pelo nome de Jeová indicava que eles eram o povo dele. (De 28:10; 2Cr 7:14; Is 43:7; 63:19; Da 9:19) O texto de 2Rs 21:4, 7 diz que Jeová também colocou o nome dele em Jerusalém e em seu templo. Isso mostrava que ele tinha escolhido esse lugar para servir como o centro de sua adoração.
+- *diz Jeová*: Esta é uma citação de Am 9:12. No texto hebraico original de Amós, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C1.
+- *aquele que está fazendo essas coisas, [versículo 18] conhecidas desde a antiguidade*: O texto grego também permite um outro entendimento e poderia ser traduzido como “aquele que está fazendo essas coisas [versículo 18] se tornarem conhecidas desde a antiguidade”.
+====
+
+[[v44-15-18]]
+
+^<<v44-15-18,18>>^ conhecidas desde a antiguidade.’
+
+[[v44-15-19]]
+
+^<<v44-15-19,19>>^ Por isso, a minha decisão é não causar dificuldades a essas pessoas das nações, que estão se convertendo a Deus,
+
+[TIP]
+====
+- *a minha decisão é*: Ou: “a minha opinião (conclusão) é”. Lit.: “Eu julgo”. Ao dizer estas palavras, Tiago, que pelo visto estava presidindo a reunião, não estava tentando impor sua opinião ao restante do grupo. A maneira como essas palavras foram usadas em grego não passa essa ideia. Tiago estava na verdade dando uma sugestão com base nas evidências apresentadas e no que as Escrituras diziam sobre o assunto. De acordo com um léxico, o verbo grego usado aqui (lit.: “julgo”) nesse contexto significa “julgar [formar uma opinião] levando em conta vários fatores”. Assim, esse verbo não se refere aqui a uma sentença, ou decisão final. Em vez disso, ele se refere à opinião de Tiago baseada no texto que ele tinha acabado de citar.
+====
+
+[[v44-15-20]]
+
+^<<v44-15-20,20>>^ mas lhes escrever para que se abstenham de coisas contaminadas por ídolos, de imoralidade sexual, do que foi estrangulado e de sangue.
+
+[TIP]
+====
+- *imoralidade sexual*: A palavra grega porneía é um termo genérico usado para se referir a todos os tipos de atividade sexual que a Bíblia condena. Isso inclui adultério, prostituição, sexo entre pessoas não casadas, entre pessoas do mesmo sexo e entre humanos e animais. — Veja o Glossário.
+- *que foi estrangulado*: Ou: “que foi morto sem ser sangrado”. Pelo visto, esta proibição também incluía animais que morriam por causas naturais ou por ferimentos causados por outros animais. Nesses casos, o animal não teria sido sangrado corretamente. — Êx 22:31; Le 17:15; De 14:21.
+====
+
+[[v44-15-21]]
+
+^<<v44-15-21,21>>^ Pois, desde os tempos antigos,^&#42;1^ Moisés tem os que o pregam em cada cidade, porque ele é lido em voz alta nas sinagogas todo sábado.”
+
+[NOTE]
+====
+. Ou: “desde muitas gerações”.
+====
+
+[TIP]
+====
+- *Moisés*: Aqui, Tiago estava se referindo aos escritos de Moisés. Esses escritos incluíam não apenas a Lei, mas também coisas que antecederam à Lei, como os tratos de Deus com seus servos e indicações de sua vontade. Por exemplo, o livro de Gênesis mostra claramente o ponto de vista de Deus sobre o uso do sangue, o adultério e a idolatria. (Gên 9:3, 4; 20:2-9; 35:2, 4) Dessa forma, Jeová revelou princípios que se aplicam a todos os humanos, sejam judeus sejam não judeus. A sugestão registrada em At 15:19, 20 não iria “causar dificuldades” desnecessárias aos cristãos não judeus, já que eles não seriam obrigados a seguir os muitos requisitos da Lei mosaica. Ao mesmo tempo, a consciência dos cristãos judeus, que por anos ouviram Moisés . . . lido em voz alta nas sinagogas todo sábado, estava sendo respeitada. (Veja as notas de estudo em Lu 4:16; At 13:15.) A solução que Tiago sugeriu fortaleceria a união entre os cristãos judeus e não judeus.
+- *lido em voz alta nas sinagogas todo sábado*: Veja as notas de estudo em Lu 4:16; At 13:15.
+====
+
+[[v44-15-22]]
+
+^<<v44-15-22,22>>^ Então os apóstolos e os anciãos, junto com toda a congregação, decidiram enviar a Antioquia homens escolhidos dentre eles, junto com Paulo e Barnabé; enviaram Judas, que era chamado Barsabás, e Silas, homens que tomavam a liderança entre os irmãos.
+
+[TIP]
+====
+- *os apóstolos e os anciãos*: Veja a nota de estudo em At 15:2.
+====
+
+[[v44-15-23]]
+
+^<<v44-15-23,23>>^ Escreveram esta carta e a mandaram por meio deles:
+“Os apóstolos e os anciãos, seus irmãos, mandam saudações aos irmãos que são das nações, que estão em Antioquia, na Síria e na Cilícia.
+
+[TIP]
+====
+- *mandam saudações aos irmãos . . . e na Cilícia*: Ou: “aos irmãos . . . e na Cilícia: Saudações!” A palavra grega traduzida aqui como “saudações”, khaíro, significa literalmente “alegrar-se”. Aqui, ela foi usada como um cumprimento e passa a ideia de “que tudo esteja bem com vocês”. No texto original grego dessa carta para as congregações sobre o assunto da circuncisão, a introdução segue o padrão que era usado ao escrever cartas na antiguidade. Primeiro, se identificava o autor da carta, depois para quem era a carta e então se incluía um cumprimento. (Veja a nota de estudo em At 23:26.) De todas as cartas inspiradas das Escrituras Gregas Cristãs, apenas a de Tiago usa a palavra khaíro como cumprimento da mesma forma que essa carta do corpo governante do século 1 d.C. (Tg 1:1) Isso apoia a conclusão de que a carta de Tiago foi escrita pelo mesmo Tiago mencionado aqui em At 15, que teve um papel importante na reunião sobre a circuncisão e que participou na escrita da carta para as congregações.
+====
+
+[[v44-15-24]]
+
+^<<v44-15-24,24>>^ Ouvimos falar que alguns saíram do nosso meio e causaram problemas a vocês com o que disseram, e tentaram transtorná-los; nós, porém, não tínhamos dado nenhuma instrução a eles.
+
+[TIP]
+====
+- *transtorná-los*: Aqui, o texto grego diz literalmente transtornar “as suas almas”. Neste contexto, a palavra grega psykhé, traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, se refere à pessoa em si. — Veja o Glossário, “Alma”.
+====
+
+[[v44-15-25]]
+
+^<<v44-15-25,25>>^ Por isso decidimos, de comum acordo, escolher homens para enviar a vocês junto com nossos amados Barnabé e Paulo,
+
+[TIP]
+====
+- *de comum acordo*: Lit.: “de uma só mente”. A palavra grega traduzida aqui como “de comum acordo” é homothymadón. Ela ocorre várias vezes no livro de Atos e com frequência é usada para descrever a união especial que existia entre os cristãos do século 1 d.C. Algumas dessas ocorrências estão em At 1:14 (“de comum acordo”), At 2:46 (“unidos no mesmo propósito”) e At 4:24 (“unidos”).
+====
+
+[[v44-15-26]]
+
+^<<v44-15-26,26>>^ que entregaram a vida ao nome do nosso Senhor Jesus Cristo.
+
+[TIP]
+====
+- *entregaram a vida ao*: A palavra grega psykhé, traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, foi traduzida aqui como “vida”. Ela pode se referir a uma pessoa ou à vida de uma pessoa. (Veja o Glossário, “Alma”.) Assim, a frase poderia ser entendida como “arriscaram sua vida (alma) pelo” ou como “devotaram sua vida (ou: “a si mesmos”) ao”.
+====
+
+[[v44-15-27]]
+
+^<<v44-15-27,27>>^ Portanto, enviamos Judas e Silas, para relatarem verbalmente essas mesmas coisas.
+
+[[v44-15-28]]
+
+^<<v44-15-28,28>>^ Pois pareceu bem ao espírito santo e a nós não impor a vocês nenhum fardo além destas coisas necessárias:
+
+[[v44-15-29]]
+
+^<<v44-15-29,29>>^ que persistam em se abster de coisas sacrificadas a ídolos, de sangue, do que foi estrangulado e de imoralidade sexual. Se vocês se guardarem cuidadosamente dessas coisas, tudo irá bem com vocês. Saudações!”
+
+[TIP]
+====
+- *persistam em se abster de*: Ou: “fiquem longe de”. O verbo grego traduzido aqui como “persistam em se abster de” pode se aplicar a todas as práticas citadas na sequência. Os cristãos não deviam se envolver com idolatria e imoralidade sexual, nem comer a carne de animais estrangulados, já que esses animais não teriam sido sangrados corretamente. No caso do sangue, esse verbo passa a ideia não apenas de não comer sangue, mas também de não fazer nenhum outro uso errado dele. Dessa forma, a pessoa mostraria respeito pela santidade do sangue. — Le 17:11, 14; De 12:23.
+- *persistam em se abster . . . de sangue*: Esta ordem de não comer sangue se baseia, em última análise, na ordem que Deus deu a Noé e seus filhos e, por extensão, a todos os humanos. (Gên 9:4-6) Uns 800 anos mais tarde, Deus incluiu essa ordem na Lei que deu aos israelitas. (Le 17:13-16) E, uns 1.500 anos depois disso, na ocasião mencionada aqui, ele mostrou que essa ordem ainda valia para a congregação cristã. Aos olhos de Deus, se abster de sangue é tão importante quanto ficar longe da idolatria e da imoralidade sexual.
+- *do que foi estrangulado*: Veja a nota de estudo em At 15:20.
+- *imoralidade sexual*: Veja a nota de estudo em At 15:20.
+- *Saudações!*: Ou: “Adeus; Boa saúde para vocês”. A expressão grega que aparece aqui era muito usada nas cartas daquela época. O fato de ela poder ser traduzida como “boa saúde para vocês” não quer dizer necessariamente que as coisas mencionadas logo antes fossem recomendações de saúde, como se a carta estivesse dizendo ‘se vocês ficarem longe dessas coisas, terão uma saúde melhor’. Em vez disso, a expressão era usada na conclusão das cartas para desejar para a pessoa força, saúde e felicidade. Ela tem um sentido parecido com a expressão hebraica shalóhm, que era usada para desejar “paz” a alguém. (Êx 4:18; Jz 18:6; 19:20; 1Sa 1:17) É interessante que, numa tradução moderna das Escrituras Gregas Cristãs para o hebraico (chamada de J22 no Apêndice C4), a expressão grega que aparece aqui foi traduzida como shalóhm lakhém, que significa: “A paz esteja com vocês!”
+====
+
+[[v44-15-30]]
+
+^<<v44-15-30,30>>^ Assim, depois de serem dispensados, esses homens desceram para Antioquia, reuniram todo o grupo e lhes entregaram a carta.
+
+[[v44-15-31]]
+
+^<<v44-15-31,31>>^ Estes, depois de lerem a carta, se alegraram com o encorajamento.
+
+[[v44-15-32]]
+
+^<<v44-15-32,32>>^ E Judas e Silas, visto que também eram profetas, encorajaram os irmãos com muitos discursos e os fortaleceram.
+
+[[v44-15-33]]
+
+^<<v44-15-33,33>>^ Depois de passarem algum tempo ali, os irmãos os mandaram de volta em paz para os que os tinham enviado.
+
+[[v44-15-34]]
+
+^<<v44-15-34,34>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos gregos e algumas traduções antigas da Bíblia para outros idiomas acrescentam aqui algo como*: “No entanto, pareceu bem a Silas ficar ali, e Judas partiu sozinho para Jerusalém.” Mas essas palavras não aparecem nos manuscritos mais antigos e mais confiáveis, e por isso não fazem parte do relato inspirado de Atos. Essa passagem era provavelmente uma nota marginal que tinha como objetivo explicar At 15:40. Com o tempo, ela foi incluída no texto principal de alguns poucos manuscritos. — Veja o Apêndice A3.
+====
+
+[[v44-15-35]]
+
+^<<v44-15-35,35>>^ Mas Paulo e Barnabé ficaram em Antioquia ensinando e declarando, junto com muitos outros, as boas novas da palavra de Jeová.
+
+[TIP]
+====
+- *da palavra de Jeová*: Veja a nota de estudo em At 8:25 e o Apêndice C3 (introdução e At 15:35).
+====
+
+[[v44-15-36]]
+
+^<<v44-15-36,36>>^ Depois de alguns dias, Paulo disse a Barnabé: “Agora,^&#42;1^ vamos voltar e visitar os irmãos em cada uma das cidades em que proclamamos a palavra de Jeová, para ver como estão.”
+
+[NOTE]
+====
+. Ou, possivelmente: “Sem falta”.
+====
+
+[TIP]
+====
+- *a palavra de Jeová*: Veja a nota de estudo em At 8:25 e o Apêndice C3 (introdução e At 15:36).
+====
+
+[[v44-15-37]]
+
+^<<v44-15-37,37>>^ Barnabé estava decidido a levar João, que era chamado Marcos.
+
+[[v44-15-38]]
+
+^<<v44-15-38,38>>^ Paulo, no entanto, não concordava que o levassem junto, visto que ele tinha se separado deles na Panfília, e não os tinha acompanhado no trabalho.
+
+[[v44-15-39]]
+
+^<<v44-15-39,39>>^ Em vista disso, tiveram uma forte discussão,^&#42;1^ de modo que se separaram um do outro. Então Barnabé levou consigo Marcos e navegou para Chipre.
+
+[NOTE]
+====
+. Ou: “um forte acesso de ira”.
+====
+
+[[v44-15-40]]
+
+^<<v44-15-40,40>>^ Paulo escolheu Silas e partiu, depois de os irmãos o entregarem à bondade imerecida de Jeová.
+
+[TIP]
+====
+- *de Jeová*: Na maioria das vezes que a expressão bondade imerecida aparece no livro de Atos, ela se refere à bondade imerecida de Deus. (At 11:23; 13:43; 20:24, 32) Uma frase parecida com a que foi usada aqui aparece em At 14:26, que diz “entregues à bondade imerecida de Deus”. — Veja o Apêndice C3 (introdução e At 15:40).
+====
+
+[[v44-15-41]]
+
+^<<v44-15-41,41>>^ Ele passou pela Síria e pela Cilícia, fortalecendo as congregações.
+
+'''
+
+xref:044-atos/044-atos-014.adoc#v44-14-0[&#60; Capítulo Anterior] | <<v44-15-0,Topo>> | xref:044-atos/044-atos-016.adoc#v44-16-0[Próximo Capítulo &#62;]

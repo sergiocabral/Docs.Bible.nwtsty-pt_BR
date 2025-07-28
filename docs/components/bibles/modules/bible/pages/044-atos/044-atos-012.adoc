@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v44-12-0]]
+=== Atos dos Apóstolos, 12
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. A pregação chega aos não judeus incircuncisos em Cesareia e Antioquia da Síria (10:1–12:25)
+* Um oficial do exército chamado Cornélio tem uma visão e manda chamar Pedro (10:1-8)
+* Em uma visão, Pedro vê animais que foram purificados (10:9-16)
+* Pedro vai até Cornélio, que conta a ele a visão que teve (10:17-33)
+* Pedro proclama as boas novas aos não judeus; “Deus não é parcial” (10:34-43)
+* Não judeus recebem espírito santo e são batizados (10:44-48)
+* Pedro relata aos apóstolos em Jerusalém o que aconteceu (11:1-18)
+* Barnabé e Saulo pregam para pessoas de língua grega em Antioquia da Síria, onde os discípulos são chamados de cristãos pela primeira vez (11:19-26)
+* O profeta cristão Ágabo prediz uma grande fome; os discípulos enviam ajuda aos irmãos na Judeia (11:27-30)
+* O rei Herodes mata Tiago e prende Pedro (12:1-5)
+* Um anjo de Jeová liberta Pedro da prisão (12:6-19)
+* Um anjo de Jeová fere Herodes (12:20-25)
+****
+
+[[v44-12-1]]
+
+^<<v44-12-1,1>>^ Naquela época, o rei Herodes começou a maltratar alguns da congregação.
+
+[TIP]
+====
+- *Herodes*: Ou seja, Herodes Agripa I, neto de Herodes, o Grande. (Veja o Glossário.) Agripa nasceu em 10 a.C. e foi educado em Roma. Ele fez amizade com vários membros da família imperial. Um desses amigos foi Caio, mais conhecido como Calígula, que se tornou imperador em 37 d.C. Logo depois, Calígula proclamou Agripa rei sobre as regiões da Itureia, de Traconítis e de Abilene. Mais tarde, Calígula expandiu o domínio de Agripa, que passou a incluir a Galileia e a Pereia. Agripa estava em Roma quando Calígula foi assassinado, em 41 d.C. A morte de Calígula gerou uma crise política e, de acordo com os relatos, Agripa desempenhou um papel muito importante em resolvê-la. Ele participou de negociações tensas entre o Senado romano e Cláudio, outro de seus amigos poderosos. Em resultado disso, Cláudio foi proclamado imperador e uma guerra civil foi evitada. Para recompensar Agripa por seu papel nessas negociações, Cláudio o designou rei também sobre a Judeia e Samaria, que estavam sendo administradas por procuradores romanos desde 6 d.C. Assim, Agripa passou a governar praticamente os mesmos territórios que Herodes, o Grande, tinha governado. A capital do reino de Agripa era Jerusalém, e ele ganhou o favor dos líderes religiosos ali. Relata-se que ele observava rigorosamente as leis e as tradições judaicas, oferecendo sacrifícios no templo todos os dias e lendo a Lei em público, entre outras coisas. Alguns o consideravam um fiel protetor da fé judaica. Mas Agripa mostrou que não era um verdadeiro adorador de Deus, já que organizou combates de gladiadores e espetáculos pagãos no teatro. Ele foi descrito como uma pessoa traiçoeira, superficial e extravagante. O reinado dele acabou de repente, quando ele foi morto pelo anjo de Jeová, conforme registrado em At 12:23. Os estudiosos dizem que o rei Herodes Agripa I morreu em 44 d.C., aos 54 anos, depois de ter reinado por três anos sobre a Judeia.
+====
+
+[[v44-12-2]]
+
+^<<v44-12-2,2>>^ Ele mandou matar à espada Tiago, irmão de João.
+
+[TIP]
+====
+- *mandou matar . . . Tiago, irmão de João*: Tudo indica que Tiago foi executado por volta de 44 d.C. Assim, ele foi o primeiro dos 12 apóstolos a morrer como mártir. Herodes talvez tenha escolhido Tiago como alvo porque Tiago tinha sido muito próximo de Jesus ou porque ele era muito zeloso. É provável que o zelo intenso de Tiago e de seu irmão, João, tenha sido o motivo de Jesus ter dado a eles o nome Boanerges, que significa “filhos do trovão”. (Mr 3:17) O assassinato de Tiago foi um ato covarde, motivado por interesses políticos. Esse assassinato não impediu que as boas novas se espalhassem, mas a congregação perdeu um apóstolo e pastor querido que, com certeza, encorajava muito os irmãos. O fato de o versículo dizer que Herodes mandou matar Tiago à espada pode indicar que Tiago foi decapitado.
+====
+
+[[v44-12-3]]
+
+^<<v44-12-3,3>>^ Ao ver que isso agradava aos judeus, prendeu também Pedro. (Isso aconteceu nos dias dos Pães sem Fermento.)
+
+[TIP]
+====
+- *nos dias dos Pães sem Fermento*: A Festividade dos Pães sem Fermento começava no dia 15 de nisã, um dia depois da Páscoa (14 de nisã), e durava sete dias. (Veja o Glossário, “Festividade dos Pães sem Fermento” e o Apêndice B15.) Tanto os Evangelhos como o livro de Atos fazem várias referências a festividades dos judeus, mostrando que os judeus ainda seguiam o calendário judaico nos dias de Jesus e dos apóstolos. Essas referências às festividades ajudam a saber aproximadamente quando certos acontecimentos bíblicos ocorreram. — Mt 26:2; Mr 14:1; Lu 22:1; Jo 2:13, 23; 5:1; 6:4; 7:2, 37; 10:22; 11:55; At 2:1; 12:3, 4; 20:6, 16; 27:9.
+====
+
+[[v44-12-4]]
+
+^<<v44-12-4,4>>^ Ele o prendeu e o pôs na prisão, entregando-o aos cuidados de quatro turnos de soldados, com quatro soldados cada um, com a intenção de apresentá-lo ao^&#42;1^ povo depois da Páscoa.
+
+[NOTE]
+====
+. Ou: “trazê-lo a julgamento diante do”.
+====
+
+[[v44-12-5]]
+
+^<<v44-12-5,5>>^ De modo que Pedro ficou detido na prisão, mas a congregação orava intensamente a Deus por ele.
+
+[[v44-12-6]]
+
+^<<v44-12-6,6>>^ Herodes estava para apresentar Pedro; naquela noite, ele estava dormindo, preso com duas correntes, entre dois soldados, e em frente à porta havia guardas que vigiavam a prisão.
+
+[[v44-12-7]]
+
+^<<v44-12-7,7>>^ Mas, de repente, o anjo de Jeová apareceu, e uma luz brilhou na cela da prisão. Ele tocou no lado de Pedro e o acordou, dizendo: “Levante-se depressa!” E as correntes caíram das mãos dele.
+
+[TIP]
+====
+- *o anjo de Jeová*: Veja a nota de estudo em At 5:19 e o Apêndice C3 (introdução e At 12:7).
+====
+
+[[v44-12-8]]
+
+^<<v44-12-8,8>>^ O anjo lhe disse: “Vista-se e calce as sandálias”, e Pedro fez isso. Por fim, ele lhe disse: “Ponha a sua capa e siga-me.”
+
+[TIP]
+====
+- *Vista-se*: Ou: “Cinja-se”. Aqui, esta expressão pelo visto se refere a prender a túnica com um cinto ou uma faixa de pano. — Veja a nota de estudo em Lu 12:35.
+====
+
+[[v44-12-9]]
+
+^<<v44-12-9,9>>^ Então ele saiu e o seguiu, mas não sabia que era real aquilo que estava acontecendo por meio do anjo. Na verdade, ele achou que estava tendo uma visão.
+
+[[v44-12-10]]
+
+^<<v44-12-10,10>>^ Passaram pelo primeiro posto de guarda, pelo segundo, e chegaram ao portão de ferro que dava para a cidade. Ele se abriu sozinho. Depois de saírem, seguiram por uma rua e então, de repente, o anjo o deixou.
+
+[[v44-12-11]]
+
+^<<v44-12-11,11>>^ Pedro, percebendo o que estava acontecendo, disse: “Agora sei, sem nenhuma dúvida, que Jeová enviou seu anjo e me livrou das mãos de Herodes e de tudo o que o povo judeu esperava que acontecesse.”
+
+[TIP]
+====
+- *Jeová enviou seu anjo*: As palavras “enviou seu anjo” lembram situações mencionadas nas Escrituras Hebraicas em que Jeová salvou seus servos de forma parecida. Por exemplo, Deus “enviou o seu anjo” para salvar os companheiros de Daniel (Da 3:28) e, mais tarde, fez o mesmo pelo próprio Daniel (Da 6:22). — Compare com o Sal 34:7; veja o Apêndice C3 (introdução e At 12:11).
+====
+
+[[v44-12-12]]
+
+^<<v44-12-12,12>>^ Depois que ele entendeu isso, foi à casa de Maria, mãe de João, conhecido como Marcos, onde muitos estavam reunidos, orando.
+
+[TIP]
+====
+- *à casa de Maria*: Pelo visto, a casa de Maria, mãe de João Marcos, era o local de reuniões da congregação em Jerusalém. A casa tinha espaço suficiente para acomodar “muitos” discípulos e, de acordo com At 12:13, Maria tinha uma serva. Assim, é possível que Maria tivesse uma boa condição financeira. Pode ser que ela fosse viúva, já que o relato não menciona o marido dela e se refere à sua casa como “casa de Maria”.
+- *João, conhecido como Marcos*: Este discípulo de Jesus era “primo de Barnabé” (Col 4:10) e escreveu o Evangelho de Marcos. (Veja a nota de estudo em Mr Título.) O nome João, em português, equivale aos nomes hebraicos Jeoanã ou Joanã, que significam “Jeová mostrou favor” ou “Jeová foi bondoso”. Em At 13:5, 13, esse discípulo é chamado simplesmente de João. Mas, aqui e em At 12:25 e 15:37, também aparece seu sobrenome romano, Marcos. Em todos os outros lugares das Escrituras Gregas Cristãs, ele é chamado apenas de Marcos. — Col 4:10; 2Ti 4:11; Flm 24; 1Pe 5:13.
+====
+
+[[v44-12-13]]
+
+^<<v44-12-13,13>>^ Quando bateu no portão de entrada, uma serva chamada Rode foi atender.
+
+[[v44-12-14]]
+
+^<<v44-12-14,14>>^ Ao reconhecer a voz de Pedro, ela ficou tão contente que não abriu o portão, mas correu para dentro e contou que Pedro estava no portão.
+
+[[v44-12-15]]
+
+^<<v44-12-15,15>>^ Disseram-lhe: “Você está louca.” Mas ela insistia que era verdade. E eles diziam: “É o anjo dele.”
+
+[TIP]
+====
+- *É o anjo dele*: Tanto a palavra hebraica como a palavra grega para “anjo” significam “mensageiro”. (Veja a nota de estudo em Jo 1:51.) Os discípulos podem ter pensado que um mensageiro angélico representando Pedro estava no portão quando disseram que “o anjo dele [de Pedro]” estava ali. Parece que alguns judeus acreditavam que cada servo de Deus tinha um anjo responsável por ele, uma espécie de anjo da guarda, apesar de isso não ser ensinado de forma direta na Palavra de Deus. Ao mesmo tempo, os discípulos de Jesus sabiam que, ao longo da história, anjos tinham dado ajuda individual a alguns servos de Deus. Por exemplo, Jacó falou sobre ‘o anjo que o tinha livrado de toda calamidade’. (Gên 48:16) Além disso, Jesus mostrou que os anjos têm muito interesse em cada um dos seus discípulos quando disse: “Os anjos deles no céu estão sempre vendo a face do meu Pai.” (Veja a nota de estudo em Mt 18:10.) Os cristãos que estavam reunidos na casa de Maria sabiam o que as Escrituras Hebraicas ensinam sobre a condição dos mortos. (Ec 9:5, 10) Assim, eles não pensariam que Pedro tinha morrido e estava no portão em forma de anjo ou espírito.
+====
+
+[[v44-12-16]]
+
+^<<v44-12-16,16>>^ Mas Pedro continuou ali, batendo. Quando abriram, viram-no e ficaram pasmados.
+
+[[v44-12-17]]
+
+^<<v44-12-17,17>>^ Então ele lhes fez sinal com a mão para que ficassem calados, contou-lhes em detalhes como Jeová o havia tirado da prisão e disse: “Contem essas coisas a Tiago e aos irmãos.” Assim, ele saiu e foi para outro lugar.
+
+[TIP]
+====
+- *Jeová*: A maioria dos manuscritos gregos usa aqui a expressão “o Senhor” (ho Kýrios). Mas, como explicado no Apêndice C1, há bons motivos para acreditar que o nome de Deus aparecia no texto original deste versículo e que mais tarde foi substituído pelo título “Senhor”. Por isso, o nome “Jeová” é usado aqui no texto principal. — Veja o Apêndice C3 (introdução e At 12:17).
+- *Tiago*: Tudo indica que este Tiago seja o meio-irmão de Jesus. Quando os quatro meios-irmãos de Jesus (Tiago, José, Simão e Judas) são citados, Tiago é sempre mencionado primeiro. Isso talvez indique que ele era o mais velho deles. (Mt 13:55; Mr 6:3; Jo 7:5) Ele estava presente no Pentecostes de 33 d.C., quando milhares de judeus que moravam fora de Israel e tinham ido a Jerusalém aceitaram as boas novas e foram batizados. (At 1:14; 2:1, 41) As palavras de Pedro “contem essas coisas a Tiago” indicam que Tiago estava tomando a liderança na congregação em Jerusalém. Parece também que ele é o Tiago mencionado em At 15:13; 21:18; 1Co 15:7; Gál 1:19 (onde ele é chamado de “Tiago, o irmão do Senhor”); 2:9, 12, e que foi ele quem escreveu o livro bíblico de Tiago. — Tg 1:1; Ju 1.
+====
+
+[[v44-12-18]]
+
+^<<v44-12-18,18>>^ Quando amanheceu, houve grande confusão entre os soldados, que se perguntavam o que teria acontecido com Pedro.
+
+[[v44-12-19]]
+
+^<<v44-12-19,19>>^ Herodes o procurou cuidadosamente e, como não o achou, interrogou os guardas e mandou que fossem levados para punição; depois desceu da Judeia para Cesareia e passou algum tempo ali.
+
+[[v44-12-20]]
+
+^<<v44-12-20,20>>^ Ele estava furioso^&#42;1^ com o povo de Tiro e de Sídon. Estes, então, de comum acordo foram ao encontro dele^&#42;2^ e, depois de convencerem Blasto, o administrador da casa do rei, pediram termos de paz, porque o país do rei supria a região deles de alimento.
+
+[NOTE]
+====
+. Ou: “disposto a brigar”.
+. Ou: “se uniram e se apresentaram diante dele”.
+====
+
+[TIP]
+====
+- *o administrador da casa do rei*: Lit.: “aquele que estava sobre o dormitório do rei”. Pelo visto, este era um cargo muito respeitado, que incluía diversas responsabilidades relacionadas com a casa e os assuntos pessoais do rei.
+====
+
+[[v44-12-21]]
+
+^<<v44-12-21,21>>^ Num determinado dia, Herodes vestiu a roupa real, sentou-se no tribunal e começou a fazer um discurso público.
+
+[[v44-12-22]]
+
+^<<v44-12-22,22>>^ Então o povo que estava reunido começou a gritar: “É a voz de um deus e não de um homem!”
+
+[[v44-12-23]]
+
+^<<v44-12-23,23>>^ Instantaneamente o anjo de Jeová o feriu, porque não deu glória a Deus. E ele morreu comido por vermes.
+
+[TIP]
+====
+- *anjo de Jeová*: Veja a nota de estudo em At 5:19 e o Apêndice C3 (introdução e At 12:23).
+====
+
+[[v44-12-24]]
+
+^<<v44-12-24,24>>^ Mas a palavra de Jeová crescia e se espalhava.
+
+[TIP]
+====
+- *a palavra de Jeová*: Veja a nota de estudo em At 8:25 e o Apêndice C3 (introdução e At 12:24).
+====
+
+[[v44-12-25]]
+
+^<<v44-12-25,25>>^ Quanto a Barnabé e Saulo, depois de terem terminado seu trabalho de prestar ajuda em Jerusalém, voltaram e levaram consigo João, que também era conhecido como Marcos.
+
+[TIP]
+====
+- *seu trabalho de prestar ajuda*: Ou: “seu ministério de ajuda”. — Veja a nota de estudo em At 11:29.
+====
+
+'''
+
+xref:044-atos/044-atos-011.adoc#v44-11-0[&#60; Capítulo Anterior] | <<v44-12-0,Topo>> | xref:044-atos/044-atos-013.adoc#v44-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,369 @@
+include::./index.adoc[]
+
+[[v41-12-0]]
+=== As Boas Novas Segundo Marcos, 12
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Últimos dias da pregação de Jesus em Jerusalém (11:1–14:16)
+* Entrada triunfal de Jesus em Jerusalém (11:1-11)
+* Jesus amaldiçoa uma figueira no caminho para Jerusalém (11:12-14)
+* Jesus purifica o templo (11:15-18)
+* Lição da figueira que secou (11:19-25)
+* Autoridade de Jesus é questionada (11:27-33)
+* Ilustração dos lavradores maus (12:1-12)
+* Deus e César (12:13-17)
+* Pergunta sobre a ressurreição (12:18-27)
+* Dois maiores mandamentos (12:28-34)
+* O Cristo é filho de Davi? (12:35-37a)
+* Alerta contra os escribas (12:37b-40)
+* Duas moedas da viúva pobre (12:41-44)
+* Pergunta sobre “o sinal de que todas essas coisas” vão “chegar a um final” (13:1-4)
+* Acontecimentos que fazem parte do sinal; tribulação sem precedentes (13:5-20)
+* Perigo de ser desencaminhado por falsos Cristos (13:21-23)
+* Vinda do Filho do Homem (13:24-27)
+* Ilustração da figueira (13:28, 29)
+* Esta geração não passará (13:30, 31)
+* Ninguém sabe o dia e a hora, nem os anjos (13:32)
+* Mantenham-se vigilantes (13:33-37)
+* Sacerdotes tramam matar Jesus (14:1, 2)
+* Mulher derrama óleo perfumado em Jesus (14:3-9)
+* Judas planeja traição de Jesus (14:10, 11)
+* Preparativos para a última Páscoa (14:12-16)
+****
+
+[[v41-12-1]]
+
+^<<v41-12-1,1>>^ Então ele começou a lhes falar com ilustrações: “Um homem plantou um vinhedo, pôs uma cerca em volta dele, cavou um tanque como lagar de vinho e ergueu uma torre; então arrendou o vinhedo a lavradores e viajou para fora.
+
+[TIP]
+====
+- *ilustrações*: Veja a nota de estudo em Mt 13:3.
+- *torre*: Veja a nota de estudo em Mt 21:33.
+- *arrendou*: Veja a nota de estudo em Mt 21:33.
+====
+
+[[v41-12-2]]
+
+^<<v41-12-2,2>>^ Na época devida, enviou um escravo aos lavradores para receber deles alguns dos frutos do vinhedo.
+
+[[v41-12-3]]
+
+^<<v41-12-3,3>>^ Mas eles o pegaram e espancaram, e o mandaram embora de mãos vazias.
+
+[[v41-12-4]]
+
+^<<v41-12-4,4>>^ Enviou-lhes outro escravo, e eles lhe bateram na cabeça e o humilharam.
+
+[[v41-12-5]]
+
+^<<v41-12-5,5>>^ Então enviou outro, e eles o mataram; e enviou muitos outros: a uns eles espancaram, a outros mataram.
+
+[[v41-12-6]]
+
+^<<v41-12-6,6>>^ Ele tinha mais um, um filho amado. Por fim o enviou a eles, dizendo: ‘Respeitarão o meu filho.’
+
+[[v41-12-7]]
+
+^<<v41-12-7,7>>^ Mas aqueles lavradores disseram entre si: ‘Este é o herdeiro. Venham, vamos matá-lo, e a herança será nossa.’
+
+[[v41-12-8]]
+
+^<<v41-12-8,8>>^ Assim, eles o pegaram, o mataram e o lançaram para fora do vinhedo.
+
+[[v41-12-9]]
+
+^<<v41-12-9,9>>^ O que fará o dono do vinhedo? Voltará e matará os lavradores, e dará o vinhedo a outros.
+
+[[v41-12-10]]
+
+^<<v41-12-10,10>>^ Vocês nunca leram esta passagem das Escrituras: ‘A pedra que os construtores rejeitaram, essa se tornou a principal pedra angular.
+
+[TIP]
+====
+- *passagem das Escrituras*: Aqui é usada a palavra grega grafé, no singular, para se referir a uma passagem específica, o Sal 118:22, 23.
+- *principal pedra angular*: Veja a nota de estudo em Mt 21:42.
+====
+
+[[v41-12-11]]
+
+^<<v41-12-11,11>>^ Isso procede de Jeová e é maravilhoso aos nossos olhos’?”
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta do Sal 118:22, 23. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C.
+====
+
+[[v41-12-12]]
+
+^<<v41-12-12,12>>^ Em vista disso, quiseram prendê-lo,^&#42;1^ porque sabiam que ele havia contado a ilustração pensando neles. Mas tinham medo da multidão, de modo que o deixaram e foram embora.
+
+[NOTE]
+====
+. Ou: “pegá-lo”.
+====
+
+[[v41-12-13]]
+
+^<<v41-12-13,13>>^ A seguir, enviaram-lhe alguns dos fariseus e dos partidários de Herodes, para apanhá-lo nas suas palavras.
+
+[TIP]
+====
+- *partidários de Herodes*: Veja o Glossário.
+====
+
+[[v41-12-14]]
+
+^<<v41-12-14,14>>^ Ao chegarem, eles lhe disseram: “Instrutor, sabemos que o senhor é verdadeiro e que não busca agradar a homens, pois não olha para a aparência das pessoas, mas ensina o caminho de Deus em harmonia com a verdade. É permitido^&#42;1^ ou não pagar a César o imposto por cabeça?
+
+[NOTE]
+====
+. Ou: “lícito; certo”.
+====
+
+[TIP]
+====
+- *imposto por cabeça*: Veja a nota de estudo em Mt 22:17.
+- *César*: Veja a nota de estudo em Mt 22:17.
+====
+
+[[v41-12-15]]
+
+^<<v41-12-15,15>>^ Devemos pagar ou não devemos pagar?” Percebendo a hipocrisia deles, ele lhes disse: “Por que vocês me põem à prova? Tragam-me um denário para eu ver.”
+
+[TIP]
+====
+- *denário*: Essa moeda romana de prata tinha o nome de César inscrito, ou gravado, nela. Era o valor que os romanos cobravam dos judeus como “imposto por cabeça”. (Mr 12:14) Nos dias de Jesus, os trabalhadores rurais geralmente ganhavam um denário por um dia de trabalho (12 horas). As Escrituras Gregas Cristãs muitas vezes usam o denário como base para calcular outros valores em dinheiro. (Mt 20:2; Mr 6:37; 14:5; Ap 6:6) Em Israel, as pessoas usavam várias moedas de cobre e de prata no seu dia a dia. Moedas de prata produzidas em Tiro eram usadas para pagar o imposto do templo. Mas, para pagar os impostos que Roma cobrava, as pessoas pelo visto usavam o denário de prata que trazia a imagem de César. — Veja o Glossário e o Apêndice B14-B.
+====
+
+[[v41-12-16]]
+
+^<<v41-12-16,16>>^ Trouxeram-lhe um, e ele lhes perguntou: “De quem é esta imagem e inscrição?” Responderam-lhe: “De César.”
+
+[TIP]
+====
+- *imagem e inscrição*: Veja a nota de estudo em Mt 22:20.
+====
+
+[[v41-12-17]]
+
+^<<v41-12-17,17>>^ Jesus disse então: “Paguem a César o que é de César, mas a Deus o que é de Deus.” E ficaram maravilhados com ele.
+
+[TIP]
+====
+- *Paguem*: Veja a nota de estudo em Mt 22:21.
+- *a César o que é de César*: Esta resposta de Jesus, que também aparece nos relatos paralelos de Mt 22:21 e Lu 20:25, é a única ocasião registrada na Bíblia em que Jesus fez referência ao imperador romano. ‘Pagar a César o que é de César’ inclui pagar por serviços prestados pelo governo, mostrar respeito e obedecer às autoridades em tudo o que não contraria as leis de Deus. — Ro 13:​1-7.
+- *a Deus o que é de Deus*: Veja a nota de estudo em Mt 22:21.
+====
+
+[[v41-12-18]]
+
+^<<v41-12-18,18>>^ Então os saduceus, que dizem não haver ressurreição, se aproximaram e lhe perguntaram:
+
+[TIP]
+====
+- *saduceus*: Esta é a única vez em que o Evangelho de Marcos menciona os saduceus. (Veja o Glossário.) Esse nome (em grego, Saddoukaíos) provavelmente vem do nome de Zadoque (que muitas vezes é escrito Saddoúk na Septuaginta). Zadoque recebeu o cargo de sumo sacerdote nos dias de Salomão, e seus descendentes pelo visto serviram como sacerdotes por centenas de anos. — 1Rs 2:​35.
+- *ressurreição*: A palavra grega usada aqui, anástasis, significa literalmente “levantar; ficar de pé”. Ela aparece umas 40 vezes nas Escrituras Gregas Cristãs para se referir à ressurreição dos mortos. (Mt 22:23, 31; At 4:2; 24:15; 1Co 15:12, 13) Em Is 26:19, a Septuaginta usa um verbo derivado de anástasis para traduzir o verbo hebraico que significa “viver” na expressão: “Os seus mortos viverão.” — Veja o Glossário.
+====
+
+[[v41-12-19]]
+
+^<<v41-12-19,19>>^ “Instrutor, Moisés nos escreveu que, se alguém morre e deixa esposa, mas não deixa filhos, o irmão dele deve tomar a viúva em casamento para dar descendência ao seu irmão.
+
+[[v41-12-20]]
+
+^<<v41-12-20,20>>^ Havia sete irmãos. O primeiro tomou uma esposa, mas morreu sem deixar descendente.
+
+[[v41-12-21]]
+
+^<<v41-12-21,21>>^ E o segundo se casou com ela, mas morreu sem deixar descendente, e o mesmo aconteceu com o terceiro.
+
+[TIP]
+====
+- *o segundo se casou com ela*: Entre os antigos hebreus, se um homem morresse sem ter um filho do sexo masculino, esperava-se que o irmão do falecido se casasse com a viúva com o objetivo de continuar a linhagem do falecido. (Gên 38:8) Esse costume, que mais tarde passou a fazer parte da Lei mosaica, era conhecido como casamento de cunhado (ou levirato). (De 25:​5, 6) O fato de os saduceus dos dias de Jesus mencionarem o casamento de cunhado mostra que as pessoas ainda realizavam esse tipo de casamento naquela época. A Lei permitia que um homem se recusasse a realizar o casamento de cunhado, mas ao fazer isso ele mostrava que não queria “edificar a família de seu irmão”, o que era vergonhoso. — De 25:​7-​10; Ru 4:​7, 8.
+====
+
+[[v41-12-22]]
+
+^<<v41-12-22,22>>^ E nenhum dos sete deixou descendente. Por último, morreu também a mulher.
+
+[[v41-12-23]]
+
+^<<v41-12-23,23>>^ Na ressurreição, de qual deles ela será esposa? Pois os sete a tiveram como esposa.”
+
+[[v41-12-24]]
+
+^<<v41-12-24,24>>^ Jesus lhes disse: “Não é por isso que vocês estão enganados, porque não conhecem nem as Escrituras, nem o poder de Deus?
+
+[TIP]
+====
+- *as Escrituras*: Veja a nota de estudo em Mt 22:29.
+====
+
+[[v41-12-25]]
+
+^<<v41-12-25,25>>^ Pois, quando se levantam dentre os mortos, os homens não se casam, nem as mulheres são dadas em casamento, mas são como os anjos nos céus.
+
+[[v41-12-26]]
+
+^<<v41-12-26,26>>^ Quanto aos mortos serem levantados, vocês não leram no livro de Moisés, no relato sobre o espinheiro, que Deus lhe disse: ‘Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’?
+
+[TIP]
+====
+- *no livro de Moisés*: Os saduceus achavam que apenas os livros escritos por Moisés (o Pentateuco) tinham sido inspirados por Deus. Eles não aceitavam o que Jesus ensinava sobre a ressurreição porque, pelo visto, pensavam que não havia nenhuma base no Pentateuco para esse ensino. Jesus poderia ter citado muitos textos das Escrituras Hebraicas, como Is 26:19, Da 12:13 e Os 13:14, para mostrar que os mortos seriam ressuscitados. Mas, como Jesus sabia quais livros da Bíblia os saduceus aceitavam, ele preferiu citar as palavras de Jeová para Moisés. — Êx 3:​2, 6.
+- *que Deus lhe disse*: Jesus menciona aqui uma conversa entre Jeová e Moisés que aconteceu por volta de 1514 a.C. (Êx 3:​2, 6) Naquela época, Abraão já tinha morrido fazia 329 anos; Isaque, fazia 224; e Jacó, fazia 197. Mesmo assim, Jeová não disse: ‘Eu era o Deus deles.’ Ele disse: ‘Eu sou o Deus deles.’ — Veja a nota de estudo em Mr 12:27.
+====
+
+[[v41-12-27]]
+
+^<<v41-12-27,27>>^ Ele é Deus, não de mortos, mas de vivos. Vocês estão muito enganados.”
+
+[TIP]
+====
+- *mas de vivos*: De acordo com o relato paralelo em Lu 20:38, Jesus fez também este comentário: “Pois, para ele [ou: “do ponto de vista dele”], todos eles vivem.” A Bíblia mostra que para Deus as pessoas que não o servem estão como que mortas, mesmo que ainda vivam. (Ef 2:1; 1Ti 5:6) Por outro lado, Deus tem tanta certeza de que vai cumprir seu objetivo de ressuscitar seus servos fiéis que, do seu ponto de vista, eles continuam vivos. — Ro 4:​16, 17.
+====
+
+[[v41-12-28]]
+
+^<<v41-12-28,28>>^ Um dos escribas, que havia se aproximado e ouvido a discussão, vendo que ele tinha lhes respondido bem, perguntou-lhe: “Qual mandamento é o primeiro^&#42;1^ de todos?”
+
+[NOTE]
+====
+. Ou: “mais importante”.
+====
+
+[[v41-12-29]]
+
+^<<v41-12-29,29>>^ Jesus respondeu: “O primeiro é: ‘Ouve, ó Israel: Jeová, nosso Deus, é um só Jeová.
+
+[TIP]
+====
+- *Ouve, ó Israel*: Esta citação de De 6:4, 5 é mais longa do que nos relatos paralelos de Mateus e Lucas, e inclui as palavras iniciais do versículo 4. Os judeus recitam as palavras de De 6:4-9 e 11:13-21 em sua profissão (declaração) de fé conhecida como Shema. O nome Shema vem da primeira palavra hebraica de De 6:4, shemáʽ, que significa “Escute!; Ouça!”.
+- *Jeová, nosso Deus, é um só Jeová*: Ou: “Jeová é o nosso Deus; Jeová é um”, ou “Jeová é o nosso Deus, existe apenas um Jeová”. Esta é uma citação de De 6:4, onde no texto hebraico a palavra para “um” pode indicar alguém que é sem igual, único. Jeová é o único Deus verdadeiro; nenhum deus falso se compara a ele. (2Sa 7:22; Sal 96:5; Is 2:18-20) No livro de Deuteronômio, Moisés lembrou aos israelitas que eles deviam adorar apenas a Jeová. As nações ao redor de Israel adoravam vários deuses e deusas. Elas acreditavam que alguns desses deuses falsos controlavam forças da natureza e que outros eram, na verdade, formas diferentes de um mesmo deus. Os israelitas não deviam ser como essas nações. A palavra hebraica para “um” também indica uma unidade, ou harmonia, nos objetivos e ações. Isso quer dizer que Jeová não muda nem é imprevisível. Ele é sempre fiel, leal, verdadeiro e constante. A conversa registrada em Mr 12:28-34 também aparece em Mt 22:34-40, mas apenas Marcos mostra que a resposta de Jesus começou com as palavras: “Ouve, ó Israel: Jeová, nosso Deus, é um só Jeová.” Depois dessa declaração que mostra que Jeová não está dividido, Jesus citou o mandamento de amar a Deus. Isso mostra que o amor dos adoradores de Jeová por ele também não pode estar dividido, esse amor tem que ser completo.
+- *Jeová . . . Jeová*: Esta é uma citação direta de De 6:4. No texto hebraico original de Deuteronômio, as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH) aparecem duas vezes. — Veja o Apêndice C.
+====
+
+[[v41-12-30]]
+
+^<<v41-12-30,30>>^ Ame a Jeová, seu Deus, de todo o seu coração, de toda a sua alma, de toda a sua mente e de toda a sua força.’
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta de De 6:5. No texto hebraico original de Deuteronômio, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C.
+- *coração*: Quando a Bíblia usa a palavra “coração” em sentido figurado, ela geralmente está se referindo a tudo o que uma pessoa é por dentro, incluindo seus pensamentos, sentimentos, atitudes e motivações. Mas, pelo visto, a palavra “coração” assume um sentido mais específico quando é mencionada junto com “alma” e “mente”, e representa principalmente os desejos e os sentimentos de uma pessoa. As quatro palavras usadas neste versículo (“coração”, “alma”, “mente” e “força”) não têm significados totalmente diferentes. Na verdade, elas se complementam. Juntas, elas destacam do modo mais forte possível que o amor a Jeová tem que ser completo. — Veja as notas de estudo em mente e força neste versículo.
+- *alma*: Veja a nota de estudo em Mt 22:37.
+- *mente*: Ou seja, a capacidade de pensar. A pessoa precisa usar sua capacidade mental para conhecer a Deus e desenvolver amor por ele. (Jo 17:3, nota de rodapé; Ro 12:1) Jesus estava citando De 6:5. O texto original hebraico usa três palavras que significam ‘coração, alma e força’. Mas o relato de Marcos em grego usa quatro palavras: coração, alma, mente e força. Essa diferença pode ter acontecido por vários motivos. Um deles é que talvez Marcos tenha acrescentado a palavra “mente” para transmitir melhor o sentido completo do texto hebraico. Não existia no hebraico antigo uma palavra específica para “mente”, mas o conceito de “mente” estava muitas vezes incluído na palavra hebraica “coração”. (De 29:4; Sal 26:2; 64:6; veja a nota de estudo em coração neste versículo.) Por esse motivo, a Septuaginta grega muitas vezes traduz a palavra hebraica para “coração” usando a palavra grega para “mente”. (Gên 8:21; 17:17; Pr 2:10; Is 14:13) Outra possibilidade é que Marcos tenha acrescentado a palavra grega para mente porque seu significado estivesse incluído na palavra hebraica para “força”, usada em Deuteronômio. (Compare De 6:5 com Mt 22:37, que usa “mente” em vez de “força”.) O cruzamento de ideias entre as palavras hebraicas e gregas pode ajudar a explicar por que o escriba respondeu a Jesus usando a palavra “entendimento”. (Mr 12:33) Também pode explicar por que os escritores dos Evangelhos não fizeram uma tradução palavra por palavra ao citar Deuteronômio. — Veja a nota de estudo em força neste versículo e as notas de estudo em Mt 22:37; Lu 10:27.
+- *força*: Conforme explicado na nota de estudo em mente, esta é uma citação de De 6:5. O texto original hebraico usa três palavras que significam ‘coração, alma e força’. A palavra hebraica traduzida como “força [ou: “força vital”, nota de rodapé]” pode se referir à força física e também à capacidade mental ou intelectual. Esse talvez seja um dos motivos de escritores dos Evangelhos terem incluído a ideia de “mente” ao citar De 6:5. Também pode explicar por que Mt 22:37 usa “mente”, mas não usa “força”. De qualquer forma, quando um escriba citou De 6:5, (conforme o relato de Lucas [10:27], escrito em grego) ele mencionou as quatro ideias: coração, alma, força e mente. Isso indica que, na época de Jesus, as pessoas entendiam que essas quatro ideias expressas em grego estavam incluídas nas três palavras hebraicas do texto citado.
+====
+
+[[v41-12-31]]
+
+^<<v41-12-31,31>>^ O segundo é: ‘Ame o seu próximo como a si mesmo.’ Não há outro mandamento maior do que esses.”
+
+[TIP]
+====
+- *O segundo*: Depois de responder de forma direta à pergunta do escriba (Mr 12:29, 30), Jesus citou um segundo mandamento. (Le 19:18) Ele mostrou assim que esses “dois mandamentos” estão tão ligados que é impossível separá-los e que “toda a Lei e os Profetas” podem ser resumidos neles. — Mt 22:40.
+- *próximo*: Veja a nota de estudo em Mt 22:39.
+====
+
+[[v41-12-32]]
+
+^<<v41-12-32,32>>^ O escriba lhe disse: “Instrutor, o senhor disse bem, em harmonia com a verdade: ‘Ele é um só, e não há outro além dele’;
+
+[[v41-12-33]]
+
+^<<v41-12-33,33>>^ e amá-lo de todo o coração, de todo o entendimento e de toda a força, e amar o próximo como a si mesmo vale muito mais do que todas as ofertas queimadas e sacrifícios.”
+
+[TIP]
+====
+- *ofertas queimadas*: A palavra grega usada aqui é holokaútoma. Ela vem das palavras hólos, que significa “inteiro”, e kaío, “queimar”. Essa palavra só aparece três vezes nas Escrituras Gregas Cristãs: aqui e em He 10:​6, 8. A Septuaginta usa holokaútoma para traduzir uma palavra hebraica que se refere a ofertas que eram completamente queimadas, apresentadas por inteiro a Deus. A pessoa que fazia esse tipo de oferta não comia nenhuma parte dela. A Septuaginta usa a mesma palavra grega em 1Sa 15:22 e Os 6:6. Talvez o escriba tivesse esses textos em mente quando falou com Jesus. (Mr 12:32) Assim como a “oferta queimada” era apresentada por inteiro, Jesus se entregou por inteiro, completamente.
+====
+
+[[v41-12-34]]
+
+^<<v41-12-34,34>>^ Com isso, Jesus, percebendo que ele tinha respondido de modo inteligente, disse-lhe: “Você não está longe do Reino de Deus.” Mas ninguém teve coragem de lhe fazer mais perguntas.
+
+[[v41-12-35]]
+
+^<<v41-12-35,35>>^ No entanto, ao continuar ensinando no templo, Jesus disse: “Como é que os escribas dizem que o Cristo é filho de Davi?
+
+[[v41-12-36]]
+
+^<<v41-12-36,36>>^ O próprio Davi disse, pelo espírito santo: ‘Jeová disse ao meu Senhor: “Sente-se à minha direita, até que eu ponha os seus inimigos debaixo dos seus pés.”’
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação direta do Sal 110:1. No texto hebraico original desse salmo, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja o Apêndice C.
+====
+
+[[v41-12-37]]
+
+^<<v41-12-37,37>>^ O próprio Davi o chama de Senhor, então como ele pode ser seu filho?”
+E a grande multidão o escutava com prazer.
+
+[[v41-12-38]]
+
+^<<v41-12-38,38>>^ E ele ensinava, dizendo: “Cuidado com os escribas, que querem andar de vestes compridas e querem cumprimentos nas praças públicas,
+
+[TIP]
+====
+- *praças públicas*: Veja a nota de estudo em Mt 23:7.
+====
+
+[[v41-12-39]]
+
+^<<v41-12-39,39>>^ os primeiros assentos nas sinagogas e os lugares mais destacados nos banquetes.
+
+[TIP]
+====
+- *primeiros assentos*: Veja a nota de estudo em Mt 23:6.
+====
+
+[[v41-12-40]]
+
+^<<v41-12-40,40>>^ Eles devoram as casas^&#42;1^ das viúvas e, para impressionar,^&#42;2^ fazem longas orações. Eles receberão um julgamento mais severo.”^&#42;3^
+
+[NOTE]
+====
+. Ou: “os bens”.
+. Ou: “e, como pretexto”.
+. Ou: “pesado”.
+====
+
+[[v41-12-41]]
+
+^<<v41-12-41,41>>^ E ele se sentou, com os cofres do tesouro à vista, e começou a observar como a multidão punha dinheiro nos cofres do tesouro, e muitos ricos punham neles muitas moedas.
+
+[TIP]
+====
+- *cofres do tesouro*: Antigas fontes judaicas dizem que o formato desses cofres lembrava uma trombeta, ou uma buzina de chifre, e pelo visto eles tinham uma pequena abertura no alto. As pessoas depositavam nesses cofres contribuições para diversos objetivos. A palavra grega usada aqui também pode ser traduzida como “local onde ficavam os cofres do tesouro”, como ocorre em Jo 8:20. Parece que esse local ficava na área do templo chamada de Pátio das Mulheres. (Veja a nota de estudo em Mt 27:6 e o Apêndice B11.) De acordo com escritos rabínicos, havia 13 cofres do tesouro ao longo dos muros do Pátio das Mulheres. Acredita-se que o templo também tinha uma grande sala do tesouro, onde se guardava o dinheiro trazido dos cofres.
+- *dinheiro*: Lit.: “cobre”, ou seja, dinheiro de cobre, ou moedas de cobre. A palavra grega também era usada de forma genérica para qualquer tipo de dinheiro. — Veja o Apêndice B14-B.
+====
+
+[[v41-12-42]]
+
+^<<v41-12-42,42>>^ Chegou então uma viúva pobre e pôs neles duas pequenas moedas de pouquíssimo valor.
+
+[TIP]
+====
+- *duas pequenas moedas*: Lit.: “dois léptons”. A palavra grega leptón significa algo pequeno e fino. O lépton era uma moeda que valia bem pouco. Seriam necessários 128 léptons para completar um denário. Pelo visto, o lépton era a menor moeda de cobre ou bronze usada em Israel. — Veja o Glossário, “Lépton”, e o Apêndice B14-B.
+- *de pouquíssimo valor*: Lit.: “que é um quadrante”. A palavra grega kodrántes (que vem da palavra latina quadrans) se refere a uma moeda romana de cobre ou bronze que valia bem pouco. Seriam necessários 64 quadrantes para completar um denário. Marcos usa aqui uma moeda romana para explicar o valor das moedas que os judeus costumavam usar. — Veja o Apêndice B14-B.
+====
+
+[[v41-12-43]]
+
+^<<v41-12-43,43>>^ Ele chamou então os discípulos e lhes disse: “Digo-lhes a verdade: Esta viúva pobre pôs nos cofres do tesouro mais do que todos os outros.
+
+[[v41-12-44]]
+
+^<<v41-12-44,44>>^ Pois todos eles puseram do que lhes sobrava, mas ela, da sua carência,^&#42;1^ pôs tudo que possuía, tudo que tinha para viver.”
+
+[NOTE]
+====
+. Ou: “pobreza”.
+====
+
+'''
+
+xref:041-marcos/041-marcos-011.adoc#v41-11-0[&#60; Capítulo Anterior] | <<v41-12-0,Topo>> | xref:041-marcos/041-marcos-013.adoc#v41-13-0[Próximo Capítulo &#62;]

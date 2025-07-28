@@ -1,0 +1,278 @@
+include::./index.adoc[]
+
+[[v40-14-0]]
+=== As Boas Novas Segundo Mateus, 14
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Jesus termina sua pregação na Galileia e nas regiões próximas (14:1–18:35)
+* Morte de João Batista (14:1-12)
+* Jesus alimenta 5.000 homens, além de mulheres e crianças (14:13-21)
+* Jesus anda sobre a água (14:22-33)
+* Curas em Genesaré (14:34-36)
+* Fariseus e escribas questionam Jesus sobre o ritual de lavar as mãos (15:1-9)
+* Impureza vem do coração (15:10-20)
+* Mulher fenícia mostra grande fé (15:21-28)
+* Jesus cura muitas doenças (15:29-31)
+* Jesus alimenta 4.000 homens, além de mulheres e crianças (15:32-39)
+* Fariseus e saduceus pedem um sinal do céu (16:1-4)
+* “Cuidado com o fermento dos fariseus e dos saduceus” (16:5-12)
+* Pedro diz que Jesus é o Cristo (16:13-17)
+* Jesus diz que vai dar as chaves do Reino para Pedro (16:18-20)
+* Jesus prediz sua morte e ressurreição (16:21-23)
+* Requisitos para ser um verdadeiro discípulo (16:24-28)
+* Transfiguração de Jesus (17:1-13)
+* Jesus cura menino possuído por demônio (17:14-18)
+* Fé do tamanho de um grão de mostarda (17:19, 20)
+* Jesus fala outra vez sobre sua morte e ressurreição (17:22, 23)
+* Imposto pago com moeda tirada da boca do peixe (17:24-27)
+* Quem é o maior no Reino? (18:1-6)
+* Pedras de tropeço (18:7-10)
+* Ilustração da ovelha perdida (18:12-14)
+* Como resolver problemas e ganhar seu irmão (18:15-20)
+* Ilustração do escravo que não perdoou (18:21-35)
+****
+
+[[v40-14-1]]
+
+^<<v40-14-1,1>>^ Naquela ocasião, Herodes, o governador distrital, ouviu relatos sobre Jesus
+
+[TIP]
+====
+- *Herodes*: Ou seja, Herodes Antipas, filho de Herodes, o Grande. — Veja o Glossário.
+- *governador distrital*: Lit.: “tetrarca”, que significa “governante de uma das quatro partes” de uma província. Era o título dado ao governante de um distrito ou ao príncipe regente de um território. A autoridade do tetrarca era limitada, e ele só governava com a permissão de Roma. Herodes Antipas governava as regiões da Galileia e da Pereia. — Compare com a nota de estudo em Mr 6:14.
+====
+
+[[v40-14-2]]
+
+^<<v40-14-2,2>>^ e disse aos seus servos: “Este é João Batista. Ele foi levantado dentre os mortos, e é por isso que realiza essas obras poderosas.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “que operam nele esses milagres”.
+====
+
+[TIP]
+====
+- *João Batista*: Veja a nota de estudo em Mt 3:1.
+====
+
+[[v40-14-3]]
+
+^<<v40-14-3,3>>^ Herodes anteriormente havia prendido João e o havia amarrado e lançado na prisão, por causa de Herodias, esposa de Filipe, seu irmão.
+
+[TIP]
+====
+- *Herodes*: Ou seja, Herodes Antipas. — Veja o Glossário.
+- *havia prendido João e o havia . . . lançado na prisão*: A Bíblia não diz onde isso aconteceu. O historiador Josefo diz que João foi preso e morto na fortaleza de Macaeros, que ficava ao leste do Mar Morto. (Jewish Antiquities, livro 18, capítulo 5, parágrafo 2 [Loeb 18.119]) É possível que João Batista tenha realmente ficado preso lá por um tempo. (Mt 4:12) Mas é provável que, quando João foi morto, ele estivesse preso em Tiberíades, uma cidade que fica na margem oeste do mar da Galileia. Dois motivos levam a essa conclusão: (1) Enquanto estava na prisão, João Batista ouviu falar sobre os milagres que Jesus estava fazendo na Galileia e então mandou seus discípulos falar com Jesus. (Mt 11:1-3) Assim, parece que João Batista estava preso em algum lugar naquela região. (2) Marcos diz que os “homens mais importantes da Galileia” estavam na festa de aniversário de Herodes. Isso indica que a festa aconteceu na residência de Herodes em Tiberíades, na Galileia. Pela sequência de eventos, parece que João Batista estava preso em um lugar perto de onde a festa aconteceu. — Mr 6:21-29; Mt 14:6-11.
+- *Herodias, esposa de Filipe, seu irmão*: Herodes Antipas se apaixonou por Herodias, que era casada com Herodes Filipe, meio-irmão de Antipas. Herodias se divorciou de Filipe, Antipas se divorciou de sua esposa, e então Herodias e Antipas se casaram. João Batista condenou essa união imoral que ia contra a lei dos judeus e foi preso por isso.
+====
+
+[[v40-14-4]]
+
+^<<v40-14-4,4>>^ Porque João lhe dizia: “Não é permitido que o senhor a tenha como esposa.”
+
+[[v40-14-5]]
+
+^<<v40-14-5,5>>^ No entanto, embora quisesse matá-lo, tinha medo da multidão, pois o consideravam profeta.
+
+[[v40-14-6]]
+
+^<<v40-14-6,6>>^ Mas, no aniversário de Herodes, a filha de Herodias dançou diante dos convidados e agradou tanto a Herodes
+
+[TIP]
+====
+- *no aniversário*: A festa foi provavelmente na residência de Herodes Antipas em Tiberíades. (Veja as notas de estudo em Mt 14:3; Mr 6:21.) A Bíblia só menciona duas festas de aniversário: esta de Herodes, em que João Batista foi decapitado, e a do Faraó do Egito, em que o chefe dos padeiros foi executado. (Gên 40:18-22) Os relatos têm pontos em comum: nas duas ocasiões houve uma grande festa e nas duas ocasiões uma pessoa foi morta.
+====
+
+[[v40-14-7]]
+
+^<<v40-14-7,7>>^ que ele prometeu com um juramento dar a ela tudo o que pedisse.
+
+[[v40-14-8]]
+
+^<<v40-14-8,8>>^ Então, instigada pela mãe, ela disse: “Dê-me aqui numa bandeja a cabeça de João Batista.”
+
+[[v40-14-9]]
+
+^<<v40-14-9,9>>^ O rei, embora triste, ordenou que a cabeça lhe fosse entregue, em respeito aos seus juramentos e aos que estavam comendo com ele.^&#42;1^
+
+[NOTE]
+====
+. Ou: “aos seus convidados para o banquete; aos que estavam recostados à mesa com ele”.
+====
+
+[TIP]
+====
+- *O rei*: O título romano oficial de Herodes Antipas era “tetrarca”, como mostra a nota de estudo em Mt 14:1. Mas as pessoas em geral o chamavam de “rei”.
+- *seus juramentos*: O texto de Mt 14:7 diz que Herodes fez um “juramento” (no singular), mas este versículo usa o plural “juramentos”. Isso pode indicar que Herodes repetiu várias vezes seu juramento para provar que iria cumpri-lo.
+====
+
+[[v40-14-10]]
+
+^<<v40-14-10,10>>^ Assim, mandou que João fosse decapitado na prisão.
+
+[[v40-14-11]]
+
+^<<v40-14-11,11>>^ A cabeça dele foi levada numa bandeja e entregue à jovem, e ela a levou à sua mãe.
+
+[[v40-14-12]]
+
+^<<v40-14-12,12>>^ Mais tarde, os discípulos dele vieram, removeram seu corpo e o sepultaram; então foram contar a Jesus o que havia ocorrido.
+
+[[v40-14-13]]
+
+^<<v40-14-13,13>>^ Ouvindo isso, Jesus partiu dali de barco para um lugar isolado, para ficar sozinho. Mas as multidões, quando ficaram sabendo disso, seguiram-no a pé desde as cidades.
+
+[[v40-14-14]]
+
+^<<v40-14-14,14>>^ Ao desembarcar, ele viu uma grande multidão; e teve pena deles e curou seus doentes.
+
+[TIP]
+====
+- *teve pena*: Ou: “teve compaixão”. — Veja a nota de estudo em Mt 9:36.
+====
+
+[[v40-14-15]]
+
+^<<v40-14-15,15>>^ Mas, ao cair a noite, seus discípulos se aproximaram dele e disseram: “O lugar é isolado, e já é tarde. Dispense as multidões, para que possam ir às aldeias comprar alimento.”
+
+[[v40-14-16]]
+
+^<<v40-14-16,16>>^ No entanto, Jesus lhes disse: “Eles não precisam ir embora; deem-lhes vocês algo para comer.”
+
+[TIP]
+====
+- *deem-lhes vocês algo para comer*: O milagre de Jesus descrito a seguir é o único que foi registrado por todos os quatro escritores dos Evangelhos. — Mt 14:15-21; Mr 6:35-44; Lu 9:10-17; Jo 6:1-13.
+====
+
+[[v40-14-17]]
+
+^<<v40-14-17,17>>^ Responderam-lhe: “Não temos nada aqui, a não ser cinco pães e dois peixes.”
+
+[TIP]
+====
+- *peixes*: Nos tempos bíblicos, as pessoas costumavam comer peixe assado na brasa ou desidratado com sal, e geralmente junto com pão. Os peixes que Jesus usou provavelmente eram desidratados com sal.
+====
+
+[[v40-14-18]]
+
+^<<v40-14-18,18>>^ Ele disse: “Tragam-nos aqui.”
+
+[[v40-14-19]]
+
+^<<v40-14-19,19>>^ E mandou que as multidões se sentassem na grama. Então pegou os cinco pães e os dois peixes e, olhando para o céu, proferiu uma bênção. E, depois de partir os pães, deu-os aos discípulos, e os discípulos os deram às multidões.
+
+[TIP]
+====
+- *proferiu uma bênção*: Pelo visto, se refere a fazer uma oração de louvor e agradecimento a Deus.
+- *depois de partir os pães*: O verbo grego traduzido como “partir” significa literalmente “quebrar”. Naquela época, os pães tinham o formato achatado e eram assados até ficarem duros. Por isso, as pessoas tinham o costume de quebrar o pão para comer. — Mt 15:36; 26:26; Mr 6:41; 8:6; Lu 9:16.
+====
+
+[[v40-14-20]]
+
+^<<v40-14-20,20>>^ Assim, todos comeram e ficaram satisfeitos; e recolheram os pedaços que sobraram, 12 cestos cheios.
+
+[TIP]
+====
+- *cestos*: Os cestos mencionados aqui talvez fossem pequenos cestos de vime com uma alça de corda. Esses cestos podiam ser levados em viagens, e acredita-se que eles tinham a capacidade de aproximadamente 7,5 litros. — Veja as notas de estudo em Mt 16:9, 10.
+====
+
+[[v40-14-21]]
+
+^<<v40-14-21,21>>^ Ora, os que comeram foram cerca de 5.000 homens, além de mulheres e crianças.
+
+[TIP]
+====
+- *além de mulheres e crianças*: Apenas Mateus menciona mulheres e crianças ao relatar esse milagre. É possível que Jesus tenha alimentado de modo milagroso bem mais de 15.000 pessoas.
+====
+
+[[v40-14-22]]
+
+^<<v40-14-22,22>>^ Então, sem demora, ele mandou os discípulos entrar no barco e partir na sua frente, para a margem oposta, enquanto ele dispensava as multidões.
+
+[[v40-14-23]]
+
+^<<v40-14-23,23>>^ Depois de dispensar as multidões, ele subiu sozinho ao monte para orar. Quando anoiteceu, ele estava ali sozinho.
+
+[[v40-14-24]]
+
+^<<v40-14-24,24>>^ O barco já estava a muitas centenas de metros da terra, em grandes dificuldades por causa das ondas, porque o vento era contrário.
+
+[TIP]
+====
+- *muitas centenas de metros*: Lit.: “muitos estádios”. Um estádio (em grego, stádion) equivalia a um oitavo de 1 milha romana, ou seja, a 185 metros.
+====
+
+[[v40-14-25]]
+
+^<<v40-14-25,25>>^ Mas, na quarta vigília da noite, ele foi ao encontro deles andando sobre o mar.
+
+[TIP]
+====
+- *quarta vigília*: Ou seja, de cerca das 3 horas da madrugada até o nascer do sol, por volta das 6 horas da manhã. Essa divisão da noite é baseada no sistema de vigílias dos gregos e romanos, em que os vigias se revezavam em quatro turnos de cerca de três horas. Antes, os israelitas dividiam a noite em três vigílias, ou turnos, de cerca de quatro horas. (Êx 14:24; Jz 7:19) Mas na época de Jesus eles já usavam o sistema romano.
+====
+
+[[v40-14-26]]
+
+^<<v40-14-26,26>>^ Quando o viram andando sobre o mar, os discípulos ficaram assustados e disseram: “É uma aparição!”^&#42;1^ e gritaram de medo.
+
+[NOTE]
+====
+. Ou: “ilusão”.
+====
+
+[[v40-14-27]]
+
+^<<v40-14-27,27>>^ No entanto, Jesus lhes disse imediatamente: “Coragem! Sou eu; não tenham medo.”
+
+[[v40-14-28]]
+
+^<<v40-14-28,28>>^ Pedro respondeu: “Se é o senhor, ordene-me, Senhor Jesus, que eu vá ao seu encontro por cima das águas.”
+
+[[v40-14-29]]
+
+^<<v40-14-29,29>>^ Ele disse: “Venha!” Então Pedro saiu do barco e andou por cima das águas, dirigindo-se a Jesus.
+
+[[v40-14-30]]
+
+^<<v40-14-30,30>>^ Mas, ao olhar para o vendaval, ficou com medo. Quando começou a afundar, gritou: “Senhor, salve-me!”
+
+[[v40-14-31]]
+
+^<<v40-14-31,31>>^ Estendendo imediatamente a mão, Jesus o agarrou e lhe disse: “Homem de pouca fé, por que você cedeu à dúvida?”
+
+[[v40-14-32]]
+
+^<<v40-14-32,32>>^ Depois de terem subido no barco, o vendaval parou.
+
+[[v40-14-33]]
+
+^<<v40-14-33,33>>^ Então, os que estavam no barco se curvaram diante dele, dizendo: “O senhor realmente é o Filho de Deus.”
+
+[TIP]
+====
+- *se curvaram diante dele*: Ou: “lhe prestaram homenagem”. Os discípulos reconheceram que Jesus era um representante de Deus. Eles se curvaram diante de Jesus porque ele era o “Filho de Deus”, e não porque achavam que ele era um deus. — Veja as notas de estudo em Mt 2:2; 8:2; 18:26.
+====
+
+[[v40-14-34]]
+
+^<<v40-14-34,34>>^ E terminaram a travessia, desembarcando em Genesaré.
+
+[TIP]
+====
+- *Genesaré*: Uma pequena planície que mede cerca de 5 quilômetros por 2,5 quilômetros e fica na margem noroeste do mar da Galileia. Em Lu 5:1, o mar da Galileia é chamado de “lago de Genesaré”.
+====
+
+[[v40-14-35]]
+
+^<<v40-14-35,35>>^ Quando o reconheceram, os homens daquele lugar mandaram avisar toda a região ao redor, e o povo levou a ele todos os que estavam doentes.
+
+[[v40-14-36]]
+
+^<<v40-14-36,36>>^ E lhe suplicavam que pudessem ao menos tocar na borda da sua roupa, e todos os que tocaram nela ficaram completamente bons.
+
+'''
+
+xref:040-mateus/040-mateus-013.adoc#v40-13-0[&#60; Capítulo Anterior] | <<v40-14-0,Topo>> | xref:040-mateus/040-mateus-015.adoc#v40-15-0[Próximo Capítulo &#62;]

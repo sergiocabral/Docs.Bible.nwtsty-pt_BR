@@ -1,0 +1,180 @@
+include::./index.adoc[]
+
+[[v44-3-0]]
+=== Atos dos Apóstolos, 3
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* C. Testemunho em Jerusalém (2:14–3:26)
+* Pedro cita a profecia de Joel sobre o derramamento do espírito santo e o glorioso dia de Jeová (2:14-21)
+* Pedro faz um discurso e usa as Escrituras para provar que Jesus foi ressuscitado e se tornou Senhor e Cristo (2:22-36)
+* Multidões reagem bem às palavras de Pedro; cerca de 3.000 são batizados (2:37-41)
+* Os discípulos são ensinados pelos apóstolos e aproveitam a companhia uns dos outros (2:42-47)
+* Pedro cura um mendigo manco no portão do templo chamado Portão Belo (3:1-10)
+* Pedro faz um discurso no Pórtico de Salomão (3:11-18)
+* Pedro aconselha o povo a se arrepender e dar meia-volta (3:19-26)
+****
+
+[[v44-3-1]]
+
+^<<v44-3-1,1>>^ Pedro e João estavam subindo ao templo para a hora da oração, a nona hora,
+
+[TIP]
+====
+- *a hora da oração*: Tudo indica que era costume fazer orações no templo enquanto os sacrifícios diários da manhã e do anoitecer eram oferecidos. (Êx 29:38-42; 30:7, 8) Na época do rei Davi, Jeová deu instruções sobre os sacrifícios diários e disse que Davi devia organizar os sacerdotes e os levitas para honrar, agradecer e louvar a ele, o que sem dúvida incluía fazer orações. (1Cr 16:4; 23:30; 2Cr 29:25, 26) E, em seu Evangelho, Lucas disse que “na hora de oferecer incenso” o “povo estava orando”. (Lu 1:10) Assim, existia uma forte ligação entre o incenso e as orações. (Sal 141:2; Ap 5:8; 8:3, 4) Na hora da oração, as pessoas geralmente se juntavam nos pátios do templo. Algumas delas talvez tivessem ido ao templo para ser purificadas pelos sacerdotes, e muitas outras para participar nas orações e adorar a Jeová. (Lu 2:22-38) De acordo com a tradição rabínica, a escolha do sacerdote que faria a oferta de incenso no altar de ouro era feita lançando sortes. Como esse sacerdote era escolhido entre os que ainda não tinham tido essa honra, ele talvez fizesse essa oferta apenas uma vez na vida. Enquanto o sacerdote escolhido entrava respeitosamente no Santo para cumprir sua designação, os sacerdotes e os levitas ficavam reunidos orando, assim como o povo que estava nos pátios. Ao mesmo tempo em que o aroma agradável do incenso subia a Jeová, as pessoas continuavam orando em absoluto silêncio por cerca de meia hora. (Lu 1:9, 10) “A hora da oração” acabava de forma alegre, com os sacerdotes abençoando o povo (Núm 6:22-27) e um coral de levitas cantando o salmo escolhido para aquele dia da semana.
+- *a nona hora*: Ou seja, por volta das 3 horas da tarde. — Veja a nota de estudo em At 2:15.
+====
+
+[[v44-3-2]]
+
+^<<v44-3-2,2>>^ e um homem manco de nascença estava sendo carregado. Todos os dias ele era colocado perto do portão do templo chamado Portão Belo, para que pudesse pedir esmolas aos que entravam no templo.
+
+[TIP]
+====
+- *esmolas*: Ou: “dádivas de misericórdia”. — Veja o Glossário, “Dádivas de misericórdia”.
+====
+
+[[v44-3-3]]
+
+^<<v44-3-3,3>>^ Quando ele viu Pedro e João entrando no templo, começou a pedir esmolas.
+
+[[v44-3-4]]
+
+^<<v44-3-4,4>>^ Mas Pedro e João olharam diretamente para ele, e Pedro disse: “Olhe para nós.”
+
+[[v44-3-5]]
+
+^<<v44-3-5,5>>^ De modo que ele fixou a atenção neles, esperando receber alguma coisa.
+
+[[v44-3-6]]
+
+^<<v44-3-6,6>>^ No entanto, Pedro disse: “Não possuo prata nem ouro, mas o que tenho é o que lhe dou. Em nome de Jesus Cristo, o Nazareno, ande!”
+
+[TIP]
+====
+- *o Nazareno*: Veja a nota de estudo em Mr 10:47.
+====
+
+[[v44-3-7]]
+
+^<<v44-3-7,7>>^ Assim, ele o segurou pela mão direita e o levantou. Instantaneamente os seus pés e os seus tornozelos ficaram firmes,
+
+[[v44-3-8]]
+
+^<<v44-3-8,8>>^ e num salto ele se pôs de pé, começou a andar e entrou com eles no templo, andando, pulando e louvando a Deus.
+
+[[v44-3-9]]
+
+^<<v44-3-9,9>>^ E todos o viram andando e louvando a Deus.
+
+[[v44-3-10]]
+
+^<<v44-3-10,10>>^ E eles o reconheceram como o homem que se sentava esperando por esmolas no Portão Belo do templo, e foram tomados de admiração e êxtase com o que lhe tinha acontecido.
+
+[[v44-3-11]]
+
+^<<v44-3-11,11>>^ O homem ainda segurava Pedro e João quando toda a multidão, extremamente surpresa, correu ao encontro deles no chamado Pórtico^&#42;1^ de Salomão.
+
+[NOTE]
+====
+. Ou: “na chamada Colunata”.
+====
+
+[[v44-3-12]]
+
+^<<v44-3-12,12>>^ Quando Pedro viu isso, disse à multidão: “Homens de Israel, por que vocês estão tão admirados com isso e por que estão olhando para nós como se o tivéssemos feito andar por meio de nosso próprio poder ou de nossa devoção a Deus?
+
+[[v44-3-13]]
+
+^<<v44-3-13,13>>^ O Deus de Abraão, de Isaque e de Jacó, o Deus de nossos antepassados, glorificou o seu Servo, Jesus, aquele que vocês entregaram e negaram diante de Pilatos, embora ele tivesse decidido soltá-lo.
+
+[[v44-3-14]]
+
+^<<v44-3-14,14>>^ Sim, vocês negaram aquele homem santo e justo; pediram que fosse entregue a vocês um homem que era assassino,
+
+[[v44-3-15]]
+
+^<<v44-3-15,15>>^ ao passo que mataram o Agente Principal da vida. Mas Deus o levantou dentre os mortos, e disso nós somos testemunhas.
+
+[TIP]
+====
+- *Agente Principal*: A palavra grega que aparece aqui, arkhegós, tem o sentido básico de “líder principal; alguém que vai primeiro”. Ela é usada quatro vezes na Bíblia e sempre se refere a Jesus. (At 3:15; 5:31; He 2:10; 12:2) Essa palavra grega também pode passar a ideia de alguém que vai na frente e prepara o caminho para outros, como um pioneiro ou um desbravador. Jesus se tornou o Mediador entre Deus e a humanidade e abriu o caminho para a vida eterna. Por isso, ele podia ser chamado de o Agente Principal da vida ou o Pioneiro da vida. A palavra grega arkhegós também indica que aquele que vai na frente faz isso cumprindo uma função oficial ou administrativa, como um líder ou um príncipe. (Uma palavra relacionada é usada em At 7:27, 35, que diz que Moisés era um “líder” em Israel.) Aqui, neste contexto, a palavra também inclui a ideia de que a pessoa é usada por Deus para cumprir o propósito dele. Jesus se tornou um “resgate correspondente” em troca de muitos. (1Ti 2:5, 6; Mt 20:28; At 4:12) Depois da sua ressurreição, Jesus, no papel de Sumo Sacerdote e Juiz, podia ajudar a humanidade a receber os benefícios do resgate. Seu sacrifício tornou possível que os humanos que exercessem fé nele fossem libertados do pecado e da morte. Dessa forma, a ressurreição dos mortos acontece por meio de Jesus. (Jo 5:28, 29; 6:39, 40) Assim, Jesus abre o caminho para a vida eterna. (Jo 11:25; 14:6; He 5:9; 10:19, 20) Algumas traduções da Bíblia usam aqui a expressão “Autor” da vida. Mas a Bíblia deixa claro que Jesus não é o originador da vida. Ele recebeu sua vida e sua autoridade de Deus e é usado por ele. — Sal 36:9; Jo 6:57; At 17:26-28; Col 1:15; Ap 3:14.
+====
+
+[[v44-3-16]]
+
+^<<v44-3-16,16>>^ E foi por meio do nome dele, e pela nossa fé no nome dele, que este homem que vocês veem e conhecem ficou forte. A fé que vem por meio de Jesus tornou este homem completamente são diante de todos vocês.
+
+[[v44-3-17]]
+
+^<<v44-3-17,17>>^ E agora, irmãos, sei que vocês agiram em ignorância, como também os seus líderes.
+
+[[v44-3-18]]
+
+^<<v44-3-18,18>>^ Mas desse modo Deus cumpriu o que anunciou antecipadamente pela boca de todos os profetas: o seu Cristo havia de sofrer.
+
+[[v44-3-19]]
+
+^<<v44-3-19,19>>^ “Arrependam-se, portanto, e deem meia-volta, a fim de que os seus pecados sejam apagados, para que venham tempos de refrigério da parte de Jeová
+
+[TIP]
+====
+- *Arrependam-se . . . e deem meia-volta*: A palavra grega para “arrepender-se” (metanoéo) significa literalmente “mudar de ideia”. Ela passa a ideia de mudar o modo de pensar, as atitudes ou os objetivos na vida. Neste contexto, o arrependimento envolve o desejo de restaurar ou reparar a amizade com Deus. Um pecador mostra que está arrependido de verdade quando lamenta profundamente o caminho errado que tomou e está decidido a não repetir seus erros. (2Co 7:10, 11; veja as notas de estudo em Mt 3:2, 8.) Além disso, o verdadeiro arrependimento leva o pecador a agir e ‘dar meia-volta’, abandonando o caminho errado e passando a viver de uma forma que agrada a Deus. Os verbos gregos para “dar meia-volta” (stréfo; epistréfo) e o verbo hebraico correspondente (shuv) significam “retornar; voltar; dar meia-volta” em sentido literal. (Gên 18:10; 50:14; At 15:36) Mas, quando são usados em sentido espiritual para se referir a uma mudança positiva, eles podem transmitir a ideia de dar as costas para um caminho errado e passar a fazer a vontade de Deus. — 1Rs 8:33; Ez 33:11; veja as notas de estudo em At 15:3; 26:20.
+- *sejam apagados*: O verbo grego que aparece aqui pode ser definido como “fazer desaparecer por enxugar ou esfregar”. Na Bíblia, ele é usado com relação a enxugar lágrimas (Ap 7:17; 21:4) e a apagar nomes do livro da vida (Ap 3:5). Aqui, ele tem o sentido de “remover sem deixar nenhum vestígio”. De acordo com alguns estudiosos, neste contexto o verbo passa a ideia de apagar algo escrito à mão. — Compare com Col 2:14, onde o mesmo verbo grego foi traduzido como “apagou”.
+- *tempos*: Ou: “tempos determinados”. A palavra grega kairós (que aqui está no plural e foi traduzida como “tempos”) pode se referir a um ponto na corrente do tempo, a um período definido ou determinado, ou a uma “época” ou “estação” marcada por certas características. (Mt 13:30; 21:34; Mr 11:13) A mesma palavra é usada para se referir ao “tempo determinado” para Jesus iniciar seu ministério (Mr 1:15) e ao “tempo determinado” da morte de Jesus (Mt 26:18). A palavra kairós também é usada para se referir a tempos ou épocas futuras dentro do cronograma ou planejamento de Deus, especialmente quando se fala sobre a presença de Jesus e sobre o seu Reino. — At 1:7; 1Te 5:1.
+- *da parte de Jeová*: Os manuscritos gregos disponíveis dizem literalmente “de face do Senhor”. (Veja o Apêndice C1.) O contexto (At 3:17-22) indica que aqui “Senhor” não se refere a Jesus, mas a Jeová Deus, aquele que iria ‘enviar o Cristo’. (At 3:20) A palavra grega para “Senhor” (Kýrios) também é usada em At 3:22, que cita De 18:15. No texto hebraico original de Deuteronômio aparece o Tetragrama. (Veja a nota de estudo em At 3:22.) Nas Escrituras Hebraicas, a expressão “a face de Jeová” é formada pela palavra hebraica para “face” mais o Tetragrama. — Gên 3:8; Êx 34:24, nota de rodapé; Jz 5:5; Sal 34:16; La 4:16; veja o Apêndice C3 (introdução e At 3:19).
+====
+
+[[v44-3-20]]
+
+^<<v44-3-20,20>>^ e ele envie o Cristo que lhes foi designado, Jesus.
+
+[[v44-3-21]]
+
+^<<v44-3-21,21>>^ A este, o céu tem de reter até o tempo do restabelecimento de todas as coisas, das quais Deus falou pela boca dos seus santos profetas da antiguidade.
+
+[TIP]
+====
+- *A este, o céu tem de reter*: Ou: “A este, o céu tem de receber”. Pelo visto, estas palavras se referem ao período que Jesus teria que esperar no céu, à direita de Deus, até que o tempo do restabelecimento começasse. — Sal 110:1, 2; Lu 21:24; He 10:12, 13.
+- *o tempo do restabelecimento*: A palavra grega traduzida aqui como “restabelecimento” é apokatástasis. Algumas Bíblias traduzem essa palavra como “restauração”. Ela vem da palavra apó, que significa “de volta; novamente”, e da palavra kathístemi, que significa literalmente “estabelecer”. O verbo correspondente foi traduzido em At 1:6 como “restabelecer”. O historiador Josefo usou apokatástasis para se referir à volta dos judeus do exílio em Babilônia. Além disso, a palavra foi usada em papiros para se referir à reforma de construções, à devolução de propriedades aos seus donos legítimos e a balanços de contas. Aqui, em At 3:21, o versículo não diz quais são as coisas que seriam restabelecidas. Assim, para saber o que esse restabelecimento de todas as coisas significa, é preciso considerar o que Deus disse por meio dos profetas da antiguidade. Nas Escrituras Hebraicas, os profetas falaram muitas vezes sobre um restabelecimento. Por meio deles, Jeová prometeu que seu povo moraria numa terra repovoada, restaurada e fértil, protegida de animais selvagens e de ataques de inimigos. Essa terra restaurada seria um verdadeiro paraíso! (Is 65:25; Ez 34:25; 36:35) E o mais importante: o templo seria reconstruído e a adoração pura seria restabelecida. (Is 2:1-5; Miq 4:1-5) Assim, o restabelecimento mencionado neste versículo seria tanto em sentido físico como em sentido espiritual.
+====
+
+[[v44-3-22]]
+
+^<<v44-3-22,22>>^ Realmente Moisés disse: ‘Jeová, seu Deus, fará surgir para vocês, dentre os seus irmãos, um profeta semelhante a mim. Escutem tudo que ele lhes disser.
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de De 18:15. No texto hebraico original de Deuteronômio, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). É interessante que, num fragmento de papiro muito antigo da Septuaginta que contém essa passagem de Deuteronômio, o nome de Deus aparece escrito em letras hebraicas quadradas () no meio do texto grego. Esse fragmento, da coleção Papiro Fouad Inventário n.º 266, é datado do século 1 a.C. (Veja o Apêndice A5.) Além disso, várias traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J7, 8, 10-12, 14-18, 20, 22-24, 28 no Apêndice C4) usam aqui o Tetragrama. Assim, embora os manuscritos disponíveis das Escrituras Gregas Cristãs usem neste versículo a palavra Kýrios (Senhor), há bons motivos para se usar o nome de Deus no texto principal. — Veja o Apêndice C1.
+====
+
+[[v44-3-23]]
+
+^<<v44-3-23,23>>^ Sim, todo aquele que não escutar esse Profeta será completamente destruído dentre o povo.’
+
+[TIP]
+====
+- *todo aquele*: Ou: “toda alma”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, se refere aqui a pessoas. (Veja o Glossário, “Alma”.) Este é um dos vários versículos das Escrituras Gregas Cristãs que falam da “alma” (psykhé) como algo que pode morrer ou ser destruído. — Veja as notas de estudo em Mt 2:20; Mr 3:4; Lu 6:9; veja também as notas de rodapé em He 10:39; Tg 5:20.
+====
+
+[[v44-3-24]]
+
+^<<v44-3-24,24>>^ E todos os profetas que falaram, desde Samuel em diante, também anunciaram claramente estes dias.
+
+[[v44-3-25]]
+
+^<<v44-3-25,25>>^ Vocês são filhos dos profetas e do pacto que Deus fez com os antepassados de vocês, quando disse a Abraão: ‘E todas as famílias da terra serão abençoadas por meio do seu descendente.’^&#42;1^
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v44-3-26]]
+
+^<<v44-3-26,26>>^ Depois de fazer surgir o seu Servo, Deus o enviou primeiro a vocês para abençoá-los, ao afastar cada um de vocês das suas ações más.”
+
+'''
+
+xref:044-atos/044-atos-002.adoc#v44-2-0[&#60; Capítulo Anterior] | <<v44-3-0,Topo>> | xref:044-atos/044-atos-004.adoc#v44-4-0[Próximo Capítulo &#62;]

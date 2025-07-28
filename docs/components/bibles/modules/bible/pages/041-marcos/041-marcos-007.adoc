@@ -1,0 +1,283 @@
+include::./index.adoc[]
+
+[[v41-7-0]]
+=== As Boas Novas Segundo Marcos, 7
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* E. Jesus expande seu ministério na Galileia e visita regiões ao norte e ao leste (6:1–9:50)
+* Jesus é rejeitado em sua própria cidade (6:1-6)
+* Jesus dá instruções aos Doze sobre o ministério e os envia (6:7-13)
+* Morte de João, o Batizador (6:14-29)
+* Jesus alimenta cerca de 5.000 homens (6:30-44)
+* Jesus anda sobre a água (6:45-52)
+* Curas em Genesaré (6:53-56)
+* Tradições de homens são expostas por Jesus (7:1-13)
+* Impureza vem do coração (7:14-23)
+* Jesus cura a filha da mulher siro-fenícia (7:24-30)
+* Jesus cura um surdo em Decápolis (7:31-37)
+* Jesus alimenta cerca de 4.000 homens (8:1-10)
+* Fariseus pedem um sinal do céu (8:11-13)
+* Jesus avisa sobre o fermento dos fariseus e de Herodes (8:14-21)
+* Cego é curado em Betsaida (8:22-26)
+* No caminho para Cesareia de Filipe, Pedro identifica Jesus como o Cristo (8:27-30)
+* Jesus prediz sua morte e ressurreição (8:31-33)
+* Requisitos para ser um verdadeiro discípulo (8:34–9:1)
+* Transfiguração de Jesus (9:2-8)
+* Vinda de Elias (9:9-13)
+* Jesus cura um menino possesso de demônio (9:14-29)
+* Jesus prediz pela segunda vez sua morte e ressurreição (9:30-32)
+* Discípulos discutem sobre quem é o maior (9:33-37)
+* “Quem não é contra nós é a favor de nós” (9:38-41)
+* Pedras de tropeço (9:42-48)
+* “Tenham sal em vocês mesmos” (9:49, 50)
+****
+
+[[v41-7-1]]
+
+^<<v41-7-1,1>>^ Então os fariseus e alguns dos escribas que tinham chegado de Jerusalém se reuniram em volta dele.
+
+[[v41-7-2]]
+
+^<<v41-7-2,2>>^ E eles viram alguns dos discípulos dele tomar a refeição com mãos impuras, isto é, sem lavá-las.
+
+[TIP]
+====
+- *com mãos impuras, isto é, sem lavá-las*: A explicação que Marcos dá aqui e nos versículos 3 e 4 seria de ajuda para os leitores que não conheciam a expressão “mãos impuras” ou o costume judaico de lavar as mãos. (Veja a “Introdução a Marcos”.) Esse costume era uma tradição, um ritual de purificação, e não uma preocupação com higiene. Mais tarde, o Talmude Babilônico (Sotah 4b) disse que comer sem lavar as mãos era um pecado tão sério quanto ter relações sexuais com uma prostituta e que todo aquele que não respeitasse o costume de lavar as mãos seria “arrancado do mundo”.
+====
+
+[[v41-7-3]]
+
+^<<v41-7-3,3>>^ (Pois os fariseus e todos os judeus não comem sem lavar as mãos até os cotovelos, apegando-se à tradição dos homens dos tempos antigos,
+
+[TIP]
+====
+- *lavar as mãos*: A Lei mosaica exigia que os sacerdotes lavassem as mãos e os pés antes de servir junto ao altar ou de entrar na tenda de reunião. (Êx 30:18-​21) Mas o ritual de purificação que os fariseus e outros judeus da época de Jesus realizavam antes das refeições se baseava em tradições humanas. (Veja a nota de estudo em Mr 7:2.) Marcos é o único dos quatro escritores dos Evangelhos que explica que, nesse ritual, o costume de lavar as mãos incluía lavar os braços até os cotovelos.
+====
+
+[[v41-7-4]]
+
+^<<v41-7-4,4>>^ e, ao voltar do mercado, não comem sem se lavar. Há muitas outras tradições que eles receberam e às quais se apegam, como batismos de copos, de jarros e de vasilhas de cobre.)
+
+[TIP]
+====
+- *se lavar*: Muitos manuscritos bem antigos usam aqui a palavra grega baptízo (mergulhar; imergir). Embora na maioria das ocorrências essa palavra se refira ao batismo cristão, em Lu 11:38 ela se refere a diversas lavagens rituais que eram repetidas de acordo com a tradição judaica. Em Jerusalém, descobertas arqueológicas indicam que os judeus daquela época realizavam banhos de purificação por imersão, o que talvez apoie o uso de baptízo aqui. Mas outros manuscritos bem antigos usam aqui a palavra grega rhantízo, que significa “aspergir (borrifar); purificar aspergindo”. (He 9:​13, 19, 21, 22) De qualquer modo, os dois grupos de manuscritos passam a mesma ideia: os judeus devotos não comiam sem antes se lavar, realizando algum ritual de purificação.
+- *batismos*: Ou: “imersões em água”. A palavra grega baptismós é usada aqui para se referir aos rituais de purificação realizados por alguns judeus devotos da época de Jesus. Eles batizavam, ou mergulhavam na água, os copos, os jarros e as vasilhas de cobre usados nas refeições.
+====
+
+[[v41-7-5]]
+
+^<<v41-7-5,5>>^ Então esses fariseus e escribas lhe perguntaram: “Por que os seus discípulos não seguem a tradição dos homens dos tempos antigos, mas tomam a refeição com mãos impuras?”
+
+[[v41-7-6]]
+
+^<<v41-7-6,6>>^ Ele lhes disse: “Isaías profetizou apropriadamente a respeito de vocês, hipócritas, como está escrito: ‘Este povo me honra com os lábios, mas seu coração está muito longe de mim.
+
+[TIP]
+====
+- *hipócritas*: Veja a nota de estudo em Mt 6:2.
+====
+
+[[v41-7-7]]
+
+^<<v41-7-7,7>>^ É em vão que continuam a me adorar, pois ensinam as regras de homens como doutrinas.’
+
+[[v41-7-8]]
+
+^<<v41-7-8,8>>^ Vocês abandonam o mandamento de Deus e se apegam à tradição de homens.”
+
+[[v41-7-9]]
+
+^<<v41-7-9,9>>^ Ele lhes disse ainda: “Vocês sabem muito bem como pôr de lado o mandamento de Deus, a fim de manter a sua tradição.
+
+[[v41-7-10]]
+
+^<<v41-7-10,10>>^ Por exemplo, Moisés disse: ‘Honre seu pai e sua mãe’ e ‘Quem amaldiçoar^&#42;1^ seu pai ou sua mãe seja morto’.
+
+[NOTE]
+====
+. Ou: “injuriar; insultar”.
+====
+
+[[v41-7-11]]
+
+^<<v41-7-11,11>>^ Mas vocês dizem: ‘Se um homem diz ao seu pai ou à sua mãe: “Tudo o que eu tenho que poderia beneficiá-lo é corbã (isto é, uma dádiva dedicada a Deus)”’,
+
+[TIP]
+====
+- *corbã*: A palavra grega korbán vem do hebraico qorbán, que significa “uma oferta”. Essa palavra hebraica é usada muitas vezes em Levítico e Números, e se refere tanto a ofertas com sangue (sacrifícios de animais) como a ofertas sem sangue. (Le 1:​2, 3; 2:1; Núm 5:​15; 6:​14, 21) O texto de Mt 27:6 usa uma palavra relacionada, korbanás, que foi traduzida ali como “tesouro sagrado”. — Veja a nota de estudo em Mt 27:6.
+- *uma dádiva dedicada a Deus*: Os escribas e os fariseus ensinavam que todos os bens que uma pessoa dedicasse a Deus (dinheiro, propriedades ou outras coisas) pertenciam ao templo. De acordo com essa tradição, esses bens já estavam reservados para o templo. O filho ainda podia usá-los para si mesmo, mas não podia usar para outros objetivos, nem mesmo para cuidar dos pais. Pelo visto, alguns judeus dedicavam seus bens a Deus só para se livrar da responsabilidade de cuidar dos pais. — Mr 7:​12.
+====
+
+[[v41-7-12]]
+
+^<<v41-7-12,12>>^ vocês não o deixam mais fazer nem uma única coisa para seu pai ou para sua mãe.
+
+[[v41-7-13]]
+
+^<<v41-7-13,13>>^ Assim vocês invalidam a palavra de Deus pela tradição que transmitiram. E fazem muitas coisas como essa.”
+
+[[v41-7-14]]
+
+^<<v41-7-14,14>>^ E, chamando novamente a multidão, ele lhes disse: “Escutem-me, todos vocês, e compreendam o significado do que eu digo.
+
+[[v41-7-15]]
+
+^<<v41-7-15,15>>^ Não há nada fora de um homem que, entrando nele, possa torná-lo impuro; mas as coisas que saem do homem são as que o tornam impuro.”
+
+[[v41-7-16]]
+
+^<<v41-7-16,16>>^ ——
+
+[TIP]
+====
+- *Alguns manuscritos contêm aqui as palavras “Se alguém tem ouvidos para ouvir, que ouça”, mas essa frase não aparece em importantes manuscritos mais antigos. Assim, tudo indica que essas palavras não fazem parte do relato original inspirado por Deus. Mas frases semelhantes aparecem em Mr 4*:​9, 23. Alguns estudiosos acham que um copista inseriu essas palavras aqui como uma sequência natural do que foi dito no versículo 14, usando como base as frases que aparecem em Mr 4:​9, 23. — Veja o Apêndice A3.
+====
+
+[[v41-7-17]]
+
+^<<v41-7-17,17>>^ Então, depois de ele se afastar da multidão e entrar numa casa, seus discípulos lhe perguntaram sobre a ilustração.
+
+[[v41-7-18]]
+
+^<<v41-7-18,18>>^ De modo que lhes perguntou: “Vocês também estão sem entendimento, como eles? Não percebem que nada de fora que entre num homem pode torná-lo impuro,
+
+[[v41-7-19]]
+
+^<<v41-7-19,19>>^ visto que entra, não no seu coração, mas no seu estômago, e sai para o esgoto?”^&#42;1^ Assim ele declarou puros todos os alimentos.
+
+[NOTE]
+====
+. Ou: “a latrina; a privada”.
+====
+
+[TIP]
+====
+- *Assim ele declarou puros todos os alimentos*: O texto grego permite que essas palavras sejam entendidas como sendo de Jesus. Mas elas geralmente são consideradas como uma observação de Marcos sobre o que Jesus tinha acabado de dizer. Essa frase não significa que Jesus estava autorizando os judeus a comer alimentos que eram impuros de acordo com a Lei mosaica. A Lei continuou em vigor até a morte de Jesus, e o comentário de Marcos deve ser entendido dentro desse contexto histórico. (Le 11; At 10:​9-​16; Col 2:​13, 14) Os líderes religiosos judaicos daquela época iam além do que a Lei exigia e achavam que até os alimentos “puros” deixariam a pessoa impura se ela não seguisse os complicados rituais de purificação que as tradições deles exigiam. Assim, Marcos pelo visto quis dizer que Jesus estava declarando que os alimentos “puros” de acordo com a Lei não deixariam a pessoa impura só porque ela não tinha seguido um ritual de lavar as mãos que havia sido criado por homens. Além disso, alguns entendem que o comentário de Marcos também tinha a ver com o significado que as palavras de Jesus teriam mais tarde para os cristãos. Quando Marcos escreveu seu Evangelho, Pedro já tinha tido a visão de At 10:13-​15, e as palavras de Marcos lembram o que Pedro ouviu na visão, ou seja, que “Deus purificou” os alimentos que eram impuros de acordo com a Lei mosaica. De qualquer modo, parece que essas palavras eram um comentário de Marcos, inspirado por Deus, sobre o que Jesus tinha acabado de dizer, e não palavras do próprio Jesus.
+====
+
+[[v41-7-20]]
+
+^<<v41-7-20,20>>^ Além disso, ele disse: “O que sai do homem é o que o torna impuro.
+
+[[v41-7-21]]
+
+^<<v41-7-21,21>>^ Pois, de dentro, do coração dos homens, saem raciocínios prejudiciais, imoralidade sexual, roubos, assassinatos,
+
+[TIP]
+====
+- *imoralidade sexual*: Veja a nota de estudo em Mt 15:19.
+====
+
+[[v41-7-22]]
+
+^<<v41-7-22,22>>^ adultérios, ganância, maldades, engano, conduta insolente, olho invejoso, blasfêmia, arrogância e insensatez.
+
+[TIP]
+====
+- *conduta insolente*: Ou: “conduta desavergonhada”. A palavra grega usada aqui, asélgeia, indica uma conduta que viola gravemente as leis de Deus e que reflete uma atitude descarada ou atrevida de desrespeito. — Veja o Glossário.
+- *olho invejoso*: A palavra grega traduzida aqui como “invejoso” significa literalmente “mau; perverso”. A palavra “olho” é usada aqui para representar as emoções, atitudes e intenções de uma pessoa. A expressão grega para “olho invejoso” também pode ser traduzida simplesmente como “inveja”. — Veja as notas de estudo em Mt 6:​23; 20:15.
+====
+
+[[v41-7-23]]
+
+^<<v41-7-23,23>>^ Todas essas coisas más saem de dentro e tornam o homem impuro.”
+
+[[v41-7-24]]
+
+^<<v41-7-24,24>>^ Ele se levantou e foi para a região de Tiro e Sídon. Ali, entrou numa casa e não quis que ninguém soubesse, mas não pôde passar despercebido.
+
+[[v41-7-25]]
+
+^<<v41-7-25,25>>^ Logo uma mulher cuja filhinha tinha um espírito impuro ouviu falar dele e foi até lá, e se prostrou aos seus pés.
+
+[[v41-7-26]]
+
+^<<v41-7-26,26>>^ A mulher era grega, de nacionalidade siro-fenícia,^&#42;1^ e ela lhe pedia com insistência que expulsasse da sua filha o demônio.
+
+[NOTE]
+====
+. Ou: “siro-fenícia de nascimento”.
+====
+
+[TIP]
+====
+- *grega*: Essa mulher não israelita provavelmente era descendente de gregos.
+- *siro-fenícia*: Essa palavra é uma combinação das palavras “síria” e “fenícia”. Essa combinação provavelmente veio do fato de que a Fenícia fazia parte da província romana da Síria. — Veja a nota de estudo em Mt 15:22, onde a mulher é chamada de “fenícia”, ou “cananeia”.
+====
+
+[[v41-7-27]]
+
+^<<v41-7-27,27>>^ Mas ele lhe disse: “Deixe primeiro os filhos ficarem satisfeitos, pois não é certo tirar o pão dos filhos e jogá-lo aos cachorrinhos.”
+
+[TIP]
+====
+- *filhos . . . cachorrinhos*: De acordo com a Lei mosaica, os cães eram animais impuros. Por isso, comparar uma pessoa a um cachorro geralmente tinha um tom negativo. (Le 11:27; Mt 7:6; Fil 3:2; Ap 22:15) Mas tanto no Evangelho de Mateus (15:26) quanto no de Marcos a palavra grega para cachorro está no diminutivo e pode ser traduzida como “cachorrinho” ou “cachorro de estimação”, o que suaviza a comparação. Talvez Jesus estivesse usando uma palavra carinhosa que famílias não judias usavam para se referir a um cachorro de estimação. Por comparar os israelitas a “filhos” e os não judeus a “cachorrinhos”, Jesus estava indicando apenas a ordem de prioridade. Numa casa em que houvesse crianças e cachorros, as crianças seriam alimentadas primeiro.
+====
+
+[[v41-7-28]]
+
+^<<v41-7-28,28>>^ Ela, porém, lhe respondeu: “Sim, senhor; no entanto, até os cachorrinhos debaixo da mesa comem as migalhas que as criancinhas deixam cair.”
+
+[[v41-7-29]]
+
+^<<v41-7-29,29>>^ Com isso, ele lhe disse: “Por causa da sua resposta, vá; o demônio saiu da sua filha.”
+
+[[v41-7-30]]
+
+^<<v41-7-30,30>>^ Assim, ela foi para casa e encontrou a criancinha deitada na cama, e o demônio a tinha deixado.
+
+[[v41-7-31]]
+
+^<<v41-7-31,31>>^ Quando Jesus voltou da região de Tiro, passou por Sídon e foi para o mar da Galileia, atravessando a região de Decápolis.
+
+[TIP]
+====
+- *Decápolis*: Veja o Glossário e o Apêndice B10.
+====
+
+[[v41-7-32]]
+
+^<<v41-7-32,32>>^ Ali, levaram-lhe um surdo que tinha um impedimento na fala e suplicaram-lhe que pusesse a mão sobre ele.
+
+[TIP]
+====
+- *um surdo que tinha um impedimento na fala*: Apenas Marcos menciona a cura desse homem. — Mr 7:​31-​37.
+====
+
+[[v41-7-33]]
+
+^<<v41-7-33,33>>^ E ele o levou à parte, longe da multidão. Então pôs os dedos nos ouvidos do homem e, depois de cuspir, tocou na língua dele.
+
+[TIP]
+====
+- *o levou à parte*: Jesus não costumava fazer isso quando curava os doentes. Ele talvez tenha agido assim para que o homem não ficasse com vergonha por causa da multidão. Jesus queria ajudar o homem da maneira mais bondosa possível.
+- *cuspir*: Alguns judeus e também não judeus associavam a saliva com curas. Assim, Jesus talvez tenha cuspido apenas para indicar para o homem que ele seria curado. De qualquer modo, Jesus não usou as propriedades naturais da saliva para curar aquele homem.
+====
+
+[[v41-7-34]]
+
+^<<v41-7-34,34>>^ Olhando para o céu, suspirou profundamente e lhe disse: “Efatá”, isto é: “Abra-se.”
+
+[TIP]
+====
+- *suspirou profundamente*: Marcos se refere com frequência aos sentimentos de Jesus. Talvez tenha sido Pedro, um homem de fortes sentimentos, quem contou para Marcos como Jesus se sentiu. (Veja a “Introdução a Marcos”.) O verbo grego traduzido como “suspirou profundamente” pode indicar um suspiro ou gemido acompanhado de uma oração silenciosa. Isso mostra a grande compaixão que Jesus sentiu por aquele homem ou até mesmo a dor que Jesus sentiu ao pensar no sofrimento de toda a humanidade. O texto de Ro 8:​22 usa um verbo relacionado ao dizer que toda a criação continua a “gemer”.
+- *Efatá*: Alguns estudiosos acham que a palavra grega usada aqui vem de uma raiz hebraica que em Is 35:5 é traduzida como “se destaparão”. O uso que Jesus fez dessa palavra deve ter ficado gravado na mente de um dos presentes, possivelmente Pedro, que relatou a Marcos a palavra exata que Jesus usou. Essa é uma das poucas vezes em que se relatam as palavras exatas de Jesus. Outro exemplo é quando ele falou “Talita cumi”. — Mr 5:​41.
+====
+
+[[v41-7-35]]
+
+^<<v41-7-35,35>>^ Com isso, seus ouvidos se abriram e seu impedimento na fala foi removido, e ele começou a falar normalmente.
+
+[[v41-7-36]]
+
+^<<v41-7-36,36>>^ Então lhes ordenou que não contassem isso a ninguém, mas, quanto mais ordenava, mais proclamavam o acontecido.
+
+[[v41-7-37]]
+
+^<<v41-7-37,37>>^ De fato, estavam extremamente admirados e diziam: “Ele faz bem todas as coisas. Faz até os surdos ouvir e os mudos falar.”
+
+'''
+
+xref:041-marcos/041-marcos-006.adoc#v41-6-0[&#60; Capítulo Anterior] | <<v41-7-0,Topo>> | xref:041-marcos/041-marcos-008.adoc#v41-8-0[Próximo Capítulo &#62;]

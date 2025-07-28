@@ -1,0 +1,473 @@
+include::./index.adoc[]
+
+[[v46-15-0]]
+=== A Primeira aos Coríntios, 15
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. A CERTEZA DA ESPERANÇA DA RESSURREIÇÃO (15:1-58)
+* A ressurreição de Cristo (15:1-11)
+* A ressurreição é a base para a fé (15:12-19)
+* A ressurreição de Cristo é uma garantia; Deus será todas as coisas para com todos (15:20-34)
+* Com que tipo de corpo os mortos serão levantados? (15:35-49)
+* Tornar-se imortal e imperecível (15:50-57)
+* Ter bastante para fazer na obra do Senhor (15:58)
+****
+
+[[v46-15-1]]
+
+^<<v46-15-1,1>>^ Agora, irmãos, quero lembrá-los das boas novas que lhes declarei, que vocês aceitaram e a favor das quais tomaram sua firme posição.
+
+[[v46-15-2]]
+
+^<<v46-15-2,2>>^ Por meio delas vocês também estão sendo salvos, desde que se apeguem firmemente às boas novas que lhes declarei; a menos que vocês tenham se tornado crentes em vão.
+
+[TIP]
+====
+- *desde que se apeguem firmemente às boas novas*: O ensino da ressurreição, que faz parte da “doutrina básica” do cristianismo, estava sendo atacado em Corinto. (He 6:1, 2) Havia cristãos que diziam: “Não há ressurreição dos mortos.” (1Co 15:12) Alguns tinham o modo de pensar mencionado por Paulo em 1Co 15:32: “Comamos e bebamos, pois amanhã morreremos.” Essas palavras, pelo visto, são uma citação de Is 22:13. Mas elas refletem muito bem o pensamento dos que eram influenciados por filósofos gregos como Epicuro, que dizia que a morte era o fim de tudo. (At 17:32; veja a nota de estudo em 1Co 15:32.) Pode ser também que alguns cristãos de origem judaica tivessem sido influenciados pelas crenças dos saduceus, que diziam que não existia ressurreição. (Mr 12:18) Outra possibilidade é que alguns acreditassem que os cristãos já tinham passado por uma espécie de ressurreição espiritual. (2Ti 2:16-18) Se os coríntios deixassem de ‘se apegar firmemente às boas novas’, teria sido em vão eles se tornarem cristãos — a sua esperança nunca se tornaria realidade. — Veja a nota de estudo em 1Co 15:12.
+====
+
+[[v46-15-3]]
+
+^<<v46-15-3,3>>^ Pois entre as primeiras coisas que lhes transmiti estava aquilo que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
+
+[[v46-15-4]]
+
+^<<v46-15-4,4>>^ que foi sepultado e que foi levantado no terceiro dia, segundo as Escrituras;
+
+[[v46-15-5]]
+
+^<<v46-15-5,5>>^ e que apareceu a Cefas, depois aos Doze.
+
+[TIP]
+====
+- *Cefas*: Cefas era outro nome do apóstolo Pedro. (Veja a nota de estudo em 1Co 1:12.) Antes de Jesus aparecer para os seus discípulos como grupo, ele apareceu para Pedro, pelo visto enquanto Pedro estava sozinho. (Lu 24:34) Deve ter sido muito consolador para Pedro receber essa visita pessoal de Jesus. É provável que Jesus tenha usado essa oportunidade para dar orientações e para ajudar Pedro a ter certeza de que ele tinha sido perdoado por negar Jesus três vezes. — Veja a nota de estudo em Mr 16:7.
+- *aos Doze*: Parece que aqui Paulo está se referindo à ocasião mencionada em Jo 20:26-29. O fato de ele se referir aos “Doze” obviamente não indica que Judas estava presente naquela ocasião. Na verdade, esse termo era usado para se referir aos apóstolos como grupo, mesmo quando um ou dois deles não estavam presentes. (Compare com Jo 20:24; At 6:1-6.) Essa visita de Jesus com certeza ajudou os apóstolos a vencerem o medo e a darem testemunho com coragem sobre sua ressurreição.
+====
+
+[[v46-15-6]]
+
+^<<v46-15-6,6>>^ Depois disso ele apareceu a mais de 500 irmãos de uma só vez, a maioria dos quais ainda está conosco, embora alguns já tenham adormecido na morte.
+
+[TIP]
+====
+- *ele apareceu a mais de 500 irmãos de uma só vez*: Já que a maioria dos discípulos de Jesus era da Galileia, pode ter sido ali, na ocasião registrada em Mt 28:16-20, que Jesus apareceu para “mais de 500 irmãos” depois de ter sido ressuscitado. (Veja a nota de estudo em Mt 28:16.) Pelo visto, esse grupo incluiu as mulheres que, orientadas por um anjo, avisaram aos discípulos que Jesus apareceria para eles na Galileia. (Mt 28:7) A maioria dos discípulos que estiveram presentes naquela ocasião ainda estava viva em 55 d.C., quando Paulo escreveu sua primeira carta inspirada aos coríntios. Assim, Paulo estava dizendo aos que duvidavam da ressurreição de Jesus que havia pessoas que tinham visto com seus próprios olhos que Jesus tinha sido ressuscitado e que podiam confirmar isso.
+- *já tenham adormecido na morte*: Veja a nota de estudo em At 7:60.
+====
+
+[[v46-15-7]]
+
+^<<v46-15-7,7>>^ Depois apareceu a Tiago e, então, a todos os apóstolos.
+
+[TIP]
+====
+- *Tiago*: Tudo indica que este Tiago seja o meio-irmão de Jesus, filho de José (pai adotivo de Jesus) e de Maria (mãe biológica de Jesus). Pelo visto, Tiago não se tornou cristão antes da ressurreição de Jesus. (Jo 7:5) É provável que aqui Paulo esteja se referindo a uma ocasião em que Jesus apareceu a Tiago individualmente. Parece que essa visita ajudou Tiago a acreditar que seu irmão mais velho era realmente o Messias. Tiago se tornou cristão e pode ter ajudado a converter seus outros irmãos. — At 1:13, 14.
+====
+
+[[v46-15-8]]
+
+^<<v46-15-8,8>>^ Mas, por último de todos, apareceu também a mim, como a alguém nascido prematuramente.
+
+[TIP]
+====
+- *como a alguém nascido prematuramente*:A palavra grega traduzida aqui como “alguém nascido prematuramente” pode se referir a um bebê que nasceu de forma repentina, traumática e na hora errada. Neste versículo, Paulo usa essa palavra em sentido figurado ao falar de sua conversão, quando o ressuscitado Jesus apareceu a ele na estrada a caminho de Damasco. Mas as palavras de Paulo podem ser entendidas de mais de uma forma. Talvez ele quisesse dizer que sua conversão (durante a qual ele perdeu temporariamente a visão) tinha sido inesperada e traumática não só para ele, mas também para outros. (At 9:3-9, 17-19) Ou pode ser que ele estivesse dizendo que, comparado com os cristãos mencionados nos versículos anteriores, ele tinha “nascido” (se convertido) na hora errada, ou seja, depois de Jesus já ter voltado ao céu. Outra possibilidade é que Paulo estivesse sendo humilde, reconhecendo que não merecia o privilégio que recebeu. Isso estaria de acordo com 1Co 15:9, 10. Qualquer que tenha sido a intenção de Paulo ao escrever essas palavras, fica claro que ele dava muito valor à oportunidade que teve de ver o ressuscitado Jesus. Essa visão provou a Paulo que Jesus realmente tinha sido ressuscitado. — At 22:6-11; 26:13-18.
+====
+
+[[v46-15-9]]
+
+^<<v46-15-9,9>>^ Pois eu sou o menos importante dos apóstolos, e não sou digno de ser chamado apóstolo, porque persegui a congregação de Deus.
+
+[[v46-15-10]]
+
+^<<v46-15-10,10>>^ Mas, pela bondade imerecida de Deus, sou o que sou. E a bondade imerecida dele para comigo não foi em vão. Pelo contrário, trabalhei mais do que todos eles; contudo, não fui eu, mas a bondade imerecida de Deus que está comigo.
+
+[TIP]
+====
+- *pela bondade imerecida de Deus, sou o que sou*: Aqui, de forma humilde, Paulo reconhece que tudo o que ele tinha realizado no serviço de Jeová não era mérito dele. Ele deixa isso claro mencionando a “bondade imerecida” de Deus três vezes neste versículo. (Veja o Glossário, “Bondade imerecida”.) Este contexto ajuda a entender a intenção de Paulo ao dizer que trabalhou mais do que todos eles (ou seja, os outros apóstolos). Paulo era muito grato pela misericórdia de Deus, que o escolheu para ser apóstolo apesar de ter perseguido os cristãos. (1Ti 1:12-16) Para mostrar sua gratidão, Paulo deu tudo de si em sua designação. Ele viajou enormes distâncias por terra e mar para pregar as boas novas e formou muitas congregações. Como parte de seu ministério, Paulo foi inspirado a escrever 14 cartas que se tornaram parte das Escrituras Gregas Cristãs. Jeová também lhe deu o dom de falar em línguas, o privilégio de ter visões e o poder de fazer milagres, incluindo uma ressurreição. (At 20:7-10; 1Co 14:18; 2Co 12:1-5) Paulo reconhecia que era só por causa da bondade imerecida de Jeová que ele tinha recebido essas bênçãos e conseguia realizar tudo isso.
+====
+
+[[v46-15-11]]
+
+^<<v46-15-11,11>>^ Portanto, seja eu ou sejam eles, desse modo nós pregamos, e desse modo vocês creram.
+
+[[v46-15-12]]
+
+^<<v46-15-12,12>>^ Ora, se pregamos que Cristo foi levantado dentre os mortos, como é que alguns entre vocês dizem que não há ressurreição dos mortos?
+
+[TIP]
+====
+- *alguns entre vocês dizem que não há ressurreição dos mortos*: Se realmente não houvesse ressurreição, as pessoas que morreram com a esperança de voltar a viver na Terra continuariam mortas para sempre. (Mt 22:31, 32; Jo 11:23, 24; veja a nota de estudo em 1Co 15:2.) Além disso, os cristãos ungidos não poderiam ir para o céu, já que para ir para o céu a pessoa precisa primeiro morrer e depois ressuscitar como um ser espiritual. (1Co 15:35-38; veja as notas de estudo em 1Co 15:36, 38.) Nos versículos seguintes (1Co 15:13, 14), Paulo diz que, se não existisse ressurreição, a fé cristã seria vã, ou seja, não teria objetivo. Por isso, Paulo faz aqui uma forte defesa da ressurreição, se concentrando na esperança dos ungidos.
+- *ressurreição*: Veja a nota de estudo em Mt 22:23.
+====
+
+[[v46-15-13]]
+
+^<<v46-15-13,13>>^ Se, de fato, não há ressurreição dos mortos, então Cristo não foi levantado.
+
+[[v46-15-14]]
+
+^<<v46-15-14,14>>^ Mas, se Cristo não foi levantado, a nossa pregação certamente é vã, e a fé que vocês têm também é vã.
+
+[TIP]
+====
+- *se Cristo não foi levantado*: O ensino da ressurreição é uma “doutrina básica” do cristianismo e faz parte do alicerce da fé cristã. (He 6:1, 2) Se Jesus não tivesse sido ressuscitado, ele não poderia ter cumprido uma parte importante de seu papel como Sumo Sacerdote: apresentar o valor de seu sacrifício de resgate a Jeová no céu. (He 9:24) Além disso, a ressurreição de Cristo está fortemente ligada a outros ensinos básicos da Bíblia, como, por exemplo, a soberania de Deus, o nome de Deus, o Reino de Deus e a salvação dos humanos. — Sal 83:18; Mt 6:9, 10; He 5:8, 9.
+====
+
+[[v46-15-15]]
+
+^<<v46-15-15,15>>^ Além disso, acabamos também sendo falsas testemunhas de Deus, porque damos testemunho contra Deus, dizendo que ele levantou o Cristo, a quem ele não levantou, se é verdade que os mortos não serão levantados.
+
+[TIP]
+====
+- *acabamos também sendo falsas testemunhas de Deus*: Aqui, Paulo destaca outro problema que surgia quando se negava a ressurreição. Se o ensino da ressurreição fosse falso, Paulo e os outros cristãos estariam mentindo não só sobre a ressurreição de Jesus, mas também sobre o próprio Jeová Deus, a quem eles atribuíam esse milagre.
+====
+
+[[v46-15-16]]
+
+^<<v46-15-16,16>>^ Pois, se os mortos não serão levantados, Cristo também não foi levantado.
+
+[[v46-15-17]]
+
+^<<v46-15-17,17>>^ E, se Cristo não foi levantado, a fé que vocês têm é inútil; vocês continuam em seus pecados.
+
+[TIP]
+====
+- *vocês continuam em seus pecados*: Outro problema de dizer que não existia ressurreição é que, se Cristo não tivesse ressuscitado, nenhum resgate teria sido pago a Deus. Nesse caso, os humanos imperfeitos continuariam em seus pecados, sem nenhuma esperança de resgate ou salvação. — Ro 3:23, 24; 1Co 15:3; He 9:11-14.
+====
+
+[[v46-15-18]]
+
+^<<v46-15-18,18>>^ Então também os que adormeceram na morte em união com Cristo estão perdidos para sempre.
+
+[TIP]
+====
+- *estão perdidos para sempre*: Ou: “pereceram”. Se a ressurreição fosse uma mentira, os cristãos que tinham adormecido na morte— em alguns casos como mártires — teriam sido enganados. Em vez de serem ressuscitados, como esperavam, eles continuariam mortos para sempre.
+====
+
+[[v46-15-19]]
+
+^<<v46-15-19,19>>^ Se somente para esta^&#42;1^ vida temos esperado em Cristo, somos mais dignos de pena do que qualquer outra pessoa.
+
+[NOTE]
+====
+. Ou: “somente nesta”.
+====
+
+[TIP]
+====
+- *somos mais dignos de pena do que qualquer outra pessoa*: O apóstolo Paulo e outros cristãos tinham tanta confiança na ressurreição que aceitaram sofrer perdas, ser perseguidos, passar por dificuldades e até mesmo enfrentar a morte por causa de sua fé. Assim, se a ressurreição não existisse, os cristãos seriam mais dignos de pena do que qualquer outra pessoa. Antes de dizer as palavras deste versículo, Paulo havia alistado uma série de coisas negativas que seriam verdade caso Cristo não tivesse sido ressuscitado. (1Co 15:13-19) Mas é claro que Paulo não tinha dúvidas sobre a ressurreição de Cristo. Ele diz no versículo 20: “Mas o fato é que Cristo foi levantado dentre os mortos.”
+====
+
+[[v46-15-20]]
+
+^<<v46-15-20,20>>^ Mas o fato é que Cristo foi levantado dentre os mortos, sendo as primícias dos que adormeceram na morte.
+
+[TIP]
+====
+- *sendo as primícias dos que adormeceram na morte*: Jesus foi ressuscitado em 16 de nisã de 33 d.C. Todo ano, nesse dia, o sumo sacerdote apresentava a Jeová as primícias da colheita de cereais, movendo para frente e para trás um feixe de cevada. Já que a colheita da cevada era a primeira colheita de cereais do ano, esse feixe podia ser considerado as primícias das primícias. (Le 23:6-14) Esse feixe representava o ressuscitado Jesus Cristo — o primeiro a ser levantado dentre os mortos para a vida eterna no céu. Ao chamar Jesus de “primícias”, Paulo dá a entender que mais pessoas seriam ressuscitadas para viver no céu. — 1Co 15:23.
+- *primícias*: Veja o Glossário.
+====
+
+[[v46-15-21]]
+
+^<<v46-15-21,21>>^ Pois, visto que a morte veio por meio de um homem, a ressurreição dos mortos também vem por meio de um homem.
+
+[[v46-15-22]]
+
+^<<v46-15-22,22>>^ Porque, assim como em Adão todos morrem, assim também em Cristo todos receberão vida.
+
+[[v46-15-23]]
+
+^<<v46-15-23,23>>^ Mas cada um na sua própria ordem: como primícias, Cristo; depois os que pertencem a Cristo, durante a sua presença.
+
+[TIP]
+====
+- *durante a sua presença*: A palavra grega traduzida aqui como “presença” é parousía. Ela aparece pela primeira vez em Mt 24:3, onde alguns discípulos de Jesus perguntaram a ele sobre “o sinal da sua presença”. Em alguns contextos, essa palavra é usada para se referir à presença invisível de Jesus Cristo como Rei messiânico, que começou quando ele se tornou Rei no céu no início dos últimos dias deste sistema de coisas. Apesar de muitas Bíblias traduzirem parousía como “vinda” ou “volta”, ela significa literalmente “estar ao lado”. A presença de Jesus envolveria um período de tempo; não seria simplesmente uma vinda ou volta momentânea. Esse sentido de parousía é indicado em Mt 24:37-39, que compara “os dias de Noé . . . antes do dilúvio” com “a presença do Filho do Homem”. Paulo também usou essa palavra grega em Fil 2:12 ao fazer um contraste entre sua “presença” e sua “ausência”. (Veja a nota de estudo em 1Co 16:17.) Aqui, Paulo esclarece que os que pertencem a Cristo (os irmãos ungidos de Cristo, co-herdeiros com ele) seriam ressuscitados para a vida no céu algum tempo depois de Jesus ter sido entronizado como Rei do Reino de Deus.
+====
+
+[[v46-15-24]]
+
+^<<v46-15-24,24>>^ A seguir, o fim, quando ele entregar o Reino ao seu Deus e Pai, depois de ter reduzido a nada todo governo, toda autoridade e poder.
+
+[TIP]
+====
+- *o fim*: Ou: “o fim completo (concretizado)”. (Veja a nota de estudo em Mt 24:6.) Evidentemente, “o fim” (em grego, télos) mencionado por Paulo aqui é o fim do Reinado de Mil Anos (Ap 20:4), quando Jesus, de modo leal e humilde, vai “entregar o Reino ao seu Deus e Pai”. Todos os objetivos do Reinado de Mil Anos de Cristo terão sido concretizados. Não será mais necessário um governo secundário para servir como intermediário entre Jeová e a humanidade. Além disso, o pecado e a morte herdados de Adão terão sido completamente eliminados e a humanidade terá sido resgatada. Por isso, o papel de Jesus como Resgatador não será mais necessário. — 1Co 15:26, 28.
+====
+
+[[v46-15-25]]
+
+^<<v46-15-25,25>>^ Pois ele tem de reinar até que Deus lhe tenha posto todos os inimigos debaixo dos pés.
+
+[[v46-15-26]]
+
+^<<v46-15-26,26>>^ E o último inimigo a ser reduzido a nada é a morte.
+
+[TIP]
+====
+- *a ser reduzido a nada é a morte*: Ou: “a ser destruído é a morte”. Lit.: “sendo tornado sem efeito é a morte”. Aqui, Paulo está falando do fim da morte herdada de Adão e de suas consequências. Para que a morte seja reduzida a nada, é necessário que os mortos sejam trazidos de volta à vida por meio da ressurreição (Jo 5:28), um ensino que Paulo defende fortemente neste capítulo. Mas, além disso, também é necessário que todos os vestígios do pecado herdado de Adão sejam eliminados. Por isso, Paulo diz que “o aguilhão [ou: “ferrão”, nota de rodapé] que produz a morte”, ou seja, o pecado, será eliminado por meio do sacrifício de resgate de Jesus Cristo. Assim, Paulo mostra que a ressurreição e o resgate serão os meios usados por Deus para destruir a morte, tornando-a sem efeito. Mais à frente neste capítulo, Paulo diz: “A morte foi eliminada para sempre.” — 1Co 15:54-57.
+====
+
+[[v46-15-27]]
+
+^<<v46-15-27,27>>^ Pois Deus “lhe sujeitou todas as coisas debaixo dos pés”. Mas, quando ele diz que ‘todas as coisas foram sujeitas’, é claro que isso não inclui Aquele que lhe sujeitou todas as coisas.
+
+[[v46-15-28]]
+
+^<<v46-15-28,28>>^ No entanto, quando todas as coisas lhe tiverem sido sujeitas, então o próprio Filho também se sujeitará Àquele que lhe sujeitou todas as coisas, para que Deus seja todas as coisas para com todos.
+
+[TIP]
+====
+- *também se sujeitará*: O Filho, Cristo Jesus, vai humildemente abrir mão de sua posição como Rei e vai se sujeitar ao governo supremo de seu Pai, Jeová. Ao fazer isso, Jesus estará dando a maior prova possível de apoio à soberania de seu Pai. Além disso, ficará claro que, mesmo depois de ter feito tantas coisas maravilhosas durante seu Reinado de Mil Anos, Jesus continuará tão humilde quanto era quando viveu como humano na Terra. — Fil 2:5-11; He 13:8.
+- *para que Deus seja todas as coisas para com todos*: Quando Jesus entregar o Reino a seu Pai, Jeová voltará a governar diretamente sobre toda a criação. A humanidade perfeita não vai mais precisar de um governo secundário, o Reino messiânico, para consertar os estragos causados pela rebelião no Éden. Também não haverá mais necessidade de um resgate, um mediador ou um sacerdócio. Como filhos e filhas de Jeová, os humanos terão muita liberdade e poderão se comunicar diretamente com seu Pai. (Ro 8:21) As palavras inspiradas de Paulo aqui se referem ao que vai acontecer após Jesus “entregar o Reino ao seu Deus e Pai, depois de ter reduzido a nada todo governo, toda autoridade e poder”. — 1Co 15:24.
+====
+
+[[v46-15-29]]
+
+^<<v46-15-29,29>>^ Senão, o que farão os que estão sendo batizados com o objetivo de ser mortos? Se os mortos realmente não serão levantados, por que, então, eles estão sendo batizados com esse objetivo?
+
+[TIP]
+====
+- *sendo batizados com o objetivo de ser mortos*: No capítulo 15 de 1 Coríntios, Paulo está defendendo a certeza da ressurreição. É dentro desse contexto que ele diz aqui que os cristãos ungidos são, por assim dizer, batizados, ou imersos, em uma vida que os levará a uma morte em integridade, como foi a morte de Cristo. Depois disso, eles serão ressuscitados para a vida espiritual, assim como Jesus foi. Esse batismo inclui provações parecidas com as que Jesus enfrentou e muitas vezes leva a uma morte semelhante à dele. (1Co 15:30-34) Visto que Paulo estava escrevendo a cristãos ungidos que, se fossem fiéis, seriam ressuscitados para viver no céu, o batismo mencionado aqui parece estar relacionado com o batismo mencionado por Jesus em Mr 10:38 e por Paulo em Ro 6:3. — Veja as notas de estudo em Mr 10:38; Ro 6:3.
+- *com o objetivo de ser*: Estas palavras são a tradução da preposição grega hypér, que significa literalmente “sobre”, mas que pode ter diversos sentidos. Assim, o seu significado precisa ser definido de acordo com o contexto. Algumas Bíblias traduzem as palavras deste versículo usando expressões como “se batizam em favor dos mortos”. Esse tipo de tradução tem levado alguns a achar que este versículo indica que era costume batizar pessoas vivas no lugar de pessoas mortas, em benefício delas. Mas a Bíblia não menciona esse tipo de costume, e não há nenhuma prova de que ele existisse nos dias de Paulo. Além disso, esse entendimento não estaria de acordo com versículos que mostram que o batismo era algo pessoal, e acontecia depois de a própria pessoa se tornar um ‘discípulo’, ‘aceitar com alegria’ a mensagem de Deus e ‘acreditar’ pessoalmente nela. — Mt 28:19; At 2:41; 8:12.
+====
+
+[[v46-15-30]]
+
+^<<v46-15-30,30>>^ Por que nós, também, estamos toda hora^&#42;1^ em perigo?
+
+[NOTE]
+====
+. Ou: “o tempo todo”.
+====
+
+[[v46-15-31]]
+
+^<<v46-15-31,31>>^ Eu enfrento a morte diariamente. Isso é tão certo quanto o orgulho que tenho de vocês, irmãos, em Cristo Jesus, nosso Senhor.
+
+[[v46-15-32]]
+
+^<<v46-15-32,32>>^ Se, como outros homens,^&#42;1^ eu lutei com feras em Éfeso, de que me adianta isso? Se os mortos não serão levantados, “comamos e bebamos, pois amanhã morreremos”.
+
+[NOTE]
+====
+. Ou, possivelmente: “Se, do ponto de vista humano” ou “Se, por motivos humanos”.
+====
+
+[TIP]
+====
+- *eu lutei com feras em Éfeso*: Os romanos muitas vezes lançavam criminosos às feras nas arenas. Apesar de estudiosos dizerem que esse tipo de punição não era usado contra cidadãos romanos (como Paulo), existem evidências históricas de que alguns cidadãos romanos foram lançados às feras ou tiveram de lutar com elas. As palavras de Paulo em 2Co 1:8-10 talvez se refiram a uma situação em que ele tenha enfrentado feras literais em uma arena. Se isso realmente aconteceu, é provável que tenha sido graças à ajuda de Deus que Paulo se salvou. (Compare com Da 6:22.) Essa pode ter sido uma das várias vezes que Paulo correu “perigo de morte” durante seu ministério. (2Co 11:23) Outros estudiosos acreditam que aqui Paulo não está se referindo a feras literais, mas às pessoas em Éfeso que se opuseram a ele de modo feroz. — At 19:23-41.
+- *comamos e bebamos, pois amanhã morreremos*: Aqui, Paulo está citando Is 22:13, que resumia bem o modo de pensar dos habitantes desobedientes de Jerusalém. Em vez de se arrependerem quando souberam que poderiam ser destruídos, eles se entregaram à busca de prazeres. Pode ser que Paulo tenha citado essas palavras porque elas refletiam o modo de pensar dos que diziam que não existia ressurreição. Por exemplo, alguns grupos, como os epicureus, não acreditavam na ressurreição; eles se concentravam em viver o presente. Mas, como Paulo deixa claro, a ressurreição é uma realidade e dá aos cristãos fortes motivos para continuar fazendo sacrifícios. — 1Co 15:58.
+====
+
+[[v46-15-33]]
+
+^<<v46-15-33,33>>^ Não se deixem enganar. Más companhias estragam bons hábitos.
+
+[TIP]
+====
+- *Más companhias estragam bons hábitos*: Ou: “Más companhias corrompem a boa moral”. Tudo indica que estas palavras eram um ditado ou provérbio usado nos dias de Paulo. O princípio por trás delas também é encontrado em outros versículos da Bíblia. (Pr 13:20; 14:7; 22:24, 25) Paulo cita esse provérbio para mostrar a seus companheiros cristãos o perigo de terem associação desnecessária com pessoas que não concordavam com o ensino bíblico da ressurreição. (1Co 15:3-8; veja a nota de estudo em 1Co 15:12.) Paulo sabia que, se eles tivessem associação com quem rejeitava esse e outros ensinos cristãos bem estabelecidos, isso poderia prejudicar a fé deles e ‘estragar’ (em grego, ftheíro, que significa “corromper; destruir”) seus bons hábitos e seu modo de pensar. (At 20:30; 1Ti 4:1; 2Pe 2:1) A congregação em Corinto estava enfrentando vários problemas sérios. Pode ser que, pelo menos em parte, esses problemas fossem resultado da má escolha de companhias. — 1Co 1:11; 5:1; 6:1; 11:20-22.
+====
+
+[[v46-15-34]]
+
+^<<v46-15-34,34>>^ Recuperem o bom senso fazendo o que é justo e não pratiquem o pecado, pois alguns não têm conhecimento de Deus. Estou falando para induzi-los à vergonha.
+
+[TIP]
+====
+- *Recuperem o bom senso*: Aqui, Paulo usa uma palavra grega que significa literalmente “ficar sóbrio”. Alguns cristãos em Corinto tinham dado atenção a ensinos apóstatas, como o de que não existia ressurreição. Por isso, eles estavam confusos e desorientados, como que bêbados em sentido espiritual. Paulo os aconselha a sair desse estado de confusão e se livrar de suas dúvidas, procurando entender claramente o ensino da ressurreição. Eles precisavam fazer isso antes que sua condição os levasse a uma doença espiritual ou até mesmo à morte espiritual. — 1Co 11:30.
+====
+
+[[v46-15-35]]
+
+^<<v46-15-35,35>>^ Mas alguém dirá: “Como é que os mortos serão levantados? Sim, com que tipo de corpo virão?”
+
+[[v46-15-36]]
+
+^<<v46-15-36,36>>^ Insensato! Aquilo que você semeia não passa a viver a menos que primeiro morra.
+
+[TIP]
+====
+- *a menos que primeiro morra*: Aqui, Paulo está falando sobre a ressurreição dos cristãos ungidos como seres espirituais. Dentro desse contexto, ele compara o enterro do corpo físico a semear, ou plantar uma semente. A semente morre no sentido de que, depois de plantada, ela se desfaz, dando lugar a uma planta que é completamente diferente em formato e aparência. (Compare com Jo 12:24.) De modo semelhante, o cristão que é escolhido por Deus para ser co-herdeiro com seu Filho precisa morrer para poder receber a vida incorruptível e imortal no céu. Em 1Co 15:42-44, Paulo usa quatro vezes a ideia de semear em sentido figurado. Ele explica que o cristão ungido pelo espírito abre mão de seu corpo físico e recebe um corpo espiritual na ressurreição. — Veja a nota de estudo em 1Co 15:38.
+====
+
+[[v46-15-37]]
+
+^<<v46-15-37,37>>^ E o que você semeia não é o corpo que se desenvolverá, mas apenas um simples grão, seja de trigo, seja de algum outro tipo de semente;
+
+[[v46-15-38]]
+
+^<<v46-15-38,38>>^ mas Deus dá à semente um corpo conforme lhe agrada, e dá a cada uma delas um corpo próprio.
+
+[TIP]
+====
+- *Deus dá à semente um corpo*: Aqui, Paulo continua a comparar a ressurreição dos cristãos ungidos com a germinação de uma semente. (Veja a nota de estudo em 1Co 15:36.) Ele usa o exemplo de uma pequena semente de trigo, que não tem nenhuma semelhança com a planta que ela vai gerar. A semente ‘morre’ no sentido de que ela deixa de ser uma semente e brota, se tornando uma planta. (1Co 15:36, 37) De forma parecida, os cristãos ungidos primeiro precisam morrer como humanos. Daí, no tempo determinado por Deus, ele os traz de volta à vida em um corpo totalmente novo. (2Co 5:1, 2; Fil 3:20, 21) Eles são ressuscitados com corpos espirituais para viver no céu. — 1Co 15:44; 1Jo 3:2.
+====
+
+[[v46-15-39]]
+
+^<<v46-15-39,39>>^ Nem toda carne é igual, mas existe a carne dos homens, e existe também a carne dos bois, a carne das aves e a dos peixes.
+
+[[v46-15-40]]
+
+^<<v46-15-40,40>>^ E há corpos celestiais e corpos terrenos, mas a glória dos corpos celestiais é de um tipo e a dos corpos terrenos é de outro.
+
+[[v46-15-41]]
+
+^<<v46-15-41,41>>^ A glória do sol é de um tipo, a glória da lua é de outro, e a glória das estrelas é de outro; de fato, uma estrela difere de outra estrela em glória.
+
+[TIP]
+====
+- *uma estrela difere de outra estrela em glória*: Alguns cristãos em Corinto achavam difícil acreditar que um humano de carne e osso pudesse morrer e ser ressuscitado com outro tipo de corpo, um corpo espiritual. Para ajudá-los, Paulo faz algumas comparações. Por exemplo, aqui ele fala das estrelas. Mesmo no século 1 d.C., seria fácil confirmar que o brilho e a cor das estrelas variavam. O argumento de Paulo é: se Deus foi capaz de criar uma variedade tão grande de estrelas, é claro que ele é capaz de ressuscitar uma pessoa e lhe dar um corpo espiritual.
+====
+
+[[v46-15-42]]
+
+^<<v46-15-42,42>>^ O mesmo se dá com a ressurreição dos mortos. Semeado perecível, o corpo é levantado imperecível.
+
+[TIP]
+====
+- *imperecível*: Lit.: “em incorrupção”. A palavra grega que aparece aqui, aftharsía, se refere a algo que não deteriora nem degrada, que não é perecível. Enquanto estão na Terra, os cristãos ungidos servem fielmente a Deus com um corpo mortal, sujeito à deterioração. Depois de morrer, eles são ressuscitados com um corpo espiritual imperecível. (1Co 15:44) Já que esse corpo é “levantado imperecível”, ele é imune à deterioração e não pode ser destruído. Pelo visto, ele também é autossustentável. — Compare com a nota de estudo em 1Co 15:53.
+====
+
+[[v46-15-43]]
+
+^<<v46-15-43,43>>^ Semeado em desonra, é levantado em glória. Semeado em fraqueza, é levantado em poder.
+
+[[v46-15-44]]
+
+^<<v46-15-44,44>>^ Semeado corpo físico, é levantado corpo espiritual. Se há corpo físico, há também um espiritual.
+
+[TIP]
+====
+- *físico*: A palavra grega que aparece aqui, psykhikós, vem da palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo. Aqui, psykhikós é usada para se referir ao corpo das criaturas terrestres em contraste com um corpo espiritual; ela se refere àquilo que é material, tangível, visível e mortal. — Veja o Glossário, “Alma”.
+====
+
+[[v46-15-45]]
+
+^<<v46-15-45,45>>^ Assim está escrito: “O primeiro homem, Adão, se tornou um ser vivente.” O último Adão se tornou um espírito que dá vida.
+
+[TIP]
+====
+- *O primeiro homem, Adão . . . O último Adão*: Na primeira parte deste versículo, Paulo está citando Gên 2:7 (“o homem se tornou um ser vivente”), mas ele acrescenta as palavras “primeiro” e “Adão”. Na segunda parte do versículo, ele chama Jesus de “o último Adão”. Depois, em 1Co 15:47, Paulo chama Adão de “o primeiro homem [ou: “humano”]” e chama Jesus de “o segundo homem [ou: “humano”]”. O primeiro Adão desobedeceu a seu Pai, aquele que tinha lhe dado a vida; o último Adão obedeceu perfeitamente ao Pai. O primeiro Adão transmitiu o pecado para seus descendentes; o último Adão deu sua vida humana como sacrifício para cobrir o pecado deles. (Ro 5:12, 18, 19) Depois disso, Jeová ressuscitou Jesus como espírito. (1Pe 3:18) Quando esteve na Terra, Jesus foi um homem perfeito, assim como Adão tinha sido. Isso atendia ao padrão de justiça de Jeová e, por isso, ele pôde aceitar o sacrífico de Jesus como um “resgate correspondente” para comprar de volta os descendentes de Adão. Esse sacrifício de resgate devolveu aos humanos a perspectiva de terem a vida que Adão perdeu. (1Ti 2:5, 6) Assim, faz sentido chamar Jesus de “o último Adão”. Essa expressão indica que, depois dele, não há necessidade de nenhum outro “Adão”. — Compare com as notas de estudo em Lu 3:38; Ro 5:14.
+- *um ser vivente*: Ou: “uma alma vivente”. Aqui, Paulo está citando Gên 2:7, onde aparece a palavra hebraica néfesh, que foi traduzida como “ser” (ou: “alma; pessoa”, nota de rodapé). A palavra néfesh significa literalmente “uma criatura que respira”. — Veja o Glossário, “Alma”.
+====
+
+[[v46-15-46]]
+
+^<<v46-15-46,46>>^ No entanto, não é o espiritual que vem primeiro. O que vem primeiro é o físico, e depois vem o espiritual.
+
+[[v46-15-47]]
+
+^<<v46-15-47,47>>^ O primeiro homem vem da terra e é feito do pó; o segundo homem vem do céu.
+
+[[v46-15-48]]
+
+^<<v46-15-48,48>>^ Como aquele feito do pó, assim são também os que são feitos do pó; e, como o celestial, assim são também os que são celestiais.
+
+[[v46-15-49]]
+
+^<<v46-15-49,49>>^ E, assim como levamos a imagem daquele feito do pó, levaremos também a imagem do celestial.
+
+[TIP]
+====
+- *do celestial*: Ou seja, de Cristo Jesus, “o último Adão”. — 1Co 15:45.
+====
+
+[[v46-15-50]]
+
+^<<v46-15-50,50>>^ Mas eu lhes digo o seguinte, irmãos: carne e sangue não podem herdar o Reino de Deus, nem pode o que é perecível herdar o imperecível.
+
+[[v46-15-51]]
+
+^<<v46-15-51,51>>^ Escutem, vou lhes contar um segredo sagrado: Nem todos adormeceremos na morte, mas todos seremos transformados,
+
+[[v46-15-52]]
+
+^<<v46-15-52,52>>^ num momento, num piscar de olhos, durante o^&#42;1^ toque da última trombeta. Pois a trombeta soará, e os mortos serão levantados imperecíveis, e nós seremos transformados.
+
+[NOTE]
+====
+. Ou: “ao”.
+====
+
+[TIP]
+====
+- *piscar*: A palavra grega rhipé, traduzida aqui como “piscar”, passa a ideia de um movimento rápido. Neste contexto, ela pode se referir a um olhar de relance ou a um piscar de olhos. Isso indica que, ao toque da última trombeta, os cristãos ungidos são ressuscitados instantaneamente para a vida imortal no céu. — 1Te 4:17; Ap 14:12, 13.
+====
+
+[[v46-15-53]]
+
+^<<v46-15-53,53>>^ Pois isto que é perecível tem de se revestir do que é imperecível,^&#42;1^ e isto que é mortal tem de se revestir do que é imortal.
+
+[NOTE]
+====
+. Ou: “de imperecibilidade”.
+====
+
+[TIP]
+====
+- *do que é imortal*: Ou: “de imortalidade”. A palavra grega para “imortalidade” (athanasía) aparece três vezes nas Escrituras Gregas Cristãs: aqui, em 1Co 15:54 e em 1Ti 6:16. O sentido básico dessa palavra é “que não está sujeito à morte”. Ela se refere ao tipo de vida que os ungidos recebem, uma vida sem fim e indestrutível. Os seguidores ungidos de Cristo, que servem fielmente a Deus na Terra como humanos mortais, não são ressuscitados simplesmente como criaturas espirituais com vida eterna. Jeová lhes dá “vida indestrutível”, mostrando assim a enorme confiança que tem neles. — He 7:16; compare com a nota de estudo em 1Co 15:42.
+====
+
+[[v46-15-54]]
+
+^<<v46-15-54,54>>^ Mas, quando isto que é perecível se revestir do que é imperecível,^&#42;1^ e isto que é mortal se revestir do que é imortal,^&#42;2^ então se cumprirá a declaração que está escrita: “A morte foi eliminada para sempre.”
+
+[NOTE]
+====
+. Ou: “de imperecibilidade”.
+. Ou: “de imortalidade”.
+====
+
+[TIP]
+====
+- *A morte foi eliminada para sempre*: Lit.: “A morte foi tragada (engolida) em vitória”. Aqui, Paulo está citando Is 25:8. Ao citar a profecia de Isaías, que foi escrita no século 8 a.C., Paulo mostrou que a promessa de Deus de acabar com a morte herdada de Adão não era algo novo. O texto hebraico de Is 25:8 diz: “Ele [ou seja, Deus] acabará com a morte para sempre.” Ao fazer essa citação, Paulo usa uma expressão grega (traduzida aqui como “para sempre”) que significa literalmente “em vitória”. Algumas Bíblias seguem esse sentido literal e usam traduções como: “A morte foi tragada pela vitória” ou “A morte foi destruída! A vitória é completa!”. Mas, em alguns contextos, essa expressão grega também pode significar “permanentemente; para sempre”. Ela foi usada na Septuaginta em versículos como Is 25:8 e La 5:20 para traduzir uma palavra hebraica que significa “para sempre”. Assim, existem bons motivos para se traduzir essa expressão grega como “para sempre” aqui em 1Co 15:54, especialmente por causa do texto hebraico de Is 25:8.
+====
+
+[[v46-15-55]]
+
+^<<v46-15-55,55>>^ “Morte, onde está a sua vitória? Morte, onde está o seu aguilhão?”
+
+[TIP]
+====
+- *Morte, onde está a sua vitória? Morte, onde está o seu aguilhão?*: Aqui, Paulo está citando Os 13:14. A profecia de Oseias não estava indicando que os israelitas desobedientes seriam ressuscitados naquele tempo. O modo como Paulo aplica Os 13:14 neste versículo mostra que a profecia se referia a um tempo futuro em que os mortos seriam levantados e o poder da Sepultura (Seol ou Hades) seria eliminado. A citação que Paulo faz aqui foi tirada, em parte, da Septuaginta, que diz: “Onde está a sua punição, ó morte? Onde está o seu aguilhão, ó Hades?” Ao fazer essas perguntas retóricas para o inimigo, a Morte (1Co 15:25, 26), Paulo estava como que dizendo: “Morte, você nunca mais vencerá! Morte, o seu aguilhão não tem mais nenhum poder!”
+- *aguilhão*: Ou: “ferrão”. A palavra grega kéntron pode se referir ao ferrão de um animal, como o escorpião. Ela foi usada em Ap 9:10, que fala de gafanhotos simbólicos que tinham “caudas com ferrões como os escorpiões”. Aqui, em 1Co 15:55, a palavra foi usada em sentido figurado para se referir à dor e ao sofrimento que o inimigo, a morte, tem causado aos humanos. (1Co 15:26) Quando um escorpião perde seu ferrão, ele não consegue mais picar ninguém. Da mesma forma, a morte perde todo o seu poder sobre os ungidos quando eles são ressuscitados para herdar o Reino de Deus, já que eles recebem imortalidade. (1Co 15:57; Ap 20:6) Durante o Reinado de Mil Anos de Cristo, Deus vai eliminar completamente a morte herdada de Adão quando trouxer milhões de pessoas de volta à vida e a morte for figurativamente lançada “no lago de fogo”. — Ap 20:12-14; 21:4; Jo 5:28, 29.
+====
+
+[[v46-15-56]]
+
+^<<v46-15-56,56>>^ O aguilhão^&#42;1^ que produz a morte é o pecado, e a força do pecado é a Lei.
+
+[NOTE]
+====
+. Ou: “ferrão”.
+====
+
+[TIP]
+====
+- *e a força do pecado é a Lei*: Ou: “e a Lei dá força ao pecado”. Aqui, Paulo está se referindo à Lei mosaica. Ela deixava claro o que Deus considerava pecado, alistando diversas ações e até mesmo maneiras de pensar. (Ro 3:19, 20; Gál 3:19) Nesse sentido, a Lei deu força ao pecado. Ela ajudou os israelitas a reconhecer que eram pecadores, que estavam em dívida com Deus e que precisavam do Messias. — Ro 6:23.
+====
+
+[[v46-15-57]]
+
+^<<v46-15-57,57>>^ Mas graças sejam dadas a Deus, pois ele nos dá a vitória por meio do nosso Senhor Jesus Cristo!
+
+[[v46-15-58]]
+
+^<<v46-15-58,58>>^ Portanto, meus amados irmãos, sejam firmes, inabaláveis, e tenham sempre bastante para fazer na obra do Senhor, sabendo que o seu trabalho árduo no Senhor não é em vão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “vazio”.
+====
+
+[TIP]
+====
+- *Portanto, . . . sejam firmes, inabaláveis*: A palavra grega traduzida aqui como “firmes” passa a ideia de algo estável, assentado em seu lugar. Em Col 1:23, onde essa palavra também foi traduzida como “firmes”, ela foi usada em paralelo com a expressão “estabelecidos no alicerce”. Ela envolve permanecer firme por meio de uma fé incondicional em Deus e em suas promessas. (1Pe 5:9) A palavra grega traduzida aqui como “inabaláveis” tem um significado parecido. Ela se refere a algo que não pode ser movido ou tirado de seu lugar. Quando um cristão enfrenta dificuldades e ataques contra sua fé, a sua esperança o mantém inabalável, assim como a “âncora” mantém um navio fixo no lugar onde foi ancorado. (He 6:19) Paulo usa essas duas palavras gregas juntas para expressar o seu desejo de que os cristãos em Corinto estivessem completamente determinados a se apegar à sua fé e à sua esperança, com a certeza de que o seu trabalho árduo “na obra do Senhor” não seria em vão.
+- *na obra do Senhor . . . no Senhor*: Neste contexto, o título Kýrios (“Senhor”) pode se referir tanto a Jeová Deus como a Jesus Cristo. Aqui, é bem possível que o “Senhor” seja Jeová, visto que, ao falar do ministério cristão, Paulo diz “somos colaboradores de Deus” e chama esse ministério de “a obra de Jeová”. (1Co 3:9; 16:10; Is 61:1, 2; Lu 4:18, 19; Jo 5:17; Ro 12:11) Além disso, quando Jesus falou da colheita espiritual, ele se referiu a Jeová Deus como o “Senhor [em grego, Kýrios] da colheita”. (Mt 9:38) Mas também é possível que Paulo estivesse pensando na obra, ou ministério, que Jesus liderou quando esteve na Terra. (Mt 28:19, 20) Não importa qual seja o caso, os ministros cristãos que declaram as boas novas têm o enorme privilégio de ser colaboradores tanto do Soberano Senhor Jeová como do Senhor Jesus Cristo.
+====
+
+'''
+
+xref:046-1-corintios/046-1-corintios-014.adoc#v46-14-0[&#60; Capítulo Anterior] | <<v46-15-0,Topo>> | xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[Próximo Capítulo &#62;]

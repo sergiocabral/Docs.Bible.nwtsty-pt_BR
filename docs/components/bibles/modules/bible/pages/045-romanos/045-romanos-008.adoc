@@ -1,0 +1,339 @@
+include::./index.adoc[]
+
+[[v45-8-0]]
+=== A Carta aos Romanos, 8
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-8-1]]
+
+^<<v45-8-1,1>>^ Portanto, não há nenhuma condenação para os que estão em união com Cristo Jesus.
+
+[[v45-8-2]]
+
+^<<v45-8-2,2>>^ Pois a lei do espírito que dá a vida em união com Cristo Jesus libertou você da lei do pecado e da morte.
+
+[TIP]
+====
+- *lei do espírito . . . lei do pecado e da morte*: Aqui, a palavra “lei” não se refere a uma lei, ou regra, específica, como as que faziam parte da Lei mosaica. Em vez disso, ela foi usada em um sentido mais amplo e se refere a um princípio que guia as ações de uma pessoa, ou seja, a uma forte influência que, assim como uma lei, induz a pessoa a agir de uma determinada maneira. (Veja a nota de estudo em Ro 2:12.) Neste versículo, Paulo faz um contraste entre a lei (ou forte influência) do espírito de Deus, que leva à vida, e a lei (ou forte influência) da carne imperfeita, que leva ao pecado e à morte. É verdade que todos os descendentes de Adão têm a tendência de fazer o que é errado por causa da forte influência da “lei do pecado”. (Ro 7:23) Mas eles não precisam ceder aos desejos da carne; eles podem escolher deixar que a lei do espírito de Deus influencie suas ações e os leve a fazer o que é certo. — Ro 7:21-25.
+====
+
+[[v45-8-3]]
+
+^<<v45-8-3,3>>^ O que a Lei era incapaz de fazer, visto que era fraca por causa da carne, Deus fez por enviar o seu próprio Filho na semelhança da carne pecaminosa para eliminar o^&#42;1^ pecado. E assim condenou o pecado na carne,
+
+[NOTE]
+====
+. Ou: “com relação ao”.
+====
+
+[TIP]
+====
+- *fraca por causa da carne*: Ou seja, da carne imperfeita dos que tentavam seguir a Lei mosaica. Até mesmo os sumos sacerdotes eram imperfeitos e, por isso, não tinham condições de oferecer um sacrifício que cobrisse plenamente o pecado. Assim, a Lei não podia salvar os pecadores. Em vez disso, ela chamava a atenção para a imperfeição das pessoas que tentavam segui-la. (Ro 7:21-25; He 7:11, 28; 10:1-4) Nesse sentido, pode-se dizer que a Lei era “fraca por causa da carne”.
+====
+
+[[v45-8-4]]
+
+^<<v45-8-4,4>>^ para que as justas exigências da Lei se cumprissem em nós, que não andamos de acordo com a carne, mas de acordo com o espírito.
+
+[TIP]
+====
+- *a carne*: A palavra grega traduzida aqui como carne é sarx. Na Bíblia, essa palavra é usada em vários sentidos. Às vezes, ela se refere simplesmente ao ser humano, feito de carne e osso, e não está relacionada com o pecado e a imperfeição. (Jo 1:14; 3:6; 17:2) Mas, aqui e em muitos outros lugares, a palavra se refere ao estado imperfeito e pecador dos humanos. Nos capítulos anteriores, Paulo relaciona ‘viver de acordo com a carne’ com “os desejos pecaminosos” que ‘agem no corpo’ do ser humano. (Ro 6:19; 7:5, 18, 25) Em Ro 8:5-13, Paulo faz um contraste entre a carne pecaminosa e o espírito, ou seja, o espírito santo de Deus. — Para outros significados da palavra grega sarx, veja a nota de estudo em Ro 1:3; Ro 2:28.
+====
+
+[[v45-8-5]]
+
+^<<v45-8-5,5>>^ Pois os que vivem de acordo com a carne fixam a mente nas coisas da carne; mas os que vivem de acordo com o espírito, nas coisas do espírito.
+
+[TIP]
+====
+- *fixam as mentes nas*: O verbo grego fronéo tem o sentido básico de “pensar; ter uma determinada atitude mental; pensar de certo modo”. (Mt 16:23; Ro 12:3; 15:5) Aqui, ele passa a ideia de pensar numa coisa, se concentrar nela e, possivelmente, se esforçar para consegui-la. O modo como Paulo usa esse verbo aqui mostra que a forma de pensar de uma pessoa afeta diretamente a sua maneira de agir e viver. O verbo indica que a própria pessoa pode escolher como vai viver; se vai viver de acordo com a carne ou de acordo com o espírito. (Para entender o significado das palavras carne e espírito neste versículo, veja a nota de estudo em Ro 8:4.) Comentando sobre o uso de fronéo para descrever a atitude daqueles que vivem de acordo com a carne, um estudioso disse: “Eles fixam as mentes deles — se interessam principalmente, falam constantemente, se empenham e têm prazer — nas coisas da carne.” Esse mesmo sentido de fronéo também se aplica quando o verbo é usado para falar que os que vivem de acordo com o espírito “fixam as mentes” em coisas espirituais. No versículo seguinte, Paulo mostra que, enquanto quem fixa a mente na carne recebe a “morte” como consequência, quem fixa a mente no espírito recebe algo completamente diferente, “vida e paz”. — Ro 8:6.
+====
+
+[[v45-8-6]]
+
+^<<v45-8-6,6>>^ Pois fixar a mente na carne significa morte, mas fixar a mente no espírito significa vida e paz.
+
+[TIP]
+====
+- *fixar a mente*: Aqui, a expressão “fixar a mente” é uma tradução do substantivo grego frónema, que aparece três vezes neste contexto — duas vezes neste versículo e uma vez em Ro 8:7. Um léxico define frónema como “modo de pensar, mente (mentalidade), . . . objetivo, aspiração, empenho”. Esse substantivo se refere ao desejo ou aos objetivos da pessoa que se baseiam no entendimento que ela tem sobre um determinado assunto. Ele está relacionado com o verbo fronéo (usado no versículo anterior), que tem o sentido básico de “pensar; ter uma determinada atitude mental; pensar de certo modo”. (Mt 16:23; Ro 12:3; 15:5) Assim, a pessoa que fixa a mente na carne se concentra em desejos carnais ou relacionados às coisas do mundo e deixa que eles dominem a sua mente. (1Jo 2:16; veja a nota de estudo em Ro 8:4.) Por outro lado, a pessoa que fixa a mente no espírito deixa que o espírito, ou força ativa, de Deus influencie e domine seus pensamentos, desejos e ações.
+====
+
+[[v45-8-7]]
+
+^<<v45-8-7,7>>^ Porque fixar a mente na carne significa inimizade com Deus, visto que a carne não está em sujeição à lei de Deus; de fato, nem pode estar.
+
+[[v45-8-8]]
+
+^<<v45-8-8,8>>^ De modo que os que vivem em harmonia com a carne não podem agradar a Deus.
+
+[[v45-8-9]]
+
+^<<v45-8-9,9>>^ No entanto, vocês não vivem em harmonia com a carne, mas com o espírito, se o espírito de Deus realmente mora em vocês. Mas, se alguém não tem o espírito de Cristo, essa pessoa não pertence a ele.
+
+[[v45-8-10]]
+
+^<<v45-8-10,10>>^ Se, porém, Cristo está em união com vocês, o corpo está morto por causa do pecado, mas o espírito é vida por causa da justiça.
+
+[[v45-8-11]]
+
+^<<v45-8-11,11>>^ Portanto, se o espírito daquele que levantou a Jesus dentre os mortos mora em vocês, aquele que levantou a Cristo Jesus dentre os mortos também dará vida aos seus corpos mortais por meio do espírito dele, que mora em vocês.
+
+[[v45-8-12]]
+
+^<<v45-8-12,12>>^ Assim, irmãos, estamos sob obrigação, mas não para com a carne, ou seja, para viver de acordo com a carne;
+
+[[v45-8-13]]
+
+^<<v45-8-13,13>>^ pois, se vocês viverem de acordo com a carne, certamente morrerão; mas, se pelo espírito entregarem à morte as práticas do corpo, vocês viverão.
+
+[[v45-8-14]]
+
+^<<v45-8-14,14>>^ Porque todos os que são guiados pelo espírito de Deus são realmente filhos de Deus.
+
+[[v45-8-15]]
+
+^<<v45-8-15,15>>^ Pois vocês não receberam um espírito de escravidão, que causasse novamente temor, mas receberam um espírito de adoção como filhos, e é por meio desse espírito que clamamos: “Aba, Pai!”
+
+[TIP]
+====
+- *de adoção como filhos*: Lit.: “de colocação como filho”. A palavra grega que aparece aqui é huiothesía. No mundo grego e romano, as adoções eram comuns. Na maioria das vezes, os adotados não eram crianças, mas adolescentes ou jovens adultos. E há relatos de donos de escravos que libertavam seus escravos para poder adotá-los legalmente. Um exemplo de alguém que foi adotado é o do imperador romano Augusto. Antes de se tornar imperador, ele foi nomeado por Júlio César como seu filho adotivo. Paulo usa a ideia de “adoção” para explicar a mudança que ocorre na situação dos que são chamados e escolhidos por Deus. Por causa da imperfeição herdada de Adão, eles nasceram como escravos do pecado assim como o resto da humanidade e, por isso, não poderiam ser considerados filhos de Deus. Mas, graças ao sacrifício de resgate de Jesus Cristo, Jeová pode libertar seus escolhidos e adotá-los; dessa forma, eles se tornam co-herdeiros com Cristo. (Ro 8:14-17; Gál 4:1-7) Paulo diz aqui que esses escolhidos clamam: “Aba, Pai!” O uso da palavra grega traduzida aqui como “Aba” destaca a mudança que acontece no relacionamento entre Deus e eles quando eles são adotados. Essa palavra indicava muita intimidade e jamais seria usada por um escravo ao se dirigir ao seu dono. (Veja a nota de estudo em Aba neste versículo.) É Jeová quem decide quem ele quer adotar como filho. (Ef 1:5) Desde o momento em que Jeová usa seu espírito para ungir alguém, ele já o considera como seu filho. (Jo 1:12, 13; 1Jo 3:1) Mas os que são escolhidos precisam continuar fiéis durante sua vida na Terra para serem adotados de forma definitiva e poderem receber sua recompensa de viver no céu e se tornar co-herdeiros com Cristo. (Ap 20:6; 21:7) É por isso que Paulo diz: “Esperamos ansiosamente a adoção como filhos — sermos livrados do nosso corpo por meio de resgate.” — Ro 8:23.
+- *Aba*: A palavra grega Abbá é uma transliteração de uma palavra hebraica ou aramaica que significa literalmente “o pai” ou “ó Pai”. Essa palavra aparece três vezes nas Escrituras Gregas Cristãs e era um jeito carinhoso de se dirigir ao pai. (Veja a nota de estudo em Mr 14:36.) Paulo usa essa palavra tanto aqui como em Gál 4:6. Nas duas vezes, ela está ligada com os que foram chamados para ser filhos de Deus gerados por espírito. Depois de terem sido adotados por Deus, eles podiam se dirigir a Jeová usando uma expressão que um escravo jamais usaria para se dirigir a seu dono se não tivesse sido adotado por ele. Assim, apesar de os cristãos ungidos serem “escravos de Deus” que foram “comprados por um preço”, eles também são filhos de um Pai amoroso. O espírito santo faz com que eles tenham certeza de sua condição de filhos. — Ro 6:22; 1Co 7:23.
+====
+
+[[v45-8-16]]
+
+^<<v45-8-16,16>>^ O próprio espírito dá testemunho com o nosso espírito de que somos filhos de Deus.
+
+[TIP]
+====
+- *O próprio espírito dá testemunho com o nosso espírito*: Aqui, Paulo usa a palavra grega para “espírito” (pneúma) com dois sentidos diferentes. (Veja o Glossário, “Espírito”.) Na primeira ocorrência (“o próprio espírito”), ela se refere ao espírito santo, ou força ativa, de Deus. Mas, na segunda ocorrência (“o nosso espírito”), ela se refere ao modo de pensar dos cristãos ungidos. O espírito santo de Deus dá testemunho com o espírito dos cristãos ungidos no sentido de que o espírito santo influencia o modo de pensar deles, fazendo com que eles sintam que aquilo que a Palavra de Deus diz sobre a esperança celestial se aplica a eles.
+====
+
+[[v45-8-17]]
+
+^<<v45-8-17,17>>^ Então, se somos filhos, somos também herdeiros — herdeiros de Deus, mas co-herdeiros com Cristo —, desde que soframos com ele, para que também sejamos glorificados com ele.
+
+[[v45-8-18]]
+
+^<<v45-8-18,18>>^ Portanto, eu considero os sofrimentos da época atual como não sendo nada em comparação com a glória que será revelada em nós.
+
+[[v45-8-19]]
+
+^<<v45-8-19,19>>^ Pois a criação está esperando com viva expectativa a revelação dos filhos de Deus.
+
+[TIP]
+====
+- *criação*: As consequências da rebelião no Éden afetam toda a criação terrestre. Mas tudo indica que aqui a palavra “criação” se refere especificamente aos humanos. Afinal, são apenas os humanos que têm a capacidade de esperar com viva expectativa por algo, neste caso, por serem libertados dos efeitos do pecado e da morte. (Ro 5:12; 8:19) De acordo com alguns estudiosos, a palavra grega traduzida aqui como “viva expectativa” faz referência à ideia de uma pessoa esticar seu pescoço para poder ver algo ou de ficar com a cabeça levantada olhando com expectativa.
+- *a revelação dos filhos de Deus*: Aqui, Paulo chama os que são “co-herdeiros com Cristo” de “filhos de Deus”. (Ro 8:17) Eles vão ser ‘revelados’ quando ficar claro que eles foram glorificados e que estão reinando com Jesus Cristo no céu. Visto que eles são a parte secundária do “descendente” prometido (Gên 3:15), eles, junto com Cristo, vão destruir o mundo mau de Satanás (Ro 16:20; Ap 2:26, 27). Eles serão ‘revelados’ de forma ainda mais completa quando estiverem servindo como sacerdotes durante o Reinado de Mil Anos de Cristo. Nesse período, eles vão ajudar a humanidade, chamada neste versículo de a criação, a receber os benefícios do sacrifício de resgate de Jesus. Como resultado da “revelação dos filhos de Deus”, a humanidade vai ser “libertada da escravidão à decadência” e poderá ter “a liberdade gloriosa dos filhos de Deus”. — Ro 8:21; Ap 7:9, 10, 14; 20:5; 22:1, 2.
+====
+
+[[v45-8-20]]
+
+^<<v45-8-20,20>>^ Porque a criação foi sujeita à futilidade, não de sua própria vontade, mas pela vontade^&#42;1^ daquele que a sujeitou, à base da esperança
+
+[NOTE]
+====
+. Ou: “mas por meio”.
+====
+
+[TIP]
+====
+- *à futilidade*: Ou: “à vaidade; à frustração; ao vazio”. A mesma palavra grega traduzida aqui como “futilidade” foi usada na Septuaginta para traduzir a palavra hebraica hével (que se refere literalmente a um “sopro” ou “vapor” passageiro). Essa palavra hebraica aparece mais de 35 vezes no livro de Eclesiastes em expressões como “a maior das vaidades” e “tudo é vão”. (Ec 1:2; 2:17; 3:19; 12:8) Salomão, que foi o escritor do livro de Eclesiastes, às vezes usou essa palavra em paralelo com a expressão “correr atrás do vento”. (Ec 1:14; 2:11) Aqui, em Ro 8:20, Paulo está falando de um esforço que não gera o resultado esperado. A esperança que Paulo menciona aqui é a de Deus libertar a humanidade dessa “futilidade” a que ela está sujeita. — Ro 8:21.
+- *daquele que a sujeitou*: Estas palavras se referem a Jeová Deus, e não a Satanás ou a Adão como alguns sugerem. Jeová foi bondoso ao deixar que Adão e Eva tivessem filhos. Mas ele sabia que Adão e Eva passariam a imperfeição, o pecado e a morte aos seus descendentes. Assim, quando permitiu que eles tivessem filhos, Jeová de forma consciente sujeitou a criação “à futilidade”. Mas ele fez isso à base da esperança, ou seja, levando em conta o que seria realizado por meio do “descendente”, Jesus Cristo. (Gên 3:15; 22:18; Gál 3:16) A esperança que Deus oferece é a de que, no fim, os humanos fiéis serão ‘libertados da escravidão à decadência’. — Ro 8:21.
+====
+
+[[v45-8-21]]
+
+^<<v45-8-21,21>>^ de que^&#42;1^ a própria criação também será libertada da escravidão à decadência e terá a liberdade gloriosa dos filhos de Deus.
+
+[NOTE]
+====
+. Ou: “porque”.
+====
+
+[TIP]
+====
+- *escravidão à decadência*: A palavra grega traduzida aqui como “decadência” passa a ideia de “decomposição; deterioração; destruição”. A “escravidão à decadência” é resultado do pecado e causa a imperfeição física, o envelhecimento, as doenças e a morte. É verdade que nem mesmo o corpo de humanos perfeitos é imune à decomposição. Paulo mostrou isso quando disse sobre Jesus: “Deus o ressuscitou dentre os mortos de modo que ele nunca mais tivesse um corpo perecível.” (At 13:34) Da mesma forma, mesmo enquanto Adão ainda era perfeito, o corpo dele era perecível, ou seja, podia morrer. Mas isso só aconteceria se ele deixasse de obedecer a Deus. Foi somente quando Adão pecou que ele se tornou escravo da decadência e começou a sentir os terríveis efeitos dela. Ele passou essa escravidão para todos os seus descendentes, a raça humana. (Ro 5:12) A expressão liberdade gloriosa dos filhos de Deus se refere ao que acontecerá quando os humanos forem libertados dessa escravidão e puderem ser considerados filhos de Deus no pleno sentido, assim como Adão era. (Lu 3:38) Jeová promete essa liberdade e a vida eterna para os que ‘semeiam visando o espírito’. Mas os que ‘semeiam visando a carne colherão da carne destruição’ e não receberão nem essa liberdade nem a vida eterna. — Gál 6:8.
+====
+
+[[v45-8-22]]
+
+^<<v45-8-22,22>>^ Pois sabemos que toda a criação junta continua a gemer e a sentir dores até agora.
+
+[[v45-8-23]]
+
+^<<v45-8-23,23>>^ Não somente isso, mas também nós mesmos, que temos as primícias, isto é, o espírito, sim, nós mesmos gememos em nosso íntimo, ao passo que esperamos ansiosamente a adoção como filhos — sermos livrados do nosso corpo por meio de resgate.
+
+[TIP]
+====
+- *a adoção como filhos*: Veja a nota de estudo em Ro 8:15.
+====
+
+[[v45-8-24]]
+
+^<<v45-8-24,24>>^ Pois fomos salvos nessa esperança; mas a esperança que se vê não é esperança, pois como uma pessoa pode esperar por uma coisa que ela vê?
+
+[[v45-8-25]]
+
+^<<v45-8-25,25>>^ Mas, se esperamos por aquilo que não vemos, continuamos a aguardar com viva expectativa e perseverança.
+
+[[v45-8-26]]
+
+^<<v45-8-26,26>>^ Do mesmo modo, o espírito também nos ajuda na nossa fraqueza; pois o problema é que às vezes não sabemos o que precisamos pedir em oração, mas o próprio espírito intercede por nós com gemidos não pronunciados.
+
+[TIP]
+====
+- *o próprio espírito intercede por nós*: Às vezes, os servos de Deus ‘não sabem o que precisam pedir em oração’ ou talvez não saibam nem mesmo do que realmente precisam. Pode ser que eles não consigam expressar em palavras tudo o que estão sentindo ou pensando. Quando isso acontece, Deus usa seu espírito para interceder, ou suplicar, por seus servos sobre aquilo que está por trás de seus gemidos não pronunciados. Parece que essas “súplicas” da parte do espírito santo têm ligação com a Palavra de Deus, que foi inspirada por meio desse espírito. Paulo indica que os sentimentos dos cristãos já foram expressos em orações inspiradas e que as coisas que eles passam são semelhantes a acontecimentos registrados na Palavra de Deus. Assim, quando um cristão não consegue dizer em oração tudo o que gostaria, para Jeová é como se os pensamentos inspirados de sua Palavra estivessem sendo ditos por esse cristão. Dessa forma, Jeová entende os “gemidos não pronunciados” de seu servo e responde a essa oração de acordo com a Sua vontade. — Sal 65:2; veja a nota de estudo em Ro 8:27.
+====
+
+[[v45-8-27]]
+
+^<<v45-8-27,27>>^ No entanto, aquele que examina os corações sabe a intenção do espírito, porque este intercede a favor dos santos em harmonia com a vontade de Deus.
+
+[TIP]
+====
+- *a intenção do espírito*: Ou: “o sentido do espírito; a mente (o pensamento) do espírito”. Aqui, a palavra “espírito” se refere ao espírito, ou força ativa, de Deus. Foi Deus quem, por meio do espírito santo, orientou os escritores da Bíblia a registrar os pensamentos que estão nas Escrituras. Assim, ele sabe muito bem o significado desses pensamentos inspirados. Além disso, como Paulo mostra, Deus é aquele que examina os corações. Por isso, quando os servos de Deus estão aflitos demais para saber o que pedir em oração, Deus sabe até mesmo quais desses pensamentos inspirados transmitem melhor o que esses servos gostariam de dizer. Em certo sentido, é como se esses pensamentos das Escrituras estivessem intercedendo a favor dos santos de Deus. (Ro 8:26) Paulo fala aqui da “intenção” (ou “mente”) do espírito e diz que o espírito “intercede”. Ao fazer isso, Paulo está usando uma figura de linguagem chamada personificação. — Veja a nota de estudo em Jo 14:16.
+====
+
+[[v45-8-28]]
+
+^<<v45-8-28,28>>^ Nós sabemos que Deus faz com que todas as suas obras cooperem para o bem daqueles que amam a Deus, os que são chamados segundo o Seu propósito;
+
+[TIP]
+====
+- *chamados segundo o Seu propósito*: A palavra grega próthesis, traduzida aqui como “propósito”, significa literalmente “colocar em frente (diante)”. Essa mesma palavra também aparece em Ro 9:11; Ef 1:11 e 3:11. Já que os propósitos de Deus sempre se cumprem, ele pode prever e predizer o que vai acontecer. (Is 46:10) Por exemplo, Jeová predisse a formação de um grupo de escolhidos, ou “chamados”, embora ele não tenha predestinado individualmente quais pessoas fariam parte desse grupo. Jeová toma as ações necessárias para garantir que tudo aquilo que ele quer se realize. — Is 14:24-27.
+====
+
+[[v45-8-29]]
+
+^<<v45-8-29,29>>^ porque aqueles a quem ele primeiro deu consideração,^&#42;1^ a esses também predeterminou que fossem modelados à imagem do seu Filho, para que este fosse o primogênito entre muitos irmãos.
+
+[NOTE]
+====
+. Ou: “reconhecimento”.
+====
+
+[[v45-8-30]]
+
+^<<v45-8-30,30>>^ Além disso, aos que ele predeterminou, também chamou; e aos que chamou, também declarou justos. Finalmente, aos que ele declarou justos, também glorificou.
+
+[[v45-8-31]]
+
+^<<v45-8-31,31>>^ O que diremos, então, sobre essas coisas? Se Deus é por nós, quem será^&#42;1^ contra nós?
+
+[NOTE]
+====
+. Ou: “pode ser; é”.
+====
+
+[[v45-8-32]]
+
+^<<v45-8-32,32>>^ Visto que ele nem mesmo poupou o seu próprio Filho, mas o entregou por todos nós, será que, junto com ele, não nos dará também bondosamente todas as outras coisas?
+
+[[v45-8-33]]
+
+^<<v45-8-33,33>>^ Quem levantará acusação contra os escolhidos de Deus? É Deus quem os declara justos.
+
+[[v45-8-34]]
+
+^<<v45-8-34,34>>^ Quem os condenará? Cristo Jesus é aquele que morreu e, ainda mais, é aquele que foi levantado, aquele que está à direita de Deus e que também intercede por nós.
+
+[TIP]
+====
+- *foi levantado*: Alguns manuscritos acrescentam as palavras “dentre os mortos”. Mas a opção usada aqui no texto principal tem o apoio de manuscritos muito antigos e confiáveis.
+- *à direita de Deus*: Estar à direita de um governante significava ser a pessoa mais importante depois do próprio governante (Sal 110:1; 1Pe 3:22) ou ser alguém que tinha o favor do governante. — Veja as notas de estudo em Mt 26:64; At 7:55.
+====
+
+[[v45-8-35]]
+
+^<<v45-8-35,35>>^ Quem nos separará do amor do Cristo? Será tribulação, ou aflição, ou perseguição, ou fome, ou nudez, ou perigo, ou espada?
+
+[[v45-8-36]]
+
+^<<v45-8-36,36>>^ Assim como está escrito: “Por tua causa, o dia inteiro somos entregues à morte; somos considerados como ovelhas destinadas ao abate.”
+
+[[v45-8-37]]
+
+^<<v45-8-37,37>>^ Pelo contrário, em todas essas coisas saímos completamente vitoriosos, por meio daquele que nos amou.
+
+[[v45-8-38]]
+
+^<<v45-8-38,38>>^ Pois estou convencido de que nem a morte, nem a vida, nem anjos, nem governos, nem coisas presentes, nem coisas por vir, nem poderes,
+
+[[v45-8-39]]
+
+^<<v45-8-39,39>>^ nem altura, nem profundidade, nem qualquer outra criação será capaz de nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor.
+
+'''
+
+xref:045-romanos/045-romanos-007.adoc#v45-7-0[&#60; Capítulo Anterior] | <<v45-8-0,Topo>> | xref:045-romanos/045-romanos-009.adoc#v45-9-0[Próximo Capítulo &#62;]

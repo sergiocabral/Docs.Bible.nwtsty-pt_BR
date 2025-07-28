@@ -1,0 +1,558 @@
+include::./index.adoc[]
+
+[[v42-1-0]]
+=== As Boas Novas Segundo Lucas, 1
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do livro
+****
+* Lucas: Em grego, Loukás, que vem do nome Lucas, em latim. Lucas escreveu este Evangelho e o livro de Atos dos Apóstolos. Ele era médico e foi um fiel companheiro do apóstolo Paulo. (Col 4:14; veja também a “Introdução a Lucas”.) Por causa de seu nome grego e de seu estilo de escrita, alguns dizem que Lucas não era judeu. Além disso, em Col 4:10-14, Paulo fala primeiro dos que eram “dos circuncisos” e só depois menciona Lucas. Mas a ideia de que Lucas não era judeu vai contra o que é indicado em Ro 3:1, 2, que diz que “aos judeus foram confiadas as proclamações sagradas de Deus”. Assim, Lucas talvez fosse um judeu que falava grego e que tinha um nome grego.
+* As Boas Novas Segundo Lucas: Em nenhum dos Evangelhos o escritor se identifica e, pelo visto, os textos originais não tinham títulos. Em alguns manuscritos do Evangelho de Lucas, o título que aparece é: Euaggélion Katá Loukán (As Boas Novas [ou: O Evangelho] Segundo Lucas). Outros manuscritos usam um título mais curto: Katá Loukán (Segundo Lucas). Não se sabe exatamente quando os títulos começaram a ser usados ou quando foram adicionados aos manuscritos dos Evangelhos. Alguns acreditam que foi no século 2 d.C., porque existem manuscritos datados de entre o fim do século 2 d.C. e o começo do século 3 d.C. que já usavam títulos longos. Alguns estudiosos sugerem que os relatos sobre a vida de Jesus começaram a ser chamados de “Evangelhos” (que, em grego, significa literalmente “boas novas”) por causa das palavras iniciais do livro de Marcos (“Princípio das boas novas a respeito de Jesus Cristo, o Filho de Deus”). É possível que as pessoas tenham começado a usar esses títulos, que incluíam o nome do escritor, porque assim era mais fácil identificar os livros.
+****
+
+.Notas do capítulo
+****
+* A. Palavras iniciais de Lucas (1:1-4)
+* Motivos de Lucas escrever o relato 1:1, 2)
+* Palavras para Teófilo (1:3, 4)
+* B. Acontecimentos ligados ao nascimento de João Batista e de Jesus (1:5-80)
+* Nascimento de João Batista predito por Gabriel (1:5-25)
+* Nascimento de Jesus predito por Gabriel (1:26-38)
+* Maria visita sua parenta Elisabete (1:39-45)
+* Maria magnifica a Jeová (1:46-56)
+* João nasce e recebe seu nome (1:57-66)
+* Profecia de Zacarias (1:67-79)
+* Vida de João no deserto (1:80)
+****
+
+[[v42-1-1]]
+
+^<<v42-1-1,1>>^ Muitos se empenharam em compilar um relato dos fatos que recebem pleno crédito entre nós,
+
+[TIP]
+====
+- *que recebem pleno crédito*: A palavra grega usada aqui também pode ser traduzida como “que têm plena credibilidade”. Ela destaca que os fatos foram examinados com muito cuidado. A expressão entre nós, usada logo depois, indica que entre os cristãos havia plena certeza de que todos os fatos relacionados com o Cristo tinham realmente acontecido e podiam ser aceitos com confiança. Por isso, essa expressão é traduzida em algumas Bíblias como “em que acreditamos plenamente”. Em outras partes da Bíblia, formas diferentes dessa palavra grega foram traduzidas como “plenamente convencido” e “firme convicção”. — Ro 4:21; 14:5; Col 4:12.
+====
+
+[[v42-1-2]]
+
+^<<v42-1-2,2>>^ assim como esses fatos nos foram transmitidos por aqueles que desde o princípio foram testemunhas oculares e proclamadores da mensagem.
+
+[TIP]
+====
+- *proclamadores da mensagem*: Lit.: “assistentes da palavra”. Ou: “servos da palavra”. Duas traduções das Escrituras Gregas Cristãs para o hebraico (chamadas de J18, 22 no Apêndice C4) usam aqui o Tetragrama e dizem “servos da palavra de Jeová”.
+====
+
+[[v42-1-3]]
+
+^<<v42-1-3,3>>^ Assim, eu também, depois de pesquisar todas as coisas com exatidão desde o início, resolvi escrevê-las para o senhor em ordem lógica, Excelentíssimo Teófilo,
+
+[TIP]
+====
+- *pesquisar*: Ou: “investigar cuidadosamente”. Lucas não presenciou os acontecimentos que registrou em seu Evangelho. Tudo indica que, além de ter sido inspirado pelo espírito santo, Lucas usou as seguintes fontes para conseguir suas informações: (1) Registros que ajudaram a determinar a genealogia de Jesus. (Lu 3:23-38) (2) O relato inspirado sobre a vida de Jesus escrito por Mateus. (3) Entrevistas que ele fez com muitas “testemunhas oculares” (Lu 1:2), como discípulos de Jesus que ainda estavam vivos e, possivelmente, Maria, a mãe de Jesus. Aproximadamente 60 por cento das informações de Lucas aparecem apenas no seu Evangelho. — Veja a “Introdução a Lucas”.
+- *em ordem lógica*: Ou: “em uma sequência organizada”. A palavra grega kathexés, traduzida aqui como “em ordem lógica”, pode se referir a algo organizado por assunto, de acordo com a ordem dos acontecimentos ou seguindo outra lógica. Assim, kathexés não indica necessariamente uma ordem cronológica rígida. Em seu Evangelho, Lucas nem sempre registrou os acontecimentos na ordem em que ocorreram, como fica claro em Lu 3:18-21. Assim, para se determinar a ordem dos acontecimentos da vida e do ministério de Jesus, é necessário examinar os quatro Evangelhos juntos. De modo geral, o registro de Lucas está em ordem cronológica, mas pelo visto ele também levou em conta outros fatores ao organizar os acontecimentos e assuntos que registrou.
+- *Excelentíssimo*: A palavra grega traduzida aqui como “Excelentíssimo” (krátistos) era uma forma de tratamento usada quando alguém se dirigia a uma autoridade. (At 23:26; 24:3; 26:25) Por isso, alguns estudiosos acreditam que Teófilo talvez ocupasse um cargo importante antes de se tornar cristão. Outros entendem que usar krátistos era uma forma de mostrar que se tinha grande respeito por alguém ou era simplesmente uma maneira amigável e educada de se dirigir a uma pessoa. Lucas diz que as informações sobre Jesus e seu ministério já tinham sido “ensinadas oralmente” a Teófilo. (Lu 1:4) Assim, ao que tudo indica, Teófilo já era cristão quando Lucas escreveu seu Evangelho. Nesse caso, o relato escrito por Lucas ajudaria Teófilo a ter certeza de que aquilo que ele tinha aprendido era verdade. Mas há outras opiniões sobre o assunto. Alguns acham que Teófilo era apenas alguém interessado e que só se converteu mais tarde. Outros acham que o nome Teófilo, que significa “amado por Deus; amigo de Deus”, foi usado por Lucas para se referir aos cristãos em geral, e não a uma pessoa específica. Ao se dirigir a Teófilo em Atos dos Apóstolos, Lucas não usa a expressão “Excelentíssimo”. — At 1:1.
+====
+
+[[v42-1-4]]
+
+^<<v42-1-4,4>>^ para que tenha plena certeza das coisas que lhe foram ensinadas oralmente.
+
+[[v42-1-5]]
+
+^<<v42-1-5,5>>^ Nos dias de Herodes, rei da Judeia, havia um sacerdote chamado Zacarias, da turma de Abias. Sua esposa era uma das filhas de Arão, e o nome dela era Elisabete.
+
+[TIP]
+====
+- *Herodes*: Refere-se a Herodes, o Grande. — Veja o Glossário.
+- *Zacarias*: Forma grega de um nome hebraico que significa “Jeová se lembrou”.
+- *da turma de Abias*: Abias era um sacerdote descendente de Arão. Nos dias do rei Davi, Abias era um dos cabeças das casas paternas de Israel. Davi dividiu os sacerdotes em 24 turmas, e cada uma delas servia no santuário em Jerusalém por uma semana a cada seis meses. A casa paterna de Abias foi escolhida por sortes para chefiar a oitava turma. (1Cr 24:3-10) Zacarias era “da turma de Abias”, mas isso não significa necessariamente que ele era descendente de Abias. Talvez essa fosse apenas a turma para a qual ele tinha sido designado. — Veja a nota de estudo em Lu 1:9.
+- *Abias*: Nome de origem hebraica que significa “meu pai é Jeová”.
+- *Elisabete*: Ou: “Isabel”. O nome grego Eleisábet vem do nome hebraico ʼElishévaʽ (Eliseba), que significa “meu Deus é abundante; Deus de abundância”. Lucas diz que Elisabete era uma das filhas de Arão, o que significa que ela era descendente de Arão. Assim, tanto o pai como a mãe de João eram de famílias de sacerdotes.
+====
+
+[[v42-1-6]]
+
+^<<v42-1-6,6>>^ Ambos eram justos diante de Deus e andavam de modo irrepreensível de acordo com todos os mandamentos e exigências legais de Jeová.
+
+[TIP]
+====
+- *Jeová*: Na Tradução do Novo Mundo, esta é a primeira vez que o nome de Deus aparece no Evangelho de Lucas. Embora os manuscritos gregos disponíveis hoje usem aqui a palavra Kýrios (Senhor), há bons motivos para acreditar que o nome de Deus aparecia no texto original deste versículo e que, mais tarde, foi substituído pelo título Senhor. (Veja o Apêndice C1 e o Apêndice C3 [introdução e Lu 1:6].) Os dois primeiros capítulos de Lucas contêm muitas referências diretas e indiretas a expressões e passagens das Escrituras Hebraicas em que o nome de Deus aparece. Por exemplo, a expressão mandamentos e exigências legais e outras combinações parecidas de termos jurídicos podem ser encontradas nas Escrituras Hebraicas em contextos onde o nome de Deus é usado ou em declarações do próprio Jeová. — Gên 26:2, 5; Núm 36:13; De 4:40; 27:10; Ez 36:23, 27.
+====
+
+[[v42-1-7]]
+
+^<<v42-1-7,7>>^ Mas não tinham filhos, porque Elisabete era estéril, e ambos já eram de idade bem avançada.
+
+[[v42-1-8]]
+
+^<<v42-1-8,8>>^ Zacarias estava servindo perante Deus como sacerdote na designação da sua turma.
+
+[[v42-1-9]]
+
+^<<v42-1-9,9>>^ Segundo o costume estabelecido^&#42;1^ do sacerdócio, chegou a sua vez de oferecer incenso ao entrar no santuário de Jeová.
+
+[NOTE]
+====
+. Ou: “a prática estabelecida”.
+====
+
+[TIP]
+====
+- *a sua vez de oferecer incenso*: No começo, era o sumo sacerdote Arão quem fazia as ofertas de incenso no altar de ouro. (Êx 30:7) Mas o filho de Arão, Eleazar, recebeu o privilégio de cuidar do incenso e de outros itens do tabernáculo. (Núm 4:16) Visto que Zacarias ofereceu incenso apesar de não ser o sumo sacerdote, parece que outros sacerdotes podiam cuidar desse privilégio, exceto no Dia da Expiação. Entre os serviços diários que os sacerdotes realizavam no templo, queimar incenso talvez fosse o mais valorizado. A oferta de incenso acontecia depois que o sacrifício era oferecido. Enquanto o incenso era queimado, as pessoas ficavam reunidas orando do lado de fora do santuário. De acordo com a tradição rabínica, o sacerdote que iria oferecer o incenso era escolhido por sortes. Mas quem já tivesse oferecido incenso não podia ser escolhido de novo, a não ser que todos os presentes já tivessem feito esse serviço. Se isso for verdade, é possível que um sacerdote só tivesse essa honra uma vez na vida.
+- *santuário*: Neste contexto, a palavra grega naós, traduzida aqui como “santuário”, se refere ao prédio central do templo. Quando chegou a “sua vez de oferecer incenso”, Zacarias entrou no Santo, o primeiro compartimento do santuário, onde ficava o altar do incenso. — Veja as notas de estudo em Mt 27:5; 27:51 e o Apêndice B11.
+- *santuário de Jeová*: Conforme mencionado na nota de estudo em Lu 1:6, os dois primeiros capítulos de Lucas contêm muitas referências diretas e indiretas a expressões e passagens das Escrituras Hebraicas que usam o nome de Deus. Por exemplo, as expressões hebraicas traduzidas como “santuário de Jeová; templo de Jeová” muitas vezes incluem o Tetragrama. (Núm 19:20; 2Rs 18:16; 23:4; 24:13; 2Cr 26:16; 27:2; Je 24:1; Ez 8:16; Ag 2:15) Como explicado no Apêndice C1, há bons motivos para acreditar que o nome de Deus aparecia no texto original deste versículo e que mais tarde foi substituído pelo título “Senhor”. Assim, o nome “Jeová” é usado aqui no texto principal. — Veja o Apêndice C3 (introdução e Lu 1:9).
+====
+
+[[v42-1-10]]
+
+^<<v42-1-10,10>>^ E toda a multidão do povo estava orando do lado de fora, na hora de oferecer incenso.
+
+[[v42-1-11]]
+
+^<<v42-1-11,11>>^ Então, apareceu-lhe o anjo de Jeová, em pé à direita do altar do incenso.
+
+[TIP]
+====
+- *o anjo de Jeová*: Essa expressão aparece pela primeira vez em Gên 16:7 e é usada muitas vezes nas Escrituras Hebraicas. Ela é formada pela palavra hebraica para “anjo” mais o Tetragrama. Num fragmento de uma cópia muito antiga da Septuaginta, essa expressão aparece em Za 3:5, 6 e foi traduzida pela palavra grega ággelos (anjo; mensageiro) seguida pelo nome de Deus em letras hebraicas. Esse fragmento foi encontrado em Nahal Hever, no deserto da Judeia, em Israel, e é datado de entre 50 a.C. e 50 d.C. Os motivos que levaram a Tradução do Novo Mundo a usar a expressão “o anjo de Jeová” no texto principal de Lu 1:11, apesar de os manuscritos gregos disponíveis usarem “o anjo do Senhor”, são explicados nos Apêndices C1 e C3.
+====
+
+[[v42-1-12]]
+
+^<<v42-1-12,12>>^ Zacarias, porém, ficou aflito ao vê-lo e foi tomado de medo.
+
+[[v42-1-13]]
+
+^<<v42-1-13,13>>^ No entanto, o anjo lhe disse: “Não tenha medo, Zacarias, porque as suas súplicas foram ouvidas, e sua esposa, Elisabete, lhe dará um filho, e você deve pôr nele o nome de João.
+
+[TIP]
+====
+- *João*: Veja a nota de estudo em Mt 3:1.
+====
+
+[[v42-1-14]]
+
+^<<v42-1-14,14>>^ Você terá alegria e grande felicidade, e muitos se alegrarão com o nascimento dele,
+
+[[v42-1-15]]
+
+^<<v42-1-15,15>>^ pois ele será grande aos olhos de Jeová. Mas ele não deve beber vinho nem outra bebida alcoólica, e ficará cheio de espírito santo mesmo antes do seu nascimento,^&#42;1^
+
+[NOTE]
+====
+. Ou: “desde o ventre de sua mãe”.
+====
+
+[TIP]
+====
+- *aos olhos de Jeová*: A expressão grega usada aqui, enópion Kyríou (lit.: “à vista do Senhor; diante do Senhor”), vem de uma expressão idiomática hebraica. Nas cópias disponíveis da Septuaginta, a expressão enópion Kyríou é usada mais de 100 vezes em traduções de frases onde o Tetragrama aparece no texto hebraico original. (Jz 11:11; 1Sa 10:19; 2Sa 5:3; 6:5) Esse histórico indica que a palavra Kýrios (Senhor) é usada aqui para substituir o nome de Deus. — Veja o Apêndice C3 (introdução e Lu 1:15).
+- *espírito santo*: Ou: “santa força ativa”. — Veja o Glossário, “Espírito santo”; “Espírito”.
+====
+
+[[v42-1-16]]
+
+^<<v42-1-16,16>>^ e fará muitos dos filhos de Israel voltar para Jeová, o Deus deles.
+
+[TIP]
+====
+- *Jeová*: Nos manuscritos das Escrituras Gregas Cristãs, a expressão traduzida aqui como Jeová, o Deus deles é uma combinação das palavras Kýrios (Senhor), Theós (Deus) e um pronome pessoal (neste caso, o pronome “deles”). Esse é um tipo de combinação comum em passagens das Escrituras Gregas Cristãs que citam trechos das Escrituras Hebraicas. (Compare com o uso da expressão “Jeová, seu Deus” em Lu 4:8, 12; 10:27.) Na verdade, a mensagem que o anjo transmitiu para Zacarias (versículos 13 a 17) contém várias expressões comuns nas Escrituras Hebraicas. Por exemplo, outra expressão usada neste versículo, os filhos de Israel, corresponde a uma expressão idiomática usada muitas vezes nas Escrituras Hebraicas, que significa “o povo de Israel” ou “os israelitas”. (Gên 36:31, nota de rodapé) Nas Escrituras Hebraicas a expressão “Jeová, o Deus deles” aparece mais de 30 vezes, ao passo que a expressão “o Senhor, o Deus deles” não aparece nenhuma vez. — Veja o Apêndice C3 (introdução e Lu 1:16).
+====
+
+[[v42-1-17]]
+
+^<<v42-1-17,17>>^ Também, irá na frente Dele com o espírito e o poder de Elias, para fazer o coração dos pais se tornar como o de filhos, e fazer os desobedientes se voltar para a sabedoria prática dos justos, a fim de aprontar para Jeová um povo preparado.”
+
+[TIP]
+====
+- *Elias*: Nome de origem hebraica que significa “meu Deus é Jeová”.
+- *para fazer o coração dos pais se tornar como o de filhos*: Ou: “para fazer o coração dos pais se voltar para os filhos”. Esta expressão, que é uma citação de Mal 4:6, não significa que haveria literalmente uma reconciliação entre pais e filhos. Na verdade, a mensagem de João levaria os pais ao arrependimento, tornando o seu coração como o de filhos obedientes, que são humildes e fáceis de ensinar. Algumas dessas pessoas se tornariam filhos de Deus. Malaquias também predisse que o coração dos filhos se tornaria como o dos pais, ou seja, que os homens que se arrependessem se tornariam fiéis e passariam a ser mais parecidos com seus “pais”, seus antepassados Abraão, Isaque e Jacó.
+- *aprontar para Jeová um povo preparado*: A mensagem que o anjo transmitiu para Zacarias (versículos 13-17) contém referências a passagens das Escrituras Hebraicas que usam o nome de Deus, como Mal 3:1; 4:5, 6 e Is 40:3. (Veja as notas de estudo em Lu 1:15, 16.) Uma expressão grega parecida com a que foi traduzida aqui como aprontar . . . um povo aparece na Septuaginta em 2Sa 7:24, onde o texto hebraico diz: “Estabeleceste teu povo Israel . . . , ó Jeová.” — Veja o Apêndice C3 (introdução e Lu 1:17).
+====
+
+[[v42-1-18]]
+
+^<<v42-1-18,18>>^ Zacarias disse ao anjo: “Como posso ter certeza disso? Pois sou idoso e minha esposa já é de idade bem avançada.”
+
+[[v42-1-19]]
+
+^<<v42-1-19,19>>^ Em resposta, o anjo lhe disse: “Eu sou Gabriel e estou diante de Deus; fui enviado para falar com você e lhe declarar estas boas novas.
+
+[TIP]
+====
+- *Gabriel*: Nome de origem hebraica que significa “um poderoso (vigoroso) de Deus”. (Da 8:15, 16) Os únicos anjos mencionados na Bíblia por nome são Miguel e Gabriel. Dos anjos que se materializaram, Gabriel foi o único que revelou seu nome.
+- *declarar estas boas novas*: O verbo grego usado aqui, euaggelízomai, está relacionado com o substantivo euaggélion, que significa “boas novas”. Nessa ocasião, o anjo Gabriel agiu como um evangelizador. — Veja as notas de estudo em Mt 4:23; 24:14; 26:13.
+====
+
+[[v42-1-20]]
+
+^<<v42-1-20,20>>^ Mas agora você ficará mudo e não poderá falar até o dia em que essas coisas ocorrerem, porque não acreditou nas minhas palavras, que se cumprirão no seu tempo determinado.”
+
+[[v42-1-21]]
+
+^<<v42-1-21,21>>^ Enquanto isso, o povo continuava à espera de Zacarias, e ficaram surpresos porque ele estava demorando muito no santuário.
+
+[[v42-1-22]]
+
+^<<v42-1-22,22>>^ Quando saiu, ele não conseguia falar com eles, e perceberam que ele havia acabado de ver algo sobrenatural^&#42;1^ no santuário. Ele lhes fazia sinais, mas permanecia mudo.
+
+[NOTE]
+====
+. Ou: “de ter uma visão”.
+====
+
+[[v42-1-23]]
+
+^<<v42-1-23,23>>^ Quando se completaram os dias do seu serviço sagrado, ele foi para casa.
+
+[TIP]
+====
+- *serviço sagrado*: Ou: “serviço público”. A palavra grega usada aqui, leitourgía, e as palavras relacionadas leitourgéo (prestar serviço público) e leitourgós (servidor público) eram usadas pelos gregos e romanos para se referir a serviços prestados ao governo ou a autoridades civis em benefício do povo. Por exemplo, Ro 13:6 usa o plural de leitourgós quando diz que os governantes “estão a serviço de Deus” (ou: “são servidores públicos de Deus”), porque eles prestam serviços em benefício do povo. Lucas usa aqui leitourgía da mesma maneira que ela e as palavras relacionadas são usadas na Septuaginta, onde com frequência se referem ao serviço que os sacerdotes e levitas prestavam no templo. (Êx 28:35; Núm 8:22) O serviço prestado no templo podia ser considerado um serviço público em benefício do povo. Mas ele também era um serviço sagrado porque os sacerdotes ensinavam a Lei de Deus e ofereciam sacrifícios para cobrir os pecados do povo. — 2Cr 15:3; Mal 2:7.
+====
+
+[[v42-1-24]]
+
+^<<v42-1-24,24>>^ Alguns dias depois, Elisabete, sua esposa, ficou grávida, e se manteve isolada por cinco meses; ela dizia:
+
+[[v42-1-25]]
+
+^<<v42-1-25,25>>^ “É assim que Jeová agiu comigo nestes dias. Ele voltou sua atenção para mim, para tirar a minha desonra entre as pessoas.”
+
+[TIP]
+====
+- *É assim que Jeová agiu comigo*: Ou: “É isso o que Jeová fez por mim”. As palavras de Elisabete ao expressar sua gratidão têm certa semelhança com as palavras usadas em Gên 21:1 para descrever o que aconteceu com Sara, e ali aparece o nome de Deus. O comentário de Elisabete sobre Deus ter tirado dela a desonra de não ter filhos faz lembrar as palavras de Raquel em Gên 30:23. — Veja o Apêndice C1 e o Apêndice C3 (introdução e Lu 1:25).
+====
+
+[[v42-1-26]]
+
+^<<v42-1-26,26>>^ No sexto mês dela, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré,
+
+[TIP]
+====
+- *No sexto mês dela*: Lit.: “No sexto mês”. Ou seja, no sexto mês da gravidez de Elisabete, como mostram os versículos 24 e 25.
+====
+
+[[v42-1-27]]
+
+^<<v42-1-27,27>>^ a uma virgem prometida em casamento a um homem chamado José, da casa de Davi; e o nome da virgem era Maria.
+
+[TIP]
+====
+- *prometida em casamento*: Veja a nota de estudo em Mt 1:18.
+- *Maria*: Nome grego que corresponde ao nome hebraico “Miriã”. As Escrituras Gregas Cristãs mencionam seis mulheres que se chamavam Maria: (1) A mãe de Jesus, (2) Maria Madalena (Mt 27:56; Lu 8:2; 24:10), (3) a mãe de Tiago e de Josés (Mt 27:56; Lu 24:10), (4) a irmã de Marta e de Lázaro (Lu 10:39; Jo 11:1), (5) a mãe de João Marcos (At 12:12) e (6) a Maria que morava em Roma (Ro 16:6). Nos dias de Jesus, Maria era um dos nomes femininos mais comuns.
+====
+
+[[v42-1-28]]
+
+^<<v42-1-28,28>>^ Entrando onde ela estava, o anjo lhe disse: “Olá, altamente favorecida, Jeová está com você!”
+
+[TIP]
+====
+- *Jeová está com você*: Esta e outras frases semelhantes que incluem o nome de Deus aparecem muitas vezes nas Escrituras Hebraicas. (Ru 2:4; 2Sa 7:3; 2Cr 15:2; Je 1:19) O anjo cumprimentou Maria usando palavras parecidas com as do anjo que cumprimentou Gideão, dizendo: “Jeová está com você, guerreiro valente.” — Jz 6:12; veja o Apêndice C1 e o Apêndice C3 (introdução e Lu 1:28).
+====
+
+[[v42-1-29]]
+
+^<<v42-1-29,29>>^ Mas ela ficou profundamente perturbada com as palavras dele e tentava entender o que poderia significar essa saudação.
+
+[[v42-1-30]]
+
+^<<v42-1-30,30>>^ De modo que o anjo lhe disse: “Não tenha medo, Maria, pois você achou favor diante de Deus.
+
+[[v42-1-31]]
+
+^<<v42-1-31,31>>^ E agora você ficará grávida^&#42;1^ e dará à luz um filho, e deve lhe dar o nome de Jesus.
+
+[NOTE]
+====
+. Ou: “conceberá no seu ventre”.
+====
+
+[TIP]
+====
+- *Jesus*: Veja a nota de estudo em Mt 1:21.
+====
+
+[[v42-1-32]]
+
+^<<v42-1-32,32>>^ Ele será grande e será chamado Filho do Altíssimo, e Jeová Deus lhe dará o trono de Davi, seu pai,
+
+[TIP]
+====
+- *Jeová Deus*: Conforme mencionado na nota de estudo em Lu 1:6, os dois primeiros capítulos de Lucas contêm muitas referências diretas e indiretas a expressões e passagens das Escrituras Hebraicas que usam o nome de Deus. As palavras do anjo sobre o trono de Davi são uma referência à promessa que Jeová fez a Davi por meio do profeta Natã, registrada em 2Sa 7:12, 13, 16. O Tetragrama aparece várias vezes no relato sobre essa promessa. (2Sa 7:4-16) Nas Escrituras Gregas Cristãs, a expressão grega traduzida aqui como “Jeová Deus” e outras expressões parecidas são usadas principalmente em citações das Escrituras Hebraicas e em textos que usam um estilo de linguagem típico do hebraico. — Veja a nota de estudo em Lu 1:16 e o Apêndice C3 (introdução e Lu 1:32).
+====
+
+[[v42-1-33]]
+
+^<<v42-1-33,33>>^ e ele será Rei sobre a casa de Jacó para sempre, e não haverá fim do seu Reino.”
+
+[[v42-1-34]]
+
+^<<v42-1-34,34>>^ Maria, porém, disse ao anjo: “Como isso vai acontecer, visto que não tenho relações com nenhum homem?”
+
+[[v42-1-35]]
+
+^<<v42-1-35,35>>^ O anjo lhe disse em resposta: “Espírito santo virá sobre você e poder do Altíssimo a cobrirá com a sua sombra. E, por essa razão, aquele que nascer será chamado santo, Filho de Deus.
+
+[[v42-1-36]]
+
+^<<v42-1-36,36>>^ E saiba que Elisabete, sua parenta, também vai ter um filho, na sua velhice, e este é o sexto mês para ela, a chamada estéril;
+
+[TIP]
+====
+- *sua parenta*: Nas Escrituras Gregas Cristãs, esta é única vez em que a palavra traduzida aqui como “parenta” aparece escrita dessa forma (syggenís). Nas outras vezes, ela aparece escrita de forma levemente diferente (syggenés). (Lu 1:58; 21:16; At 10:24; Ro 9:3) As duas formas eram usadas para se referir a parentes em geral, ou seja, pessoas que pertenciam ao mesmo clã ou que faziam parte da mesma família, mesmo que não fossem da família imediata. Maria e Elisabete eram parentes, mas a Bíblia não especifica o grau de parentesco entre elas. Como Zacarias e Elisabete eram da tribo de Levi, e José e Maria eram da tribo de Judá, pode ser que Maria e Elisabete fossem parentes distantes.
+====
+
+[[v42-1-37]]
+
+^<<v42-1-37,37>>^ pois não há nenhuma declaração de Deus que ele não possa cumprir.”
+
+[TIP]
+====
+- *não há nenhuma declaração de Deus que ele não possa cumprir*: Ou: “jamais uma palavra de Deus falhará”. Ou, possivelmente: “nada é impossível para Deus”. A palavra grega rhéma, traduzida aqui como “declaração”, pode se referir a “uma palavra; uma expressão; uma declaração”. Ela também pode se referir a “uma coisa; a coisa da qual se falou”, como um acontecimento, uma ação ou o resultado do que foi dito. Embora o texto grego possa ser traduzido de várias maneiras, o sentido básico permanece o mesmo: quando se trata de Deus e de suas promessas, nada é impossível. As palavras usadas aqui são parecidas com as da Septuaginta em Gên 18:14, onde Jeová garantiu para Abraão que a esposa dele, Sara, daria à luz Isaque, mesmo já sendo idosa.
+====
+
+[[v42-1-38]]
+
+^<<v42-1-38,38>>^ Maria disse então: “Eu sou a escrava de Jeová! Aconteça comigo segundo a sua declaração.” Com isso, o anjo saiu da presença dela.
+
+[TIP]
+====
+- *Eu sou a escrava de Jeová!*: Estas palavras de Maria são parecidas com as palavras de outros servos de Jeová que foram registradas nas Escrituras Hebraicas. Por exemplo, na oração registrada em 1Sa 1:11, Ana disse: “Ó Jeová dos exércitos, se olhares para a aflição da tua serva [ou: “escrava”].” A Septuaginta usa em 1Sa 1:11 a mesma palavra grega que foi traduzida como “escrava” aqui em Lucas. — Veja o Apêndice C3 (introdução e Lu 1:38).
+====
+
+[[v42-1-39]]
+
+^<<v42-1-39,39>>^ Naqueles dias, Maria partiu apressadamente para a região montanhosa, a uma cidade de Judá,
+
+[TIP]
+====
+- *partiu . . . para a região montanhosa*: A viagem de Nazaré (onde Maria morava) até as montanhas da Judeia talvez tenha levado de três a quatro dias, dependendo de onde ficava a cidade de Zacarias e Elisabete. Pode ser que a distância fosse de 100 quilômetros ou mais.
+====
+
+[[v42-1-40]]
+
+^<<v42-1-40,40>>^ e entrou na casa de Zacarias e cumprimentou Elisabete.
+
+[[v42-1-41]]
+
+^<<v42-1-41,41>>^ Pois bem, quando Elisabete ouviu o cumprimento de Maria, o bebê no seu ventre pulou, e Elisabete ficou cheia de espírito santo
+
+[[v42-1-42]]
+
+^<<v42-1-42,42>>^ e exclamou bem alto: “Abençoada é você entre as mulheres, e abençoado é o fruto do seu ventre!
+
+[TIP]
+====
+- *o fruto do seu ventre*: Ou: “a criança no seu útero”. A palavra grega traduzida aqui como “fruto” é karpós. Ela foi usada neste versículo junto com a palavra para “ventre” para se referir, em sentido figurado, a uma criança que ainda não nasceu. A expressão “fruto do ventre” vem de uma expressão idiomática hebraica que usa a palavra “fruto” para falar de descendentes, no sentido de serem o fruto, ou resultado, da reprodução humana. — Sal 127:3; Is 13:18; notas de rodapé em Gên 30:2; De 7:13; 28:4; Sal 132:11; La 2:20.
+====
+
+[[v42-1-43]]
+
+^<<v42-1-43,43>>^ Então, como é que eu tenho este privilégio, de que a mãe do meu Senhor venha ao meu encontro?
+
+[[v42-1-44]]
+
+^<<v42-1-44,44>>^ Pois, assim que o som do seu cumprimento chegou aos meus ouvidos, o bebê no meu ventre pulou de alegria.
+
+[[v42-1-45]]
+
+^<<v42-1-45,45>>^ E feliz é aquela que acreditou, porque as coisas que lhe foram faladas por Jeová se cumprirão plenamente.”
+
+[TIP]
+====
+- *por Jeová*: A mensagem que o anjo transmitiu a Maria vinha de Jeová Deus. A expressão grega pará Kyríou, traduzida aqui como “por Jeová”, aparece nas cópias disponíveis da Septuaginta como uma tradução de expressões hebraicas que geralmente incluem o nome de Deus. — Gên 24:50; Jz 14:4; 1Sa 1:20; Is 21:10; Je 11:1; 18:1; 21:1; veja o Apêndice C3 (introdução e Lu 1:45).
+====
+
+[[v42-1-46]]
+
+^<<v42-1-46,46>>^ Maria disse: “Minha alma magnifica a Jeová
+
+[TIP]
+====
+- *Maria disse*: As palavras de louvor de Maria, registradas nos versículos 46 a 55, contêm bem mais de 20 referências diretas e indiretas às Escrituras Hebraicas. Ela disse muitas coisas que fazem lembrar a oração de Ana, mãe de Samuel, que também recebeu de Jeová a bênção de ter um filho. (1Sa 2:1-10) Alguns outros exemplos de referências às Escrituras Hebraicas são Sal 35:9; Hab 3:18; Is 61:10 (versículo 47); Gên 30:13; Mal 3:12 (versículo 48); De 10:21; Sal 111:9 (versículo 49); Jó 12:19 (versículo 52); Sal 107:9 (versículo 53); Is 41:8, 9; Sal 98:3; 2Sa 22:51 (versículo 54); Is 41:8; Miq 7:20 (versículo 55). As palavras de Maria mostram que ela era uma pessoa espiritual e que conhecia bem as Escrituras. Mostram também que ela era uma pessoa grata e que tinha uma fé muito forte. Ela confiava em Jeová como alguém que rebaixa os arrogantes e os poderosos e que ajuda os humildes e os pobres que procuram servir a ele.
+- *Minha alma*: Ou: “Todo o meu ser”. A palavra grega psykhé, que foi traduzida como “alma” nas edições anteriores da Tradução do Novo Mundo, se refere aqui à pessoa como um todo. Neste contexto, a expressão grega para “minha alma” também poderia ser traduzida como “eu”. — Veja o Glossário, “Alma”.
+- *Minha alma magnifica a Jeová*: Ou: “Minha alma louva (proclama) a grandiosidade de Jeová”. Estas palavras de Maria fazem lembrar passagens das Escrituras Hebraicas como o Sal 34:3 e o Sal 69:30, onde o nome de Deus aparece no mesmo versículo ou no contexto. (Sal 69:31) Nesses versículos dos Salmos, a Septuaginta usa a mesma palavra grega traduzida aqui como “magnificar” (megalýno). — Veja a nota de estudo em Maria disse neste versículo e as notas de estudo em Lu 1:6, 25, 38 e o Apêndice C3 (introdução e Lu 1:46).
+====
+
+[[v42-1-47]]
+
+^<<v42-1-47,47>>^ e meu espírito não pode deixar de estar cheio de alegria por Deus, meu Salvador,
+
+[[v42-1-48]]
+
+^<<v42-1-48,48>>^ porque ele olhou para a condição humilde da sua escrava. Sim, de agora em diante todas as gerações me proclamarão feliz,
+
+[[v42-1-49]]
+
+^<<v42-1-49,49>>^ porque o Poderoso fez grandes ações por mim, e santo é o seu nome,
+
+[[v42-1-50]]
+
+^<<v42-1-50,50>>^ e de geração em geração sua misericórdia está sobre os que o temem.
+
+[[v42-1-51]]
+
+^<<v42-1-51,51>>^ Ele agiu poderosamente com o seu braço; dispersou os que têm planos arrogantes no coração.
+
+[[v42-1-52]]
+
+^<<v42-1-52,52>>^ Derrubou de tronos homens poderosos e enalteceu humildes;
+
+[[v42-1-53]]
+
+^<<v42-1-53,53>>^ saciou plenamente de coisas boas os famintos e mandou embora, de mãos vazias, os que tinham riqueza.
+
+[[v42-1-54]]
+
+^<<v42-1-54,54>>^ Ele veio em socorro de Israel, seu servo, lembrando-se da sua misericórdia eterna
+
+[[v42-1-55]]
+
+^<<v42-1-55,55>>^ a favor de Abraão e da sua descendência,^&#42;1^ assim como tinha prometido aos nossos antepassados.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v42-1-56]]
+
+^<<v42-1-56,56>>^ Maria ficou com ela cerca de três meses e depois voltou para a sua própria casa.
+
+[[v42-1-57]]
+
+^<<v42-1-57,57>>^ Chegou então o tempo para Elisabete dar à luz, e ela teve um filho.
+
+[[v42-1-58]]
+
+^<<v42-1-58,58>>^ E os vizinhos e os parentes dela ouviram que Jeová tinha lhe mostrado muita misericórdia, e eles se alegraram com ela.
+
+[TIP]
+====
+- *que Jeová tinha lhe mostrado muita misericórdia*: Ou: “que Jeová tinha magnificado a sua misericórdia”. Palavras semelhantes foram usadas em passagens das Escrituras Hebraicas, como Gên 19:18-20, onde Ló disse: “Jeová! . . . Tu me estás mostrando grande bondade [lit.: “Tu estás magnificando a tua bondade”].” — Veja o Apêndice C3 (introdução e Lu 1:58).
+====
+
+[[v42-1-59]]
+
+^<<v42-1-59,59>>^ No oitavo dia, foram circuncidar o menino, e iam dar a ele o nome do pai, Zacarias.
+
+[[v42-1-60]]
+
+^<<v42-1-60,60>>^ Mas a mãe dele disse: “Não! Ele se chamará João.”
+
+[[v42-1-61]]
+
+^<<v42-1-61,61>>^ Em vista disso, disseram-lhe: “Nenhum dos seus parentes tem esse nome.”
+
+[[v42-1-62]]
+
+^<<v42-1-62,62>>^ Perguntaram então ao pai dele, por sinais, como queria que o menino se chamasse.
+
+[[v42-1-63]]
+
+^<<v42-1-63,63>>^ Ele pediu uma tabuinha e escreveu: “O nome dele é João.” Em vista disso, todos ficaram admirados.
+
+[[v42-1-64]]
+
+^<<v42-1-64,64>>^ No mesmo instante, sua boca foi aberta e sua língua foi solta, e ele começou a falar, louvando a Deus.
+
+[[v42-1-65]]
+
+^<<v42-1-65,65>>^ E todos os que moravam na vizinhança deles ficaram com medo, e começou-se a falar sobre essas coisas em toda a região montanhosa da Judeia.
+
+[[v42-1-66]]
+
+^<<v42-1-66,66>>^ Todos os que ouviram guardaram isso no coração, dizendo: “O que será que esse menino vai ser?” Pois, de fato, a mão de Jeová estava com ele.
+
+[TIP]
+====
+- *mão*: Palavra usada muitas vezes para representar “poder”. Visto que o poder (força) do braço geralmente é aplicado por meio da mão, a palavra “mão” também passa a ideia de “poder aplicado”.
+- *mão de Jeová*: Esta expressão aparece muitas vezes nas Escrituras Hebraicas como uma combinação da palavra hebraica para “mão” com o Tetragrama. (Êx 9:3; Núm 11:23; Jz 2:15; Ru 1:13; 1Sa 5:6, 9; 7:13; 12:15; 1Rs 18:46; Esd 7:6; Jó 12:9; Is 19:16; 40:2; Ez 1:3) A expressão grega traduzida aqui como “mão de Jeová” também aparece em At 11:21; 13:11. — Veja as notas de estudo em Lu 1:6, 9; At 11:21 e o Apêndice C3 (introdução e Lu 1:66).
+====
+
+[[v42-1-67]]
+
+^<<v42-1-67,67>>^ Então Zacarias, seu pai, ficou cheio de espírito santo e profetizou, dizendo:
+
+[[v42-1-68]]
+
+^<<v42-1-68,68>>^ “Louvado seja Jeová, o Deus de Israel, porque voltou a sua atenção para o seu povo e lhe trouxe livramento.
+
+[TIP]
+====
+- *Louvado seja Jeová*: Ou: “Bendito seja Jeová”. Essa expressão de louvor é comum nas Escrituras Hebraicas e muitas vezes é usada com o nome de Deus. — 1Sa 25:32; 1Rs 1:48; 8:15; Sal 41:13; 72:18; 106:48; veja o Apêndice C3 (introdução e Lu 1:68).
+====
+
+[[v42-1-69]]
+
+^<<v42-1-69,69>>^ E ele fez surgir para nós um poderoso salvador na casa de Davi, seu servo,
+
+[TIP]
+====
+- *um poderoso salvador*: Lit.: “um chifre de salvação”. A Bíblia muitas vezes usa a palavra “chifre” para representar força, poder, conquista e vitória. (Veja as notas de rodapé em 1Sa 2:1; Sal 75:4, 5, 10; 148:14.) Além disso, governantes e dinastias de governantes, tanto justos como maus, são representados por chifres, e suas conquistas são comparadas a chifradas. (De 33:17; Da 7:24; 8:2-10, 20-24) Neste contexto, a expressão “um poderoso salvador” se refere ao Messias. — Veja o Glossário, “Chifre”.
+====
+
+[[v42-1-70]]
+
+^<<v42-1-70,70>>^ assim como tinha falado pela boca dos seus santos profetas da antiguidade,
+
+[[v42-1-71]]
+
+^<<v42-1-71,71>>^ para nos salvar dos nossos inimigos e das mãos de todos os que nos odeiam,
+
+[[v42-1-72]]
+
+^<<v42-1-72,72>>^ para mostrar misericórdia com relação aos nossos antepassados e para lembrar o Seu santo pacto,
+
+[[v42-1-73]]
+
+^<<v42-1-73,73>>^ o juramento que Ele fez a Abraão, nosso antepassado,
+
+[[v42-1-74]]
+
+^<<v42-1-74,74>>^ de nos conceder, depois de termos sido resgatados das mãos dos inimigos, o privilégio de lhe prestar destemidamente serviço sagrado
+
+[TIP]
+====
+- *lhe prestar . . . serviço sagrado*: Ou: “adorar . . . a ele”. A palavra grega usada aqui, latreúo, tem o sentido básico de “servir”. Na Bíblia, ela se refere a prestar serviço a Deus, a trabalhar em coisas relacionadas com a adoração dele (Mt 4:10; Lu 2:37; 4:8; At 7:7; Ro 1:9; Fil 3:3; 2Ti 1:3; He 9:14; 12:28; Ap 7:15; 22:3), ou a realizar serviços no santuário ou no templo (He 8:5; 9:9; 10:2; 13:10). Por isso, em certos contextos essa expressão pode ser traduzida como “adorar”. Em alguns poucos casos, essa palavra é usada com relação à adoração falsa, ou seja, a servir ou adorar coisas criadas. — At 7:42; Ro 1:25.
+====
+
+[[v42-1-75]]
+
+^<<v42-1-75,75>>^ com lealdade e justiça, diante dele, todos os nossos dias.
+
+[[v42-1-76]]
+
+^<<v42-1-76,76>>^ Mas, quanto a você, menino, será chamado profeta do Altíssimo, pois irá na frente de Jeová para preparar os caminhos dele,
+
+[TIP]
+====
+- *Jeová*: As palavras proféticas de Zacarias na segunda parte deste versículo são parecidas com as registradas em Is 40:3 e Mal 3:1, onde aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). — Veja as notas de estudo em Lu 1:6, 16, 17; 3:4 e o Apêndice C3 (introdução e Lu 1:76).
+- *você . . . irá na frente de Jeová*: João Batista ‘iria na frente de Jeová’ no sentido de que prepararia o caminho para Jesus, que viria em nome de seu Pai e serviria como representante dele. — Jo 5:43; 8:29; veja a nota de estudo em Jeová neste versículo.
+====
+
+[[v42-1-77]]
+
+^<<v42-1-77,77>>^ para dar ao Seu povo conhecimento da salvação por meio do perdão dos pecados deles,
+
+[[v42-1-78]]
+
+^<<v42-1-78,78>>^ por causa da terna compaixão do nosso Deus. Por causa dessa compaixão, um amanhecer nos visitará do alto,
+
+[[v42-1-79]]
+
+^<<v42-1-79,79>>^ para dar luz aos sentados na escuridão e na sombra da morte e para guiar nossos pés no caminho da paz.”
+
+[[v42-1-80]]
+
+^<<v42-1-80,80>>^ E o menino cresceu e se tornou forte em espírito. E ele continuou no deserto até o dia em que se mostrou abertamente a Israel.
+
+[TIP]
+====
+- *deserto*: Veja o Glossário.
+- *o dia em que se mostrou abertamente a Israel*: Referindo-se ao tempo em que João Batista iniciou seu ministério público, o que aconteceu por volta de abril de 29 d.C. — Veja as notas de estudo em Mr 1:9; Lu 3:1, 23.
+====
+
+'''
+
+xref:041-marcos/041-marcos-016.adoc#v41-16-0[&#60; Capítulo Anterior] | <<v42-1-0,Topo>> | xref:042-lucas/042-lucas-002.adoc#v42-2-0[Próximo Capítulo &#62;]

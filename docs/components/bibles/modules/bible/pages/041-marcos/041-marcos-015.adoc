@@ -1,0 +1,422 @@
+include::./index.adoc[]
+
+[[v41-15-0]]
+=== As Boas Novas Segundo Marcos, 15
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* H. Última Páscoa de Jesus na Terra e outros acontecimentos do dia 14 de nisã (14:17–15:41)
+* “Ai daquele que trai o Filho do Homem!” (14:17-21)
+* Jesus realiza a primeira Ceia do Senhor (14:22-26)
+* Jesus prediz que Pedro vai negá-lo (14:27-31)
+* Jesus ora em Getsêmani (14:32-42)
+* Jesus é detido, e os discípulos fogem (14:43-52)
+* Julgamento no Sinédrio (14:53-65)
+* Pedro nega Jesus três vezes e chora (14:66-72)
+* Pilatos interroga Jesus (15:1-15)
+* Soldados zombam de Jesus (15:16-20)
+* Jesus é pregado numa estaca em Gólgota (15:21-32)
+* Jesus morre (15:33-41)
+* I. Jesus é sepultado e ressuscitado (15:42–16:8)
+* José de Arimateia e o sepultamento de Jesus (15:42-47)
+* Mulheres encontram o túmulo vazio (16:1-8)
+****
+
+[[v41-15-1]]
+
+^<<v41-15-1,1>>^ Logo ao amanhecer, os principais sacerdotes, com os anciãos e os escribas, sim, o Sinédrio inteiro, se reuniram para decidir o que fazer; depois amarraram Jesus, o levaram e o entregaram a Pilatos.
+
+[TIP]
+====
+- *Sinédrio*: Veja a nota de estudo em Mt 26:59.
+- *Pilatos*: Governador romano (também chamado de prefeito) da Judeia nomeado pelo imperador Tibério em 26 d.C. Seu governo durou cerca de dez anos. Pilatos não é mencionado apenas na Bíblia, mas também nas obras de outros escritores. Por exemplo, o historiador romano Tácito escreveu que Pilatos ordenou a execução de Cristo durante o reinado de Tibério. Além disso, no antigo teatro romano em Cesareia, Israel, foi encontrada uma inscrição em latim com as palavras: “Pôncio Pilatos, Prefeito da Judeia”. — Veja as regiões governadas por Pôncio Pilatos no Apêndice B10.
+====
+
+[[v41-15-2]]
+
+^<<v41-15-2,2>>^ Então Pilatos lhe perguntou: “Você é o Rei dos judeus?” Em resposta ele disse: “O senhor mesmo está dizendo isso.”
+
+[TIP]
+====
+- *Você é o Rei dos judeus?*: Veja a nota de estudo em Mt 27:11.
+- *O senhor mesmo está dizendo isso*: Veja a nota de estudo em Mt 27:11.
+====
+
+[[v41-15-3]]
+
+^<<v41-15-3,3>>^ Mas os principais sacerdotes o estavam acusando de muitas coisas.
+
+[[v41-15-4]]
+
+^<<v41-15-4,4>>^ Então Pilatos voltou a interrogá-lo, dizendo: “Você não tem nenhuma resposta para dar? Veja quantas acusações levantam contra você.”
+
+[[v41-15-5]]
+
+^<<v41-15-5,5>>^ Mas Jesus não deu mais nenhuma resposta, de modo que Pilatos ficou surpreso.
+
+[[v41-15-6]]
+
+^<<v41-15-6,6>>^ Pois bem, por ocasião da festividade,^&#42;1^ ele costumava soltar um preso, aquele que pedissem.
+
+[NOTE]
+====
+. Ou: “em toda festividade”.
+====
+
+[TIP]
+====
+- *costumava soltar um preso*: Os quatro Evangelhos falam sobre a libertação de Barrabás. (Mt 27:15-​23; Lu 23:16-​25; Jo 18:39, 40) Não existe base nem precedente nas Escrituras Hebraicas para o costume de soltar um preso, mas parece que nos dias de Jesus isso já tinha se tornado uma tradição para os judeus. Esse costume não seria estranho para os romanos, pois há evidências de que eles libertavam prisioneiros para agradar as multidões.
+====
+
+[[v41-15-7]]
+
+^<<v41-15-7,7>>^ Naquela ocasião o homem chamado Barrabás estava na prisão com os rebeldes que, na sua rebelião, haviam cometido assassinato.
+
+[[v41-15-8]]
+
+^<<v41-15-8,8>>^ Assim, a multidão se aproximou e começou a pedir que Pilatos fizesse para eles o que costumava fazer.
+
+[[v41-15-9]]
+
+^<<v41-15-9,9>>^ Em vista disso, ele lhes perguntou: “Querem que eu solte o Rei dos judeus?”
+
+[[v41-15-10]]
+
+^<<v41-15-10,10>>^ Pois Pilatos sabia que os principais sacerdotes o tinham entregado por inveja.
+
+[[v41-15-11]]
+
+^<<v41-15-11,11>>^ Mas os principais sacerdotes atiçaram a multidão para que, em vez disso, soltasse Barrabás.
+
+[[v41-15-12]]
+
+^<<v41-15-12,12>>^ Então, Pilatos novamente lhes perguntou: “O que, então, devo fazer com aquele a quem vocês chamam de Rei dos judeus?”
+
+[[v41-15-13]]
+
+^<<v41-15-13,13>>^ Mais uma vez gritaram: “Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Execute-o na estaca!”
+====
+
+[TIP]
+====
+- *Mais uma vez*: O texto de Lu 23:18-​23 mostra que a multidão gritou pelo menos três vezes exigindo que Pilatos condenasse Jesus à morte. O relato aqui em Marcos indica que Pilatos perguntou três vezes à multidão sobre o que deveria fazer com Jesus. — Mr 15:​9, 12, 14.
+====
+
+[[v41-15-14]]
+
+^<<v41-15-14,14>>^ Mas Pilatos lhes disse: “Por quê? O que ele fez de mau?” Contudo, gritaram ainda mais: “Para a estaca com ele!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Execute-o na estaca!”
+====
+
+[[v41-15-15]]
+
+^<<v41-15-15,15>>^ Assim, desejando satisfazer a multidão, Pilatos soltou Barrabás; e, depois de mandar que Jesus fosse chicoteado, entregou-o para ser morto na estaca.
+
+[TIP]
+====
+- *chicoteado*: Veja a nota de estudo em Mt 27:26.
+====
+
+[[v41-15-16]]
+
+^<<v41-15-16,16>>^ Os soldados o levaram então para o pátio da residência do governador, e convocaram todo o grupo de soldados.
+
+[TIP]
+====
+- *residência do governador*: Veja a nota de estudo em Mt 27:27.
+====
+
+[[v41-15-17]]
+
+^<<v41-15-17,17>>^ Eles o vestiram de púrpura, trançaram uma coroa de espinhos e a puseram nele;
+
+[TIP]
+====
+- *eles o vestiram de púrpura*: Os soldados fizeram isso para zombar de Jesus e da ideia de que ele era um rei. O relato de Mateus (27:28) diz que os soldados puseram em Jesus “um manto escarlate”, uma peça de roupa usada por reis, magistrados e oficiais militares. Tanto o relato de Marcos como o relato de João (19:2) dizem que a cor do manto era púrpura, mas nos tempos antigos a palavra “púrpura” era usada para descrever qualquer cor que fosse uma mistura de vermelho e azul. Além disso, o observador poderia ter uma noção diferente de qual era a cor exata dependendo do seu ângulo de visão, do reflexo da luz e do que estivesse no fundo. Essa diferença no modo de descrever a cor mostra que os escritores dos Evangelhos não fizeram simples cópias do relato um do outro.
+- *coroa*: Além do manto púrpura (mencionado neste versículo), os soldados zombaram de Jesus por dar a ele “uma cana” (Mt 27:29) e uma coroa de espinhos, como se fossem o cetro e a coroa de um rei.
+====
+
+[[v41-15-18]]
+
+^<<v41-15-18,18>>^ e começaram a lhe dizer: “Salve, Rei dos judeus!”
+
+[TIP]
+====
+- *Salve*: Veja a nota de estudo em Mt 27:29.
+====
+
+[[v41-15-19]]
+
+^<<v41-15-19,19>>^ Também, bateram-lhe na cabeça com uma cana e cuspiram nele; então se ajoelharam diante dele e se curvaram.
+
+[TIP]
+====
+- *cuspiram nele*: Essa demonstração de desprezo cumpriu as palavras do próprio Jesus em Mr 10:34 e também a profecia sobre o Messias registrada em Is 50:6. — Veja a nota de estudo em Mr 10:34.
+- *se curvaram*: Ou: “prestaram homenagem”. Aqui o verbo grego proskynéo é usado para falar dos soldados que, para zombar de Jesus, se curvaram diante dele e o chamaram de “Rei dos judeus”. — Mr 15:18; veja a nota de estudo em Mt 2:2.
+====
+
+[[v41-15-20]]
+
+^<<v41-15-20,20>>^ Por fim, depois de terem zombado dele, tiraram-lhe as roupas púrpura e puseram de volta nele suas roupas. E o levaram para fora, para pregá-lo na estaca.
+
+[TIP]
+====
+- *pregá-lo na estaca*: Ou: “prendê-lo numa estaca (num poste)”. — Veja a nota de estudo em Mt 20:19 e o Glossário, “Madeiro; Estaca”; “Estaca de tortura”.
+====
+
+[[v41-15-21]]
+
+^<<v41-15-21,21>>^ Também, um homem passava por ali, vindo do campo, certo Simão de Cirene, pai de Alexandre e de Rufo. Eles o obrigaram a prestar serviço carregando^&#42;1^ a estaca.
+
+[NOTE]
+====
+. Ou: “levantando”.
+====
+
+[TIP]
+====
+- *Cirene*: Veja a nota de estudo em Mt 27:32.
+- *pai de Alexandre e de Rufo*: Marcos é o único Evangelho que menciona esse detalhe sobre Simão de Cirene.
+- *obrigaram a prestar serviço*: Essa é uma referência ao serviço obrigatório que as autoridades romanas podiam exigir de um cidadão. Por exemplo, elas podiam exigir que um homem fizesse algum trabalho ou que cedesse um animal ou qualquer outra coisa que fosse necessária para cuidar de modo mais eficiente de um assunto oficial. — Veja a nota de estudo em Mt 5:​41.
+- *estaca*: Veja a nota de estudo em Mt 27:32.
+====
+
+[[v41-15-22]]
+
+^<<v41-15-22,22>>^ Assim, levaram-no ao lugar chamado Gólgota, que traduzido significa “lugar da caveira”.
+
+[TIP]
+====
+- *Gólgota*: Veja a nota de estudo em Mt 27:33.
+- *lugar da caveira*: Em grego, Kraníou Tópos. Essa expressão grega é usada como tradução da palavra hebraica Golgotha. (Veja as notas de estudo em Jo 19:17.) No relato paralelo em Lu 23:33, várias Bíblias em português usam a palavra “Calvário”. Ela vem da palavra latina para “crânio”, calvaria, que é usada na Vulgata.
+====
+
+[[v41-15-23]]
+
+^<<v41-15-23,23>>^ Ali tentaram lhe dar vinho misturado com uma droga, mirra, mas ele não quis tomá-lo.
+
+[TIP]
+====
+- *vinho misturado com uma droga, mirra*: O relato paralelo em Mt 27:34 diz que o vinho estava “misturado com fel”. É provável que o vinho tivesse as duas substâncias: mirra e fel. Tudo indica que aquela mistura era dada para aliviar a dor. — Veja a nota de estudo em ele não quis tomá-lo neste versículo e a nota de estudo em Mt 27:34.
+- *ele não quis tomá-lo*: Pelo visto, Jesus queria estar totalmente lúcido durante esse teste de fé.
+====
+
+[[v41-15-24]]
+
+^<<v41-15-24,24>>^ E o pregaram na estaca e repartiram suas roupas, lançando sortes para decidir quem ficaria com o quê.
+
+[TIP]
+====
+- *repartiram suas roupas*: Veja a nota de estudo em Mt 27:35.
+- *lançando sortes*: Veja o Glossário, “Sortes”.
+====
+
+[[v41-15-25]]
+
+^<<v41-15-25,25>>^ Era então a terceira hora quando o pregaram na estaca.
+
+[TIP]
+====
+- *a terceira hora*: Ou seja, por volta das 9 horas da manhã. Alguns apontam para uma aparente contradição entre este relato e Jo 19:14-​16, que diz que foi “por volta da sexta hora” que Pilatos entregou Jesus para ser executado, ou morto. Embora as Escrituras não expliquem claramente o motivo dessa diferença, deve-se levar em conta o seguinte: De modo geral, os Evangelhos concordam entre si ao relatar o horário dos acontecimentos durante o último dia de Jesus na Terra. Por exemplo, os quatro Evangelhos indicam que os sacerdotes e os anciãos se reuniram depois do amanhecer e então encaminharam Jesus para o governador romano Pôncio Pilatos. (Mt 27:​1, 2; Mr 15:1; Lu 22:⁠66–​23:1; Jo 18:28) Mateus, Marcos e Lucas relatam que, quando Jesus já estava na estaca, caiu uma escuridão sobre a terra da “sexta hora . . . até a nona hora”. (Mt 27:45, 46; Mr 15:33, 34; Lu 23:44) Quanto à hora da execução de Jesus, um fator a ser levado em conta é que alguns consideravam o açoitamento como parte do processo de execução. Algumas vítimas eram açoitadas tão cruelmente que acabavam morrendo. O açoitamento de Jesus foi tão severo que ele não aguentou carregar sua estaca de tortura sozinho até o fim do percurso. (Lu 23:26; Jo 19:17) É interessante que tanto Mt 27:26 como Mr 15:15 mencionam o açoitamento junto com a execução na estaca. Se alguém considerasse o açoitamento como o início do processo de execução, então, para essa pessoa, a execução teria começado algum tempo antes de Jesus ter sido realmente pregado na estaca. Assim, pessoas diferentes poderiam dar horários diferentes para o início da execução. Essa diferença de pontos de vista pode ajudar a explicar por que Pilatos aparentemente achou que Jesus ainda não tinha morrido quando pediram o seu corpo. Fazia relativamente pouco tempo que Jesus tinha sido pregado na estaca e, para Pilatos, a execução talvez estivesse apenas começando. (Mr 15:44, 45) Outro fator a ser levado em conta é que os escritores da Bíblia geralmente seguiam o costume de dividir tanto o dia como a noite em quatro períodos de três horas cada. Esse costume explica por que eles faziam tantas referências à terceira, à sexta e à nona hora. Essas horas eram contadas a partir do nascer do sol, por volta das 6 da manhã. Ao registrar o horário dos acontecimentos, eles costumavam usar esses horários aproximados. (Mt 20:​1-5; Jo 4:6; At 2:​15; 3:1; 10:​3, 9, 30) Além disso, as pessoas em geral não tinham instrumentos precisos para marcar o tempo. Por isso muitas vezes os horários eram acompanhados da expressão ‘por volta de’, como em Jo 19:14. (Mt 27:46; Lu 23:44; Jo 4:6; At 10:​3, 9) Resumindo: Marcos talvez estivesse se referindo ao horário em que o processo começou, incluindo Jesus ser açoitado e depois pregado na estaca, e João pode ter se referido apenas ao horário em que Jesus foi pregado na estaca. Os dois escritores podem ter arredondado esses horários para o período de três horas mais próximo, e João usou ‘por volta de’ ao indicar o horário. Esses fatores podem explicar a diferença entre os horários mencionados nos Evangelhos. E o fato de o Evangelho de João, escrito décadas depois, mencionar um horário diferente de Marcos mostra que João não fez uma simples cópia do relato de Marcos.
+====
+
+[[v41-15-26]]
+
+^<<v41-15-26,26>>^ E a inscrição da acusação contra ele dizia: “O Rei dos judeus”.
+
+[[v41-15-27]]
+
+^<<v41-15-27,27>>^ Além disso, penduraram dois ladrões em estacas ao lado dele, um à sua direita e outro à sua esquerda.
+
+[TIP]
+====
+- *ladrões*: Veja a nota de estudo em Mt 27:38.
+====
+
+[[v41-15-28]]
+
+^<<v41-15-28,28>>^ ——
+
+[TIP]
+====
+- *Alguns poucos manuscritos acrescentam aqui as palavras “e se cumpriu a passagem das Escrituras que diz*: ‘E ele foi contado entre os transgressores’”, citando parte de Is 53:12. Mas essas palavras não aparecem nos manuscritos mais antigos e mais confiáveis, e pelo visto não fazem parte do texto original de Marcos. Uma frase semelhante aparece no relato inspirado em Lu 22:37. Estudiosos acham que algum copista inseriu em Marcos a ideia encontrada no relato de Lucas. — Veja o Apêndice A3.
+====
+
+[[v41-15-29]]
+
+^<<v41-15-29,29>>^ E os que passavam o insultavam, balançando a cabeça e dizendo: “Ah! você que ia derrubar o templo e construí-lo em três dias,
+
+[TIP]
+====
+- *balançando a cabeça*: Veja a nota de estudo em Mt 27:39.
+====
+
+[[v41-15-30]]
+
+^<<v41-15-30,30>>^ salve a si mesmo, descendo da estaca.”
+
+[TIP]
+====
+- *estaca*: Veja a nota de estudo em Mt 27:32.
+====
+
+[[v41-15-31]]
+
+^<<v41-15-31,31>>^ Do mesmo modo, também os principais sacerdotes junto com os escribas zombavam dele entre si, dizendo: “A outros ele salvou; a si mesmo não pode salvar!
+
+[[v41-15-32]]
+
+^<<v41-15-32,32>>^ Que o Cristo, o Rei de Israel, desça agora da estaca, para que vejamos e possamos crer.” Até os que estavam em estacas ao lado dele o insultavam.
+
+[TIP]
+====
+- *estaca*: Veja a nota de estudo em Mt 27:32.
+====
+
+[[v41-15-33]]
+
+^<<v41-15-33,33>>^ Quando chegou a sexta hora, caiu uma escuridão sobre toda aquela terra,^&#42;1^ até a nona hora.
+
+[NOTE]
+====
+. Lit.: “toda a terra”.
+====
+
+[TIP]
+====
+- *a sexta hora*: Ou seja, por volta do meio-dia. — Veja a nota de estudo em Mt 20:3.
+- *uma escuridão*: O relato paralelo em Lucas acrescenta que “a luz do sol falhou”. (Lu 23:44, 45) Essa escuridão foi um milagre da parte de Deus. Não pode ter sido causada por um eclipse solar, que só acontece na lua nova. Era a época da Páscoa, quando a lua é cheia. Além disso, essa escuridão durou três horas, muito mais do que a duração máxima de um eclipse solar total, que é de menos de oito minutos.
+- *a nona hora*: Ou seja, por volta das 3 horas da tarde. — Veja a nota de estudo em Mt 20:3.
+====
+
+[[v41-15-34]]
+
+^<<v41-15-34,34>>^ E à nona hora, Jesus clamou em alta voz: “Eli, Eli, lama sabactâni?”, que traduzido significa: “Deus meu, Deus meu, por que me abandonaste?”
+
+[TIP]
+====
+- *Eli, Eli, lama sabactâni?*: Veja a nota de estudo em Mt 27:46.
+- *Deus meu, Deus meu*: Veja a nota de estudo em Mt 27:46.
+====
+
+[[v41-15-35]]
+
+^<<v41-15-35,35>>^ E, ouvindo isso, alguns dos que estavam por perto disseram: “Vejam! Ele está chamando Elias.”
+
+[TIP]
+====
+- *Elias*: Nome de origem hebraica que significa “meu Deus é Jeová”.
+====
+
+[[v41-15-36]]
+
+^<<v41-15-36,36>>^ Então alguém correu, ensopou uma esponja em vinho acre, colocou-a numa cana e deu a ele para beber, dizendo: “Deixem-no! Vamos ver se Elias vem tirá-lo dali.”
+
+[TIP]
+====
+- *vinho acre*: Veja a nota de estudo em Mt 27:48.
+- *cana*: Veja a nota de estudo em Mt 27:48.
+====
+
+[[v41-15-37]]
+
+^<<v41-15-37,37>>^ Mas Jesus deu um alto grito e morreu.
+
+[TIP]
+====
+- *morreu*: Ou: “expirou; deu seu último suspiro”. — Veja a nota de estudo em Mt 27:50.
+====
+
+[[v41-15-38]]
+
+^<<v41-15-38,38>>^ E a cortina do santuário se rasgou em duas, de alto a baixo.
+
+[TIP]
+====
+- *cortina*: Veja a nota de estudo em Mt 27:51.
+- *santuário*: Veja a nota de estudo em Mt 27:51.
+====
+
+[[v41-15-39]]
+
+^<<v41-15-39,39>>^ Então, quando o oficial do exército que estava ali diante dele viu que ele tinha morrido nessas circunstâncias, disse: “Certamente este homem era o Filho de Deus.”^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “um filho de Deus; um filho de um deus”.
+====
+
+[TIP]
+====
+- *oficial do exército*: Ou: “centurião”, um oficial que comandava cerca de 100 soldados do exército romano. Esse oficial de alta patente talvez estivesse presente no julgamento de Jesus diante de Pilatos e pode ter ouvido os judeus dizerem que Jesus afirmou ser o Filho de Deus. (Mr 15:16; Jo 19:7) Marcos usa aqui a palavra grega kentyríon. Essa palavra vem do latim e também é usada em Mr 15:44, 45. — Veja a “Introdução a Marcos” e as notas de estudo em Mr 6:​27; Jo 19:20.
+====
+
+[[v41-15-40]]
+
+^<<v41-15-40,40>>^ Havia também mulheres observando de certa distância; entre elas estavam Maria Madalena, Maria, mãe de Tiago, o Menor, e de Josés, e Salomé.
+
+[TIP]
+====
+- *Maria Madalena*: Veja a nota de estudo em Mt 27:56.
+- *Tiago, o Menor*: Apóstolo de Jesus e filho de Alfeu. (Mt 10:​2, 3; Mr 3:​18; Lu 6:​15; At 1:​13) A descrição “o Menor” talvez indique que esse Tiago era mais novo ou mais baixo que o outro apóstolo Tiago, o filho de Zebedeu.
+- *Josés*: Nome de origem hebraica, uma forma mais curta de Josifias, que significa “que Jah acrescente (aumente); Jah acrescentou (aumentou)”. Alguns poucos manuscritos usam aqui o nome “José”, mas a maioria dos manuscritos mais antigos diz “Josés”. — Compare com o relato paralelo em Mt 27:56.
+- *Salomé*: Nome que provavelmente vem de uma palavra hebraica que significa “paz”. Salomé era discípula de Jesus. O relato paralelo em Mt 27:56 parece indicar que a “Salomé” mencionada aqui em Mr 15:40 era “a mãe dos filhos de Zebedeu”, ou seja, de Tiago e João (Mr 3:17). Comparando essas informações com Jo 19:25, é possível que Salomé fosse irmã de Maria, mãe de Jesus. Se esse for o caso, Tiago e João eram primos em primeiro grau de Jesus. Além disso, os textos de Mt 27:55, 56; Mr 15:41 e Lu 8:3 indicam que Salomé era uma das mulheres que acompanhavam Jesus e o ajudavam usando os recursos que tinham.
+====
+
+[[v41-15-41]]
+
+^<<v41-15-41,41>>^ Essas mulheres o acompanhavam e serviam quando ele estava na Galileia. Também estavam ali muitas outras mulheres que tinham ido com ele a Jerusalém.
+
+[[v41-15-42]]
+
+^<<v41-15-42,42>>^ Então, visto que a tarde já estava avançada e era o dia da Preparação, isto é, o dia antes do sábado,
+
+[TIP]
+====
+- *o dia da Preparação*: Como Marcos muito provavelmente escreveu pensando principalmente em leitores não judeus, ele explica que o “dia da Preparação” se refere ao dia antes do sábado, um detalhe que não foi incluído nos outros Evangelhos. (Mt 27:62; Lu 23:54; Jo 19:31) Nesse dia, os judeus se preparavam deixando prontas refeições para o sábado e finalizando qualquer trabalho que não pudesse esperar até depois do sábado. Nessa ocasião, o dia da Preparação caiu em 14 de nisã. — Veja o Glossário.
+====
+
+[[v41-15-43]]
+
+^<<v41-15-43,43>>^ chegou José de Arimateia, membro bem-conceituado do Conselho, que também aguardava o Reino de Deus. Ele tomou coragem, compareceu perante Pilatos e pediu o corpo de Jesus.
+
+[TIP]
+====
+- *José*: Cada escritor dos Evangelhos tinha seu próprio estilo, e isso fica evidente nos detalhes que eles deram ao descrever José de Arimateia. Mateus, um cobrador de impostos, diz que José era “um homem rico”. Marcos, escrevendo para os romanos, diz que ele era um “membro bem-conceituado do Conselho” que aguardava o Reino de Deus. Lucas, um médico bondoso, diz que José “era um homem bom e justo” e que ele não tinha votado em apoio da ação do Conselho contra Jesus. E apenas João relata que ele era “discípulo de Jesus, mas secretamente, pois tinha medo dos judeus”. — Mt 27:57-​60; Mr 15:43-​46; Lu 23:50-​53; Jo 19:38-​42.
+- *Arimateia*: Veja a nota de estudo em Mt 27:57.
+- *membro . . . do Conselho*: Ou: “conselheiro”, ou seja, membro do Sinédrio, o supremo tribunal judaico em Jerusalém. — Veja a nota de estudo em Mt 26:59 e o Glossário, “Sinédrio”.
+====
+
+[[v41-15-44]]
+
+^<<v41-15-44,44>>^ Mas Pilatos quis saber se ele já estava morto e, convocando o oficial do exército, lhe perguntou se Jesus já tinha morrido.
+
+[[v41-15-45]]
+
+^<<v41-15-45,45>>^ Assim, depois de se certificar por meio do oficial do exército, concedeu o corpo a José.
+
+[[v41-15-46]]
+
+^<<v41-15-46,46>>^ José comprou linho fino e tirou o corpo da estaca; depois o enrolou no linho fino e o colocou num túmulo que tinha sido aberto na rocha. Então rolou uma pedra até a entrada do túmulo.
+
+[TIP]
+====
+- *túmulo*: Veja a nota de estudo em Mt 27:60.
+- *uma pedra*: Devia ser uma pedra circular, já que este versículo diz que ela foi ‘rolada’ para fechar o túmulo e Mr 16:4 diz que, quando Jesus foi ressuscitado, ela tinha sido “rolada” para abrir o túmulo. Essa pedra talvez pesasse uma tonelada ou mais. O relato de Mateus a descreve como “uma grande pedra”. — Mt 27:60.
+====
+
+[[v41-15-47]]
+
+^<<v41-15-47,47>>^ Mas Maria Madalena e Maria, a mãe de Josés, ficaram olhando para onde ele tinha sido colocado.
+
+'''
+
+xref:041-marcos/041-marcos-014.adoc#v41-14-0[&#60; Capítulo Anterior] | <<v41-15-0,Topo>> | xref:041-marcos/041-marcos-016.adoc#v41-16-0[Próximo Capítulo &#62;]

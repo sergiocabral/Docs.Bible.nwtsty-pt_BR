@@ -1,0 +1,359 @@
+include::./index.adoc[]
+
+[[v42-7-0]]
+=== As Boas Novas Segundo Lucas, 7
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* G. Jesus continua seu ministério na Galileia e inclui outras regiões (7:1–9:50)
+* Oficial do exército demonstra fé (7:1-10)
+* Jesus ressuscita o filho de uma viúva em Naim (7:11-17)
+* João Batista pergunta se Jesus é “Aquele Que Vem” (7:18-23)
+* Jesus elogia João Batista (7:24-30)
+* Geração indiferente é condenada (7:31-35)
+* Mulher pecadora derrama óleo perfumado sobre os pés de Jesus (7:36-50)
+* Mulheres acompanham Jesus (8:1-3)
+* Ilustração do semeador (8:4-8)
+* Por que Jesus usa ilustrações (8:9, 10)
+* Jesus explica a ilustração do semeador (8:11-15)
+* Lâmpada não deve ser coberta (8:16-18)
+* Mãe e irmãos de Jesus (8:19-21)
+* Jesus acalma uma tempestade no mar da Galileia (8:22-25)
+* Jesus cura um homem possesso e permite que demônios entrem em porcos (8:26-39)
+* Filha de Jairo é ressuscitada; mulher toca na roupa de Jesus (8:40-56)
+* Os Doze são instruídos para o ministério (9:1-6)
+* Herodes fica perplexo com Jesus (9:7-9)
+* Jesus alimenta cerca de 5.000 homens (9:10-17)
+* Pedro identifica Jesus como o Cristo (9:18-20)
+* Jesus prediz sua morte e ressurreição (9:21, 22)
+* Requisitos para ser um verdadeiro discípulo (9:23-27)
+* Transfiguração de Jesus (9:28-36)
+* Jesus cura um menino possesso de demônio (9:37-43a)
+* Jesus prediz pela segunda vez sua morte (9:43b-45)
+* Discípulos discutem sobre quem é o maior (9:46-48)
+* “Quem não é contra vocês é a favor de vocês” (9:49, 50)
+****
+
+[[v42-7-1]]
+
+^<<v42-7-1,1>>^ Depois que terminou o que tinha a dizer ao povo, ele entrou em Cafarnaum.
+
+[TIP]
+====
+- *Cafarnaum*: Veja a nota de estudo em Mt 4:13.
+====
+
+[[v42-7-2]]
+
+^<<v42-7-2,2>>^ E o escravo de um oficial do exército estava gravemente doente e prestes a morrer; esse escravo era muito estimado pelo seu senhor.
+
+[TIP]
+====
+- *um oficial do exército*: Ou: “um centurião”. Um oficial que comandava cerca de 100 soldados do exército romano.
+====
+
+[[v42-7-3]]
+
+^<<v42-7-3,3>>^ Quando o oficial ouviu falar de Jesus, enviou-lhe alguns anciãos dos judeus para lhe pedirem que viesse e curasse seu escravo.
+
+[TIP]
+====
+- *enviou-lhe alguns anciãos dos judeus*: O relato paralelo em Mt 8:5 diz que “um oficial do exército se aproximou dele [Jesus]”. Pelo visto, os anciãos foram falar com Jesus em nome do oficial. Lucas é o único que menciona esse detalhe.
+====
+
+[[v42-7-4]]
+
+^<<v42-7-4,4>>^ Eles foram a Jesus e começaram a lhe suplicar com insistência: “Ele merece a ajuda do senhor,
+
+[[v42-7-5]]
+
+^<<v42-7-5,5>>^ porque ama a nossa nação e ele mesmo construiu nossa sinagoga.”
+
+[[v42-7-6]]
+
+^<<v42-7-6,6>>^ Assim, Jesus foi com eles. Mas, quando ele estava perto da casa, o oficial do exército enviou amigos para lhe dizer: “Senhor, não se incomode, pois não sou digno de recebê-lo debaixo do meu teto.
+
+[[v42-7-7]]
+
+^<<v42-7-7,7>>^ É por isso que não me considerei digno de ir até o senhor. Mas diga a palavra, e meu servo será curado.
+
+[[v42-7-8]]
+
+^<<v42-7-8,8>>^ Pois eu também sou homem sujeito a autoridade e tenho soldados sob as minhas ordens, e digo a um: ‘Vá!’ e ele vai, e a outro: ‘Venha!’ e ele vem, e ao meu escravo: ‘Faça isto!’ e ele faz.”
+
+[[v42-7-9]]
+
+^<<v42-7-9,9>>^ Quando Jesus ouviu isso, ficou admirado com ele e, virando-se para a multidão que o seguia, disse: “Eu lhes digo: Nem mesmo em Israel encontrei tamanha fé.”
+
+[[v42-7-10]]
+
+^<<v42-7-10,10>>^ E, ao voltarem para casa, os que tinham sido enviados encontraram o escravo com boa saúde.
+
+[[v42-7-11]]
+
+^<<v42-7-11,11>>^ Logo depois disso, ele viajou para uma cidade chamada Naim, e seus discípulos e uma grande multidão viajavam com ele.
+
+[TIP]
+====
+- *Logo depois disso*: Alguns manuscritos bem antigos dizem “No dia seguinte”. Mas a opção usada aqui tem mais apoio entre os manuscritos mais antigos e confiáveis.
+- *Naim*: Cidade da Galileia que ficava cerca de 35 quilômetros ao sudoeste de Cafarnaum, que pelo visto era a cidade de onde Jesus estava vindo. (Lu 7:1-10) Esta é a única vez que Naim é mencionada nas Escrituras Gregas Cristãs. Estudiosos acreditam que a cidade ficava no local em que hoje existe a aldeia de Nein, no lado noroeste da colina de Moré, uns 10 quilômetros ao sudeste de Nazaré. A aldeia de Nein é relativamente pequena, mas as ruínas encontradas ali mostram que antigamente ela era bem maior. Naim ficava em uma bela região acima do vale de Jezreel. Foi em Naim que aconteceu a primeira das três ressurreições realizadas por Jesus registradas na Bíblia. As outras duas ocorreram em Cafarnaum e Betânia. (Lu 8:49-56; Jo 11:1-44) Foi perto de Naim, na cidade de Suném, que o profeta Eliseu ressuscitou o filho de uma mulher sunamita uns 900 anos antes. — 2Rs 4:8-37.
+====
+
+[[v42-7-12]]
+
+^<<v42-7-12,12>>^ No momento em que se aproximava do portão da cidade, um morto estava sendo carregado para fora, o filho único de sua mãe. Além disso, ela era viúva. Uma multidão considerável da cidade também a acompanhava.
+
+[TIP]
+====
+- *portão da cidade*: A palavra grega pólis (“cidade”), que é usada três vezes neste relato para se referir a Naim, geralmente se refere a cidades muradas. Alguns arqueólogos acreditam que Naim realmente era cercada por uma muralha, mas não é possível ter certeza disso. Caso ela não fosse murada, o “portão” que Lucas menciona talvez fosse apenas uma passagem entre as casas por onde a estrada entrava em Naim. De qualquer forma, o “portão” onde Jesus e seus discípulos encontraram com o cortejo fúnebre talvez ficasse na entrada leste de Naim, em direção aos túmulos que ficam ao sudeste de onde hoje está a aldeia de Nein.
+- *único*: A palavra grega monogenés foi traduzida como “unigênito; unigênita” em todas as ocorrências nas edições anteriores da Tradução do Novo Mundo. Ela pode ser definida como “único de sua espécie; sem igual; único de uma classe ou espécie; ímpar”. Aqui, ela é usada com o sentido de “filho único”, mas pode se referir tanto a filhos como a filhas. Essa mesma palavra grega é usada para falar da filha “única” de Jairo e de um menino a quem Jesus curou que era o filho “único” de um homem. (Lu 8:41, 42; 9:38) A Septuaginta usa monogenés para se referir à filha de Jefté em Jz 11:34, que diz: “Ela era sua filha única; além dela, ele não tinha nem filho nem filha.” Nos livros bíblicos que o apóstolo João escreveu, ele usou monogenés cinco vezes ao falar de Jesus. — Para informações sobre o significado desse termo quando usado para se referir a Jesus, veja as notas de estudo em Jo 1:14; 3:16.
+====
+
+[[v42-7-13]]
+
+^<<v42-7-13,13>>^ Quando o Senhor a viu, teve pena dela e lhe disse: “Pare de chorar.”
+
+[TIP]
+====
+- *teve pena*: Ou: “sentiu compaixão”. O verbo grego usado aqui, splagkhnízomai, está relacionado com a palavra splágkhna, que significa “intestinos”. Assim, esse verbo indica um sentimento bem profundo, uma emoção intensa. É uma das palavras mais fortes do idioma grego para o sentimento de compaixão.
+====
+
+[[v42-7-14]]
+
+^<<v42-7-14,14>>^ Depois se aproximou e tocou no esquife,^&#42;1^ e os carregadores ficaram parados. Então ele disse: “Jovem, eu lhe digo: Levante-se!”^&#42;2^
+
+[NOTE]
+====
+. Ou: “na maca funerária”.
+. Ou: “Acorde!”
+====
+
+[[v42-7-15]]
+
+^<<v42-7-15,15>>^ E o morto se sentou e começou a falar, e Jesus o entregou à sua mãe.
+
+[[v42-7-16]]
+
+^<<v42-7-16,16>>^ Todos foram então tomados de temor e começaram a glorificar a Deus, dizendo: “Um grande profeta surgiu em nosso meio”, e: “Deus voltou sua atenção para seu povo.”
+
+[[v42-7-17]]
+
+^<<v42-7-17,17>>^ E essa notícia sobre ele se espalhou por toda a Judeia e por toda a região ao redor.
+
+[[v42-7-18]]
+
+^<<v42-7-18,18>>^ Então os discípulos de João lhe contaram todas essas coisas.
+
+[[v42-7-19]]
+
+^<<v42-7-19,19>>^ De modo que João convocou dois dos seus discípulos e os enviou ao Senhor para perguntar: “O senhor é Aquele Que Vem, ou devemos esperar outro?”
+
+[TIP]
+====
+- *dois dos seus discípulos*: O relato paralelo em Mt 11:2, 3 diz simplesmente que João Batista enviou “seus discípulos”. Lucas informa que foram dois.
+====
+
+[[v42-7-20]]
+
+^<<v42-7-20,20>>^ Quando chegaram a ele, os homens disseram: “João Batista nos enviou ao senhor para perguntar: ‘O senhor é Aquele Que Vem, ou devemos esperar outro?’”
+
+[[v42-7-21]]
+
+^<<v42-7-21,21>>^ Naquela hora, ele curou muitas pessoas de suas enfermidades, de doenças graves e de espíritos maus, e concedeu visão a muitos cegos.
+
+[[v42-7-22]]
+
+^<<v42-7-22,22>>^ Ele lhes disse em resposta: “Vão, contem a João o que vocês viram e ouviram: os cegos agora veem, os mancos estão andando, os leprosos estão sendo purificados, os surdos estão ouvindo, os mortos estão sendo levantados e as boas novas estão sendo anunciadas aos pobres.
+
+[TIP]
+====
+- *leprosos*: Veja a nota de estudo em Mt 8:2 e o Glossário, “Lepra; Leproso”.
+====
+
+[[v42-7-23]]
+
+^<<v42-7-23,23>>^ Feliz é aquele que não acha em mim causa para tropeço.”
+
+[[v42-7-24]]
+
+^<<v42-7-24,24>>^ Quando os mensageiros de João partiram, Jesus começou a falar às multidões sobre João: “O que vocês foram ver no deserto? Uma cana sacudida pelo vento?
+
+[[v42-7-25]]
+
+^<<v42-7-25,25>>^ O que, então, foram ver? Um homem vestido de roupas finas? Ora, os que usam roupa esplêndida e têm uma vida de luxo estão nos palácios reais.
+
+[[v42-7-26]]
+
+^<<v42-7-26,26>>^ Realmente, então, o que vocês foram ver? Um profeta? Sim, eu lhes digo, e muito mais do que um profeta.
+
+[[v42-7-27]]
+
+^<<v42-7-27,27>>^ Esse é aquele a respeito de quem se escreveu: ‘Veja! Enviarei o meu mensageiro na sua frente,^&#42;1^ o qual preparará o seu caminho adiante de você!’
+
+[NOTE]
+====
+. Lit.: “diante da sua face”.
+====
+
+[[v42-7-28]]
+
+^<<v42-7-28,28>>^ Eu lhes digo: Entre os nascidos de mulher não há ninguém maior do que João; mas aquele que é menor no Reino de Deus é maior do que ele.”
+
+[[v42-7-29]]
+
+^<<v42-7-29,29>>^ (Quando ouviram isso, todo o povo e os cobradores de impostos declararam que Deus é justo, pois tinham sido batizados com o batismo de João.
+
+[TIP]
+====
+- *batismo*: A palavra grega báptisma significa “imersão; mergulho”. — Veja as notas de estudo em Mt 3:11; Mr 1:4.
+====
+
+[[v42-7-30]]
+
+^<<v42-7-30,30>>^ Mas os fariseus e os peritos na Lei desconsideraram a vontade^&#42;1^ de Deus para eles, pois não tinham sido batizados por ele.)
+
+[NOTE]
+====
+. Ou: “a orientação; o conselho”.
+====
+
+[[v42-7-31]]
+
+^<<v42-7-31,31>>^ “Com quem, portanto, compararei os homens desta geração, e a quem são semelhantes?
+
+[[v42-7-32]]
+
+^<<v42-7-32,32>>^ Eles são semelhantes a crianças sentadas numa praça, que gritam umas para as outras: ‘Nós tocamos flauta para vocês, mas vocês não dançaram; nós lamentamos, mas vocês não choraram.’
+
+[[v42-7-33]]
+
+^<<v42-7-33,33>>^ Da mesma maneira, João Batista veio sem comer pão e sem beber vinho, mas vocês dizem: ‘Ele tem demônio.’
+
+[TIP]
+====
+- *sem comer pão e sem beber vinho*: Veja a nota de estudo em Mt 11:18.
+====
+
+[[v42-7-34]]
+
+^<<v42-7-34,34>>^ O Filho do Homem veio comendo e bebendo, mas vocês dizem: ‘Vejam! Um homem glutão e dado a beber vinho, amigo de cobradores de impostos e de pecadores!’
+
+[TIP]
+====
+- *cobradores de impostos*: Veja a nota de estudo em Mt 5:46.
+====
+
+[[v42-7-35]]
+
+^<<v42-7-35,35>>^ No entanto, a sabedoria se prova justa^&#42;1^ por todos os seus filhos.”
+
+[NOTE]
+====
+. Ou: “é vindicada”.
+====
+
+[TIP]
+====
+- *os seus filhos*: Ou: “os seus resultados”. Neste versículo, Jesus falou da sabedoria como se ela fosse uma pessoa e disse que ela tem “filhos”. No relato paralelo em Mt 11:19, a sabedoria é descrita como tendo “obras”. Os filhos, ou as obras, da sabedoria eram as ações de João Batista e de Jesus. Essas ações provavam que as acusações contra eles eram falsas. Em outras palavras, Jesus estava dizendo: ‘É só observar que as obras e a conduta da pessoa são justas, e vocês saberão que a acusação é falsa.’
+====
+
+[[v42-7-36]]
+
+^<<v42-7-36,36>>^ E um dos fariseus lhe pedia com insistência que comesse com ele. Então ele entrou na casa do fariseu e se recostou à mesa.
+
+[TIP]
+====
+- *entrou na casa do fariseu*: O Evangelho de Lucas é o único que diz que Jesus aceitava convites de fariseus para comer com eles. Outras vezes que isso aconteceu estão registradas em Lu 11:37 e 14:1.
+====
+
+[[v42-7-37]]
+
+^<<v42-7-37,37>>^ Uma mulher, conhecida na cidade como pecadora, soube que ele estava comendo^&#42;1^ na casa do fariseu e levou um frasco de alabastro com óleo perfumado.
+
+[NOTE]
+====
+. Ou: “recostado à mesa”.
+====
+
+[TIP]
+====
+- *Uma mulher, conhecida . . . como pecadora*: A Bíblia diz que todos os humanos são pecadores. (2Cr 6:36; Ro 3:23; 5:12) Assim, a palavra “pecadora” é usada aqui, não para falar simplesmente de alguém que peca, mas de alguém que pratica o pecado, talvez cometendo crimes ou levando uma vida imoral. (Lu 19:7, 8) Embora a expressão grega traduzida por “conhecida . . . como” signifique literalmente “que era”, aqui ela provavelmente se refere a uma pessoa ser conhecida por uma determinada característica ou por fazer parte de certa classe de pessoas. Lucas é o único a registrar que essa mulher, que talvez fosse uma prostituta, derramou óleo perfumado sobre os pés de Jesus.
+====
+
+[[v42-7-38]]
+
+^<<v42-7-38,38>>^ Colocando-se atrás dele, aos seus pés, ela chorou e começou a molhar os pés dele com as suas lágrimas, e os enxugou com os seus cabelos. Ela também beijava ternamente os pés dele e derramava neles o óleo perfumado.
+
+[[v42-7-39]]
+
+^<<v42-7-39,39>>^ Ao ver isso, o fariseu que o tinha convidado disse a si mesmo: “Se este homem realmente fosse um profeta, saberia quem o está tocando e que tipo de mulher ela é, que ela é pecadora.”
+
+[[v42-7-40]]
+
+^<<v42-7-40,40>>^ Em vista disso, porém, Jesus lhe disse: “Simão, tenho algo para lhe dizer.” Ele disse: “Diga, Instrutor!”
+
+[[v42-7-41]]
+
+^<<v42-7-41,41>>^ “Dois homens eram devedores de certo credor: um devia 500 denários, mas o outro 50.
+
+[TIP]
+====
+- *Dois homens eram devedores*: Os judeus do século 1 d.C. conheciam bem a relação entre credores e devedores, e Jesus às vezes usava essa relação em suas ilustrações. (Mt 18:23-35; Lu 16:1-8) Lucas é o único que registra essa ilustração sobre os dois homens que eram devedores, sendo que um deles devia dez vezes mais do que o outro. Jesus fez essa ilustração porque, quando a mulher derramou óleo perfumado sobre os pés dele, o dono da casa, Simão, não reagiu bem. (Lu 7:36-40) Jesus comparou o pecado a uma dívida que é grande demais para ser paga, e destacou que “aquele a quem se perdoa pouco, ama pouco”. — Lu 7:47; veja as notas de estudo em Mt 6:12; 18:27; Lu 11:4.
+- *denários*: O denário era uma moeda romana de prata que pesava 3,85 gramas e tinha a imagem de César em um dos lados. O texto de Mt 20:2 mostra que os trabalhadores rurais dos dias de Jesus geralmente ganhavam um denário por um dia de trabalho (12 horas). — Veja o Glossário, “Denário”, e o Apêndice B14-B.
+====
+
+[[v42-7-42]]
+
+^<<v42-7-42,42>>^ Como não tinham nada com que lhe pagar, ele perdoou liberalmente a ambos. Portanto, qual deles o amará mais?”
+
+[[v42-7-43]]
+
+^<<v42-7-43,43>>^ Em resposta, Simão disse: “Suponho que seja aquele a quem ele perdoou mais.” Ele lhe disse: “Você julgou corretamente.”
+
+[[v42-7-44]]
+
+^<<v42-7-44,44>>^ Então, ele se virou para a mulher e disse a Simão: “Está vendo esta mulher? Entrei na sua casa e você não me deu água para os pés. Mas esta mulher molhou os meus pés com as suas lágrimas e os enxugou com os seus cabelos.
+
+[TIP]
+====
+- *água para os pés*: Assim como ainda acontece em algumas partes do mundo, antigamente a maioria das viagens era feita a pé. Algumas pessoas andavam de pés descalços, mas muitas usavam sandálias, que não passavam de uma sola com algumas tiras de couro. Quando entravam em uma casa, as pessoas tiravam as sandálias. Uma forma importante de mostrar hospitalidade era lavar os pés dos visitantes. Isso era feito pelo dono da casa ou por um servo. No mínimo, o convidado recebia água para poder lavar os seus pés. — Gên 18:4; 24:32; 1Sa 25:41; Lu 7:37, 38.
+====
+
+[[v42-7-45]]
+
+^<<v42-7-45,45>>^ Você não me deu nenhum beijo, mas esta mulher, desde a hora em que entrei, não parou de beijar ternamente os meus pés.
+
+[TIP]
+====
+- *Você não me deu nenhum beijo*: Nos tempos bíblicos, beijar era uma forma de mostrar carinho ou respeito. Às vezes, o beijo era dado nos lábios (Pr 24:26), no rosto ou, em casos excepcionais, até mesmo nos pés (Lu 7:37, 38). Era comum beijar os parentes. Além de beijar as mulheres (Gên 29:11; 31:28), os homens também beijavam uns aos outros (Gên 27:26, 27; 45:15; Êx 18:7; 2Sa 14:33). Também era comum beijar amigos achegados. — 1Sa 20:41, 42; 2Sa 19:39.
+====
+
+[[v42-7-46]]
+
+^<<v42-7-46,46>>^ Você não derramou óleo na minha cabeça, mas esta mulher derramou óleo perfumado nos meus pés.
+
+[[v42-7-47]]
+
+^<<v42-7-47,47>>^ Por isso, eu lhe digo: os pecados dela, embora sejam muitos,^&#42;1^ estão perdoados, porque ela amou muito. Mas aquele a quem se perdoa pouco, ama pouco.”
+
+[NOTE]
+====
+. Ou: “grandes”.
+====
+
+[[v42-7-48]]
+
+^<<v42-7-48,48>>^ Então ele disse a ela: “Seus pecados estão perdoados.”
+
+[[v42-7-49]]
+
+^<<v42-7-49,49>>^ Os que se recostavam com ele à mesa começaram a dizer entre si: “Quem é este homem que até mesmo perdoa pecados?”
+
+[[v42-7-50]]
+
+^<<v42-7-50,50>>^ Mas ele disse à mulher: “Sua fé salvou você. Vá em paz.”
+
+'''
+
+xref:042-lucas/042-lucas-006.adoc#v42-6-0[&#60; Capítulo Anterior] | <<v42-7-0,Topo>> | xref:042-lucas/042-lucas-008.adoc#v42-8-0[Próximo Capítulo &#62;]

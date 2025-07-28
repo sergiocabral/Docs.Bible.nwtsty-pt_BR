@@ -1,0 +1,322 @@
+include::./index.adoc[]
+
+[[v45-11-0]]
+=== A Carta aos Romanos, 11
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* B. A JUSTIÇA VEM PELA BONDADE IMERECIDA DE DEUS POR MEIO DA FÉ EM JESUS CRISTO (1:16–11:36)
+* 1. A fé é essencial para a salvação (1:16, 17)
+* “O justo viverá em razão da fé” (1:16, 17)
+* 2. A ira de Deus contra toda a impiedade e injustiça (1:18-32)
+* Os humanos não têm desculpa por não dar glória a Deus, o Criador (1:18-23)
+* Deus entregou pessoas ímpias à impureza (1:24-27)
+* As consequências de não reconhecer a Deus (1:28-32)
+* 3. Deus julga judeus e gregos (2:1-16)
+* Alerta contra julgar outros; Deus julgará todos de forma imparcial (2:1-11)
+* Quem está debaixo de lei e desobedece será julgado segundo a lei (2:12, 13)
+* As pessoas das nações têm uma lei dentro de si mesmas: a consciência (2:14-16)
+* 4. Os judeus e a Lei (2:17–3:8)
+* Quem diz que segue a Lei, mas a viola, desonra a Deus (2:17-24)
+* A verdadeira circuncisão é feita no íntimo; a circuncisão do verdadeiro judeu é a do coração (2:25-29)
+* As proclamações sagradas de Deus foram confiadas aos judeus (3:1, 2)
+* “Seja Deus verdadeiro, mesmo que todo homem seja mentiroso” (3:3-8)
+* 5. A justiça de Deus foi revelada sem depender de lei (3:9-31)
+* Todos os humanos, tanto judeus como não judeus, estão debaixo do pecado (3:9-18)
+* Ninguém será declarado justo por obras exigidas por lei (3:19, 20)
+* É como dádiva que todos os que têm fé em Cristo são declarados justos (3:21-28)
+* Deus não é o Deus somente dos judeus, mas também de pessoas das nações (3:29-31)
+* 6. Abraão foi declarado justo pela fé antes de a Lei ter sido dada (4:1-25)
+* A fé de Abraão lhe foi creditada como justiça enquanto ele ainda era incircunciso (4:1-12)
+* Abraão recebeu a promessa por meio da justiça resultante da fé (4:13-15)
+* A promessa está assegurada a todos os que têm a fé demonstrada por Abraão (4:16-25)
+* 7. Reconciliação com Deus; morte por meio de Adão, vida por meio de Cristo (5:1-21)
+* Ser declarado justo em resultado da fé leva à paz com Deus, alegria e esperança (5:1-5)
+* De pecadores e inimigos a reconciliados com Deus (5:6-11)
+* Por meio do pecado de Adão, a morte se espalhou por toda a humanidade e reina (5:12-14)
+* A dádiva de Deus por meio de Cristo resulta numa declaração de justiça (5:15-17)
+* O reinado do pecado é substituído pelo reinado da bondade imerecida (5:18-21)
+* 8. Vida nova por meio do batismo em Cristo (6:1-23)
+* Os batizados em Cristo são batizados na sua morte com a esperança de uma ressurreição semelhante à dele (6:1-11)
+* Não deixem o pecado reinar em seus corpos (6:12-14)
+* De escravos do pecado a escravos de Deus (6:15-23)
+* 9. O objetivo da Lei foi atingido; o poder que o pecado tem de causar a morte a todos os humanos é revelado (7:1-25)
+* Ilustração sobre ser libertado da Lei (7:1-6)
+* A Lei torna conhecido o pecado (7:7-12)
+* A luta contra o pecado (7:13-25)
+* 10. Os que estão em união com Cristo são considerados justos (8:1-39)
+* Viver em harmonia com o espírito agrada a Deus e traz vida e paz (8:1-11)
+* O espírito de Deus dá testemunho da adoção como filhos (8:12-17)
+* A criação humana espera com viva expectativa a revelação dos filhos de Deus (8:18-21)
+* A criação agora geme e sente dores (8:22-25)
+* O espírito intercede a Deus em favor dos santos (8:26, 27)
+* Deus faz suas obras cooperarem com os que o amam (8:28-30)
+* “Se Deus é por nós, quem será contra nós?” (8:31-34)
+* Nada pode separar os justos do amor de Deus (8:35-39)
+* 11. A vontade soberana de Deus e o Israel literal (9:1-33)
+* Paulo expressa tristeza por causa de seus parentes, os israelitas (9:1-5)
+* A verdadeira descendência de Abraão (9:6-13)
+* A escolha de Deus não depende do desejo ou do esforço dos humanos (9:14-18)
+* Não é sábio criticar a escolha que Deus, o Oleiro, fez (9:19-26)
+* Apenas um restante dos israelitas será salvo (9:27-29)
+* Israel tropeçou por não ter fé (9:30-33)
+* 12. Como ser considerado justo por Deus (10:1-21)
+* Cristo é o fim da Lei (10:1-4)
+* A justiça resulta da fé; declaração pública visando a salvação (10:5-10)
+* Tanto judeus como gregos precisam invocar o nome de Jeová para serem salvos (10:11-13)
+* Pregadores são enviados para que outros possam ouvir, acreditar e invocar o nome de Jeová (10:14, 15)
+* Os israelitas não aceitaram as boas novas por falta de fé, não por falta de oportunidade (10:16-21)
+* 13. A salvação de todo o Israel; ilustração da oliveira (11:1-36)
+* Nem todo o Israel literal foi rejeitado (11:1-16)
+* Por não terem fé, alguns ramos do Israel literal foram arrancados e não israelitas foram enxertados (11:17-24)
+* O segredo sagrado revela como todo o Israel espiritual será salvo (11:25-32)
+* “Como são profundas as riquezas, a sabedoria e o conhecimento de Deus!” (11:33-36)
+****
+
+[[v45-11-1]]
+
+^<<v45-11-1,1>>^ Pergunto, então: Será que Deus rejeitou o seu povo? De modo algum! Pois eu também sou israelita, da descendência^&#42;1^ de Abraão, da tribo de Benjamim.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v45-11-2]]
+
+^<<v45-11-2,2>>^ Deus não rejeitou o seu povo, a quem primeiro deu consideração.^&#42;1^ Vocês não sabem o que certa passagem das Escrituras diz sobre Elias, quando ele clamou perante Deus contra Israel?
+
+[NOTE]
+====
+. Ou: “a quem primeiro reconheceu”. Ou, possivelmente: “a quem conheceu antecipadamente”.
+====
+
+[[v45-11-3]]
+
+^<<v45-11-3,3>>^ “Jeová, mataram os teus profetas, derrubaram os teus altares, e só eu sobrei, e agora estão tentando tirar a minha vida.”
+
+[TIP]
+====
+- *Jeová*: Aqui, Paulo está citando 1Rs 19:10, 14, onde o profeta Elias estava se dirigindo a Jeová Deus. No texto hebraico original de 1 Reis, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). Paulo cita parte das palavras de Elias e muda a ordem de algumas frases. Além disso, no início da citação, ele acrescenta um vocativo (um recurso usado para dirigir a palavra a alguém). Paulo faz isso para mostrar que as palavras que ele estava citando tinham sido dirigidas a Deus. Nos manuscritos gregos disponíveis hoje, o vocativo que aparece é uma forma da palavra Kýrios (“Senhor”). Mas outras passagens bíblicas, e o próprio contexto da passagem que Paulo está citando, mostram que Elias tinha o costume de se dirigir a Deus usando o nome dele, Jeová. (1Rs 17:20, 21; 18:36, 37; 19:4) Assim, as evidências das Escrituras Hebraicas indicam que aqui a palavra Kýrios foi usada para substituir o nome de Deus. Por isso, o nome “Jeová” foi usado no texto principal deste versículo de Romanos. Além disso, várias traduções das Escrituras Gregas Cristãs para o hebraico usam o nome de Deus neste versículo.
+- *a minha vida*: A palavra grega traduzida aqui como “vida” é psykhé. Em algumas Bíblias, essa palavra é traduzida como “alma”. Neste versículo, psykhé se refere à vida de uma pessoa. A expressão tentando tirar a minha vida (lit.: “procurando a minha alma”) também poderia ser traduzida como “tentando [querendo] me matar”. Ela vem de uma expressão hebraica que aparece em 1Rs 19:10, 14 (o texto que Paulo está citando aqui) e em outras passagens das Escrituras Hebraicas. — Veja as notas de rodapé em Êx 4:19; 1Sa 20:1, e o Glossário, “Alma”.
+====
+
+[[v45-11-4]]
+
+^<<v45-11-4,4>>^ No entanto, o que a proclamação divina disse a ele? “Ainda tenho 7.000 homens que não se ajoelharam diante de Baal.”
+
+[TIP]
+====
+- *a proclamação divina*: O substantivo grego que aparece aqui, khrematismós, indica uma declaração de origem divina. Aqui, ela se refere às palavras de Deus para o profeta Elias registradas em 1Rs 19:18. A maioria das traduções da Bíblia e dos léxicos traduz khrematismós como “declaração divina; resposta divina; resposta de Deus”. Essa palavra está relacionada com o verbo khrematízo, que é usado várias vezes nas Escrituras Gregas Cristãs. Por exemplo, At 11:26 diz que os seguidores de Jesus “por direção divina, foram chamados de cristãos”. — Veja as notas de estudo em At 10:22; 11:26.
+- *Baal*: Este é o nome de um deus cananeu que era considerado por alguns de seus adoradores como o dono do céu e aquele que dava chuvas e fertilidade. Esta é a única vez que as Escrituras Gregas Cristãs mencionam Baal. Aqui, Paulo está citando 1Rs 19:18. As Escrituras Hebraicas usam a palavra hebraica habBáʽal (lit.: “o Baal”) para se referir a esse deus. (Jz 2:13; 1Rs 16:31; 18:25) Essa palavra hebraica também aparece no plural (“os baalins”). (Jz 2:11; 8:33; 10:6) Nesse caso, ela pelo visto se refere aos diversos deuses regionais que as pessoas viam como donos de certas localidades e que, segundo elas, tinham influência sobre esses lugares. A palavra hebraica báʽal (sem o artigo definido) significa “dono; amo; senhor”. — Êx 21:28; 22:8.
+====
+
+[[v45-11-5]]
+
+^<<v45-11-5,5>>^ Do mesmo modo, também na época atual há um restante, segundo uma escolha por meio da bondade imerecida.
+
+[[v45-11-6]]
+
+^<<v45-11-6,6>>^ Ora, se é por bondade imerecida, não é mais por meio de obras; senão, a bondade imerecida não seria mais bondade imerecida.
+
+[[v45-11-7]]
+
+^<<v45-11-7,7>>^ O que diremos então? Aquilo que Israel tanto busca, não obteve, mas os escolhidos obtiveram. Os outros ficaram insensíveis,
+
+[[v45-11-8]]
+
+^<<v45-11-8,8>>^ assim como está escrito: “Deus lhes deu um espírito de profundo sono, olhos que não veem e ouvidos que não ouvem, até o dia de hoje.”
+
+[TIP]
+====
+- *Deus*: Neste versículo, Paulo está citando partes de De 29:4 e de Is 29:10. O texto hebraico desses versículos não usa a palavra “Deus”. Mas Paulo pode ter citado as palavras desses versículos conforme elas aparecem na Septuaginta, que, de acordo com a maioria dos manuscritos, diz em De 29:4 (29:3, LXX): “O Senhor Deus não deu . . . ” Como explica o Apêndice C1, as cópias da Septuaginta que existiam nos dias de Paulo provavelmente diziam: “Jeová Deus não deu . . . ” Na verdade, existe um fragmento com De 29:4, da coleção Papiro Fouad Inventário n.º 266, onde o Tetragrama aparece no texto grego junto com a palavra grega para “Deus”. Assim, é possível que Paulo tenha abreviado a citação da Septuaginta, usando apenas “Deus”, como aparece nos manuscritos gregos disponíveis hoje de Ro 11:8. (Veja também At 7:37, onde foi feita uma citação abreviada parecida, e a nota de estudo.) Algumas traduções de Ro 11:8 para o hebraico (chamadas de J7, 8, 10, 14, 15, 20 no Apêndice C4) usam o Tetragrama neste versículo, seguindo o texto hebraico de De 29:4 e de Is 29:10, que usa o nome de Deus.
+====
+
+[[v45-11-9]]
+
+^<<v45-11-9,9>>^ Também, Davi diz: “Que a mesa deles se torne laço, armadilha, pedra de tropeço e retribuição para eles.
+
+[TIP]
+====
+- *a mesa*: É possível que esta palavra esteja fazendo referência a uma mesa para sacrifícios ou a um banquete. Aqui, Paulo está citando o Sal 69:22, onde a palavra “mesa” foi usada em paralelo com “prosperidade” e, pelo visto, se refere a bênçãos. Paulo aplica esse salmo aos judeus. A maioria deles acabou tropeçando e rejeitando Jesus. Eles insistiam que serem descendentes de Abraão era suficiente para continuarem recebendo as bênçãos de Deus, e esse foi um dos motivos de eles tropeçarem. (Mt 3:9; Jo 8:39) No fim, esse ponto de vista errado resultou numa “retribuição”, ou punição.
+====
+
+[[v45-11-10]]
+
+^<<v45-11-10,10>>^ Que os olhos deles se escureçam para que não consigam ver, e que tu lhes encurves as costas continuamente.”
+
+[[v45-11-11]]
+
+^<<v45-11-11,11>>^ Então, pergunto: Será que eles tropeçaram e caíram definitivamente? Certamente que não! Mas por causa do passo em falso deles há salvação para pessoas das nações, para provocá-los ao ciúme.
+
+[[v45-11-12]]
+
+^<<v45-11-12,12>>^ Ora, se o passo em falso deles significa riquezas para o mundo, e a sua diminuição significa riquezas para pessoas das nações, quanto mais riquezas o pleno número^&#42;1^ deles significará!
+
+[NOTE]
+====
+. Ou: “a plenitude”.
+====
+
+[TIP]
+====
+- *o mundo*: Neste contexto, Paulo usa a palavra grega kósmos como equivalente da expressão pessoas das nações, ou seja, os não judeus. Aqui, ele faz uma diferença entre “o mundo” e o povo de Israel, com quem Deus tinha feito um pacto. Muitas vezes os escritores das Escrituras Gregas Cristãs usam kósmos para se referir a todos os humanos que não são seguidores verdadeiros de Cristo. Apenas as Escrituras usam a palavra kósmos dessa forma. — Veja a nota de estudo em Jo 15:19.
+====
+
+[[v45-11-13]]
+
+^<<v45-11-13,13>>^ Agora falo a vocês que são pessoas das nações. Visto que sou apóstolo para as nações, glorifico o meu ministério
+
+[TIP]
+====
+- *apóstolo para as nações*: Ou seja, para os não judeus. Quando Paulo se tornou cristão, provavelmente por volta de 34 d.C., o ressuscitado Jesus disse: “Esse homem é para mim um vaso escolhido para levar o meu nome às nações, bem como a reis e aos filhos de Israel.” (At 9:15) Assim, Paulo tinha sido escolhido pelo Senhor Jesus Cristo para ser um “apóstolo [que significa “alguém enviado”] para as nações”. (At 26:14-18; Ro 1:5; Gál 1:15, 16; 1Ti 2:7) Apesar de Paulo ter plena certeza de que era apóstolo e de ele ter provas de que tinha recebido essa designação, Paulo nunca disse que era um dos “Doze”. (1Co 15:5-8) Além disso, a Bíblia não dá a entender em nenhum lugar que Paulo tenha substituído um dos “Doze”. — Compare com a nota de estudo em At 1:23.
+- *glorifico*: Ou: “exalto”. O verbo grego que aparece aqui é doxázo (“glorificar; dar glória a”). Ele está relacionado com a palavra dóxa (“glória; honra”) e é muitas vezes usado em contextos que falam de dar glória a Deus. (Mt 5:16; 9:8; Mr 2:12; Lu 2:20; 5:25, 26; At 4:21; 11:18; Ro 15:6, 9) Neste versículo, o verbo pode passar ideias como “ter orgulho de; levar a sério; dedicar-se ao máximo a”. Paulo mostra que dava muito valor ao seu “ministério” e que o considerava uma das maiores honras que ele poderia ter.
+- *o meu ministério*: Quando Jesus esteve na Terra, ele deu aos seus seguidores a missão de fazer discípulos de pessoas de todas as nações. (Mt 28:19, 20) Paulo chamou esse trabalho de “ministério da reconciliação”. Ele disse que nós “suplicamos” a um mundo de humanos que não servem a Deus: “Sejam reconciliados com Deus.” (2Co 5:18-20) Paulo se dedicou ao máximo no seu ministério para as nações, mas, ao mesmo tempo, ele queria muito que alguns judeus dessem os passos necessários para ganhar a salvação. (Ro 11:14) A palavra grega traduzida aqui como “ministério” é diakonía. O sentido básico dessa palavra é “serviço”, e um verbo grego relacionado com ela às vezes é usado na Bíblia para se referir a serviços de natureza pessoal, como servir à mesa. (Lu 4:39; 17:8; Jo 2:5) Aqui, diakonía se refere ao ministério cristão. Esse serviço é uma grande honra, já que envolve cuidar das necessidades espirituais de outros.
+====
+
+[[v45-11-14]]
+
+^<<v45-11-14,14>>^ para ver se de algum modo posso provocar meu próprio povo ao ciúme e salvar alguns deles.
+
+[TIP]
+====
+- *meu próprio povo*: Lit.: “minha carne”. Aqui, Paulo está se referindo ao povo judeu, ou seja, os israelitas. — Compare com Gên 37:27.
+====
+
+[[v45-11-15]]
+
+^<<v45-11-15,15>>^ Pois, se o fato de eles terem sido rejeitados significa reconciliação para o mundo, o que significará o fato de serem aceitos, senão vida para os que estavam mortos?
+
+[[v45-11-16]]
+
+^<<v45-11-16,16>>^ Além disso, se a parte da massa considerada como primícias é santa, a massa inteira também é santa; e, se a raiz é santa, os ramos também são.
+
+[TIP]
+====
+- *a raiz . . . os ramos*: Aqui, Paulo compara o cumprimento do propósito de Deus em relação ao pacto com Abraão a uma oliveira. Paulo diz que a raiz da árvore é santa. Ela representa a Jeová, que dá vida ao Israel espiritual. (Is 10:20) Jesus, o tronco da árvore, é a parte principal do “descendente” de Abraão. (Gál 3:16) Paulo relaciona os ramos, como grupo, ao “pleno número” dos cristãos ungidos, que formam a parte secundária do “descendente” de Abraão. — Ro 11:25; Gál 3:29.
+====
+
+[[v45-11-17]]
+
+^<<v45-11-17,17>>^ No entanto, se alguns dos ramos foram arrancados, e você, apesar de ser oliveira silvestre, foi enxertado entre eles e se tornou participante da riqueza da raiz da oliveira,
+
+[TIP]
+====
+- *alguns dos ramos foram arrancados*: Ou seja, os judeus que rejeitaram Jesus foram rejeitados.
+- *você, apesar de ser oliveira silvestre, foi enxertado*: Neste versículo, Paulo ainda está falando com os cristãos não judeus. (Ro 11:13) Ele continua usando a comparação com uma oliveira cultivada para mostrar como o propósito de Deus em relação ao pacto com Abraão estava se cumprindo. (Veja a nota de estudo em Ro 11:16.) No começo, apenas os judeus tinham a oportunidade de fazer parte desse pacto. Paulo diz que os não judeus eram como ramos de outra árvore, ou seja, de uma oliveira silvestre. Mas Jeová abriu caminho para que eles se tornassem judeus em sentido espiritual e fizessem parte do descendente de Abraão. Foi como se Jeová os enxertasse na oliveira cultivada. Alguns cristãos da congregação de Roma eram judeus e outros eram não judeus, mas todos eles deviam produzir frutos em sentido espiritual. — Ro 2:28, 29.
+- *enxertado*: Na agricultura, enxertar envolve tirar um ramo ou galho de uma árvore que produz fruto de boa qualidade e inseri-lo numa árvore de qualidade inferior. Depois que o enxerto se torna permanente, os ramos enxertados produzem frutos de boa qualidade, parecidos com os frutos da árvore de onde foram tirados. Paulo fala de um enxerto diferente, “contrário à natureza”, que envolvia inserir ramos de uma árvore inferior numa árvore cultivada. Pelo visto, alguns lavradores do século 1 d.C. faziam esse tipo de enxerto. (Veja a nota de estudo em Ro 11:24.) A palavra grega para “enxertar” é usada apenas em Romanos capítulo 11.
+====
+
+[[v45-11-18]]
+
+^<<v45-11-18,18>>^ não trate os ramos com arrogância.^&#42;1^ Se, porém, você os tratar com arrogância,^&#42;2^ lembre-se de que você não sustenta a raiz, mas a raiz o sustenta.
+
+[NOTE]
+====
+. Ou: “não se gabe à custa dos ramos”.
+. Ou: “você se gabar à custa deles”.
+====
+
+[[v45-11-19]]
+
+^<<v45-11-19,19>>^ Você dirá, então: “Alguns ramos foram arrancados para que eu fosse enxertado.”
+
+[[v45-11-20]]
+
+^<<v45-11-20,20>>^ Muito bem! Foram arrancados porque não tiveram fé, mas você está de pé pela fé. Não seja arrogante, mas tenha temor.
+
+[[v45-11-21]]
+
+^<<v45-11-21,21>>^ Pois, se Deus não poupou os ramos naturais, também não poupará você.
+
+[[v45-11-22]]
+
+^<<v45-11-22,22>>^ Considere, portanto, a bondade e a severidade de Deus. Há severidade para com aqueles que caíram, mas para com você há a bondade de Deus, desde que permaneça na Sua bondade; senão, você também será cortado fora.
+
+[[v45-11-23]]
+
+^<<v45-11-23,23>>^ E eles também, se deixarem de ser pessoas sem fé, serão enxertados, pois Deus é capaz de enxertá-los novamente.
+
+[[v45-11-24]]
+
+^<<v45-11-24,24>>^ Pois, se você foi cortado da oliveira que é silvestre por natureza e foi enxertado numa oliveira cultivada, o que é contrário à natureza, quanto mais serão os ramos naturais enxertados de volta na sua própria oliveira!
+
+[TIP]
+====
+- *enxertado numa oliveira cultivada, o que é contrário à natureza*: Normalmente, os lavradores tiravam ramos de uma oliveira cultivada para fazer enxerto numa oliveira silvestre. Isso faria a oliveira silvestre produzir frutos melhores, parecidos com os frutos da árvore de onde os ramos tinham sido tirados. O processo contrário (enxertar ramos de uma oliveira silvestre numa oliveira cultivada) era pouco usado e não costumava dar bons resultados. Mas há registros de que, no século 1 d.C., alguns lavradores às vezes faziam isso. (Veja a mídia “Enxerto de um ramo de oliveira”.) Aqui, Paulo continua usando a comparação com uma oliveira cultivada para mostrar como o propósito de Deus em relação ao pacto com Abraão estava se cumprindo. Ao falar de um enxerto que parecia desnatural, ou contrário à natureza, Paulo dá ainda mais peso à comparação que estava fazendo. Ele compara os cristãos que se tornam descendentes de Abraão com ramos que são enxertados em uma oliveira cultivada. (Ro 11:21) No início, os não judeus estavam separados dessa árvore, já que não faziam parte do povo de Deus, a nação de Israel. Eles eram como os ramos de uma oliveira silvestre. Por outro lado, os judeus eram ramos naturais da oliveira cultivada, porque eram descendentes biológicos de Abraão e herdeiros do pacto que Deus tinha feito com ele. (Ef 2:12) Mas, quando alguns judeus não tiveram fé, eles foram rejeitados por Deus e “arrancados”. (Ro 11:20) Jeová providenciou que os cristãos não judeus fossem enxertados para substituir esses ramos que não deram frutos. (Gál 3:28, 29) Assim como os ramos de uma oliveira silvestre se tornariam produtivos ao serem enxertados numa oliveira cultivada, os cristãos não judeus seriam beneficiados pela “riqueza [lit.: “gordura”]” da raiz da oliveira figurativa. O que Jeová fez pelos cristãos não judeus foi um grande ato de bondade imerecida e, por isso, eles não tinham nenhum motivo para se sentirem superiores. — Ro 11:17; compare com Mt 3:10; Jo 15:1-10.
+- *oliveira cultivada*: A palavra grega que aparece aqui é kalliélaios. Ela é formada pela palavra grega para “oliveira” e um prefixo que vem da palavra kalós (“bom; excelente”). A palavra kalós passa a ideia de algo capaz de cumprir bem sua função, como, por exemplo, uma oliveira que é cultivada para se tornar produtiva e dar muitos frutos. Aqui, Paulo faz um contraste entre a oliveira cultivada e a oliveira que é silvestre (agriélaios; lit.: “oliveira do campo”), ou seja, que não é cultivada.
+====
+
+[[v45-11-25]]
+
+^<<v45-11-25,25>>^ Pois não quero, irmãos, que vocês desconheçam este segredo sagrado, a fim de que não se tornem sábios aos seus próprios olhos: parte de Israel ficou insensível até que entrasse o pleno número^&#42;1^ de pessoas das nações,
+
+[NOTE]
+====
+. Ou: “a plenitude”.
+====
+
+[[v45-11-26]]
+
+^<<v45-11-26,26>>^ e dessa maneira todo o Israel será salvo. Assim como está escrito: “O libertador sairá de Sião e afastará de Jacó as práticas ímpias.
+
+[TIP]
+====
+- *e dessa maneira todo o Israel será salvo*: Ou seja, todo o Israel espiritual, “o Israel de Deus”. (Gál 6:16; Ro 2:29) O propósito de Deus é que 144.000 israelitas em sentido espiritual sejam salvos e reinem no céu com o Filho dele. As palavras de Paulo “dessa maneira” se referem à maneira como Deus vai fazer esse propósito se cumprir, ou seja, enxertando ramos da “oliveira silvestre” na sua “oliveira cultivada” e fazendo com que ela fique cheia de ramos produtivos. (Ro 11:17-25; Ap 7:4; 14:1, 3) Na prática, isso envolveu permitir que cristãos não judeus fizessem parte do Israel espiritual. Alguns acham que a expressão grega que aparece no começo deste versículo deveria ser traduzida como “e então” ou “e no fim”, mas a tradução “e dessa maneira” é apoiada por muitos léxicos e por muitas traduções da Bíblia.
+- *libertador*: Ou: “salvador”. Aqui, Paulo está citando as palavras de Is 59:20, conforme elas aparecem na Septuaginta. Ele aplica essa profecia de Isaías aos cristãos que fazem parte do “Israel de Deus”. (Gál 6:16) Paulo indica que a profecia se cumprirá totalmente quando o pleno número de membros do Israel espiritual estiver completo.
+====
+
+[[v45-11-27]]
+
+^<<v45-11-27,27>>^ E este é o pacto que farei com eles quando eu tirar os seus pecados.”
+
+[[v45-11-28]]
+
+^<<v45-11-28,28>>^ É verdade que, com respeito às boas novas, eles são inimigos para o benefício de vocês; mas, com respeito à escolha de Deus, são amados por causa dos antepassados deles.
+
+[[v45-11-29]]
+
+^<<v45-11-29,29>>^ Pois as dádivas e a chamada de Deus são coisas nas quais ele não voltará atrás.
+
+[[v45-11-30]]
+
+^<<v45-11-30,30>>^ Pois, assim como antes vocês eram desobedientes a Deus, mas agora foram tratados com misericórdia por causa da desobediência deles,
+
+[[v45-11-31]]
+
+^<<v45-11-31,31>>^ assim também eles agora têm sido desobedientes resultando em misericórdia para vocês, para que eles também sejam agora tratados com misericórdia.
+
+[[v45-11-32]]
+
+^<<v45-11-32,32>>^ Pois Deus fez de todos eles prisioneiros da desobediência, a fim de tratar a todos eles com misericórdia.
+
+[[v45-11-33]]
+
+^<<v45-11-33,33>>^ Como são profundas as riquezas, a sabedoria e o conhecimento de Deus! Como são insondáveis os seus julgamentos, e impenetráveis os seus caminhos!
+
+[[v45-11-34]]
+
+^<<v45-11-34,34>>^ Pois “quem chegou a conhecer a mente de Jeová, ou quem se tornou seu conselheiro”?
+
+[TIP]
+====
+- *Jeová*: Esta é uma citação de Is 40:13. No texto hebraico original de Isaías, aparecem as quatro letras hebraicas que formam o nome de Deus (que equivalem a YHWH). As expressões gregas traduzidas aqui como “chegou a conhecer a mente” e “se tornou seu conselheiro” seguem a tradução da Septuaginta de Is 40:13.
+====
+
+[[v45-11-35]]
+
+^<<v45-11-35,35>>^ Ou “quem primeiro deu algo a ele, de modo que ele lhe deva retribuir”?
+
+[[v45-11-36]]
+
+^<<v45-11-36,36>>^ Porque todas as coisas são dele, e por ele, e para ele. Glória a ele para sempre. Amém.
+
+[TIP]
+====
+- *Amém*: Veja a nota de estudo em Ro 1:25.
+====
+
+'''
+
+xref:045-romanos/045-romanos-010.adoc#v45-10-0[&#60; Capítulo Anterior] | <<v45-11-0,Topo>> | xref:045-romanos/045-romanos-012.adoc#v45-12-0[Próximo Capítulo &#62;]

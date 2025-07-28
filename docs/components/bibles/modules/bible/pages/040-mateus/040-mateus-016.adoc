@@ -1,0 +1,278 @@
+include::./index.adoc[]
+
+[[v40-16-0]]
+=== As Boas Novas Segundo Mateus, 16
+// nwtsty 2023, nwtsty - Tradução do Novo Mundo da Bíblia Sagrada (Edição de Estudo)
+
+.Notas do capítulo
+****
+* I. Jesus termina sua pregação na Galileia e nas regiões próximas (14:1–18:35)
+* Morte de João Batista (14:1-12)
+* Jesus alimenta 5.000 homens, além de mulheres e crianças (14:13-21)
+* Jesus anda sobre a água (14:22-33)
+* Curas em Genesaré (14:34-36)
+* Fariseus e escribas questionam Jesus sobre o ritual de lavar as mãos (15:1-9)
+* Impureza vem do coração (15:10-20)
+* Mulher fenícia mostra grande fé (15:21-28)
+* Jesus cura muitas doenças (15:29-31)
+* Jesus alimenta 4.000 homens, além de mulheres e crianças (15:32-39)
+* Fariseus e saduceus pedem um sinal do céu (16:1-4)
+* “Cuidado com o fermento dos fariseus e dos saduceus” (16:5-12)
+* Pedro diz que Jesus é o Cristo (16:13-17)
+* Jesus diz que vai dar as chaves do Reino para Pedro (16:18-20)
+* Jesus prediz sua morte e ressurreição (16:21-23)
+* Requisitos para ser um verdadeiro discípulo (16:24-28)
+* Transfiguração de Jesus (17:1-13)
+* Jesus cura menino possuído por demônio (17:14-18)
+* Fé do tamanho de um grão de mostarda (17:19, 20)
+* Jesus fala outra vez sobre sua morte e ressurreição (17:22, 23)
+* Imposto pago com moeda tirada da boca do peixe (17:24-27)
+* Quem é o maior no Reino? (18:1-6)
+* Pedras de tropeço (18:7-10)
+* Ilustração da ovelha perdida (18:12-14)
+* Como resolver problemas e ganhar seu irmão (18:15-20)
+* Ilustração do escravo que não perdoou (18:21-35)
+****
+
+[[v40-16-1]]
+
+^<<v40-16-1,1>>^ Ali os fariseus e os saduceus se aproximaram dele e, para testá-lo, pediram a ele que lhes mostrasse um sinal do céu.
+
+[[v40-16-2]]
+
+^<<v40-16-2,2>>^ Em resposta, ele lhes disse: “Ao cair a noite, vocês dizem: ‘Fará tempo bom, pois o céu está vermelho’,
+
+[TIP]
+====
+- *Em resposta, ele lhes disse*: O trecho que começa com “Ao cair a noite”, no versículo 2, e vai até o fim do versículo 3 não aparece em alguns poucos manuscritos mais antigos e importantes, e por isso não é possível ter certeza se esse trecho é autêntico. Mas muitos estudiosos acham bem provável que esse trecho fizesse parte do texto original porque ele aparece em um grande número de manuscritos mais antigos e em muitos manuscritos posteriores.
+====
+
+[[v40-16-3]]
+
+^<<v40-16-3,3>>^ e, de manhã: ‘Hoje fará tempo frio e chuvoso, pois o céu está vermelho, mas sombrio.’ Vocês sabem interpretar a aparência do céu, mas não conseguem interpretar os sinais dos tempos.
+
+[[v40-16-4]]
+
+^<<v40-16-4,4>>^ Uma geração má e adúltera persiste em buscar um sinal,^&#42;1^ mas nenhum sinal lhe será dado, exceto o sinal de Jonas.” Com isso se afastou, deixando-os para trás.
+
+[NOTE]
+====
+. Ou: “uma prova milagrosa”.
+====
+
+[TIP]
+====
+- *adúltera*: Assim como uma esposa adúltera não é fiel ao marido, aquela geração era adúltera no sentido de que não era fiel a Deus. — Veja a nota de estudo em Mr 8:​38.
+- *sinal de Jonas*: Veja a nota de estudo em Mt 12:39.
+====
+
+[[v40-16-5]]
+
+^<<v40-16-5,5>>^ Os discípulos passaram então para a outra margem, mas se esqueceram de levar pães.
+
+[TIP]
+====
+- *para a outra margem*: Ou seja, para a outra margem do mar da Galileia. Pelo visto, eles estavam indo na direção de Betsaida, que ficava na margem nordeste.
+====
+
+[[v40-16-6]]
+
+^<<v40-16-6,6>>^ Jesus lhes disse: “Mantenham os olhos abertos e tomem cuidado com o fermento dos fariseus e dos saduceus.”
+
+[TIP]
+====
+- *fermento*: A Bíblia costuma usar o fermento para representar o pecado e a maldade, e aqui ele representa ensinos falsos. — Mt 16:12; 1Co 5:6-8; compare com a nota de estudo em Mt 13:33.
+====
+
+[[v40-16-7]]
+
+^<<v40-16-7,7>>^ Assim, começaram a raciocinar entre si, dizendo: “Não trouxemos pães.”
+
+[[v40-16-8]]
+
+^<<v40-16-8,8>>^ Sabendo disso, Jesus disse: “Homens de pouca fé, por que estão conversando sobre o fato de não terem pães?
+
+[[v40-16-9]]
+
+^<<v40-16-9,9>>^ Ainda não compreendem a questão, e não se lembram dos cinco pães, no caso dos 5.000, e de quantos cestos vocês recolheram?
+
+[TIP]
+====
+- *cestos*: Ao relatar as duas vezes em que Jesus fez o milagre de alimentar as multidões (veja as notas de estudo em Mt 14:20; 15:37; 16:10 e os relatos paralelos em Mr 6:43; 8:8, 19, 20), os Evangelhos de Mateus e de Marcos descrevem de forma coerente o tipo de cesto que foi usado em cada ocasião. No relato em que Jesus alimentou uns 5.000 homens, tanto Mateus como Marcos usam a palavra grega kófinos (traduzida como “cesto”). No relato em que ele alimentou uns 4.000 homens, os dois Evangelhos usam a palavra grega sfyrís (traduzida como “cesto grande”). Isso indica que Mateus e Marcos estavam presentes nas duas ocasiões ou que ouviram os fatos de pessoas que presenciaram o milagre.
+====
+
+[[v40-16-10]]
+
+^<<v40-16-10,10>>^ Ou dos sete pães, no caso dos 4.000, e de quantos cestos grandes recolheram?
+
+[TIP]
+====
+- *cestos grandes*: Ou: “cestos de provisões”. — Veja as notas de estudo em Mt 15:37; 16:9.
+====
+
+[[v40-16-11]]
+
+^<<v40-16-11,11>>^ Como é que vocês não compreendem que não lhes falei de pão? Eu lhes disse que tomassem cuidado com o fermento dos fariseus e dos saduceus.”
+
+[[v40-16-12]]
+
+^<<v40-16-12,12>>^ Compreenderam então que ele falava para tomarem cuidado, não com o fermento de pão, mas com os ensinamentos dos fariseus e dos saduceus.
+
+[[v40-16-13]]
+
+^<<v40-16-13,13>>^ Quando chegou à região de Cesareia de Filipe, Jesus perguntou aos seus discípulos: “Quem os homens dizem que o Filho do Homem é?”
+
+[TIP]
+====
+- *Cesareia de Filipe*: Uma cidade que ficava perto de onde nasce o rio Jordão, a 350 metros de altitude. Ela ficava uns 40 quilômetros ao norte do mar da Galileia, e ao sudoeste do monte Hermom. Foi Filipe, o Tetrarca, (filho de Herodes, o Grande) que deu à cidade o nome de Cesareia para fazer uma homenagem ao imperador de Roma. Ela foi chamada de Cesareia de Filipe para não ser confundida com a outra Cesareia, que ficava na costa do mar Mediterrâneo e tinha um importante porto marítimo. — Veja o Apêndice B10.
+- *Filho do Homem*: Veja a nota de estudo em Mt 8:20.
+====
+
+[[v40-16-14]]
+
+^<<v40-16-14,14>>^ Responderam: “Alguns dizem João Batista; outros, Elias; e ainda outros, Jeremias ou um dos profetas.”
+
+[TIP]
+====
+- *João Batista*: Veja a nota de estudo em Mt 3:1.
+- *Elias*: Veja a nota de estudo em Mt 11:14.
+====
+
+[[v40-16-15]]
+
+^<<v40-16-15,15>>^ Ele lhes perguntou: “E vocês, quem dizem que eu sou?”
+
+[[v40-16-16]]
+
+^<<v40-16-16,16>>^ Simão Pedro respondeu: “O senhor é o Cristo, o Filho do Deus vivente.”
+
+[TIP]
+====
+- *Simão Pedro*: Veja a nota de estudo em Mt 10:2.
+- *o Cristo*: Pedro diz que Jesus é “o Cristo” (em grego, ho Khristós), um título que equivale a “o Messias” (do hebraico mashíahh). Tanto “Cristo” como “Messias” significam “ungido”. Mateus provavelmente usou o artigo definido em grego antes do título “Cristo” para destacar o papel de Jesus como o Messias. — Veja as notas de estudo em Mt 1:1; 2:4.
+- *Deus vivente*: Expressão usada para destacar a diferença entre Jeová e os deuses falsos das nações. Jeová é um Deus vivo e ativo, mas os deuses das nações, como os que eram adorados na região de Cesareia de Filipe, não tinham vida. (Mt 16:13; At 14:15) A expressão “Deus vivente” também aparece nas Escrituras Hebraicas. — De 5:26; Je 10:10.
+====
+
+[[v40-16-17]]
+
+^<<v40-16-17,17>>^ Jesus lhe disse então: “Feliz é você, Simão, filho de Jonas, porque isso não lhe foi revelado por homens, mas pelo meu Pai, que está nos céus.
+
+[TIP]
+====
+- *filho de Jonas*: Ou: “Barjonas”. Muitos nomes hebraicos incluíam um sobrenome formado pela palavra “filho” (ben em hebraico e bar em aramaico) seguido do nome do pai. O uso da palavra aramaica bar em vários nomes próprios hebraicos (como Bartolomeu, Bartimeu e Barjesus) mostra como o hebraico dos dias de Jesus tinha sido influenciado pelo aramaico.
+- *homens*: Lit.: “carne e sangue”, uma expressão que os judeus costumavam usar para se referir a humanos. Jesus quis dizer que Pedro não chegou a essa conclusão nem sozinho nem porque algum humano revelou isso a ele, mas porque isso ‘foi revelado pelo Pai’. — Gál 1:16, nota de rodapé.
+====
+
+[[v40-16-18]]
+
+^<<v40-16-18,18>>^ Também, eu lhe digo: Você é Pedro, e sobre esta rocha construirei a minha congregação, e os portões da Sepultura não a vencerão.
+
+[TIP]
+====
+- *Você é Pedro, e sobre esta rocha*: Em grego, esse trecho contém duas palavras parecidas: pétros e pétra. A palavra pétros é masculina e significa “uma pedra; um pedaço de rocha”. Aqui, ela é usada como o nome “Pedro”, a forma grega do nome que Jesus deu a Simão. (Jo 1:42) Já a palavra pétra, traduzida aqui como “rocha”, é feminina e pode se referir a uma camada de rocha, um penhasco ou um rochedo, e não apenas um pedaço de rocha. Essa palavra grega aparece também em Mt 7:24, 25; 27:60; Lu 6:48; 8:6; Ro 9:33; 1Co 10:4 e 1Pe 2:8. O próprio Pedro não achava que era a rocha sobre a qual Jesus construiria sua congregação. Isso fica claro em 1Pe 2:4-8, onde Pedro reconheceu que Jesus era a prometida “pedra angular de alicerce” que Deus escolheu. Além disso, o apóstolo Paulo também se referiu a Jesus como “alicerce” e ‘a rocha espiritual’. (1Co 3:11; 10:4) Assim, tudo indica que Jesus estava fazendo aqui um jogo de palavras. É como se ele dissesse: ‘Você, a quem eu dei o nome de Pedro, um pedaço de rocha, conseguiu identificar que eu sou o Cristo, “esta rocha”, o alicerce da congregação cristã.’
+- *congregação*: Esta é a primeira vez que aparece a palavra grega ekklesía. Ela é formada por duas palavras gregas: ek, que significa “para fora”, e kaléo, que significa “chamar”. Ekklesía se refere a um grupo de pessoas convocadas ou reunidas para determinado objetivo ou atividade. (Veja o Glossário, “Congregação”.) Neste versículo, Jesus predisse a ‘construção’, ou formação, da congregação dos cristãos ungidos. Ela seria uma “casa espiritual”, e os cristãos ungidos são comparados a “pedras viventes”. (1Pe 2:4, 5) A palavra grega ekklesía é bastante usada na Septuaginta como equivalente da palavra hebraica qahál, que também é traduzida como “congregação”. Essa palavra hebraica muitas vezes se refere a toda a nação de Israel. (De 23:3; 31:30) O texto de At 7:38 diz que os israelitas que saíram do Egito formavam uma “congregação”. Do mesmo modo, os cristãos foram ‘chamados da escuridão’ e ‘escolhidos do mundo’, e formam a “congregação de Deus”. — 1Pe 2:9; Jo 15:19; 1Co 1:2.
+- *Sepultura*: Ou: “Hades”. Ou seja, o lugar simbólico (ou a condição) em que estão os mortos em geral. (Veja o Glossário, “Sepultura”.) A Bíblia fala que os mortos estão como que presos atrás “dos portões da morte” (Sal 107:18) e dos “portões da Sepultura” (Is 38:10). Jesus prometeu que a Sepultura seria derrotada, indicando que “os portões” dela seriam abertos para libertar os mortos por meio da ressurreição. E, quando ele foi ressuscitado, isso confirmou que sua promessa ia se cumprir. (Mt 16:21) A Sepultura nunca vai vencer a congregação, mantendo seus membros presos para sempre, porque a rocha de alicerce da congregação é Jesus, e ele tem o poder de libertá-los da morte. — At 2:31; Ap 1:18; 20:13, 14.
+====
+
+[[v40-16-19]]
+
+^<<v40-16-19,19>>^ Eu lhe darei as chaves do Reino dos céus, e tudo o que você amarrar na terra, já terá sido amarrado nos céus, e tudo o que você soltar na terra, já terá sido solto nos céus.”
+
+[TIP]
+====
+- *chaves do Reino dos céus*: Na Bíblia, aqueles que recebiam uma chave (literal ou simbólica) recebiam certo grau de autoridade. (1Cr 9:26, 27; Is 22:20-22) Por isso, a palavra “chave” passou a representar autoridade e responsabilidade. Pedro recebeu de Jesus as “chaves do Reino” e usou essas chaves quando abriu aos judeus (At 2:22-41), aos samaritanos (At 8:14-17) e às pessoas de outras nações (At 10:34-38) a oportunidade de serem ungidos com espírito santo e de terem a esperança de entrar no Reino dos céus.
+- *amarrar . . . soltar*: Ou: “trancar . . . destrancar”. Pelo visto, as palavras “amarrar” e “soltar” se referem a proibir ou permitir alguma coisa. — Veja também a nota de estudo em Mt 18:18.
+- *já terá sido amarrado . . . já terá sido solto*: A construção verbal grega usada aqui é incomum (futuro do verbo grego para “ser” usado junto com o particípio perfeito passivo dos verbos gregos para “amarrar” e “soltar”). Essa construção verbal indica que Pedro só amarraria ou soltaria coisas “na terra” depois de elas terem sido amarradas ou soltas “nos céus”, não antes. — Veja também a nota de estudo em Mt 18:18.
+====
+
+[[v40-16-20]]
+
+^<<v40-16-20,20>>^ Então, ele ordenou com firmeza aos discípulos que não dissessem a ninguém que ele era o Cristo.
+
+[TIP]
+====
+- *o Cristo*: Veja a nota de estudo em Mt 16:16.
+====
+
+[[v40-16-21]]
+
+^<<v40-16-21,21>>^ Daquele tempo em diante, Jesus começou a explicar aos seus discípulos que ele tinha de ir a Jerusalém e sofrer muitas coisas da parte dos anciãos, dos principais sacerdotes e dos escribas, e que tinha de ser morto e no terceiro dia ser levantado.
+
+[TIP]
+====
+- *Jesus*: Alguns poucos manuscritos bem antigos dizem “Jesus Cristo”.
+- *anciãos*: Lit.: “homens idosos”. Na Bíblia, a palavra grega presbýteros se refere principalmente a uma pessoa que tem autoridade e responsabilidade numa comunidade ou nação. Embora essa palavra possa ser usada às vezes para indicar idade (como acontece em Lu 15:25; At 2:17), ela não se refere apenas a quem é idoso. Neste versículo, a palavra “anciãos” se refere a homens de autoridade entre os judeus. Muitas vezes eles são mencionados junto com outros dois grupos: os principais sacerdotes e os escribas. O Sinédrio era formado por homens desses três grupos. — Mt 21:23; 26:3, 47, 57; 27:1, 41; 28:12; veja o Glossário, “Ancião; Homem idoso”.
+- *principais sacerdotes*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+- *escribas*: Veja a nota de estudo em Mt 2:4 e o Glossário.
+====
+
+[[v40-16-22]]
+
+^<<v40-16-22,22>>^ Em vista disso, Pedro o levou à parte e começou a censurá-lo, dizendo: “Tenha compaixão de si mesmo, Senhor! Isso de modo algum lhe acontecerá.”
+
+[[v40-16-23]]
+
+^<<v40-16-23,23>>^ Mas ele virou as costas para Pedro e lhe disse:^&#42;1^ “Para trás de mim, Satanás! Você é uma pedra de tropeço para mim, porque não tem os pensamentos de Deus, mas os de homens.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “deu meia-volta e disse a Pedro”.
+. Ou: “não tem a mente de Deus, mas a de humanos”.
+====
+
+[TIP]
+====
+- *Para trás de mim*: Nessa ocasião, Jesus censurou Pedro de modo firme. (Mr 8:33) Jesus não aceitaria que nada o impedisse de cumprir a vontade de seu Pai. Algumas obras de referência definem a expressão idiomática usada aqui como: “Saia da minha frente!”, e algumas Bíblias a traduzem como “Afaste-se de mim”. Essas palavras também podem ter lembrado Pedro de que, como seguidor de Jesus, seu papel era apoiar o seu Mestre, em vez de ser uma pedra de tropeço, ou seja, um obstáculo no caminho dele.
+- *Satanás*: A palavra hebraica satán significa “opositor”. Pelo visto, quando Jesus chamou Pedro de “Satanás”, ele queria dizer que Pedro estava agindo como um opositor. Jesus talvez quisesse dar a entender que, naquele momento, Pedro se deixou influenciar por Satanás.
+- *pedra de tropeço*: Veja a nota de estudo em Mt 18:7.
+====
+
+[[v40-16-24]]
+
+^<<v40-16-24,24>>^ Jesus disse então aos seus discípulos: “Se alguém quer ser meu seguidor, negue a si mesmo, apanhe sua estaca de tortura e siga-me sempre.
+
+[TIP]
+====
+- *negue a si mesmo*: Ou: “renuncie seus direitos sobre si mesmo”. A expressão grega usada aqui indica que a pessoa deve estar disposta a abrir mão completamente de sua vontade e entregar o controle de sua vida a Deus. Essa expressão também pode ser traduzida como “diga não a si mesmo”, porque seguir a Cristo pode envolver dizer não a desejos pessoais, ambições ou preferências. (2Co 5:14, 15) Mateus usa o mesmo verbo grego traduzido como “negar” quando fala sobre Pedro negar que conhecia Jesus. — Mt 26:34, 35, 75.
+- *estaca de tortura*: Ou: “estaca de execução”. No grego clássico, staurós se refere principalmente a uma estaca ou poste. Quando essa palavra é usada em sentido figurado, pode significar o que uma pessoa enfrenta por ser um discípulo de Cristo: sofrimento, vergonha, tortura ou até mesmo a morte. — Veja o Glossário.
+====
+
+[[v40-16-25]]
+
+^<<v40-16-25,25>>^ Pois quem quiser salvar a sua vida a perderá, mas quem perder a sua vida por minha causa a achará.
+
+[TIP]
+====
+- *vida*: Ou: “alma”. — Veja o Glossário, “Alma”.
+====
+
+[[v40-16-26]]
+
+^<<v40-16-26,26>>^ Realmente, de que adianta o homem ganhar o mundo inteiro, se ele perder a sua vida? Ou o que o homem dará em troca da sua vida?
+
+[TIP]
+====
+- *vida*: Veja a nota de estudo em Mt 16:25 e o Glossário, “Alma”.
+====
+
+[[v40-16-27]]
+
+^<<v40-16-27,27>>^ Porque o Filho do Homem há de vir na glória do seu Pai, com seus anjos, e então retribuirá^&#42;1^ a cada um segundo o seu comportamento.
+
+[NOTE]
+====
+. Ou: “recompensará”.
+====
+
+[[v40-16-28]]
+
+^<<v40-16-28,28>>^ Digo-lhes a verdade: Há alguns dos que estão aqui que de modo algum provarão a morte antes de verem o Filho do Homem vir no seu Reino.”
+
+[TIP]
+====
+- *Digo-lhes a verdade*: Veja a nota de estudo em Mt 5:18.
+====
+
+'''
+
+xref:040-mateus/040-mateus-015.adoc#v40-15-0[&#60; Capítulo Anterior] | <<v40-16-0,Topo>> | xref:040-mateus/040-mateus-017.adoc#v40-17-0[Próximo Capítulo &#62;]
